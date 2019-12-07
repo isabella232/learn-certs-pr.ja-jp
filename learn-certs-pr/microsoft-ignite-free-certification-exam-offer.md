@@ -1,6 +1,6 @@
 ---
-title: 'Microsoft Ignite および Microsoft Ignite The Tour: 無料認定試験のオファー | Microsoft Docs'
-description: 'Microsoft Ignite and Microsoft Ignite The Tour: 無料認定試験のオファー' 
+title: 'Microsoft Ignite および Microsoft Ignite The Tour: 無料検定試験ー特典 | Microsoft Docs'
+description: 'Microsoft Ignite and Microsoft Ignite The Tour: 無料検定試験ー特典' 
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -9,42 +9,41 @@ ms.workload: NA
 ms.date: 11/04/2019
 ms.author: micsullivan
 ---
-# Microsoft Ignite および Microsoft Ignite The Tour: 無料認定試験のオファー
+# Microsoft Ignite および Microsoft Ignite The Tour: 無料検定試験ー特典
 
-![無料認定試験オファーバナー](images/free-certification-exam-offer-banner.png "無料認定試験オファーバナー")
+![無料検定試験オファーバナー](images/free-certification-exam-offer-banner.png "無料検定試験オファーバナー")
 
-Microsoft Ignite 2019またはThe Tour 2019-2020にご参加いただき、ありがとうございます。 ご出席のみなさまは、例外はありますが、スキルアップを継続して、経営者または同僚に対してご自身の技術的専門知識を証明することの一助になるための認定試験を無料で受けることになります。
+Microsoft Ignite 2019またはThe Tour 2019-2020にご参加いただき、ありがとうございます。 ご参加のみなさまは、スキルアップを継続し、経営者同僚に対してご自身の技術的専門知識を証明する一助となる検定試験を無料で受けることができます（例外があります）。
 
-## オファーの詳細
+## 特典の詳細
 
-Microsoft Ignite 2019またはMicrosoft Ignite The Tour 2019-2020イベントに参加された方は、Microsoft fundamentals、ロールベース、または専門認定の試験のうち1つを無料で受験する資格が得られます。無料試験オファーは、お客様が出席されているイベントの始めから実行可能であり、イベントの最終日から180日間有効です。
- その期間内に試験を受けるご予定がない場合は、このごオファーは履行できないことになります。  
+Microsoft Ignite 2019またはMicrosoft Ignite The Tour 2019-2020イベントに参加された方は、Microsoft fundamentals、ロールベース、または専門認定の試験の中から1つを無料で受験する特典を得られます。無料試験の特典は、お客様が出席されているイベント開始時から、イベント最終日後180日間有効です。 その期間内に試験を予約されない場合は、この特典はご利用いただけません。
 
 ## 無料試験の申込み方法
 
-これはデジタル・オファーですので、試験をオンラインで予定する際は、お客様がイベント登録(下記のステップ7を参照)に使用した同じソーシャル・アカウントを使用することにより、お客様のイベント参加を確認させていただきます。 グループ登録された場合は、イベント登録プロフィールに記入されていることを確認してください。MS Ignite 2019 参加者はこちらへ進みます [https://register.ignite.microsoft.com/](https://register.ignite.microsoft.com/); The Tour 参加者はこちらへ進みます [https://register.msignite-the-tour.microsoft.com/cityname](https://register.msignite-the-tour.microsoft.com/cityname), たとえば、お客様のイベント・プロフィールに記入するためには [https://register.msignite-the-tour.microsoft.com/london](https://register.msignite-the-tour.microsoft.com/london)
+これはデジタル・オファーです。試験をオンラインで予定する際、お客様がイベント登録(下記のステップ7を参照)に使用した同じソーシャル・アカウントを使用いただくことで、お客様のイベント参加を確認いたします。グループ登録された場合は、イベント登録プロフィールに記入されていることを確認してください。お客様のイベント・プロフィールの記入方法　MS Ignite 2019 参加者はこちらをご参照ください： [https://register.ignite.microsoft.com/](https://register.ignite.microsoft.com/) The Tour 参加者はこちらをご参照ください：[https://register.msignite-the-tour.microsoft.com/](https://register.msignite-the-tour.microsoft.com/)cityname（例：Londonの場合　[https://register.msignite-the-tour.microsoft.com/london](https://register.msignite-the-tour.microsoft.com/london)
 
-ステップバイステップのスクリーンショットにつては、[こちらを参照](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4i3R4).
+ステップバイステップのスクリーンショットにつては[こちらを参照](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4i3R4)　ください。
 
 ***無料試験の登録:***
 
-1. 下の一覧表にある資格認定試験のいずれかを選択します。
-2. ご希望の試験詳細ページにアクセスしたならば、オンライン登録手続を始めるために「試験予定」ボタンをクリックします。
-3. マイクロソフト認定プロフィールに関連したマイクロソフト・アカウントでサインインします。マイクロソフト認定プロフィールがない場合は、それを作成する必要があります。
-4. マイクロソフト認定プロフィールにログインされたならば、お客様の認定プロフィールの詳細が正確であることを確認します。
-5. 認定プロフィールページの下部にある「保存して続けるボタン」をクリックして、「試験割引き」ページに移ります。
-6. 「試験割引き」ページにおいて参加したイベントを選択し、「アカウントを確認する」ボタンをクリックします。
-7. アカウントを確認する際、お客様は、イベント登録に使用したのと同じソーシャル・アカウントを使用していることを確認する必要があります。(注意:)イベント登録にマイクロソフト・アカウントを使用した場合、試験を予定するための認定プロフィールにログインするためには、同じマイクロソフト・アカウントを使用する必要があります。この結果、2つの認定プロフィールを持つことになった場合、認定試験を終了した後、プロフィールを統合するために[マイクロソフト認定サポート・フォーラム](https://trainingsupport.microsoft.com/en-us/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1)までご連絡ください。
-8. 以下の画面のステップに従い、試験を予定するために必要な詳細を提供します。
-9. チェックアウト中に、総支払金額が0.00ドルであることを確認し、注文を提出します。 注意: 「私の注文」ページには、ページの最後に次の割引きが表示れているはずです:  ***Microsoft Ignite 2019-2020 100% 割引き***. 試験予定表における前のページには、正価が表示されています。
+1. 下の一覧表にある資格検定試験のいずれかを選択します。
+2. ご希望の試験詳細ページが開いたら、オンライン登録手続を始めるために「試験のスケジュール設定予定」ボタンをクリックし、オンライン登録手続きを開始します。
+3. Microsoft Certification profileに紐づけされたマイクロソフト・アカウントでサインインします。Microsoft Certification profileない場合は、それを作成する必要があります。
+4. Microsoft Certification profileにログインされたならば、お客様の認定プロフィールの詳細が正確であることを確認します。
+5. 認定プロフィールページの下部にある「Save & continue」をクリックして、「Verify exam discount eligibility（試験割引き）」ページに移ります。
+6. 「Verify exam discount eligibility」ページで参加したイベントを選択し、「Verfy account（アカウントを確認する）」ボタンをクリックします。
+7. アカウントを確認する際、お客様は、イベント登録に使用したのと同じソーシャル・アカウントを使用していることを確認する必要があります。(注意:)イベント登録にマイクロソフト・アカウントを使用した場合、試験を予約予定するための認定プロフィールにログインするためには、同じマイクロソフト・アカウントを使用する必要があります。この結果、2つの認定プロフィールを持つことになった場合、認定試験を終了した後、プロフィールを統合するために[マイクロソフト認定サポート・フォーラム](https://trainingsupport.microsoft.com/en-us/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1)までご連絡ください。
+8. 以下の画面のステップに従い、試験を予約予定するために必要な詳細を入力提供します。
+9. チェックアウト中に、総支払金額が0.00ドルであることを確認し、予約を完了しますします。 注意: 「My Order（私の注文）」ページには、ページの最後に次の割引きが表示されているはずですのでご確認ください:  ***Microsoft Ignite 2019-2020 100% 割引き***. 試験予約プロセスでこの前のページでは、正価が表示されていました。
 
 ***認定サポート：***
 
-試験を予定する問題については、[マイクロソフト認定サポート・フォーラム](https://trainingsupport.microsoft.com/en-us/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1)のヘルプを参照してください。フォーラムのモデレーターが 1 営業日以内に返信します。
+試験を予定する問題については、[マイクロソフト検定サポート・フォーラム](https://trainingsupport.microsoft.com/en-us/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1)のヘルプを参照してください。フォーラムのモデレーターが 1 営業日以内に返信します。
 
-## このオファーの資格試験
+## この特典の対象となる資格試験
 
-このオファーには、Microsoft fundamentals、ロールベースおよび専門認定の試験が含まれます。資格試験は以下のリストの通りです。
+この特典は、Microsoft fundamentals、ロールベースおよび専門認定の試験が対象となります含まれます。対象の資格試験は以下のリストの通りです。
 
 | 副産物 | 試験 |
 | --- | --- |
@@ -54,16 +53,16 @@ Microsoft Ignite 2019またはMicrosoft Ignite The Tour 2019-2020イベントに
 
 ## 契約条件
 
-- この試験オファーは、Microsoft Ignite 2019またはMicrosoft Ignite The Tour 2019-2020イベントに参加した有資格の個人が利用できます。
-- この試験オファーは1つのマイクロソフト認定試験を受けるために復活されるもので、公認のピアソンVue試験センターで実施されるか、あるいはピアソンVueのオンライン・プロトコル・サイトによって実施されます。
-- この試験オファー、試験固有のもので、選択したマイクロソフトの試験にのみ復活可能です。
-- この試験オファーは、お客様が出席されているイベントの始めから利用可能であり、イベントの最終日から180日間に有効です。
-- この試験オファーは、お客様に対して有効期間期日までに1つの試験を登録する権利を与えるものです。
-- この試験オファーの有効期間は、いかなる条件でも延長することができません。
-- この試験オファーは、以下のどちらかでも有効または復活できません：1)政府高官;あるいは2)香港、台湾、スイス、イスラエル、ドイツあるいはスウェーデンの居住者。 *このオファーは政府高官、あるいはマイクロソフト・ポリシーおよび現地法に基づき許容の限度を超えているとされる国々の居住者は利用できません。
-- この試験オファーは、一度だけ回復される場合があります。
-- この試験オファーは、キャッシュ、クレジットあるいは返金と回復または交換されない場合があります。
-- この試験オファーは、譲渡不可であり、任意の方法で変更、改訂、または譲渡した場合は無効となります。
-- この試験オファーは、Microsoft Ignite 2019またはMicrosoft Ignite The Tour 2019-2020イベントに登録・参加した有資格の個人のみに提供されます。
+- この試験特典はは、Microsoft Ignite 2019またはMicrosoft Ignite The Tour 2019-2020イベントに参加したという条件にあてはまる個人が利用できます。
+- この試験特典はは1つのマイクロソフト認定試験を受けるために利用でき、試験は公認のピアソンVue試験センター、もしくはピアソンVueのオンライン・プロトコル・サイト（日本では未対応）によって実施されます。
+- この試験特典、試験のみに有効で固、かつ選択したマイクロソフトの試験にのみ利用復活可能です。
+- この試験特典は、お客様が出席されているイベントの始めから利用可能で、イベント最終日後180日間に有効です。
+- この試験特典では、お客様は有効期間内に1つの試験を一つ登録することができます。
+- この試験特典の有効期間は、いかなる条件でも延長することができません。
+- この試験特典は、以下のいずれにおいても無効であり利用できません：1)政府高官;あるいは2)香港、台湾、スイス、イスラエル、ドイツあるいはスウェーデンの居住者。 *この特典は政府高官、あるいはマイクロソフト・ポリシーおよび現地法に基づき対象外となる国の居住者は利用できません。
+- この試験特典は、通常一度だけ利用することができます。
+- この試験特典は、キャッシュ、クレジットあるいは返金と回復または交換されない場合があります。
+- この試験特典は、譲渡不可であり、どんな方法であっても変更、改訂、または譲渡した場合は無効となります。
+- この試験特典は、Microsoft Ignite 2019またはMicrosoft Ignite The Tour 2019-2020イベントに登録・参加したという条件にあてはまるの個人のみに提供されます。
 
-追加情報については、完全版[マイクロソフトの利用規約](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1)をご参照ください
+追加情報については、完全版[のマイクロソフトの利用規約](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1)をご参照ください
