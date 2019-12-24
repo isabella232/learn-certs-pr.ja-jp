@@ -41,7 +41,7 @@ Microsoftのトレーニングおよび認定資格ソリューションは、�
   * 公式コースウェアの割引（教育機関でのみ利用可能）
   * Microsoftブランドおよび公式認定との関連付けを促進するためのマーケティングリソース
 
-  大学およびキャリア準備教育プログラムは、サブスクリプションベースのメンバーシップとして、すべての認定教育機関で利用できます。[Microsoft Imagine Academyプログラム](https://www.microsoft.com/ja-jp/education/imagine-academy/default.aspx) に参加するには、特定の [基準と要件](https：//www.microsoft.com/ja-jp/education/imagine-academy/become-a-member/default.aspx) を維持する必要があります。
+  大学およびキャリア準備教育プログラムは、サブスクリプションベースのメンバーシップとして、すべての認定教育機関で利用できます。[Microsoft Imagine Academyプログラム](https://www.microsoft.com/ja-jp/education/imagine-academy/default.aspx) に参加するには、特定の [基準と要件](https://www.microsoft.com/ja-jp/education/imagine-academy/become-a-member/default.aspx) を維持する必要があります。
 
 * 教育機関向けの Microsoft 認定資格試験パック
 
