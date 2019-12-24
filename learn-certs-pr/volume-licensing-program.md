@@ -43,7 +43,7 @@ Microsoftのトレーニングおよび認定資格ソリューションは、�
 
   大学およびキャリア準備教育プログラムは、サブスクリプションベースのメンバーシップとして、すべての認定教育機関で利用できます。[Microsoft Imagine Academyプログラム](https://www.microsoft.com/ja-jp/education/imagine-academy/default.aspx) に参加するには、特定の [基準と要件](https://www.microsoft.com/ja-jp/education/imagine-academy/become-a-member/default.aspx) を維持する必要があります。
 
-* 教育機関向けの Microsoft 認定資格試験パック
+* 教育機関向けの Microsoft 認定資格試験パック 
 
   Microsoft 認定資格を使用すると、学生のテクノロジースキルを検証し、差別化を促進し、教育とキャリアの展望を高めることができます。さらに、Microsoft 認定資格を使用して、教員およびスタッフの専門能力開発の目標達成をサポートできます。Microsoft Academic ボリュームライセンス契約に追加された Microsoft Imagine Academy サブスクリプションにより、完全な技術教育ソリューションを取得できます。
 
