@@ -89,9 +89,9 @@ Microsoftのトレーニングおよび認定資格ソリューションは、�
 
 * お問い合わせ
 
-  Microsoft のトレーニングおよび認定資格製品の使用を開始するには、ボリュームライセンス アカウント マネージャーにお問い合わせください。価格設定、ライセンス、および早期割引についての質問については、[MSLVLPurchase@microsoft.com](mailto：MSLVLPurchase@microsoft.com) に電子メールメッセージを送信してください。
+  Microsoft のトレーニングおよび認定資格製品の使用を開始するには、ボリュームライセンス アカウント マネージャーにお問い合わせください。価格設定、ライセンス、および早期割引についての質問については、[MSLVLPurchase@microsoft.com](mailto:MSLVLPurchase@microsoft.com) に電子メールメッセージを送信してください。
 
-  [Microsoft トレーニングおよび認定資格ソリューションを追加するには、営業担当者にお問い合わせください](mailto：mslvlhlp@microsoft.com)
+  [Microsoft トレーニングおよび認定資格ソリューションを追加するには、営業担当者にお問い合わせください](mailto:mslvlhlp@microsoft.com)
 
 ## よくある質問
 
@@ -142,7 +142,7 @@ Microsoft のトレーニングおよび認定資格資格ソリューション�
 
 **Q: Microsoft トレーニングおよび認定資格ソリューション パッケージを入手するにはどうすればよいですか？**
 
-Microsoft トレーニングおよび認定資格ソリューションは、Microsoft ボリュームライセンス オンライン サービスを通じて、企業および一部のお客様のみご利用いただけます。各パッケージは、User Subscription License (USL) や Add-on Subscription License (ASL) の必要のない、Service Subscription License (SSL) として提供されます。[価格情報については、営業担当者にお問い合わせください](mailto：mslvlhlp@microsoft.com)。
+Microsoft トレーニングおよび認定資格ソリューションは、Microsoft ボリュームライセンス オンライン サービスを通じて、企業および一部のお客様のみご利用いただけます。各パッケージは、User Subscription License (USL) や Add-on Subscription License (ASL) の必要のない、Service Subscription License (SSL) として提供されます。[価格情報については、営業担当者にお問い合わせください](mailto:mslvlhlp@microsoft.com)。
 
 **Q: 価格設定とサブスクリプション モデルに関して、Microsoft トレーニングおよび認定資格ソリューションとその他のボリュームライセンス オンライン サービスとの違いは何ですか？**
 
@@ -154,7 +154,7 @@ Microsoft トレーニングおよび認定資格ソリューションは、1階
 
 組織が取得するコードが多いほど、受け取るボリューム ディスカウントは大きくなります。次のリソースのいずれかを使用して、組織のトレーニング ニーズを決定し、会社のビジネス目標に合わせた学習計画を作成することをお勧めします。
 
-- [Microsoft トレーニングおよび認定資格ソリューション ボリュームライセンス ヘルプにメールを送信する](mailto：mslvlhlp@microsoft.com)
+- [Microsoft トレーニングおよび認定資格ソリューション ボリュームライセンス ヘルプにメールを送信する](mailto:mslvlhlp@microsoft.com)
 - [Microsoft トレーニングおよび認定資格ソリューションを利用するためにローカルの Microsoft 認定パートナーを検索する](https://www.microsoft.com/ja-jp/learning/find-partner.aspx)
 
 **Q: 試験バウチャーをいくつ注文すればよいですか？**
