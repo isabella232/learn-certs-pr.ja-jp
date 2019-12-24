@@ -42,7 +42,7 @@ relatedCertifications:
     uid: certification.azure-fundamentals
 resources:
 - title: 認定資格の学習経路
-  description: 'Microsoft 認定資格のトレーニングリソースを探す: Azure Fundamentals
+  description: 'Microsoft 認定資格のトレーニングリソースを探す: Azure Fundamentals'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
