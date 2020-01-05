@@ -19,7 +19,7 @@ summary: |-
 subTitle: 'この試験では、ソリューションの要求の分析、ソリューションの設計、AIモデルのソリューションへの統合、ソリューションの展開および管理という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fai-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AI-100&examname=試験%20AI-100:%20Azure%20AI%20ソリューションのデザインおよび実装&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fai-100
 locales:
 - en
 - ja

@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-103
 displayName: AZ-103
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>この試験の内容は、2019 年 12 月 4 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>この試験の内容は、2019 年 12 月 4 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
 
   2019年5月1日の開始に当たり、試験AZ-103に合格するだけで当資格を得られるようになりました。新試験はAZ-100およびAZ-101(2019年5月1日廃止)がカバーしていたスキルを合わせたものとなり、多くの部分が AZ-100から来ています。
 
@@ -17,7 +17,7 @@ subTitle: '2019年5月1日の開始に当たり、試験AZ-103に合格するだ
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUR
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-103&examname=Exam%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-103
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-103&examname=試験%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-103
 locales:
 - en
 - ja

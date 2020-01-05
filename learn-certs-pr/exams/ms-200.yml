@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-200
 displayName: MS-200
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>この試験の内容は、2019 年 12 月 4 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>この試験の内容は、2019 年 12 月 4 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
 
   この試験の受験者は、オンプレミスと Cloudエンタープライズ環境における受信者、パーミッション、メール保護、メールフロー、パブリックフォルダをデプロイし、設定し、管理し、トラブルシューティングし、監視するメッセージング管理者です。
 
@@ -19,7 +19,7 @@ subTitle: 'この試験では、次の一覧に示す技術タスクを遂行す
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-200&examname=Exam%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fms-200
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-200&examname=試験%20MS-200:%20メッセージングプラットフォームの設計と設定&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fms-200
 locales:
 - en
 levels:

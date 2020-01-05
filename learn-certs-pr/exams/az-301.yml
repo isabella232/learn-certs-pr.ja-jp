@@ -6,14 +6,14 @@ metadata:
 uid: exam.az-301
 displayName: AZ-301
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>この試験の内容は、2019 年 12 月 4 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>この試験の内容は、2019 年 12 月 4 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
 
   この試験の受験者は、ビジネス上の要求をセキュアで拡張可能な信頼できるソリューションに置き換えて関係者へアドバイスを行う Azure ソリューションアーキテクトです。受験者は、ネットワーキング、仮想化、アイデンティティ、セキュリティ、ビジネス継続性、災害リカバリ、データ管理、予算管理、ガバナンスを含む IT 操作の各種方面についての経験と知識を卓越して持っている必要があります。このロールには、各エリアがソリューション全体にどのように影響するかの判断の管理が求められます。受験者は Azure 管理、Azure 開発、DevOps の卓越性の内の少なくとも一つのドメインでのエキスパート レベルのスキルを持っている必要があります。
 subTitle: 'この試験では、負荷分散必須要件の特定、アイデンティティとセキュリティの設計、データプラットフォームソリューションの設計、ビジネス継続性戦略の設計、デプロイメント・マイグレーション・インテグレーションの設計、インフラストラクチャ戦略の設計、という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-301?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-301&examname=Exam%20AZ-301:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-301
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-301&examname=試験%20AZ-301:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-301
 locales:
 - en
 - ja
