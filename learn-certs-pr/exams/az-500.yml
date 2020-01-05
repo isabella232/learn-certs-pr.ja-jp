@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>この試験の内容は、2019 年 12 月 4 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>この試験の内容は、2019 年 12 月 4 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
 
   この試験の受験者は、セキュリティ管理を実施し、セキュリティ体制を維持し、ID およびアクセスを管理し、データ、アプリケーション、およびネットワークを保護する Microsoft Azure セキュリティ エンジニアです。候補者は、さまざまなセキュリティツールを使用して脆弱性を特定および修正し、脅威から保護し、セキュリティインシデントのエスカレーションに対応します。Microsoft Azure のセキュリティ エンジニアとして、受験者はクラウドベースの管理やセキュリティを専門とする大規模チームの一員として機能することが多く、エンドツーエンドのインフラストラクチャの一部としてハイブリッド環境を保護することもあります。
 
@@ -15,7 +15,7 @@ subTitle: 'この試験では、ID とアクセスの管理、プラットフォ
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-500
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-500&examname=試験%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-500
 locales:
 - en
 - ja
