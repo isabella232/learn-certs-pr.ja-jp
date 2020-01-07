@@ -1069,7 +1069,7 @@ Microsoft のコンテンツを扱う「ブレイン ダンプ」サイトを見
 
 **特別な設備のリクエスト方法は？**
 
-試験の受験時に特別な機器やその他の特別な設備が必要な場合は、「Pearson VUE」を通じて「合理的な調整要求システム」[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)を使用して特別な設備を要求できます。詳細については、上記の受験時の特別な設備] (＃special-accommodations-when-taking-exams)セクションをご覧ください。
+試験の受験時に特別な機器やその他の特別な設備が必要な場合は、「Pearson VUE」を通じて「合理的な調整要求システム」[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)を使用して特別な設備を要求できます。詳細については、上記の受験時の特別な設備 セクションをご覧ください。
 
 **なぜドキュメントを提出する必要があるのですか？**
 
