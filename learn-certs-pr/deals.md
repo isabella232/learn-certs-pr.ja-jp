@@ -45,7 +45,7 @@ ms.author: micsullivan
 
 [**Learn more**](/learn/certifications/certification-exam-policies)
 
-## <a name="frequently-ask-questions"> よく寄せられる質問
+## <a name="frequently-ask-questions"></a> よく寄せられる質問
 
 **Q. Exam Replay とは何ですか？**
 
