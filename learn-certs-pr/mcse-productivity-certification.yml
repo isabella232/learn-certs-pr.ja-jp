@@ -39,18 +39,18 @@ exams:
 - uid: exam.70-339
 - uid: exam.70-333
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: トレーニングおよび認定ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 重測
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 試験リプレイ
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
-- title: 支持認證
-  description: 透過Microsoft認證支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 資格のサポート
+  description: Microsoft Certificate サポート フォーラムのサポートを受ける。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
-- title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+- title: 認定ダッシュボード
+  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
   href: https://www.microsoft.com/ja-jp/learning/dashboard.aspx

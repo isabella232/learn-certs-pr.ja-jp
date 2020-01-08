@@ -13,11 +13,11 @@ ms.author: micsullivan
 
 Microsoft は、世界中のパートナーやお客様から、最高品質の試験と認定を提供することを期待されています。次のような、Microsoft 認定資格試験のポリシーが作成されています:
 
-## セキュリティと再受験に関するポリシー
+## <a name="security-policies"></a> セキュリティと再受験に関するポリシー
 
 Microsoft では、Microsoft 認証 Professional (MCP) 資格試験におけるセキュリティ領域に関連して、固有のポリシーを規定しています。
 
-受験禁止措置
+### 受験禁止措置
 
 受験者がテスト規則、試験のポリシー、または試験契約 (NDA) の条件に違反した場合、または Microsoft Certification Program のセキュリティと整合性を低下させる不正行為に関与した場合、受験者は今後の Microsoft 認定資格試験を一切受けられなくなる可能性があります。また、受験者は、Microsoft Certification Program の認定、スコア、認定資格を取り消される場合があります。
 
@@ -59,7 +59,7 @@ Microsoft では、Microsoft 認証 Professional (MCP) 資格試験における�
         - Name
         - Email
         - Exam Number
-    4. 試験で合格スコアを獲得した受験者は、同じ試験を再び受けることはできません。Microsoft は、一部の試験を再受験可能にする権利を留保します。[下記](https://www.microsoft.com/en-us/learning/exam-certification-retakes.aspx)をクリックすると、年間で再受験可能な試験のリストを確認できます 。
+    4. 試験で合格スコアを獲得した受験者は、同じ試験を再び受けることはできません。Microsoft は、一部の試験を再受験可能にする権利を留保します。[下記](https://www.microsoft.com/ja-jp/learning/exam-certification-retakes.aspx)をクリックすると、年間で再受験可能な試験のリストを確認できます 。
 
 2. Microsoft Technology Associate (MTA) および Microsoft 認証 Educator (MCE) 資格試験の再受験ポリシー
     1. 初回の試験で合格スコアを獲得できなかった受験者は、24 時間たたないと再受験できません。
@@ -80,7 +80,7 @@ Microsoft では、Microsoft 認証 Professional (MCP) 資格試験における�
     2.このポリシーは、全般的な再受験ポリシーよりも優先されます。
 5. 各再受験ポリシーの例外
     1.Microsoft では、特定の試験に対して例外を規定している場合があります。
-    2.Microsoft は、一部の試験を再受験可能にする権利を留保します。毎年再受験できる試験の完全なリストについては、[こちら](https://www.microsoft.com/en-us/learning/exam-certification-retakes.aspx)をクリックしてください 。
+    2.Microsoft は、一部の試験を再受験可能にする権利を留保します。毎年再受験できる試験の完全なリストについては、[こちら](https://www.microsoft.com/ja-jp/learning/exam-certification-retakes.aspx)をクリックしてください 。
 
 ### セキュリティ上の理由による試験センターの閉鎖
 
@@ -518,7 +518,7 @@ MPP のプロセスについてさらに質問がある場合は、MPP[FAQ](http
 
 ダウンロード: [Transcript Service Application](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## Microsoft 認定資格試験項目についてのお問い合わせ
+## <a name="policies-5"></a> Microsoft 認定資格試験項目についてのお問い合わせ
 
 [各試験問題は慎重に検討されます](https://www.microsoft.com/ja-jp/learning/certification-exams.aspx)技術的正確性、明確性、および関連性について各質問を検討する技術および職務の専門家のパネルによる。Microsoft 認定資格試験の特定の質問が正確でないと思われる場合、次に説明する手順に従って、その項目の審査をリクエストできます。試験受験から 30 日以内に試験項目問い合わせフォームを送信する必要があります。
 
@@ -554,7 +554,7 @@ Microsoft 認定資格試験の有効性および妥当性を可能な限り高�
 
 試験が母国語で利用できないため、特別な機器が必要な場合、または試験の受験時にその他の特別な設備をリクエストする場合は、[ここ](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations)に記載されているプロセスに従って、Certiportを通じて宿泊施設をリクエストできます。
 
-### キャンセルおよび再スケジュール ポリシー：
+### <a name="cancellation-and-reschedule-policy"></a> キャンセルおよび再スケジュール ポリシー：
 
 - 試験予定日から 6 営業日以上前に試験の日程を変更した場合やキャンセルした場合、料金は発生しません。
 - 登録した試験日より 5 営業日以内のキャンセルもしくは日程変更には料金が発生します。
@@ -1069,7 +1069,7 @@ Microsoft のコンテンツを扱う「ブレイン ダンプ」サイトを見
 
 **特別な設備のリクエスト方法は？**
 
-試験の受験時に特別な機器やその他の特別な設備が必要な場合は、「Pearson VUE」を通じて「合理的な調整要求システム」[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)を使用して特別な設備を要求できます。詳細については、上記の受験時の特別な設備 セクションをご覧ください。
+試験の受験時に特別な機器やその他の特別な設備が必要な場合は、「Pearson VUE」を通じて「合理的な調整要求システム」[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)を使用して特別な設備を要求できます。詳細については、上記の受験時の特別な設備セクションをご覧ください。
 
 **なぜドキュメントを提出する必要があるのですか？**
 

@@ -29,7 +29,7 @@ Microsoft 認定トレーナーとして、パーソナライズされた [ダ�
 
 [MCT で利用できるすべての特典をご覧ください。](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
-## 要件
+## <a name="mctinfoheading-3"></a>  要件
 
 MCT プログラムは、Microsoft テクノロジのトレーニングを提供する世界中のエデュケーターを対象としています。適格な認定を保有しており、Microsoft テクノロジのトレーニングの提供に積極的に取り組むことを希望している場合は、申し込みを検討することをお勧めします。
 
