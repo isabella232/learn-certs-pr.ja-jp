@@ -1,0 +1,79 @@
+### YamlMime:Course
+title: インフラストラクチャ戦略の設計
+metadata:
+  title: 'コース AZ-400T07-A: DevOps戦略の設計'
+  description: 'コース AZ-400T07-A: DevOps戦略の設計'
+uid: course.az-400t07
+courseNumber: 'AZ-400T07-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 目標とスケジュールを共有して変革を計画します。
+- skill: プロジェクトを選択し、プロジェクト メトリックと KPI を特定します。
+- skill: チームと機敏な組織構造を作成します。
+- skill: プロジェクトの品質戦略を策定します。
+- skill: 安全な開発プラクティスとコンプライアンス ルールを計画します。
+- skill: アーティファクトを移行および統合します。
+- skill: ソース管理測定を移行および統合する
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  このコースでは、DevOps 戦略を設計するための知識とスキルを提供します。学生は、変革を計画し、プロジェクトを選択し、チーム構造を作成する方法を学びます。また、学生は品質とセキュリティ戦略を開発する方法を学びます。アーティファクトの移行と統合およびソース管理の計画についても説明します。
+  #### 聴衆プロファイル
+  このコースの学生は、DevOps プロジェクトの計画または Microsoft Azure DevOps Solutions 認定資格試験に合格することに関心があります。
+prerequisitesSection: |-
+  - Azure、バージョン管理、Agile ソフトウェア開発、およびコア ソフトウェア開発の原則に関する基本的な知識。ソフトウェアを提供する組織での経験があると役立ちます。
+  - さらに、Azure ポータルの知識だけでなく、IDE での作業経験があることをお勧めします。ただし、これらのテクノロジの技術的背景を持たないかもしれないが、文化の変化としての DevOps の実践に興味がある学生は、継続的統合の手順および説明的な説明に従うことができるはずです。
+outlineSection: |-
+  ### モジュール 1&#58; DevOps の計画
+  このモジュールでは、生徒は変換計画、プロジェクトの選択、チーム構造について学びます。
+  #### レッスン
+  - 変換計画
+  - プロジェクトの選択
+  - チーム構造
+  
+  #### ラボ &#58; Azure ボードを使用したアジャイル プランニングとポートフォリオ管理
+  
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - 目標とタイムラインを共有して変革を計画する
+  - プロジェクトを選択し、プロジェクト メトリックと KPI を特定する
+  - チームと機敏な組織構造を作成する
+
+
+  ### モジュール 2&#58; 品質とセキュリティの計画
+  このモジュールでは、安全な開発のための品質戦略と計画の策定について学習します。
+  #### レッスン
+  - Quality Strategy の計画
+  - Secure Development の計画
+
+
+  #### ラボ &#58; LaunchDarkly と AzureDevOps による機能フラグ管理
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - プロジェクトの品質戦略を策定する
+  - 安全な開発プラクティスとコンプライアンス ルールを計画する。
+
+
+  ### モジュール 3&#58; アーティファクトとツールの移行および統合
+  このモジュールでは、アーティファクトの移行と統合、およびソース管理手段の移行と統合について学習します。
+  #### レッスン
+  - Artifact の移行と統合
+  - Source Control の移行と統合
+
+
+  #### ラボ &#58; Azure Repos と Azure Pipeline の Eclipse との統合
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - アーティファクトの移行と統合
+  - ソース管理測定を移行および統合する

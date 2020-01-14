@@ -1,0 +1,79 @@
+### YamlMime:Course
+title: 'Dynamics 365:Power Platform 統合'
+metadata:
+  title: 'コース MB-200T03-A: Dynamics 365: Power Platform 統合'
+  description: 'コース MB-200T03-A: Dynamics 365: Power Platform 統合'
+uid: course.mb-200t03
+courseNumber: 'MB-200T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 主要な統合シナリオを特定する。
+- skill: 統合電子メールを設定して使用する。
+- skill: Outlook 統合を設定して使用する。
+- skill: 追加の Office 統合を設定して使用する。
+- skill: データをインポートおよびエクスポートする。
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  Microsoft Power Platform は、組織が日常業務を自動化し、ベスト プラクティスを標準化することによって業務を最適化することを支援します。このトレーニングでは、 Microsoft Dynamics 365 および Power Platform の機能の概要について説明し、その他の Microsoft Dynamics 365 および Power Platform トレーニング提供物の基盤を示します。
+  このコースでは、世界的に認められている専門家が、利用可能なさまざまな統合オプションと、それらを実際のシナリオで使用する方法について受講者に指導します。
+  
+  #### 聴衆プロファイル
+  Dynamics 365 Customer Engagement Functional Consultant は、発見の実行、要件の把握、主題の専門家および関係者の雇用、要件の翻訳、ソリューションとアプリケーションの設定を担当します。機能コンサルタントは、革新的な機能、コードレス拡張機能、アプリケーション、およびサービス統合を使用してソリューションを実行します。
+prerequisitesSection: |-
+  ビジネス アプリケーションの知識と、ビジネスに合わせてカスタマイズして実装することを望んでいる。
+outlineSection: |-
+  ### モジュール 1&#58; 統合の概要
+  このモジュールでは、 Power Platform 統合機能の基本と、電子メール統合の設定および使用方法について学習します。
+  #### レッスン
+  - 一般的なシナリオの概要
+  - 電子メール統合
+  - Outlook 統合
+  - モジュールのサマリー
+
+  このモジュールを終了すると、受講者は次のことができるようになります&#58;
+  - 一般的な統合を特定する
+  - 電子メール 統合を構成して使用する
+
+
+  ### モジュール 2&#58; Office による統合
+  このモジュールでは、 OneNote、Word、Excel など、一般的な Office 製品と統合する方法を学習します。
+  #### レッスン
+  - テンプレート
+  - SharePoint
+  - Microsoft Teams
+  - 追加の統合
+  - モジュールのサマリー
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Office 製品との統合を構成して使用する
+
+
+  ### モジュール 3&#58; データの管理
+  このモジュールでは、 Power Platform のデータをインポートおよびエクスポートし、データ マップを作成および使用する方法を学習します。
+  #### レッスン
+  - データ概要の管理
+  - 重複検出
+  - データのインポート
+  - データのエクスポート
+  - 一括削除
+  - モジュールのサマリー
+
+  このモジュールを終了すると、受講者は次のことができるようになります&#58;
+  - データをインポートおよびエクスポートする
+  - データ マップ を作成して使用する
+  - 一括削除を実行する

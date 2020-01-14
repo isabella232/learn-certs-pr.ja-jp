@@ -1,0 +1,107 @@
+### YamlMime:Course
+title: DevOps 開発プロセスの実装
+metadata:
+  title: 'コース AZ-400T01-A: DevOps 開発プロセスの実装'
+  description: 'コース AZ-400T01-A: DevOps 開発プロセスの実装'
+uid: course.az-400t01
+courseNumber: 'AZ-400T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Source Control を使用することの利点について説明する
+- skill: TFVC から Git へ移行する
+- skill: Enterprise DevOps 用の Git のスケーリング
+- skill: ビルドインフラストラクチャを実装して管理する
+- skill: アプリケーションの構成および機密を管理する
+- skill: モバイル DevOps 戦略を実装する
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  このコースでは、DevOps プロセスを実装するための知識とスキルを提供します。学生は、ソース管理の使用方法、エンタープライズ向けの Git のスケーリング方法、ビルド インフラストラクチャの実装と管理方法を学びます。
+  
+  #### 聴衆プロファイル
+  このコースの学生は、DevOps プロセスを実装するか、Microsoft Azure DevOps Solutions 認定資格試験に合格することに興味があります。
+prerequisitesSection: |-
+  Azure、バージョン管理、Agile ソフトウェア開発、およびコア ソフトウェア開発の原則に関する基本的な知識。ソフトウェアを提供する組織での経験があると役立ちます。
+outlineSection: |-
+  ### モジュール 1&#58; ソース管理の開始
+  #### レッスン
+  - Source Control Source Control とは何ですか？
+  - Source Control の利点
+  - Source Control システムの種類
+  - Azure Repos の概要
+  - Team Foundation Version Control (TFVC) から Git への移行
+  - Git Repos の認証
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Source Control を使用することの利点について説明する
+  - TFVC から Git へ移行する
+
+  ### モジュール 2&#58; エンタープライズ DevOps の Git のスケーリング
+  #### レッスン
+  - Git リポジトリを構成する方法
+  - Git Branching ワークフロー
+  - Pull Requests との連携
+  - GitHooks に留意すべき理由
+  - 内部オープン ソースの育成
+  - Git バージョン
+  - パブリック プロジェクト
+  - Git のファイル
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Enterprise DevOps 用の Git のスケーリング
+
+
+  ### モジュール 3&#58; ビルド インフラストラクチャの実装および管理
+  #### レッスン
+  - DevOps のパイプラインの概念
+  - Azure パイプライン
+  - Hosted Agent と Private Agent の使用について評価する
+  - エージェント プール
+  - パイプラインと並行性
+  - Azure DevOps と Open Source プロジェクト
+  - Azure Pipelines YAML と Visual Designer
+  - プライベート エージェントのセットアップ
+  - Jenkins と Azure Pipelines の統合
+  - Azure Pipelines との外部ソース管理の統合
+  - Dockerマルチ ステージ ビルドを分析し、統合する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - ビルド インフラストラクチャを実装および管理する
+
+
+  ### モジュール 4&#58; アプリケーションの構成とシークレットの管理
+  #### レッスン
+  - セキュリティの概要
+  - 安全で準拠した開発プロセスを実装する
+  - アプリケーション構成データの再考
+  - 秘密、トークン、および証明書を管理する
+  - パイプラインでセキュリティとコンプライアンスを管理するためのツールを実装する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - アプリケーションの構成および機密を管理する
+
+
+  ### モジュール 5&#58; モバイル DevOps 戦略を実装する
+  #### レッスン
+  - Mobile DevOps の概要
+  - Visual Studio App Center の概要
+  - モバイル ターゲット デバイス セットとディストリビューション グループを管理する
+  - ターゲット UI テスト デバイス セットを管理する
+  - デプロイ用にテスター デバイスをプロビジョニングする
+  - パブリックおよびプライベート ディストリビューション グループを作成する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - モバイル DevOps 戦略を実装する

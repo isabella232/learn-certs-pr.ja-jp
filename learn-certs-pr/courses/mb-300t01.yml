@@ -1,0 +1,135 @@
+### YamlMime:Course
+title: Dynamics 365 for Finance and Operations の共通コア機能
+metadata:
+  title: 'コース MB-300T01-A: Dynamics 365 for Finance and Operations の共通コア機能'
+  description: 'コース MB-300T01-A: Dynamics 365 for Finance and Operations の共通コア機能'
+uid: course.mb-300t01
+courseNumber: 'MB-300T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  Dynamics 365 for Finance and Operations を使用して、営業費を削減し、ビジネス ニーズの変化に迅速に対応します。このソリューションによって、組織はこれらの目標を達成できます。
+  
+  このコースでは、 Microsoft Dynamics 365 for Finance and Operations のコア コンポーネントについて説明します。
+  
+  #### 聴衆プロファイル
+  Dynamics 365 for Finance and Operations Functional Consultant は、発見の実行、要件の把握、主題の専門家および関係者の雇用、要件の変換、ソリューションとアプリケーションの設定を担当します。機能コンサルタントは、革新的な機能、コードレス拡張機能、アプリケーション、およびサービス インテグレーションを使用してソリューションを実行します。
+prerequisitesSection: |-
+  ERP と CRM の概念に関する基本的な理解。
+outlineSection: |-
+  ### モジュール 1&#58; Dynamics 365 for Finance and Operations の開始
+  このモジュールでは、 Dynamics 365 for Finance and Operations の概要と、 Dynamics 365 がサポートする業界について理解します。ここでは、Finance and Operationsにおけるモジュール、それらモジュールの機能の目的、およびそれらが業界固有の領域をどのようにサポートするかについて説明します。
+  #### レッスン
+  - はじめに
+  - 業界の焦点
+  - 財務管理の概要
+  - 従業員管理の概要
+  - サプライ チェーン管理の概要
+  - モジュールのサマリー
+
+  受講者は、 Finance and Operations の概要、およびそれがサポートする業界について理解します。受講者は、Finance and Operationsにおけるモジュール、それらモジュールの機能の目的、およびそれらが業界固有の領域をどのようにサポートするかについて熟知するようになります。
+
+  ### モジュール 2&#58; Lifecycle Services の開始
+  Microsoft Dynamics Lifecycle Services (LCS) は、顧客とそのパートナーが、事前販売から実行、さらには生産環境に至るまで、クラウドまたはオンプレミスのいずれかで、Dynamics 365 for Finance and Operations のプロジェクトを管理するために使用するコラボレーション ワークスペースです。そこには、実行プロセスの管理に役立つ方法論など、プロジェクトの管理に役立つチェック リストとツールが用意されています。
+  #### レッスン
+  - Lifecycle Services の機能とツールを理解する
+  - 既存資産を再利用し、データをコピーして共有する
+  - タスク レコーダーの機能を理解する
+  - ビジネス プロセスモデルを作成する
+  - LCS Issue Search ツールを実行し、結果を分析する
+  - Regression Suite Automation Tool の使用方法について学習する
+  - 実習ラボ
+  - モジュールのサマリー
+
+  受講者は、以下のことができるようになります&#58;
+  - LCS for Finance and Operations の機能とツールを理解する
+  - 既存資産を再利用し、データをコピーして共有する
+  - タスク レコーダーの機能を理解する
+  - ビジネス プロセスモデルを作成する
+  - ビジネス プロセス モデラー (BPM) を使用してギャップを特定し、分析する
+  - LCS Issue Search ツールを実行し、結果を分析する
+
+
+  ### モジュール 3&#58; Use Lifecycle Services to Design and Plan
+  適切な計画を立てることにより、Dynamics 365 for Finance and Operations の実行が成功します。顧客が Finance and Operations のライセンスを購入する契約に署名した後、機能コンサルタントとしての仕事は、アプリケーションのライフサイクルを管理し、予測可能で反復可能な質の高い実行に移行することから始まります。
+  #### レッスン
+  - はじめに
+  - クラウド実行のフェーズ
+  - オンプレミス実行のフェーズ
+  - Functional Design Documents (FDD) を作成する
+  - モジュールのサマリー
+
+  受講者は、以下のことができるようになります&#58;
+  - LCS の方法論を使用して、収集した要件のドキュメンテーションを準備する
+  ユース ケース シナリオを定義する
+  - 機能要件文書 (FRD) の作成に参加する
+  - 文書化されたプロセスの作成と保持の重要性を理解する
+  フェーズ ベースのプロセス計画とソリューション設計に参加する
+  - 提案されたソリューションに基づいて、将来の状況のビジネスプロセスを説明する
+  - ビルドするタイミングと購入するタイミングを決定する
+  - Functional Design Documents (FDD) を作成する
+
+
+  ### モジュール 4&#58; Reporting and Analytics の概要
+  Dynamics 365 for Finance and Operations のレポートは、データの構造化されたプレゼンテーションとして簡単に定義できます。
+  理想的な環境においては、レポートはユーザーが情報に基づいた意思決定を行えるようにデータを具現化します。
+  Finance and Operations は、幅広い情報アクセス シナリオをサポートしています。
+  #### レッスン
+  - レポートと質問を理解する
+  - 財務報告について学ぶ
+  - インスタンスに 対してPowerBI を構成する
+  - 実習ラボ
+  - モジュールのサマリー
+
+  受講者は、以下のことについて学習しました。
+  - Finance and Operations における各種のレポートと質問
+  - 財務報告
+  - Finance and Operations for Microsoft Power Platform の設定
+
+
+  ### モジュール 5&#58; Build and Test Mobile Apps
+  このモジュールでは、 Dynamics 365 for Finance and Operations のモバイルアプリのガイドラインとデザイン パターンについて説明します。さらに、ユース ケース シナリオに基づいて、モバイルアプリを構築およびテストする方法についても説明します。
+  モバイル プラットフォームを使用すると、フォームやモバイル アプリの定義を簡単に変更して、Finance and Operations に合わせたカスタマイゼーションを含めることができます。
+  モバイル アプリを使用すると、オフラインやモバイルでの豊富なやり取りが可能になり、使い易いデザイナー体験が得られます。開発者は、 Microsoft Visual Studio で簡易フォームを作成し、この機能を公開するモバイル アプリを設計することができます。
+  #### レッスン
+  - Unified Operations モバイル アプリの概要
+  - モバイル アプリを構築して使用する
+  - 実習ラボ
+  - モジュールのサマリー
+
+  受講者は、Finance and Operations において、モバイル アプリを作成してそれを公開する方法を学習しました。モバイル アプリの設計上の考慮事項を理解することによって、最新のアプリケーションのユーザー体験に合わせてモバイル アプリを作成できます。受講者は、Finance and Operations を使用して作業するために、Microsoft Dynamics 365 Unified Operations アプリケーションをダウンロードする必要があることも学習します。さらに、 Dynamics 365 Unified Operations アプリケーションを実行して Finance and Operations に接続する方法、および公開されているモバイル アプリを使用してデータをプルツーリフレッシュする方法についても発見します。
+
+  ### モジュール 6&#58; Create, Maintain and Use Workflows
+  ワークフローは、ビジネス プロセスを表します。誰がタスクの完了、意思決定、またはドキュメントの承認を行う必要があるかを表示することによって、ドキュメントがシステム内をどのように移動するかを定義します。
+  一部の組織では、レコードを入力した者以外のユーザーが特定のプロセスを承認する必要があります。これらのワークフロー プロセスには、手動承認、ワークフロー承認、または無承認が必要な場合があります。
+  #### レッスン
+  - ビジネス プロセスのワークフロー
+  - ワークフローを作成して設定する
+  - ワークフロー タッチポイントにユーザーを割り当てる
+  - 作業項目を使用する
+  - 実習ラボ
+  - モジュールのサマリー
+
+  このモジュールにおいて、受講者は、ワークフローを使用して自動化を適用する方法を学習し、特定のタイプを定義することで、ビジネスが重要なプロセスの各ステップを制御できることを発見しました。また、いくつかのジャーナル タイプの承認を使用する手順としてワークフローを使用できることも学習しました。さらに、ワークフローごとにいくつかのバージョンを定義し、元のワークフローを削除せずに既存のワークフローを変更できることも学習しました。これらのワークフロープロセスには、手動承認、ワークフロー承認、または無承認が必要な場合があります。ワークフローのアーキテクチャ、要素およびアクションについて理解した後、ワークフローの設定方法、ワークフロープロパティの構成方法、およびワークフローに手動または自動化されたタスクを追加する方法を学びました。最後に、ワークフローでの承認プロセスの設定方法、ワークフロー タッチポイントへのユーザーの割り当て方法、ワークフローでの承認ステップの構成方法、ワークフローの処理に作業項目機能を使用する方法について学習しました。
+
+  ### モジュール 7&#58; コースの結論
+  コースの最終評価とコース概要、およびコース後のアンケート。
+  #### レッスン
+  - 最終評価
+  - コースのサマリー
+  - コース終了後のアンケート
+
+  受講者はコースを終了します。

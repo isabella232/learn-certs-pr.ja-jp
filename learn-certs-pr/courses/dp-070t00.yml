@@ -1,0 +1,94 @@
+### YamlMime:Course
+title: Open Source Data Workloads を Azure に移行する
+metadata:
+  title: 'コース DP-070T00-A: Open Source Data Workloads を Azure に移行する'
+  description: 'コース DP-070T00-A: Open Source Data Workloads を Azure に移行する'
+uid: course.dp-070t00
+courseNumber: 'DP-070T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: オンプレミスの MySQL を Azure SQL DB for MySQL に移行する
+- skill: オンプレミス PostgreSQL を Azure SQL DB for PostgreSQL に移行する
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- sql-server
+summary: |-
+  このコースでは、受講者が Azure SQL Database を理解できるようにし、MySQL および PostgreSQL ワークロードを Azure SQL Database に移行するために必要なことを教えます。
+  
+  #### 聴衆プロファイル
+  このコースの主な対象者は、MySQL または Postgres DB ワークロードを Azure SQL DB に移行する予定のデータベース開発者です。
+  次にこのコースの対象となるのは、Azure SQL DB の機能と利点に対する認識を高めるための MySQL/Postgres 管理者です。
+prerequisitesSection: |-
+  このトレーニングに参加する学生は、プロフェッショナルとしての経験に加えて、次の技術知識をすでに身に付けていることが求められます&#58;
+  - Postgres や MySQL などのオープン ソース リレーショナル データベース管理システム、SQL 管理、表データのダンプなどのバックアップやリカバリ手法に関する知識
+outlineSection: |-
+  ### モジュール 1&#58; MySQL および PostgreSQL 用の Azure SQL DB に移行する
+  このモジュールでは、Azure SQL DB の利点とアーキテクチャについて説明します。
+  #### レッスン
+  - OSS データベースの概要
+  - 一般的な OSS データベース ワークロード
+  - 移行における顧客の課題
+  
+  #### ラボ &#58; ソース OSS データベースの作成
+  - Postgres 移行 DB サーバーのインストール
+  - MySQL 移行 DB サーバーのインストール
+  - Postgres/MySQL からのバックアップ/データ ダンプ
+  - データ ダンプからの復元
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - OSS データベースの概要
+  - 一般的な OSS データベース ワークロード
+  - 移行における顧客の課題
+
+
+  ### モジュール 2&#58; オンプレミスの MySQL を Azure SQL DB for MySQL に移行する
+  このモジュールでは、MySQL ワークロードを Azure SQL DB に移行するメリットとプロセスについて説明します
+  #### レッスン
+  - Azure SQL DB for MySQL を構成および管理する
+  - オンプレミスの MySQL を SQL DB for MySQL に移行する
+  - アプリケーションの移行
+  - 移行後の考慮事項
+
+
+  #### ラボ &#58; MySQL DB ワークロード の Azure SQL DB への移行
+  - MySQL DB Workloads の Azure SQL DB への移行
+  - Source および Target DB を定義する
+  - 移行を実行する
+  - 移行を検証する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure SQL DB for MySQL を構成および管理する
+  - オンプレミスの MySQL を SQL DB for MySQL に移行する
+  - アプリケーションの移行
+  - 移行後の考慮事項
+
+
+  ### モジュール 3&#58; オンプレミス PostgreSQL を Azure SQL DB for PostgreSQL に移行する
+  このモジュールでは、PostgreSQL DB ワ ークロードを Azure SQL DB に移行する利点とプロセスについて説明します
+  #### レッスン
+  - Azure SQL DB for PostgreSQL を構成および管理する
+  - オンプレミスの MySQL を SQL DB for PostgreSQL に移行する
+  - アプリケーションの移行
+  - 移行後の考慮事項
+
+
+  #### ラボ &#58; PostgreSQL DB ワークロードの Azure SQL DB への移行
+  - Azure SQL DB for PostgreSQL を構成する
+  - Source および Target DB を定義する
+  - 移行を実行する
+  - 移行を検証する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure SQL DB for PostgreSQL を構成および管理する
+  - オンプレミスの MySQL を SQL DB for PostgreSQL に移行する
+  - アプリケーションの移行
+  - 移行後の考慮事項
+
+  #### このコースを受講するのに、追加の読書は必要ありません

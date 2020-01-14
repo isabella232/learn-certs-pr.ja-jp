@@ -1,0 +1,282 @@
+### YamlMime:Course
+title: Microsoft Exchange Server 2016/2019 の設計と展開
+metadata:
+  title: 'コース 20345-2-B: Microsoft Exchange Server 2016/2019 の設計と展開'
+  description: 'コース 20345-2-B: Microsoft Exchange Server 2016/2019 の設計と展開'
+uid: course.20345-2
+courseNumber: '20345-2-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Exchange Server の展開を計画します。
+- skill: Exchange Server ハードウェア、仮想化、メールボックス データベース、およびパブリック フォルダーを計画および展開します。
+- skill: Exchange Server でメッセージ トランスポートを計画します。
+- skill: Exchange Server で Client Access サービスを計画および展開します。
+- skill: 高可用性 Exchange Server 環境を設計および実装します。
+- skill: Managed Availability and Desired State Configuration (DSC) を使用して Exchange Server を保守します。
+- skill: メッセージング セキュリティを計画し、Active Directory Rights Management Services (AD RMS) および Microsoft Azure RMS を Exchange Server で設計および実装します。
+- skill: メッセージの保持とアーカイブを設計および実装します。
+- skill: データ損失防止ポリシー、In-Place Hold、および eDiscovery を設計および実装します。
+- skill: Exchange Server 組織間のメッセージングの共存を設計​​および実装します。
+- skill: Exchange Server の以前のバージョンから Exchange Server 2019 へのアップグレードを計画および実装します。
+- skill: ハイブリッド Exchange の展開を計画します。
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.70-345
+summary: |-
+  このコースでは、経験豊富な Exchange Server 管理者に、Exchange Serverメ ッセージング環境を設計および実装するための知識を提供します。このコースでは、サイトの復元性、高度なセキュリティ、コンプライアンス、アーカイブおよび検出ソリューション、他の Exchange 組織または Exchange Online との共存、以前のバージョンの Exchange サーバーからの移行など、Exchange Server 展開の高度なコンポーネントを設計および構成する方法について説明します。このコースでは、Exchenge Server 展開の最適化に役立つガイドライン、ベストプラクティス、および考慮事項についても説明します。
+
+  #### 聴衆プロファイル
+  このコースの対象読者には、経験豊富なメッセージング管理者、メッセージング アーキテクト、またはコンサルタントである IT プロフェッショナルが含まれます。このコースは、以前のバージョンの Exchange Server または Exchange Online を含む環境など、Exchange Server ソリューションの設計と展開を担当するエンタープライズ環境の人々を対象としています。このコースを受講する学生は、Exchange Server 2019 または以前のバージョンの Exchange Server の経験を有していることが期待されます。
+prerequisitesSection: |-
+  このトレーニングに参加する学生は、プロフェッショナルとしての経験に加えて、次の技術知識をすでに身に付けていることが求められます&#58;
+   - 受講コース 20345-1B&#58; Microsoft Exchange Server 2016/2019 の管理またはそれと同等の知識を有する
+   - Exchange Server (どのバージョンでも可) の 2 年以上の使用経験
+   - Exchange Server 2013 または Exchange Server 2016 の 6 か月以上の使用経験
+   - Windows Server 2016 または Windows Server 2019 を含む Windows Server オペレーティング システムの最低 2 年の管理経験
+   - Active Directory Domain Services (AD DS) の 2 年以上の使用経験
+   - Domain Name System (DNS) を含む、名前解決に関する 2 年以上の経験
+   - 公開キー基盤 (PKI) 証明書を含む証明書の使用経験
+   - Windows PowerShell での作業経験
+outlineSection: |-
+  ### モジュール 1&#58; Exchange Server の展開の計画
+  このモジュールでは、Exchange Server の主要な機能について説明し、ビジネス要件を収集する方法について説明します。また、Exchange Server の展開と Unified Messaging の Cloud Voicemail への移行を計画する方法についても説明します。
+  #### レッスン
+  - Exchange Server 2019 の新機能
+  - Exchange Server 展開のビジネス要件の収集
+  - Exchange Server 展開の計画
+  - Unified Messaging(UM) から Cloud Voicemail への移行の計画
+  
+  #### ラボ &#58; Exchange Server 2019 展開の計画
+  - 既存のメッセージング インフラストラクチャの評価
+  - 要件の特定
+  - ディスカッション&#58; Exchange Server 2019 の展開設計
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Exchange Server 2019 の新機能について説明する
+  - Exchange Server 展開のビジネス要件を収集する方法について説明する
+  - Exchange Server の展開を計画する
+  - Exchange Server 2016 UM をクラウド ボイスメールに移行する方法を計画する
+
+
+  ### モジュール 2&#58; Exchange Server Mailbox サービスの計画および展開
+  このモジュールでは、Exchange Server ハードウェア、Exchange Server の仮想化、Azure 統合、およびパブリック フォルダーを計画および実装する方法について説明します。
+  #### レッスン
+  - Exchange Server のハードウェア要件の計画
+  - 仮想化および Microsoft Azure 統合のための Exchange Server の計画
+  - パブリック フォルダの計画および実装
+
+
+  #### ラボ &#58; Exchange Server メールボックス サーバー、データベース、およびパブリック フォルダーの計画と実装
+  - メールボックス サーバーの構成と場所の計画
+  - メールボックス データベースの計画
+  - メールボックス データベースの実装
+  - パブリック フォルダの計画および実装
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Exchange Server ハードウェアを計画および実装する
+  - Exchange Server の仮想化と Microsoft Azure の統合を計画する
+  - パブリック フォルダを計画および実装する
+
+
+  ### モジュール 3&#58; メッセージ転送の計画
+  このモジュールでは、内部およびインターネットとの間でメールルーティングを計画および実装する方法について説明します。このモジュールでは、組織内のトランスポート関連のタスクについても説明します。
+  #### レッスン
+  - メッセージ ルーティングの設計
+  - トランスポート サービスの設計
+  - メッセージ ルーティング境界の設計
+  - トランスポート コンプライアンスの設計および実装
+
+
+  #### ラボ &#58; メッセージ転送の計画
+  - 冗長で安全なメッセージ トランスポートの計画
+  - トランスポート コンプライアンスの計画
+  - トランスポートコンプライアンスの実装
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - メッセージ ルーティングを設計する
+  - トランスポート サービスを設計する
+  - 外部メッセージ ルーティングを設計する
+  - トランスポート コンプライアンスを設計および実装する
+
+
+  ### モジュール 4&#58; クライアント アクセスの計画および展開
+  このモジュールでは、Exchange Server クライアント、クライアント アクセス、Microsoft Office Online Server、および Microsoft SharePoint と Exchange Server の共存を計画および実装する方法について説明します。また、外部クライアント アクセスの設計と実装についても説明します。
+  #### レッスン
+  - Exchange Server クライアントの計画
+  - クライアント アクセスの計画
+  - Office Online Server の計画および実装
+  - SharePoint 2019 と Exchange Server 2019 の共存の計画および実装
+  - 外部クライアント アクセスの設計
+
+
+  #### ラボ &#58; クライアント アクセス ソリューションの計画と展開
+  - ネームスペースの計画および構成
+  - クライアント アクセス サービス オプションの計画および設定
+  - Office Online Server の計画および展開
+  - リバース プロキシの計画および実装
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Exchange Server クライアントを計画する
+  - クライアント アクセスを計画する
+  - Office Online Server を計画および実装する
+  - SharePoint と Exchange Server の共存を計画および実装する
+  - 外部クライアント アクセスを設計する
+
+
+  ### モジュール 5&#58; 高可用性の設計および実装
+  このモジュールでは、Exchange Server の高可用性を計画および実装する方法について説明します。また、負荷分散の計画方法についても説明します。最後に、サイトの復元を計画および実装する方法について説明します。
+  #### レッスン
+  - Exchange Server の高可用性の計画
+  - 負荷分散の計画
+  - サイトの復元の計画
+
+
+  #### ラボ &#58; 高可用性の設計と実装
+  - 高可用性とサイト復元の計画
+  - サイト復元 DAG の作成
+  - サイトの復元力の検証
+  - 遅延データベース コピーの作成
+  - 遅延データベース コピーからのデータの復元
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Exchange Server の高可用性を計画する
+  - Exchange Server 展開での負荷分散を計画する
+  - Exchange Server 展開でのサイトの復元を計画する
+
+
+  ### モジュール 6&#58; Exchange Server の保守
+  このモジュールでは、Managed Availability と DSC を使用して Exchange Server を保守する方法について説明します。
+  #### レッスン
+  - 高可用性を改善するための Managed Availability の使用
+  - DSC の実装
+
+
+  #### ラボ &#58; Exchange Server の保守
+  - Windows PowerShell を使用して管理可用性を調査および構成する
+  - DSC の実装
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Managed Availability を使用して高可用性を改善する
+  - DSC の実装
+
+
+  ### モジュール 7&#58; メッセージング セキュリティの設計
+  このモジュールでは、メッセージング セキュリティを計画する方法、および Exchange Server 組織で AD RMS と Azure RMS を設計および実装する方法について説明します。
+  #### レッスン
+  - メッセージング セキュリティの計画
+  - AD RMS および Azure RMS の設計と実装
+
+
+  #### ラボ &#58; メッセージング セキュリティの設計
+  - メッセージング セキュリティの計画
+  - AD RMS の実装
+  - AD RMS と Exchange Server の統合
+  - メールを保護するためのメッセージ トランスポート ルールの作成
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - メッセージング セキュリティを計画する
+  - AD RMS と Azure RMS を設計および実装する
+
+
+  ### モジュール 8&#58; メッセージの保持とアーカイブの設計および実装
+  このモジュールでは、アーカイブおよびメッセージング レコード管理の目的について説明しています。また、インプレース アーカイブとメッセージ保持を設計および実装する方法についても説明します。
+  #### レッスン
+  - アーカイブおよびメッセージング レコード管理の概要
+  - インプレース アーカイブの設計
+  - メッセージ保持の設計および実装
+
+
+  #### ラボ &#58; メッセージの保持とアーカイブの設計と実装
+  - メッセージの保持とアーカイブの設計
+  - メッセージの保持とアーカイブの実装
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - アーカイブおよびメッセージング レコード管理の目的について説明する
+  - インプレース アーカイブを設計および実装する
+  - メッセージ保持を設計および実装する
+
+
+  ### モジュール 9&#58; メッセージング コンプライアンスの設計および実装
+  彼のモジュールでは、データ損失防止ポリシー、In-Place Hold、In-Place eDiscovery の設計および実装方法について説明しています。
+  #### レッスン
+  - データ損失防止ポリシーの設計と実装
+  - In-Place Hold の設計および実装
+  - In-Place eDiscovery の設計および実装
+
+
+  #### ラボ &#58; メッセージング コンプライアンスの設計と実装
+  - メッセージング コンプライアンスの設計
+  - データ損失防止の実装
+  - In-Place eDiscovery の実装
+  - メッセージング ポリシーとコンプライアンス オプションの比較
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - データ損失防止の設計と実装
+  - In-Place Hold を設計および実装する
+  - In-Place eDiscovery を設計および実装する
+
+
+  ### モジュール 10&#58; メッセージング共存の設計および実装
+  このモジュールでは、連携を設計および実装する方法について説明します。また、Exchange Server 組織間の共存を設計​​する方法についても説明します。最後に、フォレスト間のメールボックスの移動を設計および実装する方法について説明します。
+  #### レッスン
+  - 連携の設計と実装
+  - Exchange 組織間の共存の設計
+  - フォレスト間のメールボックスの移動の設計と実装
+
+
+  #### ラボ &#58; メッセージング共存の実装
+  - メッセージ ルーティングの共存の実装
+  - ユーザー メールボックスの移行
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - 連携の設計と実装
+  - Exchange Server 組織間の共存を設計​​する
+  - フォレスト間のメールボックスの移動を設計および実装する
+
+
+  ### モジュール 11&#58; Exchange Server 2019 へのアップグレード
+  このモジュールでは、Exchange Server 2019 の実装を選択する際のオプションの概要、および既存の Exchange Server 2013 または Exchange Server 2016 組織を Exchange Server 2019 にアップグレードする方法の詳細を提供します。
+  #### レッスン
+  - 以前の Exchange Server バージョンからのアップグレードの計画
+  - 以前の Exchange Server バージョンからのアップグレードの実装
+
+
+  #### ラボ &#58; Exchange Server 2013 から Exchange Server 2019 へのアップグレード
+  - Exchange Server 2013 組織の文書化
+  - Exchange Server 2019 の展開
+  - Exchange Server 2013 から Exchange Server 2019 へのアップグレード
+  - Exchange Server 2013 の削除
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Exchange Server 2019 へのアップグレードを計画する
+  - Exchange Server 2019 へのアップグレードを実装する
+
+
+  ### モジュール 12&#58; ハイブリッド Exchange Server 展開の計画
+  このモジュールでは、ハイブリッド展開の基本と、ハイブリッド展開での認証の計画方法について説明します。また、Microsoft Azure Active Directory (Azure AD) Connect、ハイブリッド開発、およびハイブリッド展開の高度な機能を実装する方法についても説明します。
+  #### レッスン
+  - ハイブリッド展開の基本
+  - ハイブリッド展開の計画および実装
+  - Azure AD Connect の実装
+  - ハイブリッド展開の実装
+  - ハイブリッド展開用の高度な機能の実装
+
+
+  #### ラボ &#58; ハイブリッド Exchange 展開の計画
+  - ハイブリッド Exchange 展開の計画の作成
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - ハイブリッド展開の基本について説明する
+  - ハイブリッド環境での認証を計画する
+  - Azure AD Connect を実装する
+  - ハイブリッド展開を実装する
+  - ハイブリッド展開の高度な機能を実装する

@@ -1,0 +1,97 @@
+### YamlMime:Course
+title: Microsoft 365 Fundamentals
+metadata:
+  title: 'コース MS-900T01-A: Microsoft 365 Fundamentals'
+  description: 'コース MS-900T01-A: Microsoft 365 Fundamentals'
+uid: course.ms-900t01
+courseNumber: 'MS-900T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: さまざまなクラウド サービス モデルを区別する。
+- skill: Microsoft 365 と Office 365 の主な相違点を特定する。
+- skill: Microsoft 365 サービスへの移行を計画する。
+- skill: Microsoft オンプレミス サービスと Microsoft 365 クラウド サービスの主な相異点を特定する。
+- skill: Microsoft 365 のエンタープライズ モビリティを定義します。
+- skill: Microsoft 365 サービスがチームワークをサポートする方法を特定する。
+- skill: クラウド、オンプレミス、ハイブリッド ID などの ID について説明する。
+- skill: Intune の使用を含めて、クラウド デバイスの管理と保護について説明する。
+- skill: Azure 情報保護の使用を含めて、データ保護について説明する。
+- skill: 一般的なコンプライアンスと Microsoft 365 のコンプライアンス機能について説明する。
+- skill: Microsoft 365 のサブスクリプション、ライセンス、請求、サポートについて説明する
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-user
+- administrator
+products:
+- m365
+- windows
+- office-365
+exams:
+- uid: exam.ms-900
+summary: |-
+  このコースでは、クラウド サービスと SaaS (Software as a Service) クラウド モデルを採用する際の考慮事項と利点に関する基本的な知識を提供します。具体的には、 Microsoft 365 クラウド サービス オファーに重点を置いています。まず、クラウド コンピューティングおよび特に Microsoft クラウド サービスなど、クラウドの基礎について学習します。Microsoft Azure について紹介し、 Microsoft 365 と Office 365 の相異点について調べます。次に、 Microsoft 365 オンプレミス サービスと Microsoft 365 クラウド サービスの比較を含めた Microsoft 365 の詳細なレビュー、Microsoft 365 におけるエンタープライズ モビリティのレビュー、および Microsoft 365 サービスによるコラボレーションの仕組みの分析などを実行します。このコースでは、セキュリティ、コンプライアンス、プライバシーおよび信頼が Microsoft 365 でどのように処理されるかを分析します。最後に Microsoft 365 のサブスクリプション、ライセンス、請求、およびサポートのレビューを行います。
+  
+  #### 聴衆プロファイル
+  このコースは、組織内でクラウド サービスの展開と管理を希望する IT プロフェッショナル、またはクラウドの基礎をもとにした基礎知識を習得したいと考えている IT プロフェッショナルを対象としています。このコースでは、クラウド サービス全般と SaaS （ Software as a Service ）クラウド モデルとしてのソフトウェアを採用する際の考慮事項と利点に関する基本的な知識を提供します。具体的には、 Microsoft 365 クラウド サービスオファーに焦点を当てています。
+prerequisitesSection: |-
+  このコースは、対象にしています。
+  クラ組織内でクラウド サービスの展開と管理を希望するする IT プロフェッショナルを
+  対象にしています。受講者は次の経歴を持つ必要があります&#58;
+  - 一般的な IT 知識、または IT 環境での一般的な作業経験
+  - Exchange Server、SharePoint、Office Professional、AD RMS など、対応する Microsoft オンプレミス製品に関する一般的な (販売レベル) 経験
+  - IT のビジネス / 法務 / セキュリティ要件に対応する経験
+outlineSection: |-
+  ### モジュール 1&#58; クラウドの概念
+  #### レッスン
+  - クラウド コンピューティングの原則
+  - Microsoft クラウド サービス
+  - クラウド サービスへの移行
+
+  #### ラボ &#58; Cloud Fundamentals
+  - 演習 1&#58; 適切なクラウド モデル (paper-based lab) の決定
+
+
+  ### モジュール 2&#58; コア Microsoft 365 サービス
+  #### レッスン
+  - Microsoft 365 コア サービス
+  - Microsoft 365 における Microsoft オンプレミス サービスとクラウド サービス
+  - Microsoft 365 における統合エンドポイント管理
+  - Microsoft 365 における Teamwork
+
+
+  #### ラボ &#58; Microsoft 365 テナントの有効化と構成
+  - 演習 1&#58; Microsoft 365 テナントの有効化と構成
+  - 演習 2&#58; Microsoft 365 ユーザーと管理者ポータルの探索
+  - 演習 3&#58; 新規ユーザーとグループのアカウントの構成
+
+
+  ### モジュール 3&#58; Microsoft 365 のセキュリティ、コンプライアンス、プライバシーおよび信頼
+  #### レッスン
+  - 組織のセキュリティの基礎
+  - Microsoft 365 のセキュリティ機能
+  - ID およびアクセスの管理
+  - Microsoft 365 におけるデバイスとデータ保護
+  - Microsoft 365 における コンプライアンス
+
+
+  #### ラボ &#58; Microsoft 365 のセキュリティ
+  - 演習 1&#58; Azure Active Directory におけるユーザーとデバイスの管理
+  - 演習 2&#58; ID 同期の評価
+  - 演習 3&#58; コンプライアンスのツールのエクスプロアー
+
+
+  ### モジュール 4&#58; Microsoft 365 価格設定とサポート
+  #### レッスン
+  - Microsoft 365 サブスクリプション、ライセンス、請求
+  - Microsoft 365 におけるサポート
+
+
+  #### ラボ &#58; Microsoft 365 におけるサブスクリプション、ライセンス、サポートの管理
+  - 演習 1&#58; 請求とサブスクリプションのエクスプロアー インターフェース
+  - 演習 2&#58; テナントに試用ライセンスの追加
+  - 演習 3&#58; サポート オプションのレビュー

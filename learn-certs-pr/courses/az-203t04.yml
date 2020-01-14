@@ -1,0 +1,77 @@
+### YamlMime:Course
+title: Azure Security の実装
+metadata:
+  title: 'コース AZ-203T04-A: Azure Security の実装'
+  description: 'コース AZ-203T04-A: Azure Security の実装'
+uid: course.az-203t04
+courseNumber: 'AZ-203T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  このコースでは、Azure 認証および承認サービスを開発ソリューションに含めるために必要な知識とスキルを習得します。学生は、Microsoft ID プラットフォームを使用して、Azure ソリューションで ID を管理および利用する方法を学習します。また、学生はアクセス制御 (クレーム ベースの承認とロール ベースのアクセス制御) と安全なデータ ソリューションの実装方法について学びます。コースを通して、学生は Azure CLI、REST、およびアプリケーション コードを使用してこれらのリソースを作成および統合する方法を学びます。
+  
+  #### 聴衆プロファイル
+  - このコースの学生は、Azure 開発または Microsoft Azure Developer Associate 認定資格試験に合格することに興味があります。
+  - 学生は開発者としての経験が 1 〜 2 年必要です。このコースは、学生がコーディングの方法を知っており、Azure の基本的な知識があることを前提としています。
+prerequisitesSection: |-
+  - 学生は開発者としての経験が 1 〜 2 年必要です。このコースは、学生がコーディングの方法を知っており、Azure の基本的な知識があることを前提としています。
+  - 学生は、Azureポータルで作業し、少なくとも1つのAzureでサポートされているプログラミング言語を使用して、PowerShellまたはAzure CLIの経験があることが推奨されます。このコースの例のほとんどは、C#.NETで提供されています。
+outlineSection: |-
+  ### モジュール 1&#58; 認証を実装する
+  Microsoft ID プラットフォームは、Azure Active Directory (Azure AD) ID サービスおよび開発者プラットフォームの進化版です。開発者は、すべての Microsoft ID にサインインし、Microsoft Graph、他の Microsoft API、または開発者が作成した API を呼び出すトークンを取得するアプリケーションを構築できます。
+  #### レッスン
+  - Microsoft ID プラットフォーム
+  - OAuth2 認証を実装する
+  - Azure リソースの管理対象 ID を実装する
+  - 認証、フォームベースの認定、トークンを使用した認証の実装
+  - 2 マルチ認証を実装する
+  
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Microsoft ID プラットフォームのアーキテクチャについて理解する
+  - ソリューションに OAuth2 認証を実装する
+  - Azure Key Vault を使用して認証情報を保存および取得する
+
+  
+  ### モジュール 2&#58; アクセス制御を実装する
+  このモジュールでは、クレーム ベースおよびロール ベースのアクセス制御について説明します。
+  #### レッスン
+  - クレーム ベースの承認
+  - ロールベースのアクセス制御 (RBAC) 承認
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - 開発ソリューションでクレーム ベースの承認を使用する
+  - RBAC を使用して REST API 経由でリソースへのアクセスを管理する
+
+
+  ### モジュール 3&#58; 安全なデータ ソリューションを実装する
+  このモジュールでは、保存中および送信中のデータの保護について説明します。
+  #### レッスン
+  - 暗号化オプション
+  - エンドツーエンドの暗号化
+  - Azure 機密コンピューティングを実装する
+  - Azure Key Vault で暗号化キーを管理する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - 暗号化オプションについて理解する
+  - Transparent Data Encryption でデータを暗号化する
+  - Azure Key Vault を使用して暗号化キーを管理および利用する

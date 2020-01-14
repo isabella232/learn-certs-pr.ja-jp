@@ -1,0 +1,98 @@
+### YamlMime:Course
+title: 'Dynamics 365:Power Platform 自動化'
+metadata:
+  title: 'コース MB-200T02-A: Dynamics 365:Power Platform 自動化'
+  description: 'コース MB-200T02-A: Dynamics 365:Power Platform 自動化'
+uid: course.mb-200t02
+courseNumber: 'MB-200T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Power Platform で利用可能な自動化オプションを特定する。
+- skill: どの自動化を使用するかのタイミングを特定する。
+- skill: ビジネス ルールを作成して使用する。
+- skill: ワークフローの作成して使用する。
+- skill: Microsoft Flow を作成して使用する
+- skill: ビジネス プロセス フローを作成して使用する。
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  Microsoft Power Platform は、組織が日常業務を自動化し、ベスト プラクティスを標準化することによって業務を最適化することを支援します。このトレーニングでは、 Microsoft Dynamics 365 および Power Platform の機能の概要について説明し、その他の Microsoft Dynamics 365 および Power Platform トレーニング提供物の基盤を示します。
+  このコースでは、世界的に認められている専門家が、利用可能なさまざまな自動化オプションと、それらを実際のシナリオで使用する方法について受講者に指導します。
+  
+  #### 聴衆プロファイル
+  Dynamics 365 Customer Engagement Functional Consultant は、発見の実行、要件の把握、主題の専門家および関係者の雇用、要件の翻訳、ソリューションとアプリケーションの設定を担当します。機能コンサルタントは、革新的な機能、コードレス拡張機能、アプリケーション、およびサービス インテグレーションを使用してソリューションを実行します。
+prerequisitesSection: |-
+  ビジネス アプリケーションの知識と、ビジネスに合わせてカスタマイズして実装することを望んでいる。
+outlineSection: |-
+  ### モジュール 1&#58; プラットフォーム自動化の概要
+  このモジュールでは、Power Platform 自動化機能の基本について学習します。受講者は、自動化のニーズと、ニーズを機能にマッピングする方法について学習します。
+  #### レッスン
+  - プラットフォーム自動化の概要
+  - モジュールのサマリー
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - 共通のプラットフォーム自動化とその用途を特定する
+
+
+  ### モジュール 2&#58; ビジネス ルール
+  このモジュールでは、ビジネス ルールの構築と使用方法、および他のプラットフォーム自動化との連携方法について学習します。
+  #### レッスン
+  - ビジネス ルールの概要
+  - 追加のビジネス ルールの詳細
+  - モジュールのサマリー
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - ビジネス ルールを作成および使用する
+
+
+  ### モジュール 3&#58; ワークフロー
+  このモジュールでは、ワークフローの構築と使用方法、および他のプラットフォーム自動化との連携方法について学習します。
+  #### レッスン
+  - ワークフローの概要
+  - ワークフローの構築
+  - 上級ワークフロー
+  - モジュールのサマリー
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - ワークフローを作成および使用する
+
+
+  ### モジュール 4&#58; Microsoft Flows
+  このモジュールでは、Microsoft Flows の構築と使用方法、および他のプラットフォーム自動化との連携方法について学習します。
+  #### レッスン
+  Microsoft Flows の概要
+  - その他のフローの概念
+  - CDS の使用
+  - 承認フローの構築
+  - アプリからの起動
+  - フロー展開の考慮事項
+  - モジュールのサマリー
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Microsoft Flow を作成および使用する
+
+
+  ### モジュール 5&#58; ビジネス プロセス フロー
+  このモジュールでは、ビジネス プロセス フローの構築と使用方法、および他のプラットフォーム自動化との連携方法について学習します。
+  #### レッスン
+  - ビジネスプロセスフローの概要
+  - ビジネス プロセス フローを構成する
+  - 追加のビジネス プロセス フローの詳細
+  - モジュールのサマリー
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - ビジネス プロセス フローを作成して使用する

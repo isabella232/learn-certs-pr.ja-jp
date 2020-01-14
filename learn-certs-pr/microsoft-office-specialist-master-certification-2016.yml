@@ -1,0 +1,55 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
+  description: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
+uid: certification.microsoft-office-specialist-master-certification-2016
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  This certification demonstrates that you have the deepest level of skills needed to proficiently use Office programs by earning a Microsoft Office Specialist Master certification.
+  
+  To earn a Microsoft Office Specialist Master certification, complete the following requirements&#58;
+
+  マイクロソフト オフィス スペシャリスト マスター認定資格を取得することにより、Office プログラムを使いこなすために必要な最も高度なスキルを身に付けていることが実証されます。
+  
+  マイクロソフト オフィス スペシャリスト マスター認定資格を取得するには、次の要件を満たしてください&#58;
+
+  - 3つの必須試験に合格する
+    - [77-726&#58; Word 2016 Expert&#58; 効果的なコミュニケーションのための文書作成](/learn/certifications/exams 77-726)
+    - [77-728&#58; Excel 2016 Expert&#58; Insights のデータの解釈](/learn/certifications/exams/77-728)
+    - [77-729&#58; PowerPoint 2016&#58; コアプレゼンテーションの設計と実施スキル ](/learn/certifications/exams/77-729)
+  - 選択科目試験のいずれかに合格する 
+    - [77-730&#58; Access 2016&#58; コアデータベースの管理、操作および質問スキル](/learn/certifications/exams/77-730)
+    - [77-731&#58; Outlook 2016&#58; コアコミュニケーション、コラボレーションおよび電子メールスキル](/learn/certifications/exams/77-731)
+  
+subTitle: マイクロソフト オフィス スペシャリスト マスター認定資格を取得することにより、Office プログラムを使いこなすために必要な最も高度なスキルを身に付けていることが実証されます。
+levels:
+- advanced
+skills:
+- Microsoft Office Excel 2016 (必須)
+- Microsoft Office PowerPoint 2016 (必須)
+- Microsoft Office Word 2016 (必須)
+- Microsoft Office Access 2016 （1つ選択）
+- Microsoft Office Outlook 2016 （1つ選択）
+roles:
+- business-user
+type: mos
+products:
+- office
+exams:
+- uid: exam.77-726
+- uid: exam.77-728
+- uid: exam.77-729
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 試験リプレイ
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 資格のサポート
+  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  href: help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/ja-jp/learning/dashboard.aspx

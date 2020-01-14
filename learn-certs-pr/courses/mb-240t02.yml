@@ -1,0 +1,62 @@
+### YamlMime:Course
+title: Dynamics 365 for Field Service の作業命令と配信実行
+metadata:
+  title: 'コース MB-240T02-A: Dynamics 365 for Field Service の作業命令と配信実行'
+  description: 'コース MB-240T02-A: Dynamics 365 for Field Service の作業命令と配信実行'
+uid: course.mb-240t02
+courseNumber: 'MB-240T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 作業命令のライフサイクルに関連する主な領域を特定する。
+- skill: 作業命令の自動作成に使用できる契約を生成する。
+- skill: Dynamics 365 for Field Service の在庫管理機能を活用する。
+- skill: ライフサイクルを通して注文書を作成し、作業を行う。
+- skill: Field Service Mobile Application を展開して構成する。
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  多くの組織は、その製品やサービスを顧客に提供するモバイル ワーカーに依存しています。Dynamics 365 for Field Service は、モバイル ワーカーに対してリソースの効率的な特定とスケジューリングを支援するさまざまなツールを提供し、ワークロード管理を支援することによって、組織が市場における地位を向上させるのに役立ちます。
+  
+  このコースでは、 Field Serviceおよびモバイルソリューションの提供に使用される主要コンポーネントを実行、特定、構成するために必要なスキルを受講者に習得させます。主なトピックには、一般的な作業命令のライフサイクルの外観および構成の決定を推進する組織上の考慮事項の特定が含まれます。また、このコースでは、契約、在庫コンポーネント、購入、および移動戦略などの作業命令に関連して一般的に使用されるコンポーネントについても取り上げます。
+  このコースにおいて、受講者は、顧客と組織の目標に合った効率的なソリューションの設計に役立つ実行に焦点を絞った全体像と最終目標をより深く理解することができます。
+prerequisitesSection: |-
+  Dynamics 365 の特性、機能、ナビゲーションの基本的な理解。
+outlineSection: |-
+  ### モジュール 1&#58; フィールド サービス作業命令
+  #### レッスン
+  - フィール ドサービス作業命令の構成
+  - 作業命令の作成
+  - 作業命令の管理
+
+
+  ### モジュール 2&#58; フィールド サービス契約
+  #### レッスン
+  - フィールド サービス契約の使用
+  - 予約を設定する
+  - 請求書を設定する
+
+
+  ### モジュール 3&#58; インベントリと購買
+  #### レッスン
+  - 顧客資産を管理する
+  - 在庫を管理する
+  - 購入と返品
+
+
+  ### モジュール 4&#58; フィールド サービス モジュール
+  #### レッスン
+  - フィールド サービス モバイル アプリケーションの概要
+  - フィールド サービス モバイル プロジェクトをインストールして展開する
+  - モバイル プロジェクトを管理する
+  - モバイル クライアントを展開する

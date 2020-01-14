@@ -1,0 +1,85 @@
+### YamlMime:Course
+title: Creating and Deploying Apps
+metadata:
+  title: 'コース AZ-300T04-A: アプリの作成および展開'
+  description: 'コース AZ-300T04-A: アプリの作成および展開'
+uid: course.az-300t04
+courseNumber: 'AZ-300T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: シェル コマンドを使用して App Service Web アプリを作成する
+- skill: バックグラウンド タスクを作成する
+- skill: Swagger を使用して API を文書化する
+- skill: 信頼できるサービスを作成する
+- skill: Reliable Actors アプリを作成する
+- skill: Reliable コレクションを使ったハンズオン
+- skill: Azure Container Registry について理解する
+- skill: Azure Container インスタンスを使用する
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  このコースでは、タスクやビジネス プロセスをワークフローとして自動化することで、企業や組織全体でアプリ、データ、システム、サービスを統合する Logic App ソリューションを構築する方法を IT プロフェッショナルに教えます。Logic Apps は Azure のクラウドサービスであり、クラウド、オンプレミス、またはその両方のいずれでも、アプリ統合、データ統合、システム統合、エンタープライズ アプリケーション統合 (EAI)、および企業間 (B2B) 通信のためのスケーラブルなソリューションを設計および作成する方法を簡素化します。
+  
+  また、学生は、Azure Service Fabric が分散システム プラットフォームであり、スケーラブルで信頼性の高いマイクロ サービスとコンテナーを簡単にパッケージ化、展開、および管理できることを確認します。Service Fabric は、クラウド ネイティブ アプリケーションの開発と管理における重要な課題にも対処します。開発者および管理者は、複雑なインフラストラクチャの問題を回避し、スケーラブルで信頼性が高く、管理しやすいミッション クリティカルで要求の厳しいワークロードの実装に集中できます。Service Fabric は、コンテナで実行されるこれらのエンタープライズ クラスのティア 1 クラウド スケール アプリケーションを構築および管理するための次世代プラットフォームです。
+  
+  最後に、Azure Kubernetes Service (AKS) が管理された Kubernetes クラスターを Azure に簡単に展開する方法を確認します。AKS は、その責任の多くを Azure にオフロードすることで、Kubernetes の管理の複雑さと運用オーバーヘッドを削減します。ホストされた Kubernetes サービスとして、Azure はヘルス モニタリングやメンテナンスなどの重要なタスクを処理します。
+  
+  #### 聴衆プロファイル
+  成功するクラウド ソリューション アーキテクトは、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、課金、およびネットワーキングの実践的な経験からこのロールを開始します。
+outlineSection: |-
+  ### モジュール 1&#58; PaaS を使用した Web アプリケーションの作成
+  このモジュールでは、Web アプリケーション、REST API、およびモバイル バックエンドをホストするための Azure App Service Web アプリの概要を提供します。トピックには次の物が含まれます。&#58; シェルコマンドを使用した App Service Web アプリの作成、バックグラウンド タスクの作成、Swagger を使用した API の文書化、Logic Apps がタスクやビジネス プロセスをワークフローとして自動化することによる、企業や組織全体でアプリ、データ、システム、サービスを統合するソリューションの構築にどのように役立つかについての説明。
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - シェル コマンドを使用して App Service Web アプリを作成する
+  - バックグラウンド タスクを作成する
+  - Swagger を使用して API を文書化する
+
+
+  ### モジュール 2&#58; Service Fabric で実行するアプリとサービスの作成
+  このモジュールでは、分散システム プラットフォームとしての Azure Service Fabric の概要を提供し、スケーラブルで信頼性の高いマイクロ サービスとコンテナーのパッケージ化、展開、および管理を容易にします。このモジュールは、クラウド ネイティブ アプリケーションの開発と管理における課題にも対応しています。
+  追加のトピックには次のものが含まれます。&#58; 信頼できるサービスの作成、Reliable Actors アプリの作成、Reliable コレクションを使用した作業。
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - 信頼できるサービスを作成する
+  - Reliable Actors アプリを作成する
+  - Reliable コレクションで実践的に作業する
+
+
+  ### モジュール 3&#58; Azure Kubernetes Service の使用
+  このモジュールは、Azure で Kubernetes クラスターを展開および管理するための Azure Kubernetes Service (AKS) に焦点を当てています。トピックには、ヘルス モニタリングやメンテナンスなど、その責任の多くを Azure にオフロードすることで Kubernetes を管理する運用オーバーヘッドを削減する方法が含まれます。
+  その他のトピックには、&#58; Azure Container Registry および Azure Container Instances が含まれます。
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure Container Registry について理解する
+  - Azure Container インスタンスを使用する

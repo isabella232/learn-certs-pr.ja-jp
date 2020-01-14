@@ -1,0 +1,84 @@
+### YamlMime:Course
+title: Azureストレージを開発
+metadata:
+  title: 'コース AZ-203T03-A: Azure ストレージを開発する'
+  description: 'コース AZ-203T03-A: Azure ストレージを開発する'
+uid: course.az-203t03
+courseNumber: 'AZ-203T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  このコースでは、開発ソリューションで Azure ストレージ サービスと機能を活用するために必要な知識とスキルを習得します。Azure Table ストレージ、Azure Cosmos DB、Azure Blob、および Azure のリレーショナル データベースに対する開発について説明します。
+  
+  #### 聴衆プロファイル
+  - このコースの学生は、Azure 開発または Microsoft Azure Developer Associate 認定資格試験に合格することに興味があります。
+prerequisitesSection: |-
+  - 学生は開発者としての経験が 1 〜 2 年必要です。このコースは、学生がコーディングの方法を知っており、Azure の基本的な知識があることを前提としています。
+  - 学生は、Azureポータルで作業し、少なくとも1つのAzureでサポートされているプログラミング言語を使用して、PowerShellまたはAzure CLIの経験があることが推奨されます。このコースの例のほとんどは、C#.NETで提供されています。
+outlineSection: |-
+  ### モジュール 1&#58; Azure Table ストレージを使用するソリューションを開発する
+  Azure Table ストレージは、構造化された NoSQL データをクラウドに保存するサービスで、スキーマレス設計のキー/属性ストアを提供します。Table ストレージはスキーマレスであるため、アプリケーションのニーズの変化に合わせてデータを簡単に調整できます。
+  #### レッスン
+  - Azure Table ストレージの概要
+  - Table ストレージでの承認
+  - Table サービス REST API
+  
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure Table ストレージの機能と使用方法を理解する
+  - 共有キー認証の利用方法を知る
+  - Azure Table ストレージ REST サービスを使用してデータを管理する方法を知る
+
+  ### モジュール 2&#58; Azure Cosmos DB ストレージを使用するソリューションを開発する
+  このモジュールは、Azure Cosmos DB ストレージを対象としています。動作方法、コンテナとアイテムの管理方法、およびコードを使用してドキュメントを作成および更新する方法を生徒に指示します。
+  #### レッスン
+  - Azure Cosmos DB の概要
+  - コンテナおよびアイテムの管理
+  - コードを使用してドキュメントを作成およびアップデートする
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure Cosmos DB のコア機能を理解する
+  - コンテナおよびアイテムを管理する
+  - ドキュメントを作成およびアップデートする
+
+
+  ### モジュール 3&#58; リレーショナル データベースを使用するソリューションを開発す
+  SQL Database は、Microsoft Azure の汎用リレーショナル データベース管理サービスであり、リレーショナル データ、JSON、空間、XML などの構造をサポートしています。
+  #### レッスン
+  - Azure SQL の概要
+  - コードを使用したデータベース テーブルの作成、読込、更新、削除
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure SQL Database サービスの仕組みを理解する
+  - コードを使用してデータベース操作を実行する
+
+
+  ### モジュール 4&#58; Microsoft Azure Blob ストレージを使用するソリューションを開発する
+  Azure Blob ストレージは、クラウド向けの Microsoft のオブジェクト ストレージ ソリューションです。Blob ストレージは、大量の非構造化データを保存するために最適化されています。非構造化データとは、テキスト データやバイナリ データなど、特定のデータ モデルや定義に準拠していないデータです。
+  #### レッスン
+  - Azure Blob ストレージの概要
+  - Azure Blob ストレージの使用
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure Blob ストレージを使用するタイミングと理由を理解する
+  - Blob ストレージ プロパティとメタデータを設定および初期化する
+  - Blob を複製およびコピーする

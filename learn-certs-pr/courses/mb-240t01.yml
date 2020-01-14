@@ -1,0 +1,58 @@
+### YamlMime:Course
+title: Dynamics 365 Field Service の構成
+metadata:
+  title: 'コース MB-240T01-A: Dynamics 365 Field Serviceの構成'
+  description: 'コース MB-240T01-A: Dynamics 365 Field Serviceの構成'
+uid: course.mb-240t01
+courseNumber: 'MB-240T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: フィールド サービスの実行に関連する主要コンポーネントを特定する。
+- skill: 顧客に提供する製品とサービスを定義する。
+- skill: 特定のシナリオで使用する価格設定オプションを決定する。
+- skill: どのリソースが必要かを決定するす。
+- skill: リソースのニーズをサポートするようにシステムを構成する。
+- skill: 一般的に報告される問題を定義し、テンプレート化して使用を容易にする。
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  Dynamics 365 for Field Service は、モバイル ワーカーのリソースの特定とスケジューリング、およびワークロードの管理を支援するさまざまなツールを提供することで、組織が市場での地位を向上させるのに役立ちます。このコースでは、 Field Service およびモバイル ソリューションの提供に使用される主要コンポーネントを特定して構成するために必要なスキルを受講者に習得させます。重要なトピックには、構成の決定と一般的な構成の側面を促進する組織上の考慮事項の特定が含まれます。
+  このコースにおいて、受講者は、顧客と組織の目標に合った効率的なソリューションの設計に役立つ実行に焦点を絞った全体像と最終目標をより深く理解することができます。
+prerequisitesSection: |-
+  Dynamics 365 の特性、機能、ナビゲーションの基本的な理解。
+outlineSection: |-
+  ### モジュール 1&#58; フィールド サービスの構成
+  #### レッスン
+  - フィールド サービスの概要
+  - 製品とサービスの定義
+  - 税法の定義
+
+  ### モジュール 2&#58; リソース スケジューリングの構成
+  #### レッスン
+  - マッピングおよびロケーション情報
+  - リソース コンポーネントの構成
+  - アカウント プリファレンスの定義
+
+
+  ### モジュール 3&#58; 予約可能なリソースの定義と構成
+  #### レッスン
+  - 予約可能なリソースの定義
+  - リソース プール、クルー、ファシリティ
+
+
+  ### モジュール 4&#58; インシデントの操作と構成
+  #### レッスン
+  - インシデントの作成
+  - サービス タスクの使用
+  - 製品、サービス、スキルの定義

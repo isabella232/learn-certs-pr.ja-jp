@@ -1,0 +1,172 @@
+### YamlMime:Course
+title: Microsoft Azure Administrator
+metadata:
+  title: 'コース AZ-103T00-A: Microsoft Azure Administrator'
+  description: 'コース AZ-103T00-A: Microsoft Azure Administrator'
+uid: course.az-103t00
+courseNumber: 'AZ-103T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-virtual-network
+- azure-resource-manager
+exams:
+- uid: exam.az-103
+summary: |-
+  このコースでは、Azure サブスクリプションの管理、仮想マシンの作成とスケーリング、ストレージ ソリューションの実装、仮想ネットワークの構成、データのバックアップと共有、Azure サイトとオンプレミスサイトの接続、ネットワーク トラフィックの管理、Azure Active Directory の実装、ID のセキュリティ、およびソリューションの監視方法について、IT プロフェッショナルに教えます。
+
+  #### 聴衆プロファイル
+  このコースは Azure 管理者向けです。Azure 管理者は、ストレージ、ネットワーク、およびコンピューティング クラウド機能にまたがるクラウドサービスを管理し、IT ライフサイクル全体にわたって各サービスを深く理解しています。新しいクラウド アプリケーションに対するエンドユーザーの要求を受け取り、最適なパフォーマンスとスケール、および必要に応じてプロビジョニング、サイズ設定、監視、調整を行うために使用するサービスを推奨します。このロールには、ベンダーとのコミュニケーションおよび調整が必要です。Azure Administrator は、Azure Portal を使用し、熟練を重ねるにつれて、PowerShell と Command Line Interface を使用するようになります。
+prerequisitesSection: |-
+  - VM、仮想ネットワーク、仮想ハードディスクなどのオンプレミス仮想化技術の理解。
+  - TCP/IP、Domain Name System (DNS)、仮想プライベート ネットワーク (VPN)、ファイアウォール、暗号化技術などのネットワーク構成の理解。
+  - ドメイン、フォレスト、ドメインコントローラー、レプリケーション、Kerberos プロトコル、および Lightweight Directory Access Protocol (LDAP) を含む Active Directory の概念の理解。
+  - バックアップおよび復元操作を含む、復元力と障害回復の理解。
+outlineSection: |-
+  ### モジュール 1&#58; Azure 管理
+  このモジュールでは、Azure 管理者がインフラストラクチャを管理するために使用するツールについて学習します。これには、Azure Portal、Cloud Shell、Azure PowerShell、CLI、Resource Manager、および Resource Manager Templates が含まれます。このモジュールのデモンストレーションは、コース ラボでの成功を保証します。
+  #### レッスン
+  - Azure Portal および Cloud Shell
+  - Azure PowerShell および CLI
+  - リソース マネージャー
+  - ARM テンプレート
+  
+  ### モジュール 2&#58; Azure Virtual Machines
+  このモジュールでは、計画、作成、可用性、拡張機能など、Azure の仮想マシンについて学習します。
+
+  #### レッスン
+  - Virtual Machine の計画
+  - 仮想マシンの作成
+  - Virtual Machine の可用性
+  - Virtual Machine の拡張
+
+
+  #### ラボ &#58; 仮想マシンを展開および管理する
+
+  #### ラボ &#58; 仮想マシンおよびスケール セット
+
+  ### モジュール 3&#58; Azure ストレージ
+  このモジュールでは、ストレージ アカウント、ブロブ ストレージ、Azure ファイル、ストレージ セキュリティなどの基本的なストレージ機能について学習します。
+  #### レッスン
+  - ストレージ アカウント
+  - Azure Blob
+  - Azure ファイル
+  - ストレージ セキュリティ
+
+
+  #### ラボ &#58; ストレージを実装および管理する
+
+  ### モジュール 4&#58; 仮想ネットワーク
+  このモジュールでは、仮想ネットワーク、IP アドレス、Azure DNS、ネットワーク セキュリティ グループなどの基本的な仮想ネットワークの概念について学習します。
+  #### レッスン
+  - Virtual Networks
+  - IP アドレスとエンドポイント
+  - Azure DNS
+  - ネットワーク セキュリティ グループ
+
+
+  #### ラボ &#58; Azure DNS を構成する
+
+  ### モジュール 5&#58; サイト間接続
+  このモジュールでは、VNet Peering、VNet 間接続、サイト間接続、ExpressRoute などのサイト間接続機能について学習します。
+  #### レッスン
+  - VNet ピアリング
+  - VNet から VNet への接続
+  - ExpressRoute 接続
+
+
+  #### ラボ &#58; VNet ピアリングとサービス チェイニング
+
+  ### モジュール 6&#58; 監視
+  このモジュールでは、Azure Monitor、アラート、ログ分析、Network Watcher など、Azure インフラストラクチャの監視について学習します。
+
+  #### レッスン
+  - Azure Monitor
+  - Azure アラート
+  - Log Analytics
+  - ネットワーク ウォッチャー
+
+
+  #### ラボ &#58; ネットワーク ウォッチャー
+
+  ### モジュール 7&#58; データ保護
+  このモジュールでは、データ複製戦略、ファイルとフォルダーのバックアップ、および仮想マシンのバックアップについて学習します。
+
+  #### レッスン
+  - データ複製
+  - ファイルとフォルダーのバックアップ
+  - Virtual Machine のバックアップ
+
+
+  #### ラボ &#58; リージョン間の Azure Site Recovery
+
+  ### モジュール 8&#58; ネットワーク トラフィック管理
+  このモジュールでは、サービス エンドポイント、ネットワーク ルーティング、Azure Load Balancer、Azure Traffic Manager などのネットワーク トラフィック戦略について学習します。
+
+  #### レッスン
+  - ネットワーク ルーティング
+  - Azure Load Balancer
+  - Azure Traffic Manager
+
+
+  #### ラボ &#58; ロード バランサーとトラフィック マネージャー
+
+  ### モジュール 9&#58; Azure Active Directory
+  このモジュールでは、Azure AD Connect や Azure AD Join など、Azure Active Directory (AD) について学習します。
+
+  #### レッスン
+  - Azure Active Directory
+  - Azure AD Connect
+  - Azure AD Join
+
+
+  #### ラボ &#58; ディレクトリの同期を実装する
+
+  ### モジュール 10&#58; ID の保護
+  このモジュールでは、多要素認証、Azure AD ID 保護、セルフ サービス パスワード リセットなど、ID を保護する方法を学習します。
+  #### レッスン
+  - マルチ認証
+  - Azure AD Identity Protection
+  - セルフサービス パスワード リセット
+
+
+  #### ラボ &#58; Azure AD ID 保護
+
+  #### ラボ &#58; セルフ サービス パスワード リセット
+
+  ### モジュール 11&#58; ガバナンスとコンプライアンス
+  このモジュールでは、ロール ベースのアクセス制御、ユーザーとグループ、Azure ポリシーなど、サブスクリプションおよびアカウントの管理について学びます。
+
+  #### レッスン
+  - サブスクリプションとアカウント
+  - ロールベースのアクセス制御 (RBAC)
+  - ユーザーとグループ
+  - Azure ポリシー
+
+
+  #### ラボ &#58; ロール ベースのアクセス制御
+
+  #### ラボ &#58; ガバナンスとコンプライアンス
+
+  ### モジュール 12&#58; データ サービス
+  このモジュールでは、インポートおよびエクスポート サービス、データ ボックス、コンテンツ配信ネットワーク、ファイル同期を使用してデータを効果的に共有する方法を学びます。
+
+  #### レッスン
+  - コンテンツ配信ネットワーク
+  - ファイル同期
+  - サービスのインポートおよびエクスポート
+  - データ ボックス
+
+
+  #### ラボ &#58; ファイル同期

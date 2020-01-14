@@ -1,0 +1,292 @@
+### YamlMime:Course
+title: Microsoft Exchange Server 2016/2019 の管理
+metadata:
+  title: 'コース 20345-1-B: Microsoft Exchange Server 2016/2019 の管理'
+  description: 'コース 20345-1-B: Microsoft Exchange Server 2016/2019 の管理'
+uid: course.20345-1
+courseNumber: '20345-1-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Exchange Server を展開します。
+- skill: Exchange Server のストレージを計画および構成します。
+- skill: Exchange Server でさまざまな受信者オブジェクトを作成および管理します。
+- skill: Exchange Server コマンドレットを使用して、受信者管理および Exchange サーバー管理タスクを実行します。
+- skill: Exchange Server にクライアントアクセスサービスを展開します。
+- skill: Exchange Server の高可用性を管理します。
+- skill: Exchange Server の障害回復を実装します。
+- skill: Exchange Server でメッセージ トランスポートを構成および管理します。
+- skill: Exchange Server でメッセージ セキュリティを構成します。
+- skill: Exchange Server を監視およびトラブルシューティングします。
+- skill: Exchange Server のロール ベースのアクセス制御許可、並びに管理者とユーザーの両方の監査ログを構成します。
+- skill: Exchange Online との統合を実装および管理します。
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.70-345
+summary: |-
+  このコースでは、IT プロフェッショナルが Exchange Server を管理およびサポートする方法を学びます。このコースでは、Exchange Server をインストールおよび構成する方法について説明します。また、Exchange Management Shell を使用して一括操作を実行する方法など、メール受信者とパブリック フォルダを管理する方法についても説明します。さらに、このコースでは、クライアント接続、メッセージ転送と衛生、および可用性の高い Exchange Server 展開の管理方法について説明します。また、障害回復ソリューションの実装方法についても説明します。最後に、このコースでは、Exchange Server の展開を維持および監視する方法と、Office 365 の展開で Exchange Online を管理する方法について説明します。
+
+  #### 聴衆プロファイル
+  このコースの対象者には、Exchange Server のエンタープライズ レベルのメッセージング管理者が含まれます。Exchange Server について学びたい IT ジェネラリストおよびヘルプデスク プロフェッショナルもこのコースを受講できます。このコースを受講する学生は、IT 分野 (通常は Windows Server 管理、ネットワーク管理、ヘルプデスク、またはシステム管理の分野) で 2 年以上の経験が求められます。また、Exchange Server の概念に関するある程度の経験があることも期待されますが、Exchange Server の管理経験は必須ではありません。
+prerequisitesSection: |-
+  このトレーニングに参加する学生は、プロフェッショナルとしての経験に加えて、次の技術知識をすでに身に付けていることが求められます&#58;
+  - Windows Server の管理の最低 2 年の経験。
+  - Active Directory Domain Services (AD DS) の 2 年以上の使用経験
+  - Domain Name System (DNS) を含む、名前解決に関する 2 年以上の経験。
+  - TCP/IP およびネットワークの概念の理解。
+  - 認証や承認などのセキュリティ概念の理解。
+  - Simple Mail Transfer Protocol (SMTP) の理解。
+  - Active Directory Certificate Services (AD CS) を含む、パブリック キー インフラストラクチャ( PKI) テクノロジの実用的な知識。
+outlineSection: |-
+  ### モジュール 1&#58; Exchange Server の展開
+  このモジュールでは、Exchange Server の主要な機能とアーキテクチャについて説明します。また、Exchange Server を展開するための前提条件と要件についても説明します。さらに、Exchange 管理センターと Exchange 管理シェルを使用して Exchange Server を管理する方法についても説明します。
+  #### レッスン
+  - Exchange Server の概要
+  - Exchange Server アーキテクチャ
+  - Exchange Server の要件
+  - Exchange Server Exchange Server の展開
+  - Exchange サーバー管理ツール
+  
+  #### ラボ &#58; Exchange Server の展開
+  - Exchange Server 2019 インストールの要件と前提条件の評価
+  - Exchange Server 2019 の展開
+  - Exchange Server 機能の検証
+  - Windows Server Core 2019 への Exchange Server 2019 のインストール (任意)
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Exchange Server の主要な機能について説明する。
+  - Exchange Server アーキテクチャについて説明する。
+  - Exchange Server を展開するための要件とオプションについて説明する。
+  - Exchange Server を展開します。
+  - 管理ツールを使用して Exchange Server を管理する方法について説明する。
+
+
+  ### モジュール 2&#58; Exchange Server 2016 ストレージの管理
+  このモジュールでは、Exchange Server メールボックス データベースの機能と、Exchange Server で利用可能なストレージ オプションについて説明します。また、Exchange Server メールボックス データベースとストレージを構成する方法についても説明します。
+  #### レッスン
+  - Exchange Server メールボックス データベース
+  - Exchange Server ストレージ
+  - Exchange Server メールボックス データベースとストレージの構成
+
+
+  #### ラボ &#58; Exchange Server ストレージの構成
+  - メールボックス データベースの作成および構成
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Exchange Server メールボックス データベースの機能について説明する。
+  - Exchange Server で利用可能なストレージ オプションについて説明する。
+  - Exchange Server メールボックス データベースとストレージを構成する。
+
+
+  ### モジュール 3&#58; 受信者オブジェクトの管理
+  このモジュールでは、Exchange Server でユーザー、共有、リソース、パブリック フォルダー、調停のメールボックスを管理する方法について説明します。また、Exchange Server で連絡先、メール ユーザー、および配布グループを管理する方法についても説明します。最後に、Exchange Server でアドレス一覧と電子メール アドレスおよびアドレス帳ポリシーを構成する方法について説明します。
+  #### レッスン
+  - ユーザー メールボックスの管理
+  - その他の種類のメールボックスの管理
+  - その他の受信者オブジェクトの管理
+  - ポリシーとアドレス リストの構成
+
+
+  #### ラボ &#58; 受信者オブジェクトの管理
+  - 受信者オブジェクトの構成
+  - パブリック フォルダ メールボックスの管理
+
+
+  #### ラボ &#58; アドレス一覧とポリシーの構成
+  - 電子メールアドレス ポリシーの管理
+  - アドレス リストとアドレス帳ポリシーの管理
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Exchange Server のユーザー メールボックスを管理する。
+  - Exchange Server の共有、リソース、パブリッ クフォルダー、および調停メールボックスを管理する。
+  - Exchange Server の連絡先、メール ユーザー、および配布グループを管理する。
+  - Exchange Server でアドレス リスト、電子メールアドレスおよびアドレス帳ポリシーを構成する。
+
+
+  ### モジュール 4&#58; Exchange Server コマンドレットを使用した受信者と Exchange サーバーの管理
+  このモジュールでは、Exchange Server コマンドレットを使用して受信者を管理する方法について説明します。また、Exchange Server コマンドレットとスクリプトを使用して Exchange サーバーを管理する方法についても説明します。
+  #### レッスン
+  - Exchange Management Shell の概要
+  - Exchange Management Shell コマンドレットによる Exchange Server の管理
+  - スクリプトによる Exchange Server の管理
+
+
+  #### ラボ &#58; Exchange 管理シェルを使用した Exchange Server および受信者オブジェクトの管理
+  - Exchange Management Shell を使用した受信者の管理
+  - Exchange Management Shell を使用した Exchange Server の管理
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Exchange Server コマンドレットを使用して受信者を管理する。
+  - Exchange Server コマンドレットを使用して Exchange Server を管理する。
+  - スクリプトを使用して Exchange Server を管理する。
+
+
+  ### モジュール 5&#58; クライアント接続の実装
+  このモジュールでは、Exchange Server でクライアント アクセス サービスを構成および管理する方法について説明します。また、Exchange Server のクライアント接続オプションと、Web 上の Outlook の設定方法についても説明します。さらに、Exchange Server 用のモバイル メッセージングを設定する方法についても説明します。
+  #### レッスン
+  - クライアントアクセス サービスの設定
+  - クライアントアクセス サービスの管理
+  - Exchange Server のクライアント接続
+  - Web 上の Outlook の設定
+  - モバイル メッセージングの設定
+
+
+  #### ラボ &#58; クライアント アクセス サービスの構成
+  - クライアント アクセス用のネームスペースの設定
+  - クライアント アクセス用の証明書の設定
+  - カスタム MailTips の設定
+
+
+  #### ラボ &#58; Exchange Server でのクライアント アクセス サービスの展開と構成
+  - Outlook 用の Exchange Server の設定
+  - Web 上の Outlook の設定
+  - Microsoft Exchange ActiveSync の設定
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Exchange Server でクライアント アクセス サービスを設定する。
+  - クライアントアクセス サービスを管理します。
+  - Exchange Server サービスのクライアント接続と公開について説明する。
+  - Web 上の Outlook を設定する。
+  - Exchange Server でモバイル メッセージングを設定する。
+
+
+  ### モジュール 6&#58; Exchange Server での高可用性の管理
+  このモジュールでは、Exchange Server の高可用性オプションについて説明します。また、負荷分散方法を使用して、高可用性メールボックス データベースと Client Access サービスを構成する方法についても説明します。
+  #### レッスン
+  - Exchange Server の高可用性
+  - 高可用性メールボックス データベースの設定
+  - クライアント アクセス サービスの高可用性の設定
+
+
+  #### ラボ &#58; DAGの実装
+  - DAG の作成および構成
+
+
+  #### ラボ &#58; 高可用性の実装とテスト
+  - クライアント アクセス サービス用の高可用性ソリューションの展開
+  - 高可用性設定のテスト
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Exchange Server の高可用性について説明する。
+  - 高可用性メールボックス データベースを構成する。
+  - 高可用性 Client Access サービスを構成する。
+
+
+  ### モジュール 7&#58; Exchange Server の障害回復の実装
+  このモジュールでは、Exchange Server のバックアップおよび復元機能と、バックアップ計画を作成するときに考慮する必要がある詳細について説明します。
+  #### レッスン
+  - Exchange Server バックアップの実装
+  - Exchange Server リカバリの実装
+
+
+  #### ラボ &#58; Exchange Server データのバックアップ
+  - Exchange Server メールボックス データベースのバックアップ
+
+
+  #### ラボ &#58; Exchange Server データの復元
+  - Exchange Server メールボックスの復元
+  - データベース可用性グループ (DAG) メンバーの復元 (任意)
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Exchange Server データをバックアップする。
+  - 構成されたバックアップを使用して、Exchange Server データを復元する。
+
+
+  ### モジュール 8&#58; メッセージ移行の構成および管理
+  このモジュールでは、Exchange Server のメッセージング トランスポートについて説明します。また、Exchange Server でメッセージ トランスポートを構成し、Exchange Server でトランスポート ルールを管理する方法についても説明します。
+  #### レッスン
+  - メッセージ トランスポートの概要
+  - メッセージ トランスポートの設定
+  - トランスポート ルールの管理
+
+
+  #### ラボ &#58; メッセージ移行の構成と管理
+  - メッセージ トランスポートの設定
+  - メッセージ配信の監視および検証
+  - 免責トランスポート ルールの構成
+  - 財務データの DLP ポリシーの構成
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Exchange Server でのメッセージ トランスポートについて説明する。
+  - Exchange Server でメッセージ トランスポートを構成する。
+  - Exchange Server でトランスポート ルールを管理する。
+
+
+  ### モジュール 9&#58; メッセージ セキュリティの構成
+  このモジュールでは、メッセージ セキュリティのために Edge Transport サーバーを展開および管理する方法について説明します。また、Exchange Server 用のウイルス対策およびスパム対策ソリューションを実装する方法についても説明します。
+  #### レッスン
+  - メッセージ セキュリティのための Edge Transport サーバーの展開および管理
+  - Exchange Server のウイルス対策ソリューションの実装
+  - Exchange Server 用のスパム対策ソリューションの実装
+
+
+  #### ラボ &#58; Exchange Server でのメッセージ セキュリティの構成
+  - EdgeSync の構成およびテスト
+  - ウイルス対策、スパム対策、マルウェア保護機能の構成
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - メッセージ セキュリティのためにエッジ トランスポート サーバーを展開および管理する。
+  - Exchange Server 用のウイルス対策ソリューションを実装する。
+  - Exchange Server のスパム対策ソリューションを実装する。
+
+
+  ### モジュール 10&#58; Exchange Server の監視およびトラブルシューティング
+  このモジュールでは、パフォーマンス の監視を設定し、Exchange Server の問題をトラブルシューティングする方法について説明します。
+  #### レッスン
+  - Exchange Server の展開
+  - Exchange Server のトラブルシューティング
+
+
+  #### ラボ &#58; Exchange Server の監視とトラブルシューティング
+  - Exchange Server の展開
+  - データベースの可用性のトラブルシューティング
+  - クライアント アクセス サーバーのトラブルシューティング
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Exchange Server でパフォーマンス監視を構成する。
+  - Exchange Server の問題をトラブルシューティングする。
+
+
+  ### モジュール 11&#58; Exchange Server の保護および保守
+  このモジュールでは、ロール ベースのアクセス制御 (RBAC) を使用して Exchange Server を保護する方法について説明します。また、Exchange Server で監査ログを構成する方法、および Exchange Server を維持およびアップデートする方法についても説明します。
+  #### レッスン
+  - RBAC を使用した Exchange Server の保護
+  - Exchange Server で監査ログを構成する
+  - Exchange Server の保守
+
+
+  #### ラボ &#58; Exchange Server の保護と保守
+  - Exchange Server のアクセス許可の構成
+  - 監査ログの構成
+  - Exchange Server の保守
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - RBAC を使用して Exchange Server を保護する。
+  - Exchange Server で監査ログを構成する。
+  - Exchange Server を保守および更新する。
+
+
+  ### モジュール 12&#58; Exchange Online の展開の実装および管理
+  このモジュールでは、Exchange Online と Office 365、およびその管理方法について説明します。また、Exchange Online への移行を実装する方法についても説明します。
+  #### レッスン
+  - Exchange Online および Office 365 の概要
+  - Exchange Online の管理
+  - Exchange Online への移行の実装
+  - ハイブリッド環境の管理
+
+
+  #### ラボ &#58; Exchange Online の管理
+  - Exchange Online の管理
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Exchange Online および Office 365 の概要を示します。
+  - Exchange Online を管理する。
+  - Exchange Online への移行を実装する。

@@ -1,0 +1,78 @@
+### YamlMime:Course
+title: Azure のサービスとしてのインフラのコンピューティングソリューション開発
+metadata:
+  title: 'コース AZ-203T01-A: Azure のサービスとしてのインフラのコンピューティング ソリューション開発'
+  description: 'コース AZ-203T01-A: Azure のサービスとしてのインフラのコンピューティング ソリューション開発'
+uid: course.az-203t01
+courseNumber: 'AZ-203T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  このコースでは、Azure IaaS サービスと機能を開発ソリューションに実装するために必要な知識とスキルを習得します。このコースでは、仮想マシンのプロビジョニング、Batch Service を使用したリソースの展開/保守、および Azure Kubernetes Service を使用したコンテナー化ソリューションの作成方法について説明します。
+  
+  #### 聴衆プロファイル
+  - このコースの学生は、Azure 開発または Microsoft Azure Developer Associate 認定資格試験に合格することに興味があります。
+prerequisitesSection: |-
+  - 学生は開発者としての経験が 1 〜 2 年必要です。このコースは、学生がコーディングの方法を知っており、Azure の基本的な知識があることを前提としています。
+  - 学生は、Azureポータルで作業し、少なくとも1つのAzureでサポートされているプログラミング言語を使用して、PowerShellまたはAzure CLIの経験があることが推奨されます。このコースの例のほとんどは、C#.NETで提供されています。
+outlineSection: |-
+  ### モジュール 1&#58; 仮想マシンを使用したソリューションを実装する
+  生徒は、VM の展開を適切に計画する方法を学びます。Azure Portal、PowerShell、およびコードを使用した VM の作成について説明します。また、繰り返し可能な展開のための Azure Resource Manager (ARM) テンプレートの作成と使用、および Azure Disk Encryption を使用して VM の情報を保護する方法についても説明します。
+  #### レッスン
+  - Provision VMs
+  - ARM テンプレートを作成する
+  - VM の Azure ディスク暗号化を設定
+  
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure Portal、PowerShell、およびコードを使用して、仮想マシンを作成および展開する方法を学びます。
+  - Azure Portal と Visual Studio を使用して ARM を作成および展開する方法を学びます。
+  - さまざまな暗号化オプションを理解し、既存および新規の展開を暗号化する方法を学びます。
+
+  ### モジュール 2&#58; Azure Batch Servicesを使用してバッチ ジョブを実装する
+  Azure Batch は、計算ノード (仮想マシン) のプールを作成および管理し、実行するアプリケーションをインストールし、ノードで実行するジョブをスケジュールします。
+  #### レッスン
+  - Azure Batch の概要
+  - Azure CLI と Azure Portal を使用してバッチ ジョブを実行する
+  - コードを使用してバッチ ジョブを実行する
+  - Batch Services API を使用してバッチ ジョブを管理する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure Batch サービスの仕組みを理解する
+  - Azure CLI を使用してバッチ ジョブを作成および実行する方法を学ぶ
+  - コードを使用してバッチ ジョブを作成および実行する方法を学ぶ
+  - Azure Batch Service API を使用してジョブを管理する方法を学ぶ
+
+
+  ### モジュール 3&#58; コンテナ化されたソリューションを作成する
+  Kubernetes がこれらのアプリケーション コンポーネントの可用性を調整および管理することにより、最新のポータブルなマイクロサービス ベースのアプリケーションを構築および実行できます。Kubernetes は、チームがマイクロサービス ベースのアプリケーションの採用を進めるにつれて、ステートレス アプリケーションとステートフル アプリケーションの両方をサポートします。
+  #### レッスン
+  - Azure Managed Kubernetes Service (AKS) クラスタの作成
+  - ソリューションのコンテナ イメージを作成する
+  - Azure Container Registry にイメージを公開
+  - Azure Container Instance か AKS を使用してのコンテナの実行
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - AKS のコア コンセプトについて学ぶ
+  - AKS クラスターを展開する方法を学ぶ
+  - Azure Container Registry にイメージを公開
+  - Azure Container Instances とそれらに展開する方法を学ぶ

@@ -1,0 +1,176 @@
+### YamlMime:Course
+title: Azure データソリューションの設計
+metadata:
+  title: 'コース DP-201T01-A: Azure データソリューションの設計'
+  description: 'コース DP-201T01-A: Azure データソリューションの設計'
+uid: course.dp-201t01
+courseNumber: 'DP-201T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure
+- azure-cosmos-db
+- azure-data-lake
+- azure-sql-data-warehouse
+- azure-databricks
+- azure-notebooks
+- azure-stream-analytics
+- azure-sql-database
+- azure-storage
+- azure-monitor
+- azure-hdinsight
+exams:
+- uid: exam.dp-201
+summary: |-
+  このコースでは、学生はさまざまなデータ プラットフォーム テクノロジーを設計して、ビジネス要件および技術要件に合ったソリューションを作成します。これには、オンプレミス、クラウド、およびリレーショナル、NoSQL、または Data Warehouse のデータを組み込むハイブリッド データ シナリオが含まれる場合があります。また、ストリーミング データとバッチ データの両方のさまざまなテクノロジを使用して、プロセス アーキテクチャを設計する方法も学習します。また、学生は、データ アクセス、データ ポリシー、標準など、データ セキュリティの設計方法についても学習します。また、ビッグ データの最適化、可用性、障害回復、バッチ処理、ストリーミング データ ソリューションを含む Azure データ ソリューションを設計します。
+  
+  #### 聴衆プロファイル
+  このコースの対象者は、Microsoft Azure に存在するデータ プラットフォーム テクノロジーについて学びたいデータ プロフェッショナル、データ アーキテクト、およびビジネス インテリジェンス プロフェッショナルです。次に対象となるのは、Microsoft Azure に存在するデータ プラットフォーム テクノロジーからコンテンツを配信するアプリケーションを開発する個人です。
+prerequisitesSection: |-
+  専門的な経験に加えて、このトレーニングを受講する学生は、次のコースと同等の技術知識を持っている必要があります&#58;
+  - [Azure Fundamentals](https://docs.microsoft.com/ja-jp/learn/modules/welcome-to-azure/)
+  - DP-200&#58; Azure Data Solution の実装
+outlineSection: |-
+  ### モジュール 1&#58; データ プラットフォーム アーキテクチャの考慮事項
+  このモジュールでは、すべての優れたアーキテクチャに見られる基本原則を検証することにより、Azure で安全でスケーラブルかつパフォーマンスの高いソリューションを設計および構築する方法を学習します。テクノロジーの選択に関係なく、アーキテクチャ全体で主要な原則を使用することで、組織の利益のためにアーキテクチャを設計、構築、継続的に改善する方法を学習します。
+  #### レッスン
+  - アーキテクチャ作成の基本原則
+  - マインドのセキュリティを備えた設計
+  - パフォーマンスとスケーラビリティ
+  - 可用性と回復可能性の設計
+  - 効率性と運用を考慮して設計する
+  - ケース スタディ
+  
+  #### ラボ &#58; ケーススタディ
+  - マインドのセキュリティを備えた設計
+  - パフォーマンスとスケーラビリティを検討する
+  - 可用性と回復可能性の設計
+  - 効率性と運用を考慮して設計する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - マインドのセキュリティを備えた設計
+  - パフォーマンスとスケーラビリティを検討する
+  - 可用性と回復可能性の設計
+  - 効率性と運用を考慮して設計する
+
+
+  ### モジュール 2&#58; Azure Batch Processing リファレンス アーキテクチャ
+  このモジュールでは、学生はデータのバッチ処理を処理するためのリファレンス デザインとアーキテクチャ パターンを学習します。学生は、オンプレミス システムからクラウド データ ウェアハウスへのデータの移動と、それを自動化する方法に対処することになります。また、学生は AI アーキテクチャと、データ プラットフォームを AI ソリューションと統合する方法についても学びます。
+  #### レッスン
+  - Batch Mode Perspective からの Lambda アーキテクチャ
+  - Azure の Enterprise BI ソリューションを設計する
+  - Azure の Enterprise BI ソリューションを自動化する
+  - Azure でエンタープライズ クラスの会話型ボットを設計する
+
+
+  #### ラボ &#58; Azure でエンタープライズ クラスの会話型ボットを設計する
+  - Azure の Enterprise BI ソリューションの設計
+  - Azure の Enterprise BI ソリューションを自動化する
+  - Azure の Enterprise BI ソリューションを自動化する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - アーキテクチャ作成の基本原則を理解する
+  - Batch Mode Perspective からの Lambda アーキテクチャについて説明する
+  - Azure の Enterprise BI ソリューションを設計する
+  - Azure の Enterprise BI ソリューションを自動化する
+  - Azure でエンタープライズ クラスの会話型ボットを設計する
+
+
+
+  ### モジュール 3&#58; Azure リアルタイム リファレンス アーキテクチャ
+  このモジュールでは、ストリーミング データを処理するためのリファレンス デザインとアーキテクチャ パターンを学習します。彼らは、データのリアルタイム分析を提供するために、Event Hubs と Stream Analytics がストリーミング データを取り込む方法を学びます。また、トレンド分析を実行するために Azure Databricks にデータをストリーミングするデータ サイエンス アーキテクチャについても説明します。最終的には、Internet of Things (IoT) アーキテクチャがデータを保存するためにデータ プラットフォーム テクノロジーを必要とする方法を学びます。
+  #### レッスン
+  - Real-Time Perspective で Lambda アーキテクチャを説明する
+  - Azure Stream Analytics を使用してストリーム処理パイプラインを設計する
+  - Azure Databricks を使用してストリーム処理パイプラインを設計する
+  - Azure IoT リファレンスアーキテクチャを作成する
+
+
+  #### ラボ &#58; Azure Real-Time リファレンス アーキテクチャ
+  - Azure Stream Analytics を使用してストリーム処理パイプラインを設計する
+  - Azure Databricks を使用してストリーム処理パイプラインを設計する
+  - Azure IoT リファレンスアーキテクチャを作成する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Real-Time Mode Perspective から Lambda アーキテクチャを説明する
+  - Azure Stream Analytics を使用してストリーム処理パイプラインを設計する
+  - Azure Databricks を使用してストリーム処理パイプラインを設計する
+  - Azure IoT リファレンスアーキテクチャを作成する
+
+
+  ### モジュール 4&#58; データ プラットフォーム セキュリティ設計の考慮事項
+  このモジュールでは、学生はアーキテクチャ設計にセキュリティを組み込む方法を学び、アーキテクチャのすべてのレイヤーを通して安全な環境を作成するために提供される Azure の重要な決定ポイントを学びます。
+  #### レッスン
+  - Depth Security Approach を防ぐ
+  - ID 管理
+  - Infrastructure Protection
+  - Encryption Usage
+  - Network Level Protection
+  - Application Security
+
+
+  #### ラボ &#58; データ プラットフォーム セキュリティ設計の考慮事項
+  - Depth Security Approach を防ぐ
+  - Protection を特定する
+
+  学生はこのモジュールの完了後、次のことが理解できるようになります&#58;
+  - Depth Security Approach を防ぐ
+  - ID 管理
+  - Infrastructure Protection
+  - Encryption Usage
+  - Network Level Protection
+  - Application Security
+
+
+  ### モジュール 5&#58; 弾力性と拡張性を考慮した設計
+  このモジュールでは、負荷を処理するためのスケーリング サービスについて学習します。ユーザーが最高の体験を得るために、ネットワークのボトルネックを特定し、ストレージ パフォーマンスを最適化することが重要であることを学びます。また、インフラストラクチャとサービスの障害を処理する方法、データの損失から回復する方法、およびアーキテクチャの可用性と回復可能性を設計することによって障害から回復する方法を学びます。
+  #### レッスン
+  - Scaling により Workload Capacity を調整する
+  - Network Performance を最適化する
+  - Optimized Storage および Database Performance を考慮した設計
+  - Performance Bottlenecks を特定する
+  - Highly Available Solution を設計する
+  - Disaster Recovery を Architectures に組み込む
+  - Backup and Restore 戦略を設計する
+
+
+  #### ラボ &#58; 弾力性と拡張性を考慮した設計
+  - Scaling により Workload Capacity を調整する
+  - Optimized Storage および Database Performance を考慮した設計
+  - Highly Available Solution を設計する
+  - Disaster Recovery を Architectures に組み込む
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Scaling により Workload Capacity を調整する
+  - Network Performance を最適化する
+  - Optimized Storage および Database Performance を考慮した設計
+  - Performance Bottlenecks を特定する
+  - Highly Available Solution を設計する
+  - Disaster Recovery を Architectures に組み込む
+  - Backup and Restore 戦略を設計する
+
+
+  ### モジュール 6&#58; 効率性と運用を考慮した設計
+  このモジュールでは、運用効率が高く、支出を削減してコストを最小限に抑える Azure アーキテクチャの設計方法を学習し、無駄をなくし、組織の Azure 環境で使用されているものを完全に可視化するアーキテクチャを設計する方法を理解します 。
+  #### レッスン
+  - Cloud Environment の効率を最大化する
+  - 監視と分析を使用して Operational Insights を得る
+  - 自動化を使用して労力とエラーを削減する
+
+
+  #### ラボ &#58; 効率性と運用を考慮した設計
+  - Cloud Environment の効率を最大化する
+  - 監視と分析を使用して Operational Insights を得る
+  - 自動化を使用して労力とエラーを削減する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Cloud Environment の効率を最大化する
+  - 監視と分析を使用して Operational Insights を得る
+  - 自動化を使用して労力とエラーを削減する

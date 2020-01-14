@@ -1,0 +1,83 @@
+### YamlMime:Course
+title: Implementing Workloads and Security
+metadata:
+  title: 'コース AZ-300T02-A: ワークロードとセキュリティの実装'
+  description: 'コース AZ-300T02-A: ワークロードとセキュリティの実装'
+uid: course.az-300t02
+courseNumber: 'AZ-300T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure へのサーバー移行の評価と実行
+- skill: アプリケーション サービスの実装と管理
+- skill: 高度な仮想ネットワークの実装
+- skill: Azure AD を使用した ID の保護
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  このコースでは、オンプレミスのリソースとインフラストラクチャの Azure への移行を検出、評価、計画、実装する方法を IT プロフェッショナルに教えます。学生は、Azure Migrate を使用して、移行を成功させるために重要な発見および評価フェーズを実行する方法を学習します。また、ワークロードを Azure に実際に移行するために Azure Site Recovery を使用する方法も学習します。このコースでは、主に Hyper-V インフラストラクチャで ASR を使用して、移行プロセスを準備および完了します。 
+  
+  また、学生は、Azure Functions、Event Grid、Service Bus などのサーバーレス コンピューティング機能を展開する方法を学びます。学生は、Azure Multi-Factor Authentication がデータとアプリケーションへのアクセスを保護し、シンプルなサインイン プロセスに対する顧客の需要を満たすのにどのように役立つかを学びます。また、学生は、Azure Active Directory Priviledged Identity Manegement を使用して、組織内の Azure リソースへのアクセスを管理、制御、および監視する方法を学習します。
+  
+  開発者が構築および展開するコア Web アプリおよびサービスのインフラストラクチャを管理および保守する方法をご覧ください。学生は、Azure App Service が Web およびモバイル環境向けのクラウド アプリを展開するための Platform as a Service (PaaS) サービスとしてどのように使用されるかを学びます。
+  
+  最後に、学生は Application Gateway、ロード バランシングの設定方法、オンプレミス ネットワークと Azure 仮想ネットワークの統合、問題を監視およびトラブルシューティングするための Network Watcher の使用方法など、高度なネットワーク機能を実装する方法を垣間見ることができます。
+
+  #### 聴衆プロファイル
+  成功する Azure ソリューション アーキテクトは、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、課金、およびネットワーキングの経験からこのロールを開始します。
+outlineSection: |-
+  ### モジュール 1&#58; Azure へのサーバー移行の評価および実行
+  このモジュールでは、ワークロードを別のデータセンターであろうとパブリック クラウドであろうと新しい環境に移行し、移行の明確な目標を設定します。目標には、移行のためのテクノロジーに焦点を当てた目標とビジネスに焦点を当てた目標の両方、および組織のビジネスに対する利点が含まれます。アクティビティには、プロジェクトの作成、コレクターの作成、準備状況の評価、コストの見積もりなど、Azure 移行プロセス&#58; のコンポーネントが含まれます。さらに、エンドツーエンドのシナリオを含む Azure Site Recovery (ASR) の概要を受け取ります。
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure へのサーバ移行の評価と実施
+
+
+  ### モジュール 2&#58; アプリケーション サービスの実装および管理
+  このモジュールには、次のトピックが含まれています&#58; Web アプリの展開、 Web アプリの管理、 App Service Security、サーバーレス コンピューティングの概念、Event Grid の管理、Service Bus の管理、および Logic App の管理。
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - アプリケーション サービスを実装および管理する
+
+
+  ### モジュール 3&#58; 高度な仮想ネットワークの実装
+  このモジュールには、次のトピックが含まれています&#58; Azure Load Balancer、Azure Application Gateway、 サイト間 VPN 接続、 および企業が接続プロバイダーによって促進される専用プライベート接続を介してオンプレミス ネットワークを Microsoft クラウドに拡張できるようにするための ExpressRoute の概要。
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - 高度な仮想ネットワークを実装する
+
+
+  ### モジュール 4&#58; ID の保護
+  このモジュールには、ID とロールに重点を置いた以下のトピックが含まれていますroles&#58; Azure AD Identity Protection、Azure ドメインとテナント、Azure ユーザーとグループ、 Azure ロール、オンプレミスのディレクトリを Azure Active Directory と統合するための Azure AD Connect に焦点を当てた Azure AD 統合オプションの概要。
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure AD を使用して ID を保護する。

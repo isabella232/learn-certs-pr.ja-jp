@@ -1,0 +1,85 @@
+### YamlMime:Course
+title: Designing a Data Platform Solution
+metadata:
+  title: 'コース AZ-301T02-A: データプラットフォームソリューションの設計'
+  description: 'コース AZ-301T02-A: データプラットフォームソリューションの設計'
+uid: course.az-301t02
+courseNumber: 'AZ-301T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: ソリューションの要件に基づいて、Azure Storage の理想的な価格設定オプションを決定します。
+- skill: Azure Storage サービスのパフォーマンスのしきい値を特定します。
+- skill: 特定のソリューション コンポーネントに使用する Storage Blob のタイプを決定します。
+- skill: SMB オペレーションには Azure Files サービスを使用します。
+- skill: StorSimple の物理デバイスまたは仮想デバイスを使用することでメリットが得られるソリューションを特定します。
+- skill: アプリケーション、Azure プラットフォーム、およびネットワークの監視サービスを比較および対比します。
+- skill: Azure でホストされるソリューションのアラート スキームを設計します。
+- skill: Azure でホストされるインフラストラクチャとデータに適切なバックアップ オプションを選択します。
+- skill: バックアップの回復またはスケーリングのために、将来のリソースの展開を自動化します。
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-301
+summary: |-
+  Azure のさまざまなデータベース オプションを比較および対比し、大規模なデータ取り込みのデータ ストリーミング オプションを特定し、長期のデータ ストレージ オプションを特定する方法を学びます。
+  
+  #### 聴衆プロファイル
+  成功するクラウド ソリューション アーキテクトは、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、課金、およびネットワーキングの実践的な経験からこのロールを開始します。
+outlineSection: |-
+  ### モジュール 1&#58; Azure Storage を使用した Azure ソリューションのバックアップ
+  このモジュールでは、Azure Storage サービスを Azure の他のアプリケーション ソリューションのバッキング ストアとして使用する Azure サービスの数について説明します。このモジュールは、Azure Storage をすべての Azure ソリューションの補足サービスとして使用する場合の重要な考慮事項になります。
+  
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - ソリューションの要件に基づいて、Azure Storage の理想的な価格設定オプションを決定する。
+  - Azure Storage サービスのパフォーマンスのしきい値を特定する。
+  - 特定のソリューション コンポーネントに使用する Storage Blob のタイプを決定する。
+  - SMB オペレーションには Azure Files サービスを使用する。
+  - StorSimple の物理デバイスまたは仮想デバイスを使用することでメリットが得られるソリューションを特定する。
+
+  ### モジュール 2&#58; Azure のデータベース オプションの比較
+  このモジュールは、Azure で使用可能なさまざまなリレーショナル データ ストレージ オプションと非リレーショナル データ ストレージ オプションを比較します。オプションは、リレーショナル データベース (Azure SQL Database、MySQL、Postgre on Azure)、非リレーショナル (Azure Cosmos DB および Storage Tables)、ストリーミング (Stream Analytics)、ストレージ (Data Factory、Data Warehouse、 および Data Lake)などグループとして検討されます。
+
+  #### ラボ &#58; Azureでのデータベース インスタンスの展開
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - アプリケーション、Azure プラットフォーム、およびネットワークの監視サービスを比較および対比する。
+  - 大規模なデータ取り込みのデータ ストリーミング オプションを特定する。
+  - 長期的なデータ ストレージ オプションを特定する。
+
+
+  ### モジュール 3&#58; Azure ソリューションの監視および自動化
+  このモジュールでは、Azure ソリューションの設計および展開が可能になった後に利用可能な監視および自動化ソリューションについて説明します。このモジュールは、個々のアプリケーション、Azure プラットフォーム、およびネットワーク コンポーネントの監視に使用されるサービスを確認します。このモジュールでは、Azure でホストされるソリューションのビジネス継続性シナリオを可能にする自動化およびバックアップ オプションについても説明します。
+
+  #### ラボ &#58; 構成管理ソリューションの Azure への展開
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - アプリケーション、Azure プラットフォーム、およびネットワークの監視サービスを比較および対比する。
+  - Azure でホストされるソリューションのアラート スキームを設計する。
+  - Azure でホストされるインフラストラクチャとデータに適切なバックアップ オプションを選択する。
+  - バックアップの回復またはスケーリングのために、将来のリソースの展開を自動化する。

@@ -1,0 +1,126 @@
+### YamlMime:Course
+title: Microsoft 365 Threat Protection の実装
+metadata:
+  title: 'コース MS-500T02-A: Microsoft 365 Threat Protection の実装'
+  description: 'コース MS-500T02-A: Microsoft 365 Threat Protection の実装'
+uid: course.ms-500t02
+courseNumber: 'MS-500T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: サイバー攻撃の脅威ベクトルについて説明する。
+- skill: Microsoft 365 のセキュリティ ソリューションについて説明する
+- skill: Microsoft Secure Score を使用して、セキュリティ対策を評価する。
+- skill: Microsoft Security & Compliance Center のセキュリティ ダッシュボードを使用する。
+- skill: Microsoft 365 向けにさまざまな上級脅威防御サービスを構成する。
+- skill: Advanced Threat Analytics を構成する
+- skill: Mobile Device Management を計画して展開する。
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-500
+summary: |-
+  脅威からの保護は、統合化および動化されたセキュリティによって、攻撃による被害を阻止します。このコースでは、 Microsoft 365 環境の保護を支援する脅威防御テクノロジーについて学習します。具体的には、脅威のベクトルおよび Microsoft のセキュリティ ソリューションについて学習します。受講者は、Secure Score 、 Exchange Online Protection 、 Azure Advanced Threat Protection 、 Windows Defender Advanced Threat Protection 、および Microsoft 365 Threat Intelligence の使用方法について学習します。さらに、モバイル デバイスとアプリケーションのセキュリティ保護についても説明します。このコースの目標は、Microsoft 365 の展開を構成して、必要なセキュリティ体制を確立することです。
+  
+  #### 聴衆プロファイル
+  このコースは、Microsoft 365 セキュリティ管理者ロール向けのものです。このロールは、Microsoft 365 Enterprise Administrator、ビジネス関係者およびその他のワークロード管理者と協力してセキュリティ戦略を計画および実装して、ソリューションが組織のポリシーおよび規制に準拠していることを確認します。
+
+  このロールは、 Microsoft 365 エンタープライズ環境をプロアクティブに保護します。責任には、脅威への対応、および Microsoft 365 環境のセキュリティおよびコンプライアンス ソリューションの実装、管理および監視が含まれます。これらは、インシデント、調査、データ ガバナンスの実施に対応します。
+
+  Microsoft 365 Security 管理者は、 Microsoft 365 ワークロードに精通しており、 ID 保護、情報保護、脅威からの保護、セキュリティ管理およびデータ ガバナンスについての強力なスキルと経験を持っています。このロールは、 Microsoft 365 環境に焦点を当て、ハイブリッド環境を包摂します。
+prerequisitesSection: |-
+  受講者は、すでに以下のスキルを持つこのコースを開始する必要があります。&#58;
+  - Microsoft Azure の基本概念理解。
+  - Windows 10 PowerShell デバイスの経験。
+  - Office 365 の経験。
+  - 承認と認証についての基本的な理解。
+  - コンピュータ ネットワークについての基本的な理解。
+  - モバイル デバイスの管理に関する実務知識。
+outlineSection: |-
+  ### モジュール 1&#58; Microsoft 365 のセキュリティ
+  このモジュールでは、存在するさまざまなサイバー攻撃の脅威から始めます。次に、これらの脅威を阻止する Microsoft のソリューションを紹介します。このモジュールでは、 Microsoft Secure Score の説明と、組織のセキュリティ状態を評価して報告するためにその使用の方法を説明して締めくくります。
+  #### レッスン
+  - 脅威ベクトルとデータ侵害
+  - Microsoft 365 のセキュリティ ソリューション
+  - Microsoft Secure Score
+  
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - ハッカーが電子メールを介してユーザー アカウントを侵害するために使用するいくつかのテクニックについて説明する。
+  - ハッカーがリソースを制御するために使用するテクニックについて説明する。
+  - Exhange Online Protection と Office 365 ATP を使用して回避可能な脅威の種類を挙げる。
+  - Microsoft 365 Threat Intelligence が組織のセキュリティ担当者や管理者にとってどのような利点になるかについて説明する。
+  - セキュア スコアの利点と分析可能なサービスの種類について説明する。
+  - 現在の状況とセキュリティに望まれる状況とのギャップを識別するために、ツールの使用方法を説明します。
+
+
+  ### モジュール 2&#58; Advanced Threat Protection
+  このモジュールでは、 Microsoft 365 で利用可能なさまざまな脅威防御テクノロジーおよびサービスについて説明します。具体的には、 Exchange Online Protection、 Azure Advanced Threat Protection および Windows Defender Advanced Threat Protection によるメッセージ保護について説明します。
+  #### レッスン
+  - Exchange Online Protection
+  - Office 365 Advanced Threat Protection
+  - Safe Attachments の管理
+  - Safe Links の管理
+  - Azure Advanced Threat Protection
+  - Windows Defender Advanced Threat Protection
+
+
+  #### ラボ &#58; Advanced Threat Protection
+  - ラボ環境の設定
+  - ATP Safe Links ポリシーの編集、およびSafe Attachment ポリシーの作成
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Exchange Online Protection によって、電子メールを分析する際のアンチ マルウェア パイプラインについて説明する。
+  - 電子メールの添付ファイルやドキュメントのゼロデイ マルウェアをブロックするために、Safe Attachments の使用方法を説明する。
+  - 電子メールに埋め込まれた悪意のある URL や、悪意のあるウェブサイトを指すドキュメントから、Safe Links を使用してユーザーを保護する方法を説明する。
+  - Azure Advanced Threat Protectionんを構成する。
+  - Windows Defender ATP を構成する。
+  - Windows Defender ATP と Azure ATP を統合する。
+
+
+  ### モジュール 3&#58; Threat Intelligence
+  このモジュールでは、サイバーの脅威を評価して対処するためのツールを提供する Microsoft Threat Intelligence について説明します。Microsoft 365 Security and Compliance Center におけるセキュリティ ダッシュボードの使用方法について学びます。また、 Microsoft Advanced Threat Analytics についても説明し、構成します。
+  #### レッスン
+  - Microsoft 365 Threat Intelligence
+  - セキュリティ ダッシュボードの使用
+  - Advanced Threat Analytics の構成
+
+
+  #### ラボ &#58; Advanced Threat Analytics
+  - ATA Center の有効化とインストール
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Microsoft 365 の脅威インテリジェンスが Microsoft Intelligent Security Graph によって、どのように強化されるかについて説明する。
+  - 脅威を調査してテナントを保護するために、Threat Explorer の使用方法を説明する。
+  - セキュリティ ダッシュボードがどのようにして、経営幹部がトップリスク、グローバル トレンド、保護品質、および組織が脅威にさらされている状況を把握すしているかを、説明する。
+  - Security Dashboard を起動ポイントとして使用して、セキュリティ アナリストが Threat Explorer を使用して詳細をドリルダウンできるようにするために、セキュリティ ダッシュボードの使用方法について説明するす。
+  - Advanced Thread Analytics (ATA) とは何か、また、その展開に必要な要件は何かについて説明する。
+  - Advanced Threat Analytics を構成する。
+
+
+  ### モジュール 4&#58; モビリティ
+  このモジュールでは、モバイル デバイスとアプリケーションのセキュリティ保護について詳しく説明します。受講生は、Mobile Device Management および Intune とのその連携について学習します。また、モバイル アプリケーションを保護するために、 Intune と Azure AD を使用する方法についても学びます。
+  #### レッスン
+  - Mobile Application Management を計画する
+  - Mobile Device Management を計画する
+  - Mobile Device Management を展開する
+  - Mobile Device Management にデバイスを登録する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - モバイル アプリケーションの考慮事項について説明する。
+  - Intune を使用してモバイル アプリケーションを管理する。
+  - MDM でデバイスを管理する。
+  - Office 365 と Intune の MDM を比較する。
+  - MDM のドメインを構成する。
+  - デバイス コンセキュリティ ポリシーを管理する。
+  - 企業デバイス登録ポリシーを定義する。
+  - MDM へのデバイス登録
+  - デバイス登録マネージャ ロールを構成する。

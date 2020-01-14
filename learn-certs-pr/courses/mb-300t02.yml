@@ -1,0 +1,103 @@
+### YamlMime:Course
+title: Dynamics 365 for Finance and Operations におけるコア構成
+metadata:
+  title: 'コース MB-300T02-A: Dynamics 365 for Finance and Operations におけるコア構成'
+  description: 'コース MB-300T02-A: Dynamics 365 for Finance and Operations におけるコア構成'
+uid: course.mb-300t02
+courseNumber: 'MB-300T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  Dynamics 365 for Finance and Operations を使用して、営業費を削減し、ビジネス ニーズの変化に迅速に対応します。このソリューションによって、組織はこれらの目標を達成できます。
+  
+  このコースでは、 Microsoft Dynamics 365 for Finance and Operations のコアコンポーネントの構成方法について説明します。
+  
+  #### 聴衆プロファイル
+  Dynamics 365 for Finance and Operations Functional Consultant は、発見の実行、要件の把握、主題の専門家および関係者の雇用、要件の変換、ソリューションとアプリケーションの設定を担当します。機能コンサルタントは、革新的な機能、コードレス拡張機能、アプリケーション、およびサービス統合を使用してソリューションを実行します。
+prerequisitesSection: |-
+  ERP と CRM の概念に関する基本的な理解。
+outlineSection: |-
+  ### モジュール 1&#58; Set Up and Configure Legal Entities
+  このモジュールでは、 Dynamics 365 for Finance and Operations における法人と数列の設定と構成について説明します。
+  #### レッスン
+  - 法人を作成し、数列を生成する
+  - 数列を作成する
+  - 組織階層を作成する
+  - 目的と方針を適用する
+  - カレンダーと日付の間隔を構成する
+  - 実習ラボ
+  - モジュールのサマリー
+
+
+  受講者は、法人を作成して数列を生成する方法を、手動またはウィザードを使用して学習しました。受講者は、カレンダーと日付の間隔も構成しました。さらに、経営方針とレポート構造を合理化するために、組織階層の作成方法、目的を適用方法、および方針の設定方法についても学習しました。
+
+  ### モジュール 2&#58; ユーザーとセキュリティの管理
+  Microsoft Dynamics 365 for Finance and Operations には、極秘データを安全に保護するために、さまざまなセキュリティおよび構成オプションが用意されています。すなわち、ユーザーは自分のロールに集中でき、システムはできるだけ合理化された状態に維持されます。
+  さまざまなセキュリティ オプションを実行する方法を理解することで、企業はセキュリティ要件を満たすことができます。Finance and Operations のセキュリティ アーキテクチャを理解すれば、ビジネスの要件に合わせてセキュリティをより簡単にカスタマイズできます。
+  #### レッスン
+  - セキュリティ アーキテクチャを理解する
+  - ユーザーとセキュリティを管理する
+  - 職務の分離を設定して適用する
+  - セキュリティ レポートを実行する
+  - バッチ ジョブとアラートを設定する
+  - 実習ラボ
+  - モジュールのサマリー
+
+
+  このモジュールでは、受講者は以下のことを行います。&#58;
+  - Finance and Operations のセキュリティ アーキテクチャを理解する
+  - ユーザーを管理する
+  - セキュリティを管理する
+  - 職務の分離を適用する
+  - セキュリティ レポートを実行する
+
+
+  ### モジュール 3&#58; Personalization の実施
+  パーソナライゼーションにより、システムを使用する際の時間と労力を節約できます。
+  #### レッスン
+  - ユーザー オプションを説明して適用する
+  - パーソナライゼーションを作成、エクスポート、およびインポートする
+  - レコード テンプレートを作成して保持する
+  - 実習ラボ
+  - モジュールのサマリー
+
+
+  受講者は、 Finance and Operations のパーソナライゼーション機能を使用して、ユーザーオプションの使用方法と適用方法、パーソナライゼーションの作成方法、および他のユーザーが使用するパーソナライゼーションのエクスポート方法を学習しました。また、カスタマイゼーションとパーソナライゼーションの相違点についても学習しました。特に、パーソナライゼーションによって、頻繁に使用するフィールド値のパーソナライズにかかる時間を短縮し、レコードテンプレートの作成と保持を可能にする方法について学習しました。
+
+  ### モジュール 4&#58; Common Integration Features の実装
+  Microsoft Dynamics 365 は、たとえば電子メール、 Microsoft Office 、 Power BI など多くの一般的なプログラムと統合されています。
+  #### レッスン
+  Microsoft Office 統合
+  - 電子メールを構成する
+  - 電子メールテンプレートを作成して保持する
+  - Power BI を使用する
+  - ネットワーク印刷を設定する
+  - データを Common Data Services for Apps に統合する
+  - 実習ラボ
+  - モジュールのサマリー
+
+
+  このモジュールで、受講者は、Dynamics 365 for Finance and Operations における Microsoft Office 統合を使用して電子メールを構成する方法（ SMTP/Exchange ）、および顧客に電子メールを送信するときのメッセージを標準化するために電子メールテンプレートを作成して管理する方法について学習しました。ネットワーク印刷機能を設定すれば、企業ネットワーク プリンタをリモートで使用できます。最後に、このモジュールにおいて、データ管理ワークスペースを使用して、複数のソースからのデータを Common Data Service for Apps に統合し、 そのデータを Dynamics 365 for Finance and Operations に統合する方法の概要を説明しました。
+
+  ### モジュール 5&#58; コースの結論
+  コースの最終評価とコース概要、およびコース後のアンケート。
+  #### レッスン
+  - 最終評価
+  - コースのサマリー
+  - コース終了後のアンケート
+
+
+  受講者はコースを終了します。

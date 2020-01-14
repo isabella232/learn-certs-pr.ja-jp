@@ -1,2 +1,21 @@
-- name: Microsoft Certifications
+- name: Microsoft 認定資格
   href: index.yml
+- name: オファー
+  href: deals.md
+- name: ボリュームライセンス
+  href: volume-licensing-program.md
+- name: 認定資格、試験、コースを棄権しました
+  expanded: false
+  items:
+  - name: 認定資格を棄権しました
+    href: retired-certifications.md
+  - name: 試験を棄権しました
+    href: retired-certification-exams.md 
+  - name: コースを棄権しました
+    href: retired-courses.md
+- name: MCT 認定資格
+  href: mct-certification.md
+- name: 試験のポリシーと FAQ
+  href: certification-exam-policies.md
+- name: 認定資格のヘルプ
+  href: help.md

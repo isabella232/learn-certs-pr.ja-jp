@@ -1,0 +1,76 @@
+### YamlMime:Course
+title: Understanding Cloud Architect Technology Solutions
+metadata:
+  title: 'コース AZ-300T03-A: Cloud Architect Technology Solutions を理解する'
+  description: 'コース AZ-300T03-A: Cloud Architect Technology Solutions を理解する'
+uid: course.az-300t03
+courseNumber: 'AZ-300T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 設計および接続パターン
+- skill: ハイブリッド ネットワーキング
+- skill: データとキャッシュの耐久性に対応する
+- skill: スループットとデータ アクセスの構造を測定する
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  このコースでは、IT プロフェッショナルが操作を並列および非同期で行う方法を学びます。また、障害が発生した場合にエンタープライズ システム全体がどのように回復力を持たなければならないか、そして同様に重要なこととして、展開をどのように自動化して予測可能にするかです。Azure Application Architecture Guide と Azure リファレンス アーキテクチャを基礎として使用することで、システムの洞察を得るために監視とテレメトリーがどのように重要であるかを理解できます。 
+  学生は、モジュール式アプリケーションがより大きなアプリケーションに統合できる機能ユニットに分割されるワークロードのパーティション分割など、重要なクラウド設計パターンを極めます。このような場合、各モジュールはアプリケーションの全体的な機能の一部を処理し、関連する一連の懸念事項を表します。 
+  
+  ロード バランサ―は、アルゴリズムを使用して、アプリケーション トラフィックまたは負荷がさまざまなエンドポイントに分散される場所です。ロード バランサーを使用すると、Web サイトの複数のインスタンスを作成して、予測可能な方法で動作させることができます。Azure では、企業が非常に具体的なロード バランサー構成を必要とする場合、仮想マシンでホストされる仮想ロード バランサーを使用できます。
+  また、オンプレミスの開発アプリケーションと一時的なエラーを処理するアプリケーションとの主な違いを定義するのに役立つ一時的な障害処理。一時的なエラーは、サービスの一時的な中断または過剰なレイテンシーのために発生するエラーです。 
+  最後に、このコースには、サイト間接続、ポイントからサイトへの接続、および 2 つの組み合わせの概要を提供するハイブリッド ネットワーキングの説明が含まれています。
+
+  #### 聴衆プロファイル
+  成功する Azure ソリューション アーキテクトは、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、課金、およびネットワーキングの経験からこのロールを開始します。
+outlineSection: |-
+  ### モジュール 1&#58; コンピューティングおよびストレージ ソリューションの選択
+  このモジュールには、次のトピックが含まれています。&#58; Azure Architecture Center、クラウド設計パターン、 競合する消費者パターン、 キャッシュ アサイド パターン、およびデータストアを水平パーティションまたはシャードに分割するシャーディング パターン。各シャードは同じスキーマを持ちますが、データの独自の個別のサブセットを保持します。
+
+  学生はこのモジュールの完了後、次のことが理解できるようになります&#58;
+  - 設計および接続パターン
+
+
+  ### モジュール 2&#58; ハイブリッド ネットワーキング
+  このモジュールには、次のトピックが含まれています。&#58; サイト間接続、ポイントからサイト接続、サイト間接続とポイントからサイト接続の組み合わせ、仮想ネットワークから仮想ネットワークへの接続、フェイルオーバー、バックアップ、または AWS などのプロバイダー間の移行のための、クラウド プロバイダー間の接続。
+
+  学生はこのモジュールの完了後、次のことが理解できるようになります&#58;
+  - ハイブリッド ネットワーキング
+
+
+  ### モジュール 3&#58; データ アクセスの処理能力および構造の測定
+  このモジュールには、次のトピックが含まれています。&#58; DTU – Azure SQL Database、RU – Azure Cosmos DB、構造化および非構造化データ、構造化データ ストアの使用
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - データとキャッシュの耐久性に対応する
+  - スループットとデータ アクセスの構造を測定する

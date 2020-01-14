@@ -1,0 +1,87 @@
+### YamlMime:Course
+title: Modern Messaging Infrastructure の理解
+metadata:
+  title: 'コース MS-200T01-A: Modern Messaging Infrastructure の理解'
+  description: 'コース MS-200T01-A: Modern Messaging Infrastructure の理解'
+uid: course.ms-200t01
+courseNumber: 'MS-200T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Modern Messaging Architecture を理解する
+- skill: Modern Messaging Architecture を展開して管理する
+- skill: Exchange Recipients を作成して管理する
+- skill: Email Addresses、Lists、Resources を管理する
+- skill: Mailbox Databases を計画する
+- skill: Mailbox Databases を作成して管理する
+- skill: Authentication for Messaging を管理する
+- skill: Organizational Settings を構成する
+- skill: Organizational Sharing を構成する
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-200
+summary: |-
+  このコースで受講者は、 Exchange Server と Exchange Online を使用した最新のメッセージング インフラストラクチャのアーキテクチャについて学び、また、さまざまなシナリオや組織でメッセージングを展開する方法について学びます。受講者は、最初の展開プロセスからガイドされ、メッセージング管理ツールについて概要の説明を受けます。受講者は、さまざまな種類の受信者を作成して管理する方法、および Exchange Server メールボックスのデータベースを作成して管理する方法について学びます。このデータベースは、すべてのメッセージング データの保存場所として機能します。最後に、メッセージング環境の認証の管理方法や、組織内のユーザーのクォータの構成方法や、フェデレーションを使用した組織共有の構成方法など、メッセージング インフラストラクチャの組織構成の概要の説明を受けます。
+  
+  #### 聴衆プロファイル
+  メッセージ管理者は、オンプレミス環境とクラウド エンタープライズ環境の両方に
+  おける受信者、パーミッション、メール保護、メール フローおよびパブリック フォルダを
+  展開、構成、管理、およびトラブルシューティングします。責任には、
+  メッセージのウイルス予防策、メッセージング インフラストラクチャ、ハイブリッド構成、
+  および移行の管理が含まれます。また、メッセージ管理者は、災害からの復旧、
+  高可用性、およびクライアント アクセスの実装と管理も行います。最新の組織のビジネス ニーズを満たす
+  十分なハイブリッド テクノロジーを実装するために、メッセージ管理者は
+  セキュリティ管理者および Microsoft 365 エンタプライズ管理者とコラボレーションする必要があります。
+  メッセージ管理者は、認証タイプ、ライセンス、および Microsoft 365 アプリケーションとの
+  統合の実用的な知識を持っている必要があります。
+prerequisitesSection: |-
+  - DNS についての卓越した理解。
+  - Exchange Server または Exchange Online 内のメッセージングに関する基本的な理解。
+  - ID 管理とともに、Active Directory およびドメイン コントローラ インフラストラクチャの基本的な理解。
+  - Microsoft 365 サービスとディレクトリ同期に関する基本的機能の経験。
+  - 少なくとも 5 年間の一般的な IT 経験。
+outlineSection: |-
+  ### モジュール 1&#58; Modern Messaging Infrastructure の管理
+  #### レッスン
+  - Modern Messaging Architecture の概要
+  - Modern Messaging Infrastructure の展開
+  - Modern Messaging Infrastructure の管理
+
+  ### モジュール 2&#58; Recipient Objects and Resources の管理
+  #### レッスン
+  - Exchange の受信者
+  - Exchange Recipients の作成と管理
+  - Email Addresses、Lists、Resources の管理
+
+
+  ### モジュール 3&#58; Mailbox Databases の管理
+  #### レッスン
+  - Exchange Server の Mailbox Databases
+  - メールボックス データベースの計画
+  - Mailbox Databases の作成と管理
+  - Mailbox Databases のトラブルシューティング
+
+
+  ### モジュール 4&#58; Organizational Settings の管理
+  #### レッスン
+  - Authentication for Messaging の管理
+  - Organizational Settings の構成
+  - 外部アクセス向けソリューションの設計
+
+
+  ### モジュール 5&#58; コースの結論
+
+  #### ラボ &#58; Recipient Infrastructure の管理
+  - On-premise Recipient の作成
+  - Cloud Recipient の作成
+  - On-premises Distribution Group の作成
+  - Cloud Distribution Group の作成
+  - Office 365 Group の作成

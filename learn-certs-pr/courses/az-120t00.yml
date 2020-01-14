@@ -1,0 +1,91 @@
+### YamlMime:Course
+title: Planning and Administering Microsoft Azure for SAP Workloads
+metadata:
+  title: 'コース AZ-120T00-A: Microsoft Azure for SAP Workloads 計画と管理'
+  description: 'コース AZ-120T00-A: Microsoft Azure for SAP Workloads 計画と管理'
+uid: course.az-120t00
+courseNumber: 'AZ-120T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure への移行および SAP HANA、S/4HANA、SAP NetWeaver
+- skill: Azure Portal、Cloud Shell、Azure PowerShell、CLI、および Resource Manager を活用する
+- skill: VNet Peering や VNet間接続などのサイト間接続機能を使用する
+- skill: Azure Active Directory (AAD) と Azure AD Connect を使用する
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+- devops-engineer
+products:
+- azure
+exams:
+- uid: exam.az-120
+summary: |-
+  このコースでは、SAP ソリューションを経験した IT プロフェッショナルが、仮想マシン、仮想ネットワーク、ストレージ アカウント、およびハイブリッド ID の実装と管理を含む Azure AD の展開と構成を含む Azure リソースを活用する方法を学びます。このコースの学生は、概念、シナリオ、手順、および実習ラボを通じて、Azure における SAP ソリューションの移行と運用を最適に計画および実装する方法を学びます。サブスクリプションに関するガイダンス、仮想マシンの作成とスケーリング、ストレージ ソリューションの実装、仮想ネットワークの構成、データのバックアップと共有、Azure サイトとオンプレミスサイトの接続、ネットワーク トラフィックの管理、Azure Active Directory の実装、ID のセキュリティ、およびソリューションの監視について、学びます。
+
+  #### 聴衆プロファイル
+  
+  このコースは、Azure で SAP ソリューションを移行および管理する Azure 管理者向けです。Azure 管理者は、ストレージ、ネットワーク、およびコンピューティング クラウド機能にまたがるクラウドサービスを管理し、IT ライフサイクル全体にわたって各サービスを深く理解しています。新しいクラウド アプリケーションに対するエンドユーザーの要求を受け取り、最適なパフォーマンスとスケール、および必要に応じてプロビジョニング、サイズ設定、監視、調整を行うために使用するサービスを推奨します。このロールには、ベンダーとのコミュニケーションおよび調整が必要です。Azure Administrator は、Azure Portal を使用し、熟練を重ねるにつれて、PowerShell と Command Line Interface を使用するようになります。
+prerequisitesSection: |-
+  - SAP 向け Azure ソリューションの管理者およびアーキテクトは、SAP アプリケーション、SAP HANA、S/4HANA、SAP NetWeaver、SAP BW、SAP アプリケーションおよびデータベース向け OS サーバーに関する確かな知識を持っている必要があります。
+  - このコースを受講する前に、SAP HANA および Linux トレーニングだけでなく、Azure Administrator (AZ-103) または Azure Solutions Architect (AZ-300) トレーニングを受講することをお勧めします。
+outlineSection: |-
+  ### モジュール 1&#58; はじめに
+  
+  SAP と Microsoft のパートナーシップの概要が含まれています。
+  
+  ### モジュール 2&#58; Azureの SAP の基礎
+  
+  Azure コンピューティング、Azure ストレージ、Azure ネットワーキング、Azure 向け SAP HANA (大規模インスタンス)、ID サービス、ガバナンスと管理性、バックアップとデータ保護サービス、移行サービスに関する簡単なレッスンが含まれています。
+  
+  ### モジュール 3&#58; Azure の SAP 認定製品
+  
+  一般的な前提条件に関するレッスン (パブリック クラウド環境での SAP サポート)、Azure for SAP ワークロードの展開オプション、Azure の SAP 製品固有のサポート、Azure for SAP ワークロードのオペレーティング システム サポート、Azure for SAP ワークロードのストレージ サポート、SAP のネットワーキング サポート、SAP のデータベース サポート、SAP の高可用性と障害回復のサポート、SAP の監視要件が含まれます。
+  
+  #### ラボ &#58; オンライン ラボ&#58; Azure VM での Linux クラスタリングの実装
+  
+  #### ラボ &#58; オンライン ラボ&#58; Azure VM での Windows クラスタリングの実装
+  
+  ### モジュール 4&#58; Azure リファレンス アーキテクチャの SAP
+  
+  AnyDB、SAP S4 HANA、および Azure VM 上の Azure (Large Instances) 上の SAP HANA を使用した SAP NetWeaver のレッスンが含まれています。
+
+  ### モジュール 4&#58; Azure リファレンス アーキテクチャの SAP
+  
+  AnyDB、SAP S4 HANA、および Azure VM 上の Azure (Large Instances) 上の SAP HANA を使用した SAP NetWeaver のレッスンが含まれています。
+
+  ### モジュール 5&#58; Azure の SAP ソリューションの実装計画
+    
+  Azure VM の計算、ネットワーク、およびストレージに関する考慮事項に関するレッスンが含まれています。Azure VM の高可用性と障害回復、Azure VM バックアップの考慮事項、Azure VM の監視に関する考慮事項、Azure VM のセキュリティに関する考慮事項、Azure VM の認証とアクセス制御に関する考慮事項と同様。
+
+  ### モジュール 6&#58; SAP ワークロードの Azure への移行計画
+    
+  SAP システムを Microsoft Azure および SAP に移行するための戦略に関するレッスンとワークロードの計画と展開のチェックリストが含まれています。
+  
+  ### モジュール 7&#58; Azure VM ベースの SAP ソリューションの実装
+    
+  Azure VM の展開方法、シングル インスタンス実装 (2 層または 3 層) のレッスン、Azure VM での AnyDB を使用した HA SAP NetWeaver の実装、Azure VM での HA SAP HANA の実装、SAP 用の Azure Enhanced Monitoring Extension の構成、および AD および Azure AD ベースの認証の実装が含まれています。
+  
+  ### モジュール 8&#58; モジュール 8 - HANA Large Instances (HLI) の展開
+    
+  HANA Large Instances (HLI) の実装に関するレッスンが含まれています。
+  
+  ### モジュール 9&#58; SAP ワークロードの Azure への移行
+    
+  移行オプション、DMO 方法論、クラウド移行オプション、および Azure への大規模データベース移行に関するレッスンが含まれています。
+  
+  #### ラボ &#58; オンライン ラボ - Linux を実行する Azure VM で SAP アーキテクチャを実装する
+  
+  #### ラボ &#58; オンライン ラボ - Windows を実行する Azure VM で SAP アーキテクチャを実装する
+  
+  ### モジュール 10&#58; Azure の SAP の保守
+    
+  レッスン、リモート管理、バックアップと復元の実行、OS とワークロードの更新、垂直および水平スケーリング、および障害回復 (DR) が含まれています。
+  
+  ### モジュール 11&#58; Azure の SAP の監視およびトラブルシューティング
+    
+  Azure VM の監視、Azure 上の SAP HANA (大規模インスタンス) の監視、SAP ソリューションと Microsoft クラウド サービスの統合に関するレッスンが含まれています。

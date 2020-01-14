@@ -1,0 +1,91 @@
+### YamlMime:Course
+title: Designing an Infrastructure Strategy
+metadata:
+  title: 'コース AZ-301T04-A: インフラストラクチャ戦略の設計'
+  description: 'コース AZ-301T04-A: インフラストラクチャ戦略の設計'
+uid: course.az-301t04
+courseNumber: 'AZ-301T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Cloud Design Patterns から取得したさまざまなパターンについて説明します。
+- skill: ロード バランサーを使用して、複数の負荷にネットワーク トラフィックを分散します。
+- skill: クラウドとオンプレミス間のハイブリッド接続シナリオを設計します。
+- skill: 1 つ以上の仮想マシンの可用性セットを設計します。
+- skill: 障害ドメインと更新ドメインの違いについて説明します。
+- skill: VM Scale Set ARM テンプレートを作成します。
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-301
+summary: |-
+  Azure の VNET の DNS および IP 戦略について説明し、アドホックおよびハイブリッド接続の接続オプションを比較し、ロード バランサーを使用して複数の負荷にネットワーク トラフィックを分散し、クラウドとオンプレミス間のハイブリッド接続シナリオを設計する方法について学びます。
+  
+  #### 聴衆プロファイル
+  成功するクラウド ソリューション アーキテクトは、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、課金、およびネットワーキングの実践的な経験からこのロールを開始します。
+outlineSection: |-
+  ### モジュール 1&#58; Azure のアプリケーション アーキテクチャ パターン
+  このモジュールでは、Microsoft Patterns＆Practices チームが規定した一般的な Azure パターンとアーキテクチャを紹介し、レビューします。各パターンは、パフォーマンス、復元力、およびスケーラビリティのカテゴリにグループ化され、カテゴリ内の同様のパターンのコンテキストで説明されます。
+  
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Cloud Design Patterns のドキュメントを見つけて参照する。
+  - Azure Architecture Center を見つけて参照する。
+  - Cloud Design Patterns から取得したさまざまなパターンについて説明します。
+
+  ### モジュール 2&#58; Azure IaaS ベースのサーバー アプリケーション (ADSK) の構築
+  このモジュールは、AzureのInfrastructure-as-a-Service サービスを使用して理想的に展開されるワークロードを識別します。このモジュールは、Azure の Virtual Machine (VM) Scale Sets と VM サービス、および可用性セットなどのベスト プラクティスと機能を使用してこれらのサービスにワークロードを最適に展開する方法に焦点を当てています。
+
+  #### ラボ &#58; Azure IaaS ベースのサーバー アプリケーションの構築。
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - 1 つ以上の仮想マシンの可用性セットを設計します。
+  - 障害ドメインと更新ドメインの違いについて説明します。
+  - VM Scale Set Azue Resource Manager (ARM) テンプレートを作成します。
+  - Azure またはハイブリッド ネットワークのいずれかで仮想マシンをドメインに加える。
+
+
+  ### モジュール 3&#58; ネットワーク Azure アプリケーション コンポーネント
+  このモジュールでは、Azure に展開されたソリューションで利用可能なさまざまなネットワークおよび接続オプションについて説明します。このモジュールでは、アドホック接続から長期的なハイブリッド接続シナリオに至るまでの接続オプションを検討します。このモジュールでは、複数のコンピューティング インスタンス間でのワークロードのバランス、オンプレミス インフラストラクチャのクラウドへの接続、オンプレミス データのゲートウェイの作成に関連するパフォーマンスとセキュリティの問題についても説明します。
+
+  #### ラボ &#58; Azure ソリューションで使用するネットワーク インフラストラクチャの展開
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azureの VNET の DNS および IP 戦略について説明する。
+  - アドホック接続とハイブリッド接続の接続オプションを比較する。
+  - ロード バランサーを使用して、複数の負荷にネットワーク トラフィックを分散します。
+  - クラウドとオンプレミス間のハイブリッド接続シナリオを設計します。
+
+
+  ### モジュール 4&#58; メッセージング サービスを使用した Azure ソリューション コンポーネントの統合
+  このモジュールでは、Azure プラットフォームでホストされるソリューションで利用可能な統合およびメッセージング サービスについて説明し、比較します。説明されているメッセージング サービスには、Azure Storage Queues、Service Bus Queues、Service Bus Relay、IoT Hubs、Event Hubs、および Notification Hubs が含まれます。統合サービスには、Azure Functions および Logic Apps が含まれます。
+
+  #### ラボ &#58; メッセージング サービスを使用した Azure ソリューション コンポーネントの統合
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Storage Queues と Service Bus Queues を比較する。
+  - ソリューションの統合コンポーネントに Azure Functions または Logic Apps をいつ使用するかを特定する。
+  - IoT Hub、Event Hub、および Time Series Insights の違いを説明する。

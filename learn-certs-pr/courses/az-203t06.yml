@@ -1,0 +1,93 @@
+### YamlMime:Course
+title: Azure サービスとサードパーティサービスの連携と活用
+metadata:
+  title: 'コース AZ-203T06-A: Azure サービスとサードパーティ サービスの連携と活用'
+  description: 'コース AZ-203T06-A: Azure サービスとサードパーティ サービスの連携と活用'
+uid: course.az-203t06
+courseNumber: 'AZ-203T06-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  このコースでは、アプリとサービス間の通信について説明します。学生は、API Management を使用して独自の API を作成および管理する方法、および開発ソリューション内で Azure のさまざまなイベント ベースおよびメッセージ ベースのサービスを使用する方法を学習します。コースを通して、学生は Azure Portal、Azure CLI、REST、およびアプリケーション コードを使用してこれらのリソースを作成および統合する方法を学びます。
+  
+  #### 聴衆プロファイル
+  - このコースの学生は、Azure 開発または Microsoft Azure Developer Associate 認定資格試験に合格することに興味があります。
+  - 学生は開発者としての経験が 1 〜 2 年必要です。このコースは、学生がコーディングの方法を知っており、Azure の基本的な知識があることを前提としています。
+  - 学生は、Azureポータルで作業し、少なくとも1つのAzureでサポートされているプログラミング言語を使用して、PowerShellまたはAzure CLIの経験があることが推奨されます。このコースの例のほとんどは、C#.NETで提供されています。
+prerequisitesSection: |-
+  - 学生は開発者としての経験が 1 〜 2 年必要です。この
+  コースは、学生がコーディングの方法を知っており、Azure の基本的な知識があることを前提としています。
+  - 学生は、Azure ポータルで作業し、Azure がサポートするプログラミング言語を少なくとも 1 つ使用して、PowerShell または Azure CLI の経験があることが推奨されます。 このコースの例のほとんどは、
+  C# .NET で提供されています。
+outlineSection: |-
+  ### モジュール 1&#58; App Service Logic　アプリを開発する
+  Logic Apps は、タスクやビジネス プロセスをワークフローとして自動化することで、企業や組織全体でアプリ、データ、システム、サービスを統合するソリューションの構築を支援します。このモジュールでは、それらの概要と作成方法について説明します。
+  #### レッスン
+  - Azure Logic Apps の概要
+  - Visual Studio を使用して Logic Apps を作成する
+  - Logic App のカスタム コネクターを作成する
+  - Logic App のカスタム テンプレートを作成する
+  
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure Logic Apps を作成および管理する方法を理解する
+
+  ### モジュール 2&#58; ソリューション内にAzure Search を統合する
+  Azure Search は、Web、モバイル、およびエンタープライズ アプリケーションのプライベートな異種コンテンツに豊富な検索エクスペリエンスを追加するための API とツールを開発者に提供する、サービスとしての検索クラウド ソリューションです。このモジュールでは、Azure Search をソリューションに統合する方法を学習します。
+  #### レッスン
+  - Azure Search インデックスの作成およびクエリを行う
+  - Azure Search での全文検索
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - サービスをプロビジョニングし、インデックスを作成し、データをロードし、検索を実行する
+
+
+  ### モジュール 3&#58; API 管理
+  API Management (APIM) は、組織が外部、パートナー、および内部の開発者に API を公開して、データとサービスの可能性を引き出すのに役立ちます。
+  #### レッスン
+  - API Management サービスを紹介する
+  - API の保護
+  - API ポリシーを定義する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure Portal を使用して APIM サービスをプロビジョニングし、サブスクリプションとクライアント証明書で API を保護し、API ポリシーを使用して API の動作を変更する
+
+
+  ### モジュール 4&#58; イベント ベースのソリューションを開発する
+  このモジュールでは、Azure Event Grid、Event Hubs、Notification Hubs をアプリケーションに統合することにより、Azure でのイベント ベースのソリューションの開発について説明します。
+  #### レッスン
+  - Azure Event Grid を使用するソリューションを実装する
+  - Azure Event Hub を使用するソリューションを実装する
+  - Azure Notification Hubs を使用するソリューションを実装する
+
+  学生はこのモジュールの完了後、次のことが理解できるようになります&#58;
+  - サービスがどのように機能し、それらをソリューションに統合する方法を知る
+
+
+  ### モジュール 5&#58; メッセージ ベースのソリューションを開発する
+  Microsoft Azure Service Bus は、完全に管理されたエンタープライズ統合メッセージ ブローカーです。Service Bus は、アプリケーションとサービスを相互に分離するために最も一般的に使用され、非同期データと状態転送のための信頼性の高い安全なプラットフォームです。Azure Queue ストレージは、HTTP または HTTPS を使用した認証された呼び出しを介して世界中のどこからでもアクセスできる多数のメッセージを保存するためのサービスです。
+  #### レッスン
+  - Azure Service Bus を使用するソリューションを実装する
+  - Azure Queue Storage クエリを使用するソリューションを実装する
+
+  学生はこのモジュールの完了後、次のことが理解できるようになります&#58;
+  - ソリューションで Azure メッセージ ベースのサービスを活用する方法について理解する

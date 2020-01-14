@@ -1,0 +1,82 @@
+### YamlMime:Course
+title: Microsoft 365 Identity Management
+metadata:
+  title: 'コース MS-100T03-A: Microsoft 365 Identity Management'
+  description: 'コース MS-100T03-A: Microsoft 365 Identity Management'
+uid: course.ms-100t03
+courseNumber: 'MS-100T03-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Microsoft 365 におけるユーザー アカウントおよびライセンスを管理する
+- skill: Microsoft 365 における管理者ロールとセキュリティ グループを管理する
+- skill: パスワード管理を計画および実装する
+- skill: Microsoft 365 の認証およびプロビジョニング オプションを管理する
+- skill: ディレクトリの同期を計画する
+- skill: Azure AD Connect を計画および実装する
+- skill: 同期済み ID を管理する
+- skill: Azure ADFS Connect 展開を計画および実装する
+- skill: Azure AD にアプリケーションを実装する
+- skill: Azure ADアプリケーションプロキシを構成する
+- skill: 外部アクセスのためのソリューションを設計する
+- skill: Microsoft 365 テナントのヘルスとサービスを管理する
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+summary: |-
+  Microsoft 365 Identity Management について学習します。これには、クラウド ID のユーザーセキュリティグループとライセンスの管理方法、ID 同期化、フェデレーション ID 、アプリケーション、外部アクセスの計画と実装方法が含まれます。
+  
+  #### 聴衆プロファイル
+  このコースは、 Microsoft 365 Enterprise Admin role を希望し、 Microsoft 365 role-based の管理者認定パスの 1 つを終了したユーザーを対象としています。
+prerequisitesSection: |-
+  - Messaging、Teamwork、Security and Compliance、または Collaboration などのロールベース管理者コースを修了。
+  - DNS に関する十分な理解、および Microsoft 365 サービスの基本的機能の経験。
+  - 一般的な IT プラクティスに対する十分な理解。
+outlineSection: |-
+  ### モジュール 1&#58; クラウド ID 用のセキュリティグループおよびライセンスをの管理
+  #### レッスン
+  - Microsoft 365 におけるユーザー アカウントおよびライセンス
+  - Microsoft 365 における管理者ロールとセキュリティ グループ
+  - Microsoft 365 におけるパスワード管理
+
+  #### ラボ &#58; Microsoft 365 ID 環境の管理
+  - 演習 1&#58; ラボ環境の設定
+  - 演習 2&#58; Microsoft 365 管理センターを利用した Microsoft 365 ID 環境の管理
+  - 演習 3&#58; Windows PowerShell を利用した Microsoft 365 ID 環境の管理
+
+
+  ### モジュール 2&#58; Identity Synchronization の計画と実装
+  #### レッスン
+  - Identity Synchronization の概要
+  - Azure AD Connect の計画
+  - Azure AD Connect の実装
+  - 同期済み ID の管理
+
+
+  #### ラボ &#58; Identity Synchronization の実装
+  - 演習 1&#58; 組織を ID 同期化に設定する
+  - 演習 2&#58; Identity Synchronization の実装
+
+
+  ### モジュール 3&#58; Federated Identities の計画と実装
+  #### レッスン
+  - Federated Identities の概要
+  - AD FS 展開の計画
+  - AD FS の実装
+
+
+  ### モジュール 4&#58; アプリケーションと外部アクセスの実装
+  #### レッスン
+  - Azure AD にアプリケーションを実装
+  - Azure ADアプリケーションプロキシを構成
+  - 外部アクセス向けソリューションの設計

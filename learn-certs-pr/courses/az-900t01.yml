@@ -1,0 +1,84 @@
+### YamlMime:Course
+title: Microsoft Azure Fundamentals (1日)
+metadata:
+  title: 'コース AZ-900T01-A: Microsoft Azure Fundamentals (1日)'
+  description: 'コース AZ-900T01-A: Microsoft Azure Fundamentals (1日)'
+uid: course.az-900t01
+courseNumber: 'AZ-900T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 一般的なクラウド コンピューティングの概念を理解する
+- skill: Microsoft Azure で利用可能なコア サービスを理解する
+- skill: Microsoft Azure のセキュリティ、プライバシー、コンプライアンス、信頼を理解する
+- skill: Microsoft で利用可能な価格設定とサポートモデルを理解する
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.az-900
+summary: |-
+  このコースでは、クラウド サービスの基礎レベルの知識と、それらのサービスが Microsoft Azure でどのように提供されるかについて説明します。このコースは、さらに Microsoft Azure または Microsoft クラウド サービスのコースを受講する前に、クラウド サービスと Microsoft Azure について学習するためのオプションの最初のステップとして受講できます。
+  
+  このコースでは、一般的なクラウド コンピューティングの概念に加えて、Public クラウド、Private クラウド および Hybrid クラウド、そして Infrastructure-as-a-Service (IaaS)、Platform-as-a-Service (PaaS)、Software-as-a-Service (SaaS) などの一般的なクラウド コンピューティング モデルとサービスを扱います。
+  
+  また、いくつかのコア Azure サービスとソリューション、およびセキュリティ、プライバシー、コンプライアンス、信頼に関する Azure の主要な柱サービスについても説明します。最後に、Azure で利用可能な価格設定とサポートサービスについて説明します。
+  
+  #### 聴衆プロファイル
+  このコースを受講するための前提条件はありません。Microsoft Azure の詳細を知りたい人を対象としています。
+prerequisitesSection: |-
+  このコースを受講するための前提条件はありません。一般的なIT知識や経験は役に立ちますが、技術的なIT経験は必須ではありません。
+outlineSection: |-
+  ### モジュール 1&#58; クラウドの概念
+  このモジュールでは、クラウドの基本概念を学びます。
+  #### レッスン
+  - 学習目標
+  - Cloud Service を選ぶ理由
+  - サービスとしてのインフラストラクチャ (IaaS)、サービスとしてのプラットフォーム (PaaS)、サービスとしてのソフトウェア(SaaS)
+  - Public、Private、および Hybrid クラウド モデル
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - 一般的なクラウド コンピューティングの概念を理解する
+
+
+  ### モジュール 2&#58; コア Azure サービス
+  このモジュールでは、Microsoft Azure で利用可能な基本的なコア サービスを学習します。
+  #### レッスン
+  - Azure アーキテクチャ のコア コンポーネント
+  - Core Azure Services と Products
+  - Azure Solutions
+  - Azure 管理ツール
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Microsoft Azure で利用可能なコア サービスを理解する
+
+
+  ### モジュール 3&#58; セキュリティ、プライバシー、コンプライアンス、信頼
+  このモジュールでは、Microsoft Azure のセキュリティ、プライバシー、コンプライアンス、および信頼について学習します。
+  #### レッスン
+  - Azure でのネットワーク接続の保護
+  - Azure Identity のコア サービス
+  - セキュリティ ツールと機能
+  - Azure ガバナンス手法
+  - Azure の監視とレポート
+  - Azure のプライバシー、コンプライアンス、データ保護基準
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - 理解する Microsoft Azure によるセキュリティ、プライバシー、コンプライアンス、信頼
+
+  ### モジュール 4&#58; Azure の価格とサポート
+  このモジュールでは、Microsoft で利用可能な価格設定とサポート モデルに焦点を当てます。
+  #### レッスン
+  - Azure サブスクリプション
+  - コストの計画と管理
+  - Azure で使用可能なサポートオプション
+  - Azure のサービス ライフサイクル
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Microsoft で利用可能な価格設定とサポートモデルを理解する

@@ -1,0 +1,325 @@
+### YamlMime:Course
+title: Skype for Business Online および Server 2015 の Voice Workloads の展開
+metadata:
+  title: 'コース 40409-A: Skype for Business Online および Server 2015 の Voice Workloads の展開'
+  description: 'コース 40409-A: Skype for Business Online および Server 2015 の Voice Workloads の展開'
+uid: course.40409
+courseNumber: '40409-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Skype for Business Online および Skype for Business Server 2015 で利用可能なさまざまな音声ワークロードについて説明します。
+- skill: Skype for Business Server 2015 または Skype for Business Online 音声ソリューションの準備のためにネットワークを評価します。
+- skill: Skype for Business Online と Skype for Business Enterprise Voice を組み合わせた Skype for Business 音声ソリューションを展開および構成します。
+- skill: PSTN Calling を使用してクラウド Cloud PBX を展開および構成します。
+- skill: オンプレミスの Enterprise Voice 機能を構成します。
+- skill: On-Premises PSTN Connectivity を使用して Cloud PBX を展開および構成します。
+- skill: Skype for Business Server 2015 と Microsoft 以外の音声インフラストラクチャを統合します。
+- skill: Cloud Connector Edition を計画および展開します。
+- skill: Location Information Servers や Response Groups など、Skype for Business Enterprise Voice (オンプレミス) 機能を拡張する機能を構成します。
+- skill: TCP/IP ネットワーク上の音声通信を最適化します。
+- skill: Call Quality Methodology と Skype for Business Server 2015 の監視ツールとレポートを使用します。
+- skill: Skype for Business Online および Skype for Business Server 2015 Enterprise Voice (オンプレミス) 音声通信のトラブルシューティングを行います。
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.70-333
+summary: |-
+  この 5 日間のインストラクター主導のコースでは、Skype for Business Online および Skype for Business Server 2015 で利用可能なさまざまな音声ソリューションを設計、計画、展開する方法を学びます。このコースでは、PSTN Calling を使用した Cloud PBX、On-Premises PSTN 接続を使用した Cloud PBX、Cloud Connector Edition、およびオンプレミスの Enterprise Voice を構成および管理するための知識とスキルを提供します。このコースでは、手順、ガイドライン、ベスト プラクティス、および Skype for Business Online および Skype for Business Server 2015 音声ソリューションの実装、最適化、およびトラブルシューティングに役立つその他の重要な考慮事項についても説明します。このコースは、学生が Microsoft Exam 70-333 'Skype for Business 2015 によるエンタープライズ VoIP の展開'の準備に役立ちます。
+  #### 聴衆プロファイル
+  このコースは、ユニファイド コミュニケーション (UC) のソリューションを設計、計画、展開、および保守し、ビジネス要件を UC ソリューションのテクニカル アーキテクチャおよび設計に変換する必要がある IT コンサルタントおよび通信専門家を対象としています。また、UC ソリューションの保守を担当するサポート スタッフを対象としています。学生は、Skype for Business Server 2015 または Lync Server 2013 テクノロジー、および Skype for Business アーキテクチャの構成と展開をサポートする通信標準とネットワーク コンポーネントに精通している必要があります。
+prerequisitesSection: |-
+  - Skype for Business Server 2015 または Lync Server 2013 テクノロジーの経験と、サポートされている移行シナリオに関する知識。
+  - エンド ユーザー、エンドポイント デバイス、テレフォニー、音声/ビデオ会議と Web 会議、セキュリティ、高可用性、および障害回復のための Skype for Business Server 2015 と Skype for Business Online ソリューションの計画および展開能力。
+  - Microsoft の監視およびトラブルシューティングツール (Snooper、集中ログサービス (CLS)、Key Health Indicator (KHI)) を使用して、Skype for Business Server 2015 を基本レベルで監視およびトラブルシューティングする能力。
+  - Skype for Business アーキテクチャの構成と展開をサポートする Active Directory ドメイン サービス、データ ネットワーク、Azure Active Directory ドメイン サービス、ディレクトリ同期、および通信標準とネットワーク コンポーネントの技能。
+  - Skype for Business Server 2015 と Microsoft Exchange Server および Office 365 を統合するための要件とプロセスに精通している。
+  - 次の技術に関する知識&#58; Windows、Windows Server および Hyper-V、QoS、TCP/IP、ネットワーク負荷分散、PowerShell、Session Initiation Protocol (SIP) の理解 (SIP トランキング、ゲートウェイ、Session Border Controller (SBC) インターコネクトを含む基本的なテレフォニー概念、および共通構内交換機 (PBX) 展開アーキテクチャ)。
+outlineSection: |-
+  ### モジュール 1&#58; 音声ワークロードの概要
+  Skype for Business 音声ソリューションを設計するには、多くの技術を理解する必要があります。Microsoft の最新のクラウド ベースの音声サービスにより、顧客は企業に音声ソリューションを展開する際の柔軟性がさらに高まりましたが、その柔軟性にはさらに理解しなければならない複雑性が伴います。このモジュールでは、VoIP の基本概念、初期のテレフォニー テクノロジーからの進化、Office 365 サービスおよび Microsoft の音声業界への参入について学びます。また、Skype for Business 製品セットの一部として現在利用可能なオンプレミスおよびクラウド ベースの音声サービスについても学習します。
+  #### レッスン
+  - Voice の概要
+  - Voice Workload の設計
+  - Skype for Business Ecosystem
+  - SIP の基本とルーティング
+  
+  #### ラボ &#58; ラボ環境のカスタマイズ
+  - On-Premises Organization の構成
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Skype for Business Server 2015 および Skype for Business Online で使用されるさまざまな音声アーキテクチャで利用可能な、あらゆるオプションについて説明する。
+  - クラウド テクノロジーが音声アーキテクチャの設計、展開、および管理をどのように変えているかについて説明する。
+  - これまでの経験を、コース全体で学習する内容に関連付ける。
+
+
+  ### モジュール 2&#58; ネットワークと音声の展開オプションを評価する
+  このモジュールでは、Skype for Business Server 2015 または Skype for Business Online の実装のネットワーク準備状況評価を実行する方法を学習します。このモジュールは、Skype Operations Framework (SOF) Plan フェーズと一致しています。特に、このモジュールは、Envision、Assess、および Design の各段階に対応しています。Skype for Business Online と Skype for Business Server 2015 の機能について学習します。また、Skype for Business Online および Skype for Business Server 2015 でサポートされているアーキテクチャについても学習します。
+  #### レッスン
+  - ネットワークの計画および評価
+  - Skype for Business の機能
+  - クラウド PBX ソリューションを計画する
+
+
+  #### ラボ &#58; Office 365 での ID フェデレーションの構成
+  - Office 365 でのカスタム ドメインの追加およびディレクトリ同期の有効化
+  - ディレクトリ同期の実行
+  - Active Directory 連携サービスのインストールと構成
+  - Office 365 でのシングル サインオンの有効化
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - ネットワーク評価のフェーズについて説明する。
+  - Skype for Business Online 計画の特定
+  - サポートされている音声アーキテクチャについて説明する。
+  - 特定のシナリオの音声アーキテクチャを選択する。
+
+
+  ### モジュール 3&#58; 分割ドメイン構成
+  このモジュールでは、スプリット ドメインという用語の意味と、Skype for Business 製品に関する説明の内容を学習します。また、分割ドメインの利点、この環境を展開するために必要な前提条件、構成後のユーザーのプロビジョニング方法についても学習します。最後に、一般的な問題のトラブルシューティングを学びます。
+  #### レッスン
+  - 分割ドメインの概要
+  - 分割ドメインの要件
+  - 分割ドメイン展開
+  - ユーザーのプロビジョニングおよび移行
+  - 分割ドメイン関連の問題のトラブルシューティング
+
+
+  #### ラボ &#58; Skype for Business Online を使用した分割ドメインのセットアップ
+  - Skype for Business Online での分割ドメインのセットアップ
+  - Skype for Business Online へのユーザーの移動
+  - スプリットドメインの Skype for Business ユーザー エクスペリエンスの検証
+  - Skype for Business Online のユーザーの管理
+
+  このモジュールを完了すると、学生は、ドメインのユーザーが Skype for Business Server 2015 と Skype for Business Online の使用に分かれる環境を、展開および構成できるようになります。
+
+  ### モジュール 4&#58; PSTN 通話と会議を使用したクラウド PBX
+  Cloud PBX は、Office 365 で提供される Microsoft ベースの PBX ソリューションです。Cloud PBX は、組織が既存の PBX インフラストラクチャを削除し、PBX 機能と既存の電話番号を Office 365 に移行できるようにします。Public Switch Telephone Network (PSTN) Calling は、Microsoft Calling Plans を介してユーザーに PSTN 接続を提供します。PSTN Conferencing は、Office 365 の Skype for Business Online Meetings 機能に統合されており、ユーザーは PSTN 統合を使用して簡単なダイヤルイン アクセスで独自のオンライン会議を作成、管理、および開催できます。
+  #### レッスン
+  - PSTN 通話機能を備えたクラウド PBX
+  - PSTN 会議開催および会議機能
+  - Skype for Business Server 2015 ダイヤルイン会議
+
+
+  #### ラボ &#58; PSTN 呼び出しを使用したクラウド PBX の構成
+  - Skype for Business Online での PSTN 通話のユーザーの有効化
+  - オンライン PSTN 通話機能の使用
+  - クラウド PSTN 会議のユーザーの有効化
+  - Skype for Business Online での PSTN 会議開催の使用
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - PSTN Cloud PBX with PSTN Calling の機能および会議開催について説明する
+  - 会議開催および会議機能を展開および構成する
+  - PSTN 会議開催を展開および設定する
+
+
+  ### モジュール 5&#58; Enterprise Voice (オンプレミス)
+  このモジュールでは、Skype for Business Server 2015 Enterprise Voice について学習します。Enterprise Voice は、Skype for Business Server 2015 で提供される統合コミュニケーション ソリューションです。Enterprise Voice を使用すると、組織は Publicly Switched Telephone Network (PSTN) を介して通話を送受信できます。Enterprise Voice ソリューションに不可欠な Dial Plans、Voice Polieis、Routes などの音声コンポーネントを構成する方法を学習します。
+  #### レッスン
+  - Enterprise Voice の設計
+  - Enterprise Voice の設定
+  - 音声ルーティング
+  - 電話番号の割り当て
+  - クライアント設定
+  - ユニファイド メッセージング
+
+
+  #### ラボ &#58; エンタープライズ Voice の構成
+  - 正規表現の構築
+  - ダイヤル プランの構成
+  - 音声ポリシー、PSTN 使用法、およびルートの構成
+  - ユーザー ダイヤル プランとポリシーの割り当て
+  - 音声ルーティングのテスト
+  - ロンドン ダイヤル プランの構成
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Skype for Business Enterprise Voice を設計および実装する。
+  - ダイヤルプラン、音声ポリシー、PSTN使用法、音声ルート、トランク、DID および内線番号の番号計画など、Enterprise Voice 設定を構成する。
+  - Skype for Business Voice Routing を説明する
+  - Exchange Unified Messaging を Skype for Business Server 2015 と統合する。
+  - Skype for Business クライアントの音声機能を構成する。
+
+
+  ### モジュール 6&#58; PSTN 接続
+  組織を成功に導くための重要な要素は、社内の従業員と、顧客およびパートナーとの間のコミュニケーション能力です。これを実現するには、既存の Public Branch Exchange (PBX)、ゲートウェイ、またはインターネット サービス プロバイダー (ISP) を使用して、Skype for Business Server 2015 などの内部通信システムと公衆交換電話網間の通信の橋渡しをする必要があります。PSTN への接続により、エンタープライズ ユーザーは、内線通話に使用されるのと同じ Skype for Business クライアントを使用して、外線番号から電話をかけたり受けたりできます。さらに、従業員は、幅広い Skype for Business 機能を活用して、PSTN を介して接続された外部ユーザーとのコミュニケーション インタラクションを改善できます。
+  #### レッスン
+  - PSTN への接続
+  - 既存の PBX への接続
+  - M&#58;N インターワーキング ルーティング
+  - コール ルーティングの信頼性
+  - Call via Work
+  - Shared Line Appearance
+  - IP 電話
+  - ルーム システム
+  - モビリティ
+
+
+  #### ラボ &#58; IP-PBX との統合の構成
+  - ロンドンの Enerprise Voice 設定の構成
+  - Inter-Trunk Routing の構成
+  - Skype for Business Server 2015 統合設定を調査する
+  - IP-PBX 統合設定の構成
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - 仲介サーバー ロールを計画する。
+  - Skype for Business Server 2015 を PSTN に接続する。
+  - M&#58;N インターワーキング ルーティングを実装する。
+  - PSTN を使用して、通話の信頼できるルートを定義する。
+  - Call via Work について説明する
+  - Shared Line Appearance について説明する
+
+
+  ### モジュール 7&#58; 既存の展開を使用したオンプレミス PSTN 接続を備えたクラウド PBX
+  このモジュールでは、既存の展開を使用したオンプレミス PSTN を使用した Cloud PBX の実装と構成について説明します。実装には多くのオプションがあるため、学生はさまざまな方法と接続オプションに精通している必要があります。Cloud PBX を実装するには、Office 365 を備えたテナントと、オフィスまたはパブリック インターネット接続のユーザーが利用できるネットワーク インフラストラクチャが必要です。ダイヤルイン会議は、PSTN Conferencin または Audio Conferencing Provider (ACP) を介して実装する必要があることを覚えておくことが重要です。Cloud Connector Edition を使用した On-Premises PSTN Connectivity については、次のモジュールで説明します。
+  #### レッスン
+  - コール フローと管理性
+
+
+  #### ラボ &#58; コール フローと管理性
+  - *演習 1&#58; 現在の PBX 通話ソリューションのテスト
+  - *演習 2&#58; オンプレミス PSTN 接続を使用したクラウド PBX の有効化
+  - *演習 3&#58; オンプレミス PSTN 接続を使用したクラウド PBX のテスト
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - *オンプレミス PSTN 接続アーキテクチャとシナリオを使用してクラウド PBX について説明する
+
+
+  ### モジュール 8&#58; Cloud Connector Edition を使用したオンプレミス PSTN 接続を備えたクラウド PBX
+  Skype for Business Server 2015 または Lync Server 2013 を含まないオンプレミスの音声ソリューションを持つ企業は、Cloud Connector Edition (CCE) を活用することで、現在のソリューションを Skype for Business Online と統合できます。組織の音声要件をサポートするには、CCE の正しいトポロジを選択することが重要です。このモジュールでは、サポートされているさまざまなトポロジを確認し、展開プロセスに関するガイダンスを提供します。
+  #### レッスン
+  - Cloud Connector エディションの概要
+  - Cloud Connector エディションを介した PSTN 接続の計画
+  - Cloud Connector エディションの展開
+
+
+  #### ラボ &#58; Cloud Connector エディションの展開
+  - Lab Organization の構成
+  - 最初の Cloud Connector Edition 高可用性アプライアンスを準備する
+  - 2 番目の Cloud Connector Edition 高可用性アプライアンスを準備する
+  - Cloud Connector Edition 仮想マシン用のベース VHDX を作成する
+  - 最初の Cloud Connector Edition 高可用性アプライアンスを展開する
+  - Office 365 テナントの構成
+  - オンプレミス PSTN 接続を使用してクラウド PBX をテストする
+  - 2 番目の Cloud Connector Edition 高可用性アプライアンスを展開する
+  - Cloud Connector Edition 高可用性を完了およびテストする
+  - Cloud Connector Edition 管理サービスの自動修復をテストする
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Cloud Connector Edition が組織にとって適切なソリューションであるケースについて把握する。
+  - Cloud Connector エディションの要件を特定する。
+  - Cloud Connector エディションを展開および管理する。
+
+
+  ### モジュール 9&#58; 強化された通話機能およびデバイス要件
+  Enterprise Voice は、コール パーキング、割り当てられていない番号、PSTN 会議、および Response Groups など、多くの特定のオンプレミス機能を提供します。また、コースの前半で紹介した基本的な Enterprise Voice 展開シナリオにも基づいています。
+
+  Enterprise Voice を使用するには、さまざまな Enterprise Voice アプリケーションと、それらを実装および構成する方法について知る必要があります。RGS エージェント グループ、RGS キュー、ハント グループまたは基本ワークフロー、Interactive Voice 応答ワークフローなどのコンポーネントを含む、Skype for Business Server Response Group Service (RGS) について詳しく調べます。さらに、Attendant ルーティング方法を説明できる必要があります。
+  #### レッスン
+  - Call Park Service
+  - 割り当てられていない番号へのコール管理
+  - Delegation および Private Lines
+  - 応答グループ サービス
+  - 位置情報サービスおよび E9-1-1
+
+
+  #### ラボ &#58; レスポンス グループの構成
+  - エージェント グループとキューの構成
+  - ワークフローの設定
+  - 応答グループ サービスの動作の検証
+
+
+  #### ラボ &#58; 位置情報サービスの構成とデバイスの管理
+  - 緊急ルートと PSTN 使用法の作成
+  - 緊急番号用のトランクでの番号操作の設定
+  - LIS ロケーションの定義
+  - LIS 機能の体験
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - さまざまな音声機能について説明する。
+  - Skype for Business Enterprise Voice 機能を拡張する通話機能を構成する。
+  - 応答グループを使用してコール配信を構成する。
+  - 位置情報サービスでデバイスの位置を認識する。
+  - Skype for Business Server 2015 でデバイスを管理します。
+
+
+  ### モジュール 10&#58; ネットワーク要件
+  このモジュールでは、ネットワーク消費を計画し、コール アドミッション制御 (CAC)、サービス品質 (QoS)、ソフトウェア定義ネットワーク (SDN) などの帯域幅最適化テクノロジを実装することにより、ネットワーク上の音声通信を最適化する方法を学習します。Skype for Business Server 2015 および Skype for Business Online で利用可能なメディア スタックについても学習します。
+  #### レッスン
+  - Media Stacks
+  - トラフィック モデリング
+  - サービスの質
+  - ソフトウェア定義ネットワーク
+  - コール アドミッション制御の概要
+  - コール アドミッション制御の実装
+  - ソフトウェア定義ネットワーク
+
+
+  #### ラボ &#58; 音声品質の管理
+  - Skype for Business Bandwidth Calculator への情報の入力
+  - 計算結果の確認
+  - サービス品質の構成
+  - サービス品質アプリケーションの検証
+  - 帯域幅を管理するためのコール アドミッション制御の構成
+  - ネットワーク トラフィックの優先順位付けのための DSCP 値およびポート範囲の分析 (ボーナス演習
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Skype for Business Server 2015 および Skype for Business Online で利用可能なメディアスタックについて説明する。
+  - ネットワーク消費を計画する。
+  - ネットワーク上の音声通信を最適化する。
+  - コールアドミッション制御 (CAC)、サービス品質 (QoS)、ソフトウェア定義ネットワーク (SDN) などの帯域幅最適化テクノロジを実装する。
+
+
+  ### モジュール 11&#58; 音声品質の監視および保守
+  Skype for Business の展開、特に音声および会議のワークロードを成功させるには、通話品質の確認、達成、および維持が不可欠です。このモジュールでは、これらの目標を達成するために使用できるプロセスとツールセットの両方として、Microsoft’s Call Quality Methodology について詳しく説明します。Call Quality Scorecard は、それに付随するスクリプトと Call Quality Dashboard とともに、組織が設定した通話品質目標を測定および維持するための追加ツールとして説明されます。また、このモジュールでは、ネイティブの Skype for Business のツールとデータセットを活用して、展開の品質をトラブルシューティングし、さらに改善する方法も示します。
+  #### レッスン
+  - 通話品質の方法論
+  - 通話品質ダッシュボード
+  - 監視ツール
+  - 使用レポートと監視
+
+
+  #### ラボ &#58; 通話品質ダッシュボードの展開、レポートの分析、および KHI のキャプチャ
+  - Skype 通話品質ダッシュボードのインストール
+  - Skype 通話品質ダッシュボードの使用
+  - ピアツーピア セッションの詳細レポートを分析する
+  - メディア品質レポートのトラブルシューティング
+  - 合成トランザクションの監視
+  - サーバー ヘルスの監視
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Call Quality Methodology (CQM) および監視ツールを活用する。
+  - 通話品質を効果的に定義およびアサートする。
+
+
+  ### モジュール 12&#58; 音声のトラブルシューティング
+  トラブルシューティングは、Skype for Business Server の展開をサポートするために必要な基本的なスキルです。このコース全体で説明したように、Skype for Business インフラストラクチャはさまざまなトポロジで展開できます。Skype for Business 管理者は、Skype for Business Online と Skype for Business Server 2015 に特に適用されるコア ツールおよびトラブルシューティング方法の両方に精通している必要があります。このモジュールでは、Skype for Business クライアント、Skype for Business Server 2015、および Skype for Business Online のトラブルシューティングのためのツールと方法を紹介します。管理者が直面する一般的な問題に精通するために、さまざまなシナリオが検討されます。
+  #### レッスン
+  - 通話品質のトラブルシューティング
+  - トラブルシューティング シナリオ
+  - Skype for Business Online Voice のトラブルシューティング
+  - IP 電話のトラブルシューティング
+
+
+  #### ラボ &#58; ダイヤル プラン、ルーティング、およびトランクのトラブルシューティング
+  - 集中ログ サービス コンポーネントのレビュー
+  - CLS Logger ツールの使用
+  - Fundamental のトレース
+  - ダイヤル プランの設定ミスの特定
+  - 音声ルーティングの問題のトラブルシューティング
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - 通話品質のトラブルシューティング。
+  - トラブルシューティング ツールを特定する
+  - トラブルシューティング シナリオを特定します。
+  - 通話品質の問題を調査、診断、および修正するために、トラブルシューティング方法論を使用する。
+  - Skype for Business Online クライアントの一般的な問題のトラブルシューティング。
+  - IP 電話のトラブルシューティング。
+
+  #### 追加の読書
+  なし

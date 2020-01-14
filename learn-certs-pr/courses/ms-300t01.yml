@@ -1,0 +1,101 @@
+### YamlMime:Course
+title: Office 365 Content Services の管理
+metadata:
+  title: 'コース MS-300T01-A: Office 365 Content Services の管理 '
+  description: 'コース MS-300T01-A: Office 365 Content Services の管理 '
+uid: course.ms-300t01
+courseNumber: 'MS-300T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: SharePoint サイト コレクションの構成する
+- skill: サイト コレクションのストレージ制限を管理する
+- skill: OneDrive for Business Sync クライアントを展開する
+- skill: OneDrive同期クライアント設定を管理するためにGroup Policyを使用する
+- skill: SharePoint Online および OneDrive for Business でデータの外部共有を管理します
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+summary: |-
+  コンテンツは、あらゆる組織にとって最も重要なデジタル資産です。このコースで受講者は、 SharePoint Site Collection と OneDrive for Business を計画、構成、および管理して、コンテンツのライフサイクルを変革する最新のコンテンツ サービスを実現する方法を学習します。コースでは具体的に、 SharePoint ハブサイトなどの最新の SharePoint サイト構造について説明します。それは、組織内で OneDrive for Business を採用および展開するためのベスト プラクティスを提供します。また、SharePoint Online と OneDrive for Business での共有、セキュリティ、監視についても説明します。
+  
+  このコースは、組織内で Teamwork インフラストラクチャを展開および管理する IT プロフェッショナルを対象としています。
+  
+  これは、 Teamwork 管理者ロールの 4 コースのシリーズの最初のコースです。これらのコースは、 MS-300&#58; Deploying Microsoft 365 Teamwork の試験準備に役立ちます。
+
+  #### 聴衆プロファイル
+  このコースは、Microsoft 365 teamwork administrator role 向けのものです。このロールは、試験の受験生は、効率的かつ効果的なコラボレーションと採用に焦点を当てたOffice 365およびAzureワークロードの構成、展開、および管理を担当します。管理者は、ビジネス要件を満たすためにアプリケーション、サービス、およびサポート インフラストラクチャを管理します。管理者は製品とサービスを認識しており、区別することができますが、各製品またはサービスを直接管理することはできません。
+
+  Teamwork 管理者は、SharePoint（オンライン、オンプレミス、およびハイブリッド）、OneDrive、およびチームを展開、管理、移行、および保護できる必要があります。
+
+  Teamwork 管理者は、以下のアプリやサービスとの統合ポイントについて基本的に理解しています&#58; Office、Power Apps、Flow、Yammer、Microsoft Graph、Stream、Planner、および Project。管理者は、基幹業務アプリケーションを含むサード パーティのアプリとサービスを統合する方法を理解しています。
+prerequisitesSection: |-
+  受講者は、すでに以下のスキルを持つこのコースを開始する必要があります。&#58;
+  - Windows PowerShell の経験
+  - Active Directory と Azure AD の基本的な理解
+  - モバイル デバイス管理、およびその他のオペレーティング システム (Android および macOS) の基本的な理解
+outlineSection: |-
+  ### モジュール 1&#58; SharePoint Site Collection の計画と構成
+  このモジュールでは、 SharePoint サイトコレクションの計画、構成、および管理について説明します。SharePoint 管理者が SharePoint Admin Center を使用して組織内のサイトコレクションのライフサイクルを管理する方法について、説明します。
+  #### レッスン
+  - SharePoint Online 概要
+  - サイト コレクションを構成する
+  - サイト コレクションを管理する
+
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - サイト コレクションの概念を説明する
+  - サイト コレクションを作成する
+  - サイト コレクションのストレージ制限を管理する
+  - SharePoint ハブサイトを作成して構成する
+  - サイト コレクションを管理するために、SharePoint Admin Center の使用方法について説明する
+
+
+  ### モジュール 2&#58; OneDrive for Business の構成と管理
+  このモジュールでは、 OneDrive for Business の展開を計画する方法について説明します。さまざまなシナリオに基づいて OneDrive for Business を展開するためのさまざまなアプローチについて説明します。また、 OneDrive for Business のコンテンツを管理する機能についても説明します。
+
+  #### レッスン
+  - OneDrive for Business の概要
+  - OneDrive for Business を展開する
+  - OneDrive for Business を管理する
+
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - ユーザーのストレージ制限を管理する
+  - OneDrive for Business におけるデータ保存を構成する
+  - OneDrive同期クライアント設定を管理するために Group Policy を使用する
+  - OneDrive for Business を展開するさまざまな方法について説明する
+  - OneDrive for Business を管理するために、OneDrive Admin Center の使用方法について説明する
+
+
+  ### モジュール 3&#58; SharePoint and OneDrive における 共有、セキュリティ、および監視
+  このモジュールでは、 SharePoint と OneDrive における共有、セキュリティ、および監視に重点を置いています。具体的には、外部共有の計画と管理、および SharePoint と OneDrive におけるアクセス管理について説明します。また、 SharePoint Online および OneDrive for Business のアクティビティを監視するために、Office 365 Admin Center を使用する方法についても説明します。
+
+
+  #### レッスン
+  - SharePoint と OneDrive における共有を管理する
+  - SharePoint と OneDrive におけるセキュリティを管理する
+  - SharePoint と OneDrive を監視する
+
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - SharePoint Online と OneDrive for Business における外部共有について説明する
+  - SharePoint Online および OneDrive for Business へのデバイス アクセスを管理するオプションについて説明する
+  - SharePoint Online と OneDrive をビジネスで使用しているかどうかを測定する Office 365 レポートを表示する
+
+
+  ### モジュール 4&#58; コースの結論
+
+  #### ラボ &#58; サイトコレクションの作成と構成

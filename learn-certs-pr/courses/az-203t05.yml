@@ -1,0 +1,81 @@
+### YamlMime:Course
+title: Azureソリューションの監視、トラブルシューティング、最適化
+metadata:
+  title: 'コース AZ-203T05-A: Azure ソリューションの監視、トラブルシューティング、最適化'
+  description: 'コース AZ-203T05-A: Azure ソリューションの監視、トラブルシューティング、最適化'
+uid: course.az-203t05
+courseNumber: 'AZ-203T05-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  このコースでは、Azure でホストされるアプリケーションが意図したとおりに効率的に動作するようにするために必要な知識とスキルを習得します。学生は、Azure Monitor の動作方法と、Log Analytics や Application Insights などのツールを使用して、アプリケーションで何が起こっているかをよりよく理解する方法を学びます。また、学生は、オートスケールの実装方法、監視とログ記録をサポートするソリューションのインスツルメント方法、および Azure キャッシュと CDN オプションを使用してエンドユーザー エクスペリエンスを強化する方法について学びます。
+  
+  #### 聴衆プロファイル
+  - このコースの学生は、Azure 開発または Microsoft Azure Developer Associate 認定資格試験に合格することに興味があります。
+  - 学生は開発者としての経験が 1 〜 2 年必要です。このコースは、学生がコーディングの方法を知っており、Azure の基本的な知識があることを前提としています。
+prerequisitesSection: |-
+  - 学生は開発者としての経験が 1 〜 2 年必要です。このコースは、学生がコーディングの方法を知っており、Azure の基本的な知識があることを前提としています。
+  - 学生は、Azureポータルで作業し、少なくとも1つのAzureでサポートされているプログラミング言語を使用して、PowerShellまたはAzure CLIの経験があることが推奨されます。このコースの例のほとんどは、C#.NETで提供されています。
+outlineSection: |-
+  ### モジュール 1&#58; Azure Monitor の概要
+  Azure Monitor は、ソリューションの監視と最適化に必要なすべてのツールを含む中心的なサービスです。
+  #### レッスン
+  - Azure Monitor の概要
+  
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure Monitor の仕組みを理解する
+  - Azure Monitor がデータを収集する場所と方法について知る
+
+  ### モジュール 2&#58; アプリやサービスのスケーラビリティをサポートするコードを開発する
+  このモジュールでは、アプリケーションのスケーリング方法とトラブルシューティングの処理方法について説明します。
+  #### レッスン
+  - オートスケールを実装する
+  - シングルトン アプリケーション インスタンスに対応するコードを実装する
+  - トランジェント フォールトを制御するコードを実装する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - ソリューションをスケーリングするためのオートスケール パターンとベスト プラクティスを理解する
+  - Azure CLI を使用して、リソースの特定のコピーと通信する
+  - ソリューションの一時的な障害を処理する
+
+
+  ### モジュール 3&#58; 監視とロギングをサポートする機器ソリューション
+  このモジュールでは、アプリにコードを追加してデータを Azure Monitor に送信する方法について説明します。
+  #### レッスン
+  - Application Insights を使ってアプリやサーバーで計測を設定する
+  - Azure Monitor を使用してソリューションを分析およびトラブルシューティングする
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - テレメトリをサポートするために、Web ページ、コンソール アプリ、および Windows デスクトップ アプリにデフォルト コードを追加する
+  - ダッシュボードやその他のツールを使用して、アプリの監視とトラブルシューティングを行う
+
+
+  ### モジュール 4&#58; ソリューション内でキャッシュとコンテンツ配信を統合する
+  このモジュールでは、Azure Cache for Redis および Azure CDNs を活用して、より迅速にユーザーにアセットを配信する方法を学習します。
+  #### レッスン
+  - Azure Cache for Redis
+  - CDN のストレージ用に開発する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure Cache for Redis の動作方法と、その構成および操作方法について理解する
+  - Azure CDN を管理する

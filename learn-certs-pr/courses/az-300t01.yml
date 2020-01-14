@@ -1,0 +1,111 @@
+### YamlMime:Course
+title: Deploying and Configuring Infrastructure
+metadata:
+  title: 'コース AZ-300T01-A: インフラストラクチャの展開および設定'
+  description: 'コース AZ-300T01-A: インフラストラクチャの展開および設定'
+uid: course.az-300t01
+courseNumber: 'AZ-300T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Managing Azure Subscriptions and Resources
+- skill: Implementing and Managing Storage
+- skill: VM の展開および管理
+- skill: 仮想ネットワークの構成および管理
+- skill: Azure Active Directory を使用した ID の管理
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  このコースでは、仮想マシン、仮想ネットワーク、ストレージ アカウント、およびハイブリッド ID の実装と管理を含む Azure AD の展開と構成など、Azure リソースの管理方法を IT プロフェッショナルに教えます。また、ユーザーおよびグループ アカウントを通じて Azure でクラウド リソースを管理する方法、およびロール ベースのアクセス制御 (RBAC) を使用して Azure AD ユーザー、グループ、およびサービスへのアクセスを許可する方法についても学習します。
+  学生は、さまざまなストレージ アカウントとサービス、および基本的なデータ複製の概念と利用可能な複製スキームについて学びます。また、Azure ストレージ データを操作する便利な方法として、学生に Storage Explorer を紹介します。また、ストレージの種類と、マネージド ディスクおよびカスタム ディスクの使用方法についても学びます。
+
+  Azure Blob ストレージは、Azure が非構造化データをクラウドに保存する方法であり、生徒は Blob と Blob コンテナーを操作します。Blob ストレージに加えて、このコースでは、構造化データのストレージ オプションとして Table ストレージと Queue ストレージを扱います。
+
+  学生は、Azure ポータル、PowerShell、および ARM テンプレートを使用して、Azure で仮想マシンを作成および展開する方法を学びます。このコースには、カスタム イメージと Linux 仮想マシンの展開に関する指示が含まれています。学生は、仮想マシンのネットワークおよびストレージ コンポーネントの構成方法を学習します。可用性の高い仮想マシンの展開は、計画的および計画外のイベントにとって重要であり、学生は、可用性セットを使用して、ダウンタイム中に仮想マシンのリソースを確実に使用できるようにする方法を学習します。
+
+  学生は、Azure Alerts や Activity Log など、Azure が提供する監視ツールと機能を学習します。アラートとログに加えて、学生にはシステムの状態と正常性を理解するための効果的なデータ分析ソリューションとして Log Analytics が導入されます。そしておそらく、学生が学ぶ最もエキサイティングなことは、Azure Resource Manager (ARM) 展開モデルを使用して、リソース、リソース グループ、ARM テンプレートを操作する方法です。
+
+  このコースは、Azure Solutions Architect 試験のシリーズの最初のコースであるため、カリキュラムの残りのコースに向けて学生を準備するために、かなりの量の紹介コンテンツが提示されます。学生には、Azure ポータルで作業するためのヒントとコツについて触れるレッスンと、Cloud Shell や Resource Explorer などの Azure 環境で使用される主要なツールの紹介が提供されます。重点は、試験の準備だけでなく、職務自体のために習得する重要なスキルとして、PowerShell とコマンド ライン インターフェイス (CLI) に焦点を当てています。
+  
+  #### 聴衆プロファイル
+  成功するクラウド ソリューション アーキテクトは、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、課金、およびネットワーキングの実践的な経験からこのロールを開始します。
+outlineSection: |-
+  ### モジュール 1&#58; Azure サブスクリプションとリソースの管理
+  このモジュールでは、Azure アラート、Azure アクティビティ ログ、および Log Analytics を使用して、Azure の監視機能を調べます。Log Analytics で表示されるデータのクエリ、分析、および解釈を学習します。
+  
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure サブスクリプションとリソースを管理する
+
+
+  ### モジュール 2&#58; ストレージの実装および管理
+  このモジュールでは、Azure ストレージ アカウント、データ レプリケーション、Azure Storage Explorer の使用方法、およびストレージの監視について学習します。
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - ストレージの実装および管理する
+
+
+  ### モジュール 3&#58; 仮想マシン (VM) の展開および管理
+  このモジュールでは、次の方法を学習します&#58;
+  - Azure Portal 内で仮想マシン (VM) を作成する
+  - Azure PowerShell を使用して仮想マシン (VM) を作成する
+  - ARM テンプレートを使用して仮想マシン (VM) を作成する
+  - Linux仮想マシン (VM) を展開する
+  - 仮想マシン (VM) を監視する
+
+  さらに、スナップショット、Azure Backup、Azure Site Recovery のいずれを使用しても、定期的にバックアップを使用してデータを保護する方法を学習します。
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - VM を展開および管理する
+
+
+  ### モジュール 4&#58; 仮想ネットワークの構成および管理
+  このモジュールでは、Azure Portal と Azure PowerShell および CLI を使用して仮想ネットワークを作成および実装します。Azure リソースに IP アドレスを割り当てて、他の Azure リソース、オンプレミス ネットワーク、およびインターネットと通信する方法の概要が表示されます。
+  #### レッスン
+  - ルーティング テーブルとアルゴリズムを使用したネットワーク ルーティング
+  - VNet から VNet への接続と VPN を使用したサイト間接続
+  - 地域的およびグローバルな考慮事項のための仮想ネットワーク ピアリング
+  - ゲートウェイ トランジット
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - 仮想ネットワークを構成および管理する
+
+
+  ### モジュール 5&#58; ID の管理
+  このモジュールは、Azure AD マルチ テナント クラウド ベースのディレクトリおよび ID 管理サービスに焦点を当てた IT 管理者および開発者向けの Azure Active Directory (Azure AD) を対象としています。
+  #### レッスン
+  - ロールベースのアクセス制御 (RBAC)
+  - ビルトイン ロール
+  - セルフサービス パスワード リセット (SSRP)
+  - パスワード リセットの認証方法
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure AD を使用して ID を管理する

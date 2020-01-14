@@ -1,0 +1,116 @@
+### YamlMime:Course
+title: アプリケーション インフラストラクチャの実装
+metadata:
+  title: 'コース AZ-400T05-A: アプリケーション インフラストラクチャの実装'
+  description: 'コース AZ-400T05-A: アプリケーション インフラストラクチャの実装'
+uid: course.az-400t05
+courseNumber: 'AZ-400T05-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: コードの原則としてインフラストラクチャと構成を適用する
+- skill: ARM テンプレート、PowerShell、Azure CLI などの Microsoft 自動化テクノロジーを使用してインフラストラクチャを展開および管理する
+- skill: Azure で利用可能な展開モデルとサービスの説明
+- skill: Managed Kubernetes クラスターを展開して構成する
+- skill: Chef、Puppet、Ansible、SaltStack、Terraform など、Azure のサードパーティ ツールとサービスを使用してインフラストラクチャを展開および構成する
+- skill: インフラストラクチャ、およびリリース パイプラインとアプリケーション インフラストラクチャのための恒星戦略と適切なツールセットを定義する
+- skill: アプリケーション インフラストラクチャにコンプライアンスとセキュリティを実装する
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  このコースでは、DevOps パイプラインにアプリケーション インフラストラクチャを展開するための知識とスキルを提供します。学生は、インフラストラクチャをコードおよび構成管理として実装する方法、一般的な自動化ツールを使用して Azure インフラストラクチャをプロビジョニングする方法、さまざまな Azure サービスと展開方法を使用してアプリケーション インフラストラクチャを展開する方法を学習します。また、生徒は Chef や Puppet などのサードパーティの展開ツールを Azure と統合して、リリース パイプラインにコンプライアンスとセキュリティを組み込む方法を学びます。
+  #### 聴衆プロファイル
+  このコースの学生は、アプリケーション インフラストラクチャの実装、そのインフラストラクチャの管理と構成、または Microsoft Azure DevOps Solutions 認定資格試験に合格することに関心があります。
+prerequisitesSection: |-
+  学生には、Azure に関する基本的な知識、仮想マシンとコンテナーの経験、自動化とスクリプトの経験が必要です。
+
+  Windows または Linux を使用したソフトウェア開発または運用環境での作業経験は役立ちますが、必須ではありません。
+
+  学生は、一般的なアプリケーション開発および展開プロセスの知識も持っている必要があります。
+outlineSection: |-
+  ### モジュール 1&#58; インフラストラクチャおよび構成 Azure ツール
+  #### レッスン
+  - 学習目標
+  - Code および Configuration management としてのインフラストラクチャ
+  - ARM Templates を使用して Azure Resources を作成する
+  - Azure CLI を使用して Azure Resources を作成する
+  - Azure PowerShell を使用して Azure Resources を作成する
+  - 追加の自動化ツール
+  - バージョン管理
+  - ARM テンプレートを使用した Azure へのラボ展開
+  - モジュールレビューの質問
+  
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - コードの原則としてインフラストラクチャと構成を適用する
+  - ARM テンプレート、PowerShell、Azure CLI などの Microsoft 自動化テクノロジーを使用してインフラストラクチャを展開および管理する
+
+  ### モジュール 2&#58; Azure の展開モデルとサービス
+  #### レッスン
+  - 学習目標
+  - 展開モデルとオプション
+  - Azure Infrastructure- as- a- Service (IaaS) Services
+  - DevOps を使用した Azure Automation
+  - Desired State Configuration (DSC)
+  - Azure Platform-as-a-Service (PaaS) サービス
+  - Azure Service Fabric
+  - ラボ Azure Automation - IaaS または PaaS の展開
+  - Moduel Review Questions
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure で利用可能な展開モデルとサービスの説明
+
+
+  ### モジュール 3&#58; Kubernetes サービス インフラストラクチャの作成および管理
+  #### レッスン
+  - 学習目標
+  - Azure Kubernetes Service
+  - AKS Cluster のラボ展開とスケーリング
+  - モジュールレビューの質問
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Managed Kubernetes クラスターを展開して構成する
+
+
+  ### モジュール 4&#58; Azure で利用可能なサードパーティおよびオープンソース ツール
+  #### レッスン
+  - 学習目標
+  - シェフ
+  - パペット
+  - アンシブル
+  - クラウド初期化
+  - Terraform
+  - X を使用して Azure でアプリをラボ プロビジョニングおよび構成する
+  - モジュールレビューの質問
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Chef、Puppet、Ansible、SaltStack、Terraform など、Azure のサードパーティ ツールとサービスを使用してインフラストラクチャを展開および構成する
+
+
+  ### モジュール 5&#58; インフラストラクチャにコンプライアンスとセキュリティを実装する
+  #### レッスン
+  - DevOps によるセキュリティとコンプライアンスの原則
+  - Azure Security Center
+  - ラボは Azure DevOps パイプライン/セキュリティ センターにスキャン拡張機能またはツールを統合する
+  - モジュールレビューの質問
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - インフラストラクチャ、およびリリース パイプラインとアプリケーション インフラストラクチャのための恒星戦略と適切なツールセットを定義する
+  - アプリケーション インフラストラクチャにコンプライアンスとセキュリティを実装する
+
+
+  ### モジュール 6&#58; コースの修了
+  #### レッスン
+  - 最終試験

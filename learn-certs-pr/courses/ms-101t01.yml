@@ -1,0 +1,69 @@
+### YamlMime:Course
+title: Microsoft 365 セキュリティ管理
+metadata:
+  title: 'コース MS-101T01-A: Microsoft 365 Security Management'
+  description: 'コース MS-101T01-A: Microsoft 365 Security Management'
+uid: course.ms-101t01
+courseNumber: 'MS-101T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Security Metrics を管理する
+- skill: Microsoft 365 にセキュリティソリューションを実装する
+- skill: Azure AD ID 保護を計画および構成します
+- skill: Microsoft Secure Score を実装する
+- skill: Exchange Online Protection を実装する
+- skill: Advanced Threat Protection を実装する
+- skill: Safe Attachments および Safe Links を管理する
+- skill: Microsoft 365 Threat Intelligence を実装する
+- skill: Microsoft 365 Security Dashboard を使用する
+- skill: Advanced Threat Analytics を構成する
+- skill: クラウド アプリケーションのセキュリティを実装する
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  Microsoft 365 Security Management を学びましょう。これには、セキュリティメトリクスの管理方法、 Azure AD Identity Protection の有効化方法、 Microsoft 365 セキュリティサービスの構成方法、およびユーザー Microsoft 365 Threat Intelligence が含まれています。
+  
+  #### 聴衆プロファイル
+  このコースは、 Microsoft 365 Enterprise Admin role を希望し、 Microsoft 365 role-based の管理者認定パスの 1 つを終了したユーザーを対象としています。
+prerequisitesSection: |-
+  - Messaging、Teamwork、Security and Compliance、または Collaboration などのロールベース管理者コースを修了。
+  - DNS に関する十分な理解、および Microsoft 365 サービスの基本的機能の経験。
+  - 一般的な IT プラクティスに対する十分な理解。
+outlineSection: |-
+  ### モジュール 1&#58; Microsoft 365 テナントの設計
+  #### レッスン
+  - Microsoft 365のオンプレミス インフラストラクチャを計画
+  - ID および認証ソリューションの計画
+
+  ### モジュール 2&#58; Microsoft 365 テナントの構成
+  #### レッスン
+  - Microsoft 365 エクスペリエンスの計画
+  - Microsoft 365 エクスペリエンスの構成
+  - FastTrack および Partner Services の活用
+  - ドメインサービスの実装
+
+
+  ### モジュール 3&#58; Microsoft 365 テナントの管理
+  #### レッスン
+  - テナントロールの構成
+  - テナント ヘルスとサービスの管理
+
+
+  ### モジュール 4&#58; ハンズオン ラボ
+
+  #### ラボ &#58; Microsoft 365 セキュリティ の管理
+  - 演習 1&#58; ラボ環境の設定
+  - 演習 2&#58; ATP Safe Links ポリシーを編集し、Safe Attachment ポリシーを作成する
+  - 演習 3&#58; ATA Center の有効化およびインストール

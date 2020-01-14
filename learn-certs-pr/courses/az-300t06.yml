@@ -1,0 +1,108 @@
+### YamlMime:Course
+title: Developing for the Cloud
+metadata:
+  title: 'コース AZ-300T06-A: Developing for the Cloud'
+  description: 'コース AZ-300T06-A: Developing for the Cloud'
+uid: course.az-300t06
+courseNumber: 'AZ-300T06-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: メッセージ ベースの統合アーキテクチャの構成方法
+- skill: Asynchronous Processing 向けの開発方法を理解する
+- skill: オートスケーリング用のアプリの作成を開始する
+- skill: Azure Cognitive Services ソリューションを理解する
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  メッセージ ベースの統合アーキテクチャを構成する方法、非同期プロセッシング用に開発する方法、自動スケーリング用のアプリを作成する方法、および Azure Cognitive Services ソリューションをよりよく理解する方法を学びます。
+  
+  #### 聴衆プロファイル
+  成功するクラウド ソリューション アーキテクトは、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、課金、およびネットワーキングの実践的な経験からこのロールを開始します。
+outlineSection: |-
+  ### モジュール 1&#58; 長時間実行するタスクと分散トランザクションの開発
+  このモジュールのトピックは次のとおりです。&#58; バッチを使用した大規模、並列、および高性能アプリの実装、Microsoft Azure Virtual Machines を使用したHPC、キューを使用した復元力のあるアプリの実装、Webhook を使用したアプリケーション イベントに対処するコードの実装。Webhook を実装すると、外部リソースにアプリケーションの URL が提供されます。 外部リソースは、アプリケーションがアクションを実行する必要がある変更が行われるたびに、その URL に HTTP 要求を発行します。
+  
+  ### モジュール 2&#58; メッセージ ベースの統合アーキテクチャの構成
+  #### レッスン
+  - メールを送信するためにアプリまたはサービスを構成する
+  - イベントの発行および購読モデルを構成する
+  - Azure Relay サービスを構成する
+  - Microsoft Graph でアプリとサービスを構成する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - メッセージ ベースの統合アーキテクチャの設定
+
+
+  ### モジュール 3&#58; 非同期プロセッシングの開発
+  #### レッスン
+  - 並列処理、マルチ スレッド、プロセスを実装する
+  - Azure Functions と Azure Logic Apps を実装する
+  - ストレージまたはデータ アクセス用のインターフェイスを実装する
+  - 適切な非同期コンピューティング モデルを実装する
+  - オートスケーリングのルールとパターンを実装する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Asynchronous Processing 向けの開発方法を理解する
+
+
+  ### モジュール 4&#58; オート スケーリングの開発
+  #### レッスン
+  - オートスケーリングのルールとパターンの実装
+  - シングルトン アプリケーション インスタンスに対応するコードの実装
+  - 一時的な状態に対処するコードの実装
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - オートスケーリング用のアプリの作成を開始する
+
+
+  ### モジュール 5&#58; Azure Cognitive Services ソリューションの開発
+  #### レッスン
+  - Computer Vision を使用したソリューションの開発
+  - Bing Web Search を使用したソリューションの開発
+  - Custom Speech Service を使用したソリューションの開発
+  - QnA Maker を使用したソリューションの開発
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure Cognitive Services ソリューションを理解する
+
+
+  ### モジュール 6&#58; Azure ストレージ向けの開発
+  #### レッスン
+  - Azure Cosmos DB Storage を使用するソリューションを開発する
+  - Relational Database を使用するソリューションを開発する
+  - Entity Framework Core を使用したデータベースのモデリング
+  - Microsoft Azure Blob Storage を使用するソリューションを開発する
+  - .NET での Blob Container プロパティの操作
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Blob や Cosmos DB などの Azure Storage サービスを理解する

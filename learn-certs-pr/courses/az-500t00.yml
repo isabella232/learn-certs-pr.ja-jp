@@ -1,0 +1,77 @@
+### YamlMime:Course
+title: Microsoft Azure Security Technologies
+metadata:
+  title: 'コース AZ-500T00-A: Microsoft Azure Security Technologies'
+  description: 'コース AZ-500T00-A: Microsoft Azure Security Technologies'
+uid: course.az-500t00
+courseNumber: 'AZ-500T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure の特殊なデータ分類を説明する
+- skill: Azure データ保護メカニズムを特定する
+- skill: Azure データ暗号化方法を実装する
+- skill: セキュリティで保護されたインターネット プロトコルとそれらを Azure に実装する方法
+- skill: Azure のセキュリティ サービスと機能を説明する
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-policy
+- azure-virtual-network
+- azure-monitor
+- azure-key-vault
+exams:
+- uid: exam.az-500
+summary: |-
+  このコースでは、さまざまなセキュリティツールを使用して、セキュリティ コントロールの実装、セキュリティ体制の維持、脆弱性の特定と修復に必要な知識とスキルを習得します。
+
+
+  このコースでは、スクリプト作成と自動化、仮想化、クラウド N 層アーキテクチャについて説明します。
+
+  #### 聴衆プロファイル
+  学生は、少なくとも 1 年の Azure ワークロードを保護する実践的な経験と、Azure 上のワークロードのセキュリティ制御の経験が必要です。
+prerequisitesSection: |-
+  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/ja-jp/learn/certifications/azure-administrator)
+outlineSection: |-
+  ### モジュール 1&#58; ID およびアクセス
+  #### レッスン
+  - Azure ワークロードとサブスクリプション用に Azure Active Directory を構成する
+  - Azure AD Privileged Identity Management を構成する
+  - Azure サブスクリプションのセキュリティを構成する
+  
+  
+  ### モジュール 2&#58; プラットフォーム保護
+  #### レッスン
+  - クラウド セキュリティを理解する
+  - ネットワークを構築する
+  - 安全なネットワーク
+  - ホスト セキュリティを実装する
+  - プラットフォーム セキュリティを実装する
+  - サブスクリプション セキュリティを実装する
+
+
+  ### モジュール 3&#58; セキュリティ運用
+  #### レッスン
+  - セキュリティ サービスを設定する
+  - Azure Security Center を使用してセキュリティ ポリシーを構成する
+  - セキュリティ アラートを管理する
+  - セキュリティ問題に対応および修正する
+  - セキュリティ ベースラインの作成
+
+
+  ### モジュール 4&#58; データとアプリケーション
+  #### レッスン
+  - データを管理するためのセキュリティ ポリシーを設定する
+  - データ インフラストラクチャのセキュリティを設定する
+  - 保存データの暗号化を設定する
+  - アプリケーション セキュリティを理解する
+  - アプリケーション ライフサイクルのためのセキュリティを実装する
+  - 安全なアプリケーション
+  - Azure Key Vault を設定および管理する

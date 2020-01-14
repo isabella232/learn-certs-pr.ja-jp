@@ -1,0 +1,87 @@
+### YamlMime:Course
+title: 展開、移行、統合の設計
+metadata:
+  title: 'コース AZ-301T03-A: 展開、移行、統合の設計'
+  description: 'コース AZ-301T03-A: 展開、移行、統合の設計'
+uid: course.az-301t03
+courseNumber: 'AZ-301T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: リソース グループを作成します。
+- skill: リソースをリソース グループに追加します。
+- skill: ARM テンプレートをリソース グループに展開します。
+- skill: API または Logic App を API Management サービスと統合します。
+- skill: 高いパフォーマンスおよび測定のために、App Service Plan またはマルチ リージョン展開を設計します。
+- skill: API または Logic App を API Management サービスと統合します。
+- skill: 高いパフォーマンスおよび測定のために、App Service Plan またはマルチ リージョン展開を設計します。
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-301
+summary: |-
+  Azure Resource Manager (ARM) テンプレートをリソース グループに展開する方法、Azure Building Blocks ツールを使用して複雑な展開を作成する方法、および API または Logic App を API Management サービスに統合する方法を学びます。
+  
+  #### 聴衆プロファイル
+  成功するクラウド ソリューション アーキテクトは、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、課金、およびネットワーキングの実践的な経験からこのロールを開始します。
+outlineSection: |-
+  ### モジュール 1&#58; Azure Resource Manager を使用したリソースの展開
+  このモジュールは、Azure Resource Manager (ARM) の基本的な理解と、展開、リソース、テンプレート、リソース グループ、タグのコア概念を確立します。このモジュールでは、ARM テンプレートを使用したリソースの自動展開について詳しく説明します。
+  
+  #### ラボ &#58; Azure Resource Manager を使用したリソースの展開
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - リソース グループを作成する。
+  - リソースをリソース グループに追加する。
+  - ARM テンプレートをリソース グループに展開する。
+  - タグを使用してリソースをフィルタリングする。
+  - Azure Building Blocks ツールを使用して複雑な展開を作成する。
+
+  ### モジュール 2&#58; Azure での管理サーバー アプリケーションの作成
+  このモジュールでは、特定のサーバー リソースを管理することなく、ソリューションが Azure のサーバーレス アプリケーション ホスティング サービスを活用して、
+  Web アプリケーション、REST API、統合ワークフロー、HPC ワークロードをホストする方法について説明します。このモジュールは、Web アプリ、API アプリ、モバイル アプリ、ロジック アプリ、関数などの App Services 関連のコンポーネントに焦点を当てています。
+
+  #### ラボ &#58; 管理されコンテナ化されたワークロードの Azure への展開
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - App Service インスタンスでホストするアプリケーション コードまたはコンテナーを選択する。
+  - API、モバイル、Web アプリの違いについて説明する。
+  - API または Logic App を API Management サービスと統合する。
+  - 高いパフォーマンスおよび測定のために、App Service Plan またはマルチ リージョン展開を設計する。
+
+
+  ### モジュール 3&#58; Azure でのサーバーレス アプリケーションの作成
+  このモジュールでは、特定のサーバー リソースを管理することなく、ソリューションが Azure のサーバーレス アプリケーション ホスティング サービスを活用して、
+  Web アプリケーション、REST API、統合ワークフロー、HPC ワークロードをホストする方法について説明します。このモジュールは、Web アプリ、API アプリ、モバイル アプリ、ロジック アプリ、関数などの App Services 関連のコンポーネントに焦点を当てています。
+
+  #### ラボ &#58; サーバーレスのワークロードの Azure への展開
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - App Service インスタンスでホストするアプリケーション コードまたはコンテナーを選択する。
+  - API、モバイル、Web アプリの違いについて説明する。
+  - API または Logic App を API Management サービスと統合する。
+  - 高いパフォーマンスおよび測定のために、App Service Plan またはマルチ リージョン展開を設計する。

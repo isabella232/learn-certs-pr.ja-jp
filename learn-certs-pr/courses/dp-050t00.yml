@@ -1,0 +1,130 @@
+### YamlMime:Course
+title: SQL Workloads を Azure に移行する
+metadata:
+  title: 'コース DP-050T00-A: SQL Workloads を Azure に移行する'
+  description: 'コース DP-050T00-A: SQL Workloads を Azure に移行する'
+uid: course.dp-050t00
+courseNumber: 'DP-050T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Data Platform Modernization について理解する
+- skill: データ移行に適切なツールを選択する
+- skill: SQL Workloads を Azure Virtual Machines に移行する
+- skill: SQL Workloads を Azure SQL Database へ移行する
+- skill: SQL Workloads を Azure SQL Database Managed Instance へ移行する
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  このコースでは、学生はデータ プラットフォームの近代化の目的と、それが特定のビジネス要件にどのように適しているかを探ります。また、データ プラットフォームの近代化プロセスの各段階を調査し、評価や計画段階など、各段階に含まれるタスクを定義します。また、利用可能な移行ツールと、データ移行プロセスの各段階にどのように適しているかについても学びます。
+  学生は、Azure Virtual Machines、Azure SQL Database、Azure SQL Database Managed Instances など SQL ベースのワークロードの 3 つの対象プラットフォームに移行する方法を学びます。学生は、各対象プラットフォームの利点と制限、およびそれらを使用して現代の SQL ワークロードのビジネス要件と技術要件の両方を満たす方法を学習します。学生は、Azure の最新のデータ プラットフォームを最大限に活用できるように、既存の SQL ベースのアプリケーションに必要な変更を検討します。
+  
+  #### 聴衆プロファイル
+  このコースの対象者は、Microsoft Azure に存在するデータ プラットフォーム テクノロジの移行と、既存の SQL ベースのワークロードを移行および近代化する方法について学びたいデータ プロフェッショナルおよびデータ アーキテクトです。
+  次にこのコースの対象となる人は、データ プラットフォームを管理するか、既存のデータ プラットフォーム テクノロジーからコンテンツを配信するアプリケーションを開発する個人です。
+prerequisitesSection: |-
+  SQL Server での専門的な経験に加えて、このトレーニングを受講する学生は、次のコースと同等の技術知識を持っている必要があります&#58;
+  - Azure fundamentals
+outlineSection: |-
+  ### モジュール 1&#58; Data Platform Modernization の概要
+  このモジュールでは、学生はデータ プラットフォームの近代化の目的を学び、データ プラットフォームの近代化が組織にもたらす利点について概説します。その後、学生は、データ プラットフォーム移行プロジェクトのさまざまな段階を学習し、各段階に何が含まれているかを理解して、データ プラットフォーム最新化プロジェクトの成功の可能性を最大化します。最後に、学生はさまざまなデータ移行パスを調べて、各アプローチがどのように異なるのか、なぜ移行アプローチを選択するのかを理解します。
+  #### レッスン
+  - Data Platform Modernization について理解する
+  - 移行の段階について理解する
+  - Data Migration Paths
+  
+  #### ラボ &#58; Data Platform Modernization の紹介
+  - Data Platform Modernization について理解する
+  - 移行の段階について理解する
+  - Data Migration Paths
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Data Platform Modernization について理解する
+  - 移行の段階について理解する
+  - Data Migration Paths
+
+
+  ### モジュール 2&#58; データ移行に適切なツールを選択する
+  このモジュールでは、既存のデータ プラットフォームを近代化するためのステップバイステップのガイダンスに組織が使用する必要のある情報源の出発点として、学生をデータ移行ガイドに紹介します。その後、Microsoft Assessment and Planning Toolkit の価値を学び、現在の環境に存在するデータ資産を見つけるのに役立ちます。
+  学生は、その後データ移行とデータ実験アシスタントの両方を使用して、互換性やワークロードの問題を評価するのに役立つツールについて学びます。その後、Azure Database Migration Service を使用してデータベースのオンライン移行を支援し、ダウンタイムを減らす方法を学習します。最後に、非 SQL Server ワークロードを移行する方法を学生に示すために、SQL 移行アシスタントの概要が提供されます。
+
+  #### レッスン
+  - Database Migration Guide を確認する
+  - Map Toolkit を使用してデータ資産インベントリを構築する
+  - Data Migration Assistant を使用して移行候補を特定する
+  - Database Experimentation Assistant を使用してデータワーク ロードを評価する
+  - Azure Database Migration Service を使用したデータ移行
+  - SQL Migration Assistant を使用して非 SQL Server ワークロードを Azure に移行する
+
+
+  #### ラボ &#58; データ移行に適切なツールを選択する
+  - Data Migration Assistant を使用して移行候補を特定する
+  - Database Experimentation Assistant を使用してデータワーク ロードを評価する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Data Migration Assistant を使用して移行候補を特定する
+  - Database Experimentation Assistant を使用してデータワーク ロードを評価する
+
+
+  ### モジュール 3&#58; SQL ワークロードの Azure Virtual Machines への移行
+  このモジュールでは、オンプレミスの SQ Lワークロードを SQL Server を実行している Azure 仮想マシンに移行する方法を学習します。学生はまず、オンプレミスの SQL Server から Azure Virtual Machines に移行する際の移行に関する考慮事項と、移行を実行することで得られるメリットについて説明します。
+
+  その後、Azure Virtual Machines に移行するときに実行できるさまざまな移行オプションについて学習します。これには、各アプローチの利点と制限の検討が含まれます。最後に、学生は高可用性と障害回復を含む SQL Server ワークロードを見て、サービスの継続性を確保します。
+
+  #### レッスン
+  - SQL Server から Azure VM への移行に関する考慮事項
+  - SQL Workloads から Azure VM への移行オプション
+  - 高可用性と障害回復シナリオの実装
+
+
+  #### ラボ &#58; SQL ワークロードの Azure Virtual Machines への移行
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - SQL Server から Azure VM への移行に関する考慮事項
+  - SQL Workloads から Azure VM への移行オプション
+  - 高可用性と障害回復シナリオの実装
+
+
+  ### モジュール 4&#58; SQL ワークロードを Azure SQL データベースに移行する
+  このモジュールでは、学生は Azure SQL Database とは何か、なぜ SQL ベースのワークロードに適しているのかを探ります。適切な SQL Server インスタンス オプションの選択方法と、データ プラットフォームの近代化のビジネス要件を満たす理由を学生に教えます。
+
+  モジュールでは、Azure SQL Database へのオフライン移行とオンライン移行の両方をどのように実行できるかについても説明します。そうすることで、学生はどの方法が職場のシナリオに適しているかを評価できるようになります。また、データ移行プロセスを有効にするために使用できるツールも示します。最後に、オンプレミスのインスタンスから Azure SQL Database にデータをロードするために使用できる方法を調べます。
+
+  #### レッスン
+  - Azureで適切な SQL Server Instance オプションを選択する
+  - SQL Server を Azure SQL DB オフラインへ移行する
+  - SQL Server を Azure SQL DB オンラインへ移行する
+  - データを Azure SQL Database にロードおよび移動する
+
+
+  #### ラボ &#58; SQL ワークロードの Azure SQL データベースへの移行
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azureで適切な SQL Server Instance オプションを選択する
+  - SQL Server を Azure SQL DB オフラインへ移行する
+  - SQL Server を Azure SQL DB オンラインへ移行する
+  - データを Azure SQL Database にロードおよび移動する
+
+
+  ### モジュール 5&#58; SQL ワークロードを Azure SQL Database Managed Instance に移行する
+  このモジュールでは、Azure SQL Database Managed Instance とは何か、なぜ SQL ベースのワークロードに適した対象であるのかについて説明します。また、Azure SQL Database Managed Instance がデータ プラットフォームの近代化のビジネス要件を満たす方法についても学習します。その後学生は、Azure SQL Database Managed Instance へのデータ移行プロセスを可能にするために使用できるツールについて調査します。
+  その後、オンプレミス インスタンスから Azure SQL Database Managed Instance にデータをロードするために使用できる方法とツールについて調査します。最後に、Azure SQL Database Managed Instance を使用できるように、既存の SQL ベースのアプリケーションに対して行う必要のある変更の一部について学習します。
+
+  #### レッスン
+  - SQL Database Managed Instance への移行シナリオを評価する
+  - SQL Database Managed インスタンスへ移行する
+  - SQL Database Managed インスタンスにデータをロードおよび移動する
+  - アプリケーションの構成と最適化
+
+
+  #### ラボ &#58; SQL ワークロードの Azure SQL Database マネージド インスタンスへの移行
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - SQL Database Managed Instance への移行シナリオを評価する
+  - SQL Database Managed インスタンスへ移行する
+  - SQL Database Managed インスタンスにデータをロードおよび移動する
+  - アプリケーションの構成と最適化

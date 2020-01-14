@@ -1,0 +1,85 @@
+### YamlMime:Course
+title: Azure のサービスとしてのプラットフォームのコンピューティングソリューション開発
+metadata:
+  title: 'コース AZ-203T02-A: Azure のサービスとしてのプラットフォームのコンピューティング ソリューション開発'
+  description: 'コース AZ-203T02-A: Azure のサービスとしてのプラットフォームのコンピューティング ソリューション開発'
+uid: course.az-203t02
+courseNumber: 'AZ-203T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  このコースでは、開発ソリューションに Azure Platform as a Service の機能とサービスを実装するために必要な知識とスキルを習得します。学生は、Azure App Service リソースを作成および管理する方法、プッシュおよびオフライン同期をモバイルアプリに統合する方法、および API を文書化する方法を学習します。また、生徒は Azure Functions を作成およびテストする方法を学びます。
+
+  #### 聴衆プロファイル
+  - このコースの学生は、Azure 開発または Microsoft Azure Developer Associate 認定資格試験に合格することに興味があります。
+  - 学生は開発者としての経験が 1 〜 2 年必要です。このコースは、学生がコーディングの方法を知っており、Azure の基本的な知識があることを前提としています。
+prerequisitesSection: |-
+  - 学生は開発者としての経験が 1 〜 2 年必要です。このコースは、学生がコーディングの方法を知っており、Azure の基本的な知識があることを前提としています。
+  - 学生は、Azureポータルで作業し、少なくとも1つのAzureでサポートされているプログラミング言語を使用して、PowerShellまたはAzure CLIの経験があることが推奨されます。このコースの例のほとんどは、C#.NETで提供されています。
+outlineSection: |-
+  ### モジュール 1&#58; App Service Web アプリを作成する
+  Azure App Service Web Apps (あるいは単に Web Apps)は、Web アプリケーション、REST APIs およびモバイルバックエンドをホストするサービスです。Web Apps は、セキュリティ、負荷バランシング、自動目盛り設定、自動管理などで、 Microsoft Azure のパワーをあなたのアプリケーションに付け加えます。 
+  #### レッスン
+  - Azure App Service の中心概念
+  - Azure App Service Web アプリの作成
+  - Azure App Service で WebJobs を使用したバックグラウンド タスクの作成
+  
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - App Service の中心概念と機能を理解する
+  - Azure CLI、Azure Portal、および PowerShell を使用して App Service Web アプリを作成する
+  - 連続したトリガーされた WebJobs を作成する
+
+  ### モジュール 2&#58; Azure App Service モバイル アプリの作成
+  Azure App Service のモバイル アプリ機能は、企業の開発者とシステム インテグレーターに、高度にスケーラブルでグローバルに利用可能なモバイル アプリケーション開発プラットフォームを提供します。
+  #### レッスン
+  - App Service でのモバイル アプリの利用開始
+  - アプリのプッシュ通信のを有効化する
+  - アプリのオフライン同期を有効化する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - モバイル アプリ サービスにアプリをプッシュする
+  - プッシュ通知用のアプリを登録する
+
+
+  ### モジュール 3&#58; Azure App Service API アプリを作成する
+  このモジュールでは、Azure App Service API を作成および文書化する方法について説明します。
+  #### レッスン
+  - API の作成
+  - Swagger を使用して API を文書化する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - APIM インスタンスを作成して新しい API を作成する
+  - ASP.NET Core で Swagger オブジェクトを作成するために Swashbuckle を使用する
+
+
+  ### モジュール 4&#58; Azure Functions を実装する
+  Azure Functions は、クラウドで小さなコード、つまり'関数'を簡単に実行するためのソリューションです。アプリケーション全体やそれを実行するインフラストラクチャを心配することなく、問題に必要なコードだけを書くことができます。
+  #### レッスン
+  - Azure Functions の概要
+  - Visual Studio を使用して Azure Functions を開発する
+  - Durable Functions を実装する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure Functions のコア機能を理解する
+  - 関数、バインディング、トリガーを作成する
+  - 耐久性のある機能の一般的なパターンを知り、作成できるようにする
