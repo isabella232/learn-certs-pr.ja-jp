@@ -6,8 +6,6 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>この試験の内容は、2019 年 12 月 3 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
-
   この試験の受験者は、エンドユーザーニーズとビジネス目的に合うように、継続的に価値ある製品やサービスを提供するために人々やプロセスやテクノロジを結びつけるDevOpsプロフェッショナルです。プラクティス、コミュニケーションとコラボレーションの改善、自動化の作成によるDevOpsプロフェッショナルストリームラインの配信彼らは、継続的な統合、テスト、配信、および監視とフィードバックを可能とするための、アプリケーションコードとインフラストラクチャの戦略を設計し実装します。
 
   受験者はAgileプラクティスに卓越している必要があります。彼らはAzure 管理とAzure開発の両方に通じており以下の領域の少なくとも１つのエキスパートである必要があります。Azure DevOps プロフェッショナルはAzureテクノロジを使用してのバージョン管理、コンプライアンス、コードとしてのインフラストラクチャ、設定管理、ビルド、リリース、テストを設計し実装できなければなりません。
@@ -24,7 +22,6 @@ locales:
 levels:
 - advanced
 skills:
-- この試験の内容は、2019 年 12 月 3 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。
 - DevOpsストラテジーのデザイン (20-25%)
 - DevOps開発プロセスの実装 (20-25%)
 - 継続的インテグレーションの実装 (10-15%)
@@ -45,6 +42,7 @@ paths:
 - uid: learn.azdo.build-applications-with-azure-devops
 - uid: learn.azdo.deploy-applications-with-azure-devops
 - uid: learn.azdo.automate-deployments-azure-devops
+- uid: learn.azdo.capture-feedback-monitoring
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02

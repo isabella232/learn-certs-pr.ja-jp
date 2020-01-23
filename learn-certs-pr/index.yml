@@ -76,7 +76,7 @@ trainingSection:
     summary: Microsoft Learn を使用すると、誰でも自分のスピードとスケジュールに基づいてコア コンセプトをマスターできます。1 つのモジュールでコア タスクについて学習するか、関連するモジュールのコレクションを通じてトピックをすべて探索するかです。
     browseLinks:
     - text: すべての学習パスを閲覧する
-      url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
+      url: https://docs.microsoft.com/ja-jp/learn/browse/?resource_type=learning%20path
   - image:
       alt: テーブルの周りに座っている 4 人にプレゼンテーションを行う男性
       src: /learn/certifications/images/image-working-group.jpg

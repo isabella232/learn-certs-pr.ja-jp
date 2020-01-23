@@ -6,8 +6,8 @@ metadata:
 uid: exam.ms-302
 displayName: MS-302
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>この試験の内容は、2019 年 9 月 30 日に廃止されました。Note; 試験は中部標準時の午後 11 時 59 分に廃止されます</div>
-  <br/>   
+  <div style='color&#58; red; font-weight&#58; bold;'>この試験の内容は、2019 年 9 月 30 日に廃止されました。Note; 試験は中部標準時の午後 11 時 59 分に廃止されます<br/><br/></div>
+  
   この試験は [Exam 70-339;](https://www.microsoft.com/ja-jp/learning/exam-70-339.aspx)Managing Microsoft SharePoint Server 2016、受験者のみを対象としています。試験 339 を受験しなかった場合、この試験を受けても資格認定を得ることができません。
 
   この試験の受験者は、効率的で効果的なコラボレーションと採用に焦点を当てた Office 365 と Azure のワークロードの構成、展開、および管理を担当するチームワーク管理者です。チームワーク管理者は、ビジネス要件を満たすためにアプリケーション、サービス、およびサポート インフラストラクチャを管理します。チームワーク管理者は、SharePoint (オンライン、オンプレミス、およびハイブリッド)、OneDrive、およびチームを展開、管理、移行、および保護できる必要があります。

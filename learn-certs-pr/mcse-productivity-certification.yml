@@ -6,7 +6,7 @@ metadata:
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
-  この認定資格は、企業をクラウドに移行させ、ユーザーの生産性と柔軟性を高め、データ損失を減らし、組織のデータセキュリティを向上させるために必要なスキルを持っていることを検証します。この認定は、[Microsoft 365 認定エンタープライズ管理エキスパート ]になるための要件の 1 つを満たすために使用できます(https://www.microsoft.com/ja-jp/learning/m365-enterprise-administrator.aspx)
+  この認定資格は、企業をクラウドに移行させ、ユーザーの生産性と柔軟性を高め、データ損失を減らし、組織のデータセキュリティを向上させるために必要なスキルを持っていることを検証します。この認定は、[Microsoft 365 認定エンタープライズ管理エキスパート ](https://www.microsoft.com/ja-jp/learning/m365-enterprise-administrator.aspx) になるための要件の 1 つを満たすために使用できます
   
   MCSE 生産性 Solutions Expert になるには、次の要件を完了してください&#58;
   - 前提条件の認定を1つ獲得する
@@ -17,7 +17,7 @@ summary: |-
     - [70-334&#58; Skype for Business Core Solutions of Microsoft](/learn/certifications/exams/70-334)
     - [70-339&#58; Managing Microsoft SharePoint Server 2016](/learn/certifications/exams/70-339)
     - [70-345&#58; Designing and Deploying Microsoft Exchange Server 2016](/learn/certifications/exams/70-345)
-subTitle: この認定資格は、企業をクラウドに移行させ、ユーザーの生産性と柔軟性を高め、データ損失を減らし、組織のデータセキュリティを向上させるために必要なスキルを持っていることを検証します。この認定は、[Microsoft 365 Certified エンタープライズ管理認定エキスパート ]になるための要件の 1 つを満たすために使用できます
+subTitle: この認定資格は、企業をクラウドに移行させ、ユーザーの生産性と柔軟性を高め、データ損失を減らし、組織のデータセキュリティを向上させるために必要なスキルを持っていることを検証します。この認定は、Microsoft 365 Certified エンタープライズ管理認定エキスパート になるための要件の 1 つを満たすために使用できます
 levels:
 - advanced
 skills:
