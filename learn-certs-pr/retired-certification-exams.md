@@ -2,7 +2,6 @@
 title: Microsoft Retired Exam | Microsoft Docs
 description: Microsoft Retired Exam
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

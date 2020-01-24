@@ -2,7 +2,6 @@
 title: オファー | Microsoft Docs
 description: オファー 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

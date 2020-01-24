@@ -2,7 +2,6 @@
 title: Microsoft Retired Courses | Microsoft Docs
 description: Microsoft Retired Courses
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

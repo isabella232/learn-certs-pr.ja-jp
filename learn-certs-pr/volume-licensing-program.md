@@ -2,7 +2,6 @@
 title: ボリュームライセンスをご利用中のお客様向けのソフトウェアトレーニング| Microsoft Docs
 description: ボリュームライセンスをご利用中のお客様向けのソフトウェアトレーニング
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

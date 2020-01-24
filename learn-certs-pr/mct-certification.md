@@ -2,7 +2,6 @@
 title: Microsoft 認定トレーナーになる | Microsoft Docs
 description: Microsoft認定トレーナーになる 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

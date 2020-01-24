@@ -2,7 +2,6 @@
 title: Microsoft トレーニングと認定のヘルプ | Microsoft Docs
 description: Microsoft のトレーニングと認定のヘルプ
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

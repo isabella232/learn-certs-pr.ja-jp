@@ -2,7 +2,6 @@
 title: Microsoft Retired 認定 | Microsoft Docs
 description: Microsoft Retired 認定
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
