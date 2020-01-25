@@ -6,12 +6,12 @@ metadata:
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
-  この認定資格は、企業をクラウドに移行させ、ユーザーの生産性と柔軟性を高め、データ損失を減らし、組織のデータセキュリティを向上させるために必要なスキルを持っていることを検証します。この認定は、[Microsoft 365 認定エンタープライズ管理エキスパート ](https://www.microsoft.com/ja-jp/learning/m365-enterprise-administrator.aspx) になるための要件の 1 つを満たすために使用できます
+  この認定資格は、企業をクラウドに移行させ、ユーザーの生産性と柔軟性を高め、データ損失を減らし、組織のデータセキュリティを向上させるために必要なスキルを持っていることを検証します。この認定は、[Microsoft 365 認定エンタープライズ管理エキスパート ](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx) になるための要件の 1 つを満たすために使用できます
   
   MCSE 生産性 Solutions Expert になるには、次の要件を完了してください&#58;
   - 前提条件の認定を1つ獲得する
-    - 前提条件オプション 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/ja-jp/learning/mcsa-windows-server-certification.aspx)
-    - 前提条件オプション 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/ja-jp/learning/mcsa-windows-server-2016-certification.aspx)
+    - 前提条件オプション 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
+    - 前提条件オプション 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
   - 選択のいずれかの試験に合格する
     - [70-333&#58; Skype for Business 2015 によるエンタープライズ ボイスの展開](/learn/certifications/exams/70-333)
     - [70-334&#58; Skype for Business Core Solutions of Microsoft](/learn/certifications/exams/70-334)
@@ -53,4 +53,4 @@ resources:
   href: help.md
 - title: 認定ダッシュボード
   description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
-  href: https://www.microsoft.com/ja-jp/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

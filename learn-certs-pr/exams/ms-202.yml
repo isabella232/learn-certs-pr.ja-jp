@@ -8,7 +8,7 @@ displayName: MS-202
 summary: |-
   <div style='color&#58; red; font-weight&#58; bold;'>この試験の内容は、2019 年 9 月 30 日に廃止されました。Note; 試験は中部標準時の午後 11 時 59 分に廃止されます<br/><br/></div>
   
-  この試験は [Exam 70-345;](https://www.microsoft.com/ja-jp/learning/exam-70-345.aspx)Microsoft Exchange Server 2016 の設計と展開、受験者のみを対象としています。試験 345 を受験しなかった場合、この試験を受けても資格認定を得ることができません。
+  この試験は [Exam 70-345;](https://www.microsoft.com/learning/exam-70-345.aspx)Microsoft Exchange Server 2016 の設計と展開、受験者のみを対象としています。試験 345 を受験しなかった場合、この試験を受けても資格認定を得ることができません。
 
   この試験の受験者は、オンプレミスと Cloud エンタープライズ環境における受信者、パーミッション、メール保護、メールフロー、パブリック フォルダをデプロイし、構成し、管理し、トラブルシューティングし、監視するメッセージング管理者です。
 
@@ -51,7 +51,7 @@ resources:
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
-  href: https://www.microsoft.com/ja-jp/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 宿泊をリクエストする
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft

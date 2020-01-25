@@ -7,7 +7,7 @@ uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -26,7 +26,7 @@ summary: |-
   このコースは、データ サイエンティスト、および機械学習モデルのトレーニングと展開において重要な責任を持つ人を対象としています。
 prerequisitesSection: |-
   このコースに参加する学生は、次のものを求められます&#58;
-  - [Azure Fundamentals 認定資格](https://docs.microsoft.com/ja-jp/learn/certifications/azure-fundamentals) を取得しました 。
+  - [Azure Fundamentals 認定資格](https://docs.microsoft.com/learn/certifications/azure-fundamentals) を取得しました 。
   - データの準備、モデルのトレーニング、競合モデルの評価による最適なモデルの選択方法など、データサイエンスの理解。
   - Python プログラミング言語でのプログラミング方法、および Python ライブラリ&#58; pandas、scikit-learn、matplotlib、seaborn の使用方法。
 outlineSection: |-
