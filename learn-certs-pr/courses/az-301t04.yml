@@ -14,7 +14,7 @@ skillsGained:
 - skill: 1 つ以上の仮想マシンの可用性セットを設計します。
 - skill: 障害ドメインと更新ドメインの違いについて説明します。
 - skill: VM Scale Set ARM テンプレートを作成します。
-learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

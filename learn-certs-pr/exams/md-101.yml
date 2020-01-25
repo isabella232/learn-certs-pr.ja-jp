@@ -6,7 +6,7 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  2019 年 3 月 31 日に期限が切れる前に [試験70-698](https://www.microsoft.com/ja-jp/learning/exam-70-698.aspx) に合格した場合、MD-101 を取得するだけで Modern Desktop 認定資格を取得できます。この試験の受験者は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視する管理者です。受験者は、ID、アクセス、ポリシー、アップデート、およびアプリを管理します。
+  2019 年 3 月 31 日に期限が切れる前に [試験70-698](https://www.microsoft.com/learning/exam-70-698.aspx) に合格した場合、MD-101 を取得するだけで Modern Desktop 認定資格を取得できます。この試験の受験者は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視する管理者です。受験者は、ID、アクセス、ポリシー、アップデート、およびアプリを管理します。
   <br/>
 
   管理者として、受験者は通常、現代の組織のビジネスニーズを満たすデバイス戦略を設計および実装するために、Microsoft 365 Enterprise Administratorと協力します。
@@ -56,7 +56,7 @@ resources:
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
-  href: https://www.microsoft.com/ja-jp/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 宿泊をリクエストする
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft

@@ -7,7 +7,7 @@ uid: course.dp-201t01
 courseNumber: 'DP-201T01-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -35,7 +35,7 @@ summary: |-
   このコースの対象者は、Microsoft Azure に存在するデータ プラットフォーム テクノロジーについて学びたいデータ プロフェッショナル、データ アーキテクト、およびビジネス インテリジェンス プロフェッショナルです。次に対象となるのは、Microsoft Azure に存在するデータ プラットフォーム テクノロジーからコンテンツを配信するアプリケーションを開発する個人です。
 prerequisitesSection: |-
   専門的な経験に加えて、このトレーニングを受講する学生は、次のコースと同等の技術知識を持っている必要があります&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/ja-jp/learn/modules/welcome-to-azure/)
+  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
   - DP-200&#58; Azure Data Solution の実装
 outlineSection: |-
   ### モジュール 1&#58; データ プラットフォーム アーキテクチャの考慮事項

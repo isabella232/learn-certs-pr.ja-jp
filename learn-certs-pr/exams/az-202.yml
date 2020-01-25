@@ -9,7 +9,7 @@ summary: |-
   <div style='color&#58; red; font-weight&#58; bold;'>この試験は2019年3月31日に終了しました。注&#58;試験は中央標準時の午後11時59分に終了します</div>
   <br/> <br/> 
   
-  この試験は [試験 70-532](https://www.microsoft.com/ja-jp/learning/exam-70-532.aspx) を取った受験生のみを想定しています&#58; Microsoft Azure Solutions の開発.試験 532を受験していない場合は、この試験による認定資格を受け取ることはできません。
+  この試験は [試験 70-532](https://www.microsoft.com/learning/exam-70-532.aspx) を取った受験生のみを想定しています&#58; Microsoft Azure Solutions の開発.試験 532を受験していない場合は、この試験による認定資格を受け取ることはできません。
 
   トランジション試験は、すでにコンテンツドメインにおいてのスキルを証明している人たちが既存の試験をバイパスすることを念頭に置いているものであり、新規のロールベースの認定によって置き換えられる予定です。現在の認証と私たちが新たに資格を得る人々に期待するものの間にある三角地帯を埋めるものです。私たちとしては同様なコンテンツにいる人々がその適正をこの試験のバイパスによって証明することを望みません。
 
@@ -50,7 +50,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
-  href: https://www.microsoft.com/ja-jp/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 宿泊をリクエストする
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft

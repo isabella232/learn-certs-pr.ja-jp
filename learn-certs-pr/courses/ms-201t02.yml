@@ -18,7 +18,7 @@ skillsGained:
 - skill: 管理者ロールベースのパーミッションを管理する
 - skill: ユーザー ロールベースのパーミッションを管理する
 - skill: Exchange Setup - RBAC と AD スプリットのパーミッションを計画する
-learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

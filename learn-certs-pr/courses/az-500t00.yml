@@ -13,7 +13,7 @@ skillsGained:
 - skill: Azure データ暗号化方法を実装する
 - skill: セキュリティで保護されたインターネット プロトコルとそれらを Azure に実装する方法
 - skill: Azure のセキュリティ サービスと機能を説明する
-learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -38,7 +38,7 @@ summary: |-
   #### 聴衆プロファイル
   学生は、少なくとも 1 年の Azure ワークロードを保護する実践的な経験と、Azure 上のワークロードのセキュリティ制御の経験が必要です。
 prerequisitesSection: |-
-  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/ja-jp/learn/certifications/azure-administrator)
+  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/learn/certifications/azure-administrator)
 outlineSection: |-
   ### モジュール 1&#58; ID およびアクセス
   #### レッスン
