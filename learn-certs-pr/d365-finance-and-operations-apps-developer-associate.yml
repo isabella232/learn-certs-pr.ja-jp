@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 認定: Dynamics 365: Finance and Operations Apps Developer Associate'
+title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate'
 metadata:
-  title: 'Microsoft 365 認定: Dynamics 365: Finance and Operations Apps Developer Associate'
+  title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate'
   description: Microsoft Dynamics 365 において財務および業務アプリケーションを使用する開発者は、ビジネスの要件を満たすようにアプリケーションを実装および拡張します。受験生は、標準化されたアプリケーション コーディング パターン、拡張可能な機能、および外部統合を使用することで、完全に実現されたソリューションを提供します。
 uid: certification.d365-finance-and-operations-apps-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft Dynamics 365 において財務および業務アプリケーションを使用する開発者は、ビジネスの要件を満たすようにアプリケーションを実装および拡張します。受験生は、標準化されたアプリケーション コーディング パターン、拡張可能な機能、および外部統合を使用することで、完全に実現されたソリューションを提供します。
+summary: Microsoft Dynamics 365 において財務および業務アプリケーションを使用する開発者は、ビジネスの要件を満たすようにアプリケーションを実装および拡張します。受験生は、標準化されたアプリケーション コーディング パターン、拡張可能な機能、および外部統合を使用することで、完全に実現されたソリューションを提供します。
 subTitle: Microsoft Dynamics 365 において財務および業務アプリケーションを使用する開発者は、ビジネスの要件を満たすようにアプリケーションを実装および拡張します。
 levels:
 - intermediate
@@ -20,7 +19,7 @@ skills:
 - AOT 要素の設計および開発
 - コードを開発およびテスト
 - レポートを実装する
--  データ ソリューションを統合および管理する
+- データ ソリューションを統合および管理する
 - セキュリティを実装してパフォーマンスを最適化
 roles:
 - developer

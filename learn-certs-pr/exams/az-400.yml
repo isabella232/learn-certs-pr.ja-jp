@@ -1,24 +1,25 @@
 ### YamlMime:Examination
-title: Microsoft Azure DevOpsソリューション
+title: Microsoft Azure DevOps Solutions
 metadata:
-  title: '試験 AZ-400: Microsoft Azure DevOpsソリューション'
-  description: '試験 AZ-400: Microsoft Azure DevOpsソリューション'
+  title: '試験 AZ-400: Microsoft Azure DevOps Solutions'
+  description: '試験 AZ-400: Microsoft Azure DevOps Solutions'
 uid: exam.az-400
 displayName: AZ-400
-summary: |-
+summary: >-
   この試験の受験者は、エンドユーザーニーズとビジネス目的に合うように、継続的に価値ある製品やサービスを提供するために人々やプロセスやテクノロジを結びつけるDevOpsプロフェッショナルです。プラクティス、コミュニケーションとコラボレーションの改善、自動化の作成によるDevOpsプロフェッショナルストリームラインの配信彼らは、継続的な統合、テスト、配信、および監視とフィードバックを可能とするための、アプリケーションコードとインフラストラクチャの戦略を設計し実装します。
+
 
   受験者はAgileプラクティスに卓越している必要があります。彼らはAzure 管理とAzure開発の両方に通じており以下の領域の少なくとも１つのエキスパートである必要があります。Azure DevOps プロフェッショナルはAzureテクノロジを使用してのバージョン管理、コンプライアンス、コードとしてのインフラストラクチャ、設定管理、ビルド、リリース、テストを設計し実装できなければなりません。
 subTitle: 'この試験では、DevOps 戦略を設計し、以下を実装する能力を評価します: DevOps 開発プロセス、依存関係管理、アプリケーションインフラストラクチャ、継続的な統合、配信、フィードバック。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-400&examname=試験%20AZ-400:%20Microsoft%20Azure%20DevOpsソリューション&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-400&examname=試験%20AZ-400:%20Microsoft%20Azure%20DevOpsソリューション&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-400
 levels:
 - advanced
 skills:
@@ -37,12 +38,6 @@ products:
 - azure-kubernetes-service
 - azure-container-instances
 - azure-automation
-paths:
-- uid: learn.azdo.evolve-your-devops-practices
-- uid: learn.azdo.build-applications-with-azure-devops
-- uid: learn.azdo.deploy-applications-with-azure-devops
-- uid: learn.azdo.automate-deployments-azure-devops
-- uid: learn.azdo.capture-feedback-monitoring
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02
@@ -51,6 +46,12 @@ courses:
 - uid: course.az-400t05
 - uid: course.az-400t06
 - uid: course.az-400t07
+paths:
+- uid: learn.azdo.evolve-your-devops-practices
+- uid: learn.azdo.build-applications-with-azure-devops
+- uid: learn.azdo.deploy-applications-with-azure-devops
+- uid: learn.azdo.automate-deployments-azure-devops
+- uid: learn.azdo.capture-feedback-monitoring
 relatedCertifications:
 - related:
     uid: certification.azure-devops

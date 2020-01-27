@@ -5,20 +5,21 @@ metadata:
   description: '試験 AZ-900: Microsoft Azure Fundamentals'
 uid: exam.az-900
 displayName: AZ-900
-summary: |-
+summary: >-
   この試験は、 CloudサービスやそれらのサービスがMicrosoft Azureでどのように提供されるのかについての基礎的な知識レベルをデモンストレーションしたい受験者向けです。この試験は、例えば Cloudベースのソリューションを売り買いする立場の人であったり Cloudベースのソリューションやサービスの関係者、といった非テクニカルなバックグラウンドの受験者、または、 Cloudサービス周りの基礎レベルの知識を検証する技術的バックグラウンドのある人のために用意されています。一般的なIT知識や経験は役に立ちますが、技術的なIT経験は必須ではありません。
 
+
   この試験は、Microsoft Azureに代表される Cloudサービスやそれらのコンセプトを学ぶ、オプションとしての最初のステップとして受験することもできます。また、Microsoft AzureやMicrosoft Cloudサービス試験の前準備として受けることもできます。この試験の受験は、最初の一歩としてあるいは基礎知識の証明としても使えますが、Azure ベースの認証を受けるの必須条件ではありません。
-subTitle: 'この試験では、クラウドのコンセプト；コアAzure サービス、セキュリティ、プライバシー、コンプライアンスおよび信頼；そしてAzure 料金プランとサポート、といった概念を理解する能力を測定します。'
+subTitle: この試験では、クラウドのコンセプト；コアAzure サービス、セキュリティ、プライバシー、コンプライアンスおよび信頼；そしてAzure 料金プランとサポート、といった概念を理解する能力を測定します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-900&examname=試験%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-900
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-900&examname=試験%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-900
 levels:
 - beginner
 skills:
@@ -56,4 +57,3 @@ resources:
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
-

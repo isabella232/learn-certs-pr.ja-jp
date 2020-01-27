@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 資格:Azure Security Engineer Associate'
+title: 'Microsoft Certified: Azure Security Engineer Associate'
 metadata:
-  title: 'Microsoft 資格:Azure Security Engineer Associate'
-  description: 'Azureセキュリティエンジニアは、セキュリティコントロールおよび脅威に対する保護を実装しており、ID管理とアクセス管理、データ保護、アプリケーション保護、およびエンドツーエンドのインフラの一環としてクラウド上およびハブリッド環境内のネットワーク保護を管理します。'
+  title: 'Microsoft Certified: Azure Security Engineer Associate'
+  description: Azureセキュリティエンジニアは、セキュリティコントロールおよび脅威に対する保護を実装しており、ID管理とアクセス管理、データ保護、アプリケーション保護、およびエンドツーエンドのインフラの一環としてクラウド上およびハブリッド環境内のネットワーク保護を管理します。
 uid: certification.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Azureセキュリティエンジニアは、セキュリティコントロールおよび脅威に対する保護を実装しており、ID管理とアクセス管理、データ保護、アプリケーション保護、およびエンドツーエンドのインフラの一環としてクラウド上およびハブリッド環境内のネットワーク保護を管理します。
+summary: Azureセキュリティエンジニアは、セキュリティコントロールおよび脅威に対する保護を実装しており、ID管理とアクセス管理、データ保護、アプリケーション保護、およびエンドツーエンドのインフラの一環としてクラウド上およびハブリッド環境内のネットワーク保護を管理します。
 subTitle: Azureセキュリティエンジニアは、セキュリティコントロールおよび脅威に対する保護を実装しており、ID管理とアクセス管理、データ保護、アプリケーション保護、およびエンドツーエンドのインフラの一環としてクラウド上およびハブリッド環境内のネットワーク保護を管理します。
 levels:
 - intermediate

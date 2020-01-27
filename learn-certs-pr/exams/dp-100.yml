@@ -1,23 +1,24 @@
 ### YamlMime:Examination
-title: Azureでデータサイエンスソリューションを設計および実装する
+title: Designing and Implementing a Data Science Solution on Azure
 metadata:
-  title: '試験 DP-100: Azureでデータサイエンスソリューションを設計および実装する'
-  description: '試験 DP-100: Azureでデータサイエンスソリューションを設計および実装する'
+  title: '試験 DP-100: Designing and Implementing a Data Science Solution on Azure'
+  description: '試験 DP-100: Designing and Implementing a Data Science Solution on Azure'
 uid: exam.dp-100
 displayName: DP-100
-summary: |-
+summary: >-
   この試験の受験者は、アクションを取ることができる予想とコミュニケーションの結果を関係者に、科学的に厳密でデータ診断テクニックにアプライすることが期待されます。ビジネスの目的を満足させるためのAIソリューションを構成するモデルのトレーニング、評価、デプロイする機械学習テクニックを使います。受験者は、自然言語の処理、会話、コンピュータービジョン、予測的分析をするアプリケーションを使用します。
 
+
   受験者は、ソリューションで考慮される倫理、プライバシー、ガバナンスに関連する、複合懲戒チームの一部として働きます。受験者は、主に数学、統計学、コンピューターサイエンスのバックグラウンドを持ちます。
-subTitle: 'この試験では、開発環境の定義および準備、モデリング用のデータの準備、機能エンジニアリングの実行、モデルの開発という技術的なタスクを遂行する能力を測定します。'
+subTitle: この試験では、開発環境の定義および準備、モデリング用のデータの準備、機能エンジニアリングの実行、モデルの開発という技術的なタスクを遂行する能力を測定します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 levels:
 - intermediate
 skills:
@@ -44,7 +45,7 @@ relatedCertifications:
     uid: certification.azure-data-scientist
 resources:
 - title: 認定資格の学習経路
-  description: 'Microsoft 認定資格のトレーニング リソースを探す: Azure Data Scientist Associate。'
+  description: Microsoft 認定資格のトレーニング リソースを探す: Azure Data Scientist Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。

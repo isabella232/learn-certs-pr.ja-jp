@@ -1,13 +1,12 @@
 ### YamlMime:Certification
-title: 'Microsoft 認定: Dynamics 365 Finance Functional Consultant Associate'
+title: 'Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 認定: Dynamics 365 Finance Functional Consultant Associate'
-  description: 'Dynamics 365 Finance Functional Consultantsは、グローバルな財務と業務を統合します。タスクとワークフローを自動化します。顧客の注文、販売、請求、報告を合理化します。'
+  title: 'Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
+  description: Dynamics 365 Finance Functional Consultantsは、グローバルな財務と業務を統合します。タスクとワークフローを自動化します。顧客の注文、販売、請求、報告を合理化します。
 uid: certification.d365-functional-consultant-financials
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-   Dynamics 365 Finance Functional Consultantsは、グローバルな財務と業務を統合します。タスクとワークフローを自動化します。顧客の注文、販売、請求、報告を合理化します。
-subTitle: 'Dynamics 365 Finance Functional Consultantsは、グローバルな財務と業務を統合します。タスクとワークフローを自動化します。顧客の注文、販売、請求、報告を合理化します。'
+summary: Dynamics 365 Finance Functional Consultantsは、グローバルな財務と業務を統合します。タスクとワークフローを自動化します。顧客の注文、販売、請求、報告を合理化します。
+subTitle: Dynamics 365 Finance Functional Consultantsは、グローバルな財務と業務を統合します。タスクとワークフローを自動化します。顧客の注文、販売、請求、報告を合理化します。
 levels:
 - intermediate
 skills:

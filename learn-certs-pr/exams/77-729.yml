@@ -1,20 +1,22 @@
 ### YamlMime:Examination
-title: 'PowerPoint 2016:コアプレゼンテーションデザインとデリバリースキル'
+title: 'PowerPoint 2016: Core Presentation Design and Delivery Skills'
 metadata:
-  title: '試験 77-729: PowerPoint 2016:コアプレゼンテーションデザインとデリバリースキル'
-  description: '試験 77-729: PowerPoint 2016:コアプレゼンテーションデザインとデリバリースキル'
+  title: '試験 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
+  description: '試験 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
 uid: exam.77-729
 displayName: 77-729
-summary: |
+summary: >
   受験者は、PowerPoint 環境に関する基礎知識を持ち、PowerPoint 2016 のデモンストレーションを実行できることが想定されます。受験者は、プレゼンテーションとスライド ショーの作成、編集、強化を実施します。プレゼンテーションの例には、プロフェッショナル レベルのセールス プレゼンテーション、従業員トレーニング、教材、キオスク スライドショーなどが含まれます。
 
+
   Microsoft Office Specialist (MOS) 2016 認定試験では、MOS 2016 プログラムを使用して、受験者の知識、スキル、および能力を適切に評価するための、新しいパフォーマンスベースの形式が導入されています&#58;
+
   - 通常、MOS 2016 試験タスクの手順には、以前のバージョンとは異なり、コマンド名が含まれません。たとえば、機能名は使用されず、記述子で置き換えられています。つまり、受験者は、各プロジェクトのタスクを完了するためにプログラムの機能の目的と一般的な用途を理解している必要があります。
+
   - MOS 2016 試験形式には、複数のプロジェクトが組み込まれています。
 subTitle: 受験者は、PowerPoint 環境に関する基礎知識を持ち、PowerPoint 2016 のデモンストレーションを実行できることが想定されます。受験者は、プレゼンテーションとスライド ショーの作成、編集、強化を実施します。プレゼンテーションの例には、プロフェッショナル レベルのセールス プレゼンテーション、従業員トレーニング、教材、キオスク スライドショーなどが含まれます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -33,7 +35,8 @@ locales:
 - ru
 - th
 - tr
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - プレゼンテーションの作成と管理（30-35%）

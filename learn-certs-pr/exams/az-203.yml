@@ -1,27 +1,30 @@
 ### YamlMime:Examination
-title: Microsoft Azureの開発ソリューション
+title: Developing Solutions for Microsoft Azure
 metadata:
-  title: '試験 AZ-203: Microsoft Azureの開発ソリューション'
-  description: '試験 AZ-203: Microsoft Azureの開発ソリューション'
+  title: '試験 AZ-203: Developing Solutions for Microsoft Azure'
+  description: '試験 AZ-203: Developing Solutions for Microsoft Azure'
 uid: exam.az-203
 displayName: AZ-203
-summary: |-
+summary: >-
   この試験の受験者はアプリケーションやサービスといった Cloudソリューションを設計してビルドした Azure デベロッパーですこれらの対象者は、ソリューション設計から開発やデプロイ、テストやメンテナンスまでの開発のすべてのフェーズに関わります。また、ソリューションの実装にあたって、 Cloudソリューションアーキテクト、 Cloud DBA、 Cloudアドミニストレータ、クライアントと連携を取ります。
+
   <br/>
+
 
   受験者はストレージ、セキュリティ、計算、コミュニケーションを含む Azure ツールとテクノロジを利用したアプリとサービス開発に精通している必要があります。
 
+
   受験者は最低一年のソフトウェア開発の全フェーズにわたるスケーラブルなソリューションの開発の経験を持ち、最低1種類の Cloudをサポートしたプログラム言語のスキルを保有している必要があります。
-subTitle: 'この試験では、Azure のサービスとしてのインフラのコンピューティングソリューション開発、Azure のサービスとしてのプラットフォームのコンピューティングソリューション開発、Azureストレージを開発、Azure Security の実装、ソリューションの監視・トラブルシューティング・最適化、Azure サービスとサードパーティサービスの連携と活用、という技術的なタスクを遂行する能力を測定します。'
+subTitle: この試験では、Azure のサービスとしてのインフラのコンピューティングソリューション開発、Azure のサービスとしてのプラットフォームのコンピューティングソリューション開発、Azureストレージを開発、Azure Security の実装、ソリューションの監視・トラブルシューティング・最適化、Azure サービスとサードパーティサービスの連携と活用、という技術的なタスクを遂行する能力を測定します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-203&examname=試験%20AZ-203:%20Microsoft%20Azureの開発ソリューション&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-203
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-203&examname=試験%20AZ-203:%20Microsoft%20Azureの開発ソリューション&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:
@@ -33,6 +36,8 @@ skills:
 - Azure とサードパーティサービスの連携と活用 (20-25%)
 roles:
 - developer
+exams:
+- uid: exam.az-202
 products:
 - azure
 - azure-virtual-machines
@@ -44,8 +49,6 @@ products:
 - azure-bot-service
 - azure-functions
 - azure-logic-apps
-exams:
-- uid: exam.az-202
 courses:
 - uid: course.az-203t01
 - uid: course.az-203t02

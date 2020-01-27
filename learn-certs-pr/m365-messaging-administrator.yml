@@ -1,22 +1,21 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 認定:管理者アソシエイツの管理'
+title: 'Microsoft 365 Certified: Messaging Administrator Associate'
 metadata:
-  title: 'Microsoft 365 認定:管理者アソシエイツの管理'
-  description: 'Microsoft 365 Messaging Administrators は、オンプレミス、ハイブリッド、Cloudのエンタープライズ環境で、メッセージ インフラストラクチャ、アクセス許可、クライアント アクセス、メール保護、およびメール フローを展開、構成、管理、および監視します。'
+  title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+  description: Microsoft 365 Messaging Administrators は、オンプレミス、ハイブリッド、Cloudのエンタープライズ環境で、メッセージ インフラストラクチャ、アクセス許可、クライアント アクセス、メール保護、およびメール フローを展開、構成、管理、および監視します。
 uid: certification.m365-messaging-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft 365 Messaging Administrators は、オンプレミス、ハイブリッド、Cloudのエンタープライズ環境で、メッセージ インフラストラクチャ、アクセス許可、クライアント アクセス、メール保護、およびメール フローを展開、構成、管理、および監視します。
+summary: Microsoft 365 Messaging Administrators は、オンプレミス、ハイブリッド、Cloudのエンタープライズ環境で、メッセージ インフラストラクチャ、アクセス許可、クライアント アクセス、メール保護、およびメール フローを展開、構成、管理、および監視します。
 subTitle: Microsoft 365 Messaging Administrators は、オンプレミス、ハイブリッド、Cloudのエンタープライズ環境で、メッセージ インフラストラクチャ、アクセス許可、クライアント アクセス、メール保護、およびメール フローを展開、構成、管理、および監視します。
 levels:
 - intermediate
 skills:
-- 最新のメッセージング インフラストラクチャを管理する 
-- メール フロー トポロジを管理する 
-- 受信者とデバイスを管理する 
-- ハイブリッド構成と移行を計画して実装する 
-- メッセージング環境を保護する 
-- 組織設定を管理する 
+- 最新のメッセージング インフラストラクチャを管理する
+- メール フロー トポロジを管理する
+- 受信者とデバイスを管理する
+- ハイブリッド構成と移行を計画して実装する
+- メッセージング環境を保護する
+- 組織設定を管理する
 roles:
 - administrator
 type: role-based

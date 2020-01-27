@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 資格:Azure 管理者アソシエイツ'
+title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
-  title: 'Microsoft 資格:Azure 管理者アソシエイツ'
-  description: 'Azure 管理者は、計算、ストレージ、ネットワーク、セキュリティに関連する主要サービスを含む Microsoft Azure Solutionの実装、監視、メンテナンスを行います。'
+  title: 'Microsoft Certified: Azure Administrator Associate'
+  description: Azure 管理者は、計算、ストレージ、ネットワーク、セキュリティに関連する主要サービスを含む Microsoft Azure Solutionの実装、監視、メンテナンスを行います。
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Azure 管理者は、計算、ストレージ、ネットワーク、セキュリティに関連する主要サービスを含む Microsoft Azure Solutionの実装、監視、メンテナンスを行います。 [2019年5月1日より有効となる、この試験への変更について学ぶ](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
+summary: Azure 管理者は、計算、ストレージ、ネットワーク、セキュリティに関連する主要サービスを含む Microsoft Azure Solutionの実装、監視、メンテナンスを行います。 [2019年5月1日より有効となる、この試験への変更について学ぶ](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
 subTitle: Azure 管理者は、計算、ストレージ、ネットワーク、セキュリティに関連する主要サービスを含む Microsoft Azure Solutionの実装、監視、メンテナンスを行います。
 levels:
 - intermediate
@@ -38,7 +37,7 @@ exams:
 - uid: exam.az-103
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft 認定資格のトレーニング リソースを探す: Azure Administrator Associate。'
+  description: Microsoft 認定資格のトレーニング リソースを探す: Azure Administrator Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: トレーニングおよび認定ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。

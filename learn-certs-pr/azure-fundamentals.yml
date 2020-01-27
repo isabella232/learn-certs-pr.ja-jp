@@ -2,11 +2,10 @@
 title: Microsoft Certified Azure Fundamentals
 metadata:
   title: Microsoft Certified Azure Fundamentals
-  description: 'Cloudの概念、コアな Azure サービス、Azure の価格とサポート、および Cloud セキュリティ、プライバシー、コンプライアンス、信頼の基礎について理解していることの証明。'
+  description: Cloudの概念、コアな Azure サービス、Azure の価格とサポート、および Cloud セキュリティ、プライバシー、コンプライアンス、信頼の基礎について理解していることの証明。
 uid: certification.azure-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  Cloudの概念、コアな Azure サービス、Azure の価格とサポート、および Cloud セキュリティ、プライバシー、コンプライアンス、信頼の基礎について理解していることの証明。
+summary: Cloudの概念、コアな Azure サービス、Azure の価格とサポート、および Cloud セキュリティ、プライバシー、コンプライアンス、信頼の基礎について理解していることの証明。
 subTitle: Cloudの概念、コアな Azure サービス、Azure の価格とサポート、および Cloud セキュリティ、プライバシー、コンプライアンス、信頼の基礎について理解していることの証明。
 levels:
 - beginner
@@ -29,7 +28,7 @@ exams:
 - uid: exam.az-900
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft 認定資格のトレーニング リソースを探す: Azure Fundamentals。'
+  description: Microsoft 認定資格のトレーニング リソースを探す: Azure Fundamentals。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: トレーニングおよび認定ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。

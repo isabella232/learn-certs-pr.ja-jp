@@ -1,13 +1,14 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 認定: Developer Associate'
+title: 'Microsoft 365 Certified: Developer Associate'
 metadata:
-  title: 'Microsoft 365 認定: Developer Associate'
+  title: 'Microsoft 365 Certified: Developer Associate'
   description: Microsoft 365 Developers は、 Microsoft 365 プラットフォームを使用する組織の生産性とコラボレーションのニーズに合わせて最適化されたアプリケーションとソリューションを設計、構築、テストおよび保守を実行します。
 uid: certification.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
+summary: >-
   Microsoft 365 Developers は、 Microsoft 365 プラットフォームを使用する組織の生産性とコラボレーションのニーズに合わせて最適化されたアプリケーションとソリューションを設計、構築、テストおよび保守を実行します。
-  
+
+
   Microsoft 365 Developers は、 Microsoft ID と Microsoft Graph に精通しています。彼らには、UI 要素（ Adaptive Card や UI Fabric を含む）、統合ポイント（ Microsoft チーム、 Office Add-in、 SharePoint Framework 、Actionable Messagesを含む）、およびワークロード プラットフォーム ターゲットの決定に関する一般的な知識があります。
 subTitle: Microsoft 365 Developers は、 Microsoft 365 プラットフォームを使用する組織の生産性とコラボレーションのニーズに合わせて最適化されたアプリケーションとソリューションを設計、構築、テストおよび保守を実行します。
 levels:
