@@ -21,7 +21,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-300&examname=試験%20MS-300:%20Microsoft%20365%20チームワークの展開&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fms-300
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-300&examname=試験%20MS-300:%20Deploying%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fms-300
 levels:
 - intermediate
 skills:

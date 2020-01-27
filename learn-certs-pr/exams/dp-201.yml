@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Designing an Azure Data Solution
 metadata:
-  title: '試験 DP-201: Azure データソリューションの設計'
-  description: '試験 DP-201: Azure データソリューションの設計'
+  title: '試験 DP-201: Designing an Azure Data Solution'
+  description: '試験 DP-201: Designing an Azure Data Solution'
 uid: exam.dp-201
 displayName: DP-201
 summary: >-
@@ -24,7 +24,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=DP-201&examname=試験%20DP-201:%20Azure%20データソリューションの設計&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fdp-201
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=DP-201&examname=試験%20DP-201:%20Designing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fdp-201
 levels:
 - intermediate
 skills:
@@ -64,7 +64,7 @@ relatedCertifications:
     uid: certification.azure-data-engineer
 resources:
 - title: 認定資格の学習経路
-  description: 'Microsoft 認定資格のトレーニングリソースを探す: Azure データ エンジニア アソシエイツ。'
+  description: 'Microsoft 認定資格のトレーニングリソースを探す: Azure Data Engineer Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。

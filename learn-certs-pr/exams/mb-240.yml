@@ -18,7 +18,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-240&examname=試験%20MB-240:%20Microsoft%20Dynamics%20365%20%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fmb-240
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-240&examname=試験%20MB-240:%20Microsoft%20Dynamics%20365%20for%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 levels:
 - intermediate
 skills:

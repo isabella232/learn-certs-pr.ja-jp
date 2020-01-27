@@ -35,7 +35,7 @@ relatedCertifications:
     uid: certification.azure-administrator
 resources:
 - title: 認定資格の学習経路
-  description: Microsoft 認定資格のトレーニング リソースを探す: Azure Administrator Associate.
+  description: 'Microsoft 認定資格のトレーニング リソースを探す: Azure Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。

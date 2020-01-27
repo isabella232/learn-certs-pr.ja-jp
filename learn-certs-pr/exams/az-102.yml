@@ -9,7 +9,7 @@ summary: >-
   <div style='color&#58; red; font-weight&#58; bold;'>この試験は2019年6月30日に終了しました。注&#58;試験は中央標準時の午後11時59分に終了します<br/><br/></div>
 
 
-  この試験は [試験 70-533](https://www.microsoft.com/learning/exam-70-533.aspx) を取った受験生のみを想定しています&#58; Microsoft Azure Infrastructure Solutions の実装.もしまだ試験 533を取っていない場合、 この試験を取っても資格を取れません。
+  この試験は [試験 70-533](https://www.microsoft.com/learning/exam-70-533.aspx) を取った受験生のみを想定しています&#58; Implementing Microsoft Azure Infrastructure Solutions.もしまだ試験 533を取っていない場合、 この試験を取っても資格を取れません。
 
 
   トランジション試験は、すでにコンテンツドメインにおいてのスキルを証明している人たちが既存の試験をバイパスすることを念頭に置いているものであり、新規のロールベースの認定によって置き換えられる予定です。現在の認証と私たちが新たに資格を得る人々に期待するものの間にある三角地帯を埋めるものです。私たちとしては同様なコンテンツにいる人々がその適正をこの試験のバイパスによって証明することを望みません。
@@ -22,7 +22,7 @@ summary: >-
 
 
   この試験の受験者は、PowerShell および Command Line Interface の使用に精通している必要があります。受験者は、Azure Portal、ARM テンプレート、オペレーティング システム、仮想化、 Cloud インフラストラクチャ、ストレージ構造、およびネットワーキングに関する基本的な知識を持っている必要があります。
-subTitle: 'この試験は、を受験した方を想定しています 試験 70-533: Microsoft Azure Infrastructure Solutions の実装.試験番号533を受験していない場合は、この試験による認定資格を受け取ることはできません。'
+subTitle: 'この試験は、を受験した方を想定しています 試験 70-533: Implementing Microsoft Azure Infrastructure Solutions.試験番号533を受験していない場合は、この試験による認定資格を受け取ることはできません。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwA
 practiceTestUrl: https://www.mindhub.com/product-p/mu-az-102_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -54,7 +54,7 @@ relatedCertifications:
     uid: certification.azure-administrator
 resources:
 - title: 認定資格の学習経路
-  description: Microsoft 認定資格のトレーニング リソースを探す: Azure Administrator Associate.
+  description: 'Microsoft 認定資格のトレーニング リソースを探す: Azure Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。

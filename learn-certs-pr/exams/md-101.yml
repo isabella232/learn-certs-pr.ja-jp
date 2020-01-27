@@ -23,7 +23,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJV
 practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MD-101&examname=試験%20MD-101:%20最新デスクトップの管理&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fmd-101
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MD-101&examname=試験%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 levels:
 - intermediate
 skills:
@@ -47,7 +47,7 @@ relatedCertifications:
     uid: certification.modern-desktop
 resources:
 - title: 認定資格の学習経路
-  description: 'Microsoft 認定資格のトレーニングリソースを探す: 最新デスクトップ管理者アソシエイト'
+  description: 'Microsoft 認定資格のトレーニングリソースを探す: Modern Desktop Administrator Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。

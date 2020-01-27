@@ -16,12 +16,12 @@ summary: >-
 
 
   メッセージング管理者は認証タイプ、ライセンス契約、Microsoft 365アプリケーションとの統合についての実務知識を持っている必要があります。
-subTitle: この試験では、次の一覧に示す技術タスクを遂行する能力を評価します： ハイブリッド構成と移行を計画して実装する、メッセージング環境を保護する、組織設定を管理する
+subTitle: 'この試験では、次の一覧に示す技術タスクを遂行する能力を評価します： ハイブリッド構成と移行を計画して実装する、メッセージング環境を保護する、組織設定を管理する'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk9
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-201&examname=試験%20MS-201:%20ハイブリッドおよびセキュアなメッセージングプラットフォームの実装&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fms-201
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-201&examname=試験%20MS-201:%20Implementing%20a%20Hybrid%20and%20Secure%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fms-201
 levels:
 - intermediate
 skills:

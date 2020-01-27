@@ -17,7 +17,7 @@ practiceTestUrl: https://us.mindhub.com/p/MU-MS-101?utm_source=microsoft&utm_med
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-101&examname=試験%20MS-101:%20Microsoft%20365%20のモビリティとセキュリティ&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fms-101
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-101&examname=試験%20MS-101:%20Microsoft%20365%20Mobility%20and%20Security&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fms-101
 levels:
 - advanced
 skills:

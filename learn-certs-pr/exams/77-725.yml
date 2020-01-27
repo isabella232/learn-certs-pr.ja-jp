@@ -9,6 +9,9 @@ summary: "この Word 2016 試験の受験者は、Word 環境に関する基礎
 subTitle: この Word 2016 試験の受験者は、Word 環境に関する基礎知識を持ち、独力でタスクを完了できる能力があります。受験者は、さまざまな目的や状況に合わせて 2 ～ 3 ページの文書を作成および編集し、Word 2016 の主要な機能を実行できると想定されます。文書の例には、プロ並みのレポート、複数コラムのニュースレター、履歴書、およびビジネス文書が含まれます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfI
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

@@ -43,7 +43,7 @@ exams:
 - uid: exam.ms-301
 resources:
 - title: 認定の学習経路
-  description: Microsoft 認定資格のトレーニング リソースを探す: Teamwork Administrator Associate。
+  description: 'Microsoft 認定資格のトレーニング リソースを探す: Teamwork Administrator Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: トレーニングおよび認定ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。

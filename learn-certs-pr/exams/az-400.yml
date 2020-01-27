@@ -19,7 +19,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-400&examname=試験%20AZ-400:%20Microsoft%20Azure%20DevOpsソリューション&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-400&examname=試験%20AZ-400:%20Microsoft%20Azure%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-400
 levels:
 - advanced
 skills:

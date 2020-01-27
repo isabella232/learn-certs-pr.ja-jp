@@ -17,6 +17,9 @@ summary: >
 subTitle: この Access 2016 試験の受験者は、アプリケーションの環境に関する基礎知識を持つことが想定されます。また、基本的なデータベース設計の原則を理解し、独力でタスクを完了できることが想定されます。Access 2016の主な機能の正しい適用方法に精通しており、表、リレーションシップ、データ入力フォーム、マルチ レベル レポート、およびマルチ テーブル クエリなど、基本的な Access データベース オブジェクトを作成および維持する能力が求められます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Ax
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -26,10 +29,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
-providers:
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

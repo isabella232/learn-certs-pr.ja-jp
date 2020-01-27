@@ -44,7 +44,7 @@ relatedCertifications:
     uid: certification.modern-desktop
 resources:
 - title: 認定資格の学習経路
-  description: 'Microsoft 認定資格のトレーニングリソースを探す: 最新デスクトップ管理者アソシエイト。'
+  description: 'Microsoft 認定資格のトレーニングリソースを探す: Modern Desktop Administrator Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。

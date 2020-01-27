@@ -18,7 +18,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-120&examname=試験%20AZ-120:%20SAP%20Workloads向けMicrosoft%20Azureの計画と管理&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-120
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-120&examname=試験%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-120
 levels:
 - advanced
 skills:

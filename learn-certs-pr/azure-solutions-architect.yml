@@ -73,7 +73,7 @@ exams:
 - uid: exam.az-301
 resources:
 - title: 認定の学習経路
-  description: Microsoft 認定資格のトレーニング リソースを探す: Azure Solutions Architect Expert。
+  description: 'Microsoft 認定資格のトレーニング リソースを探す: Azure Solutions Architect Expert。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: トレーニングおよび認定ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。

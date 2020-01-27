@@ -38,7 +38,7 @@ relatedCertifications:
     uid: certification.m365-developer-associate
 resources:
 - title: 認定資格の学習経路
-  description: 'Microsoft 認定資格のトレーニングリソースを探す: Developer Associate'
+  description: 'Microsoft 認定資格のトレーニングリソースを探す: Developer Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。

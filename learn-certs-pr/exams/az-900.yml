@@ -14,12 +14,16 @@ subTitle: この試験では、クラウドのコンセプト；コアAzure サ�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-900&examname=試験%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-900&examname=試験%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-900
 levels:
 - beginner
 skills:

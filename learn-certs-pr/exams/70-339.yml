@@ -26,7 +26,7 @@ locales:
 - de
 - ja
 - pt-br
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=339&examname=試験%2070-339:%20Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2F70-339
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2F70-339
 levels:
 - intermediate
 skills:
