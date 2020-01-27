@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 認定:最新デスクトップ管理者アソシエイト'
+title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
 metadata:
-  title: 'Microsoft 365 認定:最新デスクトップ管理者アソシエイト'
-  description: 'Modern Desktop Administrators は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視します。'
+  title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
+  description: Modern Desktop Administrators は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視します。
 uid: certification.modern-desktop
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Modern Desktop Administrators は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視します。
+summary: Modern Desktop Administrators は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視します。
 subTitle: Modern Desktop Administrators は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視します。
 levels:
 - intermediate

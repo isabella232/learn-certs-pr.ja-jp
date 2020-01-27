@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 資格:Azure DevOps Engineer Expert'
+title: 'Microsoft Certified: Azure DevOps Engineer Expert'
 metadata:
-  title: 'Microsoft 資格:Azure DevOps Engineer Expert'
-  description: 'Azure DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。'
+  title: 'Microsoft Certified: Azure DevOps Engineer Expert'
+  description: Azure DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。
 uid: certification.azure-devops
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Azure DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。
+summary: Azure DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。
 subTitle: Azure DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。
 levels:
 - advanced
@@ -27,11 +26,6 @@ products:
 - azure-kubernetes-service
 - azure-container-instances
 - azure-automation
-paths:
-- uid: learn.azdo.evolve-your-devops-practices
-- uid: learn.azdo.build-applications-with-azure-devops
-- uid: learn.azdo.deploy-applications-with-azure-devops
-- uid: learn.azdo.automate-deployments-azure-devops
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02
@@ -45,6 +39,11 @@ prerequisites:
   isOptional: false
 - uid: certification.azure-developer
   isOptional: false
+paths:
+- uid: learn.azdo.evolve-your-devops-practices
+- uid: learn.azdo.build-applications-with-azure-devops
+- uid: learn.azdo.deploy-applications-with-azure-devops
+- uid: learn.azdo.automate-deployments-azure-devops
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP84
 exams:
 - uid: exam.az-400

@@ -1,28 +1,32 @@
 ### YamlMime:Examination
-title: Azure AI ソリューションのデザインおよび実装
+title: Designing and Implementing an Azure AI Solution
 metadata:
-  title: '試験 AI-100: Azure AI ソリューションのデザインおよび実装'
-  description: '試験 AI-100: Azure AI ソリューションのデザインおよび実装'
+  title: '試験 AI-100: Designing and Implementing an Azure AI Solution'
+  description: '試験 AI-100: Designing and Implementing an Azure AI Solution'
 uid: exam.ai-100
 displayName: AI-100
-summary: |-   
+summary: >-
   この試験の受験者は、AICloudベースとハイブリッドAIソリューションの必須要件を分析し、最適なツールとテクノロジーを推奨し、スケーラビリティとパフォーマンス要件に合致するソリューションを実装します。
+
   <br/>
+
 
   受験者は、ソリューション アーキテクトからビジョンを翻訳し、データ科学者、データ エンジニア、IoT スペシャリスト、および AI 開発者と協力して、完全なエンドツーエンドのソリューションを構築します。受験者は、Microsoft Azure Cognitive Services と Azure Bot Service を使用する AI アプリとエージェントを設計および実装します。受験者は、オープン ソース テクノロジを使用するソリューションを推奨することができます。
 
+
   受験者は、Azure AI ポートフォリオを構成するコンポーネントと利用可能なデータ ストレージ オプションを理解しています。
 
+
   受験者は、Cognitive Services、Azure ボット、Azure Search、および Azure のデータ ストレージを使用する AI ソリューションを実装します。受験者は、特定の要件を満たすためにカスタム API をいつ開発する必要があるかを理解しています。
-subTitle: 'この試験では、ソリューションの要求の分析、ソリューションの設計、AIモデルのソリューションへの統合、ソリューションの展開および管理という技術的なタスクを遂行する能力を測定します。'
+subTitle: この試験では、ソリューションの要求の分析、ソリューションの設計、AIモデルのソリューションへの統合、ソリューションの展開および管理という技術的なタスクを遂行する能力を測定します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AI-100&examname=試験%20AI-100:%20Azure%20AI%20ソリューションのデザインおよび実装&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fai-100
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AI-100&examname=%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fai-100
 levels:
 - intermediate
 skills:

@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 資格:Azure データ サイエンティスト アソシエイツ'
+title: 'Microsoft Certified: Azure Data Scientist Associate'
 metadata:
-  title: 'Microsoft 資格:Azure データ サイエンティスト アソシエイツ'
-  description: 'Azure Data Scientist は、Azure の機械学習技術を適用して、ビジネス上の問題を解決するモデルをトレーニング、評価、および展開します。'
+  title: 'Microsoft Certified: Azure Data Scientist Associate'
+  description: Azure Data Scientist は、Azure の機械学習技術を適用して、ビジネス上の問題を解決するモデルをトレーニング、評価、および展開します。
 uid: certification.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Azure Data Scientist は、Azure の機械学習技術を適用して、ビジネス上の問題を解決するモデルをトレーニング、評価、および展開します。
+summary: Azure Data Scientist は、Azure の機械学習技術を適用して、ビジネス上の問題を解決するモデルをトレーニング、評価、および展開します。
 subTitle: Azure Data Scientist は、Azure の機械学習技術を適用して、ビジネス上の問題を解決するモデルをトレーニング、評価、および展開します。
 levels:
 - intermediate

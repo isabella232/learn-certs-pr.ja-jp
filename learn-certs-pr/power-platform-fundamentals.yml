@@ -5,14 +5,13 @@ metadata:
   description: ビジネス価値およびコア製品機能から、基本的な Power Apps キャンバス アプリの構築、データソースの接続、 Microsoft Flow による自動化、 Power BI ダッシュボードの作成に至るまで、 Power Platform のコア機能を理解していることを証明しましょう。
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  ビジネス価値およびコア製品機能から、基本的な Power Apps キャンバス アプリの構築、データソースの接続、 Microsoft Flow による自動化、 Power BI ダッシュボードの作成に至るまで、 Power Platform のコア機能を理解していることを証明しましょう。
+summary: ビジネス価値およびコア製品機能から、基本的な Power Apps キャンバス アプリの構築、データソースの接続、 Microsoft Flow による自動化、 Power BI ダッシュボードの作成に至るまで、 Power Platform のコア機能を理解していることを証明しましょう。
 subTitle: ビジネス価値およびコア製品機能から、基本的な Power Apps キャンバス アプリの構築、データソースの接続、 Microsoft Flow による自動化、 Power BI ダッシュボードの作成に至るまで、 Power Platform のコア機能を理解していることを証明しましょう。
 levels:
 - beginner
 skills:
 - Power Platform のビジネス価値を理解する
-- Power Platform のコアコンポーネントを理解する 
+- Power Platform のコアコンポーネントを理解する
 - Power BI のビジネス価値を実証する
 - Power Apps のビジネス価値を実証する
 - Microsoft Flow のビジネス価値を実証する

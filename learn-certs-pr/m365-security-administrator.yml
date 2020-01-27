@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 認定:セキュリティ管理者アソシエイツ'
+title: 'Microsoft 365 Certified: Security Administrator Associate'
 metadata:
-  title: 'Microsoft 365 認定:セキュリティ管理者アソシエイツ'
-  description: 'Microsoft 365 Security Administrators は、M365 の企業およびハイブリッド環境を積極的に保護し、セキュリティやコンプライアンス ソリューションを実装および管理し、脅威に対応し、データ ガバナンスを強化します。'
+  title: 'Microsoft 365 Certified: Security Administrator Associate'
+  description: Microsoft 365 Security Administrators は、M365 の企業およびハイブリッド環境を積極的に保護し、セキュリティやコンプライアンス ソリューションを実装および管理し、脅威に対応し、データ ガバナンスを強化します。
 uid: certification.m365-security-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft 365 Security Administrators は、M365 の企業およびハイブリッド環境を積極的に保護し、セキュリティやコンプライアンス ソリューションを実装および管理し、脅威に対応し、データ ガバナンスを強化します。
+summary: Microsoft 365 Security Administrators は、M365 の企業およびハイブリッド環境を積極的に保護し、セキュリティやコンプライアンス ソリューションを実装および管理し、脅威に対応し、データ ガバナンスを強化します。
 subTitle: Microsoft 365 Security Administrators は、M365 の企業およびハイブリッド環境を積極的に保護し、セキュリティやコンプライアンス ソリューションを実装および管理し、脅威に対応し、データ ガバナンスを強化します。
 levels:
 - intermediate

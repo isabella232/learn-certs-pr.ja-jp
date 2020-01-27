@@ -5,8 +5,7 @@ metadata:
   description: 'Microsoft Office Specialist: Microsoft Office 2016 Expert'
 uid: certification.microsoft-office-specialist-expert-certification-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  この認定資格はMicrosoft オフィス スペシャリスト エキスパート認定資格を取得して、主要な Office プログラムにおける高度なスキルを身に付けていることを実証します。
+summary: この認定資格はMicrosoft オフィス スペシャリスト エキスパート認定資格を取得して、主要な Office プログラムにおける高度なスキルを身に付けていることを実証します。
 subTitle: この認定資格はMicrosoft オフィス スペシャリスト エキスパート認定資格を取得して、主要な Office プログラムにおける高度なスキルを身に付けていることを実証します。
 levels:
 - advanced
@@ -33,4 +32,3 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-

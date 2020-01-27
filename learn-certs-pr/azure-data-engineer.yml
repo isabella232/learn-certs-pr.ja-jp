@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 資格:Azure データ エンジニア アソシエイツ'
+title: 'Microsoft Certified: Azure Data Engineer Associate'
 metadata:
-  title: 'Microsoft 資格:Azure データ エンジニア アソシエイツ'
-  description: 'Azure Data Engineers は、Azure データ サービスのあらゆる技術の知識を使用してデータの管理、監視、セキュリティ、およびプライバシーを設計および実装し、ビジネス ニーズを満たします。'
+  title: 'Microsoft Certified: Azure Data Engineer Associate'
+  description: Azure Data Engineers は、Azure データ サービスのあらゆる技術の知識を使用してデータの管理、監視、セキュリティ、およびプライバシーを設計および実装し、ビジネス ニーズを満たします。
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Azure Data Engineers は、Azure データ サービスのあらゆる技術の知識を使用してデータの管理、監視、セキュリティ、およびプライバシーを設計および実装し、ビジネス ニーズを満たします。
+summary: Azure Data Engineers は、Azure データ サービスのあらゆる技術の知識を使用してデータの管理、監視、セキュリティ、およびプライバシーを設計および実装し、ビジネス ニーズを満たします。
 subTitle: Azure Data Engineers は、Azure データ サービスのあらゆる技術の知識を使用してデータの管理、監視、セキュリティ、およびプライバシーを設計および実装し、ビジネス ニーズを満たします。
 levels:
 - intermediate

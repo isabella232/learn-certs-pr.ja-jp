@@ -1,23 +1,22 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 認定:エンタープライズ管理者エキスパート'
+title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
-  title: 'Microsoft 365 認定:エンタープライズ管理者エキスパート'
-  description: 'Microsoft 365 Enterprise Administrators は、Microsoft 365 サービスの審査、事前計画、マイグレーション、デプロイ、管理を行います。'
+  title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
+  description: Microsoft 365 Enterprise Administrators は、Microsoft 365 サービスの審査、事前計画、マイグレーション、デプロイ、管理を行います。
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Microsoft 365 Enterprise Administrators は、Microsoft 365 サービスの審査、事前計画、マイグレーション、デプロイ、管理を行います。
+summary: Microsoft 365 Enterprise Administrators は、Microsoft 365 サービスの審査、事前計画、マイグレーション、デプロイ、管理を行います。
 subTitle: Microsoft 365 Enterprise Administrators は、Microsoft 365 サービスの審査、事前計画、マイグレーション、デプロイ、管理を行います。
 levels:
 - advanced
 skills:
 - Microsoft 365サービスを設計および実装する
-- ユーザーIDと役割を管理する 
-- アクセスと認証を管理する 
+- ユーザーIDと役割を管理する
+- アクセスと認証を管理する
 - Office 365のワークロードとアプリケーションを計画する
 - 最新のデバイスサービスを実装する
 - Microsoft 365のセキュリティと脅威管理を実装する
-- Microsoft 365のガバナンスとコンプライアンスを管理する 
+- Microsoft 365のガバナンスとコンプライアンスを管理する
 roles:
 - administrator
 type: role-based

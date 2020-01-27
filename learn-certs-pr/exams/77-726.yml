@@ -1,22 +1,17 @@
 ### YamlMime:Examination
-title: 'Word 2016 Expert:有効なコミュニケーションのためのドキュメント作成'
+title: 'Word 2016 Expert: Creating Documents for Effective Communication'
 metadata:
-  title: '試験 77-726: Word 2016 Expert:有効なコミュニケーションのためのドキュメント作成'
-  description: '試験 77-726: Word 2016 Expert:有効なコミュニケーションのためのドキュメント作成'
+  title: '試験 77-726: Word 2016 Expert: Creating Documents for Effective Communication'
+  description: '試験 77-726: Word 2016 Expert: Creating Documents for Effective Communication'
 uid: exam.77-726
 displayName: 77-726
-summary: |
-  Word 2016 試験の専門家レベルの受験者は、ドキュメントおよびコンテンツ管理、および高度な書式設定における Word 2016 の高度な機能に精通しています。
-
-  受験者は、4 ページ以上の専門的な文書を作成して管理し、さまざまな特殊な目的や状況に対応します。受験者は、プロジェクトのニーズを満たし、生産性を向上させるために、Word 環境をカスタマイズします。エキスパート レベルの文書の例として、ビジネス プラン、研究論文、本、専門パンフレット、大量メール送信用文書があります。受験者の役割としては、編集者、プロジェクト マネージャー、ビジネス情報労働者、教育者などが想定されます。 
-
-  Microsoft Office Specialist (MOS) 2016 認定試験では、MOS 2016 プログラムを使用して、受験者の知識、スキル、および能力を適切に評価するための、新しいパフォーマンスベースの形式が導入されています&#58;
-  - 通常、MOS 2016 試験タスクの手順には、以前のバージョンとは異なり、コマンド名が含まれません。たとえば、機能名は使用されず、記述子で置き換えられています。つまり、受験者は、各プロジェクトのタスクを完了するためにプログラムの機能の目的と一般的な用途を理解している必要があります。
-  - MOS 2016 試験形式には、複数のプロジェクトが組み込まれています。
+summary: "Word 2016 試験の専門家レベルの受験者は、ドキュメントおよびコンテンツ管理、および高度な書式設定における Word 2016 の高度な機能に精通しています。\n\n受験者は、4 ページ以上の専門的な文書を作成して管理し、さまざまな特殊な目的や状況に対応します。受験者は、プロジェクトのニーズを満たし、生産性を向上させるために、Word 環境をカスタマイズします。エキスパート レベルの文書の例として、ビジネス プラン、研究論文、本、専門パンフレット、大量メール送信用文書があります。受験者の役割としては、編集者、プロジェクト マネージャー、ビジネス情報労働者、教育者などが想定されます。 \n\nMicrosoft Office Specialist (MOS) 2016 認定試験では、MOS 2016 プログラムを使用して、受験者の知識、スキル、および能力を適切に評価するための、新しいパフォーマンスベースの形式が導入されています&#58;\n- 通常、MOS 2016 試験タスクの手順には、以前のバージョンとは異なり、コマンド名が含まれません。たとえば、機能名は使用されず、記述子で置き換えられています。つまり、受験者は、各プロジェクトのタスクを完了するためにプログラムの機能の目的と一般的な用途を理解している必要があります。\n- MOS 2016 試験形式には、複数のプロジェクトが組み込まれています。\n"
 subTitle: Word 2016 試験の専門家レベルの受験者は、ドキュメントおよびコンテンツ管理、および高度な書式設定における Word 2016 の高度な機能に精通しています。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XXRD
-scheduleExamUrl: http://www.certiport.com/locator
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +22,7 @@ locales:
 - ja
 - ko
 - nb
-levels: 
+levels:
 - intermediate
 skills:
 - ドキュメント オプションの設定と管理（35-40%）

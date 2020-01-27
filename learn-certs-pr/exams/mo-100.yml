@@ -1,19 +1,20 @@
 ### YamlMime:Examination
-title: Microsoft Word (Word および Word 2019) 
+title: Microsoft Word (Word and Word 2019)
 metadata:
-  title: 'MO-100: Microsoft Word (Word および Word 2019)'
-  description: 'MO-100: Microsoft Word (Word および Word 2019)'
+  title: 'MO-100: Microsoft Word (Word and Word 2019)'
+  description: 'MO-100: Microsoft Word (Word and Word 2019)'
 uid: exam.mo-100
 displayName: MO-100
-summary: |-
-  この認定資格を取得した個人は、製品について約 150 時間の指導と実地経験を持ち、業界におけるアソシエイト レベルの能力を証明し、そして仕事に取り組む準備ができています 市場。彼らは Word の主要機能の正しい適用を実演し、独立してタスクを完了することができます。
+summary: この認定資格を取得した個人は、製品について約 150 時間の指導と実地経験を持ち、業界におけるアソシエイト レベルの能力を証明し、そして仕事に取り組む準備ができています 市場。彼らは Word の主要機能の正しい適用を実演し、独立してタスクを完了することができます。
 subTitle: この試験では、さまざまな目的や状況に合わせて文書を作成および編集することにより、Word の主要な機能を正しく適用する能力が評価されます。この試験では、プロフェッショナル並みのレポート、複数コラムのニュースレター、履歴書、およびビジネス用文書を作成および管理する能力が含まれます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
-levels: 
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - ドキュメントの管理 (20-25%)
@@ -25,7 +26,7 @@ skills:
 roles:
 - developer
 products:
-- office 
+- office
 - office-word
 relatedCertifications:
 - related:

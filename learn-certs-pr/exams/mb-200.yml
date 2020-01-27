@@ -5,20 +5,23 @@ metadata:
   description: '試験 MB-200: Microsoft Power Platform + Dynamics 365 Core'
 uid: exam.mb-200
 displayName: MB-200
-summary: |-
+summary: >-
   この試験の受験者は、エンタープライズ ライセンス製品の機能と機能性に精通している機能コンサルタントです。機能コンサルタントとして、受験者は機能のバンドル済みバージョンに精通していますが、それらのバンドル製品を主な対象として作業するわけではありません。
+
   <br/>
 
+
   受験者は主に、クライントのニーズに答えること、新機能と機能性の実装に関連する設計タスクの実行、システム変更の実装とテストに対して責任をおっています。
+
 
   受験者はソリューションの機能デザインもプランニングし、アプリケーション ライフサイクル管理 (ALM) プロセスを実装し、レガシーや外部のシステムからデータとオブジェクトを移行し、Power Platform を他のシステムと統合し、Power Platform 環境を管理します。
 subTitle: 'この試験は、次の技術的なタスクを達成する能力を評価します: 発見、計画、分析を実行します。ユーザーエクスペリエンスデザインの管理。エンティティとデータを管理します。セキュリティを実装します。統合を実装します。ソリューションの展開とテストを実行します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-200&examname=試験%20試験%20MB-200:%20Microsoft%20Power%20Platform%20+%20Dynamics%20365%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-200&examname=試験%20試験%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 levels:
 - intermediate
 skills:
@@ -30,17 +33,17 @@ skills:
 - ソリューション開発とテストの実行(25-30%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-sales
-- dynamics-marketing
-- dynamics-field-service
-- dynamics-customer-service
 exams:
 - uid: exam.mb-210
 - uid: exam.mb-220
 - uid: exam.mb-230
 - uid: exam.mb-240
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
 courses:
 - uid: course.mb-200t01
 - uid: course.mb-200t02

@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 資格:Azure AI Engineer Associate'
+title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
-  title: 'Microsoft 資格:Azure AI Engineer Associate'
-  description: 'Azure AI Engineers は、Cognitive Services、Machine Learning、および Knowledge Mining を使用して、自然言語処理、音声、コンピュータ ビジョン、ボット、およびエージェントを含む Microsoft AI ソリューションを設計および実装します。'
+  title: 'Microsoft Certified: Azure AI Engineer Associate'
+  description: Azure AI Engineers は、Cognitive Services、Machine Learning、および Knowledge Mining を使用して、自然言語処理、音声、コンピュータ ビジョン、ボット、およびエージェントを含む Microsoft AI ソリューションを設計および実装します。
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Azure AI Engineers は、Cognitive Services、Machine Learning、および Knowledge Mining を使用して、自然言語処理、音声、コンピュータ ビジョン、ボット、およびエージェントを含む Microsoft AI ソリューションを設計および実装します。
+summary: Azure AI Engineers は、Cognitive Services、Machine Learning、および Knowledge Mining を使用して、自然言語処理、音声、コンピュータ ビジョン、ボット、およびエージェントを含む Microsoft AI ソリューションを設計および実装します。
 subTitle: Azure AI Engineers は、Cognitive Services、Machine Learning、および Knowledge Mining を使用して、自然言語処理、音声、コンピュータ ビジョン、ボット、およびエージェントを含む Microsoft AI ソリューションを設計および実装します。
 levels:
 - intermediate

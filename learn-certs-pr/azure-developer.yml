@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 資格: Azure Developer アソシエイツ'
+title: 'Microsoft Certified: Azure Developer Associate'
 metadata:
-  title: 'Microsoft 資格: Azure Developer アソシエイツ'
-  description: 'Microsoft Azure Developers は、 Cloud ソリューション アーキテクト、 Cloud DBA、 Cloud管理者、およびクライアントと連携したアプリケーションやサービスなどの Cloud ソリューションを設計、構築、テスト、および保守し、これらのソリューションを実装します。'
+  title: 'Microsoft Certified: Azure Developer Associate'
+  description: Microsoft Azure Developers は、 Cloud ソリューション アーキテクト、 Cloud DBA、 Cloud管理者、およびクライアントと連携したアプリケーションやサービスなどの Cloud ソリューションを設計、構築、テスト、および保守し、これらのソリューションを実装します。
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft Azure Developers は、 Cloud ソリューション アーキテクト、 Cloud DBA、 Cloud管理者、およびクライアントと連携したアプリケーションやサービスなどの Cloud ソリューションを設計、構築、テスト、および保守し、これらのソリューションを実装します。
+summary: Microsoft Azure Developers は、 Cloud ソリューション アーキテクト、 Cloud DBA、 Cloud管理者、およびクライアントと連携したアプリケーションやサービスなどの Cloud ソリューションを設計、構築、テスト、および保守し、これらのソリューションを実装します。
 subTitle: Microsoft Azure Developers は、 Cloud ソリューション アーキテクト、 Cloud DBA、 Cloud管理者、およびクライアントと連携したアプリケーションやサービスなどの Cloud ソリューションを設計、構築、テスト、および保守し、これらのソリューションを実装します。
 levels:
 - intermediate
@@ -31,7 +30,6 @@ products:
 - azure-bot-service
 - azure-functions
 - azure-logic-apps
-
 courses:
 - uid: course.az-203t01
 - uid: course.az-203t02

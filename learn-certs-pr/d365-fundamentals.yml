@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 資格:Dynamics 365 Fundamentals'
+title: 'Microsoft Certified: Dynamics 365 Fundamentals'
 metadata:
-  title: 'Microsoft 資格:Dynamics 365 Fundamentals'
-  description: 'Microsoft Dynamics 365、Power Platform、クラウドの概念 ライセンス オプション 展開とリリースのオプションについて理解していることを証明します。'
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals'
+  description: Microsoft Dynamics 365、Power Platform、クラウドの概念 ライセンス オプション 展開とリリースのオプションについて理解していることを証明します。
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  Microsoft Dynamics 365、Power Platform、クラウドの概念 ライセンス オプション 展開とリリースのオプションについて理解していることを証明します。
+summary: Microsoft Dynamics 365、Power Platform、クラウドの概念 ライセンス オプション 展開とリリースのオプションについて理解していることを証明します。
 subTitle: Microsoft Dynamics 365、Power Platform、クラウドの概念 ライセンス オプション 展開とリリースのオプションについて理解していることを証明します。
 levels:
 - beginner

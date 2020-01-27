@@ -5,22 +5,24 @@ metadata:
   description: '試験 AZ-103: Microsoft Azure Administrator'
 uid: exam.az-103
 displayName: AZ-103
-summary: |-
+summary: >-
   2019年5月1日の開始に当たり、試験AZ-103に合格するだけで当資格を得られるようになりました。新試験はAZ-100およびAZ-101(2019年5月1日廃止)がカバーしていたスキルを合わせたものとなり、多くの部分が AZ-100から来ています。
+
 
   この試験の受験者は、ストレージ、セキュリティ、ネットワーキング、コンピューティング Cloud機能にまたがる Cloud サービスを管理する Azure 管理者です。受験者は、ITライフサイクルの各サービスに精通しており、インフラストラクチャ サービス、アプリケーション、および環境の依頼を受けます。適切なリソースのプロビジョニング、サイズ設定、監視、調整と同様、最適なパフォーマンスおよび規模で使用するサービを推奨します。
 
+
   この試験の受験者は、PowerShell、Command Line Interface、Azure Portal、ARM テンプレート、オペレーティング システム、仮想化、Cloud インフラストラクチャ、ストレージ構造、およびネットワーキングに習熟している必要があります。
-subTitle: '2019年5月1日の開始に当たり、試験AZ-103に合格するだけで当資格を得られるようになりました。新試験はAZ-100およびAZ-101(2019年5月1日廃止)がカバーしていたスキルを合わせたものとなり、多くの部分が AZ-100から来ています。この試験では、Azureサブスクリプションとリソースの管理、ストレージの実装と管理、仮想マシン(VM)のデプロイと管理、仮想ネットワークの設定と管理、アイデンティティの管理という技術的なタスクを遂行する能力を測定します。'
+subTitle: 2019年5月1日の開始に当たり、試験AZ-103に合格するだけで当資格を得られるようになりました。新試験はAZ-100およびAZ-101(2019年5月1日廃止)がカバーしていたスキルを合わせたものとなり、多くの部分が AZ-100から来ています。この試験では、Azureサブスクリプションとリソースの管理、ストレージの実装と管理、仮想マシン(VM)のデプロイと管理、仮想ネットワークの設定と管理、アイデンティティの管理という技術的なタスクを遂行する能力を測定します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUR
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-103&examname=試験%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-103
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-103&examname=試験%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-103
 levels:
 - intermediate
 skills:

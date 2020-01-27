@@ -5,23 +5,7 @@ metadata:
   description: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
 uid: certification.microsoft-office-specialist-master-certification-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  This certification demonstrates that you have the deepest level of skills needed to proficiently use Office programs by earning a Microsoft Office Specialist Master certification.
-  
-  To earn a Microsoft Office Specialist Master certification, complete the following requirements&#58;
-
-  マイクロソフト オフィス スペシャリスト マスター認定資格を取得することにより、Office プログラムを使いこなすために必要な最も高度なスキルを身に付けていることが実証されます。
-  
-  マイクロソフト オフィス スペシャリスト マスター認定資格を取得するには、次の要件を満たしてください&#58;
-
-  - 3つの必須試験に合格する
-    - [77-726&#58; Word 2016 Expert&#58; 効果的なコミュニケーションのための文書作成](/learn/certifications/exams 77-726)
-    - [77-728&#58; Excel 2016 Expert&#58; Insights のデータの解釈](/learn/certifications/exams/77-728)
-    - [77-729&#58; PowerPoint 2016&#58; コアプレゼンテーションの設計と実施スキル ](/learn/certifications/exams/77-729)
-  - 選択科目試験のいずれかに合格する 
-    - [77-730&#58; Access 2016&#58; コアデータベースの管理、操作および質問スキル](/learn/certifications/exams/77-730)
-    - [77-731&#58; Outlook 2016&#58; コアコミュニケーション、コラボレーションおよび電子メールスキル](/learn/certifications/exams/77-731)
-  
+summary: "This certification demonstrates that you have the deepest level of skills needed to proficiently use Office programs by earning a Microsoft Office Specialist Master certification.\n\nTo earn a Microsoft Office Specialist Master certification, complete the following requirements&#58;\n\nマイクロソフト オフィス スペシャリスト マスター認定資格を取得することにより、Office プログラムを使いこなすために必要な最も高度なスキルを身に付けていることが実証されます。\n\nマイクロソフト オフィス スペシャリスト マスター認定資格を取得するには、次の要件を満たしてください&#58;\n\n- 3つの必須試験に合格する\n  - [77-726&#58; Word 2016 Expert&#58; Creating Documents for Effective Communication](/learn/certifications/exams 77-726)\n  - [77-728&#58; Excel 2016 Expert&#58; Interpreting Data for Insights](/learn/certifications/exams/77-728)\n  - [77-729&#58; PowerPoint 2016&#58; Core Presentation Design and Delivery Skills](/learn/certifications/exams/77-729)\n- 選択科目試験のいずれかに合格する \n  - [77-730&#58; Access 2016&#58; Core Database Management, Manipulation, and Query Skills](/learn/certifications/exams/77-730)\n  - [77-731&#58; Outlook 2016&#58; Core Communication, Collaboration and Email Skills](/learn/certifications/exams/77-731)"
 subTitle: マイクロソフト オフィス スペシャリスト マスター認定資格を取得することにより、Office プログラムを使いこなすために必要な最も高度なスキルを身に付けていることが実証されます。
 levels:
 - advanced
