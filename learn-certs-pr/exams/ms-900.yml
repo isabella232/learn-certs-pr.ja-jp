@@ -5,8 +5,9 @@ metadata:
   description: '試験 MS-900: Microsoft 365 Fundamentals'
 uid: exam.ms-900
 displayName: MS-900
-summary: |-
+summary: >-
   この試験は、クラウド サービス全般および SaaS (Software as a Service) クラウド モデルを採用する際の考慮事項と利点に関する基本的な知識を実証することを目的としています。この試験では、利用可能なオプションに関する知識と、Microsoft 365 クラウド サービス製品の実装によって得られる利点についても説明します。
+
 
   この試験は、Office 365、Microsoft Intune、Azure Information Protection (AIP)、およびWindows 10、などのクラウド コンピューティングおよびテクノロジ試験の前処理として利用できます。
 subTitle: Microsoft 365 のコア サービス、Microsoft 365 におけるセキュリティ/コンプライアンス/プライバシー/信頼、Microsoft 365 の価格とサポートの Cloud コンセプトを理解していることを証明してください。
@@ -17,10 +18,10 @@ locales:
 - en
 - ja
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-900&examname=試験%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fms-900
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-900&examname=試験%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fms-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
@@ -60,4 +61,3 @@ resources:
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
-

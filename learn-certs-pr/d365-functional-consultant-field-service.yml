@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 認定: Dynamics 365 Field Service Functional Consultant Associate'
+title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 認定: Dynamics 365 Field Service Functional Consultant Associate'
-  description: 'Microsoft Dynamics 365 Field Service Functional Consultantsは、Field Service アプリケーションを構成し、フィールド サービス ライフサイクルを管理するソリューションを実装し、Connected Field Service (IoT) ソリューションを展開します。'
+  title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
+  description: Microsoft Dynamics 365 Field Service Functional Consultantsは、Field Service アプリケーションを構成し、フィールド サービス ライフサイクルを管理するソリューションを実装し、Connected Field Service (IoT) ソリューションを展開します。
 uid: certification.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft Dynamics 365 Field Service Functional Consultantsは、Field Service アプリケーションを構成し、フィールド サービス ライフサイクルを管理するソリューションを実装し、Connected Field Service (IoT)ソリューションを展開します。
+summary: Microsoft Dynamics 365 Field Service Functional Consultantsは、Field Service アプリケーションを構成し、フィールド サービス ライフサイクルを管理するソリューションを実装し、Connected Field Service (IoT)ソリューションを展開します。
 subTitle: Microsoft Dynamics 365 Field Service Functional Consultantsは、Field Service アプリケーションを構成し、フィールド サービス ライフサイクルを管理するソリューションを実装し、Connected Field Service (IoT)ソリューションを展開します。
 levels:
 - intermediate

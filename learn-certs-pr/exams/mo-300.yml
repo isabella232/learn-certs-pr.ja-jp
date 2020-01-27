@@ -1,19 +1,18 @@
 ### YamlMime:Examination
-title: Microsoft PowerPoint (PowerPoint および PowerPoint 2019)
+title: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)
 metadata:
-  title: 'MO-300: Microsoft PowerPoint (PowerPoint および PowerPoint 2019)'
-  description: 'MO-300: Microsoft PowerPoint (PowerPoint および PowerPoint 2019)'
+  title: 'MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)'
+  description: 'MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)'
 uid: exam.mo-300
 displayName: MO-300
-summary: |-
-  この認定資格を取得した個人は、約 150 時間の指導と製品の実務経験があり、業界のアソシエイト レベルでの能力が証明されており、ジョブマーケットに参入する準備ができています。PowerPoint の主要な機能が正しく適用されていることを示し、タスクを個別に完了することができます。
+summary: この認定資格を取得した個人は、約 150 時間の指導と製品の実務経験があり、業界のアソシエイト レベルでの能力が証明されており、ジョブマーケットに参入する準備ができています。PowerPoint の主要な機能が正しく適用されていることを示し、タスクを個別に完了することができます。
 subTitle: この試験では、プレゼンテーションの管理と作成、シェイプとスライドの挿入とフォーマット、スライド内容の作成、トランジションとアニメーションの適用および複数のプレゼンテーションの管理など、プレゼンテーションやスライドショーを作成、編集、強化する能力を評価します。プレゼンテーションの例には、プロフェッショナル レベルのセールス プレゼンテーション、従業員トレーニング、教材、キオスク スライドショーなどが含まれます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8R
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - プレゼンテーションの管理
@@ -23,7 +22,7 @@ skills:
 - 画面を切り替えるおよびアニメーションを適用する
 roles:
 - developer
-products: 
+products:
 - office
 - office-powerpoint
 relatedCertifications:
@@ -42,4 +41,3 @@ resources:
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
-

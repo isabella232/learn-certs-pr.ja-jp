@@ -5,18 +5,19 @@ metadata:
   description: '試験 MB-900: Microsoft Dynamics 365 Fundamentals'
 uid: exam.mb-900
 displayName: MB-900
-summary: |-
+summary: >-
   この試験は、Microsoft Dynamics 365や、Power Platform アプリケーションや、クラウド コンピューティング モデルについての基礎的な知識を実演したい受験者のためにデザインされています。この試験では、Dynamics 365、Power Platform、およびクラウド サービス全般を採用する際の考慮事項と利点について説明します。この試験はまた、Dynamics 365 資格およびトレーニングの前準備として受けることも可能です。
+
 
   この試験の受験者は情報科学 (IT) 環境の一般的な知識もしくは関連する実務経験を持っている必要があります。また、受験者は、ビジネス シナリオについての基本的理解、および IT プロジェクトにおいてビジネス、法律、およびセキュリティ上の要件に対応した経験があることも必要です。
 subTitle: この試験では、Microsoft Dynamics 365、Power Platform、クラウドの概念 ライセンス オプション 展開とリリースのオプションについての理解度を測定します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVu
 practiceTestUrl: https://us.mindhub.com/p/MU-MB-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-900&examname=試験%20MB-900:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fmb-900
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-900&examname=試験%20MB-900:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fmb-900
 levels:
 - beginner
 skills:
@@ -25,7 +26,7 @@ skills:
 - 展開とリリースを理解する (20-25%)
 roles:
 - developer
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-900t01

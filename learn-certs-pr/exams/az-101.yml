@@ -5,15 +5,15 @@ metadata:
   description: '試験 AZ-101: Microsoft Azure Integration and Security'
 uid: exam.az-101
 displayName: AZ-101
-summary: |-
-  この試験の受験者は、ストレージ、セキュリティ、ネットワーキング、コンピューティング Cloud機能にまたがる Cloud サービスを管理する Azure 管理者です。受験者は、ITライフサイクルの各サービスに精通しており、インフラストラクチャ サービス、アプリケーション、および環境の依頼を受けます。適切なリソースのプロビジョニング、サイズ設定、監視、調整と同様、最適なパフォーマンスおよび規模で使用するサービを推奨します。この試験の受験者は、PowerShell、Command Line Interface、Azure Portal、ARM テンプレート、オペレーティング システム、仮想化、Cloud インフラストラクチャ、ストレージ構造、およびネットワーキングに習熟している必要があります。
-subTitle: 'この試験では、IDの保護、Azure へのサーバ移行の評価と実施、アプリケーションサービスの実装と管理、高度な仮想ネットワークの実装という技術タスクを遂行する能力を評価します。'
+summary: この試験の受験者は、ストレージ、セキュリティ、ネットワーキング、コンピューティング Cloud機能にまたがる Cloud サービスを管理する Azure 管理者です。受験者は、ITライフサイクルの各サービスに精通しており、インフラストラクチャ サービス、アプリケーション、および環境の依頼を受けます。適切なリソースのプロビジョニング、サイズ設定、監視、調整と同様、最適なパフォーマンスおよび規模で使用するサービを推奨します。この試験の受験者は、PowerShell、Command Line Interface、Azure Portal、ARM テンプレート、オペレーティング システム、仮想化、Cloud インフラストラクチャ、ストレージ構造、およびネットワーキングに習熟している必要があります。
+subTitle: この試験では、IDの保護、Azure へのサーバ移行の評価と実施、アプリケーションサービスの実装と管理、高度な仮想ネットワークの実装という技術タスクを遂行する能力を評価します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6M
 practiceTestUrl: https://www.mindhub.com/product-p/mu-az-101_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/
+retirementDate: 05/01/2019
 levels:
 - intermediate
 skills:
@@ -21,14 +21,13 @@ skills:
 - アプリケーションサービスの実装と管理（20-25%）
 - 高度な仮想ネットワークを実装する（30-35%）
 - ID の保護（25-30%）
-retirementDate: 05/01/2019
 roles:
 - administrator
-products:
-- azure
 exams:
 - uid: exam.az-100
 - uid: exam.az-102
+products:
+- azure
 paths:
 - uid: learn.cloud-foundations
 relatedCertifications:
@@ -36,7 +35,7 @@ relatedCertifications:
     uid: certification.azure-administrator
 resources:
 - title: 認定資格の学習経路
-  description: 'Microsoft 認定資格のトレーニング リソースを探す: Azure Administrator Associate.'
+  description: Microsoft 認定資格のトレーニング リソースを探す: Azure Administrator Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。

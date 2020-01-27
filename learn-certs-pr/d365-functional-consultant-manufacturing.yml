@@ -1,13 +1,12 @@
 ### YamlMime:Certification
-title: 'Microsoft 認定: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
+title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 認定: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
-  description: 'Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants は、デジタルシステムと物理システムを統合します。視認性、製造効率、および柔軟性を向上させます。クライアントのコストを削減します。'
+  title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
+  description: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants は、デジタルシステムと物理システムを統合します。視認性、製造効率、および柔軟性を向上させます。クライアントのコストを削減します。
 uid: certification.d365-functional-consultant-manufacturing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-   Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants は、デジタルシステムと物理システムを統合します。視認性、製造効率、および柔軟性を向上させます。クライアントのコストを削減します。
-subTitle: 'Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants は、デジタルシステムと物理システムを統合します。視認性、製造効率、および柔軟性を向上させます。クライアントのコストを削減します。'
+summary: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants は、デジタルシステムと物理システムを統合します。視認性、製造効率、および柔軟性を向上させます。クライアントのコストを削減します。
+subTitle: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants は、デジタルシステムと物理システムを統合します。視認性、製造効率、および柔軟性を向上させます。クライアントのコストを削減します。
 levels:
 - intermediate
 skills:

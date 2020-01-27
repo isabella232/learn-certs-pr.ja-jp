@@ -5,17 +5,16 @@ metadata:
   description: '試験 70-334: Core Solutions of Microsoft Skype for Business 2015'
 uid: exam.70-334
 displayName: 70-334
-summary: |-
-  この試験の受験者は、統合コミュニケーション (UC) 向けソリューションの設計、計画、展開、保守を行っている IT コンサルタントおよび通信コンサルティング プロフェッショナルを対象としています。受験者は、UC ソリューションに関するビジネス上の要件を技術的なアーキテクチャと設計に変換できることが求められます。受験者は、Skype for Business テクノロジの使用経験が 2 年以上あり、サポートされている移行シナリオに精通している必要があります。受験者は、エンド ユーザー、エンドポイント デバイス、テレフォニー、音声/ビデオ会議と Web 会議、セキュリティ、および高可用性に関する Skype for Business ソリューションの展開に習熟している必要があります。また、受験者は Microsoft のツールを使用した Skype for Business の監視およびトラブルシューティングの方法を把握している必要があります。さらに、受験者は Active Directory ドメイン サービス、データ ネットワーク、Skype for Business の構成をサポートする通信規格とコンポーネントに習熟している必要があります。受験者は、Skype for Business と Microsoft Exchange Server および Office 365 の統合に関する要件に精通している必要があります。
+summary: この試験の受験者は、統合コミュニケーション (UC) 向けソリューションの設計、計画、展開、保守を行っている IT コンサルタントおよび通信コンサルティング プロフェッショナルを対象としています。受験者は、UC ソリューションに関するビジネス上の要件を技術的なアーキテクチャと設計に変換できることが求められます。受験者は、Skype for Business テクノロジの使用経験が 2 年以上あり、サポートされている移行シナリオに精通している必要があります。受験者は、エンド ユーザー、エンドポイント デバイス、テレフォニー、音声/ビデオ会議と Web 会議、セキュリティ、および高可用性に関する Skype for Business ソリューションの展開に習熟している必要があります。また、受験者は Microsoft のツールを使用した Skype for Business の監視およびトラブルシューティングの方法を把握している必要があります。さらに、受験者は Active Directory ドメイン サービス、データ ネットワーク、Skype for Business の構成をサポートする通信規格とコンポーネントに習熟している必要があります。受験者は、Skype for Business と Microsoft Exchange Server および Office 365 の統合に関する要件に精通している必要があります。
 subTitle: この試験の受験者は、統合コミュニケーション (UC) 向けソリューションの設計、計画、展開、保守を行っている IT コンサルタントおよび通信コンサルティング プロフェッショナルを対象としています。受験者は、UC ソリューションに関するビジネス上の要件を技術的なアーキテクチャと設計に変換できることが求められます。受験者は、Skype for Business テクノロジの使用経験が 2 年以上あり、サポートされている移行シナリオに精通している必要があります。受験者は、エンド ユーザー、エンドポイント デバイス、テレフォニー、音声/ビデオ会議と Web 会議、セキュリティ、および高可用性に関する Skype for Business ソリューションの展開に習熟している必要があります。また、受験者は Microsoft のツールを使用した Skype for Business の監視およびトラブルシューティングの方法を把握している必要があります。さらに、受験者は Active Directory ドメイン サービス、データ ネットワーク、Skype for Business の構成をサポートする通信規格とコンポーネントに習熟している必要があります。受験者は、Skype for Business と Microsoft Exchange Server および Office 365 の統合に関する要件に精通している必要があります。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBg
 practiceTestUrl: https://www.mindhub.com/70-334-Core-Solutions-of-Microsoft-Skype-for-Busi-p/mu-70-334_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=334&examname=試験%2070-334:%20Core%20Solutions%20of%20Microsoft%20Skype%20for%20Business%202015&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2F70-334
 locales:
 - en
 - ja
-levels: 
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=334&examname=試験%2070-334:%20Core%20Solutions%20of%20Microsoft%20Skype%20for%20Business%202015&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2F70-334
+levels:
 - advanced
 skills:
 - Skype for Business の計画と設計 (35-40%)

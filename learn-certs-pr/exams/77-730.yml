@@ -1,23 +1,22 @@
 ### YamlMime:Examination
-title: 'Access 2016:Core Database Management, Manipulation, and Query Skills'
+title: 'Access 2016: Core Database Management, Manipulation, and Query Skills'
 metadata:
-  title: '試験 77-730: Access 2016:Core Database Management, Manipulation, and Query Skills'
-  description: '試験 77-730: Access 2016:Core Database Management, Manipulation, and Query Skills'
+  title: '試験 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
+  description: '試験 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
 uid: exam.77-730
 displayName: 77-730
-summary: |
+summary: >
   この Access 2016 試験の受験者は、アプリケーションの環境に関する基礎知識を持つことが想定されます。また、基本的なデータベース設計の原則を理解し、独力でタスクを完了できることが想定されます。Access 2016の主な機能の正しい適用方法に精通しており、表、リレーションシップ、データ入力フォーム、マルチ レベル レポート、およびマルチ テーブル クエリなど、基本的な Access データベース オブジェクトを作成および維持する能力が求められます。
 
+
   Microsoft Office Specialist (MOS) 2016 認定試験では、MOS 2016 プログラムを使用して、受験者の知識、スキル、および能力を適切に評価するための、新しいパフォーマンスベースの形式が導入されています&#58;
+
   - 通常、MOS 2016 試験タスクの手順には、以前のバージョンとは異なり、コマンド名が含まれません。たとえば、機能名は使用されず、記述子で置き換えられています。つまり、受験者は、各プロジェクトのタスクを完了するためにプログラムの機能の目的と一般的な用途を理解している必要があります。
+
   - MOS 2016 試験形式には、複数のプロジェクトが組み込まれています。
 subTitle: この Access 2016 試験の受験者は、アプリケーションの環境に関する基礎知識を持つことが想定されます。また、基本的なデータベース設計の原則を理解し、独力でタスクを完了できることが想定されます。Access 2016の主な機能の正しい適用方法に精通しており、表、リレーションシップ、データ入力フォーム、マルチ レベル レポート、およびマルチ テーブル クエリなど、基本的な Access データベース オブジェクトを作成および維持する能力が求められます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Ax
-scheduleExamUrl: http://www.certiport.com/locator
-providers:
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +26,11 @@ locales:
 - ja
 - ko
 - nb
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - データベースの作成と管理（20-25%）

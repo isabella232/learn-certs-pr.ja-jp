@@ -1,22 +1,23 @@
 ### YamlMime:Examination
-title: Microsoft 365 のモビリティとセキュリティ
+title: Microsoft 365 Mobility and Security
 metadata:
-  title: '試験 MS-101: Microsoft 365 のモビリティとセキュリティ'
-  description: '試験 MS-101: Microsoft 365 のモビリティとセキュリティ'
+  title: '試験 MS-101: Microsoft 365 Mobility and Security'
+  description: '試験 MS-101: Microsoft 365 Mobility and Security'
 uid: exam.ms-101
 displayName: MS-101
-summary: |-
+summary: >-
   この試験の受験者は、Microsoft 365 サービスの評価、計画、移行、展開、および管理に参加している Microsoft 365 エンタープライズ管理者です。それらは、ID、セキュリティ、コンプライアンス、およびサポート テクノロジを含む、企業向けの Microsoft 365 テナント管理タスクを実行します。
 
+
   受験者は Microsoft 365 ワークロードに関する実用的な知識を持っており、少なくとも 1 つの Microsoft 365 ワークロード (Exchange、SharePoint、Skype for Business、または Windows as a Service) の管理者である必要があります。受験者は、ネットワーキング、サーバー管理、および DNS、Active Directory、PowerShell などの IT の基礎についての実用的な知識も持っています。
-subTitle: 'この試験では、次の技術的タスクを達成する能力を評価します：最新のデバイスサービスを実装します。Microsoft 365 のセキュリティと脅威管理を実装します。Microsoft 365 のガバナンスとコンプライアンスを管理します。'
+subTitle: この試験では、次の技術的タスクを達成する能力を評価します：最新のデバイスサービスを実装します。Microsoft 365 のセキュリティと脅威管理を実装します。Microsoft 365 のガバナンスとコンプライアンスを管理します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-101&examname=試験%20MS-101:%20Microsoft%20365%20のモビリティとセキュリティ&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fms-101
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-101&examname=試験%20MS-101:%20Microsoft%20365%20のモビリティとセキュリティ&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fms-101
 levels:
 - advanced
 skills:
@@ -25,12 +26,12 @@ skills:
 - Microsoft 365 のガバナンスとコンプライアンスの管理 (35-40%)
 roles:
 - administrator
+exams:
+- uid: exam.ms-100
 products:
 - m365
 - azure-active-directory
 - office-365
-exams:
-- uid: exam.ms-100
 courses:
 - uid: course.ms-101t01
 - uid: course.ms-101t02

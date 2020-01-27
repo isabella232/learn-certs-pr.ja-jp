@@ -5,22 +5,27 @@ metadata:
   description: '試験 MB-310: Microsoft Dynamics 365 Finance'
 uid: exam.mb-310
 displayName: MB-310
-summary: |-
+summary: >-
   この試験の受験者は、ビジネス要件を分析する機能コンサルタントであり、それらの要件を、業界のベスト プラクティスを実施する完全に現実化したビジネス プロセスとソリューションへと転換します。受験者は、ビジネス要件を満たすようにアプリケーションを実装および構成する重要なリソースとして、仕えています。
+
   <br/>
+
 
   この試験の受験者は根本的なビジネス、カスタマー サービス、フィールド サービス、製造、小売、およびサプライチェーン管理の概念の会計原則と財務運用の理解を持っています。
+
   <br/>
 
+
   この試験の受験者は通常、財務、製造、サプライチェーン管理など、Microsoft Dynamics 365 Finance の 1 つ以上の機能セットに特化しています。
+
 
   候補者は基本的な会計原則と実践の知識を持つ必要があります。
 subTitle: 'この試験は、次の技術的タスクを達成する能力を評価します: 財務管理の構成と設定。一般的なプロセスを管理および適用します。買掛金および売掛金の実装および管理。予算と固定資産を管理します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHU
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-310&examname=試験%20MB-310:%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fmb-310
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-310&examname=試験%20MB-310:%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fmb-310
 levels:
 - intermediate
 skills:
@@ -30,11 +35,11 @@ skills:
 - 予算および固定資産の管理 (15-20%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-finance
 exams:
 - uid: exam.mb-300
+products:
+- dynamics
+- dynamics-finance
 courses:
 - uid: course.mb-310t01
 - uid: course.mb-310t02
