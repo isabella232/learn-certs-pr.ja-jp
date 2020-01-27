@@ -37,7 +37,7 @@ exams:
 - uid: exam.az-103
 resources:
 - title: 認定の学習経路
-  description: Microsoft 認定資格のトレーニング リソースを探す: Azure Administrator Associate。
+  description: 'Microsoft 認定資格のトレーニング リソースを探す: Azure Administrator Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: トレーニングおよび認定ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。

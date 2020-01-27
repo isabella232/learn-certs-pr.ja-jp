@@ -17,6 +17,9 @@ summary: >
 subTitle: 受験者は、プロフェッショナルな外観の電子メール メッセージの作成と編集、複数のタイム ゾーンにわたる予定表の維持、さまざまな目的や状況のタスクのスケジュール設定を行うことができることが想定されます。受験者は、Outlook 2016 を使用して、プロフェッショナルな文書の強化、予定表の作成、予定のスケジュール設定を行います。アプリケーションの例には、ビルディング リソースの調整、マーケティング キャンペーンのメッセージの送信、スタッフ会議の計画、および会議アクション項目の割り当てが含まれます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8ds
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

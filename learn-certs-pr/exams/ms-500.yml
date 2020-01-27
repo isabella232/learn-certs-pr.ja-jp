@@ -19,7 +19,7 @@ practiceTestUrl: https://www.mindhub.com/p/MU-MS-500?utm_source=microsoft&utm_me
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-500&examname=試験%20MS-500:%20Microsoft%20365%20セキュリティ管理&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fms-500
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-500&examname=試験%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fms-500
 levels:
 - intermediate
 skills:

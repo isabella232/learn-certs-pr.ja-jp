@@ -45,7 +45,7 @@ relatedCertifications:
     uid: certification.azure-data-scientist
 resources:
 - title: 認定資格の学習経路
-  description: Microsoft 認定資格のトレーニング リソースを探す: Azure Data Scientist Associate。
+  description: 'Microsoft 認定資格のトレーニング リソースを探す: Azure Data Scientist Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。

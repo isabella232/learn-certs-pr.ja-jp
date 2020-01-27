@@ -10,7 +10,7 @@ summary: >-
 
 
 
-  この試験は [試験 70-535](https://www.microsoft.com/learning/exam-70-535.aspx) を取った受験生のみを想定しています&#58; Microsoft Azure Solutions の設計.試験 535を受験していない場合は、この試験による認定資格を受け取ることはできません。
+  この試験は [試験 70-535](https://www.microsoft.com/learning/exam-70-535.aspx) を取った受験生のみを想定しています&#58; Architecting Microsoft Azure Solutions.試験 535を受験していない場合は、この試験による認定資格を受け取ることはできません。
 
 
   トランジション試験は、すでにコンテンツドメインにおいてのスキルを証明している人たちが既存の試験をバイパスすることを念頭に置いているものであり、新規のロールベースの認定によって置き換えられる予定です。現在の認証と私たちが新たに資格を得る人々に期待するものの間にある三角地帯を埋めるものです。私たちとしては同様なコンテンツにいる人々がその適正をこの試験のバイパスによって証明することを望みません。
@@ -23,7 +23,7 @@ summary: >-
 
 
   受験者は Azure 管理、Azure 開発、DevOps の卓越性の内の少なくとも一つのドメインでのエキスパート レベルのスキルを持っている必要があります。
-subTitle: この試験の目的は、[Exam 70-535](https://www.microsoft.com/learning/exam-70-535.aspx)を受験した候補者を対象としています： Microsoft Azure Solutions の設計.試験番号535を受験していない場合は、この試験による認定資格を受け取ることはできません。
+subTitle: 'この試験の目的は、[Exam 70-535](https://www.microsoft.com/learning/exam-70-535.aspx)を受験した候補者を対象としています： Architecting Microsoft Azure Solutions.試験番号535を受験していない場合は、この試験による認定資格を受け取ることはできません。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwC
 locales:
@@ -51,7 +51,7 @@ relatedCertifications:
     uid: certification.azure-solutions-architect
 resources:
 - title: 認定資格の学習経路
-  description: Microsoft 認定資格のトレーニング リソースを探す: Azure Solutions Architect Expert。
+  description: 'Microsoft 認定資格のトレーニング リソースを探す: Azure Solutions Architect Expert。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。

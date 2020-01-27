@@ -9,6 +9,9 @@ summary: "Microsoft Office Specialist Excel 2016 認定資格試験の受験者�
 subTitle: Microsoft Office Specialist Excel 2016 認定資格試験の受験者は、Excel 環境に関する基礎知識を持ち、独力でタスクを完了できることが想定されます。受験者は、Excel 2016 の主な機能の正しい使い方を理解し、そのデモンストレーションを実行できることが想定されます。受験者は、複数のシートを含むブックを作成および編集し、グラフィック要素を使用してデータを視覚的に表現します。ブックの例としては、プロフェッショナルな外観の予算、財務表、チームの業績チャート、売上請求書、データ入力ログなどがあります。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfJ
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

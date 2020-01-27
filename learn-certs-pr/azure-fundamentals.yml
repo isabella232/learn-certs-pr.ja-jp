@@ -28,7 +28,7 @@ exams:
 - uid: exam.az-900
 resources:
 - title: 認定の学習経路
-  description: Microsoft 認定資格のトレーニング リソースを探す: Azure Fundamentals。
+  description: 'Microsoft 認定資格のトレーニング リソースを探す: Azure Fundamentals。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: トレーニングおよび認定ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。

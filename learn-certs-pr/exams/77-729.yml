@@ -17,6 +17,9 @@ summary: >
 subTitle: 受験者は、PowerPoint 環境に関する基礎知識を持ち、PowerPoint 2016 のデモンストレーションを実行できることが想定されます。受験者は、プレゼンテーションとスライド ショーの作成、編集、強化を実施します。プレゼンテーションの例には、プロフェッショナル レベルのセールス プレゼンテーション、従業員トレーニング、教材、キオスク スライドショーなどが含まれます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -35,7 +38,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:
