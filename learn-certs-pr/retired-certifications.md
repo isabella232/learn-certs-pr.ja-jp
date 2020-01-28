@@ -16,9 +16,9 @@ Microsoft 認定Professional Programを最新の状態に保つために、Micro
 
 今後 12 か月で廃止が予定されている認定資格を確認しましょう。(次の情報は変更される可能性があります。)
 
-[MCSA: Dynamics 365 for Operations](https://www.microsoft.com/ja-jp/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retiring on June 30, 2020  
+[MCSA: Dynamics 365 for Operations](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retiring on June 30, 2020  
 
-[MCSE: Business Applications](https://www.microsoft.com/ja-jp/learning/mcse-business-applications.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Retiring on December 31, 2019  
+[MCSE: Business Applications](https://www.microsoft.com/learning/mcse-business-applications.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Retiring on December 31, 2019  
 
 MCSA: CRM Dynamics Technical&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Retiring on December 31, 2019  
 
@@ -36,18 +36,18 @@ MCSA: CRM Dynamics Technical&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 | Microsoft Certified Solutions Associate                                            |                   |
 |---------------------------------------------------------------------------------- |------------------ |
-| [MCSA: Cloud Platform](https://www.microsoft.com/ja-jp/learning/mcsa-cloud-platform-certification.aspx)                    | 2018 年 12 月 31 日|
-| [MCSA: Linux on Azure](https://www.microsoft.com/ja-jp/learning/mcsa-linux-azure-certification.aspx)                       | 2018 年 12 月 31 日 |
-| [MCSA: Office 365](https://www.microsoft.com/ja-jp/learning/mcsa-office365-certification.aspx)                             | 2019 年 4 月 30 日     |
-| [MCSA: Windows 10](https://www.microsoft.com/ja-jp/learning/mcsa-windows-10-certifications.aspx)                           | 2019 年 4 月 30 日     |
-| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/ja-jp/learning/mcsa-microsoft-dynamics-365.aspx)                  | 2019 年 6 月 30 日    |
-| [MCSA: Machine Learning](https://www.microsoft.com/ja-jp/learning/mcsa-machine-learning.aspx)                               | 2019 年 6 月 30 日      |
-| [MCSA: Data Engineering with Azure](https://www.microsoft.com/ja-jp/learning/mcsa-data-engineering-with-azure.aspx)         | 2019 年 6 月 30 日      |
+| [MCSA: Cloud Platform](https://www.microsoft.com/learning/mcsa-cloud-platform-certification.aspx)                    | 2018 年 12 月 31 日|
+| [MCSA: Linux on Azure](https://www.microsoft.com/learning/mcsa-linux-azure-certification.aspx)                       | 2018 年 12 月 31 日 |
+| [MCSA: Office 365](https://www.microsoft.com/learning/mcsa-office365-certification.aspx)                             | 2019 年 4 月 30 日     |
+| [MCSA: Windows 10](https://www.microsoft.com/learning/mcsa-windows-10-certifications.aspx)                           | 2019 年 4 月 30 日     |
+| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365.aspx)                  | 2019 年 6 月 30 日    |
+| [MCSA: Machine Learning](https://www.microsoft.com/learning/mcsa-machine-learning.aspx)                               | 2019 年 6 月 30 日      |
+| [MCSA: Data Engineering with Azure](https://www.microsoft.com/learning/mcsa-data-engineering-with-azure.aspx)         | 2019 年 6 月 30 日      |
 
 | Microsoft Certified Solutions Expert||
 |---------------------------------------------------------------------------------- |------------------ |
-| [MCSE: Cloud Platfrom and Infrastructure](https://www.microsoft.com/ja-jp/learning/mcse-cloud-platform-infrastructure.aspx) | 2018 年 12 月 31 日  |
-| [MCSE: Mobility](https://www.microsoft.com/ja-jp/learning/mcse-mobility-certification.aspx)                                | 2019 年 4 月 30 日 |
+| [MCSE: Cloud Platfrom and Infrastructure](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 2018 年 12 月 31 日  |
+| [MCSE: Mobility](https://www.microsoft.com/learning/mcse-mobility-certification.aspx)                                | 2019 年 4 月 30 日 |
 
 | Microsoft Technology Associate                                                     |                   |
 |---------------------------------------------------------------------------------- |------------------ |

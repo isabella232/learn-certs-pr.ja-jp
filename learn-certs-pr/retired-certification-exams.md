@@ -14,25 +14,25 @@ ms.author: micsullivan
 
 | 2020 年 6 月 31 日廃止 ||
 |--- |--- |
-| [MB2-716](https://www.microsoft.com/ja-jp/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration | |
-| [MB6-894](https://www.microsoft.com/ja-jp/learning/exam-mb6-894.aspx): 財務と運用のための Microsoft Dynamics 365 の開発、拡張、および展開||
+| [MB2-716](https://www.microsoft.com/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration | |
+| [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): 財務と運用のための Microsoft Dynamics 365 の開発、拡張、および展開||
 
 | 2019 年 12 月 31 日廃止 ||
 |--- |--- |
-| [70-348](https://www.microsoft.com/ja-jp/learning/exam-70-348.aspx): Microsoft PPM によるプロジェクトとポートフォリオの管理||
-| [70-703](https://www.microsoft.com/ja-jp/learning/exam-70-703.aspx): Microsoft System Center Configuration Manager および Cloud Services Integration の管理||
-| [70-713](https://www.microsoft.com/ja-jp/learning/exam-70-713.aspx): ソフトウェア資産管理 (SAM) - Core ||
-| [70-735](https://www.microsoft.com/ja-jp/learning/exam-70-735.aspx): Windows 10 用 OEM 作成とデプロイ||
-| [MB2-706](https://www.microsoft.com/ja-jp/learning/exam-MB2-706.aspx): Microsoft Dynamics CRM Online Deployment||
-| [MB2-707](https://www.microsoft.com/ja-jp/learning/exam-MB2-707.aspx): Microsoft Dynamics CRM Customization and Configuration||
-| [MB2-708](https://www.microsoft.com/ja-jp/learning/exam-MB2-708.aspx): Microsoft Dynamics CRM Installation||
-| [MB2-710](https://www.microsoft.com/ja-jp/learning/exam-MB2-710.aspx): Microsoft Dynamics CRM 2016 Online Deployment||
-| [MB2-711](https://www.microsoft.com/ja-jp/learning/exam-MB2-711.aspx): Microsoft Dynamics CRM 2016 Installation||
-| [MB2-712](https://www.microsoft.com/ja-jp/learning/exam-MB2-712.aspx): Microsoft Dynamics CRM 2016 のカスタマイズと構成||
-| [MB2-713](https://www.microsoft.com/ja-jp/learning/exam-MB2-713.aspx): Microsoft Dynamics CRM 2016 Sales||
-| [MB2-714](https://www.microsoft.com/ja-jp/learning/exam-MB2-714.aspx): Microsoft Dynamics CRM 2016 Customer Service||
-| [MB6-897](https://www.microsoft.com/ja-jp/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail||
-| [MB6-898](https://www.microsoft.com/ja-jp/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent||
+| [70-348](https://www.microsoft.com/learning/exam-70-348.aspx): Microsoft PPM によるプロジェクトとポートフォリオの管理||
+| [70-703](https://www.microsoft.com/learning/exam-70-703.aspx): Microsoft System Center Configuration Manager および Cloud Services Integration の管理||
+| [70-713](https://www.microsoft.com/learning/exam-70-713.aspx): ソフトウェア資産管理 (SAM) - Core ||
+| [70-735](https://www.microsoft.com/learning/exam-70-735.aspx): Windows 10 用 OEM 作成とデプロイ||
+| [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx): Microsoft Dynamics CRM Online Deployment||
+| [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx): Microsoft Dynamics CRM Customization and Configuration||
+| [MB2-708](https://www.microsoft.com/learning/exam-MB2-708.aspx): Microsoft Dynamics CRM Installation||
+| [MB2-710](https://www.microsoft.com/learning/exam-MB2-710.aspx): Microsoft Dynamics CRM 2016 Online Deployment||
+| [MB2-711](https://www.microsoft.com/learning/exam-MB2-711.aspx): Microsoft Dynamics CRM 2016 Installation||
+| [MB2-712](https://www.microsoft.com/learning/exam-MB2-712.aspx): Microsoft Dynamics CRM 2016 のカスタマイズと構成||
+| [MB2-713](https://www.microsoft.com/learning/exam-MB2-713.aspx): Microsoft Dynamics CRM 2016 Sales||
+| [MB2-714](https://www.microsoft.com/learning/exam-MB2-714.aspx): Microsoft Dynamics CRM 2016 Customer Service||
+| [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail||
+| [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent||
 
 ## 最近終了した試験
 
@@ -40,68 +40,68 @@ ms.author: micsullivan
 
 | ITPro/開発者|||
 |--- |--- |--- |
-| [AZ-100](https://www.microsoft.com/ja-jp/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 2019年5月1日
-| [AZ-101](https://www.microsoft.com/ja-jp/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 2019年5月1日
-| [AZ-102](https://www.microsoft.com/ja-jp/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 2019 年 6 月 30 日
-| [AZ-200](https://www.microsoft.com/ja-jp/learning/exam-AZ-200.aspx) | Microsoft Azure Developer Core Solutions (2018 年 9 月 24 日リリース | 2019 年 1 月 3 日
-| [AZ-201](https://www.microsoft.com/ja-jp/learning/exam-AZ-201.aspx) | Azure Developer Advanced Solutions (2018 年 9 月 24 日リリース) | 2019 年 1 月 3 日
-| [AZ-202 ](https://www.microsoft.com/ja-jp/learning/exam-AZ-202.aspx) | Microsoft Azure Developer Certification Transition (2018 年 9 月 24 日リリース) | 2019 年 3 月 31 日
-| [AZ-302](https://www.microsoft.com/ja-jp/learning/exam-AZ-302.aspx) | Microsoft Azure ソリュー Certification Transition | 2019 年 6 月 30 日
-| [AZ-202 ](https://www.microsoft.com/ja-jp/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | 2019 年 9 月 30 日
-| [MS-302](https://www.microsoft.com/ja-jp/learning/exam-MS-302.aspx) | Microsoft 365 チームワーク Administrator Certification Transition | 2019 年 9 月 30 日
+| [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 2019年5月1日
+| [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 2019年5月1日
+| [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 2019 年 6 月 30 日
+| [AZ-200](https://www.microsoft.com/learning/exam-AZ-200.aspx) | Microsoft Azure Developer Core Solutions (2018 年 9 月 24 日リリース | 2019 年 1 月 3 日
+| [AZ-201](https://www.microsoft.com/learning/exam-AZ-201.aspx) | Azure Developer Advanced Solutions (2018 年 9 月 24 日リリース) | 2019 年 1 月 3 日
+| [AZ-202 ](https://www.microsoft.com/learning/exam-AZ-202.aspx) | Microsoft Azure Developer Certification Transition (2018 年 9 月 24 日リリース) | 2019 年 3 月 31 日
+| [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure ソリュー Certification Transition | 2019 年 6 月 30 日
+| [AZ-202 ](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | 2019 年 9 月 30 日
+| [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 チームワーク Administrator Certification Transition | 2019 年 9 月 30 日
 | 70-246 | Monitoring and Operating a Private Cloud with System Center 2012 | 2017 年 12 月 31 日
 | 70-247 | Configuring and Deploying a Private Cloud | 2017 年 12 月 31 日
-| [70-331](https://www.microsoft.com/ja-jp/learning/exam-70-331.aspx) | Core Solutions of Microsoft SharePoint Server 2013 | 2019 年 3 月 31 日
-| [70-332](https://www.microsoft.com/ja-jp/learning/exam-70-332.aspx) | Advanced Solutions of Microsoft SharePoint Server 2013 | 2019 年 3 月 31 日
-| [70-341](https://www.microsoft.com/ja-jp/learning/exam-70-341.aspx) | Core Solutions of Microsoft Exchange Server 2013 | 2019 年 3 月 31 日
-| [70-342](https://www.microsoft.com/ja-jp/learning/exam-70-342.aspx) | Advanced Solutions of Microsoft Exchange Server 2013 | 2019 年 3 月 31 日
-| [70-346](https://www.microsoft.com/ja-jp/learning/exam-70-346.aspx) | Managing Office 365 Identities and Requirements | 2019 年 4 月 30 日
-| [70-347](https://www.microsoft.com/ja-jp/learning/exam-70-347.aspx) | Enabling Office 365 Services | 2019 年 4 月 30 日
+| [70-331](https://www.microsoft.com/learning/exam-70-331.aspx) | Core Solutions of Microsoft SharePoint Server 2013 | 2019 年 3 月 31 日
+| [70-332](https://www.microsoft.com/learning/exam-70-332.aspx) | Advanced Solutions of Microsoft SharePoint Server 2013 | 2019 年 3 月 31 日
+| [70-341](https://www.microsoft.com/learning/exam-70-341.aspx) | Core Solutions of Microsoft Exchange Server 2013 | 2019 年 3 月 31 日
+| [70-342](https://www.microsoft.com/learning/exam-70-342.aspx) | Advanced Solutions of Microsoft Exchange Server 2013 | 2019 年 3 月 31 日
+| [70-346](https://www.microsoft.com/learning/exam-70-346.aspx) | Managing Office 365 Identities and Requirements | 2019 年 4 月 30 日
+| [70-347](https://www.microsoft.com/learning/exam-70-347.aspx) | Enabling Office 365 Services | 2019 年 4 月 30 日
 | 70-398 | Planning for and Managing Devices in the Enterprise | 2018 年 7 月 31 日
-| [70-473](https://www.microsoft.com/ja-jp/learning/exam-70-473.aspx) | Designing and Implementing Cloud Data Platform Solutions | 2019 年 6 月 30 日
-| [70-475](https://www.microsoft.com/ja-jp/learning/exam-70-475.aspx) | Designing and Implementing Big Data Analytics Solutions | 2019 年 6 月 30 日
+| [70-473](https://www.microsoft.com/learning/exam-70-473.aspx) | Designing and Implementing Cloud Data Platform Solutions | 2019 年 6 月 30 日
+| [70-475](https://www.microsoft.com/learning/exam-70-475.aspx) | Designing and Implementing Big Data Analytics Solutions | 2019 年 6 月 30 日
 | 70-488 | Developing SharePoint Server 2013 Core Solutions | 2018 年 7 月 31 日
 | 70-489 | Developing SharePoint Server 2013 Advanced Solutions | 2018 年 7 月 31 日
-| [70-496](https://www.microsoft.com/ja-jp/learning/exam-70-496.aspx) | Administering Visual Studio Team Foundation Server | 2018 年 12 月 31 日
-| [70-497](https://www.microsoft.com/ja-jp/learning/exam-70-497.aspx) | Software Testing with Visual Studio | 2018 年 12 月 31 日
-| [70-498](https://www.microsoft.com/ja-jp/learning/exam-70-498.aspx) | Delivering Continuous Value with Visual Studio | 2018 年 12 月 31 日
-| [70-532](https://www.microsoft.com/ja-jp/learning/exam-70-532.aspx) | Developing Microsoft Azure Solutions | 2018 年 12 月 31 日
-| [70-533](https://www.microsoft.com/ja-jp/learning/exam-70-533.aspx) | Implementing Microsoft Azure Infrastructure Solutions | 2018 年 12 月 31 日
-| [70-534](https://www.microsoft.com/ja-jp/learning/exam-70-534.aspx) | Architecting Microsoft Azure Solutions | 2017 年 12 月 31 日
-| [70-535](https://www.microsoft.com/ja-jp/learning/exam-70-535.aspx) | Architecting Microsoft Azure Solutions | 2018 年 12 月 31 日
+| [70-496](https://www.microsoft.com/learning/exam-70-496.aspx) | Administering Visual Studio Team Foundation Server | 2018 年 12 月 31 日
+| [70-497](https://www.microsoft.com/learning/exam-70-497.aspx) | Software Testing with Visual Studio | 2018 年 12 月 31 日
+| [70-498](https://www.microsoft.com/learning/exam-70-498.aspx) | Delivering Continuous Value with Visual Studio | 2018 年 12 月 31 日
+| [70-532](https://www.microsoft.com/learning/exam-70-532.aspx) | Developing Microsoft Azure Solutions | 2018 年 12 月 31 日
+| [70-533](https://www.microsoft.com/learning/exam-70-533.aspx) | Implementing Microsoft Azure Infrastructure Solutions | 2018 年 12 月 31 日
+| [70-534](https://www.microsoft.com/learning/exam-70-534.aspx) | Architecting Microsoft Azure Solutions | 2017 年 12 月 31 日
+| [70-535](https://www.microsoft.com/learning/exam-70-535.aspx) | Architecting Microsoft Azure Solutions | 2018 年 12 月 31 日
 | 70-680 | Windows 7, Configuring | 2018 年 7 月 31 日
 | 70-685 | Windows 7, Enterprise Desktop Support Technician | 2018 年 7 月 31 日
 | 70-686 | Windows 7, Enterprise Desktop Administrator | 2018 年 7 月 31 日
-| [70-695](https://www.microsoft.com/ja-jp/learning/exam-70-695.aspx) | Deploying Windows Desktops and Enterprise Applications | 2019 年 3 月 31 日
+| [70-695](https://www.microsoft.com/learning/exam-70-695.aspx) | Deploying Windows Desktops and Enterprise Applications | 2019 年 3 月 31 日
 | 70-696 | Administering System Center Configuration Manager and Intune | 2018 年 3 月 31 日
-| [70-697](https://www.microsoft.com/ja-jp/learning/exam-70-697.aspx) | Configuring Windows Devices | 2019 年 4 月 30 日
-| [70-698](https://www.microsoft.com/ja-jp/learning/exam-70-698.aspx) | Installing and Configuring Windows 10 | 2019 年 3 月 31 日
-| [70-773](https://www.microsoft.com/ja-jp/learning/exam-70-773.aspx) | Analyzing Big Data with Microsoft R | 2019 年 6 月 30 日
-| [70-774](https://www.microsoft.com/ja-jp/learning/exam-70-774.aspx) | Perform Cloud Data Science with Azure Machine Learning | 2019 年 6 月 30 日
-| [70-775](https://www.microsoft.com/ja-jp/learning/exam-70-775.aspx) | Perform Data Engineering on Microsoft Azure HDInsight | 2019 年 6 月 30 日
-| [70-776](https://www.microsoft.com/ja-jp/learning/exam-70-776.aspx) | Perform Big Data Engineering on Microsoft Cloud Services | 2019 年 6 月 30 日
-| [74-343](https://www.microsoft.com/ja-jp/learning/exam-74-343.aspx) | Managing Projects with Microsoft Project 2013 | 2019 年 7 月 31 日
+| [70-697](https://www.microsoft.com/learning/exam-70-697.aspx) | Configuring Windows Devices | 2019 年 4 月 30 日
+| [70-698](https://www.microsoft.com/learning/exam-70-698.aspx) | Installing and Configuring Windows 10 | 2019 年 3 月 31 日
+| [70-773](https://www.microsoft.com/learning/exam-70-773.aspx) | Analyzing Big Data with Microsoft R | 2019 年 6 月 30 日
+| [70-774](https://www.microsoft.com/learning/exam-70-774.aspx) | Perform Cloud Data Science with Azure Machine Learning | 2019 年 6 月 30 日
+| [70-775](https://www.microsoft.com/learning/exam-70-775.aspx) | Perform Data Engineering on Microsoft Azure HDInsight | 2019 年 6 月 30 日
+| [70-776](https://www.microsoft.com/learning/exam-70-776.aspx) | Perform Big Data Engineering on Microsoft Cloud Services | 2019 年 6 月 30 日
+| [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Managing Projects with Microsoft Project 2013 | 2019 年 7 月 31 日
 | 74-344 | Managing Programs and Projects with Project Server 2013 | 2017 年 12 月 31 日
 | 74-409 | Server Virtualization with Windows Server Hyper-V and System Center | 2018 年 7 月 31 日
-| [98-369](https://www.microsoft.com/ja-jp/learning/exam-98-369.aspx) | Cloud Fundamentals | 2019 年 9 月 30 日
-| [98-380](https://www.microsoft.com/ja-jp/learning/exam-98-380.aspx) | Introduction to Programming Using Block-Based Languages (Touch Develop) | 2019 年 8 月 7 日
+| [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | 2019 年 9 月 30 日
+| [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | Introduction to Programming Using Block-Based Languages (Touch Develop) | 2019 年 8 月 7 日
 
 <br/>
 
 | Microsoft Dynamics | | |
 |--- |--- |--- |
-| [MB2-709](https://www.microsoft.com/ja-jp/learning/exam-MB2-709.aspx) | Microsoft Dynamics マーケティング | 2017 年 12 月 31 日
-| [MB2-715](https://www.microsoft.com/ja-jp/learning/exam-MB2-715.aspx) | Microsoft Dynamics 365 customer engagement Online Deployment | 2019 年 6 月 30 日
-| [MB2-717](https://www.microsoft.com/ja-jp/learning/exam-MB2-717.aspx) | Microsoft Dynamics 365 for Sales | 2019 年 6 月 30 日
-| [MB2-718](https://www.microsoft.com/ja-jp/learning/exam-MB2-718.aspx) | Microsoft Dynamics 365 for Customer Service | 2019 年 8 月 31 日
-| [MB2-719](https://www.microsoft.com/ja-jp/learning/exam-MB2-719.aspx) | Microsoft Dynamics 365 for Marketing | 2019 年 8 月 31 日
-| [MB2-877](https://www.microsoft.com/ja-jp/learning/exam-MB2-877.aspx) | Microsoft Dynamics 365 for Field Service | 2019 年 6 月 30 日
+| [MB2-709](https://www.microsoft.com/learning/exam-MB2-709.aspx) | Microsoft Dynamics マーケティング | 2017 年 12 月 31 日
+| [MB2-715](https://www.microsoft.com/learning/exam-MB2-715.aspx) | Microsoft Dynamics 365 customer engagement Online Deployment | 2019 年 6 月 30 日
+| [MB2-717](https://www.microsoft.com/learning/exam-MB2-717.aspx) | Microsoft Dynamics 365 for Sales | 2019 年 6 月 30 日
+| [MB2-718](https://www.microsoft.com/learning/exam-MB2-718.aspx) | Microsoft Dynamics 365 for Customer Service | 2019 年 8 月 31 日
+| [MB2-719](https://www.microsoft.com/learning/exam-MB2-719.aspx) | Microsoft Dynamics 365 for Marketing | 2019 年 8 月 31 日
+| [MB2-877](https://www.microsoft.com/learning/exam-MB2-877.aspx) | Microsoft Dynamics 365 for Field Service | 2019 年 6 月 30 日
 | MB6-705 | Microsoft Dynamics AX 2012 R3 CU8 Installation and Configuration | 2017 年 12 月 31 日
 | MB6-890 | Microsoft Dynamics AX Development Introduction | 2017 年 12 月 31 日
 | MB6-892 | Microsoft Dynamics AX Distribution and Trade | 2017 年 12 月 31 日
 | MB6-893 | Microsoft Dynamics AX Financials | 2017 年 12 月 31 日
-| [MB6-895](https://www.microsoft.com/ja-jp/learning/exam-MB6-895.aspx) | Financial Management in Microsoft Dynamics 365 for Finance and Operations | 2019 年 8 月 31 日
-| [MB6-896](https://www.microsoft.com/ja-jp/learning/exam-MB6-896.aspx) | Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations | 2019 年 8 月 31 日
+| [MB6-895](https://www.microsoft.com/learning/exam-MB6-895.aspx) | Financial Management in Microsoft Dynamics 365 for Finance and Operations | 2019 年 8 月 31 日
+| [MB6-896](https://www.microsoft.com/learning/exam-MB6-896.aspx) | Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations | 2019 年 8 月 31 日
 
 ## 他の終了済み試験
 
