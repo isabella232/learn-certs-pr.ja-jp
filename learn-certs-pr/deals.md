@@ -68,11 +68,11 @@ ms.author: micsullivan
 
 **Q. Exam Replayの試験バウチャーでオンライン試験を受けることができますか？**
 
-**A.** はい、試験監督付きオンライン試験が利用できる場合は、Exam Replay のバウチャーで受験できます。Microsoft 認定資格の[オンライン試験について](https://www.microsoft.com/ja-jp/learning/online-proctored-exams.aspx) 。
+**A.** はい、試験監督付きオンライン試験が利用できる場合は、Exam Replay のバウチャーで受験できます。Microsoft 認定資格の[オンライン試験について](https://www.microsoft.com/learning/online-proctored-exams.aspx) 。
 
 **Q. 最初の試験と再試験のスケジュールを同時に設定できますか?**
 
-**A.** いいえ、最初の試験を受験して不合格にならないと、再試験を登録できません。詳細については、[Microsoft Certification 試験の再受験ポリシー](https://www.microsoft.com/ja-jp/learning/certification-exam-policies.aspx)を参照してください。
+**A.** いいえ、最初の試験を受験して不合格にならないと、再試験を登録できません。詳細については、[Microsoft Certification 試験の再受験ポリシー](https://www.microsoft.com/learning/certification-exam-policies.aspx)を参照してください。
 
 **Q. 演習テストの利用方法と有効期間を教えてください。**
 
