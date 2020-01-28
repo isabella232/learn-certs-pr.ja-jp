@@ -11,9 +11,9 @@ levels:
 - beginner
 skills:
 - Cloudの概念を理解
-- コアMicrosoft 365 サービスおよび概念の理解
-- Microsoft 365 のセキュリティ、コンプライアンス、プライバシー、および信頼の理解
-- Microsoft 365 価格設定およびサポートの理解
+- コアMicrosoft 365 サービスと概念の理解
+- Microsoft 365 のセキュリティ、コンプライアンス、プライバシー、と信頼の理解
+- Microsoft 365 価格設定とサポートの理解
 roles:
 - business-user
 - administrator

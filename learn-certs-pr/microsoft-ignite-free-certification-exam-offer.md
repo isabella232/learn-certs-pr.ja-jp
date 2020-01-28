@@ -64,7 +64,7 @@ Microsoft Ignite 2019またはMicrosoft Ignite The Tour 2019-2020イベントに
 - この試験オファーは、譲渡不可であり、任意の方法で変更、改訂、または譲渡した場合は無効となります。
 - この試験オファーは、Microsoft Ignite 2019またはMicrosoft Ignite The Tour 2019-2020イベントに登録・参加した有資格の個人のみに提供されます。
 
-追加情報については、完全版[Microsoft の利用規約](https://www.microsoft.com/ja-jp/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1)をご参照ください。
+追加情報については、完全版[Microsoft の利用規約](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1)をご参照ください。
 
 ## 外部 FAQ -  MS Ignite and The Tour での無料試験オファー
 
@@ -98,7 +98,7 @@ Microsoft Ignite 2019またはMicrosoft Ignite The Tour 2019-2020イベントに
 
 **質問: このオファーから無料受験をスケジュールする方法を教えてください。**
 
-**回答:** 無料試験のスケジュール方法については、 こちらへ進みます。[https://docs.microsoft.com/ja-jp/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam](https://docs.microsoft.com/ja-jp/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam).
+**回答:** 無料試験のスケジュール方法については、 こちらへ進みます。[https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam).
 
 **質問: 試験の割引資格を確認する際に、私は国家公務員ではあるが、そうではないために、私は無資格と記載しようとしたら、エラーが発生しました。どうすればいいですか？**
 
@@ -111,7 +111,7 @@ Microsoft Ignite 2019またはMicrosoft Ignite The Tour 2019-2020イベントに
 **質問: 予定されている試験を直接受けるか、オンラインで受けるかを選択できますか ?**
 
 **回答:** はい。現地のテストセンターでPearson Vue の定期試験を直接受けるか、 またはオンラインプロクター（OP）経由で定期試験を受けることができます。オンライン試験の詳細については、こちらへ進んでください。
-[https://www.microsoft.com/ja-jp/learning/online-exams.aspx](https://www.microsoft.com/ja-jp/learning/online-exams.aspx)
+[https://www.microsoft.com/learning/online-exams.aspx](https://www.microsoft.com/learning/online-exams.aspx)
 
 ### キャンセルおよび再スケジュールポリシー
 
@@ -121,14 +121,14 @@ Microsoft Ignite 2019またはMicrosoft Ignite The Tour 2019-2020イベントに
 
 **質問: 試験の予約を再スケジュールまたはキャンセルするときに料金はかかりますか ？**
 
-**回答:** 試験予約日から 6 営業日以上前に試験の予約を再スケジュールした場合やキャンセルした場合、料金は発生しません。試験時間の 5 営業日前以内にスケジュールを変更する必要がある場合は、再スケジュール手数料をお支払いいただく必要があります。予定されている試験時間の 2 日以内になっている場合は、試験を再スケジュールしたりキャンセルしたりすることはできません。試験に参加できない場合は、このオファーの無料受験資格を失うことになります。詳細については、[キャンセルと再スケジュールポリシー](https://docs.microsoft.com/ja-jp/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) を参照してください。 
+**回答:** 試験予約日から 6 営業日以上前に試験の予約を再スケジュールした場合やキャンセルした場合、料金は発生しません。試験時間の 5 営業日前以内にスケジュールを変更する必要がある場合は、再スケジュール手数料をお支払いいただく必要があります。予定されている試験時間の 2 日以内になっている場合は、試験を再スケジュールしたりキャンセルしたりすることはできません。試験に参加できない場合は、このオファーの無料受験資格を失うことになります。詳細については、[キャンセルと再スケジュールポリシー](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) を参照してください。 
 
 **質問: 試験の予約を逃し、再スケジュールやキャンセルをしなかった場合はどうなりますか？**
 
-**回答:** 予定されていた試験時間に現れなかった場合や、試験時間より 24 時間以内に再スケジュールまたはキャンセルしなかった場合、無料試験オファーの権利が失われます。詳細については、 [ キャンセルと再スケジュールポリシー ](https://docs.microsoft.com/ja-jp/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) を参照してください。
+**回答:** 予定されていた試験時間に現れなかった場合や、試験時間より 24 時間以内に再スケジュールまたはキャンセルしなかった場合、無料試験オファーの権利が失われます。詳細については、 [ キャンセルと再スケジュールポリシー ](https://docs.microsoft.com//learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) を参照してください。
 
 #### 再受験ポリシー
 
 **質問: 無料の認定試験を最初に受験できなかった場合、無料で再受験できますか？**
 
-**回答:** いいえ。このオファーは 1 回のみ有効で、再試験は別々にスケジュールする必要があります。認定試験の再受験の詳細については、 [再受験ポリシー](https://www.microsoft.com/ja-jp/learning/certification-exam-policies.aspx#policies-1)を参照してください。
+**回答:** いいえ。このオファーは 1 回のみ有効で、再試験は別々にスケジュールする必要があります。認定試験の再受験の詳細については、 [再受験ポリシー](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1)を参照してください。

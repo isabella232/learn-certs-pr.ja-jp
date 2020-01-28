@@ -22,7 +22,7 @@ Microsoft 認定トレーナー プログラムは 1 年間のメンバーシッ
 
 ## MCT プログラム のメリット
 
-Microsoft 認定トレーナーとして、パーソナライズされた [ダッシュボード](https://www.microsoft.com/ja-jp/learning/dashboard.aspx) にアクセスすると、さまざまな便利な MCT リソースが見つかります。MCT 証明書をダウンロードして、利用可能な割引を確認してください！
+Microsoft 認定トレーナーとして、パーソナライズされた [ダッシュボード](https://www.microsoft.com/learning/dashboard.aspx) にアクセスすると、さまざまな便利な MCT リソースが見つかります。MCT 証明書をダウンロードして、利用可能な割引を確認してください！
 
 さらに、[MCT Central](https://www.microsoft.com/en-us/learning/mct-central.aspx) にアクセスできます。これにより、MCT は最新のニュースを最新の状態に保ち、仕事、世界中の他の MCT とつながる、または MCT リージョナル リードに連絡する。
 
@@ -32,7 +32,7 @@ Microsoft 認定トレーナーとして、パーソナライズされた [ダ�
 
 MCT プログラムは、Microsoft テクノロジのトレーニングを提供する世界中のエデュケーターを対象としています。適格な認定を保有しており、Microsoft テクノロジのトレーニングの提供に積極的に取り組むことを希望している場合は、申し込みを検討することをお勧めします。
 
-MCT プログラムの要件の詳細については、このページの[申請プロセス](https://www.microsoft.com/ja-jp/learning/mct-certification.aspx#mctinfoheading-4)セクションにある MCT プログラム ガイドおよび MCT プログラム契約を確認してください。
+MCT プログラムの要件の詳細については、このページの[申請プロセス](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4)セクションにある MCT プログラム ガイドおよび MCT プログラム契約を確認してください。
 
 
 ### MCT プログラムへの登録の要件
@@ -73,37 +73,37 @@ MCT プログラムの要件の詳細については、このページの[申請
 
 **Microsoft 認定資格**
 
-- [Microsoft 認証: Azure Administrator Associate](https://www.microsoft.com/ja-jp/learning/azure-administrator.aspx)
-- [Microsoft 認証: Azure Developer Associate](https://www.microsoft.com/ja-jp/learning/azure-developer.aspx)
-- [Microsoft 認証: Azure Security Engineer Associate](https://www.microsoft.com/ja-jp/learning/azure-security-engineer.aspx)
-- [Microsoft 認証: Azure DevOps Expert](https://www.microsoft.com/ja-jp/learning/azure-devops.aspx)
-- [Microsoft 認証: Azure Solutions Architect Expert](https://www.microsoft.com/ja-jp/learning/azure-solutions-architect.aspx)
-- [Microsoft 365 認証: Enterprise Administrator Expert](https://www.microsoft.com/ja-jp/learning/m365-enterprise-administrator.aspx)
-- [Microsoft 365 認証: Modern Desktop Administrator Associate](https://www.microsoft.com/ja-jp/learning/modern-desktop.aspx)
-- [Microsoft 365 認証: Teamwork Administrator Associate](https://www.microsoft.com/ja-jp/learning/m365-teamwork-administrator.aspx)
-- [Microsoft 365 認証: Security Administrator Associate](https://www.microsoft.com/ja-jp/learning/m365-security-administrator.aspx)
-- [Microsoft 365 認証: Messaging Administrator Associate](https://www.microsoft.com/ja-jp/learning/m365-messaging-administrator.aspx)
+- [Microsoft 認証: Azure Administrator Associate](https://www.microsoft.com/learning/azure-administrator.aspx)
+- [Microsoft 認証: Azure Developer Associate](https://www.microsoft.com/learning/azure-developer.aspx)
+- [Microsoft 認証: Azure Security Engineer Associate](https://www.microsoft.com/learning/azure-security-engineer.aspx)
+- [Microsoft 認証: Azure DevOps Expert](https://www.microsoft.com/learning/azure-devops.aspx)
+- [Microsoft 認証: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx)
+- [Microsoft 365 認証: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
+- [Microsoft 365 認証: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
+- [Microsoft 365 認証: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)
+- [Microsoft 365 認証: Security Administrator Associate](https://www.microsoft.com/learning/m365-security-administrator.aspx)
+- [Microsoft 365 認証: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 認証: Developer Associate](/learn/certifications/microsoft-365-developer-associate)
 - [Microsoft 365 認証: Teams Administrator Associate](/learn/certifications/microsoft-teams-administrator-associate)
-- [Microsoft 認証: Azure AI Engineer Associate](https://www.microsoft.com/ja-jp/learning/azure-ai-engineer.aspx)
-- [Microsoft 認証: Azure Data Scientist Associate](https://www.microsoft.com/ja-jp/learning/azure-data-scientist.aspx)
-- [Microsoft 認証: Azure Data Engineer Associate](https://www.microsoft.com/ja-jp/learning/azure-data-engineer.aspx)
-- [Microsoft 認証: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/ja-jp/learning/d365-functional-consultant-sales.aspx)
-- [Microsoft 認証: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/ja-jp/learning/d365-functional-consultant-customer-service.aspx)
-- [Microsoft 認証: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/ja-jp/learning/d365-functional-consultant-marketing.aspx)
-- [Microsoft 認証: Dynamics 365 Field Service Functional Consultant Associate](https://www.microsoft.com/ja-jp/learning/d365-functional-consultant-field-service.aspx)
-- [Microsoft 認証: Dynamics 365 Finance Functional Consultant Associate](https://www.microsoft.com/ja-jp/learning/d365-functional-consultant-financials.aspx)
-- [Microsoft 認証: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate](https://www.microsoft.com/ja-jp/learning/d365-functional-consultant-manufacturing.aspx)
-- [Microsoft 認証: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/ja-jp/learning/d365-functional-consultant-supply-chain-management.aspx)
+- [Microsoft 認証: Azure AI Engineer Associate](https://www.microsoft.com/learning/azure-ai-engineer.aspx)
+- [Microsoft 認証: Azure Data Scientist Associate](https://www.microsoft.com/learning/azure-data-scientist.aspx)
+- [Microsoft 認証: Azure Data Engineer Associate](https://www.microsoft.com/learning/azure-data-engineer.aspx)
+- [Microsoft 認証: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
+- [Microsoft 認証: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
+- [Microsoft 認証: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)
+- [Microsoft 認証: Dynamics 365 Field Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-field-service.aspx)
+- [Microsoft 認証: Dynamics 365 Finance Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-financials.aspx)
+- [Microsoft 認証: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-manufacturing.aspx)
+- [Microsoft 認証: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-supply-chain-management.aspx)
 - [Microsoft 認証:  Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft 認証: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/powerapps-and-d365-developer-associate)
--[Microsoft 認定ソリューション アソシエイト (MCSA)](https://www.microsoft.com/ja-jp/learning/mcsa-certification.aspx): BI レポート、Azure によるデータ エンジニアリング (2019 年 6 月 30 日廃止)、機械学習 (2019 年 6 月 30 日廃止)、Microsoft Dynamics 365 (2019 年 6 月 30 日廃止)、Microsoft Dynamics 365 for Operations (2020 年 6 月 30 日廃止)、SQL 2016 BI Development、SQL 2016 Database Administration、SQL 2016 Database Development、-SQL Server 2012/2014、ユニバーサル Windows プラットフォーム、Web アプリケーション、Windows Server 2012、または Windows Server 2016
--[Microsoft 認定ソリューション エキスパート (MCSE)](https://www.microsoft.com/ja-jp/learning/mcse-certification.aspx): ビジネス アプリケーション (2019 年 12 月 31 日廃止)、データ管理と分析、生産性、コアインフラストラクチャ
--[Microsoft 認定ソリューション デベロッパー (MCSD)](https://www.microsoft.com/ja-jp/learning/mcsd-certification.aspx): App Builder
+-[Microsoft 認定ソリューション アソシエイト (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI レポート、Azure によるデータ エンジニアリング (2019 年 6 月 30 日廃止)、機械学習 (2019 年 6 月 30 日廃止)、Microsoft Dynamics 365 (2019 年 6 月 30 日廃止)、Microsoft Dynamics 365 for Operations (2020 年 6 月 30 日廃止)、SQL 2016 BI Development、SQL 2016 Database Administration、SQL 2016 Database Development、-SQL Server 2012/2014、ユニバーサル Windows プラットフォーム、Web アプリケーション、Windows Server 2012、または Windows Server 2016
+-[Microsoft 認定ソリューション エキスパート (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): ビジネス アプリケーション (2019 年 12 月 31 日廃止)、データ管理と分析、生産性、コアインフラストラクチャ
+-[Microsoft 認定ソリューション デベロッパー (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): App Builder
 - Dynamics CRM Dynamics Technical (2019 年 12 月 31 日廃止)-[Microsoft Dynamicsの資格と認定に関連する要件を理解する](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm)。
-- [Microsoft  オフィス スペシャリスト (MOS) ](https://www.microsoft.com/ja-jp/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/ja-jp/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/ja-jp/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/ja-jp/learning/mos-powerpoint-2019.aspx), [Microsoft オフィス スペシャリスト: Associate (Office 365 and Office 2019)](https://www.microsoft.com/ja-jp/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/ja-jp/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019) or [Microsoft オフィス スペシャリスト: Expert (Office 365 and Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
+- [Microsoft  オフィス スペシャリスト (MOS) ](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Microsoft オフィス スペシャリスト: Associate (Office 365 and Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019) or [Microsoft オフィス スペシャリスト: Expert (Office 365 and Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
  
-**注意** Microsoft 認定資格および MCT プログラムに適格な資格は変更されることがあります。全ての新しいロールベースの認定は、MCT プログラムが一旦リリースされ次第有効となります。廃止された認定につきましては、廃止後最大 6 ヶ月間有効となります。[終了した認定資格の詳細](https://www.microsoft.com/ja-jp/learning/retired-certifications.aspx).
+**注意** Microsoft 認定資格および MCT プログラムに適格な資格は変更されることがあります。全ての新しいロールベースの認定は、MCT プログラムが一旦リリースされ次第有効となります。廃止された認定につきましては、廃止後最大 6 ヶ月間有効となります。[終了した認定資格の詳細](https://www.microsoft.com/learning/retired-certifications.aspx).
 
 ## 申請プロセス
 
@@ -142,7 +142,7 @@ MCT 登録ツールを使用して次のことを行いましょう:
 2. [MCT 登録ツール](https://mcp.microsoft.com/Authenticate/MCT)で申請を完了します。
 3. プログラム手数料の支払いを求めるメッセージが表示されたら、MCT バウチャー コードを入力します。
 
-申請と支払いを完了したら、MCT ウェルカム電子メールが届くのを待ちます。その後、[認証ダッシュボード](https://www.microsoft.com/ja-jp/learning/dashboard.aspx)で MCT コンテンツにアクセスできます。
+申請と支払いを完了したら、MCT ウェルカム電子メールが届くのを待ちます。その後、[認証ダッシュボード](https://www.microsoft.com/learning/dashboard.aspx)で MCT コンテンツにアクセスできます。
 
 ## MCT Alumni プログラム
 
@@ -157,7 +157,7 @@ MCT Alumni プログラムの要件は次のとおりです:
 
 ### MCT Alumni のメリット
 
-MCT Alumni メンバーになると、[認証ダッシュボード](https://www.microsoft.com/ja-jp/learning/dashboard.aspx)で MCT Alumni コンテンツへの限定アクセスが可能になります 。また [MCT Central](https://www.microsoft.com/en-us/learning/mct-central.aspx) にアクセスして、ニュース、イベント、MCT Alumni に合わせた多種多様なリソース、MCT コミュニティ全体と交流する機会を得ることができます。
+MCT Alumni メンバーになると、[認証ダッシュボード](https://www.microsoft.com/learning/dashboard.aspx)で MCT Alumni コンテンツへの限定アクセスが可能になります 。また [MCT Central](https://www.microsoft.com/en-us/learning/mct-central.aspx) にアクセスして、ニュース、イベント、MCT Alumni に合わせた多種多様なリソース、MCT コミュニティ全体と交流する機会を得ることができます。
 
 MCT Alumni には、次のようなメリットがあります:
 
@@ -183,7 +183,7 @@ MCT Alumni のメンバーになることに関心がある場合は、メンバ
 
 MCT に戻るには:
 
-- このページの [要件](https://www.microsoft.com/ja-jp/learning/mct-certification.aspx#mctinfoheading-3) セクションで説明されている **MCT プログラムの要件を満たしていることを確認してください** 。現在の Microsoft 認定資格に対するトランスクリプトと、MCT プログラムに適格な資格を有していることを確認します。
+- このページの [要件](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) セクションで説明されている **MCT プログラムの要件を満たしていることを確認してください** 。現在の Microsoft 認定資格に対するトランスクリプトと、MCT プログラムに適格な資格を有していることを確認します。
 - **MCT プログラムへの参加を申し込みます。** MCT Alumni は、以前に MCT プログラムに申請したときに取得した指導スキルの認定の証明を提出するか、少なくとも 1 年の指導経験があることを実証する照会状を提出できます。この照会状は、以前の顧客、マネージャー、同僚のいずれかからのものにできます。
 
 ## MCT サポート

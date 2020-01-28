@@ -58,7 +58,7 @@ Microsoft では、Microsoft 認証 Professional (MCP) 資格試験における�
         - Name
         - Email
         - Exam Number
-    4. 試験で合格スコアを獲得した受験者は、同じ試験を再び受けることはできません。Microsoft は、一部の試験を再受験可能にする権利を留保します。[下記](https://www.microsoft.com/ja-jp/learning/exam-certification-retakes.aspx)をクリックすると、年間で再受験可能な試験のリストを確認できます 。
+    4. 試験で合格スコアを獲得した受験者は、同じ試験を再び受けることはできません。Microsoft は、一部の試験を再受験可能にする権利を留保します。[下記](https://www.microsoft.com/learning/exam-certification-retakes.aspx)をクリックすると、年間で再受験可能な試験のリストを確認できます 。
 
 2. Microsoft Technology Associate (MTA) および Microsoft 認証 Educator (MCE) 資格試験の再受験ポリシー
     1. 初回の試験で合格スコアを獲得できなかった受験者は、24 時間たたないと再受験できません。
@@ -79,7 +79,7 @@ Microsoft では、Microsoft 認証 Professional (MCP) 資格試験における�
     2.このポリシーは、全般的な再受験ポリシーよりも優先されます。
 5. 各再受験ポリシーの例外
     1.Microsoft では、特定の試験に対して例外を規定している場合があります。
-    2.Microsoft は、一部の試験を再受験可能にする権利を留保します。毎年再受験できる試験の完全なリストについては、[こちら](https://www.microsoft.com/ja-jp/learning/exam-certification-retakes.aspx)をクリックしてください 。
+    2.Microsoft は、一部の試験を再受験可能にする権利を留保します。毎年再受験できる試験の完全なリストについては、[こちら](https://www.microsoft.com/learning/exam-certification-retakes.aspx)をクリックしてください 。
 
 ### セキュリティ上の理由による試験センターの閉鎖
 
@@ -193,10 +193,10 @@ Microsoft Certified Professional (MCP) 試験の学割価格は、ほとんど�
 
 3. **試験ポリシー**
 
-    Microsoft 認定試験の以下に示すポリシーと手順を理解し、順守する責任はお客様にあり、[https://www.microsoft.com/ja-jp/learning/certification-exam-policies.aspx](https://www.microsoft.com/ja-jp/learning/certification-exam-policies.aspx)
+    Microsoft 認定試験の以下に示すポリシーと手順を理解し、順守する責任はお客様にあり、[https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx)
 これには試験提供者のポリシーと手順も含まれます。
 
-    Microsoft 再受験ポリシーなど、Microsoft 試験および試験手順については、以下で確認できます [https://www.microsoft.com/ja-jp/learning/certification-exam-policies.aspx](https://www.microsoft.com/ja-jp/learning/certification-exam-policies.aspx)。試験配信会社のポリシーと手順の詳細については、試験配信会社の Web サイトで確認できます。
+    Microsoft 再受験ポリシーなど、Microsoft 試験および試験手順については、以下で確認できます [https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx)。試験配信会社のポリシーと手順の詳細については、試験配信会社の Web サイトで確認できます。
 
     受験者は、試験を受けてから 30　日以内に、点数に関する申立てを行うことができます。
 
@@ -242,19 +242,19 @@ Microsoft Certified Professional (MCP) 試験の学割価格は、ほとんど�
    1. 「***関連会社***」 とは、契約当事者を所有し、契約当事者によって所有され、または契約当事者と共通の所有化にある法人を意味します。「所有」 とは、法人の 50% 超の持分、または経営を支配する権利を有していることをいいます。
    2. 「***Microsoft Certified Professional Web サイト***」 とは、Microsoft Certified Professional 専用の Microsoft の Web サイトを意味します。
    3. 「***Microsoft***」 とは、第 12.4 項で明確にされている Microsoft 事業体を意味します。
-   4. 「***Microsoft 認定資格***」 とは、必要な試験に合格したこと、および該当する資格またはロゴを使用するためのすべての認定要件および再認定要件を満たしていることを意味します。Microsoft 認定資格の現在のリストは、次の場所にあります[Microsoft Certifications](https://www.microsoft.com/ja-jp/learning/browse-all-certifications.aspx?certificationtype=role-based)。
+   4. 「***Microsoft 認定資格***」 とは、必要な試験に合格したこと、および該当する資格またはロゴを使用するためのすべての認定要件および再認定要件を満たしていることを意味します。Microsoft 認定資格の現在のリストは、次の場所にあります[Microsoft Certifications](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)。
    5. 「***Microsoft 認定資格***」 または 「***資格***」 とは、個人が特定の Microsoft 認定資格の要件を満たしていることを示すために使用される、特定の Microsoft 認定資格の完全または省略されたタイトルを意味します。
    6. 「***Microsoft 認定資格試験***」 または 「***試験***」 とは、試験の主題である特定の Microsoft テクノロジに関する個人のスキルを実証することを目的とした Microsoft 認定資格試験を意味します。
 
 2. Microsoft 認定資格
    1. *Microsoft 認定資格の取得および維持*: Microsoft 認定資格の取得および維持のためには、次のことを行う必要があります:
 
-        1. 該当する[Microsoft 認定資格の必要なすべての試験に合格し、すべての認定要件および再認定要件を満たすこと [Microsoft Certification](https://www.microsoft.com/ja-jp/learning/browse-all-certifications.aspx?certificationtype=role-based)、
+        1. 該当する[Microsoft 認定資格の必要なすべての試験に合格し、すべての認定要件および再認定要件を満たすこと [Microsoft Certification](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)、
         2. 本契約の条件に同意すること、
         3. 現行の契約ガイドライン、すべてのプログラム要件の条件を遵守すること、そして、
         4. 該当する Microsoft 認定資格のすべての追加要件を満たすこと。
 
-   2. *Microsoft 認定資格の要件の変更*: Microsoft は、自らの裁量にて、Microsoft のトレーニングと認定の Web サイトまたは Microsoft Certified Professional Web サイトに変更情報を掲載することにより、いつでも Microsoft 認定資格の要件 (初回および継続の両方) を変更できるものとします[Microsoft training and certification website](https://www.microsoft.com/ja-jp/learning/browse-all-certifications.aspx?certificationtype=role-based) or on the [Microsoft Certification website](https://www.microsoft.com/ja-jp/learning/browse-all-certifications.aspx?certificationtype=role-based)。受験者は、Microsoft が変更を掲載した日から 3 か月の間に追加の要件を満たすものとします。特定の資格に関連する追加の認定要件または再認定要件を満たさなかった場合、該当する資格証明書を使用する権利を失う場合があります。
+   2. *Microsoft 認定資格の要件の変更*: Microsoft は、自らの裁量にて、Microsoft のトレーニングと認定の Web サイトまたは Microsoft Certified Professional Web サイトに変更情報を掲載することにより、いつでも Microsoft 認定資格の要件 (初回および継続の両方) を変更できるものとします[Microsoft training and certification website](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based) or on the [Microsoft Certification website](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)。受験者は、Microsoft が変更を掲載した日から 3 か月の間に追加の要件を満たすものとします。特定の資格に関連する追加の認定要件または再認定要件を満たさなかった場合、該当する資格証明書を使用する権利を失う場合があります。
 
    3. *試験契約違反*
 
@@ -296,7 +296,7 @@ Microsoft Certified Professional (MCP) 試験の学割価格は、ほとんど�
 
 7. 変更
 
-   Microsoft は、(a) 契約とガイドラインを更新および変更し、(b) 資格の終了、認定要件の変更、プログラムの要件および特典の変更など、プログラムまたはその一部をいつでも変更し、(c) プログラムを終了する権利を留保します。Microsoft は次の Web サイトに変更を投稿します[Microsoft Certification website](https://www.microsoft.com/ja-jp/learning/program-membership.aspx)。受験者は、Microsoft 認証 Professional Web サイトで変更情報を確認する責任を負います。変更は、変更が掲載された日付から有効となります。変更がさかのぼって適用されることはありません。
+   Microsoft は、(a) 契約とガイドラインを更新および変更し、(b) 資格の終了、認定要件の変更、プログラムの要件および特典の変更など、プログラムまたはその一部をいつでも変更し、(c) プログラムを終了する権利を留保します。Microsoft は次の Web サイトに変更を投稿します[Microsoft Certification website](https://www.microsoft.com/learning/program-membership.aspx)。受験者は、Microsoft 認証 Professional Web サイトで変更情報を確認する責任を負います。変更は、変更が掲載された日付から有効となります。変更がさかのぼって適用されることはありません。
 
 8. 無保証条項
 
@@ -431,23 +431,23 @@ Microsoft Certified Professional (MCP) 試験の学割価格は、ほとんど�
 
 **Microsoft Certification試験**
 
-[AZ-100: Microsoft Azure Infrastructure and Deployment](https://www.microsoft.com/ja-jp/learning/exam-AZ-100.aspx)
+[AZ-100: Microsoft Azure Infrastructure and Deployment](https://www.microsoft.com/learning/exam-AZ-100.aspx)
 
-[AZ-101: Microsoft Azure Integration and Security](https://www.microsoft.com/ja-jp/learning/exam-AZ-101.aspx)
+[AZ-101: Microsoft Azure Integration and Security](https://www.microsoft.com/learning/exam-AZ-101.aspx)
 
-[AZ-103: Microsoft Azure Administrator](https://www.microsoft.com/ja-jp/learning/exam-az-103.aspx)
+[AZ-103: Microsoft Azure Administrator](https://www.microsoft.com/learning/exam-az-103.aspx)
 
 AZ-200: Microsoft Azure Developer Core Solutions
 
 AZ-201: Microsoft Azure Developer Advanced Solutions
 
-[AZ-203: Developing Solutions for Microsoft Azure](https://www.microsoft.com/ja-jp/learning/exam-AZ-203.aspx)
+[AZ-203: Developing Solutions for Microsoft Azure](https://www.microsoft.com/learning/exam-AZ-203.aspx)
 
-[AZ-300: Microsoft Azure Architect Technologies](https://www.microsoft.com/ja-jp/learning/exam-AZ-300.aspx)
+[AZ-300: Microsoft Azure Architect Technologies](https://www.microsoft.com/learning/exam-AZ-300.aspx)
 
-[AZ-301: Microsoft Azure Architect Design](https://www.microsoft.com/ja-jp/learning/exam-AZ-301.aspx)
+[AZ-301: Microsoft Azure Architect Design](https://www.microsoft.com/learning/exam-AZ-301.aspx)
 
-[AZ-400: Microsoft Azure DevOps Solutions](https://www.microsoft.com/ja-jp/learning/exam-AZ-400.aspx)
+[AZ-400: Microsoft Azure DevOps Solutions](https://www.microsoft.com/learning/exam-AZ-400.aspx)
 
 **Microsoft  Professional Program**
 
@@ -477,17 +477,17 @@ Microsoft Professional Program: Certificate in [Cybersecurity](https://academy.m
 
 **認定資格確認のオプション1-バッジを共有する：**
 
-- ステップ 2: [Microsoft Certification Dashboard](https://www.microsoft.com/ja-jp/learning/dashboard.aspx)にサインインします
+- ステップ 2: [Microsoft Certification Dashboard](https://www.microsoft.com/learning/dashboard.aspx)にサインインします
 
 - ステップ 3: ダッシュボードの [バッジ] セクションに移動し、手順に従ってバッジを申請します (まだ行っていない場合)
 
 - ステップ 4: 手順に従って、電子メールでバッジを共有します[itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)
 
-- 詳細については、以下を参照してください: [Microsoft 試験と認定資格バッジ](https://www.microsoft.com/ja-jp/learning/badges.aspx)
+- 詳細については、以下を参照してください: [Microsoft 試験と認定資格バッジ](https://www.microsoft.com/learning/badges.aspx)
 
 **認定資格確認のオプション2-証明書を共有する：**
 
-- ステップ 2: [Microsoft Certification Dashboard](https://www.microsoft.com/ja-jp/learning/dashboard.aspx)にサインインします
+- ステップ 2: [Microsoft Certification Dashboard](https://www.microsoft.com/learning/dashboard.aspx)にサインインします
 
 - ステップ 3: 証明書のセクションに移動し、[共有またはダウンロード]を選択します
 
@@ -519,7 +519,7 @@ MPP のプロセスについてさらに質問がある場合は、MPP[FAQ](http
 
 ## <a name="policies-5"></a> Microsoft 認定資格試験項目についてのお問い合わせ
 
-[各試験問題は慎重に検討されます](https://www.microsoft.com/ja-jp/learning/certification-exams.aspx)技術的正確性、明確性、および関連性について各質問を検討する技術および職務の専門家のパネルによる。Microsoft 認定資格試験の特定の質問が正確でないと思われる場合、次に説明する手順に従って、その項目の審査をリクエストできます。試験受験から 30 日以内に試験項目問い合わせフォームを送信する必要があります。
+[各試験問題は慎重に検討されます](https://www.microsoft.com/learning/certification-exams.aspx)技術的正確性、明確性、および関連性について各質問を検討する技術および職務の専門家のパネルによる。Microsoft 認定資格試験の特定の質問が正確でないと思われる場合、次に説明する手順に従って、その項目の審査をリクエストできます。試験受験から 30 日以内に試験項目問い合わせフォームを送信する必要があります。
 
 **注意:** ベータ試験問題についてのフィードバックを送信するために試験項目問い合わせプロセスを使用しないでください。ベータ試験の問題は、このプロセスの間に受け取ったフィードバックに基づいて何らかの方法で修正されることが多く、質問プールから削除される可能性があります。コメント期間中に提供できなかったベータ試験に関する追加のフィードバックがある場合は、フィードバックを下記の宛先に送信してください[mslcd@microsoft.com](mailto:mslcd@microsoft.com)。
 
@@ -580,7 +580,7 @@ Microsoft 認定資格試験に関してよく寄せられる質問の回答を�
 
 **受験を考えている試験で使われる試験の形式と質問のタイプを教えてください?**
 
-Microsoft は革新的な試験技術および質問の種類を継続的に導入しているため、該当の試験に含まれる特定の項目の種類については規定していません。試験時の操作感覚を把握するために、[出題される可能性がある問題](https://www.microsoft.com/ja-jp/learning/certification-exams.aspx)を下記のサイトで確認しておくことをお勧めします。
+Microsoft は革新的な試験技術および質問の種類を継続的に導入しているため、該当の試験に含まれる特定の項目の種類については規定していません。試験時の操作感覚を把握するために、[出題される可能性がある問題](https://www.microsoft.com/learning/certification-exams.aspx)を下記のサイトで確認しておくことをお勧めします。
 
 **試験の所要時間を教えてください?**
 
@@ -610,11 +610,11 @@ Microsoft は革新的な試験技術および質問の種類を継続的に導�
 
 **試験の準備はどのように行えばよいですか?**
 
-試験の準備をする最も良い方法は、試験の詳細ページに記載されているスキルを習得することです。興味のある試験を見つけるために[すべての試験を参照](https://www.microsoft.com/ja-jp/learning/exam-list.aspx)してください。Microsoft 認定資格試験に合格するには、テクノロジに関する実地経験が必要です。関連するマイクロラーニング、オンラインコース、およびインストラクター主導のコースは、職務で成功するために必要なスキルを学習することを目的としており、その一部は試験で評価されます。しかし、試験はこれらのコースで教わった内容以上のスキルの応用に焦点を合わせているため、試験を受ける前に学習に加えて経験や実践を積むことを強くお勧めします。準備を始めるには、試験詳細ページの「スキルの評価」セクションを確認し、試験での評価内容に照らして自分のスキルを率直に評価します。これを行う最善の方法は、示されているタスクを実際に実行して、生じた課題を記録することです。この課題を克服するまで練習を続けます。
+試験の準備をする最も良い方法は、試験の詳細ページに記載されているスキルを習得することです。興味のある試験を見つけるために[すべての試験を参照](https://www.microsoft.com/learning/exam-list.aspx)してください。Microsoft 認定資格試験に合格するには、テクノロジに関する実地経験が必要です。関連するマイクロラーニング、オンラインコース、およびインストラクター主導のコースは、職務で成功するために必要なスキルを学習することを目的としており、その一部は試験で評価されます。しかし、試験はこれらのコースで教わった内容以上のスキルの応用に焦点を合わせているため、試験を受ける前に学習に加えて経験や実践を積むことを強くお勧めします。準備を始めるには、試験詳細ページの「スキルの評価」セクションを確認し、試験での評価内容に照らして自分のスキルを率直に評価します。これを行う最善の方法は、示されているタスクを実際に実行して、生じた課題を記録することです。この課題を克服するまで練習を続けます。
 
 Microsoft 認証トレーナーは、認定準備の段階で多数の候補者と協力します。受験者が試験勉強に集中するのを支援するために、以下の手順をお勧めします:
 
-- 興味のある試験を見つけるために[すべての試験を参照](https://www.microsoft.com/ja-jp/learning/exam-list.aspx)。
+- 興味のある試験を見つけるために[すべての試験を参照](https://www.microsoft.com/learning/exam-list.aspx)。
 - ページの「測定された技能」セクションを印刷します。 
 - リスト全体を確認します。各トピックについて考えてみましょう。特定のトピックについて非常に精通している場合は、そのトピックを強調表示するか、それをクロスアウトしてください。 
 - 残りのものを確認してください。それでは、いくつかのターゲットに絞られた試験勉強を開始してください。ハイライトしなかったトピックごとに、Web で特定の記事を検索します。
@@ -628,7 +628,7 @@ Microsoft 認証トレーナーは、認定準備の段階で多数の候補者�
 
 **Microsoft 認定資格試験に登録するにはどうすればよいですか?**
 
-[試験登録ページ](https://www.microsoft.com/ja-jp/learning/certification-exams.aspx)にアクセスします to find complete instructions。
+[試験登録ページ](https://www.microsoft.com/learning/certification-exams.aspx)にアクセスします to find complete instructions。
 
 **試験は英語で受験する必要がありますか?**
 
@@ -644,7 +644,7 @@ Expert および Associate の試験は通常 165 米ドルですが、特定の
 
 Microsoft Office Specialist (MOS) の正確な価格については、[Certiport](http://www.certiport.com/)にお問い合わせください。
 
-- 他のすべての試験については、[すべての試験を参照](https://www.microsoft.com/ja-jp/learning/exam-list.aspx)から試験の価格を含む試験ページを見つけてください。
+- 他のすべての試験については、[すべての試験を参照](https://www.microsoft.com/learning/exam-list.aspx)から試験の価格を含む試験ページを見つけてください。
 
 **試験の学習資料やトレーニングに関する意見を送るにはどうすればよいですか?**
 
@@ -652,11 +652,11 @@ Microsoft Office Specialist (MOS) の正確な価格については、[Certiport
 
 **試験の質問や受験環境についての意見を送るにはどうすればよいですか?**
 
-特定のアイテムの技術的な正確性について懸念がある場合は、[Exam Item Challenge](https://www.microsoft.com/ja-jp/learning/certification-exam-policies.aspx#policies-5)プロセス に従ってください。
+特定のアイテムの技術的な正確性について懸念がある場合は、[Exam Item Challenge](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5)プロセス に従ってください。
 
 試験中に発生したテスト センターまたは技術的な問題に関する懸念を報告するには、[Pearson VUE](http://www.pearsonvue.com/microsoft/)または[Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)のカスタマー サービスまでご連絡ください。
 
-他の種類のフィードバックを提供するには、[Microsoft Regional Service Center](https://www.microsoft.com/ja-jp/learning/help.aspx)にお問い合わせください。
+他の種類のフィードバックを提供するには、[Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx)にお問い合わせください。
 
 セキュリティ上の問題を報告するには、[mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)に連絡してください。
 
@@ -664,7 +664,7 @@ Microsoft Office Specialist (MOS) の正確な価格については、[Certiport
 
 **Microsoft 認定資格試験ではどのような問題が出題されますか?**
 
-Microsoft は革新的な試験技術および質問の種類を継続的に導入しているため、該当の試験に含まれる特定の項目の種類については規定していません。試験時の操作感覚を把握するために、[出題される可能性がある問題](https://www.microsoft.com/ja-jp/learning/certification-exams.aspx)を下記のサイトで確認しておくことをお勧めします。
+Microsoft は革新的な試験技術および質問の種類を継続的に導入しているため、該当の試験に含まれる特定の項目の種類については規定していません。試験時の操作感覚を把握するために、[出題される可能性がある問題](https://www.microsoft.com/learning/certification-exams.aspx)を下記のサイトで確認しておくことをお勧めします。
 
 **なぜケース スタディ形式の試験を採用しているのですか?**
 
@@ -749,7 +749,7 @@ Microsoft は、試験で評価されるすべてのスキルに対してなん�
 
 **ベータ試験の結果に関して質問がある場合、どこに問い合わせればよいですか?**
 
-最終試験の公開日から 2 週間以内にスコア レポートのサイトへの掲示や送付がない場合、結果処理時期については試験配信会社にお問い合わせください。成績証明書について質問がある場合は、[Microsoft Regional Service Center](https://www.microsoft.com/ja-jp/learning/help.aspx)にお問い合わせください。
+最終試験の公開日から 2 週間以内にスコア レポートのサイトへの掲示や送付がない場合、結果処理時期については試験配信会社にお問い合わせください。成績証明書について質問がある場合は、[Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx)にお問い合わせください。
 
 **タ試験受験用の 25% のバウチャーを受け取っていない場合、どこに連絡すればいいですか？**
 
@@ -835,7 +835,7 @@ Microsoft 試験は、試験の合計スコアを使用して合否 (つまり�
 
 **Microsoft Certification Exam (Pearson VUE) に初めて合格しました。次は何をすればよいですか?**
 
-おめでとうございます！次のステップと得られるメリットについては、下記を参照してください[dashboard](https://www.microsoft.com/ja-jp/learning/dashboard.aspx)。試験の登録に使用したものと同じ Microsoft アカウントを使用してサインインしてください。
+おめでとうございます！次のステップと得られるメリットについては、下記を参照してください[dashboard](https://www.microsoft.com/learning/dashboard.aspx)。試験の登録に使用したものと同じ Microsoft アカウントを使用してサインインしてください。
 
 **合格しなかった場合、何をすればよいですか？**
 
@@ -851,7 +851,7 @@ Microsoft 認定資格試験は、受験者がさらなるスキルの向上が�
 
 **試験の再受験ポリシーはどのようなものですか？**
 
-こちらで[セキュリティおよび再受験ポリシー](https://www.microsoft.com/ja-jp/learning/certification-exam-policies.aspx#security-policies)を参照してください。
+こちらで[セキュリティおよび再受験ポリシー](https://www.microsoft.com/learning/certification-exam-policies.aspx#security-policies)を参照してください。
 
 **スコアの再評価をリクエストできますか？**
 
@@ -859,7 +859,7 @@ Microsoft 認定資格試験は、受験者がさらなるスキルの向上が�
 
 **試験の問題にチャレンジするにはどうすればよいですか？**
 
-Microsoft 認定資格試験の質問が不正確であると考える場合、[試験項目チャレンジ プロセス](https://www.microsoft.com/ja-jp/learning/certification-exam-policies.aspx#policies-5)を使用して、試験受験後 30 暦日以内にからその質問の評価をリクエストできます。評価プロセスによって、不備のある問題の特定や修正、それに応じた試験の更新が可能です。
+Microsoft 認定資格試験の質問が不正確であると考える場合、[試験項目チャレンジ プロセス](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5)を使用して、試験受験後 30 暦日以内にからその質問の評価をリクエストできます。評価プロセスによって、不備のある問題の特定や修正、それに応じた試験の更新が可能です。
 
 **問い合わせのあった試験問題の確認と評価は Microsoft の従業員が行いますか？**
 
@@ -1022,7 +1022,7 @@ Microsoft のコンテンツを扱う「ブレイン ダンプ」サイトを見
 
 **ラボが含まれる試験には、特別な試験センターの要件はありますか？ラボが含まれる試験を予約しようとすると、ほとんどの試験センターが表示されず、ラボが含まれない試験には同じ試験センターが表示されます。**
 
-ラボを含む試験では、特定のインターネット接続要件を満たす試験センターが必要となるため、利用できる試験センターは少数に限られます。新しいロール ベースの試験の多くにラボが追加されると、それらも同じ試験センターの対象となります。ただし、オンライン プロクタリングを通じてこれらの試験を受験することができます。詳細については、https://www.microsoft.com/ja-jp/learning/online-proctored-exams.aspx を参照してください。特定の試験センターをご希望の場合は、その試験センターに連絡してラボの提供可否についてご確認ください。また、試験を選択した後に利用可能な試験センターとして表示されることはありません。そのような場合は、別の試験センターを探すか、オンライン プロクタリングによる試験を受けることをお勧めします。
+ラボを含む試験では、特定のインターネット接続要件を満たす試験センターが必要となるため、利用できる試験センターは少数に限られます。新しいロール ベースの試験の多くにラボが追加されると、それらも同じ試験センターの対象となります。ただし、オンライン プロクタリングを通じてこれらの試験を受験することができます。詳細については、https://www.microsoft.com/learning/online-proctored-exams.aspx を参照してください。特定の試験センターをご希望の場合は、その試験センターに連絡してラボの提供可否についてご確認ください。また、試験を選択した後に利用可能な試験センターとして表示されることはありません。そのような場合は、別の試験センターを探すか、オンライン プロクタリングによる試験を受けることをお勧めします。
 
 ### ロールベースの認定資格
 
@@ -1062,7 +1062,7 @@ Microsoft のコンテンツを扱う「ブレイン ダンプ」サイトを見
 
 **Microsoft 認定資格試験の教育機関の確認手続きに関して質問がある場合、どこに問い合わせればよいですか？**
 
-成績証明書について一般条項質問がある場合は、[Microsoft Regional Service Center](https://www.microsoft.com/ja-jp/learning/help.aspx)にお問い合わせください。新規または保留中の確認リクエストに固有の質問については、[contact Support](https://academic.getmicrosoftkey.com/default/support)までお問い合わせください 。
+成績証明書について一般条項質問がある場合は、[Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx)にお問い合わせください。新規または保留中の確認リクエストに固有の質問については、[contact Support](https://academic.getmicrosoftkey.com/default/support)までお問い合わせください 。
 
 ### 特別な設備の要求
 

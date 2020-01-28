@@ -15,7 +15,7 @@ Microsoft トレーニングおよび認定資格ソリューションは、企�
 Microsoftのトレーニングおよび認定資格ソリューションは、次の Microsoft ボリュームライセンスプログラムを通じて利用できます。
 
 * **Microsoft ボリュームライセンス**Microsoftのトレーニングおよび認定資格ソリューションへの割引利用を許可する、カスタマイズ可能な Microsoft ソフトウェア購入プログラムです。
-* **[ソフトウェア アシュアランス用 Microsoft ボリュームライセンス](https://www.microsoft.com/ja-jp/learning/software-assurance-benefits.aspx)** 。既存のソフトウェアア シュアランスで特定のソフトウェア アシュアランス eラーニングおよびインストラクター主導のトレーニングを利用可能にする、費用対効果の高いプログラム。
+* **[ソフトウェア アシュアランス用 Microsoft ボリュームライセンス](https://www.microsoft.com/learning/software-assurance-benefits.aspx)** 。既存のソフトウェアア シュアランスで特定のソフトウェア アシュアランス eラーニングおよびインストラクター主導のトレーニングを利用可能にする、費用対効果の高いプログラム。
 
 このページで説明する Microsoft トレーニングおよび認定資格ソリューション製品の購入、予算編成、およびトラッキングを、ボリュームライセンスを通じて他の Microsoft テクノロジーの購入と統合することにより、組織は平均20〜80％のコスト削減を達成することが可能です（製品およびボリュームライセンス契約の種類により異なります）。
 
@@ -94,7 +94,7 @@ Microsoftのトレーニングおよび認定資格ソリューションは、�
 
 ## よくある質問
 
-以下の質問は、特にMicrosoft のボリュームライセンス トレーニングおよび認定資格ソリューションに対応しています。[認定資格の概要](https://www.microsoft.com/ja-jp/learning/certification-overview.aspx)または[試験ポリシーおよび FAQ](https://www.microsoft.com/ja-jp/learning/certification-exam-policies.aspx)ページから、Microsoft 認定資格または試験に関するよくある質問に対する回答をご確認ください。
+以下の質問は、特にMicrosoft のボリュームライセンス トレーニングおよび認定資格ソリューションに対応しています。[認定資格の概要](https://www.microsoft.com/learning/certification-overview.aspx)または[試験ポリシーおよび FAQ](https://www.microsoft.com/learning/certification-exam-policies.aspx)ページから、Microsoft 認定資格または試験に関するよくある質問に対する回答をご確認ください。
 
 ### **Microsoft トレーニングおよび認定資格ソリューション**
 
@@ -154,7 +154,7 @@ Microsoft トレーニングおよび認定資格ソリューションは、1階
 組織が取得するコードが多いほど、受け取るボリューム ディスカウントは大きくなります。次のリソースのいずれかを使用して、組織のトレーニング ニーズを決定し、会社のビジネス目標に合わせた学習計画を作成することをお勧めします。
 
 - [Microsoft トレーニングおよび認定資格ソリューション ボリュームライセンス ヘルプにメールを送信する](mailto:mslvlhlp@microsoft.com)
-- [Microsoft トレーニングおよび認定資格ソリューションを利用するためにローカルの Microsoft 認定パートナーを検索する](https://www.microsoft.com/ja-jp/learning/find-partner.aspx)
+- [Microsoft トレーニングおよび認定資格ソリューションを利用するためにローカルの Microsoft 認定パートナーを検索する](https://www.microsoft.com/learning/find-partner.aspx)
 
 **Q: 試験バウチャーをいくつ注文すればよいですか？**
 
@@ -172,7 +172,7 @@ Microsoft トレーニングおよび認定資格ソリューションは、1階
 
 **Q: Microsoft 認定プロフェッショナル（MCP）クラスパック、Microsoft Office スペシャリスト（MOS）サイトパック、および Microsoft Technology Associate（MTA）サイトパックに含まれる試験の準備に利用できるカリキュラムオプションはどれですか？**
 
-各試験には準備資料が用意されています。[新しい試験リスト](https://www.microsoft.com/ja-jp/learning/exam-list.aspx) から試験を選択し、試験で利用可能な準備オプションを探します。
+各試験には準備資料が用意されています。[新しい試験リスト](https://www.microsoft.com/learning/exam-list.aspx) から試験を選択し、試験で利用可能な準備オプションを探します。
 
 **Q: ボリュームライセンスを通じて Microsoft 認定試験クラスまたはサイトパックを注文するには、機関が Microsoft Imagine Academy である必要がありますか？**
   
