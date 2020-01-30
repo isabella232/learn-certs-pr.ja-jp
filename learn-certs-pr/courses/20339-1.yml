@@ -22,7 +22,7 @@ skillsGained:
 - skill: ユーザー プロファイルと対象ユーザーを構成および管理します。
 - skill: SharePoint 2016 で検索エクスペリエンスを構成および管理します。
 - skill: SharePoint 2016 展開を監視、保守、およびトラブルシューティングします。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
 locales:
 - en
 levels:
@@ -35,6 +35,7 @@ exams:
 - uid: exam.70-339
 summary: |-
   この 5 日間のコースでは、Microsoft SharePoint 2016 環境を計画および管理するための知識とスキルを提供します。このコースでは、SharePoint 環境の展開、管理、およびトラブルシューティングの方法を学習します。このコースでは、SharePoint展開の最適化に役立つガイドライン、ベストプラクティス、および考慮事項についても説明します。
+  
   これは、IT プロフェッショナル向けの 2 つのコースのシーケンスの初期段階であり、SharePoint 2016 IT Pro 認定に沿ったものです。
   
   #### 聴衆プロファイル
@@ -42,13 +43,8 @@ summary: |-
   
   学生は通常、SharePoint の計画と保守に関する 1 年以上の実践的な経験* と、Windows Server 2012 R2 以降、インターネット インフォメーションサービス（IIS）、Microsoft SQL Server 2014 以降、Active Directory Domain Services (AD DS)、ネットワーク インフラストラクチャ サービスなど、SharePoint が依存するその他のコア テクノロジーの 2 年の経験を有しています。
   
-  受験者は、少なくとも次の要件を満たしている必要があります&#58;
-  - SharePoint 2016 のマルチ サーバー展開を計画、実装、および保守する IT プロフェッショナルである。
-  - SharePoint Online の実用的な知識があり、実践的な経験があると好ましい。
-  - SharePoint ワークロードに精通している。
-  - データのバックアップ、復元、高可用性などのビジネス継続性管理の経験がある。
-  - 認証およびセキュリティ テクノロジーの経験がある。
-  - Windows PowerShellの経験がある。
+  受験者は、少なくとも次の要件を満たしている必要があります&#58; SharePoint 2016 のマルチ サーバー展開を計画、実装、および保守する IT プロフェッショナルである。; SharePoint Online の実用的な知識があり、実践的な経験があると好ましい。; SharePoint ワークロードに精通している。; データのバックアップ、復元、高可用性などのビジネス継続性管理の経験がある。; 認証およびセキュリティ テクノロジーの経験がある。; Windows PowerShellの経験がある。
+
   *ハンズオン エクスペリエンスまたは職務経験とは、受験者がドキュメント管理、コンテンツ管理、検索を含む SharePoint スペースにおいて複数のソリューションに取り組んだ、ソリューション ベースのロールから得た経験でなければなりません。
 prerequisitesSection: |-
   本コースに参加する前に、
@@ -348,10 +344,10 @@ outlineSection: |-
   ### モジュール 14&#58; SharePoint 2016 環境の監視および保守
   このモジュールでは、SharePoint 2016 の監視計画を実装する方法と、SharePoint 2016 展開のパフォーマンスを最適化する方法について説明します。また、SharePoint キャッシュを計画および構成する方法についても説明します。さらに、SharePoint 2016 環境で問題を特定して解決する方法について説明します。
   #### レッスン
-  -　SharePoint 2016 環境の監視
+  - SharePoint 2016 環境の監視
   - SharePoint 2016 環境の調整および最適化
   - キャッシングの計画および構成
-  -　SharePoint 2016 環境のトラブルシューティング
+  - SharePoint 2016 環境のトラブルシューティング
 
 
   #### ラボ &#58; SharePoint 2016 展開の監視

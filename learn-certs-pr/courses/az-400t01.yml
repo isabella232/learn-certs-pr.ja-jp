@@ -14,7 +14,7 @@ skillsGained:
 - skill: ビルドインフラストラクチャを実装して管理する
 - skill: アプリケーションの構成および機密を管理する
 - skill: モバイル DevOps 戦略を実装する
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
 locales:
 - en
 levels:
@@ -39,12 +39,13 @@ prerequisitesSection: |-
 outlineSection: |-
   ### モジュール 1&#58; ソース管理の開始
   #### レッスン
-  - Source Control Source Control とは何ですか？
+  - Source Control とは何ですか？
   - Source Control の利点
   - Source Control システムの種類
   - Azure Repos の概要
   - Team Foundation Version Control (TFVC) から Git への移行
   - Git Repos の認証
+  
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Source Control を使用することの利点について説明する
   - TFVC から Git へ移行する

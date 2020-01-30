@@ -20,7 +20,7 @@ skillsGained:
 - skill: ビジネス インテリジェンス ソリューションを計画および構成します。
 - skill: 作業管理、生産性、およびコラボレーションのプラットフォームと機能を計画および構成します。
 - skill: SharePoint 2016 へのアップグレードまたは移行を実行します。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
 locales:
 - en
 levels:
@@ -33,7 +33,9 @@ exams:
 - uid: exam.70-339
 summary: |-
   この 5 日間のコースでは、SharePoint 2016 環境で高度な機能を計画、構成、および管理する方法を学びます。このコースの特別な重点分野には、高可用性、障害回復、サービス アプリケーション アーキテクチャ、および Microsoft Business Connectivity Services の実装が含まれます。このコースでは、ソーシャル コンピューティングの機能、生産性、コラボレーション プラットフォームと機能にも焦点を当てています。また、学生はビジネス インテリジェンス ソリューション、エンタープライズ コンテンツ管理、Web コンテンツ管理インフラストラクチャ、ソリューション、アプリについても学びます。このコースでは、ガバナンス計画を開発および実装する方法、および SharePoint 2016 へのアップグレードまたは移行を実行する方法についても説明します。
+  
   これは、IT プロフェッショナル向けの 2 つのコースのシーケンスの 2 つ目であり、SharePoint 2016 IT Pro 認定に沿ったものです。
+  
   #### 聴衆プロファイル
   このコースは、データセンターまたはクラウドのどちらかで SharePoint 2016 のインストール、構成、展開、および管理を行うための学習に興味を持っている経験豊富な IT プロフェッショナルを対象としています。 
   
