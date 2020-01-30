@@ -22,7 +22,7 @@ skillsGained:
 - skill: テレメトリを分析してベースラインを確立する
 - skill: 実際のサイトレビューを実装し、システム停止に対するフィードバックを取得する
 - skill: 無意味な、または対処不可能なアラートを減らすために継続的な調整を実行する
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
 locales:
 - en
 levels:
@@ -67,7 +67,7 @@ outlineSection: |-
   ### モジュール 2&#58; システム フィードバックを開発チームにルーティングするプロセスを実装する
   #### レッスン
   - システムの使用状況、機能の使用状況、およびフローを追跡するためのツールを実装する
-  モバイル アプリケーションのクラッシュ レポート データのルーティングを実装する
+  - モバイル アプリケーションのクラッシュ レポート データのルーティングを実装する
   - 監視ダッシュボードとステータスダッシュボードを開発する
   - チケット システムを統合および構成する
 

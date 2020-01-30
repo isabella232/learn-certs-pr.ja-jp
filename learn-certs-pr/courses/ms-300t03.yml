@@ -31,6 +31,7 @@ exams:
 - uid: exam.ms-300
 summary: |-
   Microsoft Teams は Teamwork in Microsoft 365 のハブです。このコースでは、 Microsoft Teams を計画、展開、および管理する方法について学習します。具体的には、このコースでは、 SharePoint、OneDrive、Office 365 グループとの Teams の関係について説明します。それは、組織内で Teams の採用および展開のためのベスト プラクティスを提供します。また、Teams データのゲストポリシーとデータ ガバナンスを確立する方法についても説明します。
+  
   このコースは、組織内で Microsoft Teams を管理および展開する IT プロフェッショナルを対象としています。
 
   これは、 Teamwork 管理者ロールの 4 コースのシリーズのうち 3 番目のコースです。これらのコースは、 MS-300&#58; Deploying Microsoft 365 Teamwork の試験準備に役立ちます。
