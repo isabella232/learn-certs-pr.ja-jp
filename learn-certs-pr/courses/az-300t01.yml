@@ -13,7 +13,7 @@ skillsGained:
 - skill: VM の展開および管理
 - skill: 仮想ネットワークの構成および管理
 - skill: Azure Active Directory を使用した ID の管理
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
 locales:
 - en
 levels:
@@ -46,6 +46,7 @@ exams:
 - uid: exam.az-300
 summary: |-
   このコースでは、仮想マシン、仮想ネットワーク、ストレージ アカウント、およびハイブリッド ID の実装と管理を含む Azure AD の展開と構成など、Azure リソースの管理方法を IT プロフェッショナルに教えます。また、ユーザーおよびグループ アカウントを通じて Azure でクラウド リソースを管理する方法、およびロール ベースのアクセス制御 (RBAC) を使用して Azure AD ユーザー、グループ、およびサービスへのアクセスを許可する方法についても学習します。
+  
   学生は、さまざまなストレージ アカウントとサービス、および基本的なデータ複製の概念と利用可能な複製スキームについて学びます。また、Azure ストレージ データを操作する便利な方法として、学生に Storage Explorer を紹介します。また、ストレージの種類と、マネージド ディスクおよびカスタム ディスクの使用方法についても学びます。
 
   Azure Blob ストレージは、Azure が非構造化データをクラウドに保存する方法であり、生徒は Blob と Blob コンテナーを操作します。Blob ストレージに加えて、このコースでは、構造化データのストレージ オプションとして Table ストレージと Queue ストレージを扱います。

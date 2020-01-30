@@ -12,7 +12,7 @@ skillsGained:
 - skill: Azure Portal、Cloud Shell、Azure PowerShell、CLI、および Resource Manager を活用する
 - skill: VNet Peering や VNet間接続などのサイト間接続機能を使用する
 - skill: Azure Active Directory (AAD) と Azure AD Connect を使用する
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
 locales:
 - en
 levels:
@@ -50,10 +50,6 @@ outlineSection: |-
   
   #### ラボ &#58; オンライン ラボ&#58; Azure VM での Windows クラスタリングの実装
   
-  ### モジュール 4&#58; Azure リファレンス アーキテクチャの SAP
-  
-  AnyDB、SAP S4 HANA、および Azure VM 上の Azure (Large Instances) 上の SAP HANA を使用した SAP NetWeaver のレッスンが含まれています。
-
   ### モジュール 4&#58; Azure リファレンス アーキテクチャの SAP
   
   AnyDB、SAP S4 HANA、および Azure VM 上の Azure (Large Instances) 上の SAP HANA を使用した SAP NetWeaver のレッスンが含まれています。

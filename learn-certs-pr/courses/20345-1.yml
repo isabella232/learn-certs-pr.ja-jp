@@ -20,7 +20,7 @@ skillsGained:
 - skill: Exchange Server を監視およびトラブルシューティングします。
 - skill: Exchange Server のロール ベースのアクセス制御許可、並びに管理者とユーザーの両方の監査ログを構成します。
 - skill: Exchange Online との統合を実装および管理します。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
 locales:
 - en
 levels:
