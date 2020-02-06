@@ -65,7 +65,7 @@ MCT プログラムの要件の詳細については、このページの[申請
 - 現在の Microsoft 認定資格または MCT プログラムに適格な資格を有していること。
 (認証の条件のリストについては以下を参照)
 
-- [Metrics that Matter (MTM)](http://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page)によって検証されているように、少なくとも 1 つのクラスを教えるための最小指示要件を満たします。)または、その他の調査ツールが受け入れられます。
+- [Metrics that Matter (MTM)](https://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page)によって検証されているように、少なくとも 1 つのクラスを教えるための最小指示要件を満たします。)または、その他の調査ツールが受け入れられます。
 
 **注意** 更新要件は変更されることがあります。
 
