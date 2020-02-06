@@ -544,7 +544,7 @@ Microsoft 認定資格試験の有効性および妥当性を可能な限り高�
 試験の受験時に特別な機器やその他の特別な設備が必要な場合は、[Pearson VUE](https://rs.hgportal.net/amer/candidate)を通じて合理的な調整要求システム」を使用して特別な設備を要求できます。Reasonable Adjustments Request System は、特別な設備を要求し、補足文書を提出するための安全なオンラインシステムです。
 
 - リクエストシステムを初めて使用する場合は、ユーザー名とパスワードを作成する必要があります。ユーザー名を作成するには、ログイン画面で「Register (登録)」リンクをクリックします。システムでは、有効なメールアカウントを持っている必要があることにご注意ください。
-- 補足文書のアップロードが求められるため、Pearson VUE はこの安全なシステムを使用しています。まだ行っていない場合は、評価者 (医師、心理学者) にあなたの障害のために [評価者向けガイドライン ](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) のコピーを渡します。評価者は、提供する文書がガイドラインを満たしていることを確認する必要があります。ほとんどの場合、評価者は心理学者または医師であり、一連の心理テスト、教育テスト、または医学テストを実施し、診断報告書または詳細な文書のコピーを提供します。
+- 補足文書のアップロードが求められるため、Pearson VUE はこの安全なシステムを使用しています。まだ行っていない場合は、評価者 (医師、心理学者) にあなたの障害のために [評価者向けガイドライン ](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) のコピーを渡します。評価者は、提供する文書がガイドラインを満たしていることを確認する必要があります。ほとんどの場合、評価者は心理学者または医師であり、一連の心理テスト、教育テスト、または医学テストを実施し、診断報告書または詳細な文書のコピーを提供します。
 - **Pearson VUE が資料を確認するまでに 10 営業日かかります。それに応じてリクエストを行ってください。**
 - リクエストの確認が完了すると、決定が行われたというメールが届きます。決定レターは、「合理的な調整要求システム」の「マイドキュメント」セクションに表示されます。承認された場合、決定書には、特別な設備での試験のスケジュールに関する指示が記載されます。
 テスト対応の決定に満足できない場合は、決定書が表示されている「Reasonable Adjustments Request System」と同じセクションの「Request an Appeal」ボタンをクリックして、決定に異議を申し立てることができます。ボタンをクリックした後に表示される申し立てフォームに記入してアップロードしてください。障害の専門家がすべての異議申し立てのリクエストを確認します。
@@ -622,7 +622,7 @@ Microsoft 認証トレーナーは、認定準備の段階で多数の候補者�
 
 ホワイトペーパー、MSDN、または TechNet を参照して、試験に含まれるタスクに関する追加情報を入手したり、試験の詳細ページに含まれる「準備資料」のセクションで提供されているリソースを調べることもできます。試験の詳細ページは、あなたの地域で講師主導のトレーニング オプションを見つけることができるあらゆる利用可能なオンライン コース、マイクロラーニング、オプションおよびポータルにリンクします。
 
-さらに、[Microsoft Official Practice Tests](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1)は、一部の認定試験で利用できます。演習テストの中には、特定の強みや弱みに関する詳細情報を提供するものがあります。ただし、演習テストに合格しても、認定資格試験の合格が保証されるわけではありません。
+さらに、[Microsoft Official Practice Tests](https://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1)は、一部の認定試験で利用できます。演習テストの中には、特定の強みや弱みに関する詳細情報を提供するものがあります。ただし、演習テストに合格しても、認定資格試験の合格が保証されるわけではありません。
 
 試験に合格していない場合は、試験のパフォーマンスが最も弱かったコンテンツ分野と質問率が最も高いコンテンツ分野に集中して、実践すべきスキルに優先順位を付けます。
 
@@ -632,17 +632,17 @@ Microsoft 認証トレーナーは、認定準備の段階で多数の候補者�
 
 **試験は英語で受験する必要がありますか?**
 
-Microsoft 認定資格試験は、さまざまな言語で提供されています。母語ではなく、英語で試験を受験する必要がある受験者は、時間の延長をリクエストできます。時間延長の承認は、状況に応じて行われます。[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft)または[Certiport](http://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm)からテストの特別な設備をリクエストします。
+Microsoft 認定資格試験は、さまざまな言語で提供されています。母語ではなく、英語で試験を受験する必要がある受験者は、時間の延長をリクエストできます。時間延長の承認は、状況に応じて行われます。[Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft)または[Certiport](https://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm)からテストの特別な設備をリクエストします。
 
 **障害をお持ちの方に対応するために、どのような設備が提供されていますか?**
 
-Microsoft では、障害をお持ちの方を含めすべての人が試験を受験できるように努めています。使用できる設備一覧については、[Accommodation page](http://www.pearsonvue.com/accommodations/)。
+Microsoft では、障害をお持ちの方を含めすべての人が試験を受験できるように努めています。使用できる設備一覧については、[Accommodation page](https://www.pearsonvue.com/accommodations/)。
 
 **受験料はいくらですか?**
 
 Expert および Associate の試験は通常 165 米ドルですが、特定の国や地域の通貨価値に従って価格設定されています。試験の価格は変更されることがあります。一部の国および地域では、追加の税金が適用される場合があります。
 
-Microsoft Office Specialist (MOS) の正確な価格については、[Certiport](http://www.certiport.com/)にお問い合わせください。
+Microsoft Office Specialist (MOS) の正確な価格については、[Certiport](https://www.certiport.com/)にお問い合わせください。
 
 - 他のすべての試験については、[すべての試験を参照](https://www.microsoft.com/learning/exam-list.aspx)から試験の価格を含む試験ページを見つけてください。
 
@@ -654,7 +654,7 @@ Microsoft Office Specialist (MOS) の正確な価格については、[Certiport
 
 特定のアイテムの技術的な正確性について懸念がある場合は、[Exam Item Challenge](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5)プロセス に従ってください。
 
-試験中に発生したテスト センターまたは技術的な問題に関する懸念を報告するには、[Pearson VUE](http://www.pearsonvue.com/microsoft/)または[Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)のカスタマー サービスまでご連絡ください。
+試験中に発生したテスト センターまたは技術的な問題に関する懸念を報告するには、[Pearson VUE](https://www.pearsonvue.com/microsoft/)または[Certiport](https://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)のカスタマー サービスまでご連絡ください。
 
 他の種類のフィードバックを提供するには、[Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx)にお問い合わせください。
 
@@ -847,7 +847,7 @@ Microsoft 試験は、試験の合計スコアを使用して合否 (つまり�
 
 Microsoft 認定資格試験は、受験者がさらなるスキルの向上が必要な領域に関するフィードバックを提供していますが、詳細または診断的なフィードバックを提供するためには作成されていません。試験詳細ページの「スキルの評価」セクションを確認し、試験での評価内容に照らして自分のスキルを率直に評価することをお勧めします。これを行う最善の方法は、示されているタスクを実際に実行して、生じた課題を記録することです。この課題を克服するまで練習を続けます。また、他の人にタスクの実行手法を聞いてみてください。他の人がタスクを実行する方法は自分の方法と異なりますか？なぜそうなるのかを確認しましょう。ホワイトペーパー、ドキュメントなどを参照して、試験に含まれるタスクに関する追加情報を入手してください。こちらの試験詳細ページで提供されている『試験対策』、そして個々の試験の詳細ページの下部にある試験グループからリソースを確認できます。
 
-さらに、[Microsoft Official Practice Tests](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) は、一部の認定試験で利用できます。演習テストの中には、特定の強みや弱みに関する詳細情報を提供するものがあります。ただし、演習テストに合格しても、認定資格試験の合格が保証されるわけではありません。
+さらに、[Microsoft Official Practice Tests](https://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) は、一部の認定試験で利用できます。演習テストの中には、特定の強みや弱みに関する詳細情報を提供するものがあります。ただし、演習テストに合格しても、認定資格試験の合格が保証されるわけではありません。
 
 **試験の再受験ポリシーはどのようなものですか？**
 

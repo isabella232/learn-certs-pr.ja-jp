@@ -23,7 +23,7 @@ Microsoftのトレーニングおよび認定資格ソリューションは、�
 
   Microsoft E-Reference Libraries は、Microsoft 製品および関連するテクノロジーの包括的なコンテンツを提供します。Microsoft Press 電子書籍の使いやすいコレクションは、インターネット接続を介してオンラインで提供され、印刷ライブラリに代わる効率的かつ費用対効果の高い選択肢を提供し、教室でのトレーニングやeラーニングコースなど、優れたコース終了後のサポートも提供します。
 
-  * [サンプルの E-Reference Library コンテンツを参照](http://mseref.safaribooksonline.com/)
+  * [サンプルの E-Reference Library コンテンツを参照](https://mseref.safaribooksonline.com/)
 
 * Microsoft 認定資格試験バウチャー
 
@@ -60,14 +60,14 @@ Microsoftのトレーニングおよび認定資格ソリューションは、�
   * School Enrollment (Campus and School Agreement に含まれる）
   * Select Plus for Academic
 
-  詳細については、アカデミック ライセンス リセラーにお問い合わせいただくか、[業界向けの　Microsoft ライセンスプログラム](http://www.microsoft.com/licensing/licensing-options/for-industries.aspx) ページをご覧ください。
+  詳細については、アカデミック ライセンス リセラーにお問い合わせいただくか、[業界向けの　Microsoft ライセンスプログラム](https://www.microsoft.com/licensing/licensing-options/for-industries.aspx) ページをご覧ください。
 
   **その他のボリュームライセンス アカデミック認定資格リソース**
 
-  * [Microsoft Imagine Academy プログラム特典ガイド](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
-  * [教育機関向けの Microsoft 認定資格データシート](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Microsoft Imagine Academy 認定資格ロードマップ](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [アカデミック ボリュームライセンス データシート用の Microsoft 認定資格試験パック](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [Microsoft Imagine Academy プログラム特典ガイド](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [教育機関向けの Microsoft 認定資格データシート](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Microsoft Imagine Academy 認定資格ロードマップ](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [アカデミック ボリュームライセンス データシート用の Microsoft 認定資格試験パック](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * その他のボリュームライセンス アカデミック eラーニング認定資格リソース
 
@@ -77,14 +77,14 @@ Microsoftのトレーニングおよび認定資格ソリューションは、�
 
   Microsoftは、現在ボリュームライセンスにおける eラーニングの販売を行っておりません。次のリソースは、既存の契約で eラーニングコンテンツをまだ使用しているお客様向けのものです。これらは、ボリュームライセンスの eラーニング購入の展開、構成、および管理をサポートすることを目的としています。
 
-  * [オンライン使用のためのボリュームライセンス オンライン サービス管理ガイド](http://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
-  * [オンライン使用のためのボリュームライセンス エンドユーザー/学生向けガイド](http://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
-  * [E-Learning Activation Demo](http://www.microsoft.com/learning/_silverlight/vl/vl.htm)
-  * [オンライン使用のための Business Administration Center ガイド](http://www.microsoft.com/learning/_silverlight/bac/bac.htm)
-  * [Microsoft Imagine Academy プログラム](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
-  * [教育機関向けの Microsoft 認定資格](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Microsoft Imagine Academy 認定資格ロードマップ](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [アカデミック ボリュームライセンス用の Microsoft 認定資格試験パック](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [オンライン使用のためのボリュームライセンス オンライン サービス管理ガイド](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
+  * [オンライン使用のためのボリュームライセンス エンドユーザー/学生向けガイド](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
+  * [E-Learning Activation Demo](https://www.microsoft.com/learning/_silverlight/vl/vl.htm)
+  * [オンライン使用のための Business Administration Center ガイド](https://www.microsoft.com/learning/_silverlight/bac/bac.htm)
+  * [Microsoft Imagine Academy プログラム](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [教育機関向けの Microsoft 認定資格](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Microsoft Imagine Academy 認定資格ロードマップ](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [アカデミック ボリュームライセンス用の Microsoft 認定資格試験パック](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * お問い合わせ
 
@@ -147,7 +147,7 @@ Microsoft トレーニングおよび認定資格ソリューションは、Micr
 
 Microsoft トレーニングおよび認定資格ソリューションは、1階層の単一パッケージ価格を提供します。Microsoft トレーニングおよび認定資格ソリューションパッケージは、12 か月のサブスクリプションとして注文するか、基本契約に残っている月数に基づいて比例配分されます。ボリュームライセンス オンライン サービスの他のプログラムに必要となる個別の User Subscription License (USL) または Add-on Subscription License (ASL) は必要ありません。
 
-**注**Microsoft トレーニングおよび認定資格ソリューションを 12 か月のサブスクリプションとして注文した場合、追加の注文は最初の 12 か月のサブスクリプション注文と同時に失効します。[オンライン サービスガイドをご覧ください](http://www.microsoft.com/learning/_silverlight/bac/bac.htm)。
+**注**Microsoft トレーニングおよび認定資格ソリューションを 12 か月のサブスクリプションとして注文した場合、追加の注文は最初の 12 か月のサブスクリプション注文と同時に失効します。[オンライン サービスガイドをご覧ください](https://www.microsoft.com/learning/_silverlight/bac/bac.htm)。
 
 **Q: いくつのコードを取得する必要がありますか？**
 
@@ -180,7 +180,7 @@ Microsoft トレーニングおよび認定資格ソリューションは、1階
 
 **Q: 機関を MCP テストセンターにしたいのですが、どうすればよいですか？**
 
-Microsoft IT 認定資格および MCP サイトパック試験を実施する場合は、ピアソン VUE の Web サイトにアクセスして、組織が [ピアソン VUE テストセンター](http://www.pearsonvue.com/microsoft)になる方法をご確認ください。MOS および MTA 認定資格試験は、Certiport を通じて提供されます。
+Microsoft IT 認定資格および MCP サイトパック試験を実施する場合は、ピアソン VUE の Web サイトにアクセスして、組織が [ピアソン VUE テストセンター](https://www.pearsonvue.com/microsoft)になる方法をご確認ください。MOS および MTA 認定資格試験は、Certiport を通じて提供されます。
 
 **Q: MCP クラスパックはどのように満たされますか？**
 
@@ -188,7 +188,7 @@ Microsoft IT 認定資格および MCP サイトパック試験を実施する�
 
 **Q: MOS または MTA サイト ライセンスを展開するための要件は何ですか？**
 
-MOS または MTA サイトパックの利点を活用し、MOS または MTA 試験を実施する機関は、登録済みの Certiport 認定テストセンターであり、[Certiport Web サイト](http://www.certiport.com/Portal/desktopdefault.aspx?page=common/pagelibrary/techRequirements.htm)に掲載されている技術要件に準拠している必要があります。機関が Certiport 認定テストセンターではない場合、[Certiport テストセンターになる](https://www.certiport.com/PORTAL/desktopdefault.aspx?tabid=682&roleid=101)のプロセスを実行する必要があります。
+MOS または MTA サイトパックの利点を活用し、MOS または MTA 試験を実施する機関は、登録済みの Certiport 認定テストセンターであり、[Certiport Web サイト](https://www.certiport.com/Portal/desktopdefault.aspx?page=common/pagelibrary/techRequirements.htm)に掲載されている技術要件に準拠している必要があります。機関が Certiport 認定テストセンターではない場合、[Certiport テストセンターになる](https://www.certiport.com/PORTAL/desktopdefault.aspx?tabid=682&roleid=101)のプロセスを実行する必要があります。
 
 **Q: ボリュームライセンスを通じて MOS または MTA サイトパックを注文した後、どのように試験バウチャーへのアクセスが通知されますか？**
 
