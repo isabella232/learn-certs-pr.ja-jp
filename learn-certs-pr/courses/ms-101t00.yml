@@ -1,0 +1,201 @@
+### YamlMime:Course
+title: Microsoft 365 Mobility and Security
+metadata:
+  title: 'Course MS-101T00-A: Microsoft 365 Mobility and Security'
+  description: 'Course MS-101T00-A: Microsoft 365 Mobility and Security'
+uid: course.ms-101t00
+courseNumber: 'MS-101T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Microsoft 365 のセキュリティ メトリックス
+- skill: Microsoft 365 のセキュリティ サービス
+- skill: Microsoft 365 の脅威インテリジェンス
+- skill: Microsoft 365 におけるデータ ガバナンス
+- skill: Office 365 におけるアーカイブおよび保持
+- skill: Microsoft 365 のインテリジェンスにおけるデータ ガバナンス
+- skill: 検索および調査
+- skill: デバイス管理
+- skill: Windows 10 のデプロイ戦略
+- skill: モバイル デバイスの管理
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  このコースでは、Microsoft 365 によるエンタープライズ管理の 3つの主な要素、すなわち、Microsoft 365 セキュリティ管理、Microsoft 365 コンプライアンス管理、および Microsoft 365 デバイス管理を取り上げます。
+  「Microsoft 365 セキュリティ管理」では、今日、組織が直面する脅威ベクトルとデータ侵害の主な種類をすべて検討し、Microsoft 365 のセキュリティ ソリューションがこれらのセキュリティ上の脅威にどう対処するかについて学習します。学習者は、Microsoft セキュア スコアおよび Azure Active Directory Identity Protection の概要を学習します。また、Exchange Online Protection、Advanced Threat Protection、安全な添付ファイル、安全なリンクを始めとする Microsoft 365 のセキュリティ サービスの管理方法についても学習します。最後に、セキュリティ正常性を監視するさまざまなレポートの概要を学習します。その後、セキュリティ サービスから脅威インテリジェンスへと移行します。具体的には、セキュリティ ダッシュボードと Advanced Threat Analytics を使用して起こり得るセキュリティ違反に対する事前準備について学習します。
+  Microsoft 365 のセキュリティ コンポーネントがしっかりと揃った状態で、Microsoft 365 コンプライアンス管理の主な構成要素を検討します。これを、データのアーカイブと保持、Information Rights Management、セキュアな多目的のインターネット メール拡張機能 (S/MIME)、Office 365 のメッセージ暗号化、データ損失防止　(DLP) を含めたデータ ガバナンスの主な側面のすべての概要から始め、順に見ていきます。次に、SharePoint におけるインプレースのレコード管理、Exchange におけるアーカイブと保持、およびセキュリティおよびコンプライアンス センターにおける保持ポリシーに特に注意しつつ、アーカイブと保持についてさらに深く掘り下げます。
+  さて、データ ガバナンスの主な側面を理解しましたので、Exchange Online における倫理的境界の構築、ビルトイン テンプレートからの DLP ポリシーの作成、カスタム DLP ポリシーの作成、ドキュメント保護のための DLP ポリシーの作成、ポリシー ヒントの作成を含めて、データ ガバナンスの主な側面を実施する方法を検討します。次に、電子メールにおける保持の管理、機能しない保持のポリシーおよびポリシー ヒントのトラブルシューティング、機微なデータについてのトラブルシューティングを含めた Microsoft 365 におけるデータガバナンスの管理に焦点を当てます。その後、Azure Information Protection と Windows Information Protection の実装方法を学習します。最後に、セキュリティおよびコンプライアンス センターにおけるコンテンツの検索、監査ログの調査、および Advanced eDiscovery の管理を含めた検索および調査の管理方法を学習して、このセクションを修了します。
+  このコースは、Microsoft 365 デバイス管理の詳細な検討をもって終了します。Windows 10 を搭載したデバイスの共同管理へ向けての準備を含め、デバイス管理のさまざまな側面を計画することから始めます。Configuration Manager から Intune への移行方法、また、ビジネス向け Microsoft Store およびモバイル アプリケーション管理の概要を学習します。、この時点で、デバイス管理の計画から実施に移ります。具体的には Windows 10 のデプロイ戦略です。これには、Windows Autopilot、Windows Analytics、およびモバイル デバイス管理 (MDM) の実装方法のが学習が含まれます。MDM について検討する際は、そのデプロイ方法、MDM へのデバイスの登録方法、そしてデバイスのコンプライアンスの管理方法を学習します。
+
+  #### 聴衆プロファイル
+  このコースは、 Microsoft 365 Enterprise Admin ロールを希望し、 Microsoft 365 ロールベースの管理者認定パスの 1 つを終了したユーザーを対象としています。
+prerequisitesSection: |-
+  - Messaging、Teamwork、Security and Compliance、またはCollaboration などのロールベース管理者コースを修了。
+  - DNS に関する十分な理解、および Microsoft 365 サービスの基本的機能の経験。
+  - 一般的な IT プラクティスに対する十分な理解。
+outlineSection: |-
+  ### モジュール 1&#58; Microsoft 365 のセキュリティ メトリックス入門
+  #### レッスン
+  - 脅威ベクトルとデータ侵害
+  - Microsoft 365 におけるセキュリティ ソリューション
+  - セキュア スコアの概要
+  - Azure Active Directory Identity Protection の概要
+
+
+  ### モジュール 2&#58; Microsoft 365 のセキュリティ サービスの管理
+  #### レッスン
+  - Exchange Online Protection の概要
+  - Advanced Threat Protection の概要
+  - Safe Attachments の管理
+  - Safe Links の管理
+  - 監視およびレポート
+
+
+  ### モジュール 3&#58; ラボ1 - Microsoft 365 のセキュリティ サービスの管理
+
+  #### ラボ&#58; Microsoft 365 のセキュリティ サービスの管理
+  - 演習 1 - Microsoft 365 Trial テナントのセットアップ
+  - エクササイズ2 - ATP の安全なリンク ポリシーおよび安全な添付ファイル ポリシーの実施
+
+
+  ### モジュール 4&#58; Microsoft 365 の脅威インテリジェンス
+  #### レッスン
+  - Microsoft 365 の脅威インテリジェンスの概要
+  - セキュリティダッシュボードの使用
+  - Advanced Threat Analytics の構成
+  - クラウド アプリケーション セキュリティの実装
+
+
+  ### モジュール 5&#58; ラボ2 - セキュリティ ダッシュボードを用いたアラート通知の実装
+
+  #### ラボ&#58; セキュリティ ダッシュボードを用いてアラート通知を実装する
+  - エクササイズ1 - アラート ポリシーの実施の準備
+  - エクササイズ2 - セキュリティ アラート通知の実装
+  - エクササイズ3 - グループ アラートの実装
+  - エクササイズ4 - 電子情報開示アラートの実装
+
+
+  ### モジュール 6&#58; Microsoft 365 のデータガバナンス概要
+  #### レッスン
+  - Microsoft 365 のアーカイブ概要
+  - Microsoft 365 の保存概要
+  - 情報権管理の概要
+  - 多目的インターネットメール拡張のセキュリティ保護概要
+  - Office 365 のメッセージ暗号化概要
+  - データ損失予防概要
+
+
+  ### モジュール7&#58; Office 365 におけるアーカイブおよび保持
+  #### レッスン
+  - SharePoint における In-Place Records 管理
+  - Exchange におけるアーカイブと保存
+  - SCC の保存ポリシー
+
+
+  ### モジュール8&#58; ラボ3 - アーカイブおよび保持の実装
+
+  #### ラボ&#58; アーカイブおよび保持の実装
+  - エクササイズ1 - 組織内のコンプライアンスの初期化
+  - エクササイズ2 - 保持タグおよびポリシーの構成
+  - エクササイズ3 - 保持ポリシーの実施
+
+
+  ### モジュール 9&#58; Microsoft 365 Intelligence における Data Governance の実装
+  #### レッスン
+  - セキュリティおよびコンプライアンスのニーズの計画
+  - Exchange Online におけるEthical Walls の構築
+  - Built-in Template から Simple DLP Policy を作成
+  - Custom DLP Policy の作成
+  - DLP Policy を Protect Documents に作成
+  - Policy Tips で作業
+
+
+  ### モジュール10&#58; ラボ4 - DLP ポリシーの実施
+
+  #### ラボ&#58; DLP ポリシーの実施
+  - エクササイズ1 - DLPポリシーの管理
+  - エクササイズ2 - MRM および DLP ポリシーのテスト
+
+
+  ### モジュール 11&#58; Microsoft 365 における Data Governance の管理
+  #### レッスン
+  - 電子メールにおける保存の管理
+  - Data Governance のトラブルシューティング
+  - Azure Information Protection の実装
+  - AIP の高度な機能の実装
+  - Windows Information Protection の実装
+
+
+  ### モジュール12&#58; ラボ5 - AIP および WIP の実装
+
+  #### ラボ&#58; AIP および WIP の実装
+  - エクササイズ1 - Azure Information Protection の実装
+  - エクササイズ2 - Windows Information Protection の実装
+
+
+  ### モジュール 13&#58; Search and Investigations の管理
+  #### レッスン
+  - セキュリティおよびコンプライアンスセンターにおけるコンテンツの検索
+  - Log Investigations の監査
+  - Advanced eDiscovery の管理
+
+
+  ### モジュール14&#58; ラボ6 - 検索および調査の管理
+
+  #### ラボ&#58; 検索および調査の管理
+  - エクササイズ1 - Microsoft 365 のデータの調査
+  - エクササイズ2 - データ主体の要求の構成およびデプロイ
+
+
+  ### モジュール 15&#58; デバイス管理の計画
+  #### レッスン
+  - 共同管理の概要
+  - 共同管理用の Windows 10 デバイスの準備
+  - Configuration Manager から Intune への移行
+  - ビジネス向け Microsoft Store 入門
+  - Mobile Application Management の計画
+
+
+  ### モジュール16&#58; ラボ7 - ビジネス向け Microsoft Store の実装
+
+  #### ラボ&#58; ビジネス向け Microsoft Store の実装
+  - エクササイズ1 -ビジネス向け Microsoft Store の構成
+  - エクササイズ2 - ビジネス向け Microsoft Store の管理
+
+
+  ### モジュール 17&#58; Windows 10 展開戦略の計画
+  #### レッスン
+  - Windows 10 展開シナリオ
+  - Windows Autopilot の実装
+  - Windows 10 サブスクリプション有効化戦略の計画
+  - Windows 10 アップグレードエラーの解決
+  - Windows Analytics の概要
+
+
+  ### モジュール 18&#58; Mobile Device Management の実装
+  #### レッスン
+  - Mobile Device Management の計画
+  - Mobile Device Management の展開
+  - MDM へのデバイス登録
+  - Device Compliance の管理
+
+
+  ### モジュール19&#58; ラボ8 - Intune によるデバイス管理
+
+  #### ラボ&#58; Intune によるデバイス管理
+  - エクササイズ1 - デバイス管理を有効にする
+  - エクササイズ2 - Intune のための Azure AD の構成する
+  - エクササイズ3 - Intune ポリシーの作成
+  - エクササイズ4 - Windows 10 を搭載したデバイスの登録
+  - エクササイズ5 - Intune 内でのデバイスの管理と監視

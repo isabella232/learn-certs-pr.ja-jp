@@ -1,24 +1,29 @@
 ### YamlMime:Examination
 title: Microsoft Azure Architect Design
 metadata:
-  title: '試験 AZ-301: Microsoft Azure Architect Design'
-  description: '試験 AZ-301: Microsoft Azure Architect Design'
+  title: 'Exam AZ-301: Microsoft Azure Architect Design'
+  description: 'Exam AZ-301: Microsoft Azure Architect Design'
 uid: exam.az-301
 displayName: AZ-301
-summary: この試験の受験者は、ビジネス上の要求をセキュアで拡張可能な信頼できるソリューションに置き換えて関係者へアドバイスを行う Azure ソリューションアーキテクトです。受験者は、ネットワーキング、仮想化、アイデンティティ、セキュリティ、ビジネス継続性、災害リカバリ、データ管理、予算管理、ガバナンスを含む IT 操作の各種方面についての経験と知識を卓越して持っている必要があります。このロールには、各エリアがソリューション全体にどのように影響するかの判断の管理が求められます。受験者は Azure 管理、Azure 開発、DevOps の卓越性の内の少なくとも一つのドメインでのエキスパート レベルのスキルを持っている必要があります。
-subTitle: この試験では、負荷分散必須要件の特定、アイデンティティとセキュリティの設計、データプラットフォームソリューションの設計、ビジネス継続性戦略の設計、デプロイメント・マイグレーション・インテグレーションの設計、インフラストラクチャ戦略の設計、という技術的なタスクを遂行する能力を測定します。
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>本試験の新バージョン AZ-304 は、 2020年4月28日前後に受験できるようになります。本試験は、 2020年7月28日前後に終了するまで、受験することができます。以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
+  
+  この試験の受験者は、ビジネス上の要求をセキュアで拡張可能な信頼できるソリューションに置き換えて関係者へアドバイスを行う Azure ソリューションアーキテクトです。受験者は、ネットワーキング、仮想化、アイデンティティ、セキュリティ、ビジネス継続性、災害リカバリ、データ管理、予算管理、ガバナンスを含む IT 操作の各種方面についての経験と知識を卓越して持っている必要があります。このロールには、各エリアがソリューション全体にどのように影響するかの判断の管理が求められます。受験生は Azure 管理、Azure 開発、DevOps の卓越性の内の少なくとも一つのドメインでのエキスパート レベルのスキルを持っている必要があります。
+subTitle: 'この試験では、負荷分散必須要件の特定、アイデンティティとセキュリティの設計、データプラットフォームソリューションの設計、ビジネス継続性戦略の設計、デプロイメント・マイグレーション・インテグレーションの設計、インフラストラクチャ戦略の設計、という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-301?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-301&examname=Exam%20AZ-301:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-301
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-301&examname=試験%20AZ-301:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-301
 levels:
 - advanced
 skills:
+- 本試験の新バージョン AZ-304 は、 2020年4月28日前後から受験できます。本試験は、 2020年7月28日前後に終了するまで、受験することができます。以下のスキル査定ドキュメントをダウンロードして、これからの変更点をご確認ください。
+- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
 - 負荷分散必須要件の特定 (10-15%)
 - アイデンティティとセキュリティの設計 (20-25%)
 - データプラットフォームソリューションの設計 (15-20%)
@@ -27,8 +32,6 @@ skills:
 - インフラストラクチャ戦略の設計 (15-20%)
 roles:
 - solution-architect
-exams:
-- uid: exam.az-300
 products:
 - azure
 - azure-active-directory
@@ -51,6 +54,8 @@ products:
 - azure-cosmos-db
 - azure-sql-database
 - azure-event-hubs
+exams:
+- uid: exam.az-300
 courses:
 - uid: course.az-301t01
 - uid: course.az-301t02
@@ -71,24 +76,27 @@ relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
-- title: 認定資格の学習経路
-  description: 'Microsoft 認定資格のトレーニングリソースを探す: Azure Solutions Architect Expert。'
+- title: 認定の学習経路
+  description: 'Microsoft Certified: Azure Solutions Architect Expert。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 試験リプレイ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: ../help.md
-- title: 認定資格ダッシュボード
-  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+- title: 認定ダッシュボード
+  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
-  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 特別な設備のリクエスト
+  description: 試験に特別な設備をリクエストする場合の詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
-  description: 試験ポリシーとよくある質問をご確認ください。
+  description: 試験ポリシーとよく寄せられる質問を確認してください。
   href: ../certification-exam-policies.md

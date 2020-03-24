@@ -1,0 +1,125 @@
+### YamlMime:Course
+title: Managing Microsoft Teams
+metadata:
+  title: 'Course MS-700T00-A: Managing Microsoft Teams'
+  description: 'Course MS-700T00-A: Managing Microsoft Teams'
+uid: course.ms-700t00
+courseNumber: 'MS-700T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Microsoft Teams とは何か？ そしてコンポーネントはどのようにしてともに機能するのか？
+- skill: Microsoft Teams のガバナンス、セキュリティ、およびコンプライアンスの実装方法
+- skill: 組織の環境を Microsoft Teams のデプロイへ向けて準備する方法
+- skill: Teams のデプロイおよび管理の方法
+- skill: Microsoft Teams 内でのコラボレーションの管理の方法
+- skill: Microsoft Teams 内の通信の管理およびトラブルシューティングの技術
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-700
+summary: |-
+  「Microsoft Teams の管理」のコースは、Microsoft 365 Teams の管理者の役割を志す人を対象に作成されています。
+  Microsoft Teams Administrators は、企業環境における効率的で効果的なコラボレーションとコミュニケーションに重点を置いた Microsoft Teams 向けに Office 365 ワークロードを構成、展開、および管理します。
+  このコースでは、6つの中心的な要素、すなわち Microsoft Teams の概要、Microsoft Teams のためのガバナンス、セキュリティ、コンプライアンスの実装、Microsoft Teams のデプロイへ向けての環境の準備、Teams のデプロイおよび管理、コラボレーションの管理、そして Microsoft Teams 内での通信の管理を取り上げます。
+  「Microsoft Teams の概要」では、Teams のアーキテクチャおよび関連する Office 365 のワークロードを含めた Microsoft Teams の概要を学習します。Microsoft Teams におけるセキュリティとコンプライアンスの概要についての説明があり、最終的に、Microsoft Teams の管理方法の概要を学習します。
+  「Microsoft Teams のためのガバナンス、セキュリティ、およびコンプライアンスの実装」では、有効期限切れおよび命名ポリシーを含めた Office 365 グループのガバナンスを計画し、構成します。次に、Microsoft Teams のための条件付きアクセス、MFA、または脅威管理を構成することにより、セキュリティを実装します。最後に、DLP ポリシー、電子情報開示の事例、または監督ポリシーの使用により、Teams のコンプライアンスを実装します。
+  「Microsoft Teams のデプロイへ向けての環境の準備」では、共存とアップグレード モードによってアップグレードの選択肢を評価することにより、Skype for Business から Microsoft Teams へのアップグレードを計画するとともに、ミーティングの移行、共存の構成、およびアップグレードの設定を管理します。次に Microsoft Teams のためのネットワーク設定を計画・構成し、最終的には Microsoft Teams のエンドポイントをデプロイして管理します。
+  「Teams のデプロイおよび管理」では、チームの作成と管理の方法を学習し、組織の内外のユーザーのメンバーシップとアクセスを管理します。
+  「Microsoft Teams 内でのコラボレーションの管理」では、チャット、およびチーム設定やプライベート チャネル作成のポリシーのようなコラボレーション エクスペリエンスを管理します。最後に、アプリ セットアップ ポリシー、アプリ、Microsoft Teams 内のボットおよびコネクタのような Teams アプリの設定を管理し、または Microsoft Teams 内でカスタム アプリを発行します。
+  このコースは 「Microsoft Teams 内での通信の管理」をもって修了します。ライブ イベントおよびミーティング エクスペリエンスの管理方法、Microsoft Teams のための電話番号または電話システムの管理方法、さらに最終的にはオーディオ、動画、およびクライアントの問題のトラブルシューティングの方法を学習します。
+
+  ####聴衆プロファイル
+  このコースの受講者としては、Microsoft Teams に関心がある人、または Microsoft Teams 管理者アソシエイト認定試験への合格を目指す人を想定しています。
+prerequisitesSection: |-
+  - に関する十分な理解、Microsoft 365サービスの基本的機能の経験。
+  - PowerShell の使用を含めた一般的な IT プラクティスの熟練者としての理解
+outlineSection: |-
+  ### モジュール 1&#58; Microsoft Teams の概要
+  「Microsoft Teams の概要」では、Teams のアーキテクチャおよび関連する Office 365 のワークロードを含めた Microsoft Teams の概要を学習します。Microsoft Teams におけるセキュリティとコンプライアンスの概要についての説明があり、最終的に、Microsoft Teams の管理方法の概要を学習します。
+  #### レッスン
+  - Microsoft Teams の概要
+  - Microsoft Teams におけるセキュリティおよびコンプライアンスの概要
+  - Microsoft Teams の管理の概要
+
+
+  #### ラボ&#58; 役割を管理し、チームを作成する
+  - チームの役割とライセンスを準備する
+  - 新しいチームを作成する
+
+
+  ### モジュール 2&#58; Microsoft Teams のためのガバナンス、セキュリティ、およびコンプライアンスの実装
+  「Microsoft Teams のためのガバナンス、セキュリティ、およびコンプライアンスの実装」では、有効期限切れおよび命名ポリシーを含めた Office 365 グループのガバナンスを計画し、構成します。次に、Microsoft Teams のための条件付きアクセス、MFA、または脅威管理を構成することにより、セキュリティを実装します。最後に、DLP ポリシー、電子情報開示の事例、または監督ポリシーの使用により、Teams のコンプライアンスを実装します。
+  #### レッスン
+  - Microsoft Teams のためのガバナンスとライフサイクル管理を実装する
+  - Microsoft Teams のためのセキュリティを実装する
+  - Microsoft Teams のためのコンプライアンスを実装する
+
+
+  #### ラボ&#58; チームおよびコンテンツのためのセキュリティおよびコンプライアンスを構成する
+  - Microsoft Teams のためのガバナンスとライフサイクル管理を実装する
+  - Microsoft Teams のためのセキュリティを実装する
+  - Microsoft Teams のためのコンプライアンスを実装する
+
+
+  ### モジュール 3&#58; Microsoft Teams のデプロイへ向けての環境の準備
+  「Microsoft Teams のデプロイへ向けての環境の準備」では、共存とアップグレード モードによってアップグレードの選択肢を評価することにより、Skype for Business から Microsoft Teams へのアップグレードを計画するとともに、ミーティングの移行、共存の構成、およびアップグレードの設定を管理します。次に Microsoft Teams のためのネットワーク設定を計画・構成し、最終的には Microsoft Teams のエンドポイントをデプロイして管理します。
+  #### レッスン
+  - Skype for Business から Microsoft Teams へアップグレードする
+  - Microsoft Teams のためのネットワーク設定を計画し、構成する
+  - Microsoft Teams のエンドポイントをデプロイし、管理する
+
+
+  #### ラボ&#58; Teams のための環境の準備
+  - ネットワークの処理能力を計算する
+  - 構成プロファイルを評価する
+  - チームのリソースを提供する
+
+
+  ### モジュール 4&#58; Teams のデプロイおよび管理
+  「Teams のデプロイおよび管理」では、チームの作成と管理の方法を学習し、組織の内外のユーザーのメンバーシップとアクセスを管理します。
+  #### レッスン
+  - チームを作成し、管理する
+  - メンバーシップを管理する
+  - 外部ユーザーのアクセスを管理する
+
+
+  #### ラボ&#58; チームを管理する
+  - チームのリソースを管理する
+  - 共有およびアクセスを管理する
+
+
+  ### モジュール5&#58; Microsoft Teams 内でのコラボレーションの管理
+  「Microsoft Teams 内でのコラボレーションの管理」では、チャット、およびチーム設定やプライベート チャネル作成のポリシーのようなコラボレーション エクスペリエンスを管理します。最後に、アプリ セットアップ ポリシー、アプリ、Microsoft Teams 内のボットおよびコネクタのような Teams アプリの設定を管理し、または Microsoft Teams 内でカスタム アプリを発行します。
+  #### レッスン
+  - チャット、およびコラボレーション エクスペリエンスを管理する
+  - Teams アプリのための設定を管理する
+
+
+  #### ラボ&#58; - Teams のためのコラボレーション設定を修正する
+  - チャネルおよびメッセー ポリシーを構成する
+  - チームのためのアプリ設定を管理する
+
+
+  ### モジュール 6&#58; Microsoft Teams 内での通信の管理
+  このコースは 「Microsoft Teams 内での通信の管理」をもって修了します。ライブ イベントおよびミーティング エクスペリエンスの管理方法、Microsoft Teams のための電話番号または電話システムの管理方法、さらに最終的にはオーディオ、動画、およびクライアントの問題のトラブルシューティングの方法を学習します。
+  #### レッスン
+  - ライブ イベントおよびミーティング エクスペリエンスを管理する
+  - 電話番号を管理する
+  - Microsoft Teams のための電話システムを管理する
+  - オーディオ、動画、およびクライアントの問題のトラブルシューティングを行う
+
+
+  #### ラボ&#58; Teams のための通信の設定を修正する
+  - 会議ポリシーを構成します。
+  - Microsoft Teams のための電話システムを管理する
+  - オーディオ、動画、およびクライアントの問題のトラブルシューティング
