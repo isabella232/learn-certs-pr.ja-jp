@@ -2,28 +2,30 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: Microsoft 365 Enterprise Administrators は、Microsoft 365 サービスの審査、事前計画、マイグレーション、デプロイ、管理を行います。
+  description: Microsoft 365 Enterprise Administratorは、Microsoft 365サービスの評価、計画、移行、展開、および管理に参加します。
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: Microsoft 365 Enterprise Administrators は、Microsoft 365 サービスの審査、事前計画、マイグレーション、デプロイ、管理を行います。
+summary: |-
+  Microsoft 365 Enterprise Administrators は、Microsoft 365 サービスの審査、事前計画、マイグレーション、デプロイ、管理を行います。
+  
+  <div style='color&#58; red;'><br/>MCSE Productivity solutions Expert Certification は、 2020年6月30日に終了します。そのため、 MCSE Productivity solutions Expert Certification は、 2020年6月30日以降、Microsoft 365 Certified: Enterprise Administrator Expert Certification の前提条件オプションとして認定されません。(MCSE の終了後 1 年)。</div>
 subTitle: Microsoft 365 Enterprise Administrators は、Microsoft 365 サービスの審査、事前計画、マイグレーション、デプロイ、管理を行います。
 levels:
 - advanced
 skills:
-- Microsoft 365サービスを設計と実装する
-- ユーザーIDと役割を管理する
-- アクセスと認証を管理する
-- Office 365のワークロードとアプリケーションを計画する
-- 最新のデバイスサービスを実装する
-- Microsoft 365のセキュリティと脅威管理を実装する
-- Microsoft 365のガバナンスとコンプライアンスを管理する
+- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
+- Microsoft 365 services を設計して実装します
+- ユーザーのアイデンティティとロールを管理します
+- アクセスと認証を管理します
+- Office 365 workloads and applications を計画します
+- 最新のデバイス サービスを実装します
+- Microsoft 365のセキュリティと脅威管理を実装します
+- Microsoft 365 のガバナンスとコンプライアンスを管理します
 roles:
 - administrator
 type: role-based
 products:
 - m365
-- azure-active-directory
-- office-365
 courses:
 - uid: course.ms-100t01
 - uid: course.ms-100t02
@@ -50,17 +52,17 @@ exams:
 - uid: exam.ms-101
 resources:
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
-  description: 基礎、ロールベースおよび専門認定資格の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oMr2
-- title: 試験リプレイ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
-- title: 認定資格ダッシュボード
-  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+- title: 認定ダッシュボード
+  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
   href: https://www.microsoft.com/learning/dashboard.aspx

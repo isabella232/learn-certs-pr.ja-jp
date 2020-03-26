@@ -1,54 +1,60 @@
 ### YamlMime:Examination
 title: Microsoft Azure Integration and Security
 metadata:
-  title: '試験 AZ-101: Microsoft Azure Integration and Security'
-  description: '試験 AZ-101: Microsoft Azure Integration and Security'
+  title: 'Exam AZ-101: Microsoft Azure Integration and Security'
+  description: 'Exam AZ-101: Microsoft Azure Integration and Security'
 uid: exam.az-101
 displayName: AZ-101
-summary: この試験の受験者は、ストレージ、セキュリティ、ネットワーキング、コンピューティング Cloud機能にまたがる Cloud サービスを管理する Azure 管理者です。受験者は、ITライフサイクルの各サービスに精通しており、インフラストラクチャ サービス、アプリケーション、および環境の依頼を受けます。適切なリソースのプロビジョニング、サイズ設定、監視、調整と同様、最適なパフォーマンスおよび規模で使用するサービを推奨します。この試験の受験者は、PowerShell、Command Line Interface、Azure Portal、ARM テンプレート、オペレーティング システム、仮想化、Cloud インフラストラクチャ、ストレージ構造、およびネットワーキングに習熟している必要があります。
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>この試験の内容は、2019 年 5 月 1 日に廃止されました。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます<br/></div>
+  
+  この試験の受験生は、ストレージ、セキュリティ、ネットワーキング、コンピューティング クラウド機能にまたがるクラウド サービスを管理する Azure 管理者です。受験生は、ITライフサイクルの各サービスに精通しており、インフラストラクチャ サービス、アプリケーション、および環境の依頼を受けます。適切なリソースのプロビジョニング、サイズ設定、監視、調整と同様、最適なパフォーマンスおよび規模で使用するサービスを推奨します。この試験の受験生は、PowerShell、Command Line Interface、Azure Portal、ARM テンプレート、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、およびネットワーキングに習熟している必要があります。
 subTitle: この試験では、IDの保護、Azure へのサーバ移行の評価と実施、アプリケーションサービスの実装と管理、高度な仮想ネットワークの実装という技術タスクを遂行する能力を評価します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6M
-practiceTestUrl: https://www.mindhub.com/product-p/mu-az-101_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/shop/microsoft?facetValueFilter=tenant~publisher:measureup&?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/
-retirementDate: 05/01/2019
 levels:
 - intermediate
 skills:
-- Azure へのサーバ移行を評価して実行する（15-20%）
-- アプリケーションサービスの実装と管理（20-25%）
-- 高度な仮想ネットワークを実装する（30-35%）
-- ID の保護（25-30%）
+- Azure へのサーバ移行を評価して実行する(15-20%)
+- アプリケーションサービスの実装と管理(20-25%)
+- 高度な仮想ネットワークを実装する(30-35%)
+- ID の保護(25-30%)
+retirementDate: 05/01/2019
 roles:
 - administrator
+products:
+- azure
 exams:
 - uid: exam.az-100
 - uid: exam.az-102
-products:
-- azure
 paths:
 - uid: learn.cloud-foundations
 relatedCertifications:
 - related:
     uid: certification.azure-administrator
 resources:
-- title: 認定資格の学習経路
-  description: 'Microsoft 認定資格のトレーニング リソースを探す: Azure Administrator Associate.'
+- title: 認定の学習経路
+  description: 'Microsoft Certified: Azure Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: 資格試験のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: ../help.md
-- title: 認定資格ダッシュボード
-  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+- title: 認定ダッシュボード
+  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
+- title: 特別な設備のリクエスト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
-  description: 試験ポリシーとよくある質問をご確認ください。
+  description: 試験ポリシーとよく寄せられる質問を確認してください。
   href: ../certification-exam-policies.md

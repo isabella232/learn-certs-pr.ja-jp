@@ -1,0 +1,170 @@
+### YamlMime:Course
+title: Building applications and solutions with Microsoft 365 core services
+metadata:
+  title: 'Course MS-600T00-A: Building applications and solutions with Microsoft 365 core services'
+  description: 'Course MS-600T00-A: Building applications and solutions with Microsoft 365 core services'
+uid: course.ms-600t00
+courseNumber: 'MS-600T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Microsoft Identity の実装
+- skill: Microsoft Graph での作業
+- skill: ワークロードのプラットフォーム ターゲットの決定
+- skill: Microsoft Teams、Office アドイン、および SharePoint Framework を含めた統合ポイント
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-600
+summary: |-
+  このコースでは、Microsoft 365 プラットフォームの 5つの中心的な要素、すなわち、Microsoft Identity の実装、Microsoft Graph での作業、SharePoint の拡張とカスタマイズ、Teams の拡張、および Office の拡張を取り上げます。
+  このコースでは、Microsoft Identity の実装方法、および Microsoft Graph での作業について学習します。また、UI 要素 (Adaptive Cards および UI Fabric を含む)、統合ポイント (Microsoft Teams、Office アドイン、SharePoint Framework、アクション可能メッセージを含む)、そしてワークロードのプラットフォーム ターゲットの決定についての知識をも取得します。
+  「Microsoft Identity の実装」では、アプリケーションの登録、認証の埋め込み、API の消費の許可の構成、および Microsoft Graph にアクセスするサービスの作成を含めた Microsoft Identity の実装方法を学習します。
+  「Microsoft Graph での作業」では、ユーザー データへのアクセス、クエリ パラメータの探索、グループ ライフサイクルの管理、ファイルへのアクセス、そして Microsoft Graph を使用してのネットワーク トラフィックの最適化の方法を学習します。
+  「SharePoint の拡張およびカスタマイズ」では、SharePoint Framework の Web パーツ、拡張機能、そして SPFx ソリューションをパッケージ化しデプロイする方法について学習します。
+  「Teams の拡張」では、Teams アプリのコンポーネント、Webhook タブ、および会話ボットでの作業について見ていきます。
+  「Office の拡張」では、Office アドイン、作業ウィンドウ アドイン、JavaScript API、Office UI Fabric、および Adaptive Cards 付きのアクション可能メッセージで作業を行います。
+
+  #### 聴衆プロファイル
+  このコースの受講者としては、Microsoft 365 開発プラットフォームに関心がある人、または Microsoft 365 開発者アソシエイト認定試験への合格を目指す人を想定しています。また、受講者には 1～2年の開発者としての経験が必要です。このコースでは、受講者がコードを書く方法を知っており、また、REST API、JSON、OAuth2、OData、OpenID Connect、Azure AD および Microsoft アカウントを含めた Microsoft の ID、Azure AD B2C、そしてアクセス許可/同意の概念の基本を理解していることを想定しています。
+prerequisitesSection: |-
+  - 学生は開発者としての経験が 1 〜 2 年必要です。このコースでは、受講者がコードを書く方法を知っており、また、REST API、JSON、OAuth2、OData、OpenID Connect、Azure AD および Microsoft アカウントを含めた Microsoft の ID、Azure AD B2C、そしてアクセス許可/同意の概念の基本を理解していることを想定しています。
+  - 受講者は、ソフトウェア開発の全段階を通じて、Microsoft Teams、Office アドイン、または SharePoint Framework 上でのソリューションの開発の経験が多少あることが望まれます。
+outlineSection: |-
+  ### モジュール 1&#58; Microsoft Identity の実装
+  このモジュールでは、アプリケーションの登録、認証の埋め込み、API の消費の許可の構成、および Microsoft Graph にアクセスするサービスの作成を含めた Microsoft Identity の実装方法を学習します。
+  #### レッスン
+  - Microsoft ID プラットフォーム
+  - アプリケーションを登録する
+  - 認証を実装する
+  - API を消費するアクセス許可を構成する
+  - API の消費に対する承認を実装する
+  - API 内に承認を実装する
+  - Microsoft Graph にアクセスするサービスを作成する
+
+
+  #### ラボ&#58; Microsoft Identity の実装
+  - Azure Active Directory へのアプリケーションの登録
+  - 認証の実装
+  - API を消費するアクセス許可の構成
+  - API の消費に対する承認の実装
+  - API 内への承認の実装
+  - Microsoft Graph にアクセスするサービスの作成
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure AD へのアプリケーションの登録
+  - 認証を実装
+  - API を消費するアクセス許可を構成する
+  - Microsoft Graph にアクセスするサービスを作成する
+
+
+  ### モジュール 2&#58; Microsoft Graph での作業
+  このモジュールでは、ユーザー データへのアクセス、クエリ パラメータの探索、グループ ライフサイクルの管理、ファイルへのアクセス、そして Microsoft Graph を使用してのネットワーク トラフィックの最適化の方法を学習します。
+  #### レッスン
+  - Microsoft Graph とは？
+  - Microsoft Graph からユーザー データにアクセスする
+  - クエリ パラメータによるデータ使用状況
+  - Microsoft Graph 上でグループのライフサイクルを管理する
+  - Microsoft Graph でファイルにアクセスする
+  - ネットワークのトラフィックを最適化する
+
+
+  #### ラボ&#58; Microsoft Graph での作業
+  - Microsoft Graph からのユーザー データのクエリ
+  - HTTP 経由で Microsoft Graph へのクエリを実行する際のクエリ パラメータの使用
+  - Microsoft Graph から返された情報の取得および制御
+  - Office 365 のグループおよびチームの作成
+  - One Drive および SharePoint へのファイルのアップロード
+  - Microsoft Graph による変更通知および変更履歴の使用
+  - バッチ リクエストによるトラフィックの削減
+  - Microsoft Graph における帯域幅調整の理解
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Microsoft Graph でユーザー データにアクセスする
+  - Microsoft Graph においてクエリを用いてデータで作業する
+  - Microsoft Graph 上でグループのライフサイクルを管理する
+  - Microsoft Graph を用いてネットワークのトラフィックを最適化する
+
+
+  ### モジュール 3&#58; SharePoint を拡張しカスタマイズする
+  このモジュールでは、SharePoint Framework の Web パーツ、拡張機能、そして SPFx ソリューションをパッケージ化しデプロイする方法について学習します。
+  #### レッスン
+  - SharePoint Framework の Web パーツ
+  - SharePoint Framework の拡張機能
+  - SPFx ソリューションをパッケージ化しデプロイする
+  - Microsoft Graph の消費
+  - SPFx 内から Azure AD によりセキュア化された第三者 API の消費
+  - Teams タブとしての Web パーツ
+  - SharePoint におけるブランド化とテーマ
+
+
+  #### ラボ&#58; SharePoint を拡張しカスタマイズする
+  - SharePoint Framework (SPF) 入門
+  - Web パーツ プロパティ ウィンドウでの作業
+  - SharePoint Framework の拡張機能の作成
+  - コマンドセット拡張機能の作成
+  - Field Customizer の拡張機能の作成
+  - SharePoint Framework ソリューションのデプロイ
+  - Azure AD により保護された第三者 REST API の呼び出し
+  - SPFx ソリューションの Microsoft Teams へのデプロイ
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - SharePoint Framework ソリューションをパッケージ化しデプロイする
+  - Microsoft Graph の消費を利用する
+  - Teams タブとしての Web パーツで作業を行う
+
+
+  ### モジュール 4&#58; Teams の拡張
+  このモジュールでは、Teams アプリのコンポーネント、Webhook タブ、および会話ボットでの作業について見ていきます。
+  #### レッスン
+  - Microsoft Teams アプリ
+  - Microsoft Teams 内の Webhook
+  - Microsoft Teams 内のタブ
+  - Microsoft Teams 内のメッセージング拡張機能
+  - Microsoft Teams 内会話ボット
+
+
+  #### ラボ&#58; Teams の拡張
+  - Teams アプリのコンポーネントの理解
+  - Microsoft Teams 内の Webhook での作業
+  - Microsoft Teams 内でのタブの作成
+  - メッセージング拡張機能の理解
+  - 会話ボットの理解
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Teams アプリのコンポーネントを識別する
+  - Microsoft Teams 内の Webhook で作業を行う
+  - Microsoft Teams 内でタブを作成する
+  - 送信する Webhook を作成し、登録する
+
+
+  ### モジュール 5&#58; Office の拡張
+  このモジュールでは、Office アドイン、作業ウィンドウ アドイン、JavaScript API、Office UI Fabric、および Adaptive Cards 付きのアクション可能メッセージで作業を行います。
+  #### レッスン
+  - Office アドイン
+  - Office JS APIs
+  - アドインのカスタマイズ
+  - テスト、デバッグ、およびデプロイのオプション
+  - アクション可能メッセージ
+
+
+  #### ラボ&#58; Office の拡張
+  - Office アドインの基本的なコンポーネントおよび種類の理解
+  - Office JavaScript APIs の理解
+  - アドインのカスタマイズの理解
+  - アクション可能メッセージの理解
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Office アドインの基本的なコンポーネントおよび種類の理解
+  - Office JavaScript APIs の理解
+  - アドインのカスタマイズの理解
+  - アクション可能メッセージの理解

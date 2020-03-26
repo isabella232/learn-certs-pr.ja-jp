@@ -1,0 +1,48 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure IoT Developer Specialty'
+metadata:
+  title: 'Microsoft Certified: Azure IoT Developer Specialty'
+  description: IoT 開発者は、データ分析、データプロセス、データ処理、データ ストーレージ オプション、および PaaS(Platform-as a Service)オプションなどを含めて、 IoT ソリューションを形成する Azure サービスの実装方法について十分に理解していることを証明します。IoT 開発者は、 IoT ソリューションのコード部分において Azure IoT サービス構成の設定を認識できる必要があります。
+uid: certification.azure-iot-developer-specialty
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: |-
+  IoT 開発者は、データ分析、データプロセス、データ処理、データ ストーレージ オプション、および PaaS(Platform-as a Service)オプションなどを含めて、 IoT ソリューションを形成する Azure サービスの実装方法について十分に理解していることを証明します。IoT 開発者は、 IoT ソリューションのコード部分において Azure IoT サービス構成の設定を認識できる必要があります。
+subTitle: IoT 開発者は、データ分析、データプロセス、データ処理、データ ストーレージ オプション、および PaaS(Platform-as a Service)オプションなどを含めて、 IoT ソリューションを形成する Azure サービスの実装方法について十分に理解していることを証明します。IoT 開発者は、 IoT ソリューションのコード部分において Azure IoT サービス構成の設定を認識できる必要があります。
+levels:
+- intermediate
+skills:
+- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。」'
+- IoT ソリューション インフラストラクチャを実装します
+- デバイスのプロビジョニングと管理を行います (20-25%)
+- Edge を実装します
+- データを処理して管理します
+- IoTソリューションを監視、トラブルシューティング、最適化します 
+- セキュリティの実装
+roles:
+- developer
+type: specialty
+products:
+- azure
+- azure-iot-central
+- azure-iot-hub
+courses:
+- uid: course.az-220t00
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1V
+exams:
+- uid: exam.az-220
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: help.md
+- title: 認定ダッシュボード
+  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+  href: https://www.microsoft.com/learning/dashboard.aspx
