@@ -6,14 +6,14 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 2019/10/14
+ms.date: 10/14/2019
 ms.author: micsullivan
 ---
 # 試験のポリシーと FAQ
 
 Microsoft は、世界中のパートナーやお客様から、最高品質の試験と認定を提供することを期待されています。以下のような認定プログラムの目標をサポートするために、 Microsoft 認定試験ポリシーが作成されています:
 
-## セキュリティと再受験に関するポリシー
+## <a name="security-policies"></a> セキュリティと再受験に関するポリシー
 
 Microsoft では、Microsoft Certified Professional (MCP) 資格試験におけるセキュリティ領域に関連して、固有のポリシーを規定しています。
 
@@ -491,7 +491,7 @@ Microsoft 認定資格に関するこちらのプロセスについて質問が�
 
 ダウンロード: [成績証明書サービスアプリケーション](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## Microsoft 認定資格試験項目についてのお問い合わせ
+## <a name="policies-5"></a>Microsoft 認定資格試験項目についてのお問い合わせ
 
 [各試験問題は慎重に検討されます](https://www.microsoft.com/learning/certification-exams.aspx) 技術的正確性、明確性、および関連性について各質問を検討する技術および職務の専門家のパネルによる。Microsoft 認定資格試験の特定の質問が正確でないと思われる場合、次に説明する手順に従って、その項目の審査をリクエストできます。試験受験から 30 日以内に試験項目問い合わせフォームを送信する必要があります。
 
@@ -509,7 +509,7 @@ Microsoft 認定資格に関するこちらのプロセスについて質問が�
 
 Microsoft 認定資格試験の有効性および妥当性を可能な限り高めるため、皆様からのご意見を非常に重要視しています。
 
-## 受験時の特別な設備
+## <a name="#special-accommodations-when-taking-exams"></a> 受験時の特別な設備
 
 ### Pearson VUE が実施する試験:
 
@@ -527,7 +527,7 @@ Microsoft 認定資格試験の有効性および妥当性を可能な限り高�
 
 試験が母国語で利用できないため、特別な機器が必要な場合、または試験の受験時にその他の特別な設備をリクエストする場合は、[ここ](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations) に記載されているプロセスに従って、Certiportを通じて宿泊施設をリクエストできます。
 
-### キャンセルおよび再スケジュール ポリシー：
+### <a name="cancellation-and-reschedule-policy"></a> キャンセルおよび再スケジュール ポリシー：
 
 - 試験予定日から 6 営業日以上前に試験の日程を変更した場合やキャンセルした場合、料金は発生しません。
 - 登録した試験日より 5 営業日以内のキャンセルもしくは日程変更には料金が発生します。
@@ -626,7 +626,7 @@ Expert および Associate の試験は通常 165 米ドルですが、特定の
 
 **試験の質問や受験環境についての意見を送るにはどうすればよいですか?**
 
-特定のアイテムの技術的な正確性について懸念がある場合は、[Exam Item Challenge](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5) プロセス に従ってください。
+特定のアイテムの技術的な正確性について懸念がある場合は、[Exam Item Challenge](#policies-5) プロセス に従ってください。
 
 試験中に発生したテスト センターまたは技術的な問題に関する懸念を報告するには、[Pearson VUE](http://www.pearsonvue.com/microsoft/) または [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm) のカスタマー サービスまでご連絡ください。
 
@@ -829,7 +829,7 @@ Microsoft 認定資格試験は、受験者がさらなるスキルの向上が�
 
 **試験の再受験ポリシーはどのようなものですか？**
 
-こちらで [セキュリティおよび再受験ポリシー](https://www.microsoft.com/learning/certification-exam-policies.aspx#security-policies) を参照してください。
+こちらで [セキュリティおよび再受験ポリシー](#security-policies) を参照してください。
 
 **スコアの再評価をリクエストできますか？**
 
@@ -837,7 +837,7 @@ Microsoft 認定資格試験は、受験者がさらなるスキルの向上が�
 
 **試験の問題にチャレンジするにはどうすればよいですか？**
 
-Microsoft 認定資格試験の質問が不正確であると考える場合、[試験項目チャレンジ プロセス](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5) を使用して、試験受験後 30 暦日以内にからその質問の評価をリクエストできます。評価プロセスによって、不備のある問題の特定や修正、それに応じた試験の更新が可能です。
+Microsoft 認定資格試験の質問が不正確であると考える場合、[試験項目チャレンジ プロセス](#policies-5) を使用して、試験受験後 30 暦日以内にからその質問の評価をリクエストできます。評価プロセスによって、不備のある問題の特定や修正、それに応じた試験の更新が可能です。
 
 **問い合わせのあった試験問題の確認と評価は Microsoft の従業員が行いますか？**
 
@@ -965,7 +965,7 @@ Microsoft のコンテンツを扱う「ブレイン ダンプ」サイトを見
 
 タスクは最終結果に基づいて採点されます。ユーザーがタスクをどのように完了させるか (たとえば、UI を使ってまたは PowerShell コマンドの使用など) は関係なく、ユーザーがタスクを正常に完了したことのみが重要です。通常どおりタスクを完了します。スコアリング スクリプトは、主要な特性に関する最終結果を評価し、それが正しく実行されたかどうかを判断します。たとえば、タスクがユーザーを追加することだった場合、スコアリング スクリプトはそのユーザーを確実に追加します。
 
-タスクを実行するために特定の方法を使用する必要はありません。GUI の代わりに PowerShell または CLI を使用した方	が快適な場合は、それをお勧めします。タスクの最終結果についてテストします、正しく実行できましたか？タスクの実行に使用した方法についてではありません。
+タスクを実行するために特定の方法を使用する必要はありません。GUI の代わりに PowerShell または CLI を使用した方    が快適な場合は、それをお勧めします。タスクの最終結果についてテストします、正しく実行できましたか？タスクの実行に使用した方法についてではありません。
 
 **各課題は何ポイントに相当しますか？**
 
@@ -993,7 +993,7 @@ Microsoft のコンテンツを扱う「ブレイン ダンプ」サイトを見
 
 **ラボでいくつか問題が発生しました。Microsoft にはどのようにして報告できますか？**
 
-ラボで問題が発生した場合は、[試験項目問い合わせプロセスを通じて報告してください](https://www.microsoft.com/learning/certification-exam-policies.aspx#dt-policies-5)。直面した問題について具体的に説明することはできませんが、その問題を調査することで根本的な原因を特定し、すべての人にとって改善へ向かう解決策を特定するのに役立ちます。
+ラボで問題が発生した場合は、[試験項目問い合わせプロセスを通じて報告してください](#policies-5)。直面した問題について具体的に説明することはできませんが、その問題を調査することで根本的な原因を特定し、すべての人にとって改善へ向かう解決策を特定するのに役立ちます。
 
 **ラボでいくつか問題が発生しました。採点のやり直しのリクエスト方法は？**
 
@@ -1064,7 +1064,7 @@ Microsoft のコンテンツを扱う「ブレイン ダンプ」サイトを見
 
 **特別な設備のリクエスト方法は？**
 
-試験の受験時に特別な機器やその他の特別な設備が必要な場合は、[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) を通じて 「合理的な調整要求システム」 [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) を使用して特別な設備を要求できます。詳細については、上記 [の受験時の特別な設備](＃special-accommodations-when-taking-exams) セクションをご覧ください。
+試験の受験時に特別な機器やその他の特別な設備が必要な場合は、[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) を通じて 「合理的な調整要求システム」 [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) を使用して特別な設備を要求できます。詳細については、上記 [の受験時の特別な設備](#special-accommodations-when-taking-exams) セクションをご覧ください。
 
 **なぜドキュメントを提出する必要があるのですか？**
 

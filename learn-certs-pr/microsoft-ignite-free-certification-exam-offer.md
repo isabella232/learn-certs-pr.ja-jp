@@ -7,7 +7,7 @@ ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 11/04/2019
-ms.author:micsullivan
+ms.author: micsullivan
 ---
 # Microsoft Ignite and Microsoft Ignite The Tour: 無料検定試験オファー
 
@@ -15,11 +15,11 @@ ms.author:micsullivan
 
 Microsoft Ignite 2019またはMicrosoft Ignite The Tour 2019-2020にご参加いただき、ありがとうございます。ご出席のみなさまは、例外はありますが、スキルアップを継続して、経営者または同僚に対してご自身の技術的専門知識を証明することの一助になるための認定試験を無料で受けることになります。
 
-##オファーの詳細
+## オファーの詳細
 
 Microsoft Ignite 2019 または Microsoft Ignite The Tour 2019-2020 イベントに参加された方は、Microsoft fundamentals、ロールベース、または専門検定の試験のうち1つを無料で受験する資格が得られます。無料試験オファーは、お客様が出席されているイベントの始めから実行可能であり、イベントの最終日から180日間有効です。その期間内に試験を受けるご予定がない場合は、このごオファーは履行できないことになります。  
 
-## 無料試験の申込み方法
+## <a name="how-to-claim-your-free-exam"></a> 無料試験の申込み方法
 
 これはデジタル・オファーですので、試験をオンラインで予定する際は、お客様がイベント登録(下記のステップ7を参照)に使用した同じソーシャル・アカウントを使用することにより、お客様のイベント参加を確認させていただきます。グループ登録された場合は、イベント登録プロフィールに記入されていることを確認してください。MS Ignite 2019 の参加者はこちらへ進みます。 [https://register.ignite.microsoft.com/](https://register.ignite.microsoft.com/); The Tour の参加者こちらへ進みます。 [https://register.msignite-the-tour.microsoft.com/](https://register.msignite-the-tour.microsoft.com/) cityname, 例えば [https://register.msignite-the-tour.microsoft.com/london](https://register.msignite-the-tour.microsoft.com/london) イベントプロファイルを完了します。
 
@@ -41,7 +41,7 @@ Microsoft Ignite 2019 または Microsoft Ignite The Tour 2019-2020 イベント
 
 試験を予定する問題については、[Microsoft 認定資格サポート・フォーラム](https://trainingsupport.microsoft.com/en-us/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) のヘルプを参照してください。フォーラムのモデレーターが 1 営業日以内に返信します。
 
-## このオファーの資格試験
+## <a name="eligible-exams-for-this-offer"></a> このオファーの資格試験
 
 このオファーには、Microsoft fundamentals、ロールベースおよび専門認定の試験が含まれます。資格試験は以下のリストの通りです。
 
@@ -136,4 +136,4 @@ Microsoft Ignite 2019 または Microsoft Ignite The Tour 2019-2020 イベント
 
 **質問: 無料の認定試験を最初に受験できなかった場合、無料で再受験できますか？**
 
-**回答:** いいえ。このオファーは 1 回のみ有効で、再試験は別々にスケジュールする必要があります。認定試験の再受験の詳細については、 [再受験ポリシー](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1) を参照してください。
+**回答:** いいえ。このオファーは 1 回のみ有効で、再試験は別々にスケジュールする必要があります。認定試験の再受験の詳細については、 [再受験ポリシー](/learn/certifications/certification-exam-policies#security-policies) を参照してください。

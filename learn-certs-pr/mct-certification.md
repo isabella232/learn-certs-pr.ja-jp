@@ -1,13 +1,13 @@
 ---
-title: ‘Microsoft 認定トレーナーになる | Microsoft Docs‘
-description: ‘Microsoft 認定トレーナーになる‘ 
+title: 'Microsoft 認定トレーナーになる | Microsoft Docs'
+description: 'Microsoft 認定トレーナーになる' 
 documentationcenter: NA 
 author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 2019/11/26
-ms.author:micsullivan
+ms.date: 11/26/2019
+ms.author: micsullivan
 ---
 # Microsoft 認定トレーナーになる
 
@@ -29,11 +29,11 @@ Microsoft 認定トレーナーとして、パーソナライズされた [ダ�
 
 [MCT で利用できるすべての特典をご覧ください。](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
-## 要件
+## <a name="mctinfoheading-3"></a> 要件
 
 MCT プログラムは、Microsoft テクノロジのトレーニングを提供する世界中のエデュケーターを対象としています。適格な認定を保有しており、Microsoft テクノロジのトレーニングの提供に積極的に取り組むことを希望している場合は、申し込みを検討することをお勧めします。
 
-MCT プログラムの要件の詳細については、このページの [申請プロセス](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) セクションにある MCT プログラム ガイドおよび MCT プログラム契約を確認してください。
+MCT プログラムの要件の詳細については、このページの [申請プロセス](#mctinfoheading-4) セクションにある MCT プログラム ガイドおよび MCT プログラム契約を確認してください。
 
 
 ### MCT プログラムへの登録の要件
@@ -107,7 +107,7 @@ MCT プログラムの要件の詳細については、このページの [申�
  
 **注意** Microsoft 認定資格および MCT プログラムに適格な資格は変更されることがあります。全ての新しいロールベースの認定は、MCT プログラムが一旦リリースされ次第有効となります。廃止された認定につきましては、廃止後最大 6 ヶ月間有効となります。[終了した認定資格の詳細](https://www.microsoft.com/learning/retired-certifications.aspx).
 
-## 申請プロセス
+## <a name="mctinfoheading-4"></a> 申請プロセス
 
 MCT に関心がある場合は、メンバーシップの条件について理解するために MCT プログラム ガイドおよび MCT プログラム契約を確認してください。
 
@@ -185,7 +185,7 @@ MCT Alumni のメンバーになることに関心がある場合は、メンバ
 
 MCT に戻るには:
 
-- このページの [要件](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) セクションで説明されている **MCT プログラムの要件を満たしていることを確認してください**。現在の Microsoft 認定資格に対するトランスクリプトと、MCT プログラムに適格な資格を有していることを確認します。
+- このページの [要件](#mctinfoheading-3) セクションで説明されている **MCT プログラムの要件を満たしていることを確認してください**。現在の Microsoft 認定資格に対するトランスクリプトと、MCT プログラムに適格な資格を有していることを確認します。
 - **MCT プログラムへの参加を申し込みます。** MCT Alumni は、以前に MCT プログラムに申請したときに取得した指導スキルの認定の証明を提出するか、少なくとも 1 年の指導経験があることを実証する照会状を提出できます。この照会状は、以前の顧客、マネージャー、同僚のいずれかからのものにできます。
 
 ## MCT および MCT Alumni プログラムの料金

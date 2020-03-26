@@ -6,7 +6,7 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 2019/07/30
+ms.date: 07/30/2019
 ms.author: micsullivan
 ---
 # 終了したコースウェア
@@ -19,39 +19,39 @@ ms.author: micsullivan
 
     | コース番号 | バージョン | タイトル | 言語 | 終了日 |
     | --- | --- | --- | --- | --- |
-    | 2778 | A | Writing Queries Using Microsoft® SQL Server® 2008 Transact-SQL | 英語 | 2020 年 2 月 28 日 |
-    | 6231 | B | Maintaining a Microsoft® SQL Server® 2008 R2 Database | 英語 | 2020 年 2 月 28 日|
-    | 6234 | A | Implementing and Maintaining Microsoft® SQL Server® 2008 Analysis Services | 英語 | 2020 年 2 月 28 日|
-    | 6236 | A | Implementing and Maintaining Microsoft® SQL Server™ 2008 Reporting Services | 英語 | 2020 年 2 月 28 日|
-    | 6421 | B | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure | 英語 | 2020 年 2 月 28 日|
-    | 6425 | C | Configuring and Troubleshooting Windows Server® 2008 Active Directory® Domain Services | 英語 | 2020 年 2 月 28 日|
-    | 6426 | C | Configuring and Troubleshooting Identity and Access Solutions with Windows Server® 2008 Active Directory® | 英語 | 2020 年 2 月 28 日|
-    | 6460 | A | Visual Studio® 2008: Windows® Presentation Foundation | 英語 | 2020 年 2 月 28 日|
-    | 10135 | B | Configuring, Managing and Troubleshooting Microsoft® Exchange Server 2010 | 英語 | 2020 年 2 月 28 日|
-    | 10174 | B | Configuring and Administering Microsoft® SharePoint® 2010 | 英語 | 2020 年 2 月 28 日|
-    | 10175 | A | Microsoft® SharePoint® 2010, Application Development | 英語 | 2020 年 2 月 28 日|
-    | 10262 | A | Developing Windows® Applications with Microsoft® Visual Studio® 2010 | 英語 | 2020 年 2 月 28 日|
-    | 10263 | A | Developing Windows® Communication Foundation Solutions with Microsoft® Visual Studio® 2010 | 英語 | 2020 年 2 月 28 日|
-    | 10264 | A | Developing Web Applications with Microsoft® Visual Studio® 2010 | 英語 | 2020 年 2 月 28 日|
-    | 10265 | A | Developing Data Access Solutions with Microsoft® Visual Studio® 2010 | 英語 | 2020 年 2 月 28 日|
-    | 10324 | A | Implementing and Managing Microsoft® Desktop Virtualization | 英語 | 2020 年 2 月 28 日|
-    | 10550 | A | Programming in Visual Basic with Microsoft® Visual Studio® 2010 | 英語 | 2020 年 2 月 28 日|
+    | 2778 | A | Writing Queries Using Microsoft&reg; SQL Server&reg; 2008 Transact-SQL | 英語 | 2020 年 2 月 28 日 |
+    | 6231 | B | Maintaining a Microsoft&reg; SQL Server&reg; 2008 R2 Database | 英語 | 2020 年 2 月 28 日|
+    | 6234 | A | Implementing and Maintaining Microsoft&reg; SQL Server&reg; 2008 Analysis Services | 英語 | 2020 年 2 月 28 日|
+    | 6236 | A | Implementing and Maintaining Microsoft&reg; SQL Server&trade; 2008 Reporting Services | 英語 | 2020 年 2 月 28 日|
+    | 6421 | B | Configuring and Troubleshooting a Windows Server&reg; 2008 Network Infrastructure | 英語 | 2020 年 2 月 28 日|
+    | 6425 | C | Configuring and Troubleshooting Windows Server&reg; 2008 Active Directory&reg; Domain Services | 英語 | 2020 年 2 月 28 日|
+    | 6426 | C | Configuring and Troubleshooting Identity and Access Solutions with Windows Server&reg; 2008 Active Directory&reg; | 英語 | 2020 年 2 月 28 日|
+    | 6460 | A | Visual Studio&reg; 2008: Windows&reg; Presentation Foundation | 英語 | 2020 年 2 月 28 日|
+    | 10135 | B | Configuring, Managing and Troubleshooting Microsoft&reg; Exchange Server 2010 | 英語 | 2020 年 2 月 28 日|
+    | 10174 | B | Configuring and Administering Microsoft&reg; SharePoint&reg; 2010 | 英語 | 2020 年 2 月 28 日|
+    | 10175 | A | Microsoft&reg; SharePoint&reg; 2010, Application Development | 英語 | 2020 年 2 月 28 日|
+    | 10262 | A | Developing Windows&reg; Applications with Microsoft&reg; Visual Studio&reg; 2010 | 英語 | 2020 年 2 月 28 日|
+    | 10263 | A | Developing Windows&reg; Communication Foundation Solutions with Microsoft&reg; Visual Studio&reg; 2010 | 英語 | 2020 年 2 月 28 日|
+    | 10264 | A | Developing Web Applications with Microsoft&reg; Visual Studio&reg; 2010 | 英語 | 2020 年 2 月 28 日|
+    | 10265 | A | Developing Data Access Solutions with Microsoft&reg; Visual Studio&reg; 2010 | 英語 | 2020 年 2 月 28 日|
+    | 10324 | A | Implementing and Managing Microsoft&reg; Desktop Virtualization | 英語 | 2020 年 2 月 28 日|
+    | 10550 | A | Programming in Visual Basic with Microsoft&reg; Visual Studio&reg; 2010 | 英語 | 2020 年 2 月 28 日|
     | 10748 | C | Planning and Deploying System Center 2012 Configuration Manager | 英語 | 2020 年 2 月 28 日|
-    | 10977 | B | Upgrading Your SQL Server Skills to Microsoft® SQL Server® 2014 | 英語 | 2020 年 2 月 28 日|
+    | 10977 | B | Upgrading Your SQL Server Skills to Microsoft&reg; SQL Server&reg; 2014 | 英語 | 2020 年 2 月 28 日|
     | 10981 | A | Infrastructure Provisioning with System Center Virtual Machine Manager | 英語 | 2020 年 2 月 28 日|
     | 10991 | A | Troubleshooting Windows Server 2016 Core Technologies | 英語 | 2020 年 2 月 28 日|
     | 10993 | B | Integrating Cloud Services with System Center Configuration Manager | 英語 | 2020 年 2 月 28 日|
     | 10999 | A | SQL Server on Linux | 英語 | 2020 年 2 月 28 日|
-    | 13969 | B | Active Directory® Services with Windows Server | 日本語 | 2020 年 2 月 28 日|
-    | 20331 | B | Core Solutions of Microsoft® SharePoint® Server 2013 | 英語 | 2020 年 2 月 28 日|
+    | 13969 | B | Active Directory&reg; Services with Windows Server | 日本語 | 2020 年 2 月 28 日|
+    | 20331 | B | Core Solutions of Microsoft&reg; SharePoint&reg; Server 2013 | 英語 | 2020 年 2 月 28 日|
     | 20332 | B | Advanced Solutions of Microsoft SharePoint Server 2013 | 英語 | 2020 年 2 月 28 日|
-    | 20341 | B | Core Solutions of Microsoft® Exchange Server 2013 | 英語 | 2020 年 2 月 28 日|
+    | 20341 | B | Core Solutions of Microsoft&reg; Exchange Server 2013 | 英語 | 2020 年 2 月 28 日|
     | 20342 | B | Advanced Solutions of Microsoft Exchange Server 2013 | 英語 | 2020 年 2 月 28 日|
     | 20415 | B | Implementing a Desktop Infrastructure | 英語 | 2020 年 2 月 28 日|
     | 20416 | B | Implementing Desktop Application Environments | 英語 | 2020 年 2 月 28 日|
     | 20488 | B | Developing Microsoft SharePoint Server 2013 Core Solutions | 英語 | 2020 年 2 月 28 日|
-    | 20687 | D | Configuring Windows® 8.1 | 英語 | 2020 年 2 月 28 日|
-    | 20688 | D | Supporting Windows® 8.1 | 英語 | 2020 年 2 月 28 日|
+    | 20687 | D | Configuring Windows&reg; 8.1 | 英語 | 2020 年 2 月 28 日|
+    | 20688 | D | Supporting Windows&reg; 8.1 | 英語 | 2020 年 2 月 28 日|
     | 23346 | C | Managing Office 365 Identities and Services | 日本語 | 2020 年 2 月 28 日|
     | 40409 | A | Deploying Voice Workloads for Skype for Business Online and Server 2015 | 英語 | 2020 年 2 月 28 日|
     | 40552 | A | Microsoft Security Workshop: Managing Identity | 英語 | 2020 年 2 月 28 日|
@@ -106,57 +106,57 @@ ms.author: micsullivan
     | 40525 | G | Microsoft Cloud Workshop: Media AI | 英語 | 2019年 12 月 31 日 |
     | 20695 | D | Deploying Windows Desktops and Enterprise Applications | 英語| 2019 年 12 月 31 日|
     | 20703-2 | B | Integrating Cloud Services with System Center Configuration Manager | 英語 | 2019 年 12 月 31 日 |
-    | 10050 | A | Microsoft® SQL Server® 2008 データベースの実装 | 日本語 | 2019 年 12 月 31 日 |
+    | 10050 | A | Microsoft&reg; SQL Server&reg; 2008 データベースの実装 | 日本語 | 2019 年 12 月 31 日 |
     | 10078 | A | Configuring and Troubleshooting Windows Server 2008 Active Directory Domain Services (簡体字中国語) | 簡体字中国語 | 2019 年 12 月 31 日 |
-    | 10136 | A | Configuration, gestion et maintenance des serveurs Windows Server® 2008 | フランス語 | 2019 年 12 月 31 日 |
-    | 10138 | A | Windows Server® 2008 サーバーの構成、管理、メンテナンス | 日本語 | 2019 年 12 月 31 日 |
+    | 10136 | A | Configuration, gestion et maintenance des serveurs Windows Server&reg; 2008 | フランス語 | 2019 年 12 月 31 日 |
+    | 10138 | A | Windows Server&reg; 2008 サーバーの構成、管理、メンテナンス | 日本語 | 2019 年 12 月 31 日 |
     | 10140 | A | Configuring, Managing and Maintaining Windows Server 2008 Servers | ポルトガル語 | 2019 年 12 月 31 日 |
-    | 10142 | A | Manutenção de um banco de dados do Microsoft® SQL Server® 2008 | ポルトガル語 | 2019 年 12 月 31 日 |
-    |10168 | A | Conceitos básicos da infraestrutura de rede e aplicativos do Windows Server® 2008 | ポルトガル語 | 2019 年 12 月 31 日 |
-    | 10216 | A | Konfiguration, Verwaltung und Problembehandlung in Microsoft® Exchange Server 2010 | ドイツ語 | 2019 年 12 月 31 日 |
-    | 10217 | A | Microsoft® Exchange Server 2010 の構成、管理、トラブルシューティング | 日本語 | 2019 年 12 月 31 日 |
-    | 10219 | A | Configuration, gestion et résolution des problèmes de Microsoft® Exchange Server 2010 | フランス語 | 2019 年 12 月 31 日 |
-    | 10220 | A | Planen und Verwalten von Windows® 7-Desktopbereitstellungen und -umgebungen | ドイツ語 | 2019 年 12 月 31 日 |
-    | 10222 | A | Configuração e solução de problemas dos Serviços de Domínio Active Directory® no Windows Server® 2008 | ポルトガル語 | 2019 年 12 月 31 日|
-    | 10223 | A | Planification et gestion des environnements et des déploiements de postes de travail Windows®7 | フランス語 | 2019 年 12 月 31 日 |
-    | 10224 | A | Installation et configuration du client Windows® 7 | フランス語 | 2019 年 12 月 31 日 |
-    | 10225 | A | Installieren und Konfigurieren von Windows® 7 Client | ドイツ語 | 2019 年 12 月 31 日 |
-    | 10226 | A | Windows® 7 クライアントのインストールおよび構成 | 日本語 | 2019 年 12 月 31 日 |
-    | 10228 | A | Instalação e configuração do cliente Windows® 7 | ポルトガル語 | 2019 年 12 月 31 日 |
-    | 10229 | A | Konfigurieren von Identitäts- und Zugriffslösungen und Problembehandlung mit Windows Server® 2008 Active Directory® | ドイツ語 | 2019 年 12 月 31 日 |
-    | 10230 | A | Configuração e solução de problemas de soluções de identidade e acesso no Windows Server® 2008 Active Directory® | ポルトガル語 | 2019 年 12 月 31 日 |
-    | 10555 | A | Configuração, gerenciamento e solução de problemas do Microsoft® Exchange Server 2010 | ポルトガル語 | 2019 年 12 月 31 日 |
-    | 10557 | A | Introduction au développement Web avec Microsoft® Visual Studio® 2010 | フランス語 | 2019 年 12 月 31 日 |
-    | 10560 | A | Introdução ao Desenvolvimento na Web com o Microsoft® Visual Studio® 2010 | ポルトガル語 | 2019 年 12 月 31 日 |
-    | 10561 | A | Windows® 7 客户端的安装与配置 | 簡体字中国語 | 2019 年 12 月 31 日 |
-    | 10563 | A | Microsoft® Visual Studio® 2010 C# 编程 | 簡体字中国語 | 2019 年 12 月 31 日 |
-    | 10564 | A | Microsoft® Visual Studio® 2010 Web 开发基础 | 簡体字中国語 | 2019 年 12 月 31 日 |
+    | 10142 | A | Manutenção de um banco de dados do Microsoft&reg; SQL Server&reg; 2008 | ポルトガル語 | 2019 年 12 月 31 日 |
+    |10168 | A | Conceitos básicos da infraestrutura de rede e aplicativos do Windows Server&reg; 2008 | ポルトガル語 | 2019 年 12 月 31 日 |
+    | 10216 | A | Konfiguration, Verwaltung und Problembehandlung in Microsoft&reg; Exchange Server 2010 | ドイツ語 | 2019 年 12 月 31 日 |
+    | 10217 | A | Microsoft&reg; Exchange Server 2010 の構成、管理、トラブルシューティング | 日本語 | 2019 年 12 月 31 日 |
+    | 10219 | A | Configuration, gestion et résolution des problèmes de Microsoft&reg; Exchange Server 2010 | フランス語 | 2019 年 12 月 31 日 |
+    | 10220 | A | Planen und Verwalten von Windows&reg; 7-Desktopbereitstellungen und -umgebungen | ドイツ語 | 2019 年 12 月 31 日 |
+    | 10222 | A | Configuração e solução de problemas dos Serviços de Domínio Active Directory&reg; no Windows Server&reg; 2008 | ポルトガル語 | 2019 年 12 月 31 日|
+    | 10223 | A | Planification et gestion des environnements et des déploiements de postes de travail Windows&reg;7 | フランス語 | 2019 年 12 月 31 日 |
+    | 10224 | A | Installation et configuration du client Windows&reg; 7 | フランス語 | 2019 年 12 月 31 日 |
+    | 10225 | A | Installieren und Konfigurieren von Windows&reg; 7 Client | ドイツ語 | 2019 年 12 月 31 日 |
+    | 10226 | A | Windows&reg; 7 クライアントのインストールおよび構成 | 日本語 | 2019 年 12 月 31 日 |
+    | 10228 | A | Instalação e configuração do cliente Windows&reg; 7 | ポルトガル語 | 2019 年 12 月 31 日 |
+    | 10229 | A | Konfigurieren von Identitäts- und Zugriffslösungen und Problembehandlung mit Windows Server&reg; 2008 Active Directory&reg; | ドイツ語 | 2019 年 12 月 31 日 |
+    | 10230 | A | Configuração e solução de problemas de soluções de identidade e acesso no Windows Server&reg; 2008 Active Directory&reg; | ポルトガル語 | 2019 年 12 月 31 日 |
+    | 10555 | A | Configuração, gerenciamento e solução de problemas do Microsoft&reg; Exchange Server 2010 | ポルトガル語 | 2019 年 12 月 31 日 |
+    | 10557 | A | Introduction au développement Web avec Microsoft&reg; Visual Studio&reg; 2010 | フランス語 | 2019 年 12 月 31 日 |
+    | 10560 | A | Introdução ao Desenvolvimento na Web com o Microsoft&reg; Visual Studio&reg; 2010 | ポルトガル語 | 2019 年 12 月 31 日 |
+    | 10561 | A | Windows&reg; 7 客户端的安装与配置 | 簡体字中国語 | 2019 年 12 月 31 日 |
+    | 10563 | A | Microsoft&reg; Visual Studio&reg; 2010 C# 编程 | 簡体字中国語 | 2019 年 12 月 31 日 |
+    | 10564 | A | Microsoft&reg; Visual Studio&reg; 2010 Web 开发基础 | 簡体字中国語 | 2019 年 12 月 31 日 |
     | 10701 | A | Configuration et gestion de Microsoft SharePoint 2010 | フランス語 | 2019 年 12 月 31 日 |
     | 10702 | A | Konfiguration und Verwaltung von Microsoft SharePoint 2010 | ドイツ語 | 2019 年 12 月 31 日 |
     | 10704 | A | Configuração e gerenciamento do Microsoft SharePoint 2010 | ポルトガル語 | 2019 年 12 月 31 日 |
-    | 10707 | A | Instalowanie i konfigurowanie klienta systemu Windows® 7 | ポーランド語 | 2019 年 12 月 31 日 |
-    | 10708 | A | Instalación y configuración del cliente de Windows® 7 | スペイン語 | 2019 年 12 月 31 日 |
-    | 10709 | A | Установка и настройка клиента Windows® 7 | ロシア語 | 2019 年 12 月 31 日 |
-    | 10714 | A | Desenvolvimento de aplicativos Web com o Microsoft® Visual Studio® 2010 | ポルトガル語 | 2019 年 12 月 31 日 |
-    | 10755 | A | Implémentation et gestion de la virtualisation de serveurs Microsoft® | フランス語 | 2019 年 12 月 31 日 |
-    | 10756 | A | Implementierung und Verwaltung von Microsoft® Server Virtualization | ドイツ語 | 2019 年 12 月 31 日 |
-    | 10757 | A | Implementação e gerenciamento da virtualização de servidores da Microsoft® | ポルトガル語 | 2019 年 12 月 31 日 |
+    | 10707 | A | Instalowanie i konfigurowanie klienta systemu Windows&reg; 7 | ポーランド語 | 2019 年 12 月 31 日 |
+    | 10708 | A | Instalación y configuración del cliente de Windows&reg; 7 | スペイン語 | 2019 年 12 月 31 日 |
+    | 10709 | A | Установка и настройка клиента Windows&reg; 7 | ロシア語 | 2019 年 12 月 31 日 |
+    | 10714 | A | Desenvolvimento de aplicativos Web com o Microsoft&reg; Visual Studio&reg; 2010 | ポルトガル語 | 2019 年 12 月 31 日 |
+    | 10755 | A | Implémentation et gestion de la virtualisation de serveurs Microsoft&reg; | フランス語 | 2019 年 12 月 31 日 |
+    | 10756 | A | Implementierung und Verwaltung von Microsoft&reg; Server Virtualization | ドイツ語 | 2019 年 12 月 31 日 |
+    | 10757 | A | Implementação e gerenciamento da virtualização de servidores da Microsoft&reg; | ポルトガル語 | 2019 年 12 月 31 日 |
     | 10758 | A | Implémentation et gestion de la virtualisation de postes de travail Microsoft | フランス語 | 2019 年 12 月 31 日 |
     | 10759 | A | Implementierung und Verwaltung von Microsoft Desktop Virtualization | ドイツ語 | 2019 年 12 月 31 日 |
     | 10947 | A | 使用Visual Studio 2010 开发数据访问应用程序 | 簡体字中国語 | 2019 年 12 月 31 日 |
     | 10948 | A | 使用Visual Studio 2010 开发WCF应用程序 | 簡体字中国語 | 2019 年 12 月 31 日 |
     | 10949 | A | 使用Visual Studio 2010 开发 Windows 应用程序 | 簡体字中国語 | 2019 年 12 月 31 日 |
-    | 10951 | A | Implementing and Managing Microsoft® Server Virtualization (簡体字中国語) |簡体字中国語 | 2019 年 12 月 31 日 |
+    | 10951 | A | Implementing and Managing Microsoft&reg; Server Virtualization (簡体字中国語) |簡体字中国語 | 2019 年 12 月 31 日 |
     | 10952 | A | Microsoft SharePoint 2010 配置与管理 | 簡体字中国語 | 2019 年 12 月 31 日 |
     | 21416 | B | Implementieren von Umgebungen für Desktopanwendungen | ドイツ語 | 2019 年 12 月 31 日 |
-    | 2180 | A | Implementação de uma infra estrutura de rede do Microsoft® Windows Server™ 2003: hosts de rede | ポルトガル語 | 2019 年 12 月 31 日 |
-    | 2180 | A | Implementação de uma infra estrutura de rede do Microsoft® Windows Server™ 2003: hosts de rede | ポルトガル語 | 2019 年 12 月 31 日 |
-    | 2197 | A | Planning, Implementing, and Maintaining a Microsoft® Windows® Server 2003 Active Directory® Infrastructure | ポルトガル語 | 2019 年 12 月 31 日 |
-    | 2197 | A | Planning, Implementing, and Maintaining a Microsoft® Windows Server™ 2003 Active Directory® Infrastructure | ポルトガル語 | 2019 年 12 月 31 日 |
-    | 22413 | B | Conception et implémentation d’une infrastructure de serveur | フランス語 | 2019 年 12 月 31 日 |
+    | 2180 | A | Implementação de uma infra estrutura de rede do Microsoft&reg; Windows Server&trade; 2003: hosts de rede | ポルトガル語 | 2019 年 12 月 31 日 |
+    | 2180 | A | Implementação de uma infra estrutura de rede do Microsoft&reg; Windows Server&trade; 2003: hosts de rede | ポルトガル語 | 2019 年 12 月 31 日 |
+    | 2197 | A | Planning, Implementing, and Maintaining a Microsoft&reg; Windows&reg; Server 2003 Active Directory&reg; Infrastructure | ポルトガル語 | 2019 年 12 月 31 日 |
+    | 2197 | A | Planning, Implementing, and Maintaining a Microsoft&reg; Windows Server&trade; 2003 Active Directory&reg; Infrastructure | ポルトガル語 | 2019 年 12 月 31 日 |
+    | 22413 | B | Conception et implémentation d'une infrastructure de serveur | フランス語 | 2019 年 12 月 31 日 |
     | 22415 | B | Implémentation d'une infrastructure de bureau | フランス語 | 2019 年 12 月 31 日 |
-    | 23331 | B | Core Solutions of Microsoft® SharePoint® Server 2013 | 日本語 | 2019 年 12 月 31 日 |
-    | 23332 | B | Advanced Solutions of Microsoft® SharePoint® Server 2013 | 日本語 | 2019 年 12 月 31 日 |
+    | 23331 | B | Core Solutions of Microsoft&reg; SharePoint&reg; Server 2013 | 日本語 | 2019 年 12 月 31 日 |
+    | 23332 | B | Advanced Solutions of Microsoft&reg; SharePoint&reg; Server 2013 | 日本語 | 2019 年 12 月 31 日 |
     | 23687 | B | Configuring Windows 8 | 日本語 | 2019 年 12 月 31 日 |
     | 23688 | A | Managing and Maintaining Windows 8 | 日本語 | 2019 年 12 月 31 日 |
     | 24687 | B | Configuring Windows 8 | ポルトガル語 | 2019 年 12 月 31 日 |
@@ -176,14 +176,14 @@ ms.author: micsullivan
     | 50601 | A | Designing and Implementing Management Solution for Microsoft SQL Server 2008 Database | 日本語 | 2019 年 12 月 31 日 |
     | 50602 | A | Designing and Planning Microsoft Lync Server 2010 Solutions | 日本語 | 2019 年 12 月 31 日 |
     | 50603 | A | Configuring and Administering Microsoft Lync Server 2010 | 日本語 | 2019 年 12 月 31 日 |
-    | 6237 | B | Windows Server® 2008 Active Directory®-Domänendienste: Konfiguration und Problembehandlung | ドイツ語 | 2019 年 12 月 31 日 |
-    | 6238 | B | Configuration et résolution des problèmes des services de domaine Active Directory® Windows Server® 2008 | フランス語 | 2019 年 12 月 31 日 |
-    | 6744 | A | Configuration et résolution des problèmes en utilisant Internet Information Services dans Windows Server® 2008 | フランス語 | 2019 年 12 月 31 日 |
-    | 6745 | A | Internetinformationsdienste in Windows Server® 2008: Konfiguration und Problembehandlung | ドイツ語 | 2019 年 12 月 31 日 |
-    | 6748 | B | Einrichten von Servern unter Windows Server® 2008 | ドイツ語 | 2019 年 12 月 31 日 |
-    | 6850 | A | Fundamentals of Windows Server® 2008 Network and Applications Infrastructure (簡体字中国語) | 簡体字中国語 | 2019 年 12 月 31 日 |
-    | 6852 | A | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure (簡体字中国語) | 簡体字中国語 | 2019 年 12 月 31 日 |
-    | 6854 | A | Windows Server® 2008 Internet 信息服务的配置与故障排除 | 簡体字中国語 | 2019 年 12 月 31 日 |
+    | 6237 | B | Windows Server&reg; 2008 Active Directory&reg;-Domänendienste: Konfiguration und Problembehandlung | ドイツ語 | 2019 年 12 月 31 日 |
+    | 6238 | B | Configuration et résolution des problèmes des services de domaine Active Directory&reg; Windows Server&reg; 2008 | フランス語 | 2019 年 12 月 31 日 |
+    | 6744 | A | Configuration et résolution des problèmes en utilisant Internet Information Services dans Windows Server&reg; 2008 | フランス語 | 2019 年 12 月 31 日 |
+    | 6745 | A | Internetinformationsdienste in Windows Server&reg; 2008: Konfiguration und Problembehandlung | ドイツ語 | 2019 年 12 月 31 日 |
+    | 6748 | B | Einrichten von Servern unter Windows Server&reg; 2008 | ドイツ語 | 2019 年 12 月 31 日 |
+    | 6850 | A | Fundamentals of Windows Server&reg; 2008 Network and Applications Infrastructure (簡体字中国語) | 簡体字中国語 | 2019 年 12 月 31 日 |
+    | 6852 | A | Configuring and Troubleshooting a Windows Server&reg; 2008 Network Infrastructure (簡体字中国語) | 簡体字中国語 | 2019 年 12 月 31 日 |
+    | 6854 | A | Windows Server&reg; 2008 Internet 信息服务的配置与故障排除 | 簡体字中国語 | 2019 年 12 月 31 日 |
 
 * 2019 年 11 月 27 日のコースウェアの廃止
 
@@ -297,12 +297,12 @@ ms.author: micsullivan
     | コース番号 | バージョン | タイトル | 言語 | 終了日 |
     | --- | --- | --- | --- | --- |
     | 20398 | B | Planning for and Managing Devices in the Enterprise: Enterprise Mobility Suite (EMS) & On-Premises Tools | 英語 | 2018 年 7 月 31 日 |
-    | 40008 | A | Updating your Database Skills to Microsoft® SQL Server® 2012 | 英語 | 2018 年 7 月 31 日 |
-    | 40009 | A | Updating your Business Intelligence Skills to Microsoft® SQL Server® 2012 | 英語 | 2018 年 7 月 31 日 |
+    | 40008 | A | Updating your Database Skills to Microsoft&reg; SQL Server&reg; 2012 | 英語 | 2018 年 7 月 31 日 |
+    | 40009 | A | Updating your Business Intelligence Skills to Microsoft&reg; SQL Server&reg; 2012 | 英語 | 2018 年 7 月 31 日 |
     | 40033 | A | Windows Operating System and Windows Server Fundamentals: Training 2-Pack for MTA Exams 98-349 and 98-365 | 英語 | 2018 年 7 月 31 日 |
-    | 40043 | A | Windows® 8 UX Design Workshop | 英語 | 2018 年 7 月 31 日 |
-    | 40045 | A | Microsoft® SQL Server® for Oracle DBAs | 英語 | 2018 年 7 月 31 日 |
-    | 40074 | A | Microsoft® SQL Server® 2014 for Oracle DBAs | 英語 | 2018 年 7 月 31 日 |
+    | 40043 | A | Windows&reg; 8 UX Design Workshop | 英語 | 2018 年 7 月 31 日 |
+    | 40045 | A | Microsoft&reg; SQL Server&reg; for Oracle DBAs | 英語 | 2018 年 7 月 31 日 |
+    | 40074 | A | Microsoft&reg; SQL Server&reg; 2014 for Oracle DBAs | 英語 | 2018 年 7 月 31 日 |
     | 40076 | A | MVA Workshop: Troubleshooting Windows Systems with SysInternals Tools | 英語 | 2018 年 7 月 31 日 |
     | 40390 | B | Microsoft Azure for AWS Experts | 英語 | 2018 年 7 月 31 日 |
     | 40365 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | 英語 | 2018 年 7 月 31 日 |
@@ -312,24 +312,24 @@ ms.author: micsullivan
     | 50043 | A | Preparing for the Microsoft Certified Application Specialist Exam in Microsoft Office PowerPoint 2007 | 英語 | 2018 年 7 月 31 日 |
     | 50044 | A | Preparing for the Microsoft Certified Application Specialist Exam in Microsoft Office Word 2007 | 英語 | 2018 年 7 月 31 日 |
     | 50045 | A | Preparing for the Microsoft Certified Application Specialist Exam in Windows Vista | 英語 | 2018 年 7 月 31 日 |
-    | 50107 | A | Learn Microsoft® Office Visio® 2007 Step by Step | 英語 | 2018 年 7 月 31 日 |
-    | 50123 | A | Learn Microsoft® Office Excel® 2007 Step by Step, Level 1 | 英語 | 2018 年 7 月 31 日 |
-    | 50124 | A | Learn Microsoft® Office Excel® 2007 Step by Step, Level 2 | 英語 | 2018 年 7 月 31 日 |
-    | 50125 | A | Learn Microsoft® Office Excel® 2007 Step by Step, Level 3 | 英語 | 2018 年 7 月 31 日 |
-    | 50126 | A | Learn Microsoft® Office Word 2007 Step by Step, Level 1 | 英語 | 2018 年 7 月 31 日 |
-    | 50127 | A | Learn Microsoft® Office Word 2007 Step by Step, Level 2 | 英語 | 2018 年 7 月 31 日 |
-    | 50128 | A | Learn Microsoft® Office Word 2007 Step by Step, Level 3 | 英語 | 2018 年 7 月 31 日 |
-    | 50129 | A | Learn Microsoft® Office PowerPoint® 2007 Step by Step, Level 1 | 英語 | 2018 年 7 月 31 日 |
-    | 50130 | A | Learn Microsoft® Office PowerPoint® 2007 Step by Step, Level 2 | 英語 | 2018 年 7 月 31 日 |
-    | 50131 | A | Learn Microsoft® Office PowerPoint® 2007 Step by Step, Level 3 | 英語 | 2018 年 7 月 31 日 |
-    | 50132 | A | Learn Microsoft® Office Outlook® 2007 Step by Step, Level 1 | 英語 | 2018 年 7 月 31 日 |
-    | 50133 | A | Learn Microsoft® Office Outlook ® 2007 Step by Step, Level 2 | 英語 | 2018 年 7 月 31 日 |
-    | 50134 | A | Learn Microsoft® Office Outlook® 2007 Step by Step, Level 3 | 英語 | 2018 年 7 月 31 日 |
-    | 50135 | A | Learn Microsoft® Office Access® 2007 Step by Step, Level 1 | 英語 | 2018 年 7 月 31 日 |
-    | 50136 | A | Learn Microsoft® Office Access® 2007 Step by Step, Level 2 | 英語 | 2018 年 7 月 31 日 |
-    | 50207 | A | Learn Microsoft Office SharePoint® Designer 2007 Step by Step, Level 1 | 英語 | 2018 年 7 月 31 日 |
-    | 50208 | A | Learn Microsoft Office SharePoint® Designer 2007 Step by Step, Level 2 | 英語 | 2018 年 7 月 31 日 |
-    | 50209 | A | Learn Microsoft Office SharePoint® Designer 2007 Step by Step, Level 3 | 英語 | 2018 年 7 月 31 日 |
+    | 50107 | A | Learn Microsoft&reg; Office Visio&reg; 2007 Step by Step | 英語 | 2018 年 7 月 31 日 |
+    | 50123 | A | Learn Microsoft&reg; Office Excel&reg; 2007 Step by Step, Level 1 | 英語 | 2018 年 7 月 31 日 |
+    | 50124 | A | Learn Microsoft&reg; Office Excel&reg; 2007 Step by Step, Level 2 | 英語 | 2018 年 7 月 31 日 |
+    | 50125 | A | Learn Microsoft&reg; Office Excel&reg; 2007 Step by Step, Level 3 | 英語 | 2018 年 7 月 31 日 |
+    | 50126 | A | Learn Microsoft&reg; Office Word 2007 Step by Step, Level 1 | 英語 | 2018 年 7 月 31 日 |
+    | 50127 | A | Learn Microsoft&reg; Office Word 2007 Step by Step, Level 2 | 英語 | 2018 年 7 月 31 日 |
+    | 50128 | A | Learn Microsoft&reg; Office Word 2007 Step by Step, Level 3 | 英語 | 2018 年 7 月 31 日 |
+    | 50129 | A | Learn Microsoft&reg; Office PowerPoint&reg; 2007 Step by Step, Level 1 | 英語 | 2018 年 7 月 31 日 |
+    | 50130 | A | Learn Microsoft&reg; Office PowerPoint&reg; 2007 Step by Step, Level 2 | 英語 | 2018 年 7 月 31 日 |
+    | 50131 | A | Learn Microsoft&reg; Office PowerPoint&reg; 2007 Step by Step, Level 3 | 英語 | 2018 年 7 月 31 日 |
+    | 50132 | A | Learn Microsoft&reg; Office Outlook&reg; 2007 Step by Step, Level 1 | 英語 | 2018 年 7 月 31 日 |
+    | 50133 | A | Learn Microsoft&reg; Office Outlook &reg; 2007 Step by Step, Level 2 | 英語 | 2018 年 7 月 31 日 |
+    | 50134 | A | Learn Microsoft&reg; Office Outlook&reg; 2007 Step by Step, Level 3 | 英語 | 2018 年 7 月 31 日 |
+    | 50135 | A | Learn Microsoft&reg; Office Access&reg; 2007 Step by Step, Level 1 | 英語 | 2018 年 7 月 31 日 |
+    | 50136 | A | Learn Microsoft&reg; Office Access&reg; 2007 Step by Step, Level 2 | 英語 | 2018 年 7 月 31 日 |
+    | 50207 | A | Learn Microsoft Office SharePoint&reg; Designer 2007 Step by Step, Level 1 | 英語 | 2018 年 7 月 31 日 |
+    | 50208 | A | Learn Microsoft Office SharePoint&reg; Designer 2007 Step by Step, Level 2 | 英語 | 2018 年 7 月 31 日 |
+    | 50209 | A | Learn Microsoft Office SharePoint&reg; Designer 2007 Step by Step, Level 3 | 英語 | 2018 年 7 月 31 日 |
     | 50367 | A | Learn Windows 7 Step by Step, Level 1 | 英語 | 2018 年 7 月 31 日 |
     | 50368 | A | Learn Windows 7 Step by Step, Level 2 | 英語 | 2018 年 7 月 31 日 |
     | 50369 | A | Learn Windows Internet Explorer 8 Step by Step | 英語 | 2018 年 7 月 31 日 |
@@ -341,7 +341,7 @@ ms.author: micsullivan
     | 50404 | B | Overview of Active Directory Rights Management Services with Windows Server 2008 R2 | 英語 | 2018 年 7 月 31 日 |
     | 50412 | B | Implementing Active Directory Federation Services 2.0 | 英語 | 2018 年 7 月 31 日 |
     | 50430 | B | Administering Team Foundation Server 2010 | 英語 | 2018 年 7 月 31 日 |
-    | 50466 | B | Windows® Azure™ Solutions with Microsoft® Visual Studio® 2010 | 英語 | 2018 年 7 月 31 日 |
+    | 50466 | B | Windows&reg; Azure&trade; Solutions with Microsoft&reg; Visual Studio&reg; 2010 | 英語 | 2018 年 7 月 31 日 |
     | 50509 | A | Implementing Forefront Endpoint Protection 2010 | 英語 | 2018 年 7 月 31 日 |
     | 50526 | A | IT Basics I | 英語 | 2018 年 7 月 31 日 |
     | 50527 | A | IT Basics II | 英語 | 2018 年 7 月 31 日 |
@@ -371,83 +371,83 @@ ms.author: micsullivan
 
     | コース番号 | バージョン | タイトル | 言語 | 終了日 |
     | --- | --- | --- | --- | --- |
-    | 1846 | A | Microsoft® Solutions Framework Essentials | 英語 | 2018 年 6 月 30 日 |
+    | 1846 | A | Microsoft&reg; Solutions Framework Essentials | 英語 | 2018 年 6 月 30 日 |
     | 1913 | A | Exchanging and Transforming Data Using XML and XSLT | 英語 | 2018 年 6 月 30 日 |
-    | 2011 | A | Troubleshooting Microsoft® Exchange Server 2003 Toolkit | 英語 | 2018 年 6 月 30 日 |
-    | 2011 | A | Troubleshooting Microsoft® Exchange Server 2003-Delivery Guide | 英語 | 2018 年 6 月 30 日 |
-    | 2097 | A | Conception d'une infrastructure réseau et Active Directory® Microsoft® Windows Server™ 2003 | フランス語 | 2018 年 6 月 30 日 |
-    | 2144 | B | Administration d'un environnement Microsoft® Windows Server™ 2003 | フランス語 | 2018 年 6 月 30 日 |
-    | 2145 | B | Verwalten Einer Microsoft® Windows Server 2003-Umgebung | ドイツ語 | 2018 年 6 月 30 日 |
-    | 2149 | B | Maintenance D'un Environnement Microsoft® Windows Server 2003 | フランス語 | 2018 年 6 月 30 日 |
-    | 2163 | B | Warten Einer Microsoft® Windows Server™ 2003-Umgebung | ドイツ語 | 2018 年 6 月 30 日 |
-    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003 : services réseau | フランス語 | 2018 年 6 月 30 日 |
-    | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | ドイツ語 | 2018 年 6 月 30 日 |
-    | 2194 | A | Planification, implémentation et maintenance d’une infrastructure Active Directory® Microsoft® Windows Server™ 2003 | フランス語 | 2018 年 6 月 30 日 |
-    | 2226 | B | Instalação, configuração e administração do Microsoft® Windows® XP Professional | ポルトガル語  | 2018 年 6 月 30 日 |
-    | 2261 | C | Supporting Users Running the Microsoft® Windows® XP Operating System | 英語 | 2018 年 6 月 30 日 |
-    | 2272 | C | Implementing and Supporting Microsoft® Windows® XP Professional | 英語 | 2018 年 6 月 30 日 |
-    | 2285 | B | Installing, Configuring & Administering Microsoft® Windows® XP Professional | 英語 | 2018 年 6 月 30 日 |
-    | 2311 | A | Advanced Web Application Development using Microsoft® ASP.NET  | 英語 | 2018 年 6 月 30 日 |
-    | 2335 | A | Assistance aux utilisateurs exécutant le système d'exploitation Microsoft® Windows® XP | フランス語 | 2018 年 6 月 30 日 |
-    | 2336 | A | Assistance aux utilisateurs exécutant des applications sous le système d'exploitation Microsoft® Windows® XP | フランス語 | 2018 年 6 月 30 日 |
-    | 2349 | B | Programming with the Microsoft® .NET Framework Microsoft Visual C#™ .NET | 英語 | 2018 年 6 月 30 日 |
-    | 2368 | A | Zarzadzanie srodowiskiem systemu Microsoft® Windows Server™ 2003 | ポルトガル語  | 2018 年 6 月 30 日 |
-    | 2373 | B | Programming with Microsoft® Visual Basic® .NET | 英語 | 2018 年 6 月 30 日 |
-    | 2389 | B | Programming with Microsoft® ADO.NET | 英語 | 2018 年 6 月 30 日 |
-    | 2433 | B | Microsoft® Visual Basic® Scripting and Microsoft Windows Script Host Essentials | 英語 | 2018 年 6 月 30 日 |
-    | 2441 | A | Bereitstellen und Verwalten von Microsoft® Windows® XP Service Pack 2 | ドイツ語 | 2018 年 6 月 30 日 |
-    | 2500 | A | Introduction to XML and the Microsoft® .NET Platform | 英語 | 2018 年 6 月 30 日 |
-    | 2541 | B | Core Data Access with Microsoft® Visual Studio® 2005 | 英語 | 2018 年 6 月 30 日 |
-    | 2542 | A | Advanced Data Access With Microsoft® Visual Studio® 2005 | 英語 | 2018 年 6 月 30 日 |
-    | 2543 | B | Core Web Application Technologies With Microsoft® Visual Studio® 2005 | 英語 | 2018 年 6 月 30 日 |
-    | 2544 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005 | 英語 | 2018 年 6 月 30 日 |
-    | 2546 | B | Core Windows® Forms Technologies With Microsoft® Visual Studio® 2005 | 英語 | 2018 年 6 月 30 日 |
-    | 2547 | A | Advanced Windows® Forms Technologies With Microsoft® Visual Studio® 2005 | 英語 | 2018 年 6 月 30 日 |
-    | 2548 | B | Core Distributed Application Development With Microsoft® Visual Studio® 2005 | 英語 | 2018 年 6 月 30 日 |
-    | 2549 | A | Advanced Distributed Application Development With Microsoft® Visual Studio® 2005 | 英語 | 2018 年 6 月 30 日 |
+    | 2011 | A | Troubleshooting Microsoft&reg; Exchange Server 2003 Toolkit | 英語 | 2018 年 6 月 30 日 |
+    | 2011 | A | Troubleshooting Microsoft&reg; Exchange Server 2003-Delivery Guide | 英語 | 2018 年 6 月 30 日 |
+    | 2097 | A | Conception d'une infrastructure réseau et Active Directory&reg; Microsoft&reg; Windows Server&trade; 2003 | フランス語 | 2018 年 6 月 30 日 |
+    | 2144 | B | Administration d'un environnement Microsoft&reg; Windows Server&trade; 2003 | フランス語 | 2018 年 6 月 30 日 |
+    | 2145 | B | Verwalten Einer Microsoft&reg; Windows Server 2003-Umgebung | ドイツ語 | 2018 年 6 月 30 日 |
+    | 2149 | B | Maintenance D'un Environnement Microsoft&reg; Windows Server 2003 | フランス語 | 2018 年 6 月 30 日 |
+    | 2163 | B | Warten Einer Microsoft&reg; Windows Server&trade; 2003-Umgebung | ドイツ語 | 2018 年 6 月 30 日 |
+    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft&reg; Windows Server&trade; 2003 : services réseau | フランス語 | 2018 年 6 月 30 日 |
+    | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft&reg; Windows Server&trade; 2003-Netzwerkinfrastruktur: Netzwerkdienste | ドイツ語 | 2018 年 6 月 30 日 |
+    | 2194 | A | Planification, implémentation et maintenance d'une infrastructure Active Directory&reg; Microsoft&reg; Windows Server&trade; 2003 | フランス語 | 2018 年 6 月 30 日 |
+    | 2226 | B | Instalação, configuração e administração do Microsoft&reg; Windows&reg; XP Professional | ポルトガル語  | 2018 年 6 月 30 日 |
+    | 2261 | C | Supporting Users Running the Microsoft&reg; Windows&reg; XP Operating System | 英語 | 2018 年 6 月 30 日 |
+    | 2272 | C | Implementing and Supporting Microsoft&reg; Windows&reg; XP Professional | 英語 | 2018 年 6 月 30 日 |
+    | 2285 | B | Installing, Configuring & Administering Microsoft&reg; Windows&reg; XP Professional | 英語 | 2018 年 6 月 30 日 |
+    | 2311 | A | Advanced Web Application Development using Microsoft&reg; ASP.NET  | 英語 | 2018 年 6 月 30 日 |
+    | 2335 | A | Assistance aux utilisateurs exécutant le système d'exploitation Microsoft&reg; Windows&reg; XP | フランス語 | 2018 年 6 月 30 日 |
+    | 2336 | A | Assistance aux utilisateurs exécutant des applications sous le système d'exploitation Microsoft&reg; Windows&reg; XP | フランス語 | 2018 年 6 月 30 日 |
+    | 2349 | B | Programming with the Microsoft&reg; .NET Framework Microsoft Visual C#&trade; .NET | 英語 | 2018 年 6 月 30 日 |
+    | 2368 | A | Zarzadzanie srodowiskiem systemu Microsoft&reg; Windows Server&trade; 2003 | ポルトガル語  | 2018 年 6 月 30 日 |
+    | 2373 | B | Programming with Microsoft&reg; Visual Basic&reg; .NET | 英語 | 2018 年 6 月 30 日 |
+    | 2389 | B | Programming with Microsoft&reg; ADO.NET | 英語 | 2018 年 6 月 30 日 |
+    | 2433 | B | Microsoft&reg; Visual Basic&reg; Scripting and Microsoft Windows Script Host Essentials | 英語 | 2018 年 6 月 30 日 |
+    | 2441 | A | Bereitstellen und Verwalten von Microsoft&reg; Windows&reg; XP Service Pack 2 | ドイツ語 | 2018 年 6 月 30 日 |
+    | 2500 | A | Introduction to XML and the Microsoft&reg; .NET Platform | 英語 | 2018 年 6 月 30 日 |
+    | 2541 | B | Core Data Access with Microsoft&reg; Visual Studio&reg; 2005 | 英語 | 2018 年 6 月 30 日 |
+    | 2542 | A | Advanced Data Access With Microsoft&reg; Visual Studio&reg; 2005 | 英語 | 2018 年 6 月 30 日 |
+    | 2543 | B | Core Web Application Technologies With Microsoft&reg; Visual Studio&reg; 2005 | 英語 | 2018 年 6 月 30 日 |
+    | 2544 | A | Advanced Web Application Technologies with Microsoft&reg; Visual Studio&reg; 2005 | 英語 | 2018 年 6 月 30 日 |
+    | 2546 | B | Core Windows&reg; Forms Technologies With Microsoft&reg; Visual Studio&reg; 2005 | 英語 | 2018 年 6 月 30 日 |
+    | 2547 | A | Advanced Windows&reg; Forms Technologies With Microsoft&reg; Visual Studio&reg; 2005 | 英語 | 2018 年 6 月 30 日 |
+    | 2548 | B | Core Distributed Application Development With Microsoft&reg; Visual Studio&reg; 2005 | 英語 | 2018 年 6 月 30 日 |
+    | 2549 | A | Advanced Distributed Application Development With Microsoft&reg; Visual Studio&reg; 2005 | 英語 | 2018 年 6 月 30 日 |
     | 2555 | A | Developing Microsoft.NET Applications for Windows (Visual C#.NET) | 英語 | 2018 年 6 月 30 日 |
-    | 2556 | A | Developing Mobile Applications Using the Microsoft® .NET Compact Framework | 英語 | 2018 年 6 月 30 日 |
-    | 2559 | B | Introduction to Visual Basic® .NET Programming with Microsoft® .NET | 英語 | 2018 年 6 月 30 日 |
-    | 2572 | A | Supporting Users Running the Microsoft® Windows® XP Operating System | ポルトガル語  | 2018 年 6 月 30 日 |
-    | 2573 | A | Supporting Users Running Applications on a Microsoft® Windows® XP Operating System | ポルトガル語  | 2018 年 6 月 30 日 |
-    | 2576 | A | Implementing And Administering Microsoft® Internet Information Services IIS) 6.0 | 英語 | 2018 年 6 月 30 日 |
-    | 2605 | A | Managing a Microsoft® Windows Server™ 2003 Environment | ロシア語  | 2018 年 6 月 30 日 |
-    | 2606 | A | Maintaining a Microsoft® Windows Server™ 2003 Environment | ロシア語  | 2018 年 6 月 30 日 |
+    | 2556 | A | Developing Mobile Applications Using the Microsoft&reg; .NET Compact Framework | 英語 | 2018 年 6 月 30 日 |
+    | 2559 | B | Introduction to Visual Basic&reg; .NET Programming with Microsoft&reg; .NET | 英語 | 2018 年 6 月 30 日 |
+    | 2572 | A | Supporting Users Running the Microsoft&reg; Windows&reg; XP Operating System | ポルトガル語  | 2018 年 6 月 30 日 |
+    | 2573 | A | Supporting Users Running Applications on a Microsoft&reg; Windows&reg; XP Operating System | ポルトガル語  | 2018 年 6 月 30 日 |
+    | 2576 | A | Implementing And Administering Microsoft&reg; Internet Information Services IIS) 6.0 | 英語 | 2018 年 6 月 30 日 |
+    | 2605 | A | Managing a Microsoft&reg; Windows Server&trade; 2003 Environment | ロシア語  | 2018 年 6 月 30 日 |
+    | 2606 | A | Maintaining a Microsoft&reg; Windows Server&trade; 2003 Environment | ロシア語  | 2018 年 6 月 30 日 |
     | 2667 | A | Introduction to Programming | 英語 | 2018 年 6 月 30 日 |
-    | 2710 | B | Analyzing Requirements and Defining Microsoft® .NET Solution Architectures | 英語 | 2018 年 6 月 30 日 |
-    | 2717 | C | Introduction to Microsoft® .NET Development  | 英語 | 2018 年 6 月 30 日 |
-    | 2730 | A | Building Microsoft® Content Management Server 2002 Solutions | 英語 | 2018 年 6 月 30 日 |
+    | 2710 | B | Analyzing Requirements and Defining Microsoft&reg; .NET Solution Architectures | 英語 | 2018 年 6 月 30 日 |
+    | 2717 | C | Introduction to Microsoft&reg; .NET Development  | 英語 | 2018 年 6 月 30 日 |
+    | 2730 | A | Building Microsoft&reg; Content Management Server 2002 Solutions | 英語 | 2018 年 6 月 30 日 |
     | 2810 | A | Fundamentals of Network Security | 英語 | 2018 年 6 月 30 日 |
-    | 2821 | A | Designing and Managing a Microsoft® Windows® Public Key Infrastructure | 英語 | 2018 年 6 月 30 日 |
-    | 2821 | A | Designing and Managing a Windows® Public Key Infrastructure | 英語 | 2018 年 6 月 30 日 |
-    | 2823 | B | Implementing and Administering Security in a Microsoft® Windows Server™ 2003 Network | 英語 | 2018 年 6 月 30 日 |
-    | 2830 | B | Designing Security for Microsoft® Networks | 英語 | 2018 年 6 月 30 日 |
-    | 2933 | A | Developing Business Process and Integration Solutions Using Microsoft® BizTalk® Server 2006 | 英語 | 2018 年 6 月 30 日 |
-    | 2956 | B | Core Foundations of Microsoft® .NET 2.0 Development | 英語 | 2018 年 6 月 30 日 |
-    | 2957 | B | Advanced Foundations of Microsoft® .NET 2.0 Development | 英語 | 2018 年 6 月 30 日 |
-    | 3938 | C | Updating Your Skills from Microsoft® Exchange Server 2000 or Microsoft Exchange Server 2003 to Microsoft Exchange Server 2007 SP1 | 英語 | 2018 年 6 月 30 日 |
-    | 4730 | A | Weiterführende Webanwendungstechnologien Mit Microsoft® Visual Studio® 2005 | ドイツ語 | 2018 年 6 月 30 日 |
-    | 4730 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005  | ドイツ語 | 2018 年 6 月 30 日 |
+    | 2821 | A | Designing and Managing a Microsoft&reg; Windows&reg; Public Key Infrastructure | 英語 | 2018 年 6 月 30 日 |
+    | 2821 | A | Designing and Managing a Windows&reg; Public Key Infrastructure | 英語 | 2018 年 6 月 30 日 |
+    | 2823 | B | Implementing and Administering Security in a Microsoft&reg; Windows Server&trade; 2003 Network | 英語 | 2018 年 6 月 30 日 |
+    | 2830 | B | Designing Security for Microsoft&reg; Networks | 英語 | 2018 年 6 月 30 日 |
+    | 2933 | A | Developing Business Process and Integration Solutions Using Microsoft&reg; BizTalk&reg; Server 2006 | 英語 | 2018 年 6 月 30 日 |
+    | 2956 | B | Core Foundations of Microsoft&reg; .NET 2.0 Development | 英語 | 2018 年 6 月 30 日 |
+    | 2957 | B | Advanced Foundations of Microsoft&reg; .NET 2.0 Development | 英語 | 2018 年 6 月 30 日 |
+    | 3938 | C | Updating Your Skills from Microsoft&reg; Exchange Server 2000 or Microsoft Exchange Server 2003 to Microsoft Exchange Server 2007 SP1 | 英語 | 2018 年 6 月 30 日 |
+    | 4730 | A | Weiterführende Webanwendungstechnologien Mit Microsoft&reg; Visual Studio&reg; 2005 | ドイツ語 | 2018 年 6 月 30 日 |
+    | 4730 | A | Advanced Web Application Technologies with Microsoft&reg; Visual Studio&reg; 2005  | ドイツ語 | 2018 年 6 月 30 日 |
     | 4994 | A | Introduction to Programming Microsoft .NET Applications with Microsoft Visual Studio 2005 | 英語 | 2018 年 6 月 30 日 |
-    | 4995 | A | Programming with the Microsoft® .NET Framework using Microsoft Visual Studio® 2005 | 英語 | 2018 年 6 月 30 日 |
-    | 5047 | B | Introduction to Installing and Managing Microsoft® Exchange Server 2007 SP1 | 英語 | 2018 年 6 月 30 日 |
+    | 4995 | A | Programming with the Microsoft&reg; .NET Framework using Microsoft Visual Studio&reg; 2005 | 英語 | 2018 年 6 月 30 日 |
+    | 5047 | B | Introduction to Installing and Managing Microsoft&reg; Exchange Server 2007 SP1 | 英語 | 2018 年 6 月 30 日 |
     | 5049 | A | Managing Messaging Security Using Microsoft Exchange Server 2007  | 英語 | 2018 年 6 月 30 日 |
     | 5050 | A | Recovering Messaging Servers and Databases Using Microsoft Exchange | 英語 | 2018 年 6 月 30 日 |
     | 5051 | A | Monitoring and TroubleShooting Microsoft Exchange Server 2007 | 英語 | 2018 年 6 月 30 日 |
     | 5053 | A | Designing a Messaging Infrastructure Using Microsoft Exchange Server 2007 | 英語 | 2018 年 6 月 30 日 |
     | 5054 | A | Designing a High Availability Messaging Solution Using Microsoft Exchange Server 2007 | 英語 | 2018 年 6 月 30 日 |
     | 5058 | A | Project Series: Deploying Microsoft Office 2007 Professional Edition  | 英語 | 2018 年 6 月 30 日 |
-    | 5060 | A | Implementing Windows® SharePoint® Services 3.0 | 英語 | 2018 年 6 月 30 日 |
+    | 5060 | A | Implementing Windows&reg; SharePoint&reg; Services 3.0 | 英語 | 2018 年 6 月 30 日 |
     | 5061 | A | Implementing Microsoft Office SharePoint Server 2007 | 英語 | 2018 年 6 月 30 日 |
-    | 5105 | C | Deploying Windows Vista® Business Desktops | 英語 | 2018 年 6 月 30 日 |
-    | 5115 | B | Installing, Configuring, and Troubleshooting Windows Vista® | 英語 | 2018 年 6 月 30 日 |
-    | 5117 | A | Installing, Configuring, Troubleshooting, and Maintaining Windows Vista® | 英語 | 2018 年 6 月 30 日 |
-    | 5118 | B | Supporting Windows Vista® and Applications in the Enterprise | 英語 | 2018 年 6 月 30 日 |
+    | 5105 | C | Deploying Windows Vista&reg; Business Desktops | 英語 | 2018 年 6 月 30 日 |
+    | 5115 | B | Installing, Configuring, and Troubleshooting Windows Vista&reg; | 英語 | 2018 年 6 月 30 日 |
+    | 5117 | A | Installing, Configuring, Troubleshooting, and Maintaining Windows Vista&reg; | 英語 | 2018 年 6 月 30 日 |
+    | 5118 | B | Supporting Windows Vista&reg; and Applications in the Enterprise | 英語 | 2018 年 6 月 30 日 |
     | 5177 | A | Implementing and Maintaining Instant Messaging Using Microsoft Office Communications Server 2007 | 英語 | 2018 年 6 月 30 日 |
     | 5178 | A | Implementing and Maintaining Audio/Visual Conferencing and Web Conferencing Using Microsoft Office Communications Server 2007 | 英語 | 2018 年 6 月 30 日 |
     | 5179 | A | Implementing and Maintaining Telephony Using Microsoft Office Communications Server 2007 | 英語 | 2018 年 6 月 30 日 |
-    | 5909 | A | Introduction à l`installation et à la gestion de Microsoft® Exchange Server 2007 | フランス語 | 2018 年 6 月 30 日 |
-    | 5910 | A | Einführung in die Installation und Verwaltung von Microsoft® Exchange Server 2007 | ドイツ語 | 2018 年 6 月 30 日 |
+    | 5909 | A | Introduction à l`installation et à la gestion de Microsoft&reg; Exchange Server 2007 | フランス語 | 2018 年 6 月 30 日 |
+    | 5910 | A | Einführung in die Installation und Verwaltung von Microsoft&reg; Exchange Server 2007 | ドイツ語 | 2018 年 6 月 30 日 |
     | 5911 | A | Introduction to Installing and Managing Microsoft Exchange Server 2007 | 日本語 | 2018 年 6 月 30 日 |
     | 5912 | A | Managing Messaging Security Using Microsoft Exchange Server 2007 | フランス語 | 2018 年 6 月 30 日 |
     | 5913 | A | Managing Messaging Security Using Microsoft Exchange Server 2007 | ドイツ語 | 2018 年 6 月 30 日 |
@@ -456,116 +456,116 @@ ms.author: micsullivan
     | 5915 | A | Recovering Messaging Server and Databases Using Microsoft Exchange Server 2007 | ドイツ語 | 2018 年 6 月 30 日 |
     | 5916 | A | Monitoring and TroubleShooting Microsoft Exchange Server 2007 | フランス語 | 2018 年 6 月 30 日 |
     | 5917 | A | Monitoring and TroubleShooting Microsoft Exchange Server 2007 | ドイツ語 | 2018 年 6 月 30 日 |
-    | 5942 | A | Implémentation de Microsoft® Windows® SharePoint® Services 3.0 | フランス語 | 2018 年 6 月 30 日 |
-    | 5943 | A | Implementieren von Microsoft® Windows® SharePoint® Services 3.0 | ドイツ語 | 2018 年 6 月 30 日 |
-    | 5944 | A | Implementing Microsoft® Office SharePoint® Server 2007 | フランス語 | 2018 年 6 月 30 日 |
-    | 5945 | A | Implementing Microsoft® Office SharePoint® Server 2007 | ドイツ語 | 2018 年 6 月 30 日 |
-    | 5947 | A | Deploying Microsoft® Windows Vista™ Business Desktops-German | ドイツ語 | 2018 年 6 月 30 日 |
+    | 5942 | A | Implémentation de Microsoft&reg; Windows&reg; SharePoint&reg; Services 3.0 | フランス語 | 2018 年 6 月 30 日 |
+    | 5943 | A | Implementieren von Microsoft&reg; Windows&reg; SharePoint&reg; Services 3.0 | ドイツ語 | 2018 年 6 月 30 日 |
+    | 5944 | A | Implementing Microsoft&reg; Office SharePoint&reg; Server 2007 | フランス語 | 2018 年 6 月 30 日 |
+    | 5945 | A | Implementing Microsoft&reg; Office SharePoint&reg; Server 2007 | ドイツ語 | 2018 年 6 月 30 日 |
+    | 5947 | A | Deploying Microsoft&reg; Windows Vista&trade; Business Desktops-German | ドイツ語 | 2018 年 6 月 30 日 |
     | 5949 | A | Installing and Configuring the Windows Vista Operating System | ドイツ語 | 2018 年 6 月 30 日 |
-    | 5949 | A | Installing and Configuring the Windows Vista™ Operating System  | ドイツ語 | 2018 年 6 月 30 日 |
-    | 5951 | A | Configuring Windows Vista™ Applications and Tools-| ドイツ語 | 2018 年 6 月 30 日 |
-    | 5954 | A | Résolution des problèmes et maintenance des ordinateurs Windows Vista™ | フランス語 | 2018 年 6 月 30 日 |
+    | 5949 | A | Installing and Configuring the Windows Vista&trade; Operating System  | ドイツ語 | 2018 年 6 月 30 日 |
+    | 5951 | A | Configuring Windows Vista&trade; Applications and Tools-| ドイツ語 | 2018 年 6 月 30 日 |
+    | 5954 | A | Résolution des problèmes et maintenance des ordinateurs Windows Vista&trade; | フランス語 | 2018 年 6 月 30 日 |
     | 5955 | A | Verwalten von Computern und Problembehandlung unter Windows Vista | ドイツ語 | 2018 年 6 月 30 日 |
-    | 5955 | A | Verwalten von Computern und Problembehandlung unter Windows Vista™ | ドイツ語 | 2018 年 6 月 30 日 |
+    | 5955 | A | Verwalten von Computern und Problembehandlung unter Windows Vista&trade; | ドイツ語 | 2018 年 6 月 30 日 |
     | 5957 | A | Unterstützung von Windows Vista und Windows Vista Anwendungen | ドイツ語 | 2018 年 6 月 30 日 |
     | 5970 | A | Installing and Configuring the Windows Vista Operating System-|日本語 | 2018 年 6 月 30 日 |
     | 5971 | A | Configuring Windows Vista Mobile Computing and Applications-|日本語 | 2018 年 6 月 30 日 |
     | 5981 | A | Maintaining and Troubleshooting Windows Vista Computers-|日本語 | 2018 年 6 月 30 日 |
     | 6066 | A | Developing Managed Applications for Microsoft Windows Mobile 6.0 | 英語 | 2018 年 6 月 30 日 |
     | 6067 | A | Developing Native Applications for Microsoft Windows Mobile 6.0 | 英語 | 2018 年 6 月 30 日 |
-    | 6111 | A | Core Data Access with Microsoft® Visual Studio® 2005 | 中国語 | 2018 年 6 月 30 日 |
-    | 6112 | A | Advanced Data Access with Microsoft® Visual Studio® 2005 | 中国語 | 2018 年 6 月 30 日 |
-    | 6113 | A | Core Web Application Technologies with Microsoft® Visual Studio® 2005 | 中国語 | 2018 年 6 月 30 日 |
-    | 6114 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005 | 中国語 | 2018 年 6 月 30 日 |
-    | 6115 | A | Core development with the Microsoft® .NET Framework 2.0 Foundation | 中国語 | 2018 年 6 月 30 日 |
-    | 6116 | A | Advanced Development with the Microsoft® .NET Framework 2.0 Foundation | 中国語 | 2018 年 6 月 30 日 |
+    | 6111 | A | Core Data Access with Microsoft&reg; Visual Studio&reg; 2005 | 中国語 | 2018 年 6 月 30 日 |
+    | 6112 | A | Advanced Data Access with Microsoft&reg; Visual Studio&reg; 2005 | 中国語 | 2018 年 6 月 30 日 |
+    | 6113 | A | Core Web Application Technologies with Microsoft&reg; Visual Studio&reg; 2005 | 中国語 | 2018 年 6 月 30 日 |
+    | 6114 | A | Advanced Web Application Technologies with Microsoft&reg; Visual Studio&reg; 2005 | 中国語 | 2018 年 6 月 30 日 |
+    | 6115 | A | Core development with the Microsoft&reg; .NET Framework 2.0 Foundation | 中国語 | 2018 年 6 月 30 日 |
+    | 6116 | A | Advanced Development with the Microsoft&reg; .NET Framework 2.0 Foundation | 中国語 | 2018 年 6 月 30 日 |
     | 6142 | A | Implementing Microsoft Office SharePoint Server 2007 | 日本語 | 2018 年 6 月 30 日 |
-    | 6160 | A | Einführung in die Programmierung von Microsoft® .NET Framework- Anwendungen mit Microsoft Visual Studio® 2005 | ドイツ語 | 2018 年 6 月 30 日 |
-    | 6268 | A | Installing and Configuring the Windows Vista™ Operating System | アラビア語  | 2018 年 6 月 30 日 |
+    | 6160 | A | Einführung in die Programmierung von Microsoft&reg; .NET Framework- Anwendungen mit Microsoft Visual Studio&reg; 2005 | ドイツ語 | 2018 年 6 月 30 日 |
+    | 6268 | A | Installing and Configuring the Windows Vista&trade; Operating System | アラビア語  | 2018 年 6 月 30 日 |
     | 6269 | A | Configuring Windows Vista Mobile Computing and Applications | アラビア語  | 2018 年 6 月 30 日 |
-    | 6438 | A | Implementing and Administering Windows® SharePoint® Services 3.0 in Windows Server® 2008 | 英語 | 2018 年 6 月 30 日 |
-    | 6461 | A | Visual Studio® 2008: Windows® Communication Foundation | 英語 | 2018 年 6 月 30 日 |
-    | 6462 | A | Visual Studio® 2008: Windows® Workflow Foundation | 英語 | 2018 年 6 月30 日 |
+    | 6438 | A | Implementing and Administering Windows&reg; SharePoint&reg; Services 3.0 in Windows Server&reg; 2008 | 英語 | 2018 年 6 月 30 日 |
+    | 6461 | A | Visual Studio&reg; 2008: Windows&reg; Communication Foundation | 英語 | 2018 年 6 月 30 日 |
+    | 6462 | A | Visual Studio&reg; 2008: Windows&reg; Workflow Foundation | 英語 | 2018 年 6 月30 日 |
     | 6730 | B | Erweitern Ihrer Kenntnisse der Netzwerkinfrastruktur- und Active Directory-Technologie für Windows Server 2008 | ドイツ語 | 2018 年 6 月 30 日 |
     | 6731 | B | Erweitern Ihrer Kenntnisse der Anwendungsinfrastruktur-Technologie für Windows Server 2008 | ドイツ語 | 2018 年 6 月 30 日 |
-    | 6734 | A | Updating your Network Infrastructure and Active Directory® Technology Skills to Windows Server® 2008 | フランス語 | 2018 年 6 月 30 日 |
-    | 6734 | A | Mise à jour de vos compétences en matière d'infrastructure réseau et de technologie Active Directory® dans Windows Server® 2008 | フランス語 | 2018 年 6 月 30 日 |
-    | 6735 | A | Updating your Application Platform Technology Skills to Windows Server® 2008 | フランス語 | 2018 年 6 月 30 日 |
-    | 6738 | A | Configuration et administration des services Windows Media® dans Windows Server® 2008 | フランス語 | 2018 年 6 月 30 日 |
+    | 6734 | A | Updating your Network Infrastructure and Active Directory&reg; Technology Skills to Windows Server&reg; 2008 | フランス語 | 2018 年 6 月 30 日 |
+    | 6734 | A | Mise à jour de vos compétences en matière d'infrastructure réseau et de technologie Active Directory&reg; dans Windows Server&reg; 2008 | フランス語 | 2018 年 6 月 30 日 |
+    | 6735 | A | Updating your Application Platform Technology Skills to Windows Server&reg; 2008 | フランス語 | 2018 年 6 月 30 日 |
+    | 6738 | A | Configuration et administration des services Windows Media&reg; dans Windows Server&reg; 2008 | フランス語 | 2018 年 6 月 30 日 |
     | 6741 | A | Configuration et dépannage d'une infrastructure réseau Windows Server 2008 | フランス語 | 2018 年 6 月 30 日 |
-    | 6742 | A | Konfigurieren einer Netzwerkinfrastruktur und Problembehandlung unter Windows Server® 2008 | ドイツ語 | 2018 年 6 月 30 日 |
-    | 6743 | A | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure (Japanese) | 日本語 | 2018 年 6 月 30 日 |
-    | 6747 | A | Planification et administration de serveurs Windows Server® 2008 | フランス語 | 2018 年 6 月 30 日 |
-    | 6851 | A | Fundamentals of Windows Server® 2008 Active Directory® | 中国語 | 2018 年 6 月 30 日 |
-    | 6853 | A | Deploying Windows Server® 2008 | 中国語 | 2018 年 6 月 30 日 |
-    | 6855 | A | Configuring and Troubleshooting Windows Server® 2008 Terminal Services (簡体字中国語) | 中国語 | 2018 年 6 月 30 日 |
+    | 6742 | A | Konfigurieren einer Netzwerkinfrastruktur und Problembehandlung unter Windows Server&reg; 2008 | ドイツ語 | 2018 年 6 月 30 日 |
+    | 6743 | A | Configuring and Troubleshooting a Windows Server&reg; 2008 Network Infrastructure (Japanese) | 日本語 | 2018 年 6 月 30 日 |
+    | 6747 | A | Planification et administration de serveurs Windows Server&reg; 2008 | フランス語 | 2018 年 6 月 30 日 |
+    | 6851 | A | Fundamentals of Windows Server&reg; 2008 Active Directory&reg; | 中国語 | 2018 年 6 月 30 日 |
+    | 6853 | A | Deploying Windows Server&reg; 2008 | 中国語 | 2018 年 6 月 30 日 |
+    | 6855 | A | Configuring and Troubleshooting Windows Server&reg; 2008 Terminal Services (簡体字中国語) | 中国語 | 2018 年 6 月 30 日 |
     | 6856 | A | Fundamentals of Windows Server 2008 Active Directory | ドイツ語 | 2018 年 6 月 30 日 |
     | 6857 | A | Fundamentals of Windows Server 2008 Active Directory | フランス語 | 2018 年 6 月 30 日 |
-    | 6871 | A | Configuring and Troubleshooting Identity and Access Solutions with Windows Server® 2008 Active Directory® (Japanese) | 日本語 | 2018 年 6 月 30 日 |
+    | 6871 | A | Configuring and Troubleshooting Identity and Access Solutions with Windows Server&reg; 2008 Active Directory&reg; (Japanese) | 日本語 | 2018 年 6 月 30 日 |
     | 7193 | A | Developing Managed Applications for Windows Mobile 6 | 中国語 | 2018 年 6 月 30 日 |
     | 7196 | A | Developing Native Applications for Microsoft Windows Mobile 6 | 中国語 | 2018 年 6 月 30 日 |
-    | 10036 | A | Designing a Windows Server® 2008 Network Infrastructure-French | フランス語 | 2018 年 6 月 30 日 |
+    | 10036 | A | Designing a Windows Server&reg; 2008 Network Infrastructure-French | フランス語 | 2018 年 6 月 30 日 |
     | 10079 | A | Configuring and Troubleshooting Identity and Access Solutions with Windows Server (簡体字中国語) | 中国語 | 2018 年 6 月 30 日 |
-    | 10080 | A | Conceitos básicos da infraestrutura de rede e aplicativos do Windows Server® 2008 | 中国語 | 2018 年 6 月 30 日 |
-    | 10081 | A | Maintaining a Microsoft® SQL Server® 2008 Database | 中国語 | 2018 年 6 月 30 日 |
-    | 10082 | A | Implementing a Microsoft® SQL Server® 2008 Database | 中国語 | 2018 年 6 月 30 日 |
+    | 10080 | A | Conceitos básicos da infraestrutura de rede e aplicativos do Windows Server&reg; 2008 | 中国語 | 2018 年 6 月 30 日 |
+    | 10081 | A | Maintaining a Microsoft&reg; SQL Server&reg; 2008 Database | 中国語 | 2018 年 6 月 30 日 |
+    | 10082 | A | Implementing a Microsoft&reg; SQL Server&reg; 2008 Database | 中国語 | 2018 年 6 月 30 日 |
     | 10083 | A | Visual Studio 2008: Windows Presentation Foundation | 中国語 | 2018 年 6 月 30 日 |
     | 10085 | A | Visual Studio 2008: Windows Workflow Foundation | 中国語 | 2018 年 6 月 30 日 |
-    | 10086 | A | Visual Studio® 2008: ASP.NET 3.5 | 中国語 | 2018 年 6 月 30 日 |
-    | 10087 | A | Visual Studio® 2008: ADO.NET 3.5 | 中国語 | 2018 年 6 月 30 日 |
+    | 10086 | A | Visual Studio&reg; 2008: ASP.NET 3.5 | 中国語 | 2018 年 6 月 30 日 |
+    | 10087 | A | Visual Studio&reg; 2008: ADO.NET 3.5 | 中国語 | 2018 年 6 月 30 日 |
     | 10184 | A | Designing Windows Server 2008 Network Infrastructure | 中国語 | 2018 年 6 月 30 日 |
-    | 10185 | A | Designing Active Directory® Infrastructure and Services in Windows Server® 2008 | 中国語 | 2018 年 6 月 30 日 |
-    | 10218 | A | Writing Queries Using Microsoft® SQL Server® 2008 Transact-SQL(Japanese) | 日本語 | 2018 年 6 月 30 日 |
+    | 10185 | A | Designing Active Directory&reg; Infrastructure and Services in Windows Server&reg; 2008 | 中国語 | 2018 年 6 月 30 日 |
+    | 10218 | A | Writing Queries Using Microsoft&reg; SQL Server&reg; 2008 Transact-SQL(Japanese) | 日本語 | 2018 年 6 月 30 日 |
     | 10326 | A | Implementieren und Verwalten von Windows Small Business Server 2008 | ドイツ語 | 2018 年 6 月 30 日 |
-    | 10562 | A | Developing Web Applications with Microsoft® Visual Studio® 2010(簡体字中国語) | 中国語 | 2018 年 6 月 30 日 |
-    | 80307 | A | Enterprise Portal Development in Microsoft Dynamics® AX 2012 | 英語 | 2018 年 6 月 30 日 |
-    | 80308 | A | Procurement in Microsoft Dynamics® AX 2012 | 英語 | 2018 年 6 月 30 日 |
-    | 80310 | A | LEAN Manufacturing in Microsoft Dynamics® AX 2012 | 英語 | 2018 年 6 月 30 日 |
-    | 80312 | A | Development III in Microsoft Dynamics® AX 2012 | 英語 | 2018 年 6 月 30 日 |
-    | 80313 | A | Development IV in Microsoft Dynamics® AX 2012 | 英語 | 2018 年 6 月 30 日 |
-    | 80314 | A | Discrete Manufacturing Basics in Microsoft Dynamics® AX 2012 | 英語 | 2018 年 6 月 30 日 |
-    | 80315 | A | Discrete Manufacturing Advanced in Microsoft Dynamics® AX 2012 | 英語 | 2018 年 6 月 30 日 |
-    | 80318 | A | Reporting in Microsoft Dynamics® AX 2012 | 英語 | 2018 年 6 月 30 日 |
-    | 80338 | A | Microsoft Dynamics® AX 2012 Public Sector-Financials | 英語 | 2018 年 6 月 30 日 |
-    | 80414 | A | Service Management in Microsoft Dynamics® AX 2012 | 英語 | 2018 年 6 月 30 日 |
-    | 80416 | A | Application Integration Framework and Services in Microsoft Dynamics® AX 2012 | 英語 | 2018 年 6 月 30 日 |
-    | 80419 | A | Manufacturing Execution in Microsoft Dynamics® AX 2012 | 英語 | 2018 年 6 月 30 日 |
-    | 80420 | A | Data Upgrade and Code Upgrade to Microsoft Dynamics® AX 2012 | 英語 | 2018 年 6 月 30 日 |
-    | 80421 | A | Sales and Marketing in Microsoft Dynamics® AX 2012 | 英語 | 2018 年 6 月 30 日 |
-    | 80422 | A | Intercompany Setup and Order Processing in Microsoft Dynamics® AX 2012 | 英語 | 2018 年 6 月 30 日 |
-    | 80423 | A | Master Planning in Microsoft Dynamics® AX 2012 | 英語 | 2018 年 6 月 30 日 |
-    | 80424 | A | Product Configuration in Microsoft Dynamics® AX 2012 | 英語 | 2018 年 6 月 30 日 |
-    | 80489 | A | Diskrete Fertigung I in Microsoft Dynamics® AX 2012 | ドイツ語 | 2018 年 6 月 30 日 |
-    | 80492 | A | Diskrete Fertigung II in Microsoft Dynamics® AX 2012 | ドイツ語 | 2018 年 6 月 30 日 |
-    | 80526 | A | Beschaffung in Microsoft Dynamics® AX 2012 | ドイツ語 | 2018 年 6 月 30 日 |
-    | 80530 | A | Serviceverwaltung in Microsoft Dynamics® AX 2012 | ドイツ語 | 2018 年 6 月 30 日 |
-    | 80537 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Installation and Configuration | 英語 | 2018 年 6 月 30 日 |
-    | 80538 | A | Human Resource Management in Microsoft Dynamics® AX 2012 R2 | 英語 | 2018 年 6 月 30 日 |
-    | 80539 | A | Installation and Deployment in Microsoft Dynamics® CRM 2013 | 英語 | 2018 年 6 月 30 日 |
-    | 80541 | A | Payroll in Microsoft Dynamics® AX 2012 R2 | 英語 | 2018 年 6 月 30 日 |
-    | 80542 | A | Customization and Configuration in Microsoft Dynamics® CRM 2013 | 英語 | 2018 年 6 月 30 日 |
-    | 80544 | A | Warehouse Management System in Microsoft Dynamics® AX 2012 R2 | 英語 | 2018 年 6 月 30 日 |
-    | 80545 | A | Customer Service in Microsoft Dynamics® CRM 2013 | 英語 | 2018 年 6 月 30 日 |
-    | 80546 | A | Sales Management in Microsoft Dynamics® CRM 2013 | 英語 | 2018 年 6 月 30 日 |
-    | 80583 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Installation and Configuration | 英語 | 2018 年 6 月 30 日 |
-    | 80584 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Development and Customization | 英語 | 2018 年 6 月 30 日 |
-    | 80585 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Development and Customization | 英語 | 2018 年 6 月 30 日 |
-    | 80616 | A | Customization and Configuration in Microsoft Dynamics® CRM 2013 (Japanese) | 日本語 | 2018 年 6 月 30 日 |
-    | 80617 | A | Konfiguration und Anpassung in Microsoft Dynamics® CRM 2013 | ドイツ語 | 2018 年 6 月 30 日 |
-    | 80618 | A | Personalización y configuración de Microsoft Dynamics® CRM 2013 | スペイン語  | 2018 年 6 月 30 日 |
-    | 80619 | A | Personnalisation et configuration dans Microsoft Dynamics® CRM 2013 | フランス語 | 2018 年 6 月 30 日 |
-    | 80620 | A | Installation and Deployment in Microsoft Dynamics® CRM 2013 (Japanese) | 日本語 | 2018 年 6 月 30 日 |
-    | 80621 | A | Instalación e implementación de Microsoft Dynamics® CRM 2013 | フランス語 | 2018 年 6 月 30 日 |
-    | 80622 | A | Installation und Bereitstellung in Microsoft Dynamics® CRM 2013 | ドイツ語 | 2018 年 6 月 30 日 |
-    | 80623 | A | Installation et déploiement dans Microsoft Dynamics® CRM 2013 | フランス語 | 2018 年 6 月 30 日 |
-    | 80624 | A | Administración de ventas de Microsoft Dynamics® CRM 2013 | スペイン語  | 2018 年 6 月 30 日 |
-    | 80625 | A | Vertriebsverwaltung in Microsoft Dynamics® CRM 2013 | ドイツ語 | 2018 年 6 月 30 日 |
-    | 80626 | A | Gestion des ventes dans Microsoft Dynamics® CRM 2013 | フランス語 | 2018 年 6 月 30 日 |
-    | 80627 | A | Sales Management in Microsoft Dynamics® CRM 2013 (Japanese) | 日本語 | 2018 年 6 月 30 日 |
-    | 80628 | A | Kundenservice in Microsoft Dynamics® CRM 2013 | ドイツ語 | 2018 年 6 月 30 日 |
-    | 80629 | A | Servicio al cliente de Microsoft Dynamics® CRM 2013 | スペイン語  | 2018 年 6 月 30 日 |
-    | 80630 | A | Service clientèle dans Microsoft Dynamics® CRM 2013 | フランス語 | 2018 年 6 月 30 日 |
-    | 80631 | A | Customer Service in Microsoft Dynamics® CRM 2013 (Japanese) | 日本語 | 2018 年 6 月 30 日 |
+    | 10562 | A | Developing Web Applications with Microsoft&reg; Visual Studio&reg; 2010(簡体字中国語) | 中国語 | 2018 年 6 月 30 日 |
+    | 80307 | A | Enterprise Portal Development in Microsoft Dynamics&reg; AX 2012 | 英語 | 2018 年 6 月 30 日 |
+    | 80308 | A | Procurement in Microsoft Dynamics&reg; AX 2012 | 英語 | 2018 年 6 月 30 日 |
+    | 80310 | A | LEAN Manufacturing in Microsoft Dynamics&reg; AX 2012 | 英語 | 2018 年 6 月 30 日 |
+    | 80312 | A | Development III in Microsoft Dynamics&reg; AX 2012 | 英語 | 2018 年 6 月 30 日 |
+    | 80313 | A | Development IV in Microsoft Dynamics&reg; AX 2012 | 英語 | 2018 年 6 月 30 日 |
+    | 80314 | A | Discrete Manufacturing Basics in Microsoft Dynamics&reg; AX 2012 | 英語 | 2018 年 6 月 30 日 |
+    | 80315 | A | Discrete Manufacturing Advanced in Microsoft Dynamics&reg; AX 2012 | 英語 | 2018 年 6 月 30 日 |
+    | 80318 | A | Reporting in Microsoft Dynamics&reg; AX 2012 | 英語 | 2018 年 6 月 30 日 |
+    | 80338 | A | Microsoft Dynamics&reg; AX 2012 Public Sector-Financials | 英語 | 2018 年 6 月 30 日 |
+    | 80414 | A | Service Management in Microsoft Dynamics&reg; AX 2012 | 英語 | 2018 年 6 月 30 日 |
+    | 80416 | A | Application Integration Framework and Services in Microsoft Dynamics&reg; AX 2012 | 英語 | 2018 年 6 月 30 日 |
+    | 80419 | A | Manufacturing Execution in Microsoft Dynamics&reg; AX 2012 | 英語 | 2018 年 6 月 30 日 |
+    | 80420 | A | Data Upgrade and Code Upgrade to Microsoft Dynamics&reg; AX 2012 | 英語 | 2018 年 6 月 30 日 |
+    | 80421 | A | Sales and Marketing in Microsoft Dynamics&reg; AX 2012 | 英語 | 2018 年 6 月 30 日 |
+    | 80422 | A | Intercompany Setup and Order Processing in Microsoft Dynamics&reg; AX 2012 | 英語 | 2018 年 6 月 30 日 |
+    | 80423 | A | Master Planning in Microsoft Dynamics&reg; AX 2012 | 英語 | 2018 年 6 月 30 日 |
+    | 80424 | A | Product Configuration in Microsoft Dynamics&reg; AX 2012 | 英語 | 2018 年 6 月 30 日 |
+    | 80489 | A | Diskrete Fertigung I in Microsoft Dynamics&reg; AX 2012 | ドイツ語 | 2018 年 6 月 30 日 |
+    | 80492 | A | Diskrete Fertigung II in Microsoft Dynamics&reg; AX 2012 | ドイツ語 | 2018 年 6 月 30 日 |
+    | 80526 | A | Beschaffung in Microsoft Dynamics&reg; AX 2012 | ドイツ語 | 2018 年 6 月 30 日 |
+    | 80530 | A | Serviceverwaltung in Microsoft Dynamics&reg; AX 2012 | ドイツ語 | 2018 年 6 月 30 日 |
+    | 80537 | A | Microsoft Dynamics&reg; AX 2012 R2 for Retail in Brick and Mortar Stores: Installation and Configuration | 英語 | 2018 年 6 月 30 日 |
+    | 80538 | A | Human Resource Management in Microsoft Dynamics&reg; AX 2012 R2 | 英語 | 2018 年 6 月 30 日 |
+    | 80539 | A | Installation and Deployment in Microsoft Dynamics&reg; CRM 2013 | 英語 | 2018 年 6 月 30 日 |
+    | 80541 | A | Payroll in Microsoft Dynamics&reg; AX 2012 R2 | 英語 | 2018 年 6 月 30 日 |
+    | 80542 | A | Customization and Configuration in Microsoft Dynamics&reg; CRM 2013 | 英語 | 2018 年 6 月 30 日 |
+    | 80544 | A | Warehouse Management System in Microsoft Dynamics&reg; AX 2012 R2 | 英語 | 2018 年 6 月 30 日 |
+    | 80545 | A | Customer Service in Microsoft Dynamics&reg; CRM 2013 | 英語 | 2018 年 6 月 30 日 |
+    | 80546 | A | Sales Management in Microsoft Dynamics&reg; CRM 2013 | 英語 | 2018 年 6 月 30 日 |
+    | 80583 | A | Microsoft Dynamics&reg; AX 2012 R2 for Retail in eCommerce Stores: Installation and Configuration | 英語 | 2018 年 6 月 30 日 |
+    | 80584 | A | Microsoft Dynamics&reg; AX 2012 R2 for Retail in eCommerce Stores: Development and Customization | 英語 | 2018 年 6 月 30 日 |
+    | 80585 | A | Microsoft Dynamics&reg; AX 2012 R2 for Retail in Brick and Mortar Stores: Development and Customization | 英語 | 2018 年 6 月 30 日 |
+    | 80616 | A | Customization and Configuration in Microsoft Dynamics&reg; CRM 2013 (Japanese) | 日本語 | 2018 年 6 月 30 日 |
+    | 80617 | A | Konfiguration und Anpassung in Microsoft Dynamics&reg; CRM 2013 | ドイツ語 | 2018 年 6 月 30 日 |
+    | 80618 | A | Personalización y configuración de Microsoft Dynamics&reg; CRM 2013 | スペイン語  | 2018 年 6 月 30 日 |
+    | 80619 | A | Personnalisation et configuration dans Microsoft Dynamics&reg; CRM 2013 | フランス語 | 2018 年 6 月 30 日 |
+    | 80620 | A | Installation and Deployment in Microsoft Dynamics&reg; CRM 2013 (Japanese) | 日本語 | 2018 年 6 月 30 日 |
+    | 80621 | A | Instalación e implementación de Microsoft Dynamics&reg; CRM 2013 | フランス語 | 2018 年 6 月 30 日 |
+    | 80622 | A | Installation und Bereitstellung in Microsoft Dynamics&reg; CRM 2013 | ドイツ語 | 2018 年 6 月 30 日 |
+    | 80623 | A | Installation et déploiement dans Microsoft Dynamics&reg; CRM 2013 | フランス語 | 2018 年 6 月 30 日 |
+    | 80624 | A | Administración de ventas de Microsoft Dynamics&reg; CRM 2013 | スペイン語  | 2018 年 6 月 30 日 |
+    | 80625 | A | Vertriebsverwaltung in Microsoft Dynamics&reg; CRM 2013 | ドイツ語 | 2018 年 6 月 30 日 |
+    | 80626 | A | Gestion des ventes dans Microsoft Dynamics&reg; CRM 2013 | フランス語 | 2018 年 6 月 30 日 |
+    | 80627 | A | Sales Management in Microsoft Dynamics&reg; CRM 2013 (Japanese) | 日本語 | 2018 年 6 月 30 日 |
+    | 80628 | A | Kundenservice in Microsoft Dynamics&reg; CRM 2013 | ドイツ語 | 2018 年 6 月 30 日 |
+    | 80629 | A | Servicio al cliente de Microsoft Dynamics&reg; CRM 2013 | スペイン語  | 2018 年 6 月 30 日 |
+    | 80630 | A | Service clientèle dans Microsoft Dynamics&reg; CRM 2013 | フランス語 | 2018 年 6 月 30 日 |
+    | 80631 | A | Customer Service in Microsoft Dynamics&reg; CRM 2013 (Japanese) | 日本語 | 2018 年 6 月 30 日 |
 
 * 2018 年 3 月 30 日に終了したコースウェア
 
@@ -879,9 +879,9 @@ ms.author: micsullivan
 
     | 6 月 30 日の廃止コース番号 | バージョン | タイトル | 言語 | ノート |
     | --- | --- | --- | --- | --- |
-    | 6428 | A | Configuring and Troubleshooting Windows Server 2008 Terminal Services | 英語 | ‘コース 6439：Configuring and Troubleshooting Windows Server 2008 Application Infrastructure’ に置き換え
-    | 6429 | A | Configuring and Managing Windows Media Services for Windows Server 2008 | 英語 | ‘コース 6439: Configuring and Troubleshooting Windows Server 2008 Application Infrastructure’に置き換え
-    | 6437 | A | Designing a Windows Server 2008 Applications Infrastructure | 英語 | ‘コース 6435B: Designing Windows Server 2008 Network and Applications Infrastructure’ に置き換え
+    | 6428 | A | Configuring and Troubleshooting Windows Server 2008 Terminal Services | 英語 | 'コース 6439：Configuring and Troubleshooting Windows Server 2008 Application Infrastructure' に置き換え
+    | 6429 | A | Configuring and Managing Windows Media Services for Windows Server 2008 | 英語 | 'コース 6439: Configuring and Troubleshooting Windows Server 2008 Application Infrastructure'に置き換え
+    | 6437 | A | Designing a Windows Server 2008 Applications Infrastructure | 英語 | 'コース 6435B: Designing Windows Server 2008 Network and Applications Infrastructure' に置き換え
 
 ## 終了したコースウェア: オンライン学習
 

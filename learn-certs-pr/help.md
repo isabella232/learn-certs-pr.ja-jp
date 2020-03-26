@@ -6,8 +6,8 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 2019/07/30
-ms.author:micsullivan
+ms.date: 07/30/2019
+ms.author: micsullivan
 ---
 # Microsoft トレーニングおよび資格のヘルプ
 

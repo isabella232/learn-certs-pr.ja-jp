@@ -70,7 +70,7 @@ paths:
 - uid: learn.secure-your-cloud-data
 relatedCertifications:
 - related:
-    uid: なし
+    uid: none
 resources:
 - title: 認定の学習経路
   description: 'Microsoft Certified: Azure Developer Associate になるための教材を探しましょう。'
