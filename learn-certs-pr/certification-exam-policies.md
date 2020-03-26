@@ -509,7 +509,7 @@ Microsoft 認定資格に関するこちらのプロセスについて質問が�
 
 Microsoft 認定資格試験の有効性および妥当性を可能な限り高めるため、皆様からのご意見を非常に重要視しています。
 
-## <a name="#special-accommodations-when-taking-exams"></a> 受験時の特別な設備
+## <a name="special-accommodations-when-taking-exams"></a> 受験時の特別な設備
 
 ### Pearson VUE が実施する試験:
 
