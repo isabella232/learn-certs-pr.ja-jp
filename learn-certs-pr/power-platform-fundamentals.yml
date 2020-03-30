@@ -1,7 +1,7 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Power Platform Fundamentals'
+title: Microsoft Certified Power Platform Fundamentals
 metadata:
-  title: 'Microsoft Certified: Power Platform Fundamentals'
+  title: Microsoft Certified Power Platform Fundamentals
   description: ビジネス価値およびコア製品機能から、基本的な Power Apps キャンバス アプリの構築、データソースの接続、 Microsoft Automate による自動化、 Power BI ダッシュボードの作成に至るまで、 Power Platform のコア機能を理解していることを証明しましょう。
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
@@ -11,7 +11,7 @@ subTitle: ビジネス価値およびコア製品機能から、基本的な Pow
 levels:
 - beginner
 skills:
-- Power Platform のビジネス価値を理解する
+- Platform のビジネス価値を理解する
 - Power Platform のコアコンポーネントを理解する
 - Power BI のビジネス価値を実証する
 - Power Apps のビジネス価値を実証する
@@ -45,6 +45,6 @@ resources:
 - title: 資格のサポート
   description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
-- title: 認定ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx

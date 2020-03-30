@@ -15,6 +15,8 @@ Microsoft のトレーニングと認定の製品についてご質問があり�
 
 ご不明点はありますか？以下のサポート オプションをご確認ください。
 
+認定とトレーニングのサポートを求めるお客様への対応は、経験上予想以上に時間がかかることにご注意ください。すべてのお問い合わせにできる限り迅速に対応できるように、ご協力をお願いいたします。
+
 ## 認定資格のヘルプ
 
 | サポートの範囲 | お問い合わせ先 |
@@ -24,4 +26,4 @@ Microsoft のトレーニングと認定の製品についてご質問があり�
 
 ## トレーニングのヘルプ
 
-Microsoft Official Courseware (MOC) のサポートについては、参照してください。[ここをクリック](https://docs.microsoft.com/learn/certifications/certification-and-training-help)
+Microsoft Official Courseware (MOC) のサポートについては、 [ ここをクリック ](https://docs.microsoft.com/learn/certifications/certification-and-training-help) 。 

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Open Source Data Workloads を Azure に移行する
+title: Migrate Open Source Data Workloads to Azure
 metadata:
-  title: 'コース DP-070T00-A: Open Source Data Workloads を Azure に移行する'
-  description: 'コース DP-070T00-A: Open Source Data Workloads を Azure に移行する'
+  title: 'Course DP-070T00-A: Migrate Open Source Data Workloads to Azure'
+  description: 'Course DP-070T00-A: Migrate Open Source Data Workloads to Azure'
 uid: course.dp-070t00
 courseNumber: 'DP-070T00-A'
 hoursToComplete: 24
@@ -21,12 +21,11 @@ products:
 - sql-server
 summary: |-
   このコースでは、受講者が Azure SQL Database を理解できるようにし、MySQL および PostgreSQL ワークロードを Azure SQL Database に移行するために必要なことを教えます。
-  
+
   #### 聴衆プロファイル
-  このコースの主な対象者は、MySQL または Postgres DB ワークロードを Azure SQL DB に移行する予定のデータベース開発者です。
-  次にこのコースの対象となるのは、Azure SQL DB の機能と利点に対する認識を高めるための MySQL/Postgres 管理者です。
+  このコースの主な対象者は、MySQL または Postgres DB ワークロードを Azure SQL DB に移行する予定のデータベース開発者です。次にこのコースの対象となるのは、Azure SQL DB の機能と利点に対する認識を高めるための MySQL/Postgres 管理者です。
 prerequisitesSection: |-
-  このトレーニングに参加する学生は、プロフェッショナルとしての経験に加えて、次の技術知識をすでに身に付けていることが求められます&#58;
+  このトレーニングに参加する学生は、プロフェッショナルとしての経験に加えて、次の技術知識をすでに身に付けていることが求められます。
   - Postgres や MySQL などのオープン ソース リレーショナル データベース管理システム、SQL 管理、表データのダンプなどのバックアップやリカバリ手法に関する知識
 outlineSection: |-
   ### モジュール 1&#58; MySQL および PostgreSQL 用の Azure SQL DB に移行する
@@ -35,7 +34,8 @@ outlineSection: |-
   - OSS データベースの概要
   - 一般的な OSS データベース ワークロード
   - 移行における顧客の課題
-  
+
+
   #### ラボ &#58; ソース OSS データベースの作成
   - Postgres 移行 DB サーバーのインストール
   - MySQL 移行 DB サーバーのインストール
@@ -91,4 +91,5 @@ outlineSection: |-
   - アプリケーションの移行
   - 移行後の考慮事項
 
-  #### このコースを受講するのに、追加の読書は必要ありません
+  #### 追加の読書
+  このコースを受講するために追加で読む必要はありません

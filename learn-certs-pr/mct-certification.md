@@ -37,6 +37,7 @@ MCT プログラムの要件の詳細については、このページの [申�
 
 
 ### MCT プログラムへの登録の要件
+
 - 現在の Microsoft 認定資格または MCT プログラムに適格な資格を有していること。 
 (認証の条件のリストについては以下を参照)
 - 次のいずれかにより検証された指導スキルの実証:
@@ -76,7 +77,7 @@ MCT プログラムの要件の詳細については、このページの [申�
 - [Microsoft Certified: Azure Administrator Associate](https://www.microsoft.com/learning/azure-administrator.aspx)
 - [Microsoft Certified: Azure Developer Associate](https://www.microsoft.com/learning/azure-developer.aspx)
 - [Microsoft Certified: Azure Security Engineer Associate](https://www.microsoft.com/learning/azure-security-engineer.aspx)
-- [Microsoft Certified: Azure DevOps Expert](https://www.microsoft.com/learning/azure-devops.aspx)
+- [Microsoft Certified: Azure DevOps Engineer Expert](https://www.microsoft.com/learning/azure-devops.aspx)
 - [Microsoft Certified: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
@@ -97,7 +98,7 @@ MCT プログラムの要件の詳細については、このページの [申�
 - [Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-supply-chain-management.aspx)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
-- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/powerapps-and-d365-developer-associate)
+- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate)
 - [Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
 - [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (2020年6月30日廃止予定)、Microsoft Dynamics 365 for Operations (2020年6月30日廃止予定)、SQL 2016 BI Development (2020年6月30日廃止予定)、SQL 2016 Database Administration (2020年6月30日廃止予定)、SQL 2016 Database Development (2020年6月30日廃止予定)、SQL Server 2012/2014 (2020年6月30日廃止予定)、ユニバーサル Windows プラットフォーム (2020年6月30日廃止予定)、Web アプリケーション (2020年6月30日廃止予定)、Windows Server 2012 (2020年6月30日廃止予定)、または Windows Server 2016 (2020年6月30日廃止予定)
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): ビジネス アプリケーション (2020年6月30日廃止予定)、データ管理および分析 (2020年6月30日廃止予定)、Productivity (2020年6月30日廃止予定)、またはコア インフラストラクチャ (2020年6月30日廃止予定)
@@ -140,9 +141,9 @@ MCT 登録ツールを使用して次のことを行いましょう:
 
 **注意** ラーニング パートナーの従業員であり、MCT プログラム料金を雇用主が支払う場合は、次の手順に従ってください:
 
-1.[Courseware Marketplace](https://shop.courseware-marketplace.com/) から MCT バウチャーを購入します。  
-2.[MCT 登録ツール](https://mcp.microsoft.com/Authenticate/MCT) で申請を完了します。  
-3.プログラム手数料の支払いを求めるメッセージが表示されたら、MCT バウチャー コードを入力します。
+1. [Courseware Marketplace](https://shop.courseware-marketplace.com/) から MCT バウチャーを購入します。
+2. [MCT 登録ツール](https://mcp.microsoft.com/Authenticate/MCT) で申請を完了します。
+3. プログラム手数料の支払いを求めるメッセージが表示されたら、MCT バウチャー コードを入力します。
 
 申請と支払いを完了したら、MCT ウェルカム電子メールが届くのを待ちます。MCT コンテンツには、[認定資格ダッシュボード](https://www.microsoft.com/learning/dashboard.aspx) においてアクセスできます。
 
@@ -185,7 +186,7 @@ MCT Alumni のメンバーになることに関心がある場合は、メンバ
 
 MCT に戻るには:
 
-- このページの [要件](#mctinfoheading-3) セクションで説明されている **MCT プログラムの要件を満たしていることを確認してください**。現在の Microsoft 認定資格に対するトランスクリプトと、MCT プログラムに適格な資格を有していることを確認します。
+- このページの [要件](#mctinfoheading-3) セクションで説明されている **MCT プログラムの要件を満たしていることを確認してください** 。現在の Microsoft 認定資格に対するトランスクリプトと、MCT プログラムに適格な資格を有していることを確認します。
 - **MCT プログラムへの参加を申し込みます。** MCT Alumni は、以前に MCT プログラムに申請したときに取得した指導スキルの認定の証明を提出するか、少なくとも 1 年の指導経験があることを実証する照会状を提出できます。この照会状は、以前の顧客、マネージャー、同僚のいずれかからのものにできます。
 
 ## MCT および MCT Alumni プログラムの料金

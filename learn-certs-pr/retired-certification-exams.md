@@ -55,7 +55,7 @@ ms.author: micsullivan
 | [70-778](https://www.microsoft.com/learning/exam-70-778.aspx): Analyzing and Visualizing Data with Power BI |  |
 | [70-779](https://www.microsoft.com/learning/exam-70-779.aspx): Analyzing and Visualizing Data with Microsoft Excel |  |
 | [MB2-716](https://www.microsoft.com/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration |  |
-| [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): Development, Extensions and Deployment for Microsoft Dynamics 365 for Finance and Operations |  |
+| [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance |  |
 | [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
 | [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
 | [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
@@ -73,18 +73,18 @@ ms.author: micsullivan
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 2019年5月1日
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 2019年5月1日
 | [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 2019 年 6 月 30 日
-| [AZ-200](https://www.microsoft.com/learning/exam-AZ-200.aspx) | Microsoft Azure Developer Core Solutions (2018 年 9 月 24 日リリース | 2019 年 1 月 3 日
-| [AZ-201](https://www.microsoft.com/learning/exam-AZ-201.aspx) | Microsoft Azure Developer Advanced Solutions (2018 年 9 月 24 日リリース) | 2019 年 1 月 3 日
-| [AZ-202](https://www.microsoft.com/learning/exam-AZ-202.aspx) | Microsoft Azure Developer Certification Transition (2018 年 9 月 24 日リリース) | 2019 年 3 月 31 日
+| AZ-200 | Microsoft Azure Developer Core Solutions (2018 年 9 月 24 日リリース | 2019 年 1 月 3 日
+| AZ-201 | Microsoft Azure Developer Advanced Solutions (2018 年 9 月 24 日リリース) | 2019 年 1 月 3 日
+| AZ-202 | Microsoft Azure Developer Certification Transition (2018 年 9 月 24 日リリース) | 2019 年 3 月 31 日
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 2019 年 6 月 30 日
 | [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | 2019 年 9 月 30 日
 | [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | 2019 年 9 月 30 日
 | 70-246 | Monitoring and Operating a Private Cloud with System Center 2012 | 2017 年 12 月 31 日
 | 70-247 | Configuring and Deploying a Private Cloud | 2017 年 12 月 31 日
-| [70-331](https://www.microsoft.com/learning/exam-70-331.aspx) | Core Solutions of Microsoft SharePoint Server 2013 | 2019 年 3 月 31 日
-| [70-332](https://www.microsoft.com/learning/exam-70-332.aspx) | Advanced Solutions of Microsoft SharePoint Server 2013 | 2019 年 3 月 31 日
-| [70-341](https://www.microsoft.com/learning/exam-70-341.aspx) | Core Solutions of Microsoft Exchange Server 2013 | 2019 年 3 月 31 日
-| [70-342](https://www.microsoft.com/learning/exam-70-342.aspx) | Advanced Solutions of Microsoft Exchange Server 2013 | 2019 年 3 月 31 日
+| 70-331 | Core Solutions of Microsoft SharePoint Server 2013 | 2019 年 3 月 31 日
+| 70-332 | Advanced Solutions of Microsoft SharePoint Server 2013 | 2019 年 3 月 31 日
+| 70-341 | Core Solutions of Microsoft Exchange Server 2013 | 2019 年 3 月 31 日
+| 70-342 | Advanced Solutions of Microsoft Exchange Server 2013 | 2019 年 3 月 31 日
 | [70-346](https://www.microsoft.com/learning/exam-70-346.aspx) | Managing Office 365 Identities and Requirements | 2019 年 4 月 30 日
 | [70-347](https://www.microsoft.com/learning/exam-70-347.aspx) | Enabling Office 365 Services | 2019 年 4 月 30 日
 | [70-348](https://www.microsoft.com/learning/exam-70-348.aspx) | Managing Projects and Portfolios with Microsoft PPM | 2019 年 12 月 31 日
@@ -93,20 +93,20 @@ ms.author: micsullivan
 | [70-475](https://www.microsoft.com/learning/exam-70-475.aspx) | Designing and Implementing Big Data Analytics Solutions | 2019 年 6 月 30 日
 | 70-488 | Developing SharePoint Server 2013 Core Solutions | 2018 年 7 月 31 日
 | 70-489 | Developing SharePoint Server 2013 Advanced Solutions | 2018 年 7 月 31 日
-| [70-496](https://www.microsoft.com/learning/exam-70-496.aspx) | Administering Visual Studio Team Foundation Server | 2018 年 12 月 31 日
-| [70-497](https://www.microsoft.com/learning/exam-70-497.aspx) | Software Testing with Visual Studio | 2018 年 12 月 31 日
-| [70-498](https://www.microsoft.com/learning/exam-70-498.aspx) | Delivering Continuous Value with Visual Studio | 2018 年 12 月 31 日
-| [70-532](https://www.microsoft.com/learning/exam-70-532.aspx) | Developing Microsoft Azure Solutions | 2018 年 12 月 31 日
-| [70-533](https://www.microsoft.com/learning/exam-70-533.aspx) | Implementing Microsoft Azure Infrastructure Solutions | 2018 年 12 月 31 日
-| [70-534](https://www.microsoft.com/learning/exam-70-534.aspx) | Architecting Microsoft Azure Solutions | 2017 年 12 月 31 日
-| [70-535](https://www.microsoft.com/learning/exam-70-535.aspx) | Architecting Microsoft Azure Solutions | 2018 年 12 月 31 日
+| 70-496 | Administering Visual Studio Team Foundation Server | 2018 年 12 月 31 日
+| 70-497 | Software Testing with Visual Studio | 2018 年 12 月 31 日
+| 70-498 | Delivering Continuous Value with Visual Studio | 2018 年 12 月 31 日
+| 70-532 | Developing Microsoft Azure Solutions | 2018 年 12 月 31 日
+| 70-533 | Implementing Microsoft Azure Infrastructure Solutions | 2018 年 12 月 31 日
+| 70-534 | Architecting Microsoft Azure Solutions | 2017 年 12 月 31 日
+| 70-535 | Architecting Microsoft Azure Solutions | 2018 年 12 月 31 日
 | 70-680 | Windows 7, Configuring | 2018 年 7 月 31 日
 | 70-685 | Windows 7, Enterprise Desktop Support Technician | 2018 年 7 月 31 日
 | 70-686 | Windows 7, Enterprise Desktop Administrator | 2018 年 7 月 31 日
-| [70-695](https://www.microsoft.com/learning/exam-70-695.aspx) | Deploying Windows Desktops and Enterprise Applications | 2019 年 3 月 31 日
+| 70-695 | Deploying Windows Desktops and Enterprise Applications | 2019 年 3 月 31 日
 | 70-696 | Administering System Center Configuration Manager and Intune | 2018 年 3 月 31 日
 | [70-697](https://www.microsoft.com/learning/exam-70-697.aspx) | Configuring Windows Devices | 2019 年 4 月 30 日
-| [70-698](https://www.microsoft.com/learning/exam-70-698.aspx) | Installing and Configuring Windows 10 | 2019 年 3 月 31 日
+| 70-698 | Installing and Configuring Windows 10 | 2019 年 3 月 31 日
 | [70-703](https://www.microsoft.com/learning/exam-70-703.aspx) | Administering Microsoft System Center Configuration Manager and Cloud Services Integration | 2019 年 12 月 31 日
 | [70-713](https://www.microsoft.com/learning/exam-70-713.aspx) | Software Asset Management (SAM) - Core | 2019 年 12 月 31 日
 | [70-735](https://www.microsoft.com/learning/exam-70-735.aspx) | OEM Manufacturing and Deployment for Windows 10 | 2019 年 12 月 31 日
@@ -128,7 +128,7 @@ ms.author: micsullivan
 | [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx) | Microsoft Dynamics CRM Online Deployment | 2019 年 12 月 31 日
 | [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx) | Microsoft Dynamics CRM Customization and Configuration | 2016 年 12 月 31 日
 | [MB2-708](https://www.microsoft.com/learning/exam-MB2-708.aspx) | Microsoft Dynamics CRM Installation | 2019 年 7 月 31 日
-| [MB2-709](https://www.microsoft.com/learning/exam-MB2-709.aspx) | Microsoft Dynamics Marketing | 2017 年 12 月 31 日
+| MB2-709 | Microsoft Dynamics Marketing | 2017 年 12 月 31 日
 | [MB2-710](https://www.microsoft.com/learning/exam-MB2-710.aspx) | Microsoft Dynamics CRM 2016 Online Deployment | 2019 年 12 月 31 日
 | [MB2-711](https://www.microsoft.com/learning/exam-MB2-711.aspx) | Microsoft Dynamics CRM 2016 Installation | 2019 年 7 月 31 日
 | [MB2-712](https://www.microsoft.com/learning/exam-MB2-712.aspx) | Microsoft Dynamics CRM 2016 Customization and Configuration | 2019 年 1 月 31 日
@@ -394,20 +394,20 @@ CH-137 | Developing Microsoft Office Solutions Using XML with Office Professiona
 | 74-676 | TS: Fast Enterprise Search Platform, Developing | 2012 年 7 月 31 日
 | 74-678 | Designing and Providing Microsoft Volume Licensing Solutions to Large Organizations | 2015 年 1 月 31 日
 | 74-679 | Windows Server 2008 Hosted Environments, Configuring and Managing | 2013 年 7 月 31 日
-| 74-697 | OEM Preinstallation｜2016 年 1 月 31 日
+| 74-697 | OEM Preinstallation | 2016 年 1 月 31 日
 | 74-924 | Microsoft Office Communications Server 2007 R2 – U.C.Voice Specialization | 2010 年 10 月 31 日
 | 77-891 | Office 365 | 2014 年 12 月 31 日
 | 78-702 | Designing and Managing a Microsoft Business Intelligence Solution | 2011 年 9 月 30 日
 | 88-961 | MCM: SharePoint Server 2010: Week 1 | 2013 年 8 月 25 日
 | 88-962 | MCM: SharePoint Server 2010: Week 2 | 2013 年 8 月 25 日
 | 88-963 | MCM: SharePoint Server 2010: Week 3 | 2013 年 8 月 25 日
-| 88-972 | MCM: SharePoint Server 2010: Lab Exam｜2013 年 8 月 25 日
+| 88-972 | MCM: SharePoint Server 2010: Lab Exam | 2013 年 8 月 25 日
 | 88-973 | MCM: SharePoint Server 2010, Knowledge Upgrade Exam | 2013 年 8 月 25 日
 | 88-965 | Windows Server 2008 R2: Directory Knowledge Exam | 2014 年 1 月 1 日
 | 88-966 | Windows Server 2008 R2: Directory Knowledge Exam | 2014 年 1 月 1 日
 | 88-968 | Lync Server 2010 Knowledge Exam | 2014 年 1 月 1 日
 | 88-969 | Lync Server 2010 Lab Exam | 2014 年 1 月 1 日
-| 88-971 | SQL Server 2008 Microsoft Certified Master：Lab Exam｜2013 年 12 月 31 日
+| 88-971 | SQL Server 2008 Microsoft Certified Master：Lab Exam | 2013 年 12 月 31 日
 | 88-981 | Windows Server 2008 R2: Directory Lab Exam | 2014 年 1 月 1 日
 | 98-362 | Windows Development Fundamentals | 2014 年 7 月 31 日
 | 98-363 | Web Development Fundamentals | 2015 年 7 月 31 日
@@ -421,34 +421,34 @@ CH-137 | Developing Microsoft Office Solutions Using XML with Office Professiona
 | Microsoft Dynamics | | |
 |--- |--- |--- |
 | MB2-421 | CRM 3.0 Installation & Configuration | 2011 年 4 月 12 日
-| MB2-422 | CRM 3.0 Customization｜2011 年 4 月 12 日
-| MB2-423 | CRM 3.0 Applications｜2011 年 4 月 12 日
+| MB2-422 | CRM 3.0 Customization | 2011 年 4 月 12 日
+| MB2-423 | CRM 3.0 Applications | 2011 年 4 月 12 日
 | MB2-498 | CRM 3.0 Extending Microsoft Dynamics | 2011 年 4 月 12 日
-| MB2-631 | Microsoft Dynamics CRM 4.0 Customization and Configuration｜2012 年 11 月
-| MB2-632 | Microsoft Dynamics CRM 4.0 Applications｜2012 年 11 月
+| MB2-631 | Microsoft Dynamics CRM 4.0 Customization and Configuration | 2012 年 11 月
+| MB2-632 | Microsoft Dynamics CRM 4.0 Applications | 2012 年 11 月
 | MB2-633 | Microsoft Dynamics CRM 4.0 Installation and Configuration | 2012 年 11 月
 | MB2-634 | CRM 4.0 Extending Microsoft Dynamics | 2012 年 11 月
 | MB2-700 | Microsoft Dynamics CRM 2013 Applications | 2016 年 12 月 31 日
 | MB2-701 | Extending Microsoft Dynamics CRM 2013 | 2016 年 12 月 31 日
 | MB2-702 | Microsoft Dynamics CRM 2013 Deployment | 2016 年 12 月 31 日
-| MB2-703 | Microsoft Dynamics CRM 2013 Customization and Configuration｜2016 年 12 月 31 日
+| MB2-703 | Microsoft Dynamics CRM 2013 Customization and Configuration | 2016 年 12 月 31 日
 | MB2-704 | Microsoft Dynamics CRM Application | 2017 年 7 月 31 日
 | MB2-720 | Functional Application in Microsoft Dynamics Marketing | 2015 年 7 月 1 日
-| MB2-866 | Microsoft Dynamics CRM 2011 Customization and Configuration｜2016 年 1 月 31 日
-| MB2-867 | Microsoft Dynamics CRM 2011 Installation and Deployment｜2016 年 1 月 31 日
+| MB2-866 | Microsoft Dynamics CRM 2011 Customization and Configuration | 2016 年 1 月 31 日
+| MB2-867 | Microsoft Dynamics CRM 2011 Installation and Deployment | 2016 年 1 月 31 日
 | MB2-868 | Microsoft Dynamics CRM 2011 Applications | 2016 年 12 月 31 日
 | MB2-876 | Extending Microsoft Dynamics CRM 2011 | 2016 年 12 月 31 日
 | MB3-408 | Microsoft Dynamics GP 9.0 Inventory and Order Processing | 2011 年 1 月 11 日
 | MB3-409 | Microsoft Dynamics GP 9.0 Financials | 2011 年 1 月 11 日
-| MB3-412 | Microsoft Dynamics GP 9.0 Installation and Configuration｜2011 年 1 月 11 日
+| MB3-412 | Microsoft Dynamics GP 9.0 Installation and Configuration | 2011 年 1 月 11 日
 | MB3-413 | Microsoft Dynamics GP 9.0 Project Series | 2011 年 1 月 11 日
 | MB3-430 | Microsoft Dynamics GP 9.0 ManufacturingApplications | 2011 年 1 月 11 日
 | MB3-451 | Microsoft Dynamics GP 9.0 Report Writer | 2011 年 1 月 11 日
 | MB3-461 | Microsoft Dynamics GP 9.0 Modifier with VBA | 2011 年 1 月 11 日
 | MB3-462 | Microsoft Dynamics GP 9.0 Integration Manager | 2011 年 1 月 11 日
-| MB3-465 | Microsoft Dynamics GP 9.0 Field Service Implementation ｜2011 年 1 月 11 日
+| MB3-465 | Microsoft Dynamics GP 9.0 Field Service Implementation  | 2011 年 1 月 11 日
 | MB3-527 | GP 10.0 Installation & Configuration | 2013 年 2 月 28 日
-| MB3-528 | GP 10.0 Financials ｜2013 年 8 月 15 日
+| MB3-528 | GP 10.0 Financials  | 2013 年 8 月 15 日
 | MB3-529 | GP 10.0 Inventory & Order Processing | 2013 年 12 月 31 日
 | MB3-530 | GP 10.0 Integration Manager | 2013 年 12 月 31 日
 | MB3-532 | GP 10.0 Project Series | 2013 年 12 月 31 日
@@ -532,7 +532,7 @@ CH-137 | Developing Microsoft Office Solutions Using XML with Office Professiona
 | MB7-221 | Navision 4.0 C/SIDE Introduction | 2010 年 1 月 12 日
 | MB7-222 | NAV 4.0 C/SIDE Solution Development | 2010年1月12日
 | MB7-223 | Navision 4.0 Warehouse Management | 2010 年 1 月 12 日
-| MB7-224 | Navision 4.0 Manufacturing｜2010 年 1 月 12 日
+| MB7-224 | Navision 4.0 Manufacturing | 2010 年 1 月 12 日
 | MB7-225 | Navision 4.0 Financials | 2010 年 1 月 12 日
 | MB7-226 | Navision 4.0 Installation and Configuration | 2010 年 1 月 12 日
 | MB7-227 | Navision 4.0 Trade and Inventory | 2010 年 1 月 12 日
@@ -555,5 +555,5 @@ CH-137 | Developing Microsoft Office Solutions Using XML with Office Professiona
 | MB7-846 | NAV 2009 Relationship Management | 2014 年 6 月 30 日
 | MB7-848 | NAV 2009 Service Management | 2014 年 6 月 30 日
 | MB7-849 | NAV 2009 Manufacturing | 2014 年 6 月 30 日
-| MB7-849 | NAV 2009 -Produktion (デンマーク語｜2014 年 6 月 30 日
-| MB7-849 | NAV 2009 -Produktion (ドイツ語)｜2014 年 6 月 30 日
+| MB7-849 | NAV 2009 -Produktion (デンマーク語 | 2014 年 6 月 30 日
+| MB7-849 | NAV 2009 -Produktion (ドイツ語) | 2014 年 6 月 30 日

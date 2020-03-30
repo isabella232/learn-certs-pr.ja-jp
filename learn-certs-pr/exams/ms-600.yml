@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Building Applications and Solutions with Microsoft 365 Core Services (beta)'
+title: 'Building Applications and Solutions with Microsoft 365 Core Services'
 metadata:
-  title: 'Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services (beta)'
-  description: 'Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services (beta)'
+  title: 'Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services'
+  description: 'Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services'
 uid: exam.ms-600
 displayName: MS-600
 summary: |-
@@ -11,12 +11,10 @@ summary: |-
   この試験の受験生は、 Microsoft ID と Microsoft Graph に習熟しています。彼らには、UI 要素(Adaptive Card や UI Fabric を含む)、統合ポイント( Microsoft チーム、 Office Add-in、 SharePoint Framework 、Actionable Messagesを含む)、およびワークロード プラットフォーム ターゲットの決定に関する一般的な知識があります。
 
   受験生は、ソフトウェア開発のすべての段階を通じて、 Microsoft Teams、 Office Add-ins、または SharePoint Framework でソリューションを開発した経験を持っている必要があります。REST API 、 JSON 、 OAuth2 、 OData 、 OpenID Connect 、 Microsoft ID (Azure AD および Microsoft アカウントを含む)、 Azure AD B2C 、および許可 / 同意の概念について基本的に理解している必要があります。
-  
-  <div style='color&#58; red;'><br/>ベータ試験は、設問と試験の質に関するデータを収集しているため、すぐには採点されません。ベータ試験の価値と重要性についての詳細<a href="/learn/certifications/certification-exams#participating-in-beta-exams">こちらをご覧ください</a>。</div>
 subTitle: 'この試験では、 Microsoft ID の実装、 Microsoft Graph によるアプリケーションの構築、 SharePoint の拡張とカスタマイズ、Teams の拡張、 および Office の拡張など、技術的なタスクを実行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZn
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-600&examname=Exam%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-600
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-600&examname=Exam%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-600
 locales:
 - en
 levels:
@@ -32,6 +30,8 @@ roles:
 - developer
 products:
 - m365
+courses:
+- uid: course.ms-600t00
 paths:
 - uid: learn-m365-pr.extend-office-fundamentals
 relatedCertifications:
@@ -54,11 +54,11 @@ resources:
   description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 特別な設備のリクエスト
-  description: 試験に特別な設備をリクエストする場合の詳細をご覧ください。
+- title: 宿泊をリクエストする
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
-  description: 試験ポリシーとよく寄せられる質問を確認してください。
+  description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
