@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Administrator Associate'
-  description: Azure 管理者は、計算、ストレージ、ネットワーク、セキュリティに関連する主要サービスを含む Microsoft Azure Solutionの実装、監視、メンテナンスを行います。
+  description: 'Azure 管理者は、計算、ストレージ、ネットワーク、セキュリティに関連する主要サービスを含む Microsoft Azure Solutionの実装、監視、メンテナンスを行います。'
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -13,7 +13,7 @@ levels:
 skills:
 - Azure サブスクリプションとリソースを管理する
 - ストレージの実装および管理する
-- 仮想マシン (VM) のデプロイと管理
+- 仮想マシン （VM） のデプロイと管理
 - 仮想ネットワークの構成と管理
 - アイデンティティを管理します
 roles:
@@ -44,9 +44,6 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwU
 exams:
 - uid: exam.az-103
 resources:
-- title: 認定の学習経路
-  description: 'Microsoft Certified: Azure Administrator Associate になるための教材を探しましょう。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -59,6 +56,6 @@ resources:
 - title: 資格のサポート
   description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
-- title: 認定ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx

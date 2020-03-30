@@ -1,22 +1,21 @@
 ### YamlMime:Examination
 title: Technology Literacy for Educators
 metadata:
-  title: '試験 62-193: Technology Literacy for Educators'
-  description: '試験 62-193: Technology Literacy for Educators'
+  title: 'Exam 62-193: Technology Literacy for Educators'
+  description: 'Exam 62-193: Technology Literacy for Educators'
 uid: exam.62-193
 displayName: 62-193
-summary: >-
+summary: |-
   この試験の受験者は、教室のエデュケーターになる準備をしている人、現在エデュケーターの人、教員訓練または教員養成の大学教員、教育管理者、またはコンピテンシーの検証を提供する他の専門家が含まれます。
 
-
-  MCE&#58; Technology Literacy for Educators、21世紀ラーニング・デザイン（21CLD）フレームワークで測定された、有効かつ信頼できるコンピテンシーの基準となるように意図された中間レベルの試験です。
+  MCE&#58; エデュケーターのためのテクノロジーリテラシーの認定試験は、21世紀ラーニング・デザイン(21CLD)フレームワークで測定された、有効かつ信頼できるコンピテンシーの基準となるように意図された中間レベルの試験です。
 subTitle: この試験の受験者は、教室のエデュケーターになる準備をしている人、現在エデュケーターの人、教員訓練または教員養成の大学教員、教育管理者、またはコンピテンシーの検証を提供する他の専門家が含まれます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 providers:
   - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2F62-193
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F62-193
   - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - de
@@ -27,7 +26,8 @@ locales:
 - ru
 - pl
 - ja
-levels:
+- tr
+levels: 
 - beginner
 skills:
 - 学生のコラボレーションを促進する
@@ -35,7 +35,7 @@ skills:
 - 知識構築を容易にする
 - 自動調節を容易にする
 - 現実世界の問題解決とイノベーションを容易にする
-- 学生が情報通信ツール（ICT）を容易に利用できるようにする
+- 学生が情報通信ツール(ICT)を容易に利用できるようにする
 - 効果的なエデュケーターとしてICTを活用する
 roles:
 - developer
@@ -50,7 +50,7 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 宿泊をリクエストする
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
