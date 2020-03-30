@@ -43,7 +43,7 @@ paths:
 - uid: learn.administer-containers-in-azure
 relatedCertifications:
 - related:
-    uid: なし
+    uid: none
 resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
