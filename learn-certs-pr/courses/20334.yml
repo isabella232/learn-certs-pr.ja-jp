@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Skype for Business 2015/2019 のコアソリューション
+title: Core Solutions of Skype for Business 2015/2019
 metadata:
-  title: 'コース 20334-C: Skype for Business 2015/2019 のコアソリューション'
-  description: 'コース 20334-C: Skype for Business 2015/2019 のコアソリューション'
+  title: 'Course 20334-C: Core Solutions of Skype for Business 2015/2019'
+  description: 'Course 20334-C: Core Solutions of Skype for Business 2015/2019'
 uid: course.20334
 courseNumber: '20334-C'
 hoursToComplete: 120
@@ -25,24 +25,24 @@ learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
-- advanced
+- intermediate
 roles:
 - administrator
 products:
-- m365
+- skype
 exams:
 - uid: exam.70-334
 summary: |-
   このコースは、Microsoft Skype for Business ソリューションの計画、展開、設定、および管理に必要な知識とスキルを学生に提供します。学生は、インスタント メッセージング（IM）、会議、エンタープライズ ボイス、アーカイブ、および監視をサポートするマルチサイトで可用性の高い Skype for Business インフラストラクチャを展開する方法を学習します。また、学生はインフラストラクチャの問題を管理、保守、およびトラブルシューティングする方法を学びます。
-  
-  このコースは、主に Skype for Business のオンプレミス展開に焦点を当てていますが、オンプレミス展開を Teams または Skype for Business Online と統合する方法と、Skype for Business Server の以前のバージョンから移行する方法に関する情報が含まれています。このコースは、学生が試験 70-334&#58; Skype for Business 2015 のコアソリューションに備えるのに役立ちます。
 
+  このコースは、主に Skype for Business のオンプレミス展開に焦点を当てていますが、オンプレミス展開を Teams または Skype for Business Online と統合する方法と、Skype for Business Server の以前のバージョンから移行する方法に関する情報が含まれています。このコースは、学生が試験 70-334&#58; Skype for Business 2015 のコアソリューションに備えるのに役立ちます。 
+  
   #### 聴衆プロファイル
   このコースの主な対象者は、組織での Skype for Business の展開を担当する情報技術 (IT) プロフェッショナルです。以前のバージョンの経験は有益ですが、このコースを受講する学生には必要ありません。学生は、 Active Directory ドメイン サービス (ADDS)、データ ネットワーク、Skype for Business の構成をサポートする通信規格とコンポーネントに習熟している必要があります。また、学生は Microsoft Exchange Server および Microsoft 365 に精通している必要があります。
-  
+
   このコースで次に対象となるのは、単独の試験として、または Microsoft Certified Solutions Expert (MCSE)&#58; Communications 認定資格試験の要件の一部として試験 70-334&#58; Skype for Business 2015 のコアソリューションを受験する予定の IT プロフェッショナルが含まれます。
 prerequisitesSection: |-
-  このトレーニングに参加する学生は、プロフェッショナルとしての経験に加えて、次の技術知識をすでに身に付けていることが求められます&#58;
+  このトレーニングに参加する学生は、プロフェッショナルとしての経験に加えて、次の技術知識をすでに身に付けていることが求められます。
   - Windows Server 2016 または Windows Server 2019 を含む Windows Server の最低2年の管理経験
   - AD DS の 2 年以上の使用経験
   - Domain Name System (DNS) を含む、名前解決に関する 2 年以上の経験
@@ -56,7 +56,7 @@ outlineSection: |-
   - Skype for Business コンポーネントと機能の概要
   - Skype for Business 管理ツールの概要
 
-
+  
   #### ラボ &#58; Skype for Business Server トポロジの設計と公開
   - トポロジの設計および作成
   - ニューヨーク サイトのトポロジのアップデート
@@ -67,7 +67,7 @@ outlineSection: |-
 
 
   ### モジュール 2&#58; Skype for Business Server 2015 のインストールと実装
-  このモジュールでは、Skype for Business Server の外部依存関係について説明します。実装を成功させるための Session Initiation Protocol (SIP) ドメインの要件について説明します。このモジュールでは、Skype for Business Server のインストール方法についても説明し、Skype for Business Server の Exchange Server および Microsoft SharePoint Server との統合方法についても説明します。
+  このモジュールでは、Skype for Business Server  の外部依存関係について説明します。実装を成功させるための Session Initiation Protocol (SIP) ドメインの要件について説明します。このモジュールでは、Skype for Business Server のインストール方法についても説明し、Skype for Business Server の Exchange Server および Microsoft SharePoint Server との統合方法についても説明します。
   #### レッスン
   - サーバーとサービスの依存関係
   - SIP ドメインの計画
@@ -142,15 +142,10 @@ outlineSection: |-
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Skype for Business Server コントロール パネルおよび
-  Skype for Business Server Management Shellを使用したユーザーの設定
-
+  - Skype for Business Server Management Shellを使用したユーザーの設定
   - Skype for Business クライアントを展開する
-
-  - Skype for Business のクライアントの登録、サインイン、認証プロセスを説明します。
-  
-
+  - Skype for Business のクライアントの登録、サインイン、認証プロセスを説明し ます。
   - インバンド ポリシーとグループ ポリシーを構成します。
-
   - Skype for Business アドレス帳の管理方法について説明します。
 
 
@@ -172,16 +167,14 @@ outlineSection: |-
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Skype for Business の会議開催機能およびモダリティについて説明します。
-
   - Skype for Business Server 2015 と Office Web Apps Server を統合します。
-
   - 会議開催の帯域幅使用率を計画します。
-
   - 会議の設定とポリシーを構成します。
 
 
   ### モジュール 6&#58; Skype for Business Server 2015 での追加の会議オプションの実装
   このモジュールでは、会議のライフサイクルとその管理方法について説明します。次に、会議および会議ポリシーの使用方法について説明します。また、ダイヤルイン会議を展開し、SRS のインフラストラクチャを構成する方法についても説明します。最後に、大規模会議と Skype 会議ブロードキャストを構成する方法について説明します。
+
   #### レッスン
   - 会議ライフサイクルの概要
   - 音声/ビデオおよび Web 会議ポリシーの設計と構成
@@ -201,13 +194,9 @@ outlineSection: |-
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - 会議のライフサイクルを管理します。
-
   - 会議開催および会議ポリシーを構成します。
-
   - ダイヤルイン会議を展開します。
-
   - Lync Room System (LRS) のインフラストラクチャを構成します。
-
   - 大規模会議と Skype 会議ブロードキャストを構成します。
 
 
@@ -224,16 +213,13 @@ outlineSection: |-
   - 監視レポートの有効化
 
 
-  #### ラボ &#58; アーカイブの実装
+  #### ラボ &#58; 監視の実装
   - Microsoft Exchange Server 2013 への Skype for Business Server アーカイブの有効化
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Skype for Business Server の 監視サービス コンポーネントについて説明します。
-
   - 監視を実装します。
-
   - アーカイブ ポリシーを設計します。
-
   - アーカイブを実装します。
 
 
@@ -259,15 +245,10 @@ outlineSection: |-
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - 外部アクセス用のコンポーネントを特定します。
-
   - 外部アクセス ポリシーとセキュリティを構成します。
-
   - 外部アクセスネットワークと認証を構成します。
-
   - リバース プロキシを構成します。
-
   - モバイル クライアント用に Skype for Business Server 2015 を構成します。
-
   - Skype for Business Server の連携を設計および構成します。
 
 
@@ -292,9 +273,7 @@ outlineSection: |-
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Persistent Chat を含む Skype for Business トポロジを設計します。
-
   - Skype for Business で Persistent Chat を展開します。
-
   - Skype for Business で Persistent Chat を構成および管理します。
 
 
@@ -316,15 +295,13 @@ outlineSection: |-
   - ハードウェア負荷分散の構成
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - Skype for Business Server
-  でのフロント エンド サーバー向けの高可用性ソリューションを設計および実装します。
-
-  - Skype for Business Server でのバック エンド サーバー向けの高可用性ソリューションを設計および実装します。
-  でのフロント エンド サーバー向けの高可用性ソリューションを設計および実装します。
-
-  - Skype for Business Server 環境のファイル ストア、エッジ
-  サーバー、仲介サーバー、Office Online サーバー ファーム、およびリバース プロキシ サーバー用の高可用性ソリューションを設計および実装します。
-  
+  - Skype for Business Server でのフロント エンド サーバー向けの高可用性ソ
+  リューションを設計および実装します。
+  - Skype for Business Server でのバック エンド サーバー向けの高可用性ソリュー
+  ションを設計および実装します。
+  - Skype for Business Server 環境のファイル ストア、エッジ 
+  サーバー、仲介サーバー、Office Online サーバー ファーム、およびリバース プロ
+  キシ サーバー用の高可用性ソリューションを設計および実装します。
 
 
   ### モジュール 11&#58; Skype for Business 2015 での障害回復の実装
@@ -335,15 +312,13 @@ outlineSection: |-
   - Skype for Business Server の 追加の障害回復オプション
 
 
-  #### ラボ &#58; 障害回復の実装と実行
+  #### Lab &#58; 障害回復の実装と実行
   - プール ペアリングの構成
   - プール フェールオーバーおよびフェールバックを実行する
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Skype for Business Server の 障害回復オプションについて説明します。
-
   - Skype for Business Server の障害回復を実装する
-
   - Persistent Chat、中央
   管理ストア、位置情報サービス (LIS) データベース、およびユーザーの障害回復オプションについて説明する
   データ。
@@ -362,9 +337,7 @@ outlineSection: |-
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Skype for Business Online の特徴を説明する
-
   - ハイブリッド Skype for Business 展開のためにオンプレミス環境を準備します。
-
   - ハイブリッド Skype for Business 展開を構成します。
 
 
@@ -376,15 +349,14 @@ outlineSection: |-
   - Skype for Business Server 2015 へのインプレース アップグレード
 
 
-  #### ラボ &#58; Lync Server 2013 から Skype for Business Server 201 5へのインプレース アップグレードの実行
+  #### ラボ &#58; Lync Server 2013 から Skype for Business Server 2015 へのインプレース アップグレードの実行
   - Skype for Business 管理ツールをインストールする
-  - Lync Server 2013 から Skype for Business Server 2015 へのインプレースのアップグレードを実行する
+  - Lync Server から Skype for Business Server 2013 へのインプレースのアップグレードを実行する
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Skype for Business でサポートされている移行およびアップグレードパスについて説明する
   サーバー。
-
   - Lync Server 2013 から Skype for Business へのインプレースのアップグレードを実行する
   サーバー。
-
   - アップグレード中のユーザー エクスペリエンスの管理方法を説明する。
+

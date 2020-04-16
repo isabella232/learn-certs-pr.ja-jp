@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft Exchange Server 2016/2019 の管理
+title: Administering Microsoft Exchange Server 2016/2019
 metadata:
-  title: 'コース 20345-1-B: Microsoft Exchange Server 2016/2019 の管理'
-  description: 'コース 20345-1-B: Microsoft Exchange Server 2016/2019 の管理'
+  title: 'Course 20345-1-B: Administering Microsoft Exchange Server 2016/2019'
+  description: 'Course 20345-1-B: Administering Microsoft Exchange Server 2016/2019'
 uid: course.20345-1
 courseNumber: '20345-1-B'
 hoursToComplete: 120
@@ -20,7 +20,7 @@ skillsGained:
 - skill: Exchange Server を監視およびトラブルシューティングします。
 - skill: Exchange Server のロール ベースのアクセス制御許可、並びに管理者とユーザーの両方の監査ログを構成します。
 - skill: Exchange Online との統合を実装および管理します。
-learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -37,7 +37,7 @@ summary: |-
   #### 聴衆プロファイル
   このコースの対象者には、Exchange Server のエンタープライズ レベルのメッセージング管理者が含まれます。Exchange Server について学びたい IT ジェネラリストおよびヘルプデスク プロフェッショナルもこのコースを受講できます。このコースを受講する学生は、IT 分野 (通常は Windows Server 管理、ネットワーク管理、ヘルプデスク、またはシステム管理の分野) で 2 年以上の経験が求められます。また、Exchange Server の概念に関するある程度の経験があることも期待されますが、Exchange Server の管理経験は必須ではありません。
 prerequisitesSection: |-
-  このトレーニングに参加する学生は、プロフェッショナルとしての経験に加えて、次の技術知識をすでに身に付けていることが求められます&#58;
+  - このトレーニングに参加する学生は、プロフェッショナルとしての経験に加えて、次の技術知識をすでに身に付けていることが求められます。
   - Windows Server の管理の最低 2 年の経験。
   - Active Directory Domain Services (AD DS) の 2 年以上の使用経験
   - Domain Name System (DNS) を含む、名前解決に関する 2 年以上の経験。
@@ -54,7 +54,8 @@ outlineSection: |-
   - Exchange Server の要件
   - Exchange Server Exchange Server の展開
   - Exchange サーバー管理ツール
-  
+
+
   #### ラボ &#58; Exchange Server の展開
   - Exchange Server 2019 インストールの要件と前提条件の評価
   - Exchange Server 2019 の展開
@@ -246,7 +247,7 @@ outlineSection: |-
 
 
   #### ラボ &#58; Exchange Server の監視とトラブルシューティング
-  - Exchange Server の展開
+  - Exchange Server の監視
   - データベースの可用性のトラブルシューティング
   - クライアント アクセス サーバーのトラブルシューティング
 
@@ -277,7 +278,7 @@ outlineSection: |-
   ### モジュール 12&#58; Exchange Online の展開の実装および管理
   このモジュールでは、Exchange Online と Office 365、およびその管理方法について説明します。また、Exchange Online への移行を実装する方法についても説明します。
   #### レッスン
-  - Exchange Online および Office 365 の概要
+  Exchange Online および Office 365 の概要
   - Exchange Online の管理
   - Exchange Online への移行の実装
   - ハイブリッド環境の管理
@@ -287,6 +288,7 @@ outlineSection: |-
   - Exchange Online の管理
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - Exchange Online および Office 365 の概要を示します。
+  Exchange Online および Office 365 の概要を示します。
   - Exchange Online を管理する。
   - Exchange Online への移行を実装する。
+

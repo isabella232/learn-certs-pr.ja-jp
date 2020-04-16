@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: SharePoint 2016の高度なテクノロジー
+title: Advanced Technologies of SharePoint 2016
 metadata:
-  title: 'コース 20339-2-A: SharePoint 2016 の高度なテクノロジー'
-  description: 'コース 20339-2-A: SharePoint 2016 の高度なテクノロジー'
+  title: 'Course 20339-2-A: Advanced Technologies of SharePoint 2016'
+  description: 'Course 20339-2-A: Advanced Technologies of SharePoint 2016'
 uid: course.20339-2
 courseNumber: '20339-2-A'
 hoursToComplete: 120
@@ -20,7 +20,7 @@ skillsGained:
 - skill: ビジネス インテリジェンス ソリューションを計画および構成します。
 - skill: 作業管理、生産性、およびコラボレーションのプラットフォームと機能を計画および構成します。
 - skill: SharePoint 2016 へのアップグレードまたは移行を実行します。
-learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -35,25 +35,25 @@ summary: |-
   この 5 日間のコースでは、SharePoint 2016 環境で高度な機能を計画、構成、および管理する方法を学びます。このコースの特別な重点分野には、高可用性、障害回復、サービス アプリケーション アーキテクチャ、および Microsoft Business Connectivity Services の実装が含まれます。このコースでは、ソーシャル コンピューティングの機能、生産性、コラボレーション プラットフォームと機能にも焦点を当てています。また、学生はビジネス インテリジェンス ソリューション、エンタープライズ コンテンツ管理、Web コンテンツ管理インフラストラクチャ、ソリューション、アプリについても学びます。このコースでは、ガバナンス計画を開発および実装する方法、および SharePoint 2016 へのアップグレードまたは移行を実行する方法についても説明します。
   
   これは、IT プロフェッショナル向けの 2 つのコースのシーケンスの 2 つ目であり、SharePoint 2016 IT Pro 認定に沿ったものです。
-  
+
   #### 聴衆プロファイル
   このコースは、データセンターまたはクラウドのどちらかで SharePoint 2016 のインストール、構成、展開、および管理を行うための学習に興味を持っている経験豊富な IT プロフェッショナルを対象としています。 
-  
+
   学生は通常、SharePoint Server および Windows Server 2012 R2 以降、インターネット インフォメーションサービス（IIS）、Microsoft SQL Server 2014 R2 以降、Active Directory Domain Services (AD DS)、ネットワーク インフラストラクチャ サービスなど、SharePoint が依存するその他のコア テクノロジーの計画と保守に関する 4 年以上の実践的な経験* を有している必要があります。
-  
-  学生はコース 20339-1A&#58; Microsoft SharePoint 2016 の計画および管理 を修了しているか、このコースの受講前に同等の知識と経験を習得している必要があります。受験者は、少なくとも次の要件を満たしている必要があります&#58;
-  
+
+  学生はコース 20339-1A&#; Microsoft SharePoint 2016 の計画および管理 を修了しているか、このコースの受講前に同等の知識と経験を習得している必要があります。受験者は、少なくとも次の要件を満たしている必要があります。
+
   - Microsoft SharePoint Online の実用的な知識があり、実践的な経験があると好ましい。
   - SharePoint Server ワークロードに精通している。
   - データのバックアップ、復元、高可用性などのビジネス継続性管理の経験がある。
   - 認証およびセキュリティ テクノロジーの経験がある。
   - Windows PowerShellの経験がある。
-  
+
   *ハンズオン エクスペリエンスまたは職務経験とは、受験者がドキュメント管理、コンテンツ管理、検索を含む SharePoint Server スペースにおいて複数のソリューションに取り組んだ、ソリューション ベースのロールから得た経験でなければなりません。
 prerequisitesSection: |-
-  このコースの受験者には、大企業全体で複数の SharePoint Server 2013 ファームを展開および管理した経験が少なくとも 1 年必要です。受験者はコース 20339-1A&#58; Microsoft SharePoint 2016の計画と管理 を修了している、または同等のスキルを示す必要があります。
-  
-  このコースに参加する前に、学生は次のスキルを実証する必要があります&#58;
+  このコースの受験者には、大企業全体で複数の SharePoint Server 2013 ファームを展開および管理した経験が少なくとも 1 年必要です。受験者はコース 20339-1A&#; Microsoft SharePoint 2016の計画と管理 を修了している、または同等のスキルを示す必要があります。
+
+  このコースに参加する前に、学生は次のスキルを実証する必要があります。
   - 論理的および物理的技術設計の両方にビジネス要件をマッピングした 1 年以上の経験。
   - ネットワーク セキュリティを含む、ネットワーク設計の実務知識。
   - Windows Server 2012 R2 エンタープライズ サーバーまたは Windows Server 2016 環境でのソフトウェア管理経験。
@@ -71,6 +71,7 @@ outlineSection: |-
   - SharePoint 2016 の新機能、廃止予定の機能、および削除された機能
   - SharePoint 2016 および SharePoint Online エディション
 
+  
   #### ラボ &#58; Microsoft SharePoint 2016 のコア コンセプトの確認
   - SharePoint 2016 ファームの構成
   - サイト コレクションおよびサイトの作成および構成
@@ -176,10 +177,9 @@ outlineSection: |-
   - ファーム ソリューションの展開
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - Microsoft SharePoint の機能とソリューションを管理する
-  2016.
+  - Microsoft SharePoint 2016 の機能とソリューションを管理する.
   - SharePoint 2016 展開でサンドボックス ソリューションを管理する。
-  
+
 
 
   ### モジュール 7&#58; 人をつなぐ
@@ -201,7 +201,7 @@ outlineSection: |-
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Microsoft SharePoint 2016 でユーザープロファイルを管理し、
-  Microsoft Identity Manager (MIM) 2016 を使用してユーザープロファイルの同期を構成する。
+  - Microsoft Identity Manager (MIM) 2016 を使用してユーザープロファイルの同 期を構成する。
   - SharePoint 2016 でソーシャル インタラクションを有効にする。
   - SharePoint 2016 でコミュニティおよびコミュニティ サイトを構築する。
 
@@ -229,7 +229,7 @@ outlineSection: |-
   - Web コンテンツ管理インフラストラクチャを計画および構成する。
   - 管理ナビゲーションおよび製品カタログ サイトを構成する。
   - 多言語サイトとロケールのサポートを計画および構成する。
-  - 公開サイトの設計とカスタマイズを管理する。
+  - 公開サイトの設計とカスタマイ ズを管理する。
   - モバイル ユーザーのサポートを計画および構成する。
 
 
@@ -273,11 +273,12 @@ outlineSection: |-
   - SharePoint 用の Power View の構成
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - Microsoft SharePoint のビジネスインテリジェンス
+  - Microsoft SharePoint のビジネスインテリジェンス 
   (BI) アーキテクチャとそのコンポーネントについて説明し、ビジネス インテリジェンスの計画を立てる。
-  - コア Microsoft SharePoint 2016 BI サーバーを計画、展開、および管理する。
-  - SharePoint 2016 および Microsoft SQL Server 2014 で使用可能な高度な BI オプションを構成する。
-  
+  - コア Microsoft SharePoint 2016 BI サーバーを計画、
+  展開、および管理する。
+  - SharePoint 2016 および Microsoft SQL Server 2014 で使用可能な高度な BI オプ
+  ションを構成する。
 
 
   ### モジュール 11&#58; 生産性とコラボレーションの計画および構成
@@ -300,8 +301,8 @@ outlineSection: |-
   - ワークフロー の作成およびテスト
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - SharePoint の共同オプションおよび共同編集オプションを計画および構成する方法をについて説明する。
-  
+  - SharePoint の共同オプションおよび共同編集オプションを計画および構成する方
+  法をについて説明する。
   - プロジェクト サイトを構成し、チームを関与させる。
   - 複合を計画および構成する
   - SharePoint 2016　でワークフローを構成する。
@@ -329,3 +330,4 @@ outlineSection: |-
   - データおよびサービス アプリケーションのアップグレードを実行する。
   - サイト コレクションをアップグレードする。
   - 高度なコンテンツを SharePoint Server 2013 から SharePoint 2016 にアップグレードする。
+

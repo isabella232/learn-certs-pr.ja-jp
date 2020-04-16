@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Azure サービスとサードパーティサービスの連携と活用
+title: Connect to and consume Azure and third-party services
 metadata:
-  title: 'コース AZ-203T06-A: Azure サービスとサードパーティ サービスの連携と活用'
-  description: 'コース AZ-203T06-A: Azure サービスとサードパーティ サービスの連携と活用'
+  title: 'Course AZ-203T06-A: Connect to and consume Azure and third-party services'
+  description: 'Course AZ-203T06-A: Connect to and consume Azure and third-party services'
 uid: course.az-203t06
 courseNumber: 'AZ-203T06-A'
 hoursToComplete: 24
@@ -29,7 +29,7 @@ exams:
 - uid: exam.az-203
 summary: |-
   このコースでは、アプリとサービス間の通信について説明します。学生は、API Management を使用して独自の API を作成および管理する方法、および開発ソリューション内で Azure のさまざまなイベント ベースおよびメッセージ ベースのサービスを使用する方法を学習します。コースを通して、学生は Azure Portal、Azure CLI、REST、およびアプリケーション コードを使用してこれらのリソースを作成および統合する方法を学びます。
-  
+
   #### 聴衆プロファイル
   - このコースの学生は、Azure 開発または Microsoft Azure Developer Associate 認定資格試験に合格することに興味があります。
   - 学生は開発者としての経験が 1 〜 2 年必要です。このコースは、学生がコーディングの方法を知っており、Azure の基本的な知識があることを前提としています。
@@ -37,7 +37,10 @@ summary: |-
 prerequisitesSection: |-
   - 学生は開発者としての経験が 1 〜 2 年必要です。この
   コースは、学生がコーディングの方法を知っており、Azure の基本的な知識があることを前提としています。
-  - 学生は、Azure ポータルで作業し、Azure がサポートするプログラミング言語を少なくとも 1 つ使用して、PowerShell または Azure CLI の経験があることが推奨されます。 このコースの例のほとんどは、
+
+  - 学生は、Azure ポータルで作業し、Azure がサポートするプログラミング言語を少なくとも 1 つ使用して、
+  PowerShell または Azure CLI の経験があることが推奨されます。
+  このコースの例のほとんどは、
   C# .NET で提供されています。
 outlineSection: |-
   ### モジュール 1&#58; App Service Logic　アプリを開発する
@@ -47,9 +50,10 @@ outlineSection: |-
   - Visual Studio を使用して Logic Apps を作成する
   - Logic App のカスタム コネクターを作成する
   - Logic App のカスタム テンプレートを作成する
-  
+
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Azure Logic Apps を作成および管理する方法を理解する
+
 
   ### モジュール 2&#58; ソリューション内にAzure Search を統合する
   Azure Search は、Web、モバイル、およびエンタープライズ アプリケーションのプライベートな異種コンテンツに豊富な検索エクスペリエンスを追加するための API とツールを開発者に提供する、サービスとしての検索クラウド ソリューションです。このモジュールでは、Azure Search をソリューションに統合する方法を学習します。
@@ -91,3 +95,4 @@ outlineSection: |-
 
   学生はこのモジュールの完了後、次のことが理解できるようになります&#58;
   - ソリューションで Azure メッセージ ベースのサービスを活用する方法について理解する
+

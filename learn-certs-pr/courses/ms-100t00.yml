@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft 365のIDとサービス
+title: Microsoft 365 Identity and Services
 metadata:
-  title: 'コース MS-100T00-A: Microsoft 365のIDとサービス'
-  description: 'コース MS-100T00-A: Microsoft 365のIDとサービス'
+  title: 'Course MS-100T00-A: Microsoft 365 Identity and Services'
+  description: 'Course MS-100T00-A: Microsoft 365 Identity and Services'
 uid: course.ms-100t00
 courseNumber: 'MS-100T00-A'
 hoursToComplete: 120
@@ -11,7 +11,7 @@ skillsGained:
 - skill: Microsoft 365 テナントの設計、構成、管理
 - skill: Office 365 製品の機能
 - skill: Office 365の構成
-- skill: Office 365 ProPlus 展開の管理
+- skill: Office 365ProPlus 展開の管理
 - skill: ID 同期の計画と実装
 - skill: アプリケーションと外部アクセスの実装
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
@@ -28,58 +28,59 @@ products:
 exams:
 - uid: exam.ms-100
 summary: |-
-  このコースでは、 Microsoft 365 エンタープライズ管理の 3 つの主要要素 (Microsoft 365 テナントおよびサービス管理、 Office 365 管理、 Microsoft 365 ID 管理) について説明します。
-  Microsoft 365 テナントとサービス管理では、 Microsoft 365 テナントの設計時に計画する必要があるすべての主要コンポーネントを確認します。この計画フェーズが完了したら、組織プロフィール、テナント サブスクリプション オプション、コンポーネント サービス、ユーザー アカウントとライセンス、およびセキュリティ グループなどを含めて、 Microsoft 365 テナントを構成する方法を学びます。最後に、テナントを管理する方法を学びます。これには、テナントのロールの構成およびテナントのヘルスとサービスの管理が含まれます。
-  Microsoft 365 テナントがしっかりと設置された状態で、Office 365 管理の主要コンポーネントを確認します。これは、Office 365 製品機能の概要から始まります。それには、 Exchange Online、SharePoint Online、Microsoft Teams、追加の製品リソース、およびデバイス管理が含まれます。次に、 Office 365 への Office クライアント接続の構成に重点を置く Office 365 の構成に移行します。最後に受講者は、ユーザー主導のクライアント インストールから集中型 Office 365 ProPlus の展開まで、 Office 365 ProPlus の展開を管理する方法について確認します。受講者は、 Office Telemetry と Microsoft Analytics の構成方法を学習することによって、このセクションを完了します。
-  このコースは、 Azure Active Directory Connect に焦点を当てた Microsoft 365 ID 同期の詳細な検証をもって終了します。受講者は、Azure AD Connect の計画および実装の方法、同期された ID の管理方法、多要素認証とセルフ サービス パスワード管理を使用した Microsoft 365 でのパスワード管理の実装方法について学習します。このセクションは、アプリケーションと外部アクセスの実装について包括的に説明して、完了します。受講者は、マルチ テナント アプリケーションの構成方法なを含めて、 Azure Active Directory におけるアプリケーションを追加および管理する方法について学習します。次に、 Azure AD アプリケーション プロキシを構成する方法について確認します。これには、コネクタのインストールと登録の方法、およびリモート アクセス用のオンプレミス アプリケーションの公開方法などが含まれます。最後に、外部アクセスのソリューションを設計および管理する方法について確認します。これには、 Azure AD B2B コラボレーションのライセンス ガイダンス、コラボレーション ユーザーの作成、および B2B コラボレーションのトラブルシューティングが含まれます。
-  
-  #### 聴衆プロファイル
+  このコースでは、 Microsoft 365 エンタープライズ管理の 3 つの主要要素（ Microsoft 365 テナントおよびサービス管理、 Office 365 管理、 Microsoft 365 ID 管理）について説明します。
+  Microsoft 365 テナントとサービス管理では、 Microsoft 365 テナントの設計時に計画する必要があるすべての主要コンポーネントを確認します。この計画フェーズが完了したら、組織プロフィール、テナントサブスクリプションオプション、コンポーネントサービス、ユーザーアカウントとライセンス、およびセキュリティグループなどを含めて、 Microsoft 365 テナントを構成する方法を学びます。最後に、テナントを管理する方法を学びます。これには、テナントのロールの構成およびテナントのヘルスとサービスの管理が含まれます。
+  Microsoft 365 テナントがしっかりと設置された状態で、Office 365 管理の主要コンポーネントを確認します。これは、Office 365 製品機能の概要から始まります。それには、 Exchange Online、SharePoint Online、Microsoft Teams、追加の製品リソース、およびデバイス管理が含まれます。  次に、 Office 365 への Office クライアント接続の構成に重点を置く Office 365 の構成に移行します。最後に受講者は、ユーザー主導のクライアントインストールから集中型Office 365 ProPlus の展開まで、 Office 365 ProPlus の展開を管理する方法について確認します。受講者は、 Office Telemetry と Microsoft Analytics の構成方法を学習することによって、このセクションを完了します。
+  このコースは、 Azure Active Directory Connect に焦点を当てた Microsoft 365 ID 同期の詳細な検証をもって終了します。受講者は、Azure AD Connect の計画および実装の方法、同期された ID の管理方法、多要素認証とセルフサービスパスワード管理を使用した Microsoft 365 でのパスワード管理の実装方法について学習します。このセクションは、アプリケーションと外部アクセスの実装について包括的に説明して、完了します。受講者は、マルチテナントアプリケーションの構成方法なを含めて、 Azure Active Directory におけるアプリケーションを追加および管理する方法について学習します。次に、 Azure AD アプリケーションプロキシを構成する方法について確認します。これには、コネクタのインストールと登録の方法、およびリモートアクセス用のオンプレミスアプリケーションの公開方法などが含まれます。最後に、外部アクセスのソリューションを設計および管理する方法について確認します。これには、 Azure AD B2B コラボレーションのライセンスガイダンス、コラボレーションユーザーの作成、および B2B コラボレーションのトラブルシューティングが含まれます。
+
+  #### Audience profile
   このコースは、 Microsoft 365 Enterprise Admin role を希望し、 Microsoft 365 role-based の管理者認定パスの 1 つを終了したユーザーを対象としています。
 prerequisitesSection: |-
   - Messaging、Teamwork、Security and Compliance、またはCollaboration などのロールベース管理者コースを修了。
   - DNS に関する十分な理解、および Microsoft 365 サービスの基本的機能の経験。
   - 一般的な IT プラクティスに対する十分な理解。
 outlineSection: |-
-  ### モジュール 1&#58; Microsoft 365 テナントの設計
-  #### レッスン
+  ### Module 1&#58; Microsoft 365 テナントの設計
+  #### Lessons
   - オンプレミスインフラストラクチャにおける Microsoft 365 の計画
   - ID および認証ソリューションの計画
-  - サービス セットアップの計画
+  - サービスセットアップの計画
   - ハイブリッド環境の計画
   - Office 365 への移行の計画
 
-  ### モジュール 2&#58; Microsoft 365 テナントの構成
-  #### レッスン
+
+  ### Module 2&#58; Microsoft 365 テナントの構成
+  #### Lessons
   - Microsoft 365 エクスペリエンスの計画
   - Microsoft 365 エクスペリエンスの構成
-  - Microsoft 365 の ユーザー アカウントおよびライセンスの管理
+  - Microsoft 365 の ユーザーアカウントおよびライセンスの管理
   - Microsoft 365 のManaging Security Groups の管理
   - ドメインサービスの実装
   - FastTrack および Partner Services の活用
 
 
-  ### モジュール 3&#58; Lab 1 - Microsoft 365 テナントの構成
+  ### Module 3&#58; Lab 1 - Microsoft 365 テナントの構成
 
-  #### ラボ &#58; Microsoft 365 テナントの構成
+  #### Lab &#58; Microsoft 365 テナントの構成
   - 演習 1 - Microsoft 365 Trial テナントのセットアップ
 
 
-  ### モジュール 4&#58; Microsoft 365 テナントの管理
-  #### レッスン
+  ### Module 4&#58; Microsoft 365 テナントの管理
+  #### Lessons
   - テナントロールの構成
-  - テナント ヘルスとサービスの管理
+  - テナントヘルスとサービスの管理
 
 
-  ### モジュール 5&#58; Lab 2 - Microsoft 365 テナントの管理
+  ### Module 5&#58; Lab 2 - Microsoft 365 テナントの管理
 
-  #### ラボ &#58; Microsoft 365 テナントの管理
-  - 演習 1 - Administration Delegation を管理する
-  - 演習 2 - Office 365 Message Encryption (OME) を構成する
-  - 演習 3 - Office 365 を監視およびトラブルシューティングする
+  #### Lab &#58; Microsoft 365 テナントの管理
+  - Exercise 1 - Administration Delegation を管理する
+  - Exercise 2 - Office 365 Message Encryption (OME) を構成する
+  - Exercise 3 - Office 365 を監視およびトラブルシューティングする
 
 
-  ### モジュール 6&#58; Office 365 概要
-  #### レッスン
+  ### Module 6&#58; Office 365 概要
+  #### Lessons
   - Exchange Online 概要
   - SharePoint Online 概要
   - Teams 概要
@@ -87,54 +88,55 @@ outlineSection: |-
   - デバイス管理の概要
 
 
-  ### モジュール 7&#58; Lab 3 -Office 365 概要
+  ### Module 7&#58; Lab 3 -Office 365 概要
 
-  #### ラボ &#58; Office 365 概要
-  - 演習 1 - Exchange Online 概要
-  - 演習 2 - SharePoint Online 概要
-  - 演習 3 - Teams 概要
+  #### Lab&#58; Office 365 概要
+  - Exercise 1 - Exchange Online 概要
+  - Exercise 2 - SharePoint Online 概要
+  - Exercise 3 - Teams 概要
 
 
-  ### モジュール 8&#58;  Office 365 の構成
-  #### レッスン
+  ### Module 8&#58;  Office 365 の構成
+  #### Lessons
   - Office 365 Client 概要
   - Office Client Connectivity to Office 365 の構成
 
 
-  ### モジュール 9&#58; Office 365 ProPlus Deployments の管理
-  #### レッスン
+  ### Module 9&#58; Office 365 ProPlus Deployments の管理
+  #### Lessons
   - User-Driven Client Installations の管理
   - Centralized Office 365 ProPlus Deployments の管理
   - Office Telemetry の構成
   - Microsoft Analytics の構成
 
 
-  ### モジュール 10&#58; Lab 4 - Managing Office 365 ProPlus installations
+  ### Module 10&#58; Lab 4 - Managing Office 365 ProPlus installations
 
-  #### ラボ &#58; Office 365 ProPlus installations の管理
-  - 演習 1 - Office 365 ProPlus Managed Installation を準備する
-  - 演習 2 - Centralized Office 365 ProPlus Installation を管理する
-  - 演習 3 - Office Telemetry Components を展開および管理する
+  #### Lab &#58; Office 365 ProPlus installations の管理
+  - Exercise 1 - Office 365 ProPlus Managed Installation を準備する
+  - Exercise 2 - Centralized Office 365 ProPlus Installation を管理する
+  - Exercise 3 - Office Telemetry Components を展開および管理する
 
 
-  ### モジュール 11&#58; Identity Synchronization の計画および実装
-  #### レッスン
+  ### Module 11&#58; Identity Synchronization の計画および実装
+  #### Lessons
   - Identity Synchronization の概要
   - Azure AD Connect の計画
   - Azure AD Connect の実装
-  - 同期済み ID の管理
+  - 同期済みID の管理
   - Microsoft 365 におけるパスワード管理
 
 
-  ### モジュール 12&#58; Lab 5 - Identity Synchronization の実装
+  ### Module 12&#58; Lab 5 - Identity Synchronization の実装
 
-  #### ラボ &#58; Identity Synchronization の実装
-  - 演習 1 - 組織をID同期化に設定する
-  - 演習 2 - Identity Synchronization を実装する
+  #### Lab &#58; Identity Synchronization の実装
+  - Exercise 1 - 組織をID同期化に設定する
+  - Exercise 2 - Identity Synchronization を実装する
 
 
-  ### モジュール 13&#58; アプリケーションと外部アクセスの実装
-  #### レッスン
+  ### Module 13&#58; アプリケーションと外部アクセスの実装
+  #### Lessons
   - Azure AD にアプリケーションを実装
   - Azure AD アプリケーションプロキシを構成
   - 外部アクセス向けソリューションの設計
+

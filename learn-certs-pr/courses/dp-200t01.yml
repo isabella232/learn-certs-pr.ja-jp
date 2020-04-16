@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Azure データソリューションの実装
+title: Implementing an Azure Data Solution
 metadata:
-  title: 'コース DP-200T01-A: Azure データソリューションの実装'
-  description: 'コース DP-200T01-A: Azure データソリューションの実装'
+  title: 'Course DP-200T01-A: Implementing an Azure Data Solution'
+  description: 'Course DP-200T01-A: Implementing an Azure Data Solution'
 uid: course.dp-200t01
 courseNumber: 'DP-200T01-A'
 hoursToComplete: 72
@@ -30,14 +30,14 @@ exams:
 - uid: exam.dp-200
 summary: |-
   このコースでは、学生は、リレーショナル データと NoSQL データの両方を組み込んだオンプレミス、クラウド、ハイブリッド データ シナリオなど、ビジネスおよび技術要件に沿ったソリューションにさまざまなデータ プラットフォーム テクノロジーを実装します。また、ストリーミング データとバッチ データの両方に対して、さまざまなテクノロジと言語を使用してデータを処理する方法も学習します。
-  
+
   学生は、認証、承認、データポリシー、標準などのデータセキュリティを実装する方法についても学習します。また、データ ストレージとデータ処理の両方のアクティビティのデータ ソリューション監視を定義および実装します。最後に、ビッグデータの最適化と障害回復、バッチ処理、ストリーミング データ ソリューションを含む Azure データ ソリューションの管理とトラブルシューティングを行います。
-  
+
   #### 聴衆プロファイル
   このコースの主な対象者は、Microsoft Azure に存在するデータ プラットフォーム テクノロジーについて学びたいデータ プロフェッショナル、データ アーキテクト、およびビジネス インテリジェンス プロフェッショナルです。次に対象となるのは、Microsoft Azure に存在するデータ プラットフォーム テクノロジーからコンテンツを配信するアプリケーションを開発する個人です。
 prerequisitesSection: |-
-  専門的な経験に加えて、このトレーニングを受講する学生は、次のコースと同等の技術知識を持っている必要があります&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
+  専門的な経験に加えて、このトレーニングを受講する学生は、次のコースと同等の技術知識を持っている必要があります。
+  - [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
 outlineSection: |-
   ### モジュール 1&#58; Azure for the Data Engineer
   このモジュールでは、データの世界がどのように進化したか、およびクラウド データ プラットフォーム テクノロジーが企業にさまざまな方法でデータを探索する新しい機会をどのように提供しているかを探ります。学生は、利用可能なさまざまなデータ プラットフォーム テクノロジーの概要と、データ エンジニアの役割と責任がこの新しい世界で組織の利益のためにどのように進化したかを学びます。
@@ -46,6 +46,7 @@ outlineSection: |-
   - Azure Data Platform のサービスを調査する
   - Data Engineer が実行するタスクを特定する
   - Case Study でクラウドのユース ケースを説明する
+
 
   #### ラボ &#58; データ エンジニア向けの Azure
   - 進化するデータの世界を特定する
@@ -129,7 +130,7 @@ outlineSection: |-
   ### モジュール 5&#58; クラウド内のリレーショナル データ ストアの操作
   このモジュールでは、SQL データベースや SQL データウェアハウスなど、Azure リレーショナル データ プラットフォームのオプションについて学習します。学生は、あるサービスを別のサービスよりも選択する理由と、各サービスをプロビジョニング、接続、および管理する方法を説明できます。
   #### レッスン
-  - Azure SQL Database を使用する
+  Azure SQL Database を使用する
   - Azure SQL Data Warehouse について説明する
   - Azure SQL Data Warehouse の作成とクエリ
   - PolyBase を使用してデータを Azure SQL Data Warehouse にロードする
@@ -142,7 +143,7 @@ outlineSection: |-
   - PolyBase を使用してデータを Azure SQL Data Warehouse にロードする
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - Azure SQL Database を使用する
+  Azure SQL Database を使用する
   - Azure Data Warehouse について説明する
   - Azure SQL Data Warehouse を作成およびクエリする
   - PolyBase を使用してデータを Azure SQL Data Warehouse にロードする
@@ -231,3 +232,4 @@ outlineSection: |-
   - 一般的なデータ ストレージの問題のトラブルシューティング
   - 一般的なデータ処理の問題のトラブルシューティング
   - 障害回復を管理する
+

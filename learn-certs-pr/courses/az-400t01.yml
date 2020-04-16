@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: DevOps 開発プロセスの実装
+title: Implementing DevOps Development Processes
 metadata:
-  title: 'コース AZ-400T01-A: DevOps 開発プロセスの実装'
-  description: 'コース AZ-400T01-A: DevOps 開発プロセスの実装'
+  title: 'Course AZ-400T01-A: Implementing DevOps Development Processes'
+  description: 'Course AZ-400T01-A: Implementing DevOps Development Processes'
 uid: course.az-400t01
 courseNumber: 'AZ-400T01-A'
 hoursToComplete: 24
@@ -14,7 +14,7 @@ skillsGained:
 - skill: ビルドインフラストラクチャを実装して管理する
 - skill: アプリケーションの構成および機密を管理する
 - skill: モバイル DevOps 戦略を実装する
-learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -31,7 +31,7 @@ exams:
 - uid: exam.az-400
 summary: |-
   このコースでは、DevOps プロセスを実装するための知識とスキルを提供します。学生は、ソース管理の使用方法、エンタープライズ向けの Git のスケーリング方法、ビルド インフラストラクチャの実装と管理方法を学びます。
-  
+
   #### 聴衆プロファイル
   このコースの学生は、DevOps プロセスを実装するか、Microsoft Azure DevOps Solutions 認定資格試験に合格することに興味があります。
 prerequisitesSection: |-
@@ -39,16 +39,17 @@ prerequisitesSection: |-
 outlineSection: |-
   ### モジュール 1&#58; ソース管理の開始
   #### レッスン
-  - Source Control とは何ですか？
+  - Source Control Source Control とは何ですか？
   - Source Control の利点
   - Source Control システムの種類
   - Azure Repos の概要
   - Team Foundation Version Control (TFVC) から Git への移行
   - Git Repos の認証
-  
+
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Source Control を使用することの利点について説明する
   - TFVC から Git へ移行する
+
 
   ### モジュール 2&#58; エンタープライズ DevOps の Git のスケーリング
   #### レッスン
@@ -73,7 +74,7 @@ outlineSection: |-
   - エージェント プール
   - パイプラインと並行性
   - Azure DevOps と Open Source プロジェクト
-  - Azure Pipelines YAML と Visual Designer
+  - Azure Pipelines YAML vs Visual Designer
   - プライベート エージェントのセットアップ
   - Jenkins と Azure Pipelines の統合
   - Azure Pipelines との外部ソース管理の統合
@@ -106,3 +107,4 @@ outlineSection: |-
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - モバイル DevOps 戦略を実装する
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft Exchange Server 2016/2019 の設計と展開
+title: Designing and Deploying Microsoft Exchange Server 2016/2019
 metadata:
-  title: 'コース 20345-2-B: Microsoft Exchange Server 2016/2019 の設計と展開'
-  description: 'コース 20345-2-B: Microsoft Exchange Server 2016/2019 の設計と展開'
+  title: 'Course 20345-2-B: Designing and Deploying Microsoft Exchange Server 2016/2019'
+  description: 'Course 20345-2-B: Designing and Deploying Microsoft Exchange Server 2016/2019'
 uid: course.20345-2
 courseNumber: '20345-2-B'
 hoursToComplete: 120
@@ -37,7 +37,7 @@ summary: |-
   #### 聴衆プロファイル
   このコースの対象読者には、経験豊富なメッセージング管理者、メッセージング アーキテクト、またはコンサルタントである IT プロフェッショナルが含まれます。このコースは、以前のバージョンの Exchange Server または Exchange Online を含む環境など、Exchange Server ソリューションの設計と展開を担当するエンタープライズ環境の人々を対象としています。このコースを受講する学生は、Exchange Server 2019 または以前のバージョンの Exchange Server の経験を有していることが期待されます。
 prerequisitesSection: |-
-  このトレーニングに参加する学生は、プロフェッショナルとしての経験に加えて、次の技術知識をすでに身に付けていることが求められます&#58;
+  このトレーニングに参加する学生は、プロフェッショナルとしての経験に加えて、次の技術知識をすでに身に付けていることが求められます。
    - 受講コース 20345-1B&#58; Microsoft Exchange Server 2016/2019 の管理またはそれと同等の知識を有する
    - Exchange Server (どのバージョンでも可) の 2 年以上の使用経験
    - Exchange Server 2013 または Exchange Server 2016 の 6 か月以上の使用経験
@@ -49,12 +49,14 @@ prerequisitesSection: |-
 outlineSection: |-
   ### モジュール 1&#58; Exchange Server の展開の計画
   このモジュールでは、Exchange Server の主要な機能について説明し、ビジネス要件を収集する方法について説明します。また、Exchange Server の展開と Unified Messaging の Cloud Voicemail への移行を計画する方法についても説明します。
+
   #### レッスン
   - Exchange Server 2019 の新機能
   - Exchange Server 展開のビジネス要件の収集
   - Exchange Server 展開の計画
   - Unified Messaging(UM) から Cloud Voicemail への移行の計画
-  
+
+
   #### ラボ &#58; Exchange Server 2019 展開の計画
   - 既存のメッセージング インフラストラクチャの評価
   - 要件の特定
@@ -176,7 +178,7 @@ outlineSection: |-
   - AD RMS および Azure RMS の設計と実装
 
 
-  #### ラボ &#58; メッセージング セキュリティの設計
+  ####ラボ &#58; メッセージング セキュリティの設計
   - メッセージング セキュリティの計画
   - AD RMS の実装
   - AD RMS と Exchange Server の統合
@@ -280,3 +282,4 @@ outlineSection: |-
   - Azure AD Connect を実装する
   - ハイブリッド展開を実装する
   - ハイブリッド展開の高度な機能を実装する
+

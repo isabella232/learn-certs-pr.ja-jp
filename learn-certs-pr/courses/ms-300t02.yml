@@ -1,16 +1,16 @@
 ### YamlMime:Course
-title: SharePoint Online の管理
+title: Managing SharePoint Online
 metadata:
-  title: 'コース MS-300T02-A: SharePoint Online の管理'
-  description: 'コース MS-300T02-A: SharePoint Online の管理'
+  title: 'Course MS-300T02-A: Managing SharePoint Online'
+  description: 'Course MS-300T02-A: Managing SharePoint Online'
 uid: course.ms-300t02
 courseNumber: 'MS-300T02-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: ユーザー プロフィール プロパティの設定方法についての説明
+- skill: ユーザプロフィールプロパティの設定方法についての説明
 - skill: 視聴者の管理方法を説明する
-- skill: カスタム アプリケーションを作成するために、App Catalog を使用する方法について説明する
+- skill: カスタムアプリケーションを作成するために、App Catalog を使用する方法について説明する
 - skill: 用語グループ、用語セット、および用語を作成して管理する
 - skill: 現代的な検索体験とクラシックな検索体験の相違点を説明する
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
@@ -28,49 +28,37 @@ products:
 - office-yammer
 exams:
 - uid: exam.ms-300
-summary: |-
-  このコースでは、適切なパーミッション設定によってユーザー プロフィールとアプリを管理する方法について学習します。また、Managed Metadata, Business Connectivity Services を計画して構成する方法を説明し、検索により、 Office 365 全体でコンテンツを発見、使用、管理することができるようにします。
-  
-  このコースは、組織内で Teamwork インフラストラクチャを展開および管理する IT プロフェッショナルを対象としています。
-  
-  これは、 Teamwork 管理者ロールの 4 コースのシリーズのうち 2 番目のコースです。これらのコースは、 MS-300&#58; Deploying Microsoft 365 Teamwork の試験準備に役立ちます。
-
-  #### 聴衆プロファイル
-  このコースは、Microsoft 365 Teamwork Administrator role 向けのものです。このロールは、試験の受験生は、効率的かつ効果的なコラボレーションと採用に焦点を当てたOffice 365およびAzureワークロードの構成、展開、および管理を担当します。管理者は、ビジネス要件を満たすためにアプリケーション、サービス、およびサポート インフラストラクチャを管理します。管理者は製品とサービスを認識しており、区別することができますが、各製品またはサービスを直接管理することはできません。
-
-  Teamwork 管理者は、SharePoint（オンライン、オンプレミス、およびハイブリッド）、OneDrive、およびチームを展開、管理、移行、および保護できる必要があります。
-
-  Teamwork 管理者は、以下のアプリやサービスとの統合ポイントについて基本的に理解しています&#58; Office、Power Apps、Flow、Yammer、Microsoft Graph、Stream、Planner、および Project。管理者は、基幹業務アプリケーションを含むサード パーティのアプリとサービスを統合する方法を理解しています。
+summary: "このコースでは、適切なパーミッション設定によってユーザープロフィールとアプリを管理する方法について学習します。また、Managed Metadata, Business Connectivity Services を計画して構成する方法を説明し、検索により、 Office 365 全体でコンテンツを発見、使用、管理することができるようにします。\n\nこのコースは、組織内で Teamwork インフラストラクチャを展開および管理する IT プロフェッショナルを対象としています。\n\nこれは、 Teamwork 管理者ロールの 4 コースのシリーズのうち 2 番目のコースです。これらのコースは、  MS-300&#58; Deploying Microsoft 365 Teamwork の試験準備に役立ちます。\n\n#### Audience profile\nこのコースは、Microsoft 365 Teamwork Administrator role 向けのものです。このロールは、効率的かつ効果的なコラボレーションと採用に重点を置く Office 365および Azure workloadsの構成、展開、および管理を担当します。管理者は、ビジネス要件を満たすためにアプリケーション、サービス、およびサポート インフラストラクチャを管理します。管理者は製品とサービスを認識しており、区別することができますが、各製品またはサービスを直接管理することはできません。\n\nチームワーク管理者は、SharePoint (オンライン、オンプレミス、およびハイブリッド)、OneDrive、およびチームを展開、管理、移行、および保護できる必要があります。 \n\nこの試験の受験対象者は、次のアプリやサービスとの統合ポイントについて基本的に理解しています&#58; Office、Power Apps、Flow、Yammer、Microsoft Graph、Stream、Planner、およびProject。管理者は、基幹業務アプリケーションを含むサードパーティのアプリとサービスを統合する方法を理解しています。"
 prerequisitesSection: |-
-  受講者は、すでに以下のスキルを持つこのコースを開始する必要があります。&#58;
-  - Windows PowerShell の経験
+  受講者は、すでに以下のスキルを持つこのコースを開始する必要があります：
+  Windows PowerShellの経験
   - Active Directory と Azure AD の基本的な理解
-  - モバイル デバイス管理、およびその他のオペレーティング システム (Android および macOS) の基本的な理解
+  - モバイルデバイス管理、およびその他のオペレーティングシステム（Android および macOS）の基本的な理解
 outlineSection: |-
-  ### モジュール 1&#58; ユーザー プロフィールとアプリケーションの管理
-  このモジュールでは、 SharePoint Online におけるユーザー プロフィールとカスタマイゼーションについて説明します。SharePoint Online でユーザー プロフィールを管理する方法について説明します。また、 App Catalog を使用して、カスタムビジネス アプリケーションが SharePoint Online で利用できるようにする方法についても説明します。
+  ### Module 1&#58; ユーザープロフィールとアプリケーションの管理
+  このモジュールでは、 SharePoint Online におけるユーザープロフィールとカスタマイゼーションについて説明します。SharePoint Online でユーザープロフィールを管理する方法について説明します。また、 App Catalog を使用して、カスタムビジネスアプリケーションが SharePoint Online で利用できるようにする方法についても説明します。
 
-  #### レッスン
-  - ユーザー プロフィールを管理する
+  #### Lessons
+  - ユーザープロフィールを管理する
   - カスタマイゼーションとアプリを、計画および構成する
 
 
-  学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - ユーザー プロフィール プロパティの展開方法について説明する
+  このモジュールを終了すると、受講者は以下のことができるようになります：
+  - ユーザプロフィールプロパティの展開方法について説明する
   - 視聴者を管理する方法について説明する
-  - カスタム アプリケーションを作成するために、App Catalog を使用する方法について説明する
+  - カスタムアプリケーションを作成するために、App Catalog を使用する方法について説明する
 
 
-  ### モジュール 2&#58; 管理メタデータとビジネス接続サービスの計画および構成
+  ### Module 2&#58; 管理メタデータとビジネス接続サービスの計画および構成
   このモジュールでは、Managed Metadata および Business Connectivity Servicesについて説明します。管理メタデータの概念、および用語セットをインポートするプロセスについて説明します。また、 Business Connectivity Services を管理し、外部リストを作成する方法についても説明します。
 
 
-  #### レッスン
-  - Managed Metadata を計画して構成する
-  - Business Connectivity Services (BCS) および Secure Store を計画して構成する
+  #### Lessons
+  Managed Metadata を計画して構成する
+  Business Connectivity Services（BCS） および Secure Store を計画して構成する
 
 
-  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  このモジュールを終了すると、受講者は以下のことができるようになります：
   - Managed Metadata の機能について説明する
   - 用語グループ、用語セット、および用語を作成して管理する
   - BDC モデルの主要コンポーネントを説明する
@@ -78,22 +66,23 @@ outlineSection: |-
   - Secure Store Service の目的を説明する
 
 
-  ### モジュール 3&#58; 検索の計画と構成
-  このモジュールは、エンタープライズ検索サービス アプリケーションに関するものですコンテンツ ソース、クロールスケジュール、およびクロールルールの計画と構成の詳細について説明します。また、Query Rules、Result Types および Display Templates など、さまざまな検索コンポーネントの範囲の検索管理をプロビジョニングする方法についても説明します。
+  ### Module 3&#58; 検索の計画と構成
+  このモジュールは、エンタープライズ検索サービスアプリケーションに関するものですコンテンツソース、クロールスケジュール、およびクロールルールの計画と構成の詳細について説明します。また、Query Rules、Result Types および Display Templates など、さまざまな検索コンポーネントの範囲の検索管理をプロビジョニングする方法についても説明します。
 
-  #### レッスン
+  #### Lessons
   - SharePoint Online における検索の概要
   - 検索を管理する
 
 
-  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  このモジュールを終了すると、受講者は以下のことができるようになります：
   - 現代的な検索体験とクラシックな検索体験の相違点を説明する
-  - コンテンツ ソースの計画と設定の方法を説明する
+  - コンテンツソースの計画と設定の方法を説明する
   - 検索スキーマの管理方法を説明する
-  - クエリ ルールの使用と展開について説明する
+  - クエリルールの使用と展開について説明する
   - 結果ソースの使用と展開について説明する
 
 
-  ### モジュール 4&#58; コースの結論
+  ### Module 4&#58; コースの結論
 
-  #### ラボ &#58; 用語セットをインポートする
+  #### Lab &#58; 用語セットをインポートする
+

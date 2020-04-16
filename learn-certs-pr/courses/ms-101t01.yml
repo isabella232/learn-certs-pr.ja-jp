@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft 365 セキュリティ管理
+title: Microsoft 365 Security Management
 metadata:
-  title: 'コース MS-101T01-A: Microsoft 365 Security Management'
-  description: 'コース MS-101T01-A: Microsoft 365 Security Management'
+  title: 'Course MS-101T01-A: Microsoft 365 Security Management'
+  description: 'Course MS-101T01-A: Microsoft 365 Security Management'
 uid: course.ms-101t01
 courseNumber: 'MS-101T01-A'
 hoursToComplete: 24
@@ -18,7 +18,7 @@ skillsGained:
 - skill: Microsoft 365 Threat Intelligence を実装する
 - skill: Microsoft 365 Security Dashboard を使用する
 - skill: Advanced Threat Analytics を構成する
-- skill: クラウド アプリケーションのセキュリティを実装する
+- skill: クラウドアプリケーションのセキュリティを実装する
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -34,36 +34,38 @@ exams:
 - uid: exam.ms-101
 summary: |-
   Microsoft 365 Security Management を学びましょう。これには、セキュリティメトリクスの管理方法、 Azure AD Identity Protection の有効化方法、 Microsoft 365 セキュリティサービスの構成方法、およびユーザー Microsoft 365 Threat Intelligence が含まれています。
-  
-  #### 聴衆プロファイル
+
+  #### Audience profile
   このコースは、 Microsoft 365 Enterprise Admin role を希望し、 Microsoft 365 role-based の管理者認定パスの 1 つを終了したユーザーを対象としています。
 prerequisitesSection: |-
-  - Messaging、Teamwork、Security and Compliance、または Collaboration などのロールベース管理者コースを修了。
+  - Messaging、Teamwork、Security and Compliance、またはCollaboration などのロールベース管理者コースを修了。
   - DNS に関する十分な理解、および Microsoft 365 サービスの基本的機能の経験。
   - 一般的な IT プラクティスに対する十分な理解。
 outlineSection: |-
-  ### モジュール 1&#58; Microsoft 365 テナントの設計
-  #### レッスン
-  - Microsoft 365のオンプレミス インフラストラクチャを計画
+  ### Module 1&#58; Microsoft 365 Tenant の設計
+  #### Lessons
+  - Microsoft 365のオンプレミスインフラストラクチャを計画
   - ID および認証ソリューションの計画
 
-  ### モジュール 2&#58; Microsoft 365 テナントの構成
-  #### レッスン
+
+  ### Module 2&#58; Microsoft 365 テナントの構成
+  #### Lessons
   - Microsoft 365 エクスペリエンスの計画
   - Microsoft 365 エクスペリエンスの構成
   - FastTrack および Partner Services の活用
   - ドメインサービスの実装
 
 
-  ### モジュール 3&#58; Microsoft 365 テナントの管理
-  #### レッスン
+  ### Module 3&#58; Microsoft 365 テナントの管理
+  #### Lessons
   - テナントロールの構成
-  - テナント ヘルスとサービスの管理
+  - Tenant Health and Services の管理
 
 
-  ### モジュール 4&#58; ハンズオン ラボ
+  ### Module 4&#58; ハンズオン ラボ
 
-  #### ラボ &#58; Microsoft 365 セキュリティ の管理
-  - 演習 1&#58; ラボ環境の設定
-  - 演習 2&#58; ATP Safe Links ポリシーを編集し、Safe Attachment ポリシーを作成する
-  - 演習 3&#58; ATA Center の有効化およびインストール
+  #### Lab &#58; Microsoft 365 セキュリティ の管理
+  - Exercise 1&#58; ラボ環境の設定
+  - Exercise 2&#58; ATP Safe Links ポリシーを編集し、Safe Attachment ポリシーを作成する
+  - Exercise 3&#58; ATA Center の有効化およびインストール
+

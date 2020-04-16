@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Office 365 Workloads for Collaboration の有効化
+title: Enabling Office 365 Workloads for Collaboration
 metadata:
-  title: 'コース MS-300T04-A: Office 365 Workloads for Collaboration の有効化'
-  description: 'コース MS-300T04-A: Office 365 Workloads for Collaboration の有効化'
+  title: 'Course MS-300T04-A: Enabling Office 365 Workloads for Collaboration'
+  description: 'Course MS-300T04-A: Enabling Office 365 Workloads for Collaboration'
 uid: course.ms-300t04
 courseNumber: 'MS-300T04-A'
 hoursToComplete: 48
@@ -31,63 +31,64 @@ products:
 exams:
 - uid: exam.ms-300
 summary: |-
-  組織内外のチームワークとコラボレーションを変革することは、最新のワークスペースにおいてより重要になります。このコースでは、Yammer、Stream、PowerApps、Flow など組織の生産性を向上させるために、Office 365 Collaboration Workloads を活用する方法について学びます。利用可能なコラボレーションツールセットを評価し、ビジネス要件を分析します。また、ユーザーの採用や変更管理など、デジタル変革のガバナンスを計画および開発する方法についても学習します。
-
-  このコースは、組織内で Teamwork インフラストラクチャを展開および管理する IT プロフェッショナルを対象としています。
-
-  これは、 Teamwork 管理者の 4 コースのシリーズのうちの最後のコースです。これらのコースは、 MS-300&#58; Deploying Microsoft 365 Teamwork の試験準備に役立ちます。
+  組織内外のチームワークとコラボレーションを変革することは、最新のワークスペースにおいてより重要になります。このコースでは、Yammer、Stream、PowerApps、Flow など組織の生産性を向上させるために、Office 365 Collaboration Workloads を活用する方法について学びます。利用可能なコラボレーションツールセットを評価し、ビジネス要件を分析します。また、ユーザーの採用や変更管理など、デジタル変革のガバナンスを計画および開発する方法についても学習します。 
   
-  #### 聴衆プロファイル
-  このコースは、Microsoft 365 teamwork administrator role 向けのものです。このロールは、試験の受験生は、効率的かつ効果的なコラボレーションと採用に焦点を当てたOffice 365およびAzureワークロードの構成、展開、および管理を担当します。管理者は、ビジネス要件を満たすためにアプリケーション、サービス、およびサポート インフラストラクチャを管理します。管理者は製品とサービスを認識しており、区別することができますが、各製品またはサービスを直接管理することはできません。
-  
-  Teamwork 管理者は、SharePoint（オンライン、オンプレミス、およびハイブリッド）、OneDrive、およびチームを展開、管理、移行、および保護できる必要があります。
+  このコースは、組織内で Teamwork インフラストラクチャを展開および管理する IT プロフェッショナルを対象としています。 
 
-  Teamwork 管理者は、以下のアプリやサービスとの統合ポイントについて基本的に理解しています&#58; Office、Power Apps、Flow、Yammer、Microsoft Graph、Stream、Planner、および Project。管理者は、基幹業務アプリケーションを含むサード パーティのアプリとサービスを統合する方法を理解しています。
+  これは、 Teamwork 管理者の 4 コースのシリーズのうちの最後のコースです。これらのコースは、  MS-300&#58; Deploying Microsoft 365 Teamwork の試験準備に役立ちます。
+
+  #### Audience profile
+  このコースは、Microsoft 365 teamwork administrator role 向けのものです。このロールは、効率的かつ効果的なコラボレーションと採用に重点を置く Office 365および Azure workloadsの構成、展開、および管理を担当します。管理者は、ビジネス要件を満たすためにアプリケーション、サービス、およびサポート インフラストラクチャを管理します。管理者は製品とサービスを認識しており、区別することができますが、各製品またはサービスを直接管理することはできません。
+
+  チームワーク管理者は、SharePoint (オンライン、オンプレミス、およびハイブリッド)、OneDrive、および Teams を展開、管理、移行、および保護できる必要があります。 
+
+  チームワーク管理者は、以下のアプリやサービスとの統合ポイントについて基本的に理解しています&#58; Office、Power Apps、Flow、Yammer、Microsoft Graph、Stream、Planner、および Project。管理者は、基幹業務アプリケーションを含むサードパーティのアプリとサービスを統合する方法を理解しています。
 prerequisitesSection: |-
-  受講者は、すでに以下のスキルを持つこのコースを開始する必要があります。&#58;
-  - Windows PowerShell の経験
+  受講者は、すでに以下のスキルを持つこのコースを開始する必要があります&#58;
+  - Windows PowerShellの経験
   - Active Directory と Azure AD の基本的な理解
-  - モバイル デバイス管理、およびその他のオペレーティング システム (Android および macOS) の基本的な理解
+  - モバイルデバイス管理、およびその他のオペレーティングシステム（Android および macOS）の基本的な理解
 outlineSection: |-
-  ### モジュール 1&#58; Office 365 Collaboration Workloads の評価
-  Office 365 には、コラボレーションソリューションの構築に使用できる多くの機能が含まれています。コラボレーションソリューションを構築するためのコアコンポーネントは SharePoint Online ですが、 Yammer や Stream などのその他の機能も使用できます。ソリューションを設計する際に、 SharePoint Online およびその他の Office 365 機能とサードパーティ製ソリューションの比較を理解する必要があります。また、ビジネス要件を分析して、ソリューションがビジネス ニーズを満たしていることを確認する必要もあります。
-  #### レッスン
+  ### Module 1&#58; Office 365 Collaboration Workloads の評価
+  Office 365 には、コラボレーションソリューションの構築に使用できる多くの機能が含まれています。コラボレーションソリューションを構築するためのコアコンポーネントは SharePoint Online ですが、 Yammer や Stream などのその他の機能も使用できます。ソリューションを設計する際に、 SharePoint Online およびその他の Office 365 機能とサードパーティ製ソリューションの比較を理解する必要があります。また、ビジネス要件を分析して、ソリューションがビジネスニーズを満たしていることを確認する必要もあります。
+  #### Lessons
   - 利用可能な技術ツールの評価
   - 経営要件の分析
 
 
-  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  このモジュールを終了すると、受講者は以下のことができるようになります：
   - 利用可能な技術ツールを評価する
   - 経営要件を分析する
 
 
-  ### モジュール 2&#58; ガバナンスの計画と開発
+  ### Module 2&#58; ガバナンスの計画と開発
   情報技術（ IT ）の展開と管理を成功させるには、一貫性のある明確な方法論が必要です。ガバナンスとは、コラボレーションソリューションを含めて、 IT の展開と管理のためのポリシーと手順を定義するために従うべきプロセスです。アプリケーション管理、ユーザーの採用、変更管理、および監視のガバナンスを検討する必要があります。
-  #### レッスン
+  #### Lessons
   - デジタル変革のガバナンスの開発
   - アプリケーション管理ガバナンスの実装
   - ユーザーの採用と変更管理
-  - コラボレーション ソリューションの監視
+  - コラボレーションソリューションの監視
 
 
-  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  このモジュールを終了すると、受講者は以下のことができるようになります：
   - デジタル変革のガバナンスを開発する
   - アプリケーション管理ガバナンスの実装する
   - ユーザーの採用と変更を管理する
-  - コラボレーション ソリューションを監視する
+  - コラボレーションソリューションを監視する
 
 
-  ### モジュール 3&#58; Office 365 Collaboration Workloads の管理
+  ### Module 3&#58; Office 365 Collaboration Workloads の管理
   Office 365 には、コラボレーションに使用できる多くのアプリケーションと機能があります。組織のニーズを満たすために、これらのアプリケーションと機能を構成する方法を理解する必要があります。このモジュールでは、 Office 365 グループ、 Power BI 、 Microsoft Stream、 Yammers、Flow、および PowerApps の管理について学習します。
-  #### レッスン
-  - Office 365 のコラボレーション ワークロードの管理
+  #### Lessons
+  - Office 365 のコラボレーションワークロードの管理
   - Stream 機能の管理
   - Yammer 機能の管理
   - Flow と PowerApps 機能の管理
 
 
-  学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - Office 365 のコラボレーション ワークロードを管理する
+  このモジュールを終了すると、受講者は以下のことができるようになります：
+  - Office 365 のコラボレーションワークロードを管理する
   - Stream 機能を管理する
   - Yammer 機能を管理する
   - Flow と PowerApps の機能を管理する
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Microsoft Azure Fundamentals
 metadata:
-  title: 'コース AZ-900T01-A: Microsoft Azure Fundamentals'
-  description: 'コース AZ-900T01-A: Microsoft Azure Fundamentals'
+  title: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
+  description: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
 uid: course.az-900t01
 courseNumber: 'AZ-900T01-A'
 hoursToComplete: 24
@@ -12,7 +12,7 @@ skillsGained:
 - skill: Microsoft Azure で利用可能なコア サービスを理解する
 - skill: Microsoft Azure のセキュリティ、プライバシー、コンプライアンス、信頼を理解する
 - skill: Microsoft で利用可能な価格設定とサポートモデルを理解する
-learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -25,11 +25,11 @@ exams:
 - uid: exam.az-900
 summary: |-
   このコースでは、クラウド サービスの基礎レベルの知識と、それらのサービスが Microsoft Azure でどのように提供されるかについて説明します。このコースは、さらに Microsoft Azure または Microsoft クラウド サービスのコースを受講する前に、クラウド サービスと Microsoft Azure について学習するためのオプションの最初のステップとして受講できます。
-  
+
   このコースでは、一般的なクラウド コンピューティングの概念に加えて、Public クラウド、Private クラウド および Hybrid クラウド、そして Infrastructure-as-a-Service (IaaS)、Platform-as-a-Service (PaaS)、Software-as-a-Service (SaaS) などの一般的なクラウド コンピューティング モデルとサービスを扱います。
-  
+
   また、いくつかのコア Azure サービスとソリューション、およびセキュリティ、プライバシー、コンプライアンス、信頼に関する Azure の主要な柱サービスについても説明します。最後に、Azure で利用可能な価格設定とサポートサービスについて説明します。
-  
+
   #### 聴衆プロファイル
   このコースを受講するための前提条件はありません。Microsoft Azure の詳細を知りたい人を対象としています。
 prerequisitesSection: |-
@@ -57,7 +57,7 @@ outlineSection: |-
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Microsoft Azure で利用可能なコア サービスを理解する
-
+  - Microsoft Azure
 
   ### モジュール 3&#58; セキュリティ、プライバシー、コンプライアンス、信頼
   このモジュールでは、Microsoft Azure のセキュリティ、プライバシー、コンプライアンス、および信頼について学習します。
@@ -70,7 +70,8 @@ outlineSection: |-
   - Azure のプライバシー、コンプライアンス、データ保護基準
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - 理解する Microsoft Azure によるセキュリティ、プライバシー、コンプライアンス、信頼
+  - 理解する
+  - Microsoft Azure によるセキュリティ、プライバシー、コンプライアンス、信頼
 
   ### モジュール 4&#58; Azure の価格とサポート
   このモジュールでは、Microsoft で利用可能な価格設定とサポート モデルに焦点を当てます。
@@ -82,3 +83,4 @@ outlineSection: |-
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Microsoft で利用可能な価格設定とサポートモデルを理解する
+

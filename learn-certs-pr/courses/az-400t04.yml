@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 依存関係管理の実装
+title: Implementing Dependency Management
 metadata:
-  title: 'コース AZ-400T04-A: 依存関係管理の実装'
-  description: 'コース AZ-400T04-A: 依存関係管理の実装'
+  title: 'Course AZ-400T04-A: Implementing Dependency Management'
+  description: 'Course AZ-400T04-A: Implementing Dependency Management'
 uid: course.az-400t04
 courseNumber: 'AZ-400T04-A'
 hoursToComplete: 24
@@ -34,6 +34,7 @@ exams:
 - uid: exam.az-400
 summary: |-
   このコースでは、依存関係管理を実装するための知識とスキルを提供します。学生は、依存関係管理戦略を設計し、セキュリティとコンプライアンスの管理方法を学びます。
+
   #### 聴衆プロファイル
   このコースの学生は、依存関係管理の実装または Microsoft Azure DevOps Solutions 認定資格試験に合格することに関心があります。
 prerequisitesSection: |-
@@ -45,7 +46,8 @@ outlineSection: |-
   - パッケージの依存関係
   - パッケージ管理
   - バージョン管理戦略を実装する
-  
+
+
   #### ラボ &#58; パッケージのアップデート
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - 間生成物管理ツールとプラクティスを推奨する
@@ -67,3 +69,4 @@ outlineSection: |-
   - オープンソースソフトウェアパッケージのセキュリティとライセンスの遵守状況を調べて、企業標準に合わせる
   - パッケージのセキュリティとライセンスの評価にアクセスするビルド パイプラインを構成する
   - パッケージ フィードへの安全なアクセスを設定する
+

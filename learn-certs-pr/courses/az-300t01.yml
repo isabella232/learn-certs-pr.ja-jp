@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Deploying and Configuring Infrastructure
 metadata:
-  title: 'コース AZ-300T01-A: インフラストラクチャの展開および設定'
-  description: 'コース AZ-300T01-A: インフラストラクチャの展開および設定'
+  title: 'Course AZ-300T01-A: Deploying and Configuring Infrastructure'
+  description: 'Course AZ-300T01-A: Deploying and Configuring Infrastructure'
 uid: course.az-300t01
 courseNumber: 'AZ-300T01-A'
 hoursToComplete: 24
@@ -13,7 +13,7 @@ skillsGained:
 - skill: VM の展開および管理
 - skill: 仮想ネットワークの構成および管理
 - skill: Azure Active Directory を使用した ID の管理
-learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -46,7 +46,7 @@ exams:
 - uid: exam.az-300
 summary: |-
   このコースでは、仮想マシン、仮想ネットワーク、ストレージ アカウント、およびハイブリッド ID の実装と管理を含む Azure AD の展開と構成など、Azure リソースの管理方法を IT プロフェッショナルに教えます。また、ユーザーおよびグループ アカウントを通じて Azure でクラウド リソースを管理する方法、およびロール ベースのアクセス制御 (RBAC) を使用して Azure AD ユーザー、グループ、およびサービスへのアクセスを許可する方法についても学習します。
-  
+
   学生は、さまざまなストレージ アカウントとサービス、および基本的なデータ複製の概念と利用可能な複製スキームについて学びます。また、Azure ストレージ データを操作する便利な方法として、学生に Storage Explorer を紹介します。また、ストレージの種類と、マネージド ディスクおよびカスタム ディスクの使用方法についても学びます。
 
   Azure Blob ストレージは、Azure が非構造化データをクラウドに保存する方法であり、生徒は Blob と Blob コンテナーを操作します。Blob ストレージに加えて、このコースでは、構造化データのストレージ オプションとして Table ストレージと Queue ストレージを扱います。
@@ -56,13 +56,13 @@ summary: |-
   学生は、Azure Alerts や Activity Log など、Azure が提供する監視ツールと機能を学習します。アラートとログに加えて、学生にはシステムの状態と正常性を理解するための効果的なデータ分析ソリューションとして Log Analytics が導入されます。そしておそらく、学生が学ぶ最もエキサイティングなことは、Azure Resource Manager (ARM) 展開モデルを使用して、リソース、リソース グループ、ARM テンプレートを操作する方法です。
 
   このコースは、Azure Solutions Architect 試験のシリーズの最初のコースであるため、カリキュラムの残りのコースに向けて学生を準備するために、かなりの量の紹介コンテンツが提示されます。学生には、Azure ポータルで作業するためのヒントとコツについて触れるレッスンと、Cloud Shell や Resource Explorer などの Azure 環境で使用される主要なツールの紹介が提供されます。重点は、試験の準備だけでなく、職務自体のために習得する重要なスキルとして、PowerShell とコマンド ライン インターフェイス (CLI) に焦点を当てています。
-  
+
   #### 聴衆プロファイル
   成功するクラウド ソリューション アーキテクトは、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、課金、およびネットワーキングの実践的な経験からこのロールを開始します。
 outlineSection: |-
   ### モジュール 1&#58; Azure サブスクリプションとリソースの管理
   このモジュールでは、Azure アラート、Azure アクティビティ ログ、および Log Analytics を使用して、Azure の監視機能を調べます。Log Analytics で表示されるデータのクエリ、分析、および解釈を学習します。
-  
+
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Azure サブスクリプションとリソースを管理する
 
@@ -110,3 +110,4 @@ outlineSection: |-
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Azure AD を使用して ID を管理する
+
