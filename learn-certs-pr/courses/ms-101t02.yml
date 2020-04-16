@@ -1,25 +1,25 @@
 ### YamlMime:Course
-title: Microsoft 365 コンプライアンス管理
+title: Microsoft 365 Compliance Management
 metadata:
-  title: 'コース MS-101T02-A: Microsoft 365 コンプライアンス管理'
-  description: 'コース MS-101T02-A: Microsoft 365 コンプライアンス管理'
+  title: 'Course MS-101T02-A: Microsoft 365 Compliance Management'
+  description: 'Course MS-101T02-A: Microsoft 365 Compliance Management'
 uid: course.ms-101t02
 courseNumber: 'MS-101T02-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 'Microsoft 365 におけるデータガバナンスを理解する。これには以下が含まれます:アーカイブ、保存、Information Rights Management、Secure Multipurpose Internet Mail Extension (S/MIME)、Office 365 Message Encryption および Data Loss Prevention'
+- skill: Microsoft 365 におけるデータガバナンスを理解する。これには以下が含まれます；アーカイブ、保存、Information Rights Management、Secure Multipurpose Internet Mail Extension (S/MIME)、Office 365 Message Encryption および Data Loss Prevention
 - skill: SharePoint に In-Place Records Management を実装する
 - skill: Exchange にアーカイブと保存を実装する
 - skill: Security and Compliance Center に保存ポリシーを実装する
 - skill: セキュリティとコンプライアンスのニーズを計画する
 - skill: Exchange Online に倫理的な壁を構築する
-- skill: ビルトイン テンプレートから DLP ポリシーを作成する
+- skill: ビルトインテンプレートから DLP ポリシーを作成する
 - skill: カスタム DLP ポリシーを作成する
 - skill: 文書を保護するために DLP ポリシーを作成する
 - skill: ポリシーの情報を実装する
 - skill: 電子メールにおいて保存を管理する
-- skill: データ ガバナンスをトラブルシューティングする
+- skill: データガバナンスをトラブルシューティングする
 - skill: 情報保護を実装する
 - skill: Advanced Threat Protection を実装する
 - skill: Windows Information Protections を理解する
@@ -40,17 +40,17 @@ products:
 exams:
 - uid: exam.ms-101
 summary: |-
-  Microsoft 365 Compliance Management について学びましょう。これには、 Microsoft 365 のデータ保存とデータ損失防止ソリューション、Microsoft 365 のアーカイブと保存、データ ガバナンスの実装と管理、および検索と調査の管理が含まれます。
-  
-  #### 聴衆プロファイル
+  Microsoft 365 Compliance Management について学びましょう。これには、 Microsoft 365 のデータ保存とデータ損失防止ソリューション、Microsoft 365 のアーカイブと保存、データガバナンスの実装と管理、および検索と調査の管理が含まれます。
+
+  #### Audience profile
   このコースは、 Microsoft 365 Enterprise Admin role を希望し、 Microsoft 365 role-based の管理者認定パスの 1 つを終了したユーザーを対象としています。
 prerequisitesSection: |-
-  - Messaging、Teamwork、Security and Compliance、または Collaboration などのロールベース管理者コースを修了。
+  - Messaging、Teamwork、Security and Compliance、またはCollaboration などのロールベース管理者コースを修了。
   - DNS に関する十分な理解、および Microsoft 365 サービスの基本的機能の経験。
   - 一般的な IT プラクティスに対する十分な理解。
 outlineSection: |-
-  ### モジュール 1&#58; Microsoft 365 のデータ ガバナンス概要
-  #### レッスン
+  ### Module 1&#58; Microsoft 365 のデータガバナンス概要
+  #### Lessons
   - Microsoft 365 のアーカイブ概要
   - Microsoft 365 の保存概要
   - 情報権管理の概要
@@ -58,56 +58,58 @@ outlineSection: |-
   - Office 365 のメッセージ暗号化概要
   - データ損失予防概要
 
-  ### モジュール 2&#58; Microsoft 365 のアーカイブと保存概要
-  #### レッスン
-  - SharePoint におけるインプレイス レコード管理
+
+  ### Module 2&#58; Microsoft 365 のアーカイブと保存概要
+  #### Lessons
+  - SharePoint における In-Place Records 管理
   - Exchange におけるアーカイブと保存
   - SCC の保存ポリシー
-  - ドメインサービスの実装
+  - Domain Services の実装
 
 
-  ### モジュール 3&#58; Microsoft 365 Intelligence における Data Governance の実装
-  #### レッスン
+  ### Module 3&#58; Microsoft 365 Intelligence における Data Governance の実装
+  #### Lessons
   - Security and Compliance Needs の計画
   - Exchange Online における倫理的境界の構築
   - Built-in Template から Simple DLP Policy を作成
   - Custom DLP Policy の作成
-  - 文書保護のためのDLPポリシーの作成
+  - DLP Policy を Protect Documents に作成
   - Policy Tips で作業
 
 
-  ### モジュール 4&#58; Microsoft 365 における Data Governance の管理
-  #### レッスン
+  ### Module 4&#58; Microsoft 365 における Data Governance の管理
+  #### Lessons
   - 電子メールにおける保存の管理
-  - データ ガバナンスのトラブルシューティング
+  - Data Governance のトラブルシューティング
   - Information Protection の実装
   - Advanced Information Protection の実装
   - Windows Information Protection の概要
 
 
-  ### モジュール 5&#58; Search and Investigations の管理
-  #### レッスン
-  - セキュリティおよびコンプライアンス センターにおけるコンテンツの検索
+  ### Module 5&#58; Search and Investigations の管理
+  #### Lessons
+  - Security and Compliance Center におけるコンテンツの検索
   - Log Investigations の監査
   - Advanced eDiscovery の管理
 
 
-  ### モジュール 6&#58; ハンズオン ラボ
+  ### Module 6&#58; ハンズオン ラボ
 
-  #### ラボ &#58; ラボ環境のセットアップ
-  - 演習 1&#58; 組織内のコンプライアンスの初期化
-
-
-  #### ラボ &#58; Microsoft 365 のアーカイブと保存
-  - 演習 1&#58; Tags and Policiesの保存を構成する
-  - 演習 2&#58; AIP and WIP を構成する
+  #### Lab &#58;ラボ環境のセットアップ
+  - Exercise 1&#58; 組織内のコンプライアンスの初期化
 
 
-  #### ラボ &#58; Data Governance の実装
-  - 演習 1&#58; DLP Policies のテスト
-  - 演習 2&#58; Azure Information Protection の使用
-  - 演習 3&#58; Windows Information Protection の使用
+  #### Lab&#58; Microsoft 365 のアーカイブと保存
+  - Exercise 1&#58; Tags and Policiesの保存を構成する
+  - Exercise 2&#58; AIP and WIP を構成する
 
 
-  #### ラボ &#58; Data Governance Policies の検証
-  - 演習 1&#58; Microsoft 365 Data の調査
+  #### Lab &#58; Data Governance の実装
+  - Exercise 1&#58; DLP Policies のテスト
+  - Exercise 2&#58; Azure Information Protection の使用
+  - Exercise 3&#58; Windows Information Protection の使用
+
+
+  #### Lab &#58; Data Governance Policies の検証
+  - Exercise 1&#58; Microsoft 365 Data の調査
+

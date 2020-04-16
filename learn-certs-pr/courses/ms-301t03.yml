@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: SharePoint ハイブリッドシナリオの実装
+title: Implementing SharePoint Hybrid Scenarios
 metadata:
-  title: 'コース MS-301T03-A: SharePoint ハイブリッドシナリオの実装'
-  description: 'コース MS-301T03-A: SharePoint ハイブリッドシナリオの実装'
+  title: 'Course MS-301T03-A: Implementing SharePoint Hybrid Scenarios'
+  description: 'Course MS-301T03-A: Implementing SharePoint Hybrid Scenarios'
 uid: course.ms-301t03
 courseNumber: 'MS-301T03-A'
 hoursToComplete: 24
@@ -35,62 +35,64 @@ exams:
 summary: |-
   ビジネス環境が変化しました。人々はコラボレーションの障壁なしで、コミュニケーションを取りたいと考えています。企業は、費用効果と柔軟性の両方に優れたソリューションを求めています。ハイブリッド環境では、企業ユーザーはほぼどこからでも必要なリソースやコンテンツに接続できます。このコースでは、シームレスのユーザー体験を提供する SharePoint ハイブリッドシナリオを計画して実装する方法を学習します。また、ユーザーが必要なファイルに簡単にアクセスできる SharePoint ハイブリッド検索についても、説明します。
 
-  このコースは、組織内で Teamwork インフラストラクチャを展開および管理する IT プロフェッショナルを対象としています。
+  このコースは、組織内でチームワーク インフラストラクチャを展開および管理する IT プロフェッショナルを対象としています。
 
   これは、Teamwork 管理者の 4 コースのシリーズのうちの 3 番目のコースです。これらのコースは、 MS-301&#58; Deploying SharePoint Server Hybrid の試験準備に役立ちます。
-  
-  #### 聴衆プロファイル
-  このコースは、Microsoft 365 teamwork administrator role 向けのものです。このロールは、試験の受験生は、効率的かつ効果的なコラボレーションと採用に焦点を当てたOffice 365およびAzureワークロードの構成、展開、および管理を担当します。管理者は、ビジネス要件を満たすためにアプリケーション、サービス、およびサポート インフラストラクチャを管理します。管理者は製品とサービスを認識しており、区別することができますが、各製品またはサービスを直接管理することはできません。
 
-  Teamwork 管理者は、SharePoint（オンライン、オンプレミス、およびハイブリッド）、OneDrive、およびチームを展開、管理、移行、および保護できる必要があります。
+  #### Audience profile
+  このコースは、Microsoft 365 teamwork administrator role 向けのものです。このロールは、効率的かつ効果的なコラボレーションと採用に重点を置く Office 365および Azure workloadsの構成、展開、および管理を担当します。管理者は、ビジネス要件を満たすためにアプリケーション、サービス、およびサポート インフラストラクチャを管理します。管理者は製品とサービスを認識しており、区別することができますが、各製品またはサービスを直接管理することはできません。
 
-  Teamwork 管理者は、以下のアプリやサービスとの統合ポイントについて基本的に理解しています&#58; Office、Power Apps、Flow、Yammer、Microsoft Graph、Stream、Planner、および Project。管理者は、基幹業務アプリケーションを含むサード パーティのアプリとサービスを統合する方法を理解しています。
+  Teamwork管理者は、SharePoint（オンライン、オンプレミス、およびハイブリッド）、OneDrive、およびチームを展開、管理、移行、および保護できる必要があります。
+
+  Teamwork 管理者は、以下のアプリやサービスとの統合ポイントについて基本的に理解しています&#58; Office、Power Apps、Flow、Yammer、Microsoft Graph、Stream、Planner、および Project。管理者は、基幹業務アプリケーションを含むサードパーティのアプリとサービスを統合する方法を理解しています。
 prerequisitesSection: |-
-  受講者は、すでに以下のスキルを持つこのコースを開始する必要があります。&#58;
+  受講者は、すでに以下のスキルを持つこのコースを開始する必要があります：
   - Windows PowerShell の経験。
   - SQL Server 管理の基本的な理解。
   - DNS を含むネットワーキングの基本的な理解。
   - Windows サーバー管理に関する実務知識。
   - Active Directory と Azure AD の基本的な理解。
-  - モバイル デバイス管理、およびその他のオペレーティング システム (Android および macOS) についての基本的な理解。
+  - モバイルデバイス管理、およびその他のオペレーティングシステム（Android および macOS）についての基本的な理解。
 outlineSection: |-
-  ### モジュール 1&#58; SharePoint Hybrid Scenarios の概要
+  ### Module 1&#58; SharePoint Hybrid Scenarios の概要
   このモジュールは、SharePoint Server ハイブリッド計画のあらゆることに関します。SharePoint ハイブリッドシナリオの概要、および構成の要件について説明します。
-  #### レッスン
+
+  #### Lessons
   - SharePoint Hybrid Scenarios の概要
   - SharePoint Server hybrid を計画する
 
-  学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - 利用可能な SharePoint ハイブリッド シナリオについて説明する。
+  このモジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - 利用可能な SharePoint ハイブリッドシナリオについて説明する。
   - SharePoint ハイブリッド構成の要件を説明する。
   - SharePoint Server ハイブリッドを計画する。
 
 
-  ### モジュール 2&#58; SharePoint Hybrid Scenarios の実装
+  ### Module 2&#58; SharePoint Hybrid Scenarios の実装
   このモジュールでは、SharePoint ハイブリッドシナリオの実装に焦点を当てます。具体的には、ハイブリッドの構成ロードマップについて説明します。これには、ハイブリッドインフラストラクチャおよびハイブリッドピッカーの構成が含まれます。また、 SharePoint Server 2019 において Office 365 機能を使用可能とするオンプレミスデータゲートウェイについても説明します。
 
-  #### レッスン
+  #### Lessons
   - SharePoint Hybrid Scenarios を実装する
-  - オンプレミスのデータ ゲートウェイを構成する
+  - オンプレミスのデータゲートウェイを構成する
 
-  学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - SharePoint ハイブリッド シナリオを構成する。
-  - オンプレミスのデータ ゲートウェイを構成する。
+  このモジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - SharePoint ハイブリッドシナリオを構成する。
+  - オンプレミスのデータゲートウェイを構成する。
 
 
-  ### モジュール 3&#58; SharePoint Hybrid 検索の実装
+  ### Module 3&#58; SharePoint Hybrid 検索の実装
   このモジュールでは、SharePoint ハイブリッド検索に焦点を当てます。クラウドハイブリッド検索やハイブリッド連携検索を含めて、さまざまなタイプのハイブリッド検索について説明します。ハイブリッド検索の設定方法、および検索結果の構成方法について説明します。
-  #### レッスン
+  #### Lessons
   - SharePoint ハイブリッド検索の概要
   - SharePoint Hybrid 検索を構成する
 
-  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  このモジュールを終了すると、受講者は以下のことができるようになります&#58;
   - クラウドハイブリッド検索とハイブリッド連携検索の相違点を説明する。
   - さまざまなタイプのハイブリッド検索を評価する。
-  - クラウド ハイブリッド検索を構成する。
+  - クラウドハイブリッド検索を構成する。
   - ハイブリッド検索結果を構成する。
 
 
-  ### モジュール 4&#58; コースの結論
+  ### Module 4&#58; コースの結論
 
-  #### ラボ &#58; SharePoint Hybrid の構成
+  #### Lab &#58; SharePoint Hybrid の構成
+

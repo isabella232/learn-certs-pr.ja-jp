@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Azure のサービスとしてのインフラのコンピューティングソリューション開発
+title: Develop Azure Infrastructure as a Service compute solutions
 metadata:
-  title: 'コース AZ-203T01-A: Azure のサービスとしてのインフラのコンピューティング ソリューション開発'
-  description: 'コース AZ-203T01-A: Azure のサービスとしてのインフラのコンピューティング ソリューション開発'
+  title: 'Course AZ-203T01-A: Develop Azure Infrastructure as a Service compute solutions'
+  description: 'Course AZ-203T01-A: Develop Azure Infrastructure as a Service compute solutions'
 uid: course.az-203t01
 courseNumber: 'AZ-203T01-A'
 hoursToComplete: 24
@@ -29,7 +29,7 @@ exams:
 - uid: exam.az-203
 summary: |-
   このコースでは、Azure IaaS サービスと機能を開発ソリューションに実装するために必要な知識とスキルを習得します。このコースでは、仮想マシンのプロビジョニング、Batch Service を使用したリソースの展開/保守、および Azure Kubernetes Service を使用したコンテナー化ソリューションの作成方法について説明します。
-  
+
   #### 聴衆プロファイル
   - このコースの学生は、Azure 開発または Microsoft Azure Developer Associate 認定資格試験に合格することに興味があります。
 prerequisitesSection: |-
@@ -42,11 +42,12 @@ outlineSection: |-
   - Provision VMs
   - ARM テンプレートを作成する
   - VM の Azure ディスク暗号化を設定
-  
+
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Azure Portal、PowerShell、およびコードを使用して、仮想マシンを作成および展開する方法を学びます。
   - Azure Portal と Visual Studio を使用して ARM を作成および展開する方法を学びます。
   - さまざまな暗号化オプションを理解し、既存および新規の展開を暗号化する方法を学びます。
+
 
   ### モジュール 2&#58; Azure Batch Servicesを使用してバッチ ジョブを実装する
   Azure Batch は、計算ノード (仮想マシン) のプールを作成および管理し、実行するアプリケーションをインストールし、ノードで実行するジョブをスケジュールします。
@@ -76,3 +77,4 @@ outlineSection: |-
   - AKS クラスターを展開する方法を学ぶ
   - Azure Container Registry にイメージを公開
   - Azure Container Instances とそれらに展開する方法を学ぶ
+

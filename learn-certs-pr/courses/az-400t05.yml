@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: アプリケーション インフラストラクチャの実装
+title: Implementing Application Infrastructure
 metadata:
-  title: 'コース AZ-400T05-A: アプリケーション インフラストラクチャの実装'
-  description: 'コース AZ-400T05-A: アプリケーション インフラストラクチャの実装'
+  title: 'Course AZ-400T05-A: Implementing Application Infrastructure'
+  description: 'Course AZ-400T05-A: Implementing Application Infrastructure'
 uid: course.az-400t05
 courseNumber: 'AZ-400T05-A'
 hoursToComplete: 24
@@ -32,6 +32,7 @@ exams:
 - uid: exam.az-400
 summary: |-
   このコースでは、DevOps パイプラインにアプリケーション インフラストラクチャを展開するための知識とスキルを提供します。学生は、インフラストラクチャをコードおよび構成管理として実装する方法、一般的な自動化ツールを使用して Azure インフラストラクチャをプロビジョニングする方法、さまざまな Azure サービスと展開方法を使用してアプリケーション インフラストラクチャを展開する方法を学習します。また、生徒は Chef や Puppet などのサードパーティの展開ツールを Azure と統合して、リリース パイプラインにコンプライアンスとセキュリティを組み込む方法を学びます。
+
   #### 聴衆プロファイル
   このコースの学生は、アプリケーション インフラストラクチャの実装、そのインフラストラクチャの管理と構成、または Microsoft Azure DevOps Solutions 認定資格試験に合格することに関心があります。
 prerequisitesSection: |-
@@ -51,11 +52,12 @@ outlineSection: |-
   - 追加の自動化ツール
   - バージョン管理
   - ARM テンプレートを使用した Azure へのラボ展開
-  - モジュールレビューの質問
-  
+  - Module Review Questions
+
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - コードの原則としてインフラストラクチャと構成を適用する
   - ARM テンプレート、PowerShell、Azure CLI などの Microsoft 自動化テクノロジーを使用してインフラストラクチャを展開および管理する
+
 
   ### モジュール 2&#58; Azure の展開モデルとサービス
   #### レッスン
@@ -78,7 +80,7 @@ outlineSection: |-
   - 学習目標
   - Azure Kubernetes Service
   - AKS Cluster のラボ展開とスケーリング
-  - モジュールレビューの質問
+  - Module Review Questions
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Managed Kubernetes クラスターを展開して構成する
@@ -87,13 +89,13 @@ outlineSection: |-
   ### モジュール 4&#58; Azure で利用可能なサードパーティおよびオープンソース ツール
   #### レッスン
   - 学習目標
-  - シェフ
-  - パペット
-  - アンシブル
-  - クラウド初期化
+  - Chef
+  - Puppet
+  - Ansible
+  - Cloud-Init
   - Terraform
   - X を使用して Azure でアプリをラボ プロビジョニングおよび構成する
-  - モジュールレビューの質問
+  - Module Review Questions
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Chef、Puppet、Ansible、SaltStack、Terraform など、Azure のサードパーティ ツールとサービスを使用してインフラストラクチャを展開および構成する
@@ -104,7 +106,7 @@ outlineSection: |-
   - DevOps によるセキュリティとコンプライアンスの原則
   - Azure Security Center
   - ラボは Azure DevOps パイプライン/セキュリティ センターにスキャン拡張機能またはツールを統合する
-  - モジュールレビューの質問
+  - Module Review Questions
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - インフラストラクチャ、およびリリース パイプラインとアプリケーション インフラストラクチャのための恒星戦略と適切なツールセットを定義する
@@ -114,3 +116,4 @@ outlineSection: |-
   ### モジュール 6&#58; コースの修了
   #### レッスン
   - 最終試験
+

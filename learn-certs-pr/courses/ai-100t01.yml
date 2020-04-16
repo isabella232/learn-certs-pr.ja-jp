@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Azure AI ソリューションのデザインおよび実装
+title: Designing and Implementing an Azure AI Solution
 metadata:
-  title: 'コース AI-100T01-A: Azure AI ソリューションのデザインおよび実装'
-  description: 'コース AI-100T01-A: Azure AI ソリューションのデザインおよび実装'
+  title: 'Course AI-100T01-A: Designing and Implementing an Azure AI Solution'
+  description: 'Course AI-100T01-A: Designing and Implementing an Azure AI Solution'
 uid: course.ai-100t01
 courseNumber: 'AI-100T01-A'
 hoursToComplete: 72
@@ -40,7 +40,8 @@ outlineSection: |-
   - Azure Cognitive Services の概要
   - Azure ポータルでの Cognitive Service の作成
   - Cognitive Service へのアクセスおよびテスト
-  
+
+
   ### モジュール 2&#58; ボットの作成
   学生は、Microsoft Bot Framework と Bot Services について学習します。
   #### レッスン
@@ -79,3 +80,4 @@ outlineSection: |-
   - テキスト分析で Bot の感情分析を実行する
   - 言語認識サービスを使用して Bot の言語を検出する
   - コンピューター ビジョンと Bot を統合する
+

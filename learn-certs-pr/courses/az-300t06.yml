@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Developing for the Cloud
 metadata:
-  title: 'コース AZ-300T06-A: Developing for the Cloud'
-  description: 'コース AZ-300T06-A: Developing for the Cloud'
+  title: 'Course AZ-300T06-A: Developing for the Cloud'
+  description: 'Course AZ-300T06-A: Developing for the Cloud'
 uid: course.az-300t06
 courseNumber: 'AZ-300T06-A'
 hoursToComplete: 24
@@ -45,14 +45,16 @@ exams:
 - uid: exam.az-300
 summary: |-
   メッセージ ベースの統合アーキテクチャを構成する方法、非同期プロセッシング用に開発する方法、自動スケーリング用のアプリを作成する方法、および Azure Cognitive Services ソリューションをよりよく理解する方法を学びます。
-  
+
   #### 聴衆プロファイル
   成功するクラウド ソリューション アーキテクトは、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、課金、およびネットワーキングの実践的な経験からこのロールを開始します。
 outlineSection: |-
   ### モジュール 1&#58; 長時間実行するタスクと分散トランザクションの開発
   このモジュールのトピックは次のとおりです。&#58; バッチを使用した大規模、並列、および高性能アプリの実装、Microsoft Azure Virtual Machines を使用したHPC、キューを使用した復元力のあるアプリの実装、Webhook を使用したアプリケーション イベントに対処するコードの実装。Webhook を実装すると、外部リソースにアプリケーションの URL が提供されます。 外部リソースは、アプリケーションがアクションを実行する必要がある変更が行われるたびに、その URL に HTTP 要求を発行します。
-  
+
+
   ### モジュール 2&#58; メッセージ ベースの統合アーキテクチャの構成
+
   #### レッスン
   - メールを送信するためにアプリまたはサービスを構成する
   - イベントの発行および購読モデルを構成する
@@ -106,3 +108,4 @@ outlineSection: |-
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Blob や Cosmos DB などの Azure Storage サービスを理解する
+

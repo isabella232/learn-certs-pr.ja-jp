@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 継続的デリバリーの実装
+title: Implementing Continuous Delivery
 metadata:
-  title: 'コース AZ-400T03-A: 継続的デリバリーの実装'
-  description: 'コース AZ-400T03-A: 継続的デリバリーの実装'
+  title: 'Course AZ-400T03-A: Implementing Continuous Delivery'
+  description: 'Course AZ-400T03-A: Implementing Continuous Delivery'
 uid: course.az-400t03
 courseNumber: 'AZ-400T03-A'
 hoursToComplete: 24
@@ -46,6 +46,7 @@ exams:
 - uid: exam.az-400
 summary: |-
   このコースは、継続的な配信を実装するための知識とスキルを提供します。学生は、リリース戦略の設計方法、リリース管理ワークフローの設定方法、適切な展開パターンの実装方法を学びます。
+
   #### 聴衆プロファイル
   このコースの学生は、DevOps プロセスを実装するか、Microsoft Azure DevOps Solutions 認定資格試験に合格することに興味があります。
 prerequisitesSection: |-
@@ -58,8 +59,8 @@ outlineSection: |-
   - High Quality Release パイプラインの構築
   - 展開パターンの選択
   - 適切なリリース管理ツールの選択
-  
-  
+
+
   #### ラボ &#58; リリース戦略の構築
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - リリースと展開を区別する
@@ -124,3 +125,4 @@ outlineSection: |-
   - Blue Green デプロイメントを実装する
   - Canary Release の実装
   - Progressive Exposure デプロイメントを実装する
+

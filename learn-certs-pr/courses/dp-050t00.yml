@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: SQL Workloads を Azure に移行する
+title: Migrate SQL workloads to Azure
 metadata:
-  title: 'コース DP-050T00-A: SQL Workloads を Azure に移行する'
-  description: 'コース DP-050T00-A: SQL Workloads を Azure に移行する'
+  title: 'Course DP-050T00-A: Migrate SQL workloads to Azure'
+  description: 'Course DP-050T00-A: Migrate SQL workloads to Azure'
 uid: course.dp-050t00
 courseNumber: 'DP-050T00-A'
 hoursToComplete: 48
@@ -25,13 +25,13 @@ products:
 summary: |-
   このコースでは、学生はデータ プラットフォームの近代化の目的と、それが特定のビジネス要件にどのように適しているかを探ります。また、データ プラットフォームの近代化プロセスの各段階を調査し、評価や計画段階など、各段階に含まれるタスクを定義します。また、利用可能な移行ツールと、データ移行プロセスの各段階にどのように適しているかについても学びます。
   学生は、Azure Virtual Machines、Azure SQL Database、Azure SQL Database Managed Instances など SQL ベースのワークロードの 3 つの対象プラットフォームに移行する方法を学びます。学生は、各対象プラットフォームの利点と制限、およびそれらを使用して現代の SQL ワークロードのビジネス要件と技術要件の両方を満たす方法を学習します。学生は、Azure の最新のデータ プラットフォームを最大限に活用できるように、既存の SQL ベースのアプリケーションに必要な変更を検討します。
-  
+
   #### 聴衆プロファイル
   このコースの対象者は、Microsoft Azure に存在するデータ プラットフォーム テクノロジの移行と、既存の SQL ベースのワークロードを移行および近代化する方法について学びたいデータ プロフェッショナルおよびデータ アーキテクトです。
   次にこのコースの対象となる人は、データ プラットフォームを管理するか、既存のデータ プラットフォーム テクノロジーからコンテンツを配信するアプリケーションを開発する個人です。
 prerequisitesSection: |-
-  SQL Server での専門的な経験に加えて、このトレーニングを受講する学生は、次のコースと同等の技術知識を持っている必要があります&#58;
-  - Azure fundamentals
+  SQL Server での専門的な経験に加えて、このトレーニングを受講する学生は、次のコースと同等の技術知識を持っている必要があります。
+  - [Azure fundamentals](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
 outlineSection: |-
   ### モジュール 1&#58; Data Platform Modernization の概要
   このモジュールでは、学生はデータ プラットフォームの近代化の目的を学び、データ プラットフォームの近代化が組織にもたらす利点について概説します。その後、学生は、データ プラットフォーム移行プロジェクトのさまざまな段階を学習し、各段階に何が含まれているかを理解して、データ プラットフォーム最新化プロジェクトの成功の可能性を最大化します。最後に、学生はさまざまなデータ移行パスを調べて、各アプローチがどのように異なるのか、なぜ移行アプローチを選択するのかを理解します。
@@ -39,7 +39,8 @@ outlineSection: |-
   - Data Platform Modernization について理解する
   - 移行の段階について理解する
   - Data Migration Paths
-  
+
+
   #### ラボ &#58; Data Platform Modernization の紹介
   - Data Platform Modernization について理解する
   - 移行の段階について理解する
@@ -128,3 +129,4 @@ outlineSection: |-
   - SQL Database Managed インスタンスへ移行する
   - SQL Database Managed インスタンスにデータをロードおよび移動する
   - アプリケーションの構成と最適化
+

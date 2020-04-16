@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Microsoft Azure Administrator
 metadata:
-  title: 'コース AZ-103T00-A: Microsoft Azure Administrator'
-  description: 'コース AZ-103T00-A: Microsoft Azure Administrator'
+  title: 'Course AZ-103T00-A: Microsoft Azure Administrator'
+  description: 'Course AZ-103T00-A: Microsoft Azure Administrator'
 uid: course.az-103t00
 courseNumber: 'AZ-103T00-A'
 hoursToComplete: 96
@@ -29,7 +29,7 @@ summary: |-
   #### 聴衆プロファイル
   このコースは Azure 管理者向けです。Azure 管理者は、ストレージ、ネットワーク、およびコンピューティング クラウド機能にまたがるクラウドサービスを管理し、IT ライフサイクル全体にわたって各サービスを深く理解しています。新しいクラウド アプリケーションに対するエンドユーザーの要求を受け取り、最適なパフォーマンスとスケール、および必要に応じてプロビジョニング、サイズ設定、監視、調整を行うために使用するサービスを推奨します。このロールには、ベンダーとのコミュニケーションおよび調整が必要です。Azure Administrator は、Azure Portal を使用し、熟練を重ねるにつれて、PowerShell と Command Line Interface を使用するようになります。
 prerequisitesSection: |-
-  - VM、仮想ネットワーク、仮想ハードディスクなどのオンプレミス仮想化技術の理解。
+  - VM、仮想ネットワーク、仮想ハードディスクなどのオンプレミス仮想化技術の理解&#58; 
   - TCP/IP、Domain Name System (DNS)、仮想プライベート ネットワーク (VPN)、ファイアウォール、暗号化技術などのネットワーク構成の理解。
   - ドメイン、フォレスト、ドメインコントローラー、レプリケーション、Kerberos プロトコル、および Lightweight Directory Access Protocol (LDAP) を含む Active Directory の概念の理解。
   - バックアップおよび復元操作を含む、復元力と障害回復の理解。
@@ -41,7 +41,8 @@ outlineSection: |-
   - Azure PowerShell および CLI
   - リソース マネージャー
   - ARM テンプレート
-  
+
+
   ### モジュール 2&#58; Azure Virtual Machines
   このモジュールでは、計画、作成、可用性、拡張機能など、Azure の仮想マシンについて学習します。
 
@@ -60,7 +61,7 @@ outlineSection: |-
   このモジュールでは、ストレージ アカウント、ブロブ ストレージ、Azure ファイル、ストレージ セキュリティなどの基本的なストレージ機能について学習します。
   #### レッスン
   - ストレージ アカウント
-  - Azure Blob
+  - Azure Blobs
   - Azure ファイル
   - ストレージ セキュリティ
 
@@ -81,7 +82,7 @@ outlineSection: |-
   ### モジュール 5&#58; サイト間接続
   このモジュールでは、VNet Peering、VNet 間接続、サイト間接続、ExpressRoute などのサイト間接続機能について学習します。
   #### レッスン
-  - VNet ピアリング
+  - VNet Peering
   - VNet から VNet への接続
   - ExpressRoute 接続
 
@@ -137,7 +138,7 @@ outlineSection: |-
   このモジュールでは、多要素認証、Azure AD ID 保護、セルフ サービス パスワード リセットなど、ID を保護する方法を学習します。
   #### レッスン
   - マルチ認証
-  - Azure AD Identity Protection
+  - Azure AD ID Protection
   - セルフサービス パスワード リセット
 
 
@@ -170,3 +171,4 @@ outlineSection: |-
 
 
   #### ラボ &#58; ファイル同期
+

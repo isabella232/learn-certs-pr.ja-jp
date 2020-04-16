@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Microsoft Azure Security Technologies
 metadata:
-  title: 'コース AZ-500T00-A: Microsoft Azure Security Technologies'
-  description: 'コース AZ-500T00-A: Microsoft Azure Security Technologies'
+  title: 'Course AZ-500T00-A: Microsoft Azure Security Technologies'
+  description: 'Course AZ-500T00-A: Microsoft Azure Security Technologies'
 uid: course.az-500t00
 courseNumber: 'AZ-500T00-A'
 hoursToComplete: 96
@@ -32,7 +32,6 @@ exams:
 summary: |-
   このコースでは、さまざまなセキュリティツールを使用して、セキュリティ コントロールの実装、セキュリティ体制の維持、脆弱性の特定と修復に必要な知識とスキルを習得します。
 
-
   このコースでは、スクリプト作成と自動化、仮想化、クラウド N 層アーキテクチャについて説明します。
 
   #### 聴衆プロファイル
@@ -45,8 +44,8 @@ outlineSection: |-
   - Azure ワークロードとサブスクリプション用に Azure Active Directory を構成する
   - Azure AD Privileged Identity Management を構成する
   - Azure サブスクリプションのセキュリティを構成する
-  
-  
+
+
   ### モジュール 2&#58; プラットフォーム保護
   #### レッスン
   - クラウド セキュリティを理解する
@@ -75,3 +74,4 @@ outlineSection: |-
   - アプリケーション ライフサイクルのためのセキュリティを実装する
   - 安全なアプリケーション
   - Azure Key Vault を設定および管理する
+
