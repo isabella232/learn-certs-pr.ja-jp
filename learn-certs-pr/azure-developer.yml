@@ -2,19 +2,19 @@
 title: 'Microsoft Certified: Azure Developer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Developer Associate'
-  description: Microsoft Azure Developers は、 Cloud ソリューション アーキテクト、 Cloud DBA、 Cloud管理者、およびクライアントと連携したアプリケーションやサービスなどの Cloud ソリューションを設計、構築、テスト、および保守し、これらのソリューションを実装します。
+  description: 'Microsoft Azure Developers は、 Cloud ソリューション アーキテクト、 Cloud DBA、 Cloud管理者、およびクライアントと連携したアプリケーションやサービスなどの Cloud ソリューションを設計、構築、テスト、および保守し、これらのソリューションを実装します。'
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Microsoft Azure Developers は、 Cloud ソリューション アーキテクト、 Cloud DBA、 Cloud管理者、およびクライアントと連携したアプリケーションやサービスなどの Cloud ソリューションを設計、構築、テスト、および保守し、これらのソリューションを実装します。
+summary: |-
+  Microsoft Azure Developers は、 Cloud ソリューション アーキテクト、 Cloud DBA、 Cloud管理者、およびクライアントと連携したアプリケーションやサービスなどの Cloud ソリューションを設計、構築、テスト、および保守し、これらのソリューションを実装します。
 subTitle: Microsoft Azure Developers は、 Cloud ソリューション アーキテクト、 Cloud DBA、 Cloud管理者、およびクライアントと連携したアプリケーションやサービスなどの Cloud ソリューションを設計、構築、テスト、および保守し、これらのソリューションを実装します。
 levels:
 - intermediate
 skills:
-- Azure のサービスとしてのインフラのコンピューティングソリューション開発
-- Azure のサービスとしてのプラットフォームのコンピューティングソリューション開発
+- Azure 計算ソリューションを開発します
 - Azureストレージを開発
 - Azure Security の実装
-- ソリューションの監視、トラブルシューティング、最適化
+- Azureソリューションを監視、トラブルシューティング、最適化します
 - Azure サービスとサードパーティサービスの連携と活用
 roles:
 - developer
@@ -52,23 +52,23 @@ paths:
 - uid: learn.data-ai.intro-to-ml-with-python
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUJ
 exams:
-- uid: exam.az-203
+- uid: exam.az-204
 resources:
-- title: 認定資格の学習経路
-  description: 'Microsoft 認定資格のトレーニングリソースを探す: Azure Developer Associate'
+- title: 認定の学習経路
+  description: 'Microsoft Certified: Azure Developer Associate になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
-  description: 基礎、ロールベースおよび専門認定資格の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oMr2
-- title: 試験リプレイ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
-- title: 認定資格ダッシュボード
-  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+- title: 認定ダッシュボード
+  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
   href: https://www.microsoft.com/learning/dashboard.aspx

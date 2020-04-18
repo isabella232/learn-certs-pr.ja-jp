@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft 365 Identity and Access の管理
+title: Managing Microsoft 365 Identity and Access
 metadata:
-  title: 'コース MS-500T01-A: Microsoft 365 Identity and Access の管理'
-  description: 'コース MS-500T01-A: Microsoft 365 Identity and Access の管理'
+  title: 'Course MS-500T01-A: Managing Microsoft 365 Identity and Access'
+  description: 'Course MS-500T01-A: Managing Microsoft 365 Identity and Access'
 uid: course.ms-500t01
 courseNumber: 'MS-500T01-A'
 hoursToComplete: 24
@@ -29,61 +29,62 @@ products:
 exams:
 - uid: exam.ms-500
 summary: |-
-  ID 管理とアクセス管理により、資格情報の侵害から保護します。このコースでは、組織のリソースへのユーザー アクセスを保護する方法について学習します。具体的には、ユーザー パスワード保護、多要素認証、 Azure Identity Protection の有効化方法、 Active Directory フェデレーション サービスの構成方法、 Azure AD Connect のセットアップと使用方法について説明し、条件付きアクセスについて紹介します。また、 Microsoft 365 システムへの外部アクセスを管理するためのソリューションについても学習します。
+  ID 管理とアクセス管理により、資格情報の侵害から保護します。このコースでは、組織のリソースへのユーザーアクセスを保護する方法について学習します。具体的には、ユーザーパスワード保護、多要素認証、  Azure Identity Protection の有効化方法、 Active Directory フェデレーションサービスの構成方法、 Azure AD Connect のセットアップと使用方法について説明し、条件付きアクセスについて紹介します。また、 Microsoft 365 システムへの外部アクセスを管理するためのソリューションについても学習します。
   
-  #### 聴衆プロファイル
-  このコースは、Microsoft 365 セキュリティ管理者ロール向けのものです。このロールは、Microsoft 365 Enterprise Administrator、ビジネス関係者およびその他のワークロード管理者と協力してセキュリティ戦略を計画および実装して、ソリューションが組織のポリシーおよび規制に準拠していることを確認します。
+  #### Audience profile
+  このコースは、Microsoft 365 セキュリティ管理者ロール向けのものです。このロールは、Microsoft 365 Enterprise Administrator、ビジネス関係者およびその他のワークロード管理者と協力してセキュリティ戦略を計画および実装して、ソリューションが組織のポリシーおよび規制に準拠していることを確認します。 
 
-  このロールは、 Microsoft 365 エンタープライズ環境をプロアクティブに保護します。責任には、脅威への対応、および Microsoft 365 環境のセキュリティおよびコンプライアンス ソリューションの実装、管理および監視が含まれます。これらは、インシデント、調査、データ ガバナンスの実施に対応します。
+  このロールは、 Microsoft 365 エンタープライズ環境をプロアクティブに保護します。責任には、脅威への対応、および Microsoft 365 環境のセキュリティおよびコンプライアンスソリューションの実装、管理および監視が含まれます。これらは、インシデント、調査、データガバナンスの実施に対応します。 
 
-  Microsoft 365 Security 管理者は、 Microsoft 365 ワークロードに精通しており、 ID 保護、情報保護、脅威からの保護、セキュリティ管理およびデータ ガバナンスについての強力なスキルと経験を持っています。このロールは、 Microsoft 365 環境に焦点を当て、ハイブリッド環境を包摂します。
+  Microsoft 365 Security 管理者は、 Microsoft 365 ワークロードに精通しており、 ID 保護、情報保護、脅威からの保護、セキュリティ管理およびデータガバナンスについての強力なスキルと経験を持っています。このロールは、 Microsoft 365 環境に焦点を当て、ハイブリッド環境を包摂します。
 prerequisitesSection: |-
-  受講者は、すでに以下のスキルを持つこのコースを開始する必要があります。&#58;
+  受講者は、すでに以下のスキルを持つこのコースを開始する必要があります&#58;
   - Microsoft Azure の基本概念理解。
-  - Windows 10 PowerShell デバイスの経験。
+  - Windows 10 デバイスの経験。
   - Office 365 の経験。
   - 承認と認証についての基本的な理解。
-  - コンピュータ ネットワークについての基本的な理解。
-  - モバイル デバイスの管理に関する実務知識。
+  - コンピュータネットワークについての基本的な理解。
+  - モバイルデバイスの管理に関する実務知識。
 outlineSection: |-
-  ### モジュール 1&#58; ユーザーおよびグループのセキュリティ
+  ### Module 1&#58; ユーザーおよびグループのセキュリティ
   このモジュールでは、 Microsoft 365 でユーザーアカウントとグループを管理する方法について説明します。Azure AD の Privileged Identity Management および Identity Protection を 紹介します。このモジュールは、コースの残りの部分の基礎となります。
-  #### レッスン
-  - Microsoft 365 におけるユーザー アカウント
-  - Microsoft 365 における管理者ロールおよびセキュリティ グループ
+  #### Lessons
+  - Microsoft 365 におけるユーザーアカウント
+  - Microsoft 365 における管理者ロールおよびセキュリティグループ
   - Microsoft 365 におけるパスワード管理
   - Azure AD Identity Protection
 
-  #### ラボ &#58; Microsoft 365 ID 環境の管理
-  - ラボ環境の設定
+
+  #### Lab &#58; Microsoft 365 ID 環境の管理
+  -  ラボ環境の設定
   - Microsoft 365 管理センターを利用した Microsoft 365 ID 環境の管理
   - サービス管理者を割り当てる
 
-  このモジュールを終了すると、受講者は以下のことができるようになります。&#58;
+  -このモジュールを終了すると、受講者は以下のことができるようになります：
   - Microsoft 365 のユーザー ID について説明する
-  - Microsoft 365 管理センターと Windows PowerShell の両方からユーザー アカウントを作成する
+  - Microsoft 365 管理センターと Windows PowerShell の両方からユーザーアカウントを作成する
   - Microsoft 365 管理者ロールについて説明して使用する
   - Microsoft 365 で利用可能なさまざまな種類のグループについて説明する
-  - パスワード ポリシーと認証を計画する
+  - パスワードポリシーと認証を計画する
   - Office 365 に多要素認証を実装する
   - Azure Identity Protection について、およびどんな種類の ID が保護されるかについて説明する
   - Azure Identity Protection を有効にする方法を説明する
-  - 脆弱性とリスク イベントを特定する
+  - 脆弱性とリスクイベントを特定する
 
 
-  ### モジュール 2&#58; ID 同期
-  このモジュールでは、 ID の同期に関連する概念について説明します。特に、 Azure AD Connect およびディレクトリ同期化管理に焦点を当て、適切なユーザーが Microsoft 365 システムに接続できるようにします。
-  #### レッスン
+  ### Module 2&#58; ID 同期
+  このモジュールでは、 ID の同期に関連する概念について説明します。  特に、 Azure AD Connect およびディレクトリ同期化管理に焦点を当て、適切なユーザーが Microsoft 365 システムに接続できるようにします。
+  #### Lessons
   - Identity Synchronization の概要
   - Azure AD Connect の計画
   - Azure AD Connect の実装
-  - 同期済み ID の管理
+  - 同期済みID の管理
 
 
-  #### ラボ &#58; Identity Synchronization の実装
+  #### Lab &#58; Identity Synchronization の実装
   - ID同期化用に組織を設定する
 
-  このモジュールを終了すると、受講者は以下のことができるようになります。&#58;
+  このモジュールを終了すると、受講者は以下のことができるようになります&#58;
   - Microsoft 365 認証オプションについて説明する
   - ディレクトリ同期について説明する
   - ディレクトリ同期を計画する
@@ -95,36 +96,37 @@ outlineSection: |-
   - Azure AD Connect Sync Security Groups を使用する
 
 
-  ### モジュール 3&#58; ID の個人化
+  ### Module 3&#58; ID の個人化
   このモジュールでは、 Active Directory Federation Services (ADFS) について説明します。具体的には、 AD FS を計画および管理して、他のディレクトリからユーザーに提供したいと思うアクセスのレベルを達成する方法について学習します。
-  #### レッスン
+  #### Lessons
   - Federated Identities の概要
   - AD FS 展開の計画
   - AD FS の実装
 
-  このモジュールを終了すると、受講者は以下のことができるようになります。&#58;
+  このモジュールを終了すると、受講者は以下のことができるようになります&#58;
   - 要求ベースの認証とフェデレーション信頼について説明する
   - AD FS の仕組みを説明する
-  - ベスト プラクティス、高可用性、および容量計画を含む AD FS 環境を計画する
+  - ベストプラクティス、高可用性、および容量計画を含む AD FS 環境を計画する
   - Microsoft Azure で Active Directory Federation Services を計画する
-  - AD FS 用の Web アプリケーション プロキシをインストールして構成する
+  - AD FS 用の Web アプリケーションプロキシをインストールして構成する
   - Azure AD Connect を使用して AD FS を構成する
 
 
-  ### モジュール 4&#58; アクセス管理
+  ### Module 4&#58; アクセス管理
   このモジュールでは、 Microsoft 365 向けの Conditional Access について、および組織内のリソースへのアクセス管理にそれを使用できる方法について説明します。このモジュールでは、Role Based Access Control (RBAC) および外部アクセスのソリューションについても説明します。
-  #### レッスン
+  #### Lessons
   - 条件付きアクセス
   - デバイスのアクセスの管理
-  - ロールベースのアクセスか管理 (RBAC)
-  - External Access のソリューション
+  - ロールベースのアクセスか管理（RBAC）
+  - External Accessのソリューション
 
-  このモジュールを終了すると、受講者は以下のことができるようになります。&#58;
+  このモジュールを終了すると、受講者は以下のことができるようになります&#58;
   - 条件付きアクセスの概念について説明する
-  - 条件付きアクセス ポリシーについて説明する
-  - デバイス コンプライアンスを計画する
+  - 条件付きアクセスポリシーについて説明する
+  - デバイスコンプライアンスを計画する
   - 条件付きユーザーとグループを構成する
   - RBAC を設定する
   - Azure RBAC と Azure AD の管理ロールを区別する
   - 外部アクセスを管理する
-  - Azure AD B2B Collaboration のライセンス ガイダンスについて説明する
+  - Azure AD B2B Collaboration のライセンスガイダンスについて説明する
+

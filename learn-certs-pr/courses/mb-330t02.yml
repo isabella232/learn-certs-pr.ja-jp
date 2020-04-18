@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Dynamics 365 for Finance and Operations における品質管理、企業間取引、マスター計画の使用
+title: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations
 metadata:
-  title: 'コース MB-330T02-A: Dynamics 365 for Finance and Operations における品質管理、企業間取引、マスター計画の使用'
-  description: 'コース MB-330T02-A: Dynamics 365 for Finance and Operations における品質管理、企業間取引、マスター計画の使用'
+  title: 'Course MB-330T02-A: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-330T02-A: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations'
 uid: course.mb-330t02
 courseNumber: 'MB-330T02-A'
 hoursToComplete: 24
@@ -20,33 +20,34 @@ products:
 exams:
 - uid: exam.mb-330
 summary: |-
-  Dynamics 365 for Finance and Operations を使用する組織は、ビジネス ロジスティクスの最新化、タイムリーな顧客対応、予測的なインサイトの獲得、調達の合理化、販売からフルフィルメントまでのプロセスの統合を行うことで、サプライ チェーンの自動化と合理化を実現しています。このコースでは、Dynamics 365 for Finance and Operations において品質管理、企業間取引、およびマスター計画を使用する方法について説明します。
-  
-  #### 聴衆プロファイル
-  Dynamics 365 for Finance and Operations Functional Consultant は、発見の実行、要件の把握、主題の専門家および関係者の雇用、要件の変換、ソリューションとアプリケーションの設定を担当します。機能コンサルタントは、革新的な機能、コードレス拡張機能、アプリケーション、およびサービス インテグレーションを使用してソリューションを実行します。
+  Dynamics 365 for Finance and Operations を使用する組織は、ビジネスロジスティクスの最新化、タイムリーな顧客対応、予測的なインサイトの獲得、調達の合理化、販売からフルフィルメントまでのプロセスの統合を行うことで、サプライチェーンの自動化と合理化を実現しています。このコースでは、Dynamics 365 for Finance and Operations において品質管理、企業間取引、およびマスター計画を使用する方法について説明します。
+
+  #### Audience profile
+  Dynamics 365 for Finance and Operations Functional Consultant は、発見の実行、要件の把握、主題の専門家および関係者の雇用、要件の変換、ソリューションとアプリケーションの構成を担当します。機能コンサルタントは、革新的な機能、コードレス拡張機能、アプリケーション、およびサービスインテグレーションを使用してソリューションを実行します。
 prerequisitesSection: |-
   ERP と CRM の概念に関する基本的な理解。
 outlineSection: |-
-  ### モジュール 1&#58; 品質管理と管理プロセスの構成および使用
+  ### Module 1&#58; 品質管理と管理プロセスの構成および使用
   このモジュールでは、Finance and Operations における品質管理の構成と使用の方法、品質管理機能の使用方法、不適合の定義と保守の方法、および修正の処理方法について説明します。しかし、まず品質管理プロセス全体をよく理解できるようにしましょう。
-  #### レッスン
-  - はじめに
+  #### Lessons
+  - 概要
   - 品質管理および管理プロセスを実行する
   - 在庫ブロックを適用する
   - 検疫管理を実行する
   - 実習ラボ
   - モジュールのサマリー
 
-  このモジュールにおいて受講者は以下のことについて学びました。&#58;
+
+  このモジュールにおいて受講者は以下のことについて学びました：
   - 品質品質管理および管理プロセスを実行する
   - 在庫ブロックを適用する
   - 検疫管理を実行する
 
 
-  ### モジュール 2&#58; 企業間取引関係の構成および使用
+  ### Module 2&#58; 企業間取引関係の構成および使用
   Dynamics 365 for Finance and Operations の 企業間機能は、複数の企業の静的データと動的データを 1 つのデータベース内に別々の法人として統合するメカニズムを提供します。企業間取引は、世界中に分散した製造拠点、流通センター、販売子会社を 1 つの統合組織として機能させることができます。このトピックでは、 Finance and Operations において企業間取引を構成して使用する方法、および企業間の注文を処理する方法について説明します。
-  #### レッスン
-  - はじめに
+  #### Lessons
+  - 概要
   - 企業間取引を理解する
   - 企業間取引関係を設定する
   - 企業間チェーンオーダーを処理する
@@ -55,7 +56,7 @@ outlineSection: |-
   - モジュールのサマリー
 
 
-  このモジュールにおいて受講者は以下のことについての方法を学びました&#58;
+  このモジュールにおいて、受講者は以下のことについての方法を学びました：
   - 企業間取引関係の製品を構成する
   - 企業間取引関係を構成する
   - 企業間契約を構成する
@@ -65,10 +66,10 @@ outlineSection: |-
   - 企業間の返品注文チェーンを理解する
 
 
-  ### モジュール 3&#58; マスター計画の構成および使用
+  ### Module 3&#58; マスター計画の構成および使用
   このトピックでは、 Finance and Operations においてマスター計画を構成して使用する方法について説明します。
-  #### レッスン
-  - はじめに
+  #### Lessons
+  - 概要
   - マスター計画の考慮事項と設定
   - マスター計画を作成する
   - 需要と供給の予測について学ぶ
@@ -79,7 +80,7 @@ outlineSection: |-
   - モジュールのサマリー
 
 
-  このモジュールにおいて受講者は以下のことについての方法を学びました&#58;
+  このモジュールにおいて、受講者は以下のことについての方法を学びました：
   - マスター計画ポリシーを定義する
   - 需要と供給の予測について学ぶ
   - 計算された遅延を構成する
@@ -88,12 +89,13 @@ outlineSection: |-
   - 計画および確固たる計画注文を実行する
 
 
-  ### モジュール 4&#58; コースの結論
+  ### Module 4&#58; コースの結論
   コースの最終評価とコース概要、およびコース後のアンケート。
-  #### レッスン
+  #### Lessons
   - 最終評価
   - コースのサマリー
   - コース終了後のアンケート
 
 
   受講者はコースを終了します。
+

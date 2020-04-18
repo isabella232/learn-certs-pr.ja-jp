@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Office 365 管理
+title: Office 365 Management
 metadata:
-  title: 'コース MS-100T01-A: Office 365 管理'
-  description: 'コース MS-100T01-A: Office 365 管理'
+  title: 'Course MS-100T01-A: Office 365 Management'
+  description: 'Course MS-100T01-A: Office 365 Management'
 uid: course.ms-100t01
 courseNumber: 'MS-100T01-A'
 hoursToComplete: 48
@@ -11,7 +11,7 @@ skillsGained:
 - skill: Office 365 概要
 - skill: 組織を Office 365 に移行する
 - skill: Office 365の構成
-- skill: Office 365 ProPlus 展開の管理
+- skill: Office 365ProPlus 展開の管理
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -27,48 +27,50 @@ exams:
 - uid: exam.ms-100
 summary: |-
   Office 365 の主要コンポーネントを含む Office 365 Management、組織を Office 365 に移行する方法、 Office 365 の構成方法、 Office 365 ProPlus 展開の管理方法について説明します。
-  
-  #### 聴衆プロファイル
+
+  #### Audience profile
   このコースは、 Microsoft 365 Enterprise Admin role を希望し、 Microsoft 365 role-based の管理者認定パスの 1 つを終了したユーザーを対象としています。
 prerequisitesSection: |-
-  - Messaging、Teamwork、Security and Compliance、または Collaboration などのロールベース管理者コースを修了。
+  - Messaging、Teamwork、Security and Compliance、またはCollaboration などのロールベース管理者コースを修了。
   - DNS に関する十分な理解、および Microsoft 365 サービスの基本的機能の経験。
   - 一般的な IT プラクティスに対する十分な理解。
 outlineSection: |-
   ### モジュール 1&#58; 組織を Office 365 に移行します
-  #### レッスン
+  #### Lessons
   - Exchange Online
   - SharePoint Online
   - Teams
   - Additional Resources
 
-  ### モジュール 2&#58; Microsoft 365 テナントの構成
-  #### レッスン
+
+  ### Module 2&#58; Microsoft 365 テナントの構成
+  #### Lessons
   - Office 365 でネットワークの計画
-  - サービス セットアップの計画
+  - サービスセットアップを計画
   - ハイブリッド環境の計画
   - Office 365 への移行の計画
 
 
-  ### モジュール 3&#58;  Office 365 の構成
-  #### レッスン
+  ### Module 3&#58;  Office 365 の構成
+  #### Lessons
   - Office 365 Client 概要
   - Office Client Connectivity to Office 365 の構成
 
 
-  ### モジュール 4&#58; Office 365 ProPlus Deployments の管理
-  #### レッスン
+  ### Module 4&#58; Office 365 ProPlus Deployments の管理
+  #### Lessons
   - User-Driven Client Installations の管理
   - Centralized Office 365 ProPlus Deployments の管理
   - Office Telemetry の構成
   - Microsoft Analytics の構成
 
 
-  ### モジュール 5&#58; ハンズオン ラボ
+  ### Module 5&#58; ハンズオン ラボ
 
-  #### ラボ &#58; Office 365 の管理
-  - 演習 1&#58; Microsoft 365 トライアル テナントをセットアップする
-  - 演習 2&#58; Office 365 ProPlus 管理インストールを準備する
-  - 演習 3&#58; Manage ユーザー主導型Office 365 ProPlusインストールを管理する
-  - 演習 4&#58; 集中型Office 365 ProPlus インストールを管理する
-  - 演習 5&#58; Office Telemetry コンポーネントを展開および構成する
+  #### Lab &#58; Office 365 の管理
+  - Exercise 1&#58; Microsoft 365 トライアルテナントをセットアップする
+  - Exercise 2&#58; Office 365 ProPlus 管理インストールを準備する
+  - Exercise 3&#58; Manage ユーザー主導型Office 365 ProPlusインストールを管理する
+  - Exercise 4&#58; 集中型Office 365 ProPlus インストールを管理する
+  - Exercise 5&#58; Office Telemetry コンポーネントを展開および構成する
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Dynamics 365 for Finance and Operations におけるプロセス製造の構成と使用
+title: Configure and use process manufacturing in Dynamics 365 for Finance and Operations
 metadata:
-  title: 'コース MB-320T03-A: Dynamics 365 for Finance and Operations におけるプロセス製造の構成と使用'
-  description: 'コース MB-320T03-A: Dynamics 365 for Finance and Operations におけるプロセス製造の構成と使用'
+  title: 'Course MB-320T03-A: Configure and use process manufacturing in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-320T03-A: Configure and use process manufacturing in Dynamics 365 for Finance and Operations'
 uid: course.mb-320t03
 courseNumber: 'MB-320T03-A'
 hoursToComplete: 24
@@ -25,10 +25,10 @@ summary: |-
 prerequisitesSection: |-
   ERP と CRM の概念に関する基本的な理解。
 outlineSection: |-
-  ### モジュール 1&#58; プロセス製造の開始
+  ### Module 1&#58; プロセス製造の開始
   このトピックでは、 Finance and Operations におけるプロセス製造から始める方法を説明しています。
-  #### レッスン
-  - はじめに
+  #### Lessons
+  - 概要
   - プロセス製造を理解する
   - 数式管理を理解する
   - 連産品および副産物を理解する
@@ -36,18 +36,19 @@ outlineSection: |-
   - 実習ラボ
   - モジュールのサマリー
 
-  このモジュールでは、受講者は以下を学習しました。&#58;
+
+  このモジュールでは、受講者は以下を学習しました：
   - プロセス製造を理解する
   - 数式管理を理解する
   - 連産品および副産物を理解する
   - 承認されたベンダーを理解する
 
 
-  ### モジュール 2&#58; プロセス製造のバッチ属性の特定および構成
+  ### Module 2&#58; プロセス製造のバッチ属性の特定および構成
   このトピックでは、Finance and Operations においてバッチ属性を構成する方法について説明します。
 
-  #### レッスン
-  - はじめに
+  #### Lessons
+  - 概要
   - バッチ属性を特定して構成する
   - CW 品目を作成および構成する
   - 能力管理を設定する
@@ -55,34 +56,35 @@ outlineSection: |-
   - モジュールのサマリー
 
 
-  このモジュールにおいて受講者は以下のことについて学びました。&#58;
+  このモジュールにおいて受講者は以下のことについて学びました：
   - バッチ属性について理解する
   - バッチ属性を特定して構成する
   - ロット管理プロセスとバッチ管理プロセスを理解する
-  - バッチ リワークを構成する
+  - バッチリワークを構成する
 
 
-  ### モジュール 3&#58; 商品価格設定および製品コンプライアンスの構成
+  ### Module 3&#58; 商品価格設定および製品コンプライアンスの構成
   このトピックでは、 Finance and Operations における商品価格設定およびコンプライアンスの使用方法を説明しています。
-  #### レッスン
-  - はじめに
+  #### Lessons
+  - 概要
   - 商品価格設定を構成する
   - 製品カタログを構成する
   - 実習ラボ
   - モジュールのサマリー
 
 
-  このモジュールにおいて受講者は以下のことについて学びました。&#58;
+  このモジュールにおいて受講者は以下のことについて学びました：
   - 商品価格設定を構成する
   - 製品カタログを構成する
 
 
-  ### モジュール 4&#58; コースの結論
+  ### Module 4&#58; Course Conclusion
   コースの最終評価とコース概要、およびコース後のアンケート。
-  #### レッスン
+  #### Lessons
   - 最終評価
   - コースのサマリー
   - コース終了後のアンケート
 
 
   受講者はコースを終了します。
+

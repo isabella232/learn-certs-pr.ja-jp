@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 継続的インテグレーションの実装
+title: Implementing Continuous Integration
 metadata:
-  title: 'コース AZ-400T02-A: 継続的インテグレーションの実装'
-  description: 'コース AZ-400T02-A: 継続的インテグレーションの実装'
+  title: 'Course AZ-400T02-A: Implementing Continuous Integration'
+  description: 'Course AZ-400T02-A: Implementing Continuous Integration'
 uid: course.az-400t02
 courseNumber: 'AZ-400T02-A'
 hoursToComplete: 24
@@ -38,7 +38,7 @@ exams:
 - uid: exam.az-400
 summary: |-
   このコースでは、継続的な統合の DevOps プラクティスを実装するための知識とスキルを提供します。学生は、Azure DevOps パイプラインで継続的統合を実装する方法、コード品質とセキュリティ原則を管理する方法、およびコンテナ構築戦略を実装する方法を学習します。
-  
+
   #### 聴衆プロファイル
   このコースの学生は、DevOps の継続的な統合プロセス、または Microsoft Azure DevOps Solutions 認定資格試験に合格することに関心があります。
 prerequisitesSection: |-
@@ -51,9 +51,10 @@ outlineSection: |-
   - 継続的インテグレーションの概要
   - ビルド戦略の実装
   
+  
   #### ラボ &#58; Azure Pipeline との継続的な統合の有効化
 
-  #### ラボ &#58; Jenkins Build Job の作成と CI のトリガー
+  #### ラボ &#58; Jenkins Build Job の作成と CI のトリガー 
   学生はこのモジュールの完了後、次のことが理解できるようになります&#58;
   - 継続的統合が重要である理由について説明できる
   - Azure DevOps を使用して継続的な統合を実装する
@@ -85,3 +86,4 @@ outlineSection: |-
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - コンテナが仮想マシンとどのように異なるか、マイクロ サービスがどのようにコンテナを使用するかなど、コンテナ戦略を実装する。
   - Docker を使用してコンテナを実装する。
+

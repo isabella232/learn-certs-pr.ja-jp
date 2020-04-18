@@ -1,31 +1,31 @@
 ### YamlMime:Examination
 title: Designing and Implementing a Data Science Solution on Azure
 metadata:
-  title: '試験 DP-100: Designing and Implementing a Data Science Solution on Azure'
-  description: '試験 DP-100: Designing and Implementing a Data Science Solution on Azure'
+  title: 'Exam DP-100: Designing and Implementing a Data Science Solution on Azure'
+  description: 'Exam DP-100: Designing and Implementing a Data Science Solution on Azure'
 uid: exam.dp-100
 displayName: DP-100
-summary: >-
-  この試験の受験者は、アクションを取ることができる予想とコミュニケーションの結果を関係者に、科学的に厳密でデータ診断テクニックにアプライすることが期待されます。ビジネスの目的を満足させるためのAIソリューションを構成するモデルのトレーニング、評価、デプロイする機械学習テクニックを使います。受験者は、自然言語の処理、会話、コンピュータービジョン、予測的分析をするアプリケーションを使用します。
-
-
-  受験者は、ソリューションで考慮される倫理、プライバシー、ガバナンスに関連する、複合懲戒チームの一部として働きます。受験者は、主に数学、統計学、コンピューターサイエンスのバックグラウンドを持ちます。
-subTitle: この試験では、開発環境の定義および準備、モデリング用のデータの準備、機能エンジニアリングの実行、モデルの開発という技術的なタスクを遂行する能力を測定します。
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>フェーズ1&#58;- 本試験の内容は、2020年5月22日に更新されます。以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
+  
+  Azure データ科学者は、データサイエンスと機械学習に関する知識を活用して、 Azure に機械学習ワークロードを実装して実行します。特に、 Azure Machine Learning Service を使用します。これには、 Azure 上のデータサイエンスワークロードに適した作業環境の計画と作成、データ実験の実行と予測モデルのトレーニング、モデルの管理と最適化、機械学習モデルの生産への展開が含まれます。
+subTitle: '本試験では、以下の技術的タスクを遂行できる能力を査定します。 Azure Machine Learning ワークスペースのセットアップ、テストの実施とモデルのトレーニング、モデルの最適化と管理、モデルの展開と利用。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 levels:
 - intermediate
 skills:
-- 開発環境の定義と準備 (15-20%)
-- モデリングのデータの準備 (25-30%)
-- 機能エンジニアリングの実行 (15-20%)
-- モデルの開発 (40-45%)
+- 本試験の内容は、2020年5月22日に更新されます。以下のスキル査定ドキュメントをダウンロードして、これからの変更点をご確認ください。
+- Azure Machine Learning ワークスペースの設定(30～35%) 
+- 実験を実行し、モデルを訓練します(25〜30%) 
+- モデルを最適化して管理します (20-25%) 
+- 配信可能性を展開して維持します(20-25%)
 roles:
 - data-scientist
 products:
@@ -34,34 +34,29 @@ products:
 courses:
 - uid: course.dp-100t01
 paths:
-- uid: learn.data-ai.explore-data-science-tools-in-azure
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
-- uid: learn.data-ai.get-started-with-azure-dsvm
-- uid: learn.modern-data-warehouse
-- uid: learn.data-science
-- uid: learn.data-ai.intro-to-ml-with-python
 relatedCertifications:
 - related:
     uid: certification.azure-data-scientist
 resources:
-- title: 認定資格の学習経路
-  description: 'Microsoft 認定資格のトレーニング リソースを探す: Azure Data Scientist Associate。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 試験リプレイ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 宿泊をリクエストする
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md

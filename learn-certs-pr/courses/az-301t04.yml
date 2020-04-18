@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Designing an Infrastructure Strategy
 metadata:
-  title: 'コース AZ-301T04-A: インフラストラクチャ戦略の設計'
-  description: 'コース AZ-301T04-A: インフラストラクチャ戦略の設計'
+  title: 'Course AZ-301T04-A: Designing an Infrastructure Strategy'
+  description: 'Course AZ-301T04-A: Designing an Infrastructure Strategy'
 uid: course.az-301t04
 courseNumber: 'AZ-301T04-A'
 hoursToComplete: 24
@@ -47,17 +47,18 @@ exams:
 - uid: exam.az-301
 summary: |-
   Azure の VNET の DNS および IP 戦略について説明し、アドホックおよびハイブリッド接続の接続オプションを比較し、ロード バランサーを使用して複数の負荷にネットワーク トラフィックを分散し、クラウドとオンプレミス間のハイブリッド接続シナリオを設計する方法について学びます。
-  
+
   #### 聴衆プロファイル
   成功するクラウド ソリューション アーキテクトは、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、課金、およびネットワーキングの実践的な経験からこのロールを開始します。
 outlineSection: |-
   ### モジュール 1&#58; Azure のアプリケーション アーキテクチャ パターン
   このモジュールでは、Microsoft Patterns＆Practices チームが規定した一般的な Azure パターンとアーキテクチャを紹介し、レビューします。各パターンは、パフォーマンス、復元力、およびスケーラビリティのカテゴリにグループ化され、カテゴリ内の同様のパターンのコンテキストで説明されます。
-  
+
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Cloud Design Patterns のドキュメントを見つけて参照する。
   - Azure Architecture Center を見つけて参照する。
   - Cloud Design Patterns から取得したさまざまなパターンについて説明します。
+
 
   ### モジュール 2&#58; Azure IaaS ベースのサーバー アプリケーション (ADSK) の構築
   このモジュールは、AzureのInfrastructure-as-a-Service サービスを使用して理想的に展開されるワークロードを識別します。このモジュールは、Azure の Virtual Machine (VM) Scale Sets と VM サービス、および可用性セットなどのベスト プラクティスと機能を使用してこれらのサービスにワークロードを最適に展開する方法に焦点を当てています。
@@ -86,6 +87,7 @@ outlineSection: |-
 
   #### ラボ &#58; メッセージング サービスを使用した Azure ソリューション コンポーネントの統合
   学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - Storage Queues と Service Bus Queues を比較する。
-  - ソリューションの統合コンポーネントに Azure Functions または Logic Apps をいつ使用するかを特定する。
-  - IoT Hub、Event Hub、および Time Series Insights の違いを説明する。
+  -  Storage Queues と Service Bus Queues を比較する。
+  -  ソリューションの統合コンポーネントに Azure Functions または Logic Apps をいつ使用するかを特定する。
+  -  IoT Hub、Event Hub、および Time Series Insights の違いを説明する。
+

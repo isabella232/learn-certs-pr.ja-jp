@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Microsoft 365 Device Management
 metadata:
-  title: 'コース MS-101T03-A: Microsoft 365 デバイス管理'
-  description: 'コース MS-101T03-A: Microsoft 365 デバイス管理'
+  title: 'Course MS-101T03-A: Microsoft 365 Device Management'
+  description: 'Course MS-101T03-A: Microsoft 365 Device Management'
 uid: course.ms-101t03
 courseNumber: 'MS-101T03-A'
 hoursToComplete: 24
@@ -15,12 +15,12 @@ skillsGained:
 - skill: Mobile Application Management を計画する
 - skill: Windows 10 の展開戦略を計画する
 - skill: Windows 10 サブスクリプションの有効化戦略を計画する
-- skill: Windows 10 のアップグレード エラーを解決する
+- skill: Windows 10 のアップグレードエラーを解決する
 - skill: Windows 10 分析を実装する
 - skill: Mobile Device Management を展開する
 - skill: Mobile Device Management 搭載のデバイスを管理する
 - skill: デバイスを Mobile Device Management に登録する
-- skill: デバイス コンプライアンスを管理する
+- skill: デバイスコンプライアンスを管理する
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -36,48 +36,50 @@ exams:
 - uid: exam.ms-101
 summary: |-
   このコースでは、 Microsoft Intune の確立から、デバイスの Intune への登録、デバイスの監視、条件付きアクセスポリシーを使用した登録デバイスからユーザーが実行できる操作の制御まで、 Microsoft 365 デバイス管理の世界について紹介します。Configuration Manager などの従来のデバイス管理ツールを使用してすでにデバイスを管理している場合は、 Intune でデバイスを管理する最新の管理にシームレスに移行する方法を理解することが重要です。 また、コンプライアンス、条件付きアクセス、 Windows Autopilot などの新しいデバイス管理機能を活用して、クラウドから新しいデバイスを展開する方法についても説明します。
-  
-  #### 聴衆プロファイル
-  このコースは、 Microsoft 365 Enterprise Admin role を希望し、 Microsoft 365 role-based の管理者認定パスの 1 つを終了したユーザーを対象としています。
+
+  #### Audience profile
+  このコースは、 Microsoft 365 Enterprise Admin ロールを希望し、 Microsoft 365 ロールベースの管理者認定パスの 1 つを終了したユーザーを対象としています。
 prerequisitesSection: |-
-  - Messaging、Teamwork、Security and Compliance、または Collaboration などのロールベース管理者コースを修了。
+  - Messaging、Teamwork、Security and Compliance、またはCollaboration などのロールベース管理者コースを修了。
   - DNS に関する十分な理解、および Microsoft 365 サービスの基本的機能の経験。
   - 一般的な IT プラクティスに対する十分な理解。
 outlineSection: |-
-  ### モジュール 1&#58; デバイス管理の計画
-  #### レッスン
+  ### Module 1&#58; デバイス管理の計画
+  #### Lessons
   - 共同管理の概要
   - 共同管理用の Windows 10 デバイスの準備
   - Configuration Manager から Intune への移行
   - Microsoft Store for Business の概要
   - Mobile Application Management の計画
 
-  ### モジュール 2&#58; Windows 10 展開戦略の計画
-  #### レッスン
+
+  ### Module 2&#58; Windows 10 展開戦略の計画
+  #### Lessons
   - Windows 10 展開シナリオ
   - Windows 10 サブスクリプション有効化戦略の計画
-  - Windows 10 アップグレード エラーの解決
+  - Windows 10 アップグレードエラーの解決
   - Windows Analytics の概要
 
 
-  ### モジュール 3&#58; Mobile Device Management の実装
-  #### レッスン
+  ### Module 3&#58; Mobile Device Management の実装
+  #### Lessons
   - Mobile Device Management の計画
   - Mobile Device Management の展開
   - MDM へのデバイス登録
   - Device Compliance の管理
 
 
-  ### モジュール 4&#58; ハンズオン ラボ
+  ### Module 4&#58; ハンズオン ラボ
 
-  #### ラボ &#58; Microsoft Store for Business で作業
-  - 演習 1&#58; Microsoft Store for Business のプロビジョニングと管理
-  - 演習 2&#58; Microsoft Store for Business の使用
+  ### Lab &#58; Microsoft Store for Business で作業
+  - Exercise 1&#58; Microsoft Store for Business のプロビジョニングと管理
+  - Exercise 2&#58; Microsoft Store for Business の使用
 
 
-  #### ラボ &#58; Intune を使用したデバイスの管理
-  - 演習 1&#58; Intune を取得してデバイス管理を可能にする
-  - 演習 2&#58; Azure AD for Intune を構成する
-  - 演習 3&#58; Intune ポリシーを作成する
-  - 演習 4&#58; Windows 10 デバイスを登録
-  - 演習 5&#58; Intune のデバイスを管理および監視する
+  #### Lab &#58; Intune を使用したデバイスの管理
+  - Exercise 1&#58; Intune を取得してデバイス管理を可能にする
+  - Exercise 2&#58; Azure AD for Intune を構成する
+  - Exercise 3&#58; Intune ポリシーを作成する
+  - Exercise 4&#58; Windows 10 デバイスを登録
+  - Exercise 5&#58; Intune のデバイスを管理および監視する
+

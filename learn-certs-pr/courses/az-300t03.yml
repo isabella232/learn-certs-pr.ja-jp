@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Understanding Cloud Architect Technology Solutions
 metadata:
-  title: 'コース AZ-300T03-A: Cloud Architect Technology Solutions を理解する'
-  description: 'コース AZ-300T03-A: Cloud Architect Technology Solutions を理解する'
+  title: 'Course AZ-300T03-A: Understanding Cloud Architect Technology Solutions'
+  description: 'Course AZ-300T03-A: Understanding Cloud Architect Technology Solutions'
 uid: course.az-300t03
 courseNumber: 'AZ-300T03-A'
 hoursToComplete: 24
@@ -12,7 +12,7 @@ skillsGained:
 - skill: ハイブリッド ネットワーキング
 - skill: データとキャッシュの耐久性に対応する
 - skill: スループットとデータ アクセスの構造を測定する
-learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -45,13 +45,13 @@ exams:
 - uid: exam.az-300
 summary: |-
   このコースでは、IT プロフェッショナルが操作を並列および非同期で行う方法を学びます。また、障害が発生した場合にエンタープライズ システム全体がどのように回復力を持たなければならないか、そして同様に重要なこととして、展開をどのように自動化して予測可能にするかです。Azure Application Architecture Guide と Azure リファレンス アーキテクチャを基礎として使用することで、システムの洞察を得るために監視とテレメトリーがどのように重要であるかを理解できます。 
-  
+
   学生は、モジュール式アプリケーションがより大きなアプリケーションに統合できる機能ユニットに分割されるワークロードのパーティション分割など、重要なクラウド設計パターンを極めます。このような場合、各モジュールはアプリケーションの全体的な機能の一部を処理し、関連する一連の懸念事項を表します。 
-  
+
   ロード バランサ―は、アルゴリズムを使用して、アプリケーション トラフィックまたは負荷がさまざまなエンドポイントに分散される場所です。ロード バランサーを使用すると、Web サイトの複数のインスタンスを作成して、予測可能な方法で動作させることができます。Azure では、企業が非常に具体的なロード バランサー構成を必要とする場合、仮想マシンでホストされる仮想ロード バランサーを使用できます。
-  
+
   また、オンプレミスの開発アプリケーションと一時的なエラーを処理するアプリケーションとの主な違いを定義するのに役立つ一時的な障害処理。一時的なエラーは、サービスの一時的な中断または過剰なレイテンシーのために発生するエラーです。 
-  
+
   最後に、このコースには、サイト間接続、ポイントからサイトへの接続、および 2 つの組み合わせの概要を提供するハイブリッド ネットワーキングの説明が含まれています。
 
   #### 聴衆プロファイル
@@ -77,3 +77,4 @@ outlineSection: |-
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - データとキャッシュの耐久性に対応する
   - スループットとデータ アクセスの構造を測定する
+

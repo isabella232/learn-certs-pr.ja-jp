@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Designing for Identity and Security
 metadata:
-  title: 'コース AZ-301T01-A: アイデンティティおよびセキュリティのデザイン'
-  description: 'コース AZ-301T01-A: アイデンティティおよびセキュリティのデザイン'
+  title: 'Course AZ-301T01-A: Designing for Identity and Security'
+  description: 'Course AZ-301T01-A: Designing for Identity and Security'
 uid: course.az-301t01
 courseNumber: 'AZ-301T01-A'
 hoursToComplete: 24
@@ -49,15 +49,14 @@ exams:
 - uid: exam.az-301
 summary: |-
   Azure のコンテキスト内でセキュリティと ID を管理する方法を学びます。また、既存の Azure ソリューションへの統合のために、Azure で利用可能な複数の SaaS (Software as a Service) 機能を紹介します。
-  
+
   #### 聴衆プロファイル
   成功するクラウド ソリューション アーキテクトは、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、課金、およびネットワーキングの実践的な経験からこのロールを開始します。
 outlineSection: |-
   ### モジュール 1&#58; Azure ソリューションのセキュリティと ID の管理
   このモジュールでは、Azure のコンテキスト内でのセキュリティと ID の両方について説明します。セキュリティのために、このモジュールでは、セキュリティを監視するためのさまざまなオプション、データを保護するために使用可能なオプション、およびアプリケーションの機密を保護するためのオプションを確認します。ID については、このモジュールは特に Azure Active Directory (Azure AD) 、Multi-Factor Authentication (MFA)、Managed Service Identity、Azure AD Connect、ADFS、Azure AD B2B/B2C などの利用可能なさまざまな機能に焦点を当てています。
-  
+
   #### ラボ &#58; Azure での秘密保護
-  
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Azure AD B2B または B2C を使用して、既存のソリューションを外部 ID プロバイダーと統合する。
   - ハイブリッド ID ソリューションを設計する。
@@ -65,11 +64,12 @@ outlineSection: |-
   - Key Vault を使用してアプリケーションの秘密を保護する。
   - SQL Database および Azure Storage 機能を使用して、アプリケーション データを保護する。
 
+
   ### モジュール 2&#58; Azure Platform で利用可能な SaaS サービスの統合
   このモジュールでは、既存の Azure ソリューションへの統合に使用できる、Azure で使用可能な複数の SaaS サービスを紹介します。これらのサービスには、Cognitive Services、Bot Service、Machine Learning、および Media Services が含まれます。
 
   #### ラボ &#58; Azure ソリューション全体のコンポーネントとしてのサービス インスタンスの展開
-  
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Cognitive Services で使用可能なさまざまな API について詳述する。
   - Face API、Speech API、または Language Undrstanding (LUIS) サービスをいつ使用するかを特定する。
+

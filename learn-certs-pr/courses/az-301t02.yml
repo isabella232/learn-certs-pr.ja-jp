@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Designing a Data Platform Solution
 metadata:
-  title: 'コース AZ-301T02-A: データプラットフォームソリューションの設計'
-  description: 'コース AZ-301T02-A: データプラットフォームソリューションの設計'
+  title: 'Course AZ-301T02-A: Designing a Data Platform Solution'
+  description: 'Course AZ-301T02-A: Designing a Data Platform Solution'
 uid: course.az-301t02
 courseNumber: 'AZ-301T02-A'
 hoursToComplete: 24
@@ -50,19 +50,20 @@ exams:
 - uid: exam.az-301
 summary: |-
   Azure のさまざまなデータベース オプションを比較および対比し、大規模なデータ取り込みのデータ ストリーミング オプションを特定し、長期のデータ ストレージ オプションを特定する方法を学びます。
-  
+
   #### 聴衆プロファイル
   成功するクラウド ソリューション アーキテクトは、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、課金、およびネットワーキングの実践的な経験からこのロールを開始します。
 outlineSection: |-
   ### モジュール 1&#58; Azure Storage を使用した Azure ソリューションのバックアップ
   このモジュールでは、Azure Storage サービスを Azure の他のアプリケーション ソリューションのバッキング ストアとして使用する Azure サービスの数について説明します。このモジュールは、Azure Storage をすべての Azure ソリューションの補足サービスとして使用する場合の重要な考慮事項になります。
-  
+
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - ソリューションの要件に基づいて、Azure Storage の理想的な価格設定オプションを決定する。
   - Azure Storage サービスのパフォーマンスのしきい値を特定する。
   - 特定のソリューション コンポーネントに使用する Storage Blob のタイプを決定する。
   - SMB オペレーションには Azure Files サービスを使用する。
   - StorSimple の物理デバイスまたは仮想デバイスを使用することでメリットが得られるソリューションを特定する。
+
 
   ### モジュール 2&#58; Azure のデータベース オプションの比較
   このモジュールは、Azure で使用可能なさまざまなリレーショナル データ ストレージ オプションと非リレーショナル データ ストレージ オプションを比較します。オプションは、リレーショナル データベース (Azure SQL Database、MySQL、Postgre on Azure)、非リレーショナル (Azure Cosmos DB および Storage Tables)、ストリーミング (Stream Analytics)、ストレージ (Data Factory、Data Warehouse、 および Data Lake)などグループとして検討されます。
@@ -83,3 +84,4 @@ outlineSection: |-
   - Azure でホストされるソリューションのアラート スキームを設計する。
   - Azure でホストされるインフラストラクチャとデータに適切なバックアップ オプションを選択する。
   - バックアップの回復またはスケーリングのために、将来のリソースの展開を自動化する。
+

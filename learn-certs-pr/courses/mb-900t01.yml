@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Dynamics 365 Fundamentals
+title: Dynamics 365 fundamentals
 metadata:
-  title: 'コース MB-900T01-A: Dynamics 365 Fundamentals'
-  description: 'コース MB-900T01-A: Dynamics 365 Fundamentals'
+  title: 'Course MB-900T01-A: Dynamics 365 fundamentals'
+  description: 'Course MB-900T01-A: Dynamics 365 fundamentals'
 uid: course.mb-900t01
 courseNumber: 'MB-900T01-A'
 hoursToComplete: 24
@@ -10,7 +10,7 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Dynamics 365 の主要機能とモジュールを特定する
 - skill: Cloud の概念を説明する
-- skill: Dynamics 365 のセキュリティ モデルについて説明する
+- skill: Dynamics 365 のセキュリティモデルについて説明する
 - skill: ライセンシングと展開の考慮事項について説明する
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -24,30 +24,31 @@ products:
 exams:
 - uid: exam.mb-900
 summary: |-
-  Dynamics 365 は、顧客エンゲージメント、統合され操作、マーケティング、小売、人材管理のための多面的なツールです。このコースでは、 Dynamics 365 の機能とビジネス価値について学習します。このコースでは、 Dynamics 365 アプリケーション、 Power Platform 、クラウドの概念、セキュリティ モデルおよびライセンスに関する考慮事項について説明します。
+  Dynamics 365 は、顧客エンゲージメント、統合され操作、マーケティング、小売、人材管理のための多面的なツールです。このコースでは、 Dynamics 365 の機能とビジネス価値について学習します。このコースでは、 Dynamics 365 アプリケーション、 Power Platform 、クラウドの概念、セキュリティモデルおよびライセンスに関する考慮事項について説明します。
 prerequisitesSection: |-
   IT 原則の基本的な理解と Dynamics 365 への関心。
 outlineSection: |-
-  ### モジュール 1&#58; Introduction to Business Applications
-  このモジュールでは、Customer Engagement、Unified Operations、Power Platform、および対応するビジネス アプリケーションに焦点を当てて、Business Application のすべてのモジュールと機能が取り入れられています。
-  #### レッスン
+  ### Module 1&#58; Introduction to Business Applications
+  このモジュールでは、Customer Engagement、Unified Operations、Power Platform、および対応するビジネスアプリケーションに焦点を当てて、Business Applicationのすべてのモジュールと機能が取り入れられています。
+  #### Lessons
   - アプリケーションの概要
   - Customer Engagement 用のアプリケーション
-  - Unified Operations 用のアプリケーション
+  -  Unified Operations 用のアプリケーション
   - Power Platform
   - アプリケーションの基本
 
-  ### モジュール 2&#58; Cloud concepts
+
+  ### Module 2&#58; Cloud concepts
   このモジュールでは、高度なクラウドの概念について説明し、 Microsoft のクラウドサービスである Azure を概説し、 Dynamics 365 との関係を検証します。
-  #### レッスン
-  - クラウド アーキテクチャの概要
-  - 利用可能なさまざまな種類のクラウド サービスを比較する
+  #### Lessons
+  - クラウドアーキテクチャの概要
+  - 利用可能なさまざまな種類のクラウドサービスを比較する
   - クラウド製品を同様のオンプレミス製品と比較する
 
 
-  ### モジュール 3&#58; Managing deployments and releases
-  このモジュールでは、導入の種類、リリースの実施例、セキュリティ モデルの設計など、実装に関する重要な考慮事項について説明します。
-  #### レッスン
+  ### Module 3&#58; Managing deployments and releases
+  このモジュールでは、導入の種類、リリースの実施例、セキュリティモデルの設計など、実装に関する重要な考慮事項について説明します。
+  #### Lessons
   - 展開のタイプ
   - リリースのタイプ
   - セキュリティの概念とロール
@@ -55,9 +56,10 @@ outlineSection: |-
   - GDPR
 
 
-  ### モジュール 4&#58; Licensing, onboarding and support
-  このモジュールでは、ライセンス オプションを確認し、実装サポートを見つけることにより、Dynamics 365 を使い始めることができます。
-  #### レッスン
+  ### Module 4&#58; Licensing, onboarding and support
+  このモジュールでは、ライセンスオプションを確認し、実装サポートを見つけることにより、Dynamics 365 を使い始めることができます。
+  #### Lessons
   - パートナーとともに検索と作業
-  - ライセンス オプション
+  - ライセンスオプション
   - セットアップ
+

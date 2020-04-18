@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Designing and Implementing a Data Science Solution on Azure
 metadata:
-  title: 'コース DP-100T01-A: Azure でデータ サイエンス ソリューションを設計および実装する'
-  description: 'コース DP-100T01-A: Azure でデータ サイエンス ソリューションを設計および実装する'
+  title: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
+  description: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
@@ -21,23 +21,23 @@ exams:
 - uid: exam.dp-100
 summary: |-
   Azure サービスを使用して機械学習ソリューションを開発、トレーニング、および展開する方法について必要な知識を得ます。このコースは、データ サイエンスをサポートする Azure サービスの概要から始まります。そこから、Azure の最高のデータ サイエンス サービスである Azure Machine Learning サービスを使用して、データ サイエンス パイプラインを自動化することに焦点を当てています。このコースは Azure に焦点を当てており、学生にデータサイエンスを行う方法を教えません。学生はすでにそれを知っていると想定されています。
-  
+
   #### 聴衆プロファイル
   このコースは、データ サイエンティスト、および機械学習モデルのトレーニングと展開において重要な責任を持つ人を対象としています。
 prerequisitesSection: |-
   このコースに参加する学生は、次のものを求められます&#58;
-  - [Azure Fundamentals 認定資格](https://docs.microsoft.com/learn/certifications/azure-fundamentals) を取得しました 。
+  - Earned [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
   - データの準備、モデルのトレーニング、競合モデルの評価による最適なモデルの選択方法など、データサイエンスの理解。
   - Python プログラミング言語でのプログラミング方法、および Python ライブラリ&#58; pandas、scikit-learn、matplotlib、seaborn の使用方法。
 outlineSection: |-
   ### モジュール 1&#58; Azure でのデータ サイエンスの実行
-  学生は、データ サイエンス プロセスとデータ サイエンティストの役割について学びます。次に、これを適用して、Azure サービスがデータ サイエンス プロセスをサポートおよび拡張する方法を理解します。
+  学生は、データ サイエンス プロセスとデータ サイエンティストの役割について学びます。  次に、これを適用して、Azure サービスがデータ サイエンス プロセスをサポートおよび拡張する方法を理解します。
   #### レッスン
   - Data Science Process の紹介
   - Azure Data Science Option の概要
   - Azure Notebooks の紹介
-  
-  
+
+
   ### モジュール 2&#58; Azure Machine Learning サービスを使用したデータ サイエンスの実行
   学生は、Azure Machine Learning サービス (AML) を使用して、データ サイエンス プロセスをエンドツーエンドで自動化する方法を学習します。
   #### レッスン
@@ -56,3 +56,4 @@ outlineSection: |-
   このモジュールでは、学生は AML サービスの機械学習モデルを自動的に管理および監視する方法を学習します。
   #### レッスン
   - Machine Learning Models を管理および監視する
+

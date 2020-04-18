@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Azureストレージを開発
+title: Develop for Azure storage
 metadata:
-  title: 'コース AZ-203T03-A: Azure ストレージを開発する'
-  description: 'コース AZ-203T03-A: Azure ストレージを開発する'
+  title: 'Course AZ-203T03-A: Develop for Azure storage'
+  description: 'Course AZ-203T03-A: Develop for Azure storage'
 uid: course.az-203t03
 courseNumber: 'AZ-203T03-A'
 hoursToComplete: 24
@@ -29,7 +29,7 @@ exams:
 - uid: exam.az-203
 summary: |-
   このコースでは、開発ソリューションで Azure ストレージ サービスと機能を活用するために必要な知識とスキルを習得します。Azure Table ストレージ、Azure Cosmos DB、Azure Blob、および Azure のリレーショナル データベースに対する開発について説明します。
-  
+
   #### 聴衆プロファイル
   - このコースの学生は、Azure 開発または Microsoft Azure Developer Associate 認定資格試験に合格することに興味があります。
 prerequisitesSection: |-
@@ -42,11 +42,12 @@ outlineSection: |-
   - Azure Table ストレージの概要
   - Table ストレージでの承認
   - Table サービス REST API
-  
+
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Azure Table ストレージの機能と使用方法を理解する
   - 共有キー認証の利用方法を知る
   - Azure Table ストレージ REST サービスを使用してデータを管理する方法を知る
+
 
   ### モジュール 2&#58; Azure Cosmos DB ストレージを使用するソリューションを開発する
   このモジュールは、Azure Cosmos DB ストレージを対象としています。動作方法、コンテナとアイテムの管理方法、およびコードを使用してドキュメントを作成および更新する方法を生徒に指示します。
@@ -82,3 +83,4 @@ outlineSection: |-
   - Azure Blob ストレージを使用するタイミングと理由を理解する
   - Blob ストレージ プロパティとメタデータを設定および初期化する
   - Blob を複製およびコピーする
+

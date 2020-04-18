@@ -1,43 +1,45 @@
 ### YamlMime:Examination
 title: Developing Solutions for Microsoft Azure
 metadata:
-  title: '試験 AZ-203: Developing Solutions for Microsoft Azure'
-  description: '試験 AZ-203: Developing Solutions for Microsoft Azure'
+  title: 'Exam AZ-203: Developing Solutions for Microsoft Azure'
+  description: 'Exam AZ-203: Developing Solutions for Microsoft Azure'
 uid: exam.az-203
 displayName: AZ-203
-summary: >-
-  この試験の受験者はアプリケーションやサービスといった Cloudソリューションを設計してビルドした Azure デベロッパーですこれらの対象者は、ソリューション設計から開発やデプロイ、テストやメンテナンスまでの開発のすべてのフェーズに関わります。また、ソリューションの実装にあたって、 Cloudソリューションアーキテクト、 Cloud DBA、 Cloudアドミニストレータ、クライアントと連携を取ります。
-
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>本試験の新バージョン<a href="/learn/certifications/exams/az-204">AZ-204</a>, は、2月24日に受験できるようになりました。本試験は、 2020年3月31日に終了するまで、受験することができます。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます<br/></></div>
+  
+  この試験の受験生はアプリケーションやサービスといったクラウドソリューションを設計、構築した Azure デベロッパーですこれらの対象者は、ソリューション設計から開発やデプロイ、テストやメンテナンスまでの開発のすべてのフェーズに関わります。ソリューションの実装にあたって、クラウドソリューションアーキテクト、クラウド DBA、クラウドアドミニストレータ、クライアントと連携を取ります。
   <br/>
-
 
   受験者はストレージ、セキュリティ、計算、コミュニケーションを含む Azure ツールとテクノロジを利用したアプリとサービス開発に精通している必要があります。
 
-
   受験者は最低一年のソフトウェア開発の全フェーズにわたるスケーラブルなソリューションの開発の経験を持ち、最低1種類の Cloudをサポートしたプログラム言語のスキルを保有している必要があります。
-subTitle: この試験では、Azure のサービスとしてのインフラのコンピューティングソリューション開発、Azure のサービスとしてのプラットフォームのコンピューティングソリューション開発、Azureストレージを開発、Azure Security の実装、ソリューションの監視・トラブルシューティング・最適化、Azure サービスとサードパーティサービスの連携と活用、という技術的なタスクを遂行する能力を測定します。
+
+  <div style='color&#58; red; font-weight&#58; bold;'><br/>注意&#58; この試験に合格すると、次の認定資格を取得できます。&#58; <a href="https://docs.microsoft.com/learn/certifications/azure-developer">Microsoft Certified: Azure Developer Associate</a>.</div>
+subTitle: 'この試験では、Azure のサービスとしてのインフラのコンピューティングソリューション開発、Azure のサービスとしてのプラットフォームのコンピューティングソリューション開発、Azureストレージを開発、Azure Security の実装、ソリューションの監視・トラブルシューティング・最適化、Azure サービスとサードパーティサービスの連携と活用、という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
-practiceTestUrl: https://us.mindhub.com/p/MU-AZ-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-203&examname=試験%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2Faz-203
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-203&examname=Exam%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:
+- 本試験の新バージョン AZ-204 は、 2月24日に受験できるようになりました。本試験は、 2020年3月31日に終了するまで、受験することができます。以下のスキル測定ドキュメントをダウンロードして、変更に関する詳細情報をご覧ください。
 - Azure のサービスとしてのインフラのコンピューティングソリューション開発(10-15%)
 - Azure のサービスとしてのプラットフォームのコンピューティングソリューション開発 (20-25%)
-- Azure ストレージの開発 (15-20%)
-- Azure セキュリティの実装 (10-15%)
+- Azure ストレージを開発 (15-20%)
+- Azure Security の実装 (10-15%)
 - ソリューションの監視、トラブルシューティング、最適化 (10-15%)
 - Azure とサードパーティサービスの連携と活用 (20-25%)
+retirementDate: 05/31/2020
 roles:
 - developer
-exams:
-- uid: exam.az-202
 products:
 - azure
 - azure-virtual-machines
@@ -66,31 +68,31 @@ paths:
 - uid: learn.deploy-a-website-with-azure-app-service
 - uid: learn.data-science
 - uid: learn.secure-your-cloud-data
-- uid: learn.modern-data-warehouse
-- uid: learn.work-with-nosql-data-in-azure-cosmos-db
-- uid: learn.data-ai.intro-to-ml-with-python
 relatedCertifications:
 - related:
-    uid: certification.azure-developer
+    uid: none
 resources:
-- title: 認定資格の学習経路
-  description: 'Microsoft 認定資格のトレーニングリソースを探す: Azure Developer Associate'
+- title: 認定の学習経路
+  description: 'Microsoft Certified: Azure Developer Associate になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 試験リプレイ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 宿泊をリクエストする
-  description: 試験の宿泊施設のリクエストの詳細をご覧ください
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md

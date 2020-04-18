@@ -1,22 +1,23 @@
 ### YamlMime:Examination
 title: Managing Microsoft SharePoint Server 2016
 metadata:
-  title: '試験 70-339: Managing Microsoft SharePoint Server 2016'
-  description: '試験 70-339: Managing Microsoft SharePoint Server 2016'
+  title: 'Exam 70-339: Managing Microsoft SharePoint Server 2016'
+  description: 'Exam 70-339: Managing Microsoft SharePoint Server 2016'
 uid: exam.70-339
 displayName: 70-339
-summary: >-
+summary: |-
+  <div style='color&#58; red;'>この試験は 2020 年 6 月 30 日に廃止されます。代替試験を受けることができます。詳細については、弊社のブログ&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> そして試験の廃止に関する投稿を確認ください。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます<br/></></div>
+  
   この試験は、データセンターおよびクラウドで SharePoint 2016 のインストール、構成、展開、および管理を行う経験豊富な IT プロフェッショナルを対象としています。受験者として対象となるのは通常、SharePoint および SharePoint が依存するその他のコア テクノロジ (Windows Server 2008 R2 以降、インターネット インフォメーション サービス (IIS)、Microsoft SQL Server 2008 R2 以降、Active Directory、ネットワーク インフラストラクチャ サービスなど) の計画と管理について 4 年を超える経験のある方です。
 
-
   また受験者には、認証およびセキュリティのテクノロジに関する経験に加えて、データ バックアップ、復元、高可用性を含むビジネス継続性管理の経験が必要です。PowerShellの経験が強く推奨されます。
-
 
   この試験で次に対象となるのは、SharePoint 2016 を使用する内部ビジネス顧客と基幹業務 (LOB) プロジェクトの管理に積極的に携わるビジネス アプリケーション管理者 (BAA) です。
 subTitle: この試験は、データセンターおよびクラウドで SharePoint 2016 のインストール、構成、展開、および管理を行う経験豊富な IT プロフェッショナルを対象としています。受験者として対象となるのは通常、SharePoint および SharePoint が依存するその他のコア テクノロジ (Windows Server 2008 R2 以降、インターネット インフォメーション サービス (IIS)、Microsoft SQL Server 2008 R2 以降、Active Directory、ネットワーク インフラストラクチャ サービスなど) の計画と管理について 4 年を超える経験のある方です。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBh
 practiceTestUrl: https://www.mindhub.com/70-339-Managing-Microsoft-SharePoint-Server-2016-p/mu-70-339_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F70-339
 locales:
 - en
 - es
@@ -26,16 +27,16 @@ locales:
 - de
 - ja
 - pt-br
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fja-jp%2Flearn%2Fcertifications%2Fexams%2F70-339
-levels:
+levels: 
 - intermediate
 skills:
+- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
 - SharePoint インフラストラクチャの設計 (15-20%)
 - 認証およびセキュリティの計画 (15-20%)
 - ワークロード最適化の計画 (15-20%)
-- 生産性ソリューション の計画 (15-20%)
+- 生産性ソリューションの計画(15-20%)
 - 検索機能の管理 (10-15%)
-- クラウド サービス の計画と構成 (5–10%)
+- クラウド サービス (5–10%) の計画と構成 (5–10%)
 - SharePoint 環境の監視と最適化 (10-15%)
 roles:
 - administrator
@@ -48,15 +49,15 @@ relatedCertifications:
 - related:
     uid: certification.mcse-productivity-certification
 resources:
-- title: 試験リプレイ
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
-- title: 認定資格ダッシュボード
-  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+- title: 認定ダッシュボード
+  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
-  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 特別な設備のリクエスト
+  description: 試験に特別な設備をリクエストする場合の詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
-  description: 試験ポリシーとよくある質問をご確認ください。
+  description: 試験ポリシーとよく寄せられる質問を確認してください。
   href: ../certification-exam-policies.md

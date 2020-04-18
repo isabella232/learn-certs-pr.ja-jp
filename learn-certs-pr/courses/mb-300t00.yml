@@ -1,0 +1,325 @@
+### YamlMime:Course
+title: 'Microsoft Dynamics 365: Core Finance and Operations'
+metadata:
+  title: 'Course MB-300T00: Microsoft Dynamics 365: Core Finance and Operations'
+  description: 'Course MB-300T00: Microsoft Dynamics 365: Core Finance and Operations'
+uid: course.mb-300t00
+courseNumber: 'MB-300T00'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Dynamics 365 for Finance and Operations のライフサイクルサービスを開始します
+- skill: Lifecycle Services を使用して、 Dynamics 365 for Finance and Operations の実装を設計および計画します
+- skill: Dynamics 365 for Finance and Operations のレポートと分析の概要を把握します
+- skill: Dynamics 365 for Finance and Operations のモバイルアプリを構築してテストします
+- skill: Dynamics 365 for Finance and Operations においてワークフローを作成、保守、および使用します
+- skill: Dynamics 365 for Finance and Operations において法人を設定して、構成します
+- skill: Dynamics 365 for Finance and Operations においてユーザーとセキュリティを管理します
+- skill: Dynamics 365 for Finance and Operations において個人化を実行します
+- skill: Dynamics 365 for Finance and Operations において共通の統合機能を実装します
+- skill: 移行用のデータを準備し、データを Dynamics 365 for Finance and Operations に移行します
+- skill: Dynamics 365 for Finance and Operations においてデータ管理を使用します
+- skill: Dynamics 365 for Finance and Operations においてユーザー受理テストを実行します
+- skill: 稼働の準備
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  本コースでは以下を取り扱います&#58; 
+  Dynamics 365 for Finance and Operations の共通コア機能
+  Dynamics 365 for Finance and Operations におけるコア構成
+  - データ移行と Dynamics 365 for Finance and Operations の活用の準備」
+  Dynamics 365 for Finance and Operations を使用して、営業費を削減し、ビジネスニーズの変化に迅速に対応します。このソリューションによって、組織はこれらの目標を達成できます。
+  本コースでは、 Microsoft Dynamics 365 for Finance and Operations のコアコンポーネントと構成、およびデータ移行と稼働への準備について説明します。
+
+  ####聴衆プロファイル
+  Dynamics 365 for Finance and Operations Functional Consultant は、発見の実行、要件の把握、主題の専門家および関係者の雇用、要件の変換、ソリューションとアプリケーションの構成を担当します。機能コンサルタントは、革新的な機能、コードレス拡張機能、アプリケーション、およびサービスインテグレーションを使用してソリューションを実行します。
+prerequisitesSection: |-
+  このコースに参加する学生は、次のものを求められます&#58;
+  - Microsoft Windows に関する一般的な知識
+  - Dynamics 365 for Finance and Operations を基本的な処理に使用する能力
+  - モバイルデバイスの基本的な機能とナビゲーションに関する一般的な知識
+outlineSection: |-
+  ### モジュール 1&#58; Dynamics 365 for Finance and Operations の開始
+  Microsoft Dynamics 365 for Finance and Operations が、グローバルな金融システム、運用ビジネスプロセス、合理化されたサプライチェーンを管理して、人々が情報に基づいた迅速な意思決定を実現するために、企業をどのようにサポートしているかについて学びます。
+  Finance and Operations を使用して作業を始める最初のステップとして、目的とするロールに関係なく、その機能について理解しておく必要があります。
+
+  #### レッスン
+  - はじめに
+  - 業界の焦点
+  - 財務管理の概要
+  - 従業員管理の概要
+  - サプライチェーン管理の概要
+  - モジュールのサマリー
+
+  Finance and Operations が何であるかを理解します
+  - それがサポートしている業界を理解します
+  - Finance and Operations のモジュールに精通します
+  - これらのモジュールの機能の目的に精通します
+  - これらが業界固有の分野をどのようにサポートしているかに精通します
+
+
+  ### モジュール 2&#58; Lifecycle Services の開始
+  Microsoft Dynamics 365 for Finance and Operations を Microsoft Azure クラウドまたはオンプレミスにインストールして保守するには、 Microsoft Dynamics Lifecycle Services (LCS) を使用してプロセスを管理する必要があります。
+  LCS 内で使用できる全体的な機能とツールを見てみましょう。
+
+  Microsoft Dynamics Lifecycle サービス(LCS)は、顧客とそのパートナーが、事前販売から実行、さらには生産環境に至るまで、クラウドまたはオンプレミスのいずれかで、Dynamics 365 for Finance and Operations のプロジェクトを管理するために使用するコラボレーションワークスペースです。そこには、実行プロセスの管理に役立つ方法論を含めて、プロジェクトの管理に役立つチェックリストとツールが用意されています。
+
+  #### レッスン
+  - Lifecycle Services の機能とツールを理解する
+  - 既存資産を再利用し、データをコピーして共有する
+  - タスクレコーダーの機能を理解する
+  - ビジネスプロセスモデルを作成する
+  - LCS Issue Search ツールを実行し、結果を分析する
+  - Regression Suite Automation Tool の使用方法について学習する
+  - 実習ラボ
+  - モジュールのサマリー
+
+  Finance and Operations 向けの Lifecycle サービスの機能とツールを理解します
+  - 既存資産を再利用し、データをコピーして共有する
+  - タスクレコーダーの機能を理解する
+  - ビジネスプロセスモデルを作成する
+
+
+  ### モジュール 3&#58; Use Lifecycle Services to Design and Plan
+  適切な計画を立てることで、Dynamics 365 for Finance and Operations の実行は成功します。顧客が Finance and Operations のライセンスを購入する契約に署名した後、機能コンサルタントとしての仕事は、アプリケーションのライフサイクルを管理し、予測可能で反復可能な質の高い実行に移行することから始まります。
+  #### レッスン
+  - はじめに
+  - クラウド実行のフェーズ
+  - オンプレミス実行のフェーズ
+  - Functional Design Documents (FDD) を作成する
+  - モジュールのサマリー
+
+  - Lifecycle Services (LCS) の方法論を使用して、収集した要件のドキュメンテーションを準備します
+  ユースケースシナリオを定義する
+  - 機能要件文書 (FRD) の作成に参加する
+  - 文書化されたプロセスの作成と保持の重要性を理解する
+  フェーズベースのプロセス計画とソリューション設計に参加する
+  - 提案されたソリューションに基づいて、将来の状況のビジネスプロセスを設計します
+  - ビルドするタイミングと購入するタイミングを決定する
+  - Functional Design Documents (FDD) を作成します
+
+
+  ### モジュール 4&#58; Reporting and Analytics の概要
+  ビジネスリーダーは、基本的な財務データと運用データを正確に把握して、企業内で重要な意思決定を行います。そのデータを可視化できなければ、それは不可能になるでしょう。
+  Dynamics 365 for Finance and Operations の分析とレポートを使用することで、セキュリティ権限に応じてすべてのビジネスユーザーが必要なインサイトを取得できるようになります。
+  #### レッスン
+  - レポートと質問を理解する
+  - 財務報告について学ぶ
+  - インスタンスに 対して PowerBI を構成します
+  - 実習ラボ
+  - モジュールのサマリー
+
+  Finance and Operations における各種のレポートと質問
+  - 財務報告
+  - Finance and Operations for Microsoft Power Platform の設定
+
+
+  ### モジュール 5&#58; Build and Test Mobile Apps
+  私たちはデジタル時代に生きています。今や、スマートデバイスがなければ、 1 日を想像するのは困難です。ソーシャルエンゲージメント、オンラインバンキング、ホテル、航空、レンタカーの予約には、ほぼ毎日モバイルアプリケーションを使用します。
+  スマートデバイスで Dynamics 365 for Finance and Operations を使用できるのは当然のように思えます。
+
+  #### レッスン
+  - Unified Operations モバイルアプリの概要
+  - モバイルアプリを構築して使用する
+  - 実習ラボ
+  - モジュールのサマリー
+
+  モバイルアプリを作成してそれを公開する方法を学習したことになります。
+  - アプリをダウンロードする必要があることも学習したことになります
+  - Finance and Operations に接続するために Dynamics 365 Apps を実行する方法
+
+
+  ### モジュール 6&#58; Create, Maintain and Use Workflows
+  一部の組織では、特定のプロセスがレコードを入力した者以外のユーザーによって承認される必要があります。これらのワークフロープロセスには、手動承認、ワークフロー承認、または無承認が必要な場合があります。
+  #### レッスン
+  - ビジネスプロセスのワークフロー
+  - ワークフローを作成して設定する
+  - ワークフロータッチポイントにユーザーを割り当てる
+  - 作業項目を使用する
+  - 実習ラボ
+  - モジュールのサマリー
+
+  ワークフローを使用して自動化を適用することができます
+  - ワークフローのタイプを定義することについて学習しました
+  - ワークフローでは、複数のジャーナルタイプの承認ができることがわかっています
+  - ワークフローの複数のバージョンを定義できることを学習しました
+  - 元のワークフローを削除せずに、現在のワークフローを変更できることを学習しました
+  - ワークフローとそのタスクの構成、設定、および追加の方法について学習しました
+  - 承認プロセスの構成方法について学習しました
+
+
+  ### モジュール 7&#58; Set Up and Configure Legal Entities
+  法人とは、法的機関への登録によって特定される組織のことです。法人は契約を締結することができ、業績に関する報告書を作成する必要があります。組織を計画および構成し、 Dynamics 365 for Finance and Operations を実装する最初の一歩として、法人を作成する必要があります。
+
+  このモジュールでは、 Dynamics 365 for Finance and Operations における法人と数列の設定と構成について説明します。
+  #### レッスン
+  - 法人を作成し、数列を生成する
+  - 数列を作成する
+  - 組織階層を作成する
+  - 目的と方針を適用する
+  - カレンダーと日付の間隔を構成する
+  - 実習ラボ
+  - モジュールのサマリー
+
+  - 法人を作成し、数列を生成する方法を学習しました。
+  - カレンダーと日付の間隔も構成しました。
+  - 組織階層の作成方法、目的の適用方法、ポリシーの設定方法について学習しました
+
+
+  ### モジュール 8&#58; ユーザーとセキュリティの管理
+  Dynamics 365 for Finance and Operations のセキュリティ アーキテクチャを理解していれば、ビジネスの要件に合わせてカスタマイズできます。Finance and Operations を使用すると、極秘データを安全に保管し、ユーザーが自分のロールに集中できるようになります。
+
+  Microsoft Dynamics 365 for Finance and Operations には、極秘データを安全に保護するために、さまざまなセキュリティおよび構成オプションが用意されています。すなわち、ユーザーは自分のロールに集中でき、システムはできるだけ合理化された状態に維持されます。
+
+  さまざまなセキュリティオプションを実行する方法を理解することで、企業はセキュリティ要件を満たすことができます。Finance and Operations のセキュリティ アーキテクチャを理解すれば、ビジネスの要件に合わせてセキュリティをより簡単にカスタマイズできます。
+
+  #### レッスン
+  - セキュリティアーキテクチャを理解する
+  - ユーザーとセキュリティを管理する
+  - 職務の分離を設定して適用する
+  - セキュリティレポートを実行する
+  - バッチジョブとアラートを設定する
+  - 実習ラボ
+  - モジュールのサマリー
+
+  Finance and Operations のセキュリティ アーキテクチャを理解します
+  - ユーザーを管理する
+  - セキュリティを管理する
+  - 職務の分離を適用する
+  - セキュリティレポートを実行する
+
+
+  ### モジュール 9&#58; Personalization の実施
+  Dynamics 365 for Finance and Operations のユーザーインターフェイスをパーソナライズすることで、組織の従業員がより効率的に作業できるようになります。パーソナライゼーションにより、部門マネージャはカスタマイゼーションを必要とせずに、スタッフに特定のユーザーインターフェイスを適用できます。
+  #### レッスン
+  -ユーザーオプションを説明して適用する
+  - パーソナライゼーションを作成、エクスポート、およびインポートする
+  - レコードテンプレートを作成して保持する
+  - 実習ラボ
+  - モジュールのサマリー
+
+  ユーザーオプションの使用方法と適用方法、パーソナライゼーションの作成方法、パーソナライゼーションのエクスポート方法
+  - カスタマイゼーションとパーソナライゼーションの相違点
+  - パーソナライゼーションによって時間を節約する方法
+  - パーソナライゼーションによってレコード テンプレートを作成および管理する方法
+
+
+  ### モジュール 10&#58; Common Integration Features の実装
+  本モジュールでは、 Finance and Operations に共通の統合機能を実装する方法についての情報を提供します。  Microsoft Office Excel は、デフォルトで Dynamics 365 for Finance and Operations に統合されています。これにより、Finance and Operations からデータを直接取得し、 Excel でデータを操作して、Finance and Operations に保存することができます。Finance and Operations から直接に、または Microsoft Outlook を使用して、電子メールを送信することもできます。
+
+  ブラウザから会社のネットワークプリンタまで、どこからでもドキュメントを印刷できるため、印刷が簡単になります。
+
+  #### レッスン
+  Microsoft Office インテグレーション
+  - 電子メールを構成する
+  - 電子メールテンプレートを作成して保持する
+  - Power BI を使用する
+  - ネットワーク印刷を設定する
+  - データを Common Data Services for Apps に統合する
+  - 実習ラボ
+  - モジュールのサマリー
+
+  Microsoft Office 統合の使用方法について学習したことになります
+  - 企業ネットワークプリンタをリモートで使用できます
+  - 複数のソースからのデータを Common Data Service に統合する方法
+
+
+  ### モジュール 11&#58; Prepare Data for Migration and Migrate Data
+  データ移行の時間になると、知れば知るほど、操作の複雑さを制御し、コストを削減することが容易になります。顧客のビジネス継続性が優先事項である必要があります。データ管理フレームワークを使用して、 Dynamics 365 for Finance and Operations においてデータエンティティとデータエンティティパッケージを管理することで、移行のためにデータを準備する方法について学びます。
+  #### レッスン
+  - はじめに
+  - BYOD 機能を理解する
+  - テスト移行を実行し、アウトプットを検証する
+  - モジュールのサマリー
+
+  データインテグレーション(インポート / エクスポート)戦略を選択します
+  - Finance and Operations において一般的な移行シナリオとツールを特定する
+  - Bring Your Own Database (BYOD) の機能について理解します
+  - 関連する(レガシー)システムを特定する
+  - 業界間で共通の静的データを特定してインポートする
+  - データ移行のテスト計画を作成して確認する
+  - ソースデータを特定して抽出する
+  - 関連するデータエンティティと要素を特定する
+  - ソースとターゲットのデータ構造間のフィールドマッピングを生成する
+  - テスト移行を実行し、アウトプットを検証する
+  - 既存システムと移行済みシステム間の移行をサポートする
+
+
+  ### モジュール 12&#58; データ管理の使用
+  また、データ管理ワークスペースを使用して、Dynamics 365 for Finance and Operations のデータをインポートおよびエクスポートすることができます。ソースデータを分類して検証し、さらにそれを Finance and Operations におけるターゲットテーブルに移動します。
+
+  本モジュールにおいて、受講者はデータ管理プラットフォームの基本概念の概要を把握します。また、データ管理ワークスペースを使用して、Dynamics 365 for Finance and Operations のデータをインポートおよびエクスポートする方法についても学習します。
+
+  最後に、データ管理プラットフォームの非同期の定期的なインテグレーション機能を使用する方法について学習します。
+
+  #### レッスン
+  - はじめに
+  - データの管理とインテグレーションを理解する
+  - データ管理ワークスペース
+  - データ管理のテンプレート
+  - データを法人にインポート、エクスポート、およびコピーする
+  - 実習ラボ
+  - モジュールのサマリー
+
+  特定のシナリオに適したパターンを特定します
+  - データ管理ワークスペースで作業する
+  - 法人からデータをエクスポートする
+  - データを法人にインポートする
+
+
+  ### モジュール 13&#58; User Acceptance Testing の実施
+  構成、カスタマイゼーション、サードパーティとの統合のいずれかによって顧客の要件に対応した後、 Microsoft Dynamics 365 for Finance and Operations においてユーザー受け入れテスト (UAT) を実行してソリューションを検証する方法を理解しておく必要があります。これは、立ち上げ準備の一環として重要なステップです。
+
+  立ち上げ開始前に顧客のソリューションをテストして評価するためには、 Dynamics 365 for Finance and Operations の環境が必要です。この環境には、あらゆる構成と、拡張機能によって可能なカスタマイゼーションが含まれています。
+
+  短時間で効率的に、ロールに重点を置いたテストケースシナリオの作成とテストを適切に編成して計画する方法論を用意することは常に有益です。
+  #### レッスン
+  - 概要
+  - ユーザー受け入れのテストケースを作成して実行します
+  - 実習ラボ
+  - モジュールのサマリー
+
+  テストケースとビジネス要件の間の相関関係を理解する方法
+  - テストケースを記録するためのベストプラクティス
+  - タスクレコーダ
+  - Scenario Acceptance Testing BPM ライブラリを作成する方法
+  - Azure DevOps で自分のテスト計画を同期および構成する方法
+  - テストの実施方法
+
+
+  ### モジュール 14&#58; Prepare to Go Live
+  Dynamics 365 for Finance and Operations に実装されたソリューションを生産環境に移行することで、あらゆるハードワークが成功を収めます。  この重要なフェーズでは、顧客を満足させ、質の高いソリューションを提供し、安心感を得ることを望んでいますが、これは立ち上げ(go live)として知られています。
+  Microsoft Dynamics Lifecycle Services (LCS) を使用して、 Finance and Operations プロジェクトを立ち上げる準備を行う方法について学びます。
+
+  #### レッスン
+  - はじめに
+  - 稼働の準備をする
+  - モジュールのサマリー
+
+  立ち上げの準備
+  - Lifecycle Services( LCS )手法を完了する
+  - ソリューションのユーザー受け入れテスト (UAT) を実行する
+  - FastTrack の稼働評価を理解する
+  - 生産環境を要求する
+
+
+  ### モジュール 15&#58; Course Conclusion
+  コースの最終評価とコース概要、およびコース後のアンケート。
+  #### レッスン
+  - 最終評価
+  - コースのサマリー
+  - コース終了後のアンケート
+
+  受講者はコースを終了します。
+

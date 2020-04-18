@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Azure Security の実装
+title: Implement Azure security
 metadata:
-  title: 'コース AZ-203T04-A: Azure Security の実装'
-  description: 'コース AZ-203T04-A: Azure Security の実装'
+  title: 'Course AZ-203T04-A: Implement Azure security'
+  description: 'Course AZ-203T04-A: Implement Azure security'
 uid: course.az-203t04
 courseNumber: 'AZ-203T04-A'
 hoursToComplete: 24
@@ -29,7 +29,7 @@ exams:
 - uid: exam.az-203
 summary: |-
   このコースでは、Azure 認証および承認サービスを開発ソリューションに含めるために必要な知識とスキルを習得します。学生は、Microsoft ID プラットフォームを使用して、Azure ソリューションで ID を管理および利用する方法を学習します。また、学生はアクセス制御 (クレーム ベースの承認とロール ベースのアクセス制御) と安全なデータ ソリューションの実装方法について学びます。コースを通して、学生は Azure CLI、REST、およびアプリケーション コードを使用してこれらのリソースを作成および統合する方法を学びます。
-  
+
   #### 聴衆プロファイル
   - このコースの学生は、Azure 開発または Microsoft Azure Developer Associate 認定資格試験に合格することに興味があります。
   - 学生は開発者としての経験が 1 〜 2 年必要です。このコースは、学生がコーディングの方法を知っており、Azure の基本的な知識があることを前提としています。
@@ -45,13 +45,13 @@ outlineSection: |-
   - Azure リソースの管理対象 ID を実装する
   - 認証、フォームベースの認定、トークンを使用した認証の実装
   - 2 マルチ認証を実装する
-  
+
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Microsoft ID プラットフォームのアーキテクチャについて理解する
-  - ソリューションに OAuth2 認証を実装する
+  - ソリューションに Oauth2 認証を実装する
   - Azure Key Vault を使用して認証情報を保存および取得する
 
-  
+
   ### モジュール 2&#58; アクセス制御を実装する
   このモジュールでは、クレーム ベースおよびロール ベースのアクセス制御について説明します。
   #### レッスン
@@ -75,3 +75,4 @@ outlineSection: |-
   - 暗号化オプションについて理解する
   - Transparent Data Encryption でデータを暗号化する
   - Azure Key Vault を使用して暗号化キーを管理および利用する
+

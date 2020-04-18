@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 継続的フィードバックの実装
+title: Implementing Continuous Feedback
 metadata:
-  title: 'コース AZ-400T06-A: 継続的フィードバックの実装'
-  description: 'コース AZ-400T06-A: 継続的フィードバックの実装'
+  title: 'Course AZ-400T06-A: Implementing Continuous Feedback'
+  description: 'Course AZ-400T06-A: Implementing Continuous Feedback'
 uid: course.az-400t06
 courseNumber: 'AZ-400T06-A'
 hoursToComplete: 24
@@ -22,7 +22,7 @@ skillsGained:
 - skill: テレメトリを分析してベースラインを確立する
 - skill: 実際のサイトレビューを実装し、システム停止に対するフィードバックを取得する
 - skill: 無意味な、または対処不可能なアラートを減らすために継続的な調整を実行する
-learningPartnersLink: https://www.microsoft.com/ja-jp/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -39,6 +39,7 @@ exams:
 - uid: exam.az-400
 summary: |-
   このコースでは、継続的なフィードバックを実装するための知識とスキルを提供します。学生は、システム フィードバック メカニズムを推奨および設計し、システム フィードバックを開発チームにルーティングするプロセスを実装し、フィードバック メカニズムを最適化する方法を学びます。
+
   #### 聴衆プロファイル
   このコースの学生は、DevOps プロセスを実装するか、Microsoft Azure DevOps Solutions 認定資格試験に合格することに興味があります。
 prerequisitesSection: |-
@@ -51,11 +52,11 @@ outlineSection: |-
   - エンドユーザーの満足度を測定するための設計手法
   - ユーザーのフィードバックを収集して分析するプロセスを設計する
   - アプリケーション分析を自動化する設計プロセス
-  
+
+
   #### ラボ &#58; Azure DevOps と Teams の統合
 
   #### ラボ &#58; 機能フラグ
-  
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - エンドユーザーの満足度を測定するための設計手法
   - 外部の情報源からのユーザーのフィードバックを収集して分析するためのプロセスを設計する
@@ -67,7 +68,7 @@ outlineSection: |-
   ### モジュール 2&#58; システム フィードバックを開発チームにルーティングするプロセスを実装する
   #### レッスン
   - システムの使用状況、機能の使用状況、およびフローを追跡するためのツールを実装する
-  - モバイル アプリケーションのクラッシュ レポート データのルーティングを実装する
+  モバイル アプリケーションのクラッシュ レポート データのルーティングを実装する
   - 監視ダッシュボードとステータスダッシュボードを開発する
   - チケット システムを統合および構成する
 
@@ -92,3 +93,4 @@ outlineSection: |-
   - テレメトリを分析してベースラインを確立する
   - 実際のサイト レビューを実装し、システム停止に対するフィードバックを取得する
   - 無意味な、または対処不可能なアラートを減らすために継続的な調整を実行する
+

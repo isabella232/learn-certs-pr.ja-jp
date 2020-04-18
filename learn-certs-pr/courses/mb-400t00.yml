@@ -1,19 +1,19 @@
 ### YamlMime:Course
-title: 'Microsoft PowerApps + Dynamics 365 Core'
+title: 'Microsoft PowerApps + Dynamics 365 Developer'
 metadata:
-  title: 'コース MB-400T00-A: Microsoft PowerApps + Dynamics 365 Core'
-  description: 'コース MB-400T00-A: Microsoft PowerApps + Dynamics 365 Core'
+  title: 'Course MB-400T00-A: Microsoft PowerApps + Dynamics 365 Developer'
+  description: 'Course MB-400T00-A: Microsoft PowerApps + Dynamics 365 Developer'
 uid: course.mb-400t00
 courseNumber: 'MB-400T00-A'
 hoursToComplete: 72
-iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: データ モデルを作成して文書化する
+- skill: データモデルを作成して文書化する
 - skill: エンティティとフィールドを実行する
 - skill: ソリューションを作成して管理する
-- skill: ビジネス プロセスを自動化する
+- skill: ビジネスプロセスを自動化する
 - skill: ユーザー体験を拡張する
-- skill: 統合を開発する
+- skill: インテグレーションを開発する
+iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -27,49 +27,57 @@ products:
 exams:
 - uid: exam.mb-400
 summary: |-
-  Microsoft Power Platform は、組織が日常業務を自動化し、ビジネスのベスト プラクティスを標準化することによって業務を最適化することを支援します。PowerApps 開発者は、複雑なビジネス上の問題を解決するために Power Platform を拡張するプロフェッショナルなソフトウェア開発者です。このコースにおいて、 PowerApps 開発者は Power Platform 、 Microsoft スタック、および標準的な開発ツールとプラクティスに関する既存の知識を基にして構築します。PowerApps 開発者は、作業と範囲の見積もり方法、要件の検証と技術アーキテクチャの設計方法、データ モデルの作成方法、実装ツールの決定方法、および技術設計の文書化方法を学習します。ユーザーのセキュリティとアクセシビリティの実装、環境の管理、 Common Data Service の拡張、 Web リソースの作成と使用、プラグインの操作などを含めて、幅広いトピックが取り上げられます。
+  Microsoft Power Platform は、組織が日常業務を自動化し、ビジネスのベストプラクティスを標準化することによって業務を最適化することを支援します。PowerApps 開発者は、複雑なビジネス上の問題を解決するために Power Platform を拡張するプロフェッショナルなソフトウェア開発者です。このコースにおいて、 PowerApps 開発者は Power Platform 、 Microsoft スタック、および標準的な開発ツールとプラクティスに関する既存の知識を基にして構築します。PowerApps 開発者は、作業と範囲の見積もり方法、要件の検証と技術アーキテクチャの設計方法、データモデルの作成方法、実装ツールの決定方法、および技術設計の文書化方法を学習します。ユーザーのセキュリティとアクセシビリティの実装、環境の管理、 Common Data Service の拡張、 Web リソースの作成と使用、プラグインの操作などを含めて、幅広いトピックが取り上げられます。
   
-  #### 聴衆プロファイル
+  #### Audience profile
 
-  PowerApps 開発者は、プラットフォーム実装の設計、開発、セキュリティ保護、拡張、および統合を担当します。開発者は、アプリケーションの強化、カスタムユーザー体験、システム統合、データ変換、カスタムプロセス自動化、カスタム可視化などを含むソリューションのコンポーネントを実行します。
+  PowerApps 開発者は、プラットフォーム実装の設計、開発、セキュリティ保護、拡張、および統合を担当します。開発者は、アプリケーションの強化、カスタムユーザー体験、システムインテグレーション、データ変換、カスタムプロセス自動化、カスタム可視化などを含むソリューションのコンポーネントを実行します。
 prerequisitesSection: |-
-  このコースに参加する前に、受講者は次のことが必要です&#58;
+  このコースに参加する前に、受講者は次のことが必要です；
+
   - Power Platform の基本的な理解。
   - Microsoft スタックおよび Visual Studio に対するソフトウェア開発の経験。
   - Azure におけるソリューション管理の経験（推奨）。
 outlineSection: |-
-  ### モジュール 1&#58; Power Platform を使用した開発の概要
+  ### Module 1&#58; Power Platform を使用した開発の概要
+  
   このモジュールにおいて、開発者向けリソースと、 Power Platform を拡張するためにこれらを活用する方法について学習します。
-  #### レッスン
+  
+  #### Lessons
   - Power Platform 開発者向けリソースの概要
   - 開発者ツールを使用して Power Platform を拡張する
   - Power Platform 拡張の概要
 
-  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  このモジュールを終了すると、受講者は以下のことができるようになります；
 
   - 開発者ツールの機能を特定する
   - 開発者ツールを使用する
 
-  ### モジュール 2&#58; Power Platform Common Data Service の拡張
+  ### Module 2&#58; Power Platform Common Data Service の拡張
 
   このモジュールにおいて受講者は、プラグインやその他のツールを使用して Common Data Service を拡張する方法とタイミングについて学習します。
 
-  #### レッスン
+  #### Lessons
   - 開発者向けの Common Data Service の概要
   - プラグインを拡張する
 
-  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  このモジュールを終了すると、受講者は以下のことができるようになります；
+
   - プラグインについて記述する
   - プラグインを使用して Common Data Service を拡張する
 
-  ### モジュール 3&#58; Power Platform ユーザー体験の拡張
-  このモジュールにおいて受講者は、 Web リソースとクライアント スクリプトを活用して Power Platform のユーザー体験を拡張する方法を学習します。
-  #### レッスン
-  - Web リソースの概要
-  - クライアント スクリプトで共通のアクションを実行する
-  - クライアント スクリプトを使用してBusiness Process Flows を自動化する
+  ### Module 3&#58; Power Platform ユーザー体験の拡張
 
-  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  このモジュールにおいて受講者は、 Web リソースとクライアントスクリプトを活用して Power Platform のユーザー体験を拡張する方法を学習します。
+
+  #### Lessons
+  - Web リソースの概要
+  - クライアントスクリプトで共通のアクションを実行する
+  - クライアントスクリプトを使用してBusiness Process Flows を自動化する
+
+   このモジュールを終了すると、受講者は以下のことができるようになります；
+
   - Web リソースを使用する
-  - クライアント スクリプトを記述する
-  - ビジネス プロセス フローを拡張する
+  - クライアントスクリプトを記述する
+  - ビジネスプロセスフローを拡張する
+

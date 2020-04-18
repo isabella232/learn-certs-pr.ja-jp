@@ -1,0 +1,160 @@
+### YamlMime:Course
+title: Developing solutions for Microsoft Azure
+metadata:
+  title: 'Course AZ-204T00-A: Developing solutions for Microsoft Azure'
+  description: 'Course AZ-204T00-A: Developing solutions for Microsoft Azure'
+uid: course.az-204t00
+courseNumber: 'AZ-204T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-active-directory
+- azure-api-management
+- azure-app-service
+- azure-application-gateway
+- azure-automation
+- azure-cdn
+- azure-clis
+- azure-cloud-shell
+- azure-container-instances
+- azure-container-registry
+- azure-cosmos-db
+- azure-event-grid
+- azure-event-hubs
+- azure-functions
+- azure-key-vault
+- azure-logic-apps
+- azure-monitor
+- azure-policy
+- azure-portal
+- azure-redis-cache
+- azure-resource-manager
+- azure-sdks
+- azure-service-bus
+- azure-storage
+- azure-stream-analytics
+- azure-traffic-manager
+- azure-virtual-machines
+exams:
+- uid: exam.az-204
+summary: |-
+  本コースでは、 Microsoft Azure でエンド ツー エンド ソリューションを作成する方法を開発者に説明します。受講者は、 Azure 計算ソリューションの実装方法、 Azure 機能の作成方法、 Web アプリケーションの実装と管理の方法、 Azure ストレージを利用したソリューションの開発方法、認証と承認の実装方法、 KeyVault と管理対象 ID を使用したソリューションのセキュリティ保護方法んどについて学びます。受講者はまた、 Azure サービスやサードパーティサービスに接続して利用する方法や、ソリューションにイベントベースおよびメッセージベースのモデルを含める方法についても学びます。本コースでは、 Azure ソリューションの監視、トラブルシューティング、最適化についても説明します。
+
+  #### 聴衆プロファイル
+  本コースの受講者は、 Azure の開発に関心があるか、または Microsoft Azure Developer Associate 認定試験に合格しています。
+prerequisitesSection: |-
+  受講者は、 1-2 年の専門能力開発の経験と Microsoft Azure の経験を持っている必要があります。受講者は、Azure 対応言語でプログラムできる必要があります。
+outlineSection: |-
+  ### モジュール 1&#58; Azure App Service Web Apps の作成
+  受講者は、 Azure App Service プラットフォームで Web アプリケーションを構築する方法について学びます。また、プラットフォームの機能と、 App Service プラットフォームの作成、構成、拡張、セキュリティ保護、展開などの方法について学びます。
+  #### レッスン
+  - Azure App Service の中心概念
+  - Azure App Service Web App を作成する
+  - App Service アプリの構成と監視
+  - App Service アプリの拡張
+  - Azure App Service のステージング環境
+
+
+  ### モジュール 2&#58; Azure Functions を実装する
+  本モジュールでは、Functions アプリの作成、およびアプリにトリガーと入出力を統合する方法について説明します。
+  #### レッスン
+  - Azure Functions の概要
+  - Azure Functions の開発
+  - Durable Functions の実装
+
+
+  ### モジュール 3&#58; blob ストレージを使用するソリューションの開発
+  受講者は、 Azure Blob ストレージの仕組み、ホット / コールド / アーカイブ blob ストレージライフサイクルによるデータの管理方法、および Azure Blob ストレージ クライアント ライブラリを使用してデータとメタデータを管理する方法について学びます。
+  #### レッスン
+  - Azure Blob storage の中心概念
+  - Azure Blob ストレージ ライフサイクルの管理
+  - Azure Blob ストレージの使用
+
+
+  ### モジュール 4&#58; Cosmos DB ストレージを使用するソリューションの開発
+  受講者は、 Cosmos DB の構築方法、およびデータの一貫性の管理方法について学びます。受講者はまた、 Azure Portal と .NET SDK を組み合わせて使用することにより、 Cosmos DB アカウントを作成し、データベース、コンテナおよびアイテムを作成する方法についても学びます。
+  #### レッスン
+  - Azure Cosmos DB の概要
+  - Azure Cosmos DB のデータ構造
+  - Azure Cosmos DB のリソースとデータを使用した作業
+  
+  
+  ### モジュール 5&#58; IaaS ソリューションの実装
+  本モジュールでは、ソリューションで使用するための VM およびコンテナイメージの作成方法について説明します。ここでは、 VM の作成、 リソース開発を自動化するためのARM テンプレートの使用、 Docker イメージの作成と管理、 Azure Container Registry へのイメージの公開、 Azure Container インスタンスでのコンテナの実行について説明します。
+  #### レッスン
+  - Azure におけるVMのプロビジョニング
+  - 電子メールテンプレートの作成と展開
+  - ソリューションのコンテナ イメージを作成する
+  - Azure Container Registry におけるイメージの公開
+  - Azure Container Instances におけるコンテナイメージの作成と実行
+  
+  
+  ### モジュール6&#58; ユーザー認証と承認の実装
+  受講者は、 認証を管理してリソースへアクセスするために、Microsoft Identity Platform v2.0 を活用する方法を学びます。受講者はまた、 ユーザーを認証して Azure に保存されている情報を取得するために、Microsoft 認証ライブラリと Microsoft Graph を使用する方法について、および Shared Access Signatures を使用する方法と時機についても学びます。
+  #### レッスン
+  - Microsoft Identity Platform v2.0
+  - Microsoft 認証ライブラリを使用した認証
+  - Microsoft Graph の使用
+  - Azure Storage におけるデータ操作の承認
+  
+  
+  ### モジュール 7&#58; セキュア クラウド ソリューションの実装
+  本モジュールでは、アプリケーションがリソースにアクセスするために使用する情報 ( 重要事項、秘密、証明書 ) を保護する方法について説明します。また、アプリケーション構成情報の保護についても説明します。
+  #### レッスン
+  - KeyVault API 使用による重要事項、秘密および認定の管理
+  - Azure リソースの管理対象 ID を実装する
+  - Azure App Configuration 使用によるアプリ構成データの保護
+  
+  
+  ### モジュール 8&#58; API 管理の実装
+  受講者は、 API の公開方法、 API によって共有される情報の管理ポリシーの作成方法、および Azure API Management サービスの使用による API へのアクセスの管理方法について学びます。
+  #### レッスン
+  - API Management の概要
+  - API ポリシーの定義
+  - API の保護
+  
+  
+  ### モジュール 9&#58; Azure App Service Logic App の開発
+  本モジュールでは、 Azure Logic Apps を使用して、企業や組織全体のタスク、ビジネスプロセス、ワークフロー、サービスを計画、自動化、統合する方法について学びます。
+  #### レッスン
+  - Azure Logic Apps の概要
+  - Logic Apps のカスタムコネクターの作成
+  
+  
+  ### モジュール 10&#58; イベント ベースのソリューションを開発する
+  受講者は、イベントベースのアーキテクチャを使用してアプリケーションの構築方法について学びます。
+  #### レッスン
+  - Azure Event Grid を使用するソリューションを実装する
+  - Azure Event Hub を使用するソリューションを実装する
+  - Azure Notification Hubs を使用するソリューションを実装する
+  
+  
+  ### モジュール 11&#58; メッセージ ベースのソリューションを開発する
+  受講者は、メッセージベースのアーキテクチャを使用してアプリケーションの構築方法について学びます。
+  #### レッスン
+  - Azure Service Bus を使用するソリューションを実装する
+  - Azure Queue Storage クエリを使用するソリューションを実装する
+  
+  
+  ### モジュール 12&#58; Azureソリューションの監視および最適化
+  本コースでは、テレメトリ用のコードを使用する方法と、アプリを分析およびトラブルシューティングする方法について学習します。
+  #### レッスン
+  - Azure における監視の概要
+  - モニタリング用アプリの使用
+  - アプリの分析とトラブルシューティング
+  - トランジェント フォールトを制御するコードを実装する
+  
+  
+  ### モジュール 13&#58; ソリューション内でキャッシュとコンテンツ配信を統合する
+  受講者は、アプリのパフォーマンスを向上させるために、さまざまなキャッシュサービスを使用する方法について学びます。
+  #### レッスン
+  - Azure Cache for Redis 用の開発
+  - CDN のストレージ用に開発する

@@ -2,14 +2,16 @@
 title: 'Microsoft Certified: Azure Data Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Engineer Associate'
-  description: Azure Data Engineers は、Azure データ サービスのあらゆる技術の知識を使用してデータの管理、監視、セキュリティ、およびプライバシーを設計および実装し、ビジネス ニーズを満たします。
+  description: 'Azure Data Engineers は、Azure データ サービスのあらゆる技術の知識を使用してデータの管理、監視、セキュリティ、およびプライバシーを設計および実装し、ビジネス ニーズを満たします。'
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Azure Data Engineers は、Azure データ サービスのあらゆる技術の知識を使用してデータの管理、監視、セキュリティ、およびプライバシーを設計および実装し、ビジネス ニーズを満たします。
+summary: |-
+  Azure Data Engineers は、Azure データ サービスのあらゆる技術の知識を使用してデータの管理、監視、セキュリティ、およびプライバシーを設計および実装し、ビジネス ニーズを満たします。
 subTitle: Azure Data Engineers は、Azure データ サービスのあらゆる技術の知識を使用してデータの管理、監視、セキュリティ、およびプライバシーを設計および実装し、ビジネス ニーズを満たします。
 levels:
 - intermediate
 skills:
+- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。」'
 - データ記憶域ソリューションの実装
 - データ処理を管理および開発する
 - データ ソリューションの監視、最適化
@@ -42,28 +44,23 @@ paths:
 - uid: learn.data-ai.data-processing-with-azure-adls
 - uid: learn.data-ai.implement-data-streaming-with-asa
 - uid: learn.data-ai.implement-sql-data-warehouse
-- uid: learn.modern-data-warehouse
-- uid: learn.data-science
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUG
 exams:
 - uid: exam.dp-200
 - uid: exam.dp-201
 resources:
-- title: 認定の学習経路
-  description: 'Microsoft 認定資格のトレーニング リソースを探す: Azure Data Engineer Associate。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
-- title: トレーニングおよび認定ガイド
+- title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oMr2
-- title: 試験リプレイ
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certificate サポート フォーラムのサポートを受ける。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
-- title: 認定ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx

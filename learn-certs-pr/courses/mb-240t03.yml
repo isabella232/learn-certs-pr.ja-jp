@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Dynamics 365 for Field Service のユニバーサル リソース スケジューリング
+title: Universal Resource Scheduling for Dynamics 365 for Field Service
 metadata:
-  title: 'コース MB-240T03-A: Dynamics 365 for Field Service のユニバーサル リソース スケジューリング '
-  description: 'コース MB-240T03-A: Dynamics 365 for Field Service のユニバーサル リソース スケジューリング '
+  title: 'Course MB-240T03-A: Universal Resource Scheduling for Dynamics 365 for Field Service'
+  description: 'Course MB-240T03-A: Universal Resource Scheduling for Dynamics 365 for Field Service'
 uid: course.mb-240t03
 courseNumber: 'MB-240T03-A'
 hoursToComplete: 24
@@ -29,39 +29,40 @@ exams:
 summary: |-
   サービスを実行するためにリソースを必要とする組織は、組織のニーズによって定義された要件に基づいて効率的に特定し、かつスケジュール設定できる必要があります。Dynamics 365 の Universal Resource Scheduling ソリューションは、設定可能なツールセットを提供することによって、組織がこれらのリソースをより効果的に管理およびスケジュールできるようにします。
   
-  このコースでは、受講者が組織のリソースをより効率的に管理するのに利用できるツールを設定して使用するために必要なスキルを習得します。重要なトピックには、どこから開始するかを特定すること、およびリソースのスケジューリングの決定を促進する組織上の考慮事項が含まれます。主な焦点は、スケジュール ボードやスケジュール アシスタントの使用など、リソースの検索とスケジュールに使用できるツールを最大限に活用する方法です。また、スケジュール項目の有効化、スケジュール ボード オプションの定義、複数のスケジュール ボードの操作、コア スケジューリング機能の拡張など、カスタマイズのシナリオについても調べます。
-  
-  このコースは、受講者がリソースをスケジュールする場合に何が重要であるかを深く理解することを支援し、また、顧客と組織の目標に合った効率的なソリューションの設計に役立つ実行考慮事項に焦点を絞ります。
+  このコースでは、受講者が組織のリソースをより効率的に管理するのに利用できるツールを設定して使用するために必要なスキルを習得します。重要なトピックには、どこから開始するかを特定すること、およびリソースのスケジューリングの決定を促進する組織上の考慮事項が含まれます。主な焦点は、スケジュールボードやスケジュールアシスタントの使用など、リソースの検索とスケジュールに使用できるツールを最大限に活用する方法です。また、スケジュール項目の有効化、スケジュールボード オプションの定義、複数のスケジュールボードの操作、コアスケジューリング機能の拡張など、カスタマイズのシナリオについても調べます。     
+
+  このコースは、受講者がリソースをスケジュールする場合に何が重要であるかを深く理解することを支援し、また、顧客と組織の目標に合った効率的なソリューションの設計に役立つ実行考慮事項に焦点を絞ります。 
 prerequisitesSection: |-
   Dynamics 365 の特性、機能、ナビゲーションの基本的な理解。
 outlineSection: |-
-  ### モジュール 1&#58; Universal Resource Scheduling
-  #### レッスン
-  - Universal Resource Scheduling (URS) の概要と構成
+  ### Module 1&#58; Universal Resource Scheduling
+  #### Lessons
+  - Universal Resource Scheduling （URS）の概要と構成
   - URS のエンティティの有効化
   - エンティティのカスタマイゼーションと自動化に関する考慮事項
 
 
-  ### モジュール 2&#58; Managing scheduling options
-  #### レッスン
-  - スケジュール ボードの使用
+  ### Module 2&#58; Managing scheduling options
+  #### Lessons
+  - スケジュールボードの使用
   - スケジュール項目
   - リソースの再スケジューリングと代替
-  - クルーとリソース プールのスケジューリング
+  - クルーとリソースプールのスケジューリング
 
 
-  ### モジュール 3&#58; Customizing the Schedule Board
-  #### レッスン
-  - スケジュール ボードを設定する
+  ### Module 3&#58; Customizing the Schedule Board
+  #### Lessons
+  - スケジュールボードを設定する
   - 追加スケジュールボードを作成する
-  - スケジュール ボードで Dynamics 365 のビューを活用する
-  - スケジュール ボードのクエリとフィルタを構成する
+  - スケジュールボードで Dynamics 365 のビューを活用する
+  - スケジュールボードのクエリとフィルタを構成する
   - 要件グループでの作業
 
 
-  ### モジュール 4&#58; Resource Scheduling Optimization
-  #### レッスン
+  ### Module 4&#58; Resource Scheduling Optimization
+  #### Lessons
   - Resource Scheduling Optimization の概要
   - 最適化目標の定義
   - 最適化スコープの定義
   - 最適化プロフィールの定義
+
