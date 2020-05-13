@@ -6,16 +6,18 @@ metadata:
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
   Azure 管理者は、計算、ストレージ、ネットワーク、セキュリティに関連する主要サービスを含む Microsoft Azure Solutionの実装、監視、メンテナンスを行います。
 subTitle: Azure 管理者は、計算、ストレージ、ネットワーク、セキュリティに関連する主要サービスを含む Microsoft Azure Solutionの実装、監視、メンテナンスを行います。
 levels:
 - intermediate
 skills:
-- Azure サブスクリプションとリソースを管理する
+- Azure アイデンティティおよびガバナンスの管理
 - ストレージの実装および管理する
-- 仮想マシン （VM） のデプロイと管理
+- Azure 計算資源の展開と管理
 - 仮想ネットワークの構成と管理
-- アイデンティティを管理します
+- Azure 資源の監視とバックアップ
 roles:
 - administrator
 type: role-based
@@ -27,7 +29,7 @@ products:
 - azure-virtual-network
 - azure-resource-manager
 courses:
-- uid: course.az-103t00
+- uid: course.az-104t00
 paths:
 - uid: learn.administer-infrastructure-resources-in-azure
 - uid: learn.architect-storage-infrastructure
@@ -42,12 +44,12 @@ paths:
 - uid: learn.administer-containers-in-azure
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF
 exams:
-- uid: exam.az-103
+- uid: exam.az-104
 resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
+- title: 認定資格ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -59,3 +61,4 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

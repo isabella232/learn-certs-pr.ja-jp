@@ -117,7 +117,7 @@ outlineSection: |-
   #### レッスン
   - 条件付きアクセス
   - デバイスのアクセスを管理します
-  - ロールベースのアクセスか管理（RBAC）
+  - Role Based Access Control (RBAC)
   - External Accessのソリューション
 
 
@@ -153,8 +153,8 @@ outlineSection: |-
   - 現在の Microsoft 365 セキュリティ体制のギャップを特定するために、Secure Score の使用方法について説明します。
 
 
-  ### モジュール  5&#58; Advanced Threat Protection
-  本モジュールでは、 Microsoft 365 に利用可能なさまざまな脅威防御テクノロジーおよびサービスについて説明します。  Exchange Online Protection、 Azure Advanced Threat Protection および Windows Defender Advanced Threat Protection によるメッセージ保護について説明します。
+  ### モジュール 5&#58; Advanced Threat Protection
+  本モジュールでは、 Microsoft 365 に利用可能なさまざまな脅威防御テクノロジーおよびサービスについて説明します。Exchange Online Protection、 Azure Advanced Threat Protection および Windows Defender Advanced Threat Protection によるメッセージ保護について説明します。
   #### レッスン
   - Exchange Online Protection
   - Office 365 Advanced Threat Protection
@@ -253,12 +253,12 @@ outlineSection: |-
   - 検証情報権管理
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - Azure AD Connect を説明して使用します。
+  - さまざまなMicrosoft 365暗号化オプションについて説明する。
   - S/MIME の使用について説明する。
   - Office 365 Message Encryption について説明し、有効にします。
 
 
-  #### モジュール 10&#58; データ損失防止
+  #### モジュール 10 &#58; データ損失防止
   本モジュールでは、 Microsoft 365 のデータ損失防止に焦点を当てています。  受講者は、自分のデータを保護するために、ポリシーの作成方法、ルールの編集方法、およびユーザー通知のカスタマイズ方法について学習します。
   #### レッスン
   - 説明済みのデータ損失防止
@@ -358,3 +358,4 @@ outlineSection: |-
   - 監査ログを検索するための基準を入力する。
   - Microsoft 365 の上級 eDiscovery について説明します。
   - 上級 eDiscovery イベントログを表示します。
+

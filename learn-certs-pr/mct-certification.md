@@ -1,6 +1,6 @@
 ---
 title: 'Microsoft 認定トレーナーになる | Microsoft Docs'
-description: 'Microsoft 認定トレーナーになる' 
+description: 'Microsoft 認定トレーナーになる'
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -29,11 +29,11 @@ Microsoft 認定トレーナーとして、パーソナライズされた [ダ�
 
 [MCT で利用できるすべての特典をご覧ください。](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
-## <a name="mctinfoheading-3"></a> 要件
+## 要件
 
 MCT プログラムは、Microsoft テクノロジのトレーニングを提供する世界中のエデュケーターを対象としています。適格な認定を保有しており、Microsoft テクノロジのトレーニングの提供に積極的に取り組むことを希望している場合は、申し込みを検討することをお勧めします。
 
-MCT プログラムの要件の詳細については、このページの [申請プロセス](#mctinfoheading-4) セクションにある MCT プログラム ガイドおよび MCT プログラム契約を確認してください。
+MCT プログラムの要件の詳細については、このページの [申請プロセス](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) セクションにある MCT プログラム ガイドおよび MCT プログラム契約を確認してください。
 
 
 ### MCT プログラムへの登録の要件
@@ -100,15 +100,15 @@ MCT プログラムの要件の詳細については、このページの [申�
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
 - [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate)
 - [Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
-- [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (2020年6月30日廃止予定)、Microsoft Dynamics 365 for Operations (2020年6月30日廃止予定)、SQL 2016 BI Development (2020年6月30日廃止予定)、SQL 2016 Database Administration (2020年6月30日廃止予定)、SQL 2016 Database Development (2020年6月30日廃止予定)、SQL Server 2012/2014 (2020年6月30日廃止予定)、ユニバーサル Windows プラットフォーム (2020年6月30日廃止予定)、Web アプリケーション (2020年6月30日廃止予定)、Windows Server 2012 (2020年6月30日廃止予定)、または Windows Server 2016 (2020年6月30日廃止予定)
-- [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): ビジネス アプリケーション (2020年6月30日廃止予定)、データ管理および分析 (2020年6月30日廃止予定)、Productivity (2020年6月30日廃止予定)、またはコア インフラストラクチャ (2020年6月30日廃止予定)
-- [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): アプリ ビルダー (2020年6月30日廃止予定)
+- [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (2021年1月31日廃止予定)、Microsoft Dynamics 365 for Operations (2021年1月31日廃止予定)、SQL 2016 BI Development (2021年1月31日廃止予定)、SQL 2016 Database Administration (2021年1月31日廃止予定)、SQL 2016 Database Development (2021年1月31日廃止予定)、SQL Server 2012/2014 (2021年1月31日廃止予定)、ユニバーサル Windows プラットフォーム (2021年1月31日廃止予定)、Web アプリケーション (2021年1月31日廃止予定)、Windows Server 2012 (2021年1月31日廃止予定)、または Windows Server 2016 (2021年1月31日廃止予定)
+- [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): ビジネス アプリケーション (2021年1月31日廃止予定)、データ管理および分析 (2021年1月31日廃止予定)、Productivity (2021年1月31日廃止予定)、またはコア インフラストラクチャ (2021年1月31日廃止予定)
+- [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): アプリ ビルダー (2021年1月31日廃止予定)
 - Dynamics CRM Dynamics Technical (2019 年 12 月 31 日廃止) - [Microsoft Dynamicsの資格と認定に関連する要件を理解する](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm)。
 - [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Microsoft Office Specialist: Associate (Office 365 and Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019) または [Microsoft Office Specialist: Expert (Office 365 and Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
  
 **注意** Microsoft 認定資格および MCT プログラムに適格な資格は変更されることがあります。全ての新しいロールベースの認定は、MCT プログラムが一旦リリースされ次第有効となります。廃止された認定につきましては、廃止後最大 6 ヶ月間有効となります。[終了した認定資格の詳細](https://www.microsoft.com/learning/retired-certifications.aspx).
 
-## <a name="mctinfoheading-4"></a> 申請プロセス
+## 申請プロセス
 
 MCT に関心がある場合は、メンバーシップの条件について理解するために MCT プログラム ガイドおよび MCT プログラム契約を確認してください。
 
@@ -186,7 +186,7 @@ MCT Alumni のメンバーになることに関心がある場合は、メンバ
 
 MCT に戻るには:
 
-- このページの [要件](#mctinfoheading-3) セクションで説明されている **MCT プログラムの要件を満たしていることを確認してください** 。現在の Microsoft 認定資格に対するトランスクリプトと、MCT プログラムに適格な資格を有していることを確認します。
+- このページの [要件](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) セクションで説明されている **MCT プログラムの要件を満たしていることを確認してください**。現在の Microsoft 認定資格に対するトランスクリプトと、MCT プログラムに適格な資格を有していることを確認します。
 - **MCT プログラムへの参加を申し込みます。** MCT Alumni は、以前に MCT プログラムに申請したときに取得した指導スキルの認定の証明を提出するか、少なくとも 1 年の指導経験があることを実証する照会状を提出できます。この照会状は、以前の顧客、マネージャー、同僚のいずれかからのものにできます。
 
 ## MCT および MCT Alumni プログラムの料金

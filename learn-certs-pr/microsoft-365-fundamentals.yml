@@ -1,19 +1,22 @@
 ### YamlMime:Certification
-title: Microsoft 365 Certified Fundamentals
+title: 'Microsoft 365 Certified: Fundamentals'
 metadata:
-  title: Microsoft 365 Certified Fundamentals
-  description: Microsoft 365 で利用可能なオプションと、Cloud サービス、Software as a Service (SaaS) Cloud モデル、および Microsoft 365 Cloud サービスの実装の利点を理解していることを証明します。
+  title: 'Microsoft 365 Certified: Fundamentals'
+  description: 'Microsoft 365 で利用可能なオプションと、Cloud サービス、Software as a Service (SaaS) Cloud モデル、および Microsoft 365 Cloud サービスの実装の利点を理解していることを証明します。'
 uid: certification.microsoft-365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: Microsoft 365 で利用可能なオプションと、Cloud サービス、Software as a Service (SaaS) Cloud モデル、および Microsoft 365 Cloud サービスの実装の利点を理解していることを証明します。
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  Microsoft 365 で利用可能なオプションと、Cloud サービス、Software as a Service (SaaS) Cloud モデル、および Microsoft 365 Cloud サービスの実装の利点を理解していることを証明します。
 subTitle: Microsoft 365 で利用可能なオプションと、Cloud サービス、Software as a Service (SaaS) Cloud モデル、および Microsoft 365 Cloud サービスの実装の利点を理解していることを証明します。
 levels:
 - beginner
 skills:
-- Cloudの概念を理解
-- コアMicrosoft 365 サービスと概念の理解
-- Microsoft 365 のセキュリティ、コンプライアンス、プライバシー、と信頼の理解
-- Microsoft 365 価格設定とサポートの理解
+- クラウドの概念について説明する
+- Microsoft 365 の主要なサービスと概念について説明する
+- Microsoft 365 のセキュリティ、コンプライアンス、プライバシー、および信頼のオプションについて説明する
+- Microsoft 365 の価格設定およびサポートのオプションについて説明する
 roles:
 - business-user
 - administrator
@@ -31,20 +34,21 @@ exams:
 - uid: exam.ms-900
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft 認定資格のトレーニング リソースを探す: Fundamentals。'
+  description: 'Microsoft Certified: Fundamentals になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
-- title: トレーニングおよび認定ガイド
+- title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
+- title: 認定資格ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oMr2
-- title: 試験リプレイ
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certificate サポート フォーラムのサポートを受ける。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
-- title: 認定ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

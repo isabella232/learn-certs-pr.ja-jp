@@ -5,16 +5,16 @@ metadata:
   description: Microsoft Dynamics 365 の Solution Architects for Finance and Operations アプリケーションは、信頼できるアドバイザーであり、組織や実装チームのメンバーと相談して、ビジネスニーズを明確かつコスト効率の高いソリューションに絞り込みます。
 uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: >-
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
   Microsoft Dynamics 365 の Solution Architects for Finance and Operations アプリケーションは、信頼できるアドバイザーであり、組織や実装チームのメンバーと相談して、ビジネスニーズを明確かつコスト効率の高いソリューションに絞り込みます。
-
-
-  <div style="color:red"><br/><strong>NOTE&#58; この認定資格は2020年1月27日まで使用できません</strong></div>
 subTitle: Microsoft Dynamics 365 の Solution Architects for Finance and Operations アプリケーションは、信頼できるアドバイザーであり、組織や実装チームのメンバーと相談して、ビジネスニーズを明確かつコスト効率の高いソリューションに絞り込みます。
 levels:
 - advanced
 skills:
-- ソリューション要件を特定
+- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
+- ソリューション要件を特定します
 - ソリューション コンポーネントを設計する
 - ソリューション テストと管理戦略を定義する
 roles:
@@ -22,6 +22,13 @@ roles:
 type: role-based
 products:
 - dynamics
+courses:
+- uid: course.mb-700t00
+paths:
+- uid: learn-dynamics.become-solution-architect
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
+exams:
+- uid: exam.mb-700
 prerequisites:
 - uid: certification.d365-functional-consultant-financials
   isOptional: false
@@ -31,22 +38,20 @@ prerequisites:
   isOptional: false
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   isOptional: false
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
-exams:
-- uid: exam.mb-700
 resources:
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定資格ポスター
-  description: 基礎、ロールベースおよび専門認定資格の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oMr2
-- title: 試験リプレイ
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

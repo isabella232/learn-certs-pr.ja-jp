@@ -2,19 +2,21 @@
 title: 'Microsoft Certified: Dynamics 365 Fundamentals'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals'
-  description: 'Microsoft Dynamics 365 、人工知能( AI )、複合現実( MR )、 Power Platform 、クラウドの概念、クラウドのセキュリティ、 Dynamics 365 のセキュリティ、 Common Data Service 、 Dynamics 365 のレポート、 Dynamics 365 の統合、クラウドの展開について理解していることを証明してください。'
+  description: 'Microsoft Dynamics 365 、人工知能（ AI ）、複合現実（ MR ）、 Power Platform 、クラウドの概念、クラウドのセキュリティ、 Dynamics 365 のセキュリティ、 Common Data Service 、 Dynamics 365 のレポート、 Dynamics 365 の統合、クラウドの展開について理解していることを証明してください。'
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  Microsoft Dynamics 365 、人工知能(AI)、複合現実(MR)、 Power Platform 、クラウドの概念、クラウドのセキュリティ、 Dynamics 365 のセキュリティ、 Common Data Service、 Dynamics 365 のレポート、 Dynamics 365 の統合、クラウドの導入について理解していることを証明します。
-subTitle: 'Microsoft Dynamics 365 、人工知能( AI )、複合現実( MR )、 Power Platform 、クラウドの概念、クラウドのセキュリティ、 Dynamics 365 のセキュリティ、 Common Data Service 、 Dynamics 365 のレポート、 Dynamics 365 の統合、クラウドの展開について理解していることを証明してください。'
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  Microsoft Dynamics 365 、人工知能（ AI ）、複合現実（ MR ）、 Power Platform 、クラウドの概念、クラウドのセキュリティ、 Dynamics 365 のセキュリティ、 Common Data Service 、 Dynamics 365 のレポート、 Dynamics 365 の統合、クラウドの展開について理解していることを証明してください。
+subTitle: 'Microsoft Dynamics 365 、人工知能（ AI ）、複合現実（ MR ）、 Power Platform 、クラウドの概念、クラウドのセキュリティ、 Dynamics 365 のセキュリティ、 Common Data Service 、 Dynamics 365 のレポート、 Dynamics 365 の統合、クラウドの展開について理解していることを証明してください。'
 levels:
 - beginner
 skills:
 - Dynamics 365 の Microsoft プラットフォームコンポーネントを特定します
-- AI と Dynamics 365 のと複合現実について理解します
-- モデル主導型アプリを理解します
-- Dynamics 365 Finance および Operations アプリについて理解します
+- Dynamics 365 における人工知能と複合現実について説明する
+- モデル主導型アプリケーションについて説明する
+- Finance and Operations アプリについて説明する
 roles:
 - functional-consultant
 type: fundamentals
@@ -28,13 +30,13 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj
 exams:
 - uid: exam.mb-901
 resources:
-- title: 認定資格の学習経路
+- title: 認定の学習経路
   description: 'Microsoft Certified: Dynamics 365 Fundamentals になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
+- title: 認定資格ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -43,6 +45,7 @@ resources:
 - title: 資格のサポート
   description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
-- title: 認定ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+
