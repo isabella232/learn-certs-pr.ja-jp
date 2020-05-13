@@ -11,11 +11,13 @@ ms.author: micsullivan
 ---
 # Microsoft トレーニングおよび資格のヘルプ
 
+<div style='color: red;'><strong><font color="red"><br/>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>詳細について学びます</a>。</font></strong><br/><br/></div>
+
 Microsoft のトレーニングと認定の製品についてご質問がありますか？[Microsoft Learn](/learn/certifications/) にアクセスすると、Microsoft トレーニング、認定、試験、Microsoft 公認コース (MOC) などに関するほとんどの質問への回答が見つかります。
 
 ご不明点はありますか？以下のサポート オプションをご確認ください。
 
-認定とトレーニングのサポートを求めるお客様への対応は、経験上予想以上に時間がかかることにご注意ください。すべてのお問い合わせにできる限り迅速に対応できるように、ご協力をお願いいたします。
+***認定とトレーニングのサポートを求めるお客様への対応は、経験上予想以上に時間がかかることにご注意ください。すべてのお問い合わせにできる限り迅速に対応できるように、ご協力をお願いいたします。***
 
 ## 認定資格のヘルプ
 
@@ -26,4 +28,4 @@ Microsoft のトレーニングと認定の製品についてご質問があり�
 
 ## トレーニングのヘルプ
 
-Microsoft Official Courseware (MOC) のサポートについては、 [ ここをクリック ](https://docs.microsoft.com/learn/certifications/certification-and-training-help) 。 
+Microsoft Official Courseware (MOC) のサポートについては、 [ ここをクリック ](https://docs.microsoft.com/learn/certifications/certification-and-training-help) 。

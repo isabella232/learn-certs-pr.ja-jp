@@ -5,7 +5,20 @@ metadata:
   description: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 uid: course.mb-700t00
 courseNumber: 'MB-700T00-A'
-hoursToComplete: 120
+hoursToComplete: 72
+skillsGained:
+- skill: ソリューション アーキテクトのロールに関するスキル領域を定義する
+- skill: Microsoft が推奨するインスタンスと展開モデルについて説明する
+- skill: クラウド ソリューション、CDM、CDS について理解する
+- skill: ライセンシング、AppSource、Support for Dynamics 365 に関する詳細情報を取得する
+- skill: ライフサイクル サービスをソリューション アーキテクトとして使用する
+- skill: Dynamics 365 ソリューションの詳細計画に関する考慮事項について把握する
+- skill: データ管理に使用される概念とツールについて理解する
+- skill: ソリューションに関する統合オプションとビジネス イベントについて説明する
+- skill: ソリューションのローカリゼーション、コンプライアンス、レポートに関する利用可能なオプションを把握する
+- skill: 拡張性、セキュリティ、パフォーマンスに関するアーキテクチャ上の対話を行う
+- skill: ALM アプリケーションのライフサイクル管理とは何かを理解する
+- skill: RSAT を自動テストして使用する機会を特定する
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -18,4 +31,44 @@ products:
 - dynamics
 exams:
 - uid: exam.mb-700
-summary: ""
+summary: |-
+  本コースは、ソリューション アーキテクトのロールを目指す初心者のために開発されました。本コースでは、このロールへの移行を始めるあたって、アプリケーション アーキテクチャと技術スキルに焦点を当てた技術情報を提供します。本コースでは、このロールに必要な産業スキルとデリバリー スキルについては説明しません。
+
+  #### 聴衆プロファイル
+
+  本コースの受講者は、Dynamics 365&#58; Finance and Operations Applications の機能的または技術的なフォーカスに関する事前的経験を有している必要があります。主に、ソリューション アーキテクトのロールを目指す初心者を対象としています。 
+prerequisitesSection: |-
+  ソリューション アーキテクト向けのソリューション アーキテクト学習パスを記入する必要があります。[こちら](https&#58;//docs.microsoft.com/learn/browse/?roles=solution-architect&products=dynamics-finance-operations)
+outlineSection: |-
+  ### モジュール 1&#58; はじめに
+
+  ### Module 2&#58; アーキテクトのロール
+
+  ### Module 3&#58; 環境、インスタンス、展開モデル
+
+  ### Module 4&#58; クラウド ソリューション、CDM、CDS
+
+  ### Module 5&#58; ライセンシング、AppSource、サポート
+
+  ### Module 6&#58; ライフサイクル サービス 
+
+  ### Module 7&#58; Dynamics 365 ソリューションの詳細設計
+
+  ### Module 8&#58; データ管理
+
+  ### Module 9&#58; 統合およびビジネス イベント
+
+  ### Module 10&#58; ローカリゼーション、コンプライアンス、レポーティング
+
+  ### Module 11&#58; 拡張性
+
+  ### Module 12&#58; セキュリティ
+
+  ### Module 13&#58; パフォーマンス
+
+  ### Module 14&#58; アプリケーション ライフサイクル管理 
+
+  ### Module 15&#58; 自動テストと RSAT
+
+  ### Module 16&#58; アーキテクトのための追加エリア
+

@@ -6,13 +6,16 @@ metadata:
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
-  <div style='color&#58; red;'>この試験は 2020 年 6 月 30 日に廃止されます。代替試験を受けることができます。詳細については、弊社のブログ&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> そして試験の廃止に関する投稿を確認ください。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます<br/></></div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>この認定資格は 2021 年 1 月 31 日に廃止されます。その日以降、この認定資格を取得することはできなくなります。終了日前に取得した認定資格は、今後も <a href='https://www.microsoft.com/learning/dashboard.aspx'>認定資格ダッシュボード</a>におけるトランスクリプトに表示されます。<a href='/learn/certifications/retired-certifications'>停止されたすべての認定資格を閲覧する</a>こともできます。</strong><br/><br/></div>
+  </div>
+
   この認定資格は、企業をクラウドに移行させ、ユーザーの生産性と柔軟性を高め、データ損失を減らし、組織のデータセキュリティを向上させるために必要なスキルを持っていることを検証します。この認定は、[Microsoft 365 認定エンタープライズ管理エキスパート](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx) になるための要件の 1 つを満たすために使用できます。
-  
+
   MCSE 生産性 Solutions Expert になるには、次の要件を完了してください&#58;
   - 前提条件の認定を1つ獲得する
-    - 前提条件オプション 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.asp
+    - 前提条件オプション 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
     - 前提条件オプション 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
   - 選択のいずれかの試験に合格する
     - [70-333&#58; Deploying Enterprise Voice with Skype for Business 2015](/learn/certifications/exams/70-333)
@@ -23,7 +26,7 @@ subTitle: この認定資格は、企業をクラウドに移行させ、ユー�
 levels:
 - advanced
 skills:
-- none
+- なし
 roles:
 - administrator
 type: role-based
@@ -44,7 +47,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
+- title: 認定資格ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -53,6 +56,7 @@ resources:
 - title: 資格のサポート
   description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
-- title: 認定ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+
