@@ -6,8 +6,13 @@ metadata:
 uid: exam.mb-901
 displayName: MB-901
 summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>-この試験の内容は、年 4 月 17 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
+  </div>
+
   この試験では、 Dynamics 365 を採用することの位置付けと利点について説明します。
-  
+
   受験者は、 Dynamics 365 および Microsoft クラウドコンピューティングを機能的に理解している必要があります。
 
   この試験の受験生には、情報技術 (IT) 環境の一般的な知識または関連する実務経験が必要です。また、受験生は、ビジネス シナリオについての基本的理解、および IT プロジェクトにおけるビジネス、法律、およびセキュリティの要件に対応した経験があることも必要です。
@@ -17,20 +22,21 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1D
 locales:
 - en
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
-- Dynamics 365 の Microsoft プラットフォームコンポーネントを特定します(30 -35%)
-- AI と Dynamics 365 の複合現実について理解します(10 -15%)
-- モデル主導型アプリを理解します(25 -30%)
-- Dynamics 365 Finance および Operations apps について理解します(25 -30%)
+- この試験の内容は、年 4 月 17 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。
+- Dynamics 365 の Microsoft プラットフォームコンポーネントを特定します(30-35%)
+- Dynamics 365 における人工知能と複合現実について説明する (10-15%)
+- モデル主導型アプリについて説明する (25-30%)
+- Finance and Operations アプリについて説明する (25-30%)
 roles:
 - functional-consultant
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-901t00
@@ -46,7 +52,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
+- title: 認定資格ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: 資格試験のサポート
@@ -55,9 +61,10 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊をリクエストする
+- title: 宿泊施設をリクエスするト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

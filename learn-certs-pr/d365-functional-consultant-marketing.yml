@@ -2,28 +2,31 @@
 title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
-  description: Microsoft Dynamics 365 Marketing Functional Consultantsは、リードを集めて変換し、ブランド認知度を高め、オムニチャネル メッセージングを標準化し、マーケティングの洞察を提供するソリューションを実装します。
+  description: 'Microsoft Dynamics 365 Marketing Functional Consultantsは、リードを集めて変換し、ブランド認知度を高め、オムニチャネル メッセージングを標準化し、マーケティングの洞察を提供するソリューションを実装します。'
 uid: certification.d365-functional-consultant-marketing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Microsoft Dynamics 365 Marketing Functional Consultantsは、リードを集めて変換し、ブランド認知度を高め、オムニチャネル メッセージングを標準化し、マーケティングの洞察を提供するソリューションを実装します。
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'> 詳細について学びます</a>。</strong><br/><br/></div>
+
+  Microsoft Dynamics 365 Marketing Functional Consultantsは、リードを集めて変換し、ブランド認知度を高め、オムニチャネル メッセージングを標準化し、マーケティングの洞察を提供するソリューションを実装します。
 subTitle: Microsoft Dynamics 365 Marketing Functional Consultantsは、リードを集めて変換し、ブランド認知度を高め、オムニチャネル メッセージングを標準化し、マーケティングの洞察を提供するソリューションを実装します。
 levels:
 - intermediate
 skills:
-- 発見、計画、と分析を実行する
+- 発見、計画、および分析を実行する
 - ユーザー エクスペリエンスデザインを管理する
-- エンティティとデータを管理する
+- エンティティおよびデータを管理する
 - セキュリティの実装
 - 統合を実装する
-- ソリューションの展開とテストを実行する
+- ソリューションの展開およびテストを実行する
 - マーケティングアプリケーションの構成
 - セグメントとリストを管理する
-- マーケティング フォームとページの作成と管理
-- 潜在顧客の管理
-- マーケティング メールを作成と管理する
-- 顧客導入の管理
+- マーケティング フォームおよびページの作成と管理
+- リードを管理する
+- マーケティング Eメールを作成および管理する
+- カスタマー ジャーニーを管理する
 - イベントとウェビナーを管理する
-- 顧客の応答を構成と分析する
+- 顧客の応答を構成および分析する
 roles:
 - functional-consultant
 type: role-based
@@ -48,20 +51,21 @@ exams:
 - uid: exam.mb-220
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft 認定資格のトレーニングリソースを探す: Dynamics 365 Marketing Functional Consultant Associate。'
+  description: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate になるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I7b
-- title: トレーニングおよび認定ガイド
+- title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
+- title: 認定資格ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oMr2
-- title: 試験リプレイ
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certificate サポート フォーラムのサポートを受ける。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
-- title: 認定ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

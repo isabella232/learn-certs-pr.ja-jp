@@ -6,8 +6,11 @@ metadata:
 uid: exam.70-339
 displayName: 70-339
 summary: |-
-  <div style='color&#58; red;'>この試験は 2020 年 6 月 30 日に廃止されます。代替試験を受けることができます。詳細については、弊社のブログ&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> そして試験の廃止に関する投稿を確認ください。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます<br/></></div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
   この試験は、データセンターおよびクラウドで SharePoint 2016 のインストール、構成、展開、および管理を行う経験豊富な IT プロフェッショナルを対象としています。受験者として対象となるのは通常、SharePoint および SharePoint が依存するその他のコア テクノロジ (Windows Server 2008 R2 以降、インターネット インフォメーション サービス (IIS)、Microsoft SQL Server 2008 R2 以降、Active Directory、ネットワーク インフラストラクチャ サービスなど) の計画と管理について 4 年を超える経験のある方です。
 
   また受験者には、認証およびセキュリティのテクノロジに関する経験に加えて、データ バックアップ、復元、高可用性を含むビジネス継続性管理の経験が必要です。PowerShellの経験が強く推奨されます。
@@ -27,7 +30,7 @@ locales:
 - de
 - ja
 - pt-br
-levels: 
+levels:
 - intermediate
 skills:
 - '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
@@ -36,8 +39,10 @@ skills:
 - ワークロード最適化の計画 (15-20%)
 - 生産性ソリューションの計画(15-20%)
 - 検索機能の管理 (10-15%)
-- クラウド サービス (5–10%) の計画と構成 (5–10%)
+- クラウド サービス (5–10%) 
+- の計画と構成 (5–10%)
 - SharePoint 環境の監視と最適化 (10-15%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:
@@ -52,12 +57,13 @@ resources:
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
-- title: 認定ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 特別な設備のリクエスト
-  description: 試験に特別な設備をリクエストする場合の詳細をご覧ください。
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
-  description: 試験ポリシーとよく寄せられる質問を確認してください。
+  description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

@@ -5,9 +5,10 @@ metadata:
   description: Microsoft Teams Administrators は、企業環境における効率的で効果的なコラボレーションとコミュニケーションに重点を置いた Microsoft Teams 向けに Office 365 ワークロードを構成、展開、および管理します。
 uid: certification.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: >-
-  Microsoft Teams Administrators は、企業環境における効率的で効果的なコラボレーションとコミュニケーションに重点を置いた Microsoft Teams 向けに Office 365 ワークロードを構成、展開、および管理します。
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
 
+  Microsoft Teams Administrators は、企業環境における効率的で効果的なコラボレーションとコミュニケーションに重点を置いた Microsoft Teams 向けに Office 365 ワークロードを構成、展開、および管理します。
 
   Microsoft Teams Administratorsは、チャット、アプリ、チャネル、会議、オーディオ会議、ライブイベント、通話を含む Teams を計画、展開、管理できる必要があります。
 subTitle: Microsoft Teams Administrators は、企業環境における効率的で効果的なコラボレーションとコミュニケーションに重点を置いた Microsoft Teams 向けに Office 365 ワークロードを構成、展開、および管理します。
@@ -22,6 +23,7 @@ roles:
 type: role-based
 products:
 - m365
+- office-teams
 courses:
 - uid: course.ms-700t00
 paths:
@@ -31,21 +33,22 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nn
 exams:
 - uid: exam.ms-700
 resources:
-- title: 認定資格の学習経路
-  description: 'Microsoft 認定資格のトレーニングリソースを探す: Teams Administrator Associate.'
+- title: 認定の学習経路
+  description: 'Microsoft Certified: Teams Administrator Associateになるための教材を探しましょう。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定資格ポスター
-  description: 基礎、ロールベースおよび専門認定資格の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oMr2
-- title: 試験リプレイ
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
   href: help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

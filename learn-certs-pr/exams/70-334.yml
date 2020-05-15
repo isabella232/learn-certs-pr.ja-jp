@@ -6,8 +6,11 @@ metadata:
 uid: exam.70-334
 displayName: 70-334
 summary: |-
-  <div style='color&#58; red;'>この試験は 2020 年 6 月 30 日に廃止されます。代替試験を受けることができます。詳細については、弊社のブログ&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> そして試験の廃止に関する投稿を確認ください。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます<br/></></div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
   この試験の受験者は、統合コミュニケーション (UC) 向けソリューションの設計、計画、展開、保守を行っている IT コンサルタントおよび通信コンサルティング プロフェッショナルを対象としています。受験者は、UC ソリューションに関するビジネス上の要件を技術的なアーキテクチャと設計に変換できることが求められます。受験者は、Skype for Business テクノロジの使用経験が 2 年以上あり、サポートされている移行シナリオに精通している必要があります。受験者は、エンド ユーザー、エンドポイント デバイス、テレフォニー、音声/ビデオ会議と Web 会議、セキュリティ、および高可用性に関する Skype for Business ソリューションの展開に習熟している必要があります。また、受験者は Microsoft のツールを使用した Skype for Business の監視およびトラブルシューティングの方法を把握している必要があります。さらに、受験者は Active Directory ドメイン サービス、データ ネットワーク、Skype for Business の構成をサポートする通信規格とコンポーネントに習熟している必要があります。受験者は、Skype for Business と Microsoft Exchange Server および Office 365 の統合に関する要件に精通している必要があります。
 subTitle: この試験の受験者は、統合コミュニケーション (UC) 向けソリューションの設計、計画、展開、保守を行っている IT コンサルタントおよび通信コンサルティング プロフェッショナルを対象としています。受験者は、UC ソリューションに関するビジネス上の要件を技術的なアーキテクチャと設計に変換できることが求められます。受験者は、Skype for Business テクノロジの使用経験が 2 年以上あり、サポートされている移行シナリオに精通している必要があります。受験者は、エンド ユーザー、エンドポイント デバイス、テレフォニー、音声/ビデオ会議と Web 会議、セキュリティ、および高可用性に関する Skype for Business ソリューションの展開に習熟している必要があります。また、受験者は Microsoft のツールを使用した Skype for Business の監視およびトラブルシューティングの方法を把握している必要があります。さらに、受験者は Active Directory ドメイン サービス、データ ネットワーク、Skype for Business の構成をサポートする通信規格とコンポーネントに習熟している必要があります。受験者は、Skype for Business と Microsoft Exchange Server および Office 365 の統合に関する要件に精通している必要があります。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -17,13 +20,14 @@ scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=3
 locales:
 - en
 - ja
-levels: 
+levels:
 - advanced
 skills:
 - '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
 - Skype for Business の計画と設計 (35-40%)
 - Skype for Business の展開と構成 (30-35%)
 - Skype for Business の管理とトラブルシューティング (30-35%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:
@@ -38,11 +42,12 @@ resources:
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 認定資格ダッシュボード
-  description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 特別な設備のリクエスト
-  description: 試験に特別な設備をリクエストする場合の詳細をご覧ください。
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 試験のポリシーと FAQ
-  description: 試験ポリシーとよく寄せられる質問を確認してください。
+  description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
+

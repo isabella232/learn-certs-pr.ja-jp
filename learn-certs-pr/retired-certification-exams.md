@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 今後 12 か月で終了が予定されている試験をテクノロジ別に一覧表示で探索しましょう。(次の情報は変更される可能性があります。)
 
-| 2020 年 6 月 30 日廃止 | |
+| 2021 年 1 月 31 日廃止 | |
 |--- |--- |
 | [70-333](https://www.microsoft.com/learning/exam-70-333.aspx): Deploying Enterprise Voice with Skype for Business 2015 |  |
 | [70-334](https://www.microsoft.com/learning/exam-70-334.aspx): Core Solutions of Microsoft Skype for Business 2015 |  |
@@ -37,7 +37,7 @@ ms.author: micsullivan
 | [70-483](https://www.microsoft.com/learning/exam-70-483.aspx): Programming in C# |  |
 | [70-486](https://www.microsoft.com/learning/exam-70-486.aspx): Developing ASP.NET MVC Web Applications |  |
 | [70-487](https://www.microsoft.com/learning/exam-70-487.aspx): Developing Microsoft Azure and Web Services |  |
-| [70-537](https://www.microsoft.com/learning/exam-70-537.aspx): Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack |  |
+| [70-537](https://www.microsoft.com/learning/exam-70-537.aspx): Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub |  |
 | [70-705](https://www.microsoft.com/learning/exam-70-705.aspx): Designing and Providing Microsoft Licensing Solutions to Large Organizations |  |
 | [70-740](https://www.microsoft.com/learning/exam-70-740.aspx): Installation, Storage, and Compute with Windows Server 2016 |  |
 | [70-741](https://www.microsoft.com/learning/exam-70-741.aspx): Networking with Windows Server 2016 |  |
@@ -58,11 +58,20 @@ ms.author: micsullivan
 | [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance |  |
 | [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
 | [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
-| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
 
-| Retiring on 2020 5 月 31 日 | |
-|--- |--- |
+| 2020 年 9 月 30 日廃止 | |
+| --- | --- |
+| [AZ-300](https://www.microsoft.com/learning/exam-AZ-300.aspx): Microsoft Azure Architect Technologies |  |
+| [AZ-301](https://www.microsoft.com/learning/exam-AZ-301.aspx): Microsoft Azure Architect Design |  |
+
+| 2020 年 8 月 31 日廃止 | |
+| --- | --- |
+| [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
+
+| 2020 年 6 月 30 日廃止 | |
+|--- |--- |
+| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
 
 ## 最近終了した試験
 
@@ -124,9 +133,9 @@ ms.author: micsullivan
 
 | Microsoft Dynamics | | |
 |--- |--- |--- |
-| [MB-900](https://www.microsoft.com/learning/exam-MB-900.aspx) | Microsoft Dynamics 365 Fundamentals | 2015 年 12 月 31 日
+| [MB-900](https://www.microsoft.com/learning/exam-MB-900.aspx) | Microsoft Dynamics 365 Fundamentals | 2019 年 12 月 31 日
 | [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx) | Microsoft Dynamics CRM Online Deployment | 2019 年 12 月 31 日
-| [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx) | Microsoft Dynamics CRM Customization and Configuration | 2016 年 12 月 31 日
+| [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx) | Microsoft Dynamics CRM Customization and Configuration | 2019 年 12 月 31 日
 | [MB2-708](https://www.microsoft.com/learning/exam-MB2-708.aspx) | Microsoft Dynamics CRM Installation | 2019 年 7 月 31 日
 | MB2-709 | Microsoft Dynamics Marketing | 2017 年 12 月 31 日
 | [MB2-710](https://www.microsoft.com/learning/exam-MB2-710.aspx) | Microsoft Dynamics CRM 2016 Online Deployment | 2019 年 12 月 31 日
@@ -315,7 +324,7 @@ ms.author: micsullivan
 | 70-580 | TS: Windows Mobile 6.5, Application Development | 2011 年 12 月 31 日
 | 70-582 | TS: Windows Embedded Standard 7 for Developers | 2014 年 7 月 31 日
 | 70-583 | PRO: Designing and Developing Microsoft Azure Applications | 2014 年 7 月 31 日
-| 70-595 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2010 | 2011 年 6 月 30 日
+| 70-595 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2010 | 2015 年 7 月 31 日
 | 70-599 | Pro: Designing and Developing Windows Phone Applications | 2014 年 9 月 30 日
 | 70-620 | TS: Configuring Microsoft Windows Vista Client | 2013 年 7 月 31 日
 | 70-621 | PRO: Upgrading Your MCDST Certification to MCITP Enterprise Support | 2011 年 3 月 31 日
@@ -378,7 +387,7 @@ ms.author: micsullivan
 | 74-133 | Customizing Portal Solutions with Microsoft SharePoint Products and Technologies | 2010 年 10 月 31 日
 | 74-134 | Pre-Installing Microsoft Products and Technologies | 2010 年 10 月 31 日
 | 74-135 | Developing E-Business Solutions Using Microsoft BizTalk Server 2004 | 2010 年 10 月 31 日
-CH-137 | Developing Microsoft Office Solutions Using XML with Office Professional Edition 2003 | 2010 年 10 月 31 日
+| 74-137 | Developing Microsoft Office Solutions Using XML with Office Professional Edition 2003 | 2010 年 10 月 31 日
 | 74-138 | Planning and Building a Messaging and Collaboration Environment using Microsoft Office System and Microsoft Windows Server 2003 | 2010 年 10 月 31 日
 | 74-139 | Deploying Business Desktops with Microsoft Windows Server 2003 and Microsoft Office 2003 | 2010 年 10 月 31 日
 | 74-322 | Microsoft Lync Server 2010—Advanced Design and Deployment | 2015 年 7 月 31 日
@@ -392,7 +401,7 @@ CH-137 | Developing Microsoft Office Solutions Using XML with Office Professiona
 | 74-674 | Delivering Business Value Planning Services | 2015 年 7 月 31 日
 | 74-675 | Microsoft Response Point, Configuring | 2011 年 6 月 30 日
 | 74-676 | TS: Fast Enterprise Search Platform, Developing | 2012 年 7 月 31 日
-| 74-678 | Designing and Providing Microsoft Volume Licensing Solutions to Large Organizations | 2015 年 1 月 31 日
+| 74-678 | Designing and Providing Microsoft Volume Licensing Solutions to Large Organizations | 2017 年 1 月 31 日
 | 74-679 | Windows Server 2008 Hosted Environments, Configuring and Managing | 2013 年 7 月 31 日
 | 74-697 | OEM Preinstallation | 2016 年 1 月 31 日
 | 74-924 | Microsoft Office Communications Server 2007 R2 – U.C.Voice Specialization | 2010 年 10 月 31 日
@@ -436,8 +445,8 @@ CH-137 | Developing Microsoft Office Solutions Using XML with Office Professiona
 | MB2-720 | Functional Application in Microsoft Dynamics Marketing | 2015 年 7 月 1 日
 | MB2-866 | Microsoft Dynamics CRM 2011 Customization and Configuration | 2016 年 1 月 31 日
 | MB2-867 | Microsoft Dynamics CRM 2011 Installation and Deployment | 2016 年 1 月 31 日
-| MB2-868 | Microsoft Dynamics CRM 2011 Applications | 2016 年 12 月 31 日
-| MB2-876 | Extending Microsoft Dynamics CRM 2011 | 2016 年 12 月 31 日
+| MB2-868 | Microsoft Dynamics CRM 2011 Applications | 2016 年 1 月 31 日
+| MB2-876 | Extending Microsoft Dynamics CRM 2011 | 2016 年 1 月 31 日
 | MB3-408 | Microsoft Dynamics GP 9.0 Inventory and Order Processing | 2011 年 1 月 11 日
 | MB3-409 | Microsoft Dynamics GP 9.0 Financials | 2011 年 1 月 11 日
 | MB3-412 | Microsoft Dynamics GP 9.0 Installation and Configuration | 2011 年 1 月 11 日
@@ -455,14 +464,14 @@ CH-137 | Developing Microsoft Office Solutions Using XML with Office Professiona
 | MB3-533 | GP 10.0 Human Resources with Payroll | 2013 年 12 月 31 日
 | MB3-637 | GP 10.0 Manufacturing Applications | 2013 年 12 月 31 日
 | MB3-700 | Microsoft Dynamics GP 2013 Installation & Configuration | 2015 年 7 月 31 日
-| MB3-701 | Microsoft Dynamics GP 2013 Financials | 2011 年 1 月 11 日
-| MB3-859 | Microsoft Dynamics GP 2010 Financials | 2011 年 1 月 11 日
-| MB3-860 | Microsoft Dynamics GP 2010 Project Series | 2011 年 1 月 11 日
-| MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | 2011 年 1 月 11 日
-| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 2011 年 1 月 11 日
+| MB3-701 | Microsoft Dynamics GP 2013 Financials | 2015 年 7 月 31 日
+| MB3-859 | Microsoft Dynamics GP 2010 Financials | 2014 年 12 月 31 日
+| MB3-860 | Microsoft Dynamics GP 2010 Project Series | 2014 年 12 月 31 日
+| MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | 2014 年 12 月 31 日
+| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 2014 年 12 月 31 日
 | MB4-348 | SL 6.5 Financials | 2011 年 3 月 31 日
 | MB4-349 | SL 6.5 Installation & Configuration | 2011 年 3 月 31 日
-| MB4-534 | SL 7.0 Installation & Configuration | 2011 年 3 月 31 日
+| MB4-534 | SL 7.0 Installation & Configuration | 2013 年 12 月 31 日
 | MB4-535 | SL 7.0 Financials | 2013 年 12 月 31 日
 | MB4-536 | SL 7.0 Project Series | 2013 年 12 月 31 日
 | MB4-640 | SL 7.0 Customization Manager | 2013 年 12 月 31 日
