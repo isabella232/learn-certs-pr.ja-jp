@@ -41,13 +41,11 @@ outlineSection: |-
   - Azure Active Directory
   - ユーザーとグループ
 
-
   #### Lab &#58; Azure Active Directory Identity の管理
 
   学生はこのモジュールの完了後、次のことができるようになります。
   - Azure Active Directory を使用して ID を保護および管理する。
   - ユーザーとグループを実装して管理する。
-
 
   ### Module 2&#58; ガバナンスとコンプライアンス
   本モジュールでは、サブスクリプションとアカウントの管理、Azure ポリシーの実装、ロールベースの Access Control の使用について学習します。
@@ -56,7 +54,6 @@ outlineSection: |-
   - サブスクリプションとアカウント
   - Azure Policy
   - Role-based Access Control (RBAC)
-
 
   #### Lab &#58; サブスクリプションと RBAC の管理
 
@@ -67,7 +64,6 @@ outlineSection: |-
   - カスタム ポリシーを含む Azure Policy を実装する。
   - RBAC を使用して承認を決定する。
 
-
   ### Module 3&#58; Azure 管理
   本モジュールでは、Azure 管理者がインフラストラクチャの管理に使用するツールについて学習します。これには、Azure Portal、Cloud Shell、Azure PowerShell、CLI 、および Resource Manager テンプレートが含まれます。本モジュールの内容は次のとおりです。
   #### レッスン
@@ -75,7 +71,6 @@ outlineSection: |-
   - Azure Portal および Cloud Shell
   - Azure PowerShell および CLI
   - ARM テンプレート
-
 
   #### Lab &#58; Azure Portal の使用による Azure リソースの管理
 
@@ -91,7 +86,6 @@ outlineSection: |-
   - Azure PowerShell および CLI を使用する。
   - リソースの展開に ARM テンプレートを使用する。
 
-
   ### Module 4&#58; 仮想ネットワーキング
   本モジュールでは、仮想ネットワークとサブネット化、IP アドレッシング、ネットワーク セキュリティ グループ、Azure Firewall、Azure DNS などの基本的な仮想ネットワーキングの概念について学習します。
   #### レッスン
@@ -100,7 +94,6 @@ outlineSection: |-
   - ネットワーク セキュリティ グループ
   - Azure Firewall
   - Azure DNS
-
 
   #### Lab &#58; 仮想ネットワーキングの実装
 
@@ -118,7 +111,6 @@ outlineSection: |-
   - VPN ゲートウェイ接続
   - ExpressRoute および仮想 WAN
 
-
   #### Lab &#58; インターサイト接続の実装
 
   学生はこのモジュールの完了後、次のことができるようになります。
@@ -134,7 +126,6 @@ outlineSection: |-
   - Azure Load Balancer
   - Azure Application Gateway
   - Traffic Manager
-
 
   #### Lab &#58; トラフィック管理の実装
 
@@ -154,7 +145,6 @@ outlineSection: |-
   - Azure Files および File Sync
   - ストレージの管理
 
-
   #### Lab &#58; Azure ストレージ の管理
 
   学生はこのモジュールの完了後、次のことができるようになります。
@@ -173,7 +163,6 @@ outlineSection: |-
   - 仮想マシンの可用性
   - 仮想マシンの拡張性
 
-
   #### Lab &#58; 仮想マシンの管理
 
   学生はこのモジュールの完了後、次のことができるようになります。
@@ -190,7 +179,6 @@ outlineSection: |-
   - Azure App Service
   - Container Services
   - Azure Kubernetes Service
-
 
   #### Lab &#58; Web アプリの実装
 
@@ -210,7 +198,6 @@ outlineSection: |-
   - ファイルとフォルダのバックアップ
   - 仮想マシンのバックアップ
 
-
   #### Lab &#58; データ保護の実装
 
   学生はこのモジュールの完了後、次のことができるようになります。
@@ -225,7 +212,6 @@ outlineSection: |-
   - Azure Alerts
   - Log Analytics
   - Network Watcher
-
 
   #### Lab &#58; 監視の実装
 
