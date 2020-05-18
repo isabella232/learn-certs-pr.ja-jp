@@ -206,7 +206,7 @@ outlineSection: |-
   - Mobile Device Management にデバイスを登録する
 
 
-  #### ラボ&#58;  Intune のための Azure AD の構成する
+  #### ラボ&#58; Intune のための Azure AD の構成する
   - デバイス管理を有効にする
   - Intune のための Azure AD の構成する
   - Intune ポリシーの作成
@@ -248,7 +248,7 @@ outlineSection: |-
   - Office 365 メッセージ暗号化
 
 
-  #### ラボ &#58;  Office 365 Message Encryption を構成する
+  #### ラボ &#58; Office 365 Message Encryption を構成する
   - Office 365 Message Encryption を構成する
   - 検証情報権管理
 
@@ -258,7 +258,7 @@ outlineSection: |-
   - Office 365 Message Encryption について説明し、有効にします。
 
 
-  #### モジュール 10 &#58; データ損失防止
+  #### モジュール 10&#58; データ損失防止
   本モジュールでは、 Microsoft 365 のデータ損失防止に焦点を当てています。  受講者は、自分のデータを保護するために、ポリシーの作成方法、ルールの編集方法、およびユーザー通知のカスタマイズ方法について学習します。
   #### レッスン
   - 説明済みのデータ損失防止
