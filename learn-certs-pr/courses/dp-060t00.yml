@@ -27,7 +27,7 @@ summary: |-
   本コースの主な対象者は、 Cosmos DB を使用して MongoDB または Cassandra DB のワークロードを Azure へ移行する予定のデータベース開発者です。
 prerequisitesSection: |-
   このトレーニングに参加する学生は、プロフェッショナルとしての経験に加えて、次の技術知識をすでに身に付けていることが求められます。
-  Cosmos DB API に依存しない拡張可能な NoSQL アプリケーションを構築および構成するためのパーティショニング、レプリケーション、およびリソース ガバナンスの基本的概念。
+  - Cosmos DB API に依存しない拡張可能な NoSQL アプリケーションを構築および構成するためのパーティショニング、レプリケーション、およびリソース ガバナンスの基本的概念。
 outlineSection: |-
   ### モジュール 1&#58; Cosmos DB による Globally Distributed Applications の構築
   このモジュールでは、Cosmos DB の利点とアーキテクチャについて説明します。
