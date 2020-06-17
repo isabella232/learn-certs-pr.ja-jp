@@ -1,0 +1,50 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Customization and Configuration
+metadata:
+  title: 'Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration'
+  description: 'Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration'
+uid: exam.mb-2-716
+displayName: MB2-716
+summary: |-
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  Microsoft Dynamics 365 Customization and Configuration の資格の取得を希望する人は、この試験を受ける必要があります。一般に、デベロッパ、実装コンサルタント、テクニカル サポート技術者、およびシステム管理者が対象となります。お客様のビジネス ニーズを評価し、アプリケーションの設定とカスタマイズを行ういます。
+
+  <div style='font-weight&#58; bold;'><br/>本試験の内容は 2020 年 2 月 4 日に更新されました。これらの変更点と、測定されるスキルにそれがどのように影響するかについての詳細は、Exam MB2-716 の変更ドキュメントをダウンロードしてご確認ください。</div>
+subTitle: Microsoft Dynamics 365 Customization and Configuration の資格の取得を希望する人は、この試験を受ける必要があります。一般に、デベロッパ、実装コンサルタント、テクニカル サポート技術者、およびシステム管理者が対象となります。お客様のビジネス ニーズを評価し、アプリケーションの設定とカスタマイズを行ういます。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o2AP
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=MB2-716&examname=Microsoft%20Dynamics%20365%20Customization%20and%20Configuration&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB2-716
+locales:
+- en
+- ja
+levels:
+- beginner
+skills:
+- Microsoft Dynamics 365 の構成 (20-25%)
+- Microsoft Dynamics 365エンティティ、エンティティ関係、およびフィールドの実装 (20-25%)
+- Microsoft Dynamics 365 のソリューション、フォーム、ビュー、視覚化の作成と管理 (25-30%)
+- ビジネス ルール、ワークフロー、ビジネス プロセス フローの実装 (20-25%)
+roles:
+- business-analyst
+products:
+- dynamics
+relatedCertifications:
+- related:
+    uid: certification.mcse-business-applications
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

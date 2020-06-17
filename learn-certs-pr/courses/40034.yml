@@ -1,0 +1,86 @@
+### YamlMime:Course
+title: 'Software Development Fundamentals with HTML5: Training 2-Pack for MTA Exams 98-361 and 98-375'
+metadata:
+  title: 'Course 40034-A: Software Development Fundamentals with HTML5: Training 2-Pack for MTA Exams 98-361 and 98-375'
+  description: 'Course 40034-A: Software Development Fundamentals with HTML5: Training 2-Pack for MTA Exams 98-361 and 98-375'
+uid: course.40034
+courseNumber: '40034-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: コア プログラミングについて理解する
+- skill: オブジェクト指向のプログラミングについて理解する
+- skill: 一般的なソフトウェア開発について理解する
+- skill: Web アプリケーションについて理解する
+- skill: デスクトップ アプリケーションについて理解する
+- skill: データベースについて理解する
+- skill: アプリケーションのライフ サイクルを管理する
+- skill: HTML5 を使用してユーザー インターフェイスを作成する
+- skill: CSS を使用してユーザー インターフェイスをフォーマット化する
+- skill: JavaScript を使用してコーディングを行う
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.98-361
+summary: |-
+  この 5 日間のトレーニング 2 パックは、Microsoft Technology Associate 試験 98-361 および試験 98-365 の準備に役立ち、次のトピックの理解を構築します&#58; コア プログラミング、オブジェクト指向プログラミング、一般的なソフトウェア開発、Web アプリケーション、デスクトップ アプリケーション、データベース、アプリケーション ライフ サイクルの管理、HTML5 を使用したユーザー インターフェイスの構築、CSS を使用したユーザー インターフェイスのフォーマット化、JavaScript を使用したコーディング。これらのコースでは、これらの試験の Microsoft Official Academic Courses (MOAC) と同じコンテンツを利用しています。
+
+  #### 聴衆プロファイル
+  Microsoft Technology Associate (MTA) は、Microsoft のテクノロジを使用してキャリアを構築するために必要な基本的な知識を検証する、Microsoft の最新のテクノロジ認定資格試験です。このプログラムは、テクノロジの将来のキャリアへの適切なエントリー ポイントを提供し、いくつかの実地経験またはトレーニングを想定していますが、実務経験を想定していません。
+prerequisitesSection: |-
+  このコースの前提条件はありません。
+outlineSection: |-
+  ### モジュール 1&#58; プログラミングの概要
+
+
+  ### モジュール 2&#58; オブジェクト指向プログラミングの概要
+
+
+  ### モジュール 3&#58; 一般的なソフトウェア開発についての理解
+
+
+  ### モジュール 4&#58; Web アプリケーションについての理解
+
+
+  ### モジュール 5&#58; デスクトップ アプリケーションについての理解
+
+
+  ### モジュール 6&#58; データベースについての理解
+
+
+  ### モジュール 7&#58; アプリケーションのライフサイクルの管理
+
+
+  ### モジュール 8&#58; HTML5&#58; テキスト、グラフィックス、およびメディアを使用したユーザー インターフェースの構築
+
+
+  ### モジュール 9&#58; HTML5&#58; 組織、入力、および検証を使用したユーザー インターフェースの構築
+
+
+  ### モジュール 10&#58; CSS の基本&#58; コンテンツフロー、配置、スタイルについての理解
+
+
+  ### モジュール 11&#58; CSS の基本&#58; レイアウトについての理解
+
+
+  ### モジュール 12&#58; CSS を使用したテキスト フローの管理
+
+
+  ### モジュール 13&#58; CSS を使用したグラフィカル インターフェースの管理
+
+
+  ### モジュール 14&#58; JavaScript とコーディングの基本についての理解
+
+
+  ### モジュール 15&#58; アニメーションの作成、グラフィックの操作、およびデータへのアクセス
+
+
+  ### モジュール 16&#58; タッチ インターフェース、デバイス、オペレーティング システム リソースなどの JavaScript コーディング
+

@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014
+metadata:
+  title: 'Exam 70-463: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014'
+  description: 'Exam 70-463: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014'
+uid: exam.70-463
+displayName: 70-463
+summary: |-
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  この試験は、ビジネス インテリジェンス (BI) ソリューションを作成する ETL およびデータ ウェアハウスの開発者であり、業務としてデータ クレンジング、抽出/変換/挿入、データ ウェアハウスの実装などに携わる方を対象としています。
+
+  <div style='font-weight&#58; bold;'><br/>2016 年 2 月 18 日現在、この試験には SQL Server 2012 と 2014 の両方を対象としたコンテンツが含まれています。この試験には、SQL Server 2012 製品にのみ該当する機能に関する問題は含まれていません。詳しくは、<a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLUy"> 本ドキュメントをダウンロードしてご確認ください</a>。</div>
+subTitle: この試験は、ビジネス インテリジェンス (BI) ソリューションを作成する ETL およびデータ ウェアハウスの開発者であり、業務としてデータ クレンジング、抽出/変換/挿入、データ ウェアハウスの実装などに携わる方を対象としています。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toVI
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-463&examname=Implementing%20a%20Data%20Warehouse%20with%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-463
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- データ ウェアハウスの設計と実装 (10-15%)
+- データの抽出と変換 (20-25%)
+- データの読み込み (25-30%)
+- SSIS ソリューションの構成と展開 (20-25%)
+- データ品質ソリューションを構築する(15-20%)
+roles:
+- database-administrator
+products:
+- sql-server
+courses:
+- uid: course.20463
+relatedCertifications:
+- related:
+    uid: certification.mcsa-sql-certification
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: Networking with Windows Server 2016
+metadata:
+  title: 'Exam 70-741: Networking with Windows Server 2016'
+  description: 'Exam 70-741: Networking with Windows Server 2016'
+uid: exam.70-741
+displayName: 70-741
+summary: |-
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  この試験の受験者は、Windows Server 2016 で使用可能なネットワークの特性および機能に関連するタスクを実行します。受験者は、DNS、DHCP、IPAM の実装と管理、VPN や RADIUS などのリモート アクセス ソリューションの導入に精通している必要があります。
+
+  また、DFSおよびブランチキャッシュソリューションの管理、高性能なネットワーク特性と機能の構成、Hyper-Vネットワーク仮想化 (HNV) やネットワークコントローラなどのSDN (Software Defined Networking) ソリューションの導入経験もある必要があります。
+
+  <div style='font-weight&#58; bold;'><br/>注意&#58; 2019 年 3 月 13 日現在、試験の更新があります。これらの変更点と、測定されるスキルにそれがどのように影響するかについての詳細は、Exam 741 の変更ドキュメントをダウンロードしてご確認ください。</div>
+subTitle: この試験の受験者は、Windows Server 2016 で使用可能なネットワークの特性および機能に関連するタスクを実行します。受験者は、DNS、DHCP、IPAM の実装と管理、VPN や RADIUS などのリモート アクセス ソリューションの導入に精通している必要があります。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IW1D
+practiceTestUrl: https://www.mindhub.com/70-741-Networking-with-Windows-Server-2016-p/mu-70-741_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-741&examname=Networking%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-741
+locales:
+- en
+- es
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- ドメイン ネーム システム (DNS) の実装 (15-20%)
+- DHCP と IPAM を実装する (25-30%)
+- ネットワーク接続およびリモート アクセス ソリューションの実装 (20-25%)
+- コアおよび分散ネットワーク ソリューションの実装 (15-20%)
+- 高度なネットワーク インフラストラクチャの実装 (15-20%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20741
+relatedCertifications:
+- related:
+    uid: certification.mcsa-windows-server-2016-certification
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

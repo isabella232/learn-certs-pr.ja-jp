@@ -1,0 +1,49 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 for Talent
+metadata:
+  title: 'Exam MB6-898: Microsoft Dynamics 365 for Talent'
+  description: 'Exam MB6-898: Microsoft Dynamics 365 for Talent'
+uid: exam.mb-6-898
+displayName: MB6-898
+summary: |-
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  この試験の受験対象者は、Microsoft Dynamics 365 for Talent のアプリケーション機能をセットアップして使用し、アプリケーションをサポートするMicrosoft Dynamics 365のパートナーです。この試験は、ビジネスソリューションのバックグラウンドを持ち、Microsoft Dynamics 365 for Talent アプリケーションの機能に関する理解を実証したいと考える営業担当者にも適しています。
+
+  受験者は通常、ヒューマンキャピタルマネジメント、運用 HR プロセス、および Microsoft Dynamics 365 for Talent を展開、維持、使用する経験について十分な理解が求められます。
+
+  <div style='font-weight&#58; bold;'><br/>試験 MB6-898 は 2018 年 4 月リリースの Dynamics 365 for Talent に適用されます。製品に関する最新の情報については次をご確認ください&#58; <a href="https://aka.ms/talentdocs">https://aka.ms/talentdocs</a>.</div>
+subTitle: この試験の受験対象者は、Microsoft Dynamics 365 for Talent のアプリケーション機能をセットアップして使用し、アプリケーションをサポートするMicrosoft Dynamics 365のパートナーです。この試験は、ビジネスソリューションのバックグラウンドを持ち、Microsoft Dynamics 365 for Talent アプリケーションの機能に関する理解を実証したいと考える営業担当者にも適しています。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kd
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=MB6-898&examname=Microsoft%20Dynamics%20365%20for%20Talent&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB6-898
+locales:
+- en
+levels:
+- beginner
+skills:
+- Dynamics 365 for Talent Environment を理解する(45-50%)
+- タレント アプリケーションを設定および使用する(50-55%)
+roles:
+- business-analyst
+products:
+- dynamics
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

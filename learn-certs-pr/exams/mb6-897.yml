@@ -1,0 +1,50 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 for Retail
+metadata:
+  title: 'Exam MB6-897: Microsoft Dynamics 365 for Retail'
+  description: 'Exam MB6-897: Microsoft Dynamics 365 for Retail'
+uid: exam.mb-6-897
+displayName: MB6-897
+summary: |-
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  この試験の受験対象者は、Microsoft Dynamics 365 Retailのアプリケーション機能をセットアップして使用し、アプリケーションをサポートするMicrosoft Dynamics 365のパートナーです。
+
+  候補者は通常、小売業務とPOSの強固な理解と、Microsoft Dynamics 365 for Retailの展開、保守、および使用の経験があります。
+subTitle: この試験の受験対象者は、Microsoft Dynamics 365 Retailのアプリケーション機能をセットアップして使用し、アプリケーションをサポートするMicrosoft Dynamics 365のパートナーです。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kc
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=MB6-897&examname=Microsoft%20Dynamics%20365%20for%20Retail&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB6-897
+locales:
+- en
+levels:
+- beginner
+skills:
+- 組織パラメータの設定と構成(20-25%)
+- セールスポイントの設定及び構成をする(10-15%)
+- 製品の設定及び構成をする(15-20%)
+- リテール操作の管理 (15-20%)
+- 小売活動を行う(25-30%)
+roles:
+- business-analyst
+products:
+- dynamics
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

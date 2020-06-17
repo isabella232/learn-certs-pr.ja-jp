@@ -1,0 +1,63 @@
+### YamlMime:Examination
+title: Mobility and Devices Fundamentals
+metadata:
+  title: 'Exam 98-368: Mobility and Devices Fundamentals'
+  description: 'Exam 98-368: Mobility and Devices Fundamentals'
+uid: exam.98-368
+displayName: 98-368
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  この試験の受験者は、Windowsデバイスとモビリティに関する基本的な知識があります。候補者は、Windowsデバイス、Windowsベースのネットワーキング、Active Directory、マルウェア対策製品、ファイアウォール、ネットワークトポロジとデバイス、およびネットワークポートに関する実践的な体験をもっていることを期待されています。
+
+  <div style='font-weight&#58; bold;'><br/>2018 年 01 月 31 日現在の試験の更新があります。これらの変更点と、測定されるスキルにそれがどのように影響するかについての詳細は、Exam 98-368 の変更ドキュメントをダウンロードしてご確認ください。</div>
+subTitle: この試験の受験者は、Windowsデバイスとモビリティに関する基本的な知識があります。候補者は、Windowsデバイス、Windowsベースのネットワーキング、Active Directory、マルウェア対策製品、ファイアウォール、ネットワークトポロジとデバイス、およびネットワークポートに関する実践的な体験をもっていることを期待されています。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy9
+practiceTestUrl: https://www.mindhub.com/MTA-98-368-Mobility-and-Devices-Fundamentals-p/mu-98-368_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=98-368&examname=Mobility%20and%20Devices%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-368
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+- tr
+levels:
+- beginner
+skills:
+- デバイスの設定を理解する(20-25%)
+- データアクセスと管理を理解する(20-25%)
+- デバイスのセキュリティを理解する(20-25%)
+- クラウドサービスを理解する(20-25%)
+- 企業のモビリティを理解する(20-25%)
+roles:
+- administrator
+products:
+- windows
+courses:
+- uid: course.40368
+relatedCertifications:
+- related:
+    uid: certification.mta-mobility-and-device-fundamentals
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

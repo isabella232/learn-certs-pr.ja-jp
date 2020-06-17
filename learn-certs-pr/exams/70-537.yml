@@ -1,0 +1,55 @@
+### YamlMime:Examination
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub
+metadata:
+  title: 'Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  description: 'Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+uid: exam.70-537
+displayName: 70-537
+summary: |-
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  この試験の受験者は、Azure 管理者とAzure Stack Hub ペレータであり、Azure Stack を使用して、エンドユーザまたは自社のデータセンター内の顧客にクラウド サービスを提供します。
+
+  この試験の受験者は、Azure Stack Hub 環境の管理と操作における深い経験を持っている必要があります。受験者は、Azure と、仮想化、ネットワーキング、ID 管理の知識を十分に持っている必要があります。受験者は、Azure Stack Hubが DevOps プロセスとハイブリッド開発モデルをどのように有効にできるかも理解する必要があります。
+
+  この試験の受験者は、Azure Stack Hub インフラストラクチャの計画、展開、パッケージ化、更新、および保守の能力を実証することが期待されます。受験者は、ハイブリッド クラウド リソースと要求されたサービスを提供し、サービスとしてのインフラストラクチャ (IaaS) とサービスとしてのプラットフォーム (PaaS) を管理する能力を実証しなければなりません。
+
+  <div style='font-weight&#58; bold;'><br/>本試験は、 2020 年 1 月 14 日に更新されました。これらの変更点と、測定されるスキルにそれがどのように影響するかについての詳細は、Exam 70-537 の変更ドキュメントをダウンロードしてご確認ください。</div>
+subTitle: この試験の受験者は、Azure 管理者とAzure Stack Hub ペレータであり、Azure Stack を使用して、エンドユーザまたは自社のデータセンター内の顧客にクラウド サービスを提供します。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfKQ
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-537&examname=Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-537
+locales:
+- en
+levels:
+- advanced
+skills:
+- Azure Stack Hub 環境の展開と統合 (20-25%)
+- Azure Stack Hub 環境用の PaaS と IaaS の設定 (25-30%)
+- Azure Stack Hub ユーザーへのサービス提供および DevOps の有効化 (25-30%)
+- Azure Stack Hub 環境の保守と監視 (20-25%)
+roles:
+- administrator
+products:
+- azure
+courses:
+- uid: course.20537
+relatedCertifications:
+- related:
+    uid: certification.mcse-core-infrastructure
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

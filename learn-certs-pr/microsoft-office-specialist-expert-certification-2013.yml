@@ -1,0 +1,51 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Office 2016 Expert Specialist'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Office 2016 Expert Specialist'
+  description: 'Microsoft Office Specialist: Microsoft Office 2016 Expert Specialist'
+uid: certification.microsoft-office-specialist-expert-certification-2013
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  この認定資格はMicrosoft Office Specialist Expert 認定資格を取得して、主要な Office プログラムにおける高度なスキルを身に付けていることを実証します。Office 2013 では、クラウド テクノロジと Web テクノロジを組み合わせ、情報を作成および使用する方法を拡張し、セキュリティで保護された柔軟なアプリを構築するための新しいクラウド アプリ モデルを導入します。このようなアプリはすべて、使い慣れた Office インターフェイスで検出できます。
+
+  Microsoft Office Specialist Expert の認定資格を取得するためには、各プログラムに必要な試験の両方に合格する必要があります。
+
+  - Microsoft Word 2013 Expert の両方の試験に合格してください。
+    - [77-425&#58; Microsoft Word 2013 Expert Part One](/learn/certifications/exams/77-425)
+    - [77-426&#58; Microsoft Word 2013 Expert Part Two](/learn/certifications/exams/77-426)
+  - Microsoft Excel 2013 Expert の両方の試験に合格してください。
+    - [77-728&#58; Microsoft Excel 2013 Expert Part One](/learn/certifications/exams/77-728)
+    - [77-428&#58; Microsoft Excel 2013 Expert Part Two](/learn/certifications/exams/77-428)
+subTitle: この認定資格はMicrosoft Office Specialist Expert 認定資格を取得して、主要な Office プログラムにおける高度なスキルを身に付けていることを実証します。Office 2013 では、クラウド テクノロジと Web テクノロジを組み合わせ、情報を作成および使用する方法を拡張し、セキュリティで保護された柔軟なアプリを構築するための新しいクラウド アプリ モデルを導入します。このようなアプリはすべて、使い慣れた Office インターフェイスで検出できます。
+levels:
+- beginner
+skills:
+- none
+roles:
+- business-user
+type: mos
+products:
+- office
+exams:
+- uid: exam.77-425
+- uid: exam.77-426
+- uid: exam.77-728
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,0 +1,281 @@
+### YamlMime:Course
+title: Implementing a Software-Defined DataCenter Using System Center Virtual Machine Manager
+metadata:
+  title: 'Course 20745-B: Implementing a Software-Defined DataCenter Using System Center Virtual Machine Manager'
+  description: 'Course 20745-B: Implementing a Software-Defined DataCenter Using System Center Virtual Machine Manager'
+uid: course.20745
+courseNumber: '20745-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: さまざまな仮想化オプションについて説明する。
+- skill: Windows Server 2016 に Hyper-V をインストールして管理する。
+- skill: System Center 2016 Virtual Machine Manager をインストールして設定する。
+- skill: ストレージファブリックとファブリックの更新を管理する。
+- skill: Virtual Machine Manager ライブラリおよびライブラリオブジェクトを設定して管理する。
+- skill: ネットワーク ファブリックを管理する。
+- skill: Virtual Machine Manager を使用して仮想マシンを作成し、管理する。
+- skill: Virtual Machine Manager でクラウドを管理する。
+- skill: Virtual Machine Manager でサービスを管理する。
+- skill: System Center Operations Manager を使用して、仮想化インフラストラクチャを監視する。
+- skill: Microsoft Hyper-V Replica と Microsoft Azure Site Recovery を実装し、管理する。
+- skill: Data Protection Manager を使用して仮想化インフラストラクチャを保護する。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-system-center
+exams:
+- uid: exam.70-745
+summary: |-
+  この5日間のコースでは、Microsoft System Center 2016 Virtual Machine Manager を使用して、ソフトウェアで定義されたデータセンター(DataCenter)に仮想化インフラストラクチャを実装し、管理する方法を説明します。また、Microsoft System Center Operations Manager を使用してインフラストラクチャを監視し、Microsoft System Center Data Protection Manager を使用してインフラストラクチャを保護する方法についても説明します。
+  
+  #### 聴衆プロファイル
+  本コースは、 System Center 2016 Virtual Machine Manager を使用して、 Software-Defined Data Center の仮想化インフラストラクチャの設計、実装、管理を担当する IT 専門家および管理者を対象としています。本コースの主な焦点は、 Windows Server 2016 で Hyper-V 仮想化インフラストラクチャを管理することです。ただし、本コースでは、 Virtual Machine Manager 2016 を使用して管理できる他の仮想化プラットフォームについても説明します。 
+
+  また、本コースは、 ソフトウェア定義データセンター(DataCenter)にどの仮想化製品を導入するべきかを判断し、仮想化インフラストラクチャを管理するための System Center 2016 ソリューションに精通したいと考えている IT の意思決定者も対象としています。
+prerequisitesSection: |-
+  このトレーニングに参加する学生は、プロフェッショナルとしての経験に加えて、次の技術知識をすでに身に付けていることが求められます。
+  - TCP/IP とネットワーク概念の理解
+  - さまざまなストレージテクノロジーと概念の理解
+  - さまざまなタイプの仮想化に精通していること
+  - Windows Server および Windows Server 管理に精通していること
+  - Windows PowerShell の理解
+
+  受講者は、チーム / 仮想チームで作業し、優れたドキュメントおよびコミュニケーションスキルを持っている必要があります。
+
+  このトレーニングに参加する受講者は、次のコースに参加するか、同等の知識とスキルを取得することにより、前提条件を満たすことができます。
+  - 20740 - Windows Server 2016 でのストレージ＆コンピュート
+  - 20741 - Windows Server 2016 でのネットワーキング
+outlineSection: |-
+  ### モジュール 1&#58; サーバー仮想化の概要
+  本モジュールでは、さまざまな仮想化ソリューションについて説明します。また、ソフトウェア定義のデータセンター(DataCenter)と Microsoft Azure の概念についても説明します。
+  #### レッスン
+  - Microsoft 仮想化の概要
+  - ソフトウェア定義のデータセンター(DataCenter)の概説
+  - クラウドへの仮想化の拡張
+
+
+  #### ラボ&#58; 仮想化オプションの評価
+  - 適切な仮想化の方法の選択
+  - Azure仮想マシンの作成
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - さまざまな仮想化テクノロジーと、それらを適用するシナリオについて説明する。
+  - ソフトウェア定義のデータセンター(DataCenter)の機能を説明し、従来のデータセンター(DataCenter)と比較する。
+  - Microsoft Azure の主な利点と Azure の管理プロセスを挙げる。
+
+
+  ### モジュール 2&#58; Hyper-V 仮想化の概要
+  本モジュールでは、 Windows Server 2016 で Hyper-V をインストールして管理する方法について説明します。
+  #### レッスン
+  - Hyper-V ロールのインストールと設定
+  - 仮想ハードディスクと仮想マシンの作成と管理
+  - Hyper-V 仮想スイッチの作成と使用
+  - Hyper-V でフェールオーバー クラスタリングの実装
+
+
+  #### ラボ&#58; 仮想ハードディスクと仮想マシンの作成と管理
+  - Hyper-V サーバーロールのインストールと設定
+  - 仮想マシンと仮想ハードディスクの設定
+
+
+  #### Lab &#58; Hyper-V でフェールオーバー クラスタリングの実装
+  - Hyper-V フェールオーバークラスタの作成
+  - Hyper-V フェイルオーバークラスタの管理
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Hyper-V ロールをインストールし、設定する。
+  - 仮想ハードディスクと仮想マシンを作成し、管理する。
+  - Hyper-V 仮想スイッチを作成し、使用する。
+  - Hyper-V でフェールオーバー クラスタリングを実装する。
+
+
+  ### モジュール 3&#58; Virtual Machine Manager のインストールと設定
+  本モジュールでは、仮想化環境を管理するために Virtual Machine Manager をインストールおよび設定する方法について説明します。
+  #### レッスン
+  - Virtual Machine Manager の概要
+  - Virtual Machine Manager のインストール
+  - ホストの追加とホストグループの管理
+
+
+  #### ラボ&#58; Virtual Machine Manager のインストールと設定
+  - Virtual Machine Manager のインストールと設定
+  - ホストとホストグループの管理
+  - Virtual Machine Manager の使用による Azure サブスクリプションの管理
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Virtual Machine Manager の主な機能を説明する。
+  - Virtual Machine Manager のインストール方法を説明する。
+  - 仮想化ホストを Virtual Machine Manager に追加し、仮想化ホストとホストグループを管理する。
+
+  ### モジュール 4&#58; ストレージファブリックとファブリック更新の管理
+  本モジュールでは、 Virtual Machine Manager でストレージファブリックおよびファブリックのアップデートを管理する方法について説明します。
+  #### レッスン
+  - サーバー仮想化ストレージテクノロジーの概要
+  - ストレージファブリックの管理
+  - ファブリック更新の管理
+
+
+  #### ラボ&#58; ストレージファブリックとファブリック更新の管理
+  - ストレージインフラストラクチャーの実装
+  - ファイルサーバークラスタとストレージ QoS ポリシーの作成
+  - ファブリック更新の管理
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Virtual Machine Manager が使用するストレージテクノロジーについて説明する。
+  - Virtual Machine Manager でストレージファブリックを導入し、管理する。
+  - Virtual Machine Manager の更新を管理する。
+
+
+  ### モジュール 5&#58; Virtual Machine Manager ライブラリおよびライブラリオブジェクトの設定と管理
+  本モジュールでは、Virtual Machine Manager ライブラリとライブラリオブジェクトを設定して管理する方法について説明します。また、プロフィールとテンプレートの違いおよび使用方法についても説明します。
+  #### レッスン
+  - Virtual Machine Manager ライブラリの概要
+  - Virtual Machine Manager への導入のための Windows の準備
+  - プロフィールの操作
+  - VM テンプレートの操作
+
+
+  #### ラボ&#58; Virtual Machine Manager ライブラリおよびライブラリオブジェクトの設定と管理
+  - Virtual Machine Manager ライブラリの設定と管理
+  - Virtual Machine Manager ライブラリ用の Windows イメージの作成
+  - プロフィールとテンプレートの作成と管理
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Virtual Machine Managerのライブラリとライブラリリソースについて説明する。
+  - Virtual Machine Manager への導入のために Windows を準備する。
+  - プロフィールの操作について説明する。
+  - VM テンプレートの操作について説明する。
+
+
+  ### モジュール 6&#58; ネットワークファブリックの管理
+  本モジュールでは、 Virtual Machine Manager でネットワークファブリックを管理する方法について説明します。
+  #### レッスン
+  - Virtual Machine Manager におけるネットワーキング概念
+  - ソフトウェア定義ネットワーキングの管理
+  - ネットワーク機能仮想化の理解
+
+
+  #### ラボ&#58; ネットワークファブリックの作成と設定
+  - Hyper-V ホスト仮想ネットワークアダプタと管理ロジックネットワークとの関連付け
+  - ネットワークコントローラの導入
+
+
+  #### ラボ&#58; Hyper-V ネットワーク仮想化の設定とテスト
+  - Hyper-V ネットワーク仮想化の設定
+  - テナント VM ネットワークのプロビジョニングとテスト
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Virtual Machine Manager における主要ネットワーキング概念について説明する。
+  - Virtual Machine Manager を使用してソフトウェア定義ネットワーキングを実装する。
+  - ネットワークコントローラで利用可能なコアネットワーク機能仮想化(NFV)コンポーネントについて説明する。
+
+
+  ### モジュール 7&#58; Virtual Machine Manager の使用による仮想マシンの作成と管理
+  本モジュールでは、Virtual Machine Manager を使用して仮想マシンを作成して管理する方法について説明します。
+  #### レッスン
+  - VM 管理タスク
+  - VM の作成、クローン作成、変換
+
+
+  #### ラボ&#58; System Center VM Manager の使用による VM の作成と管理
+  - VM の作成とそのプロパティの変更
+  - チェックポイントの作成と管理
+  - VM のクローン作成と移行
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - 仮想マシンで実行できるさまざまな管理タスクについて説明する。
+  - VM の作成、クローン作成、変換を行う。
+
+
+  ### モジュール 8&#58; Microsoft System Center Virtual Machine Manager におけるクラウドの管理
+  本モジュールでは、Virtual Machine Manager を使用して仮想マシンを作成し、管理する方法について説明します。
+  #### レッスン
+  - クラウドの概要
+  - クラウドの作成と管理
+  - Virtual Machine Manager でのユーザーロールの作成
+
+
+  #### ラボ&#58; Virtual Machine Manager におけるクラウドの管理
+  - プライベートクラウドの作成
+  - ユーザーロールの作成
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - クラウドの概念と、 Virtual Machine Manager を使用してクラウドを作成する方法について説明する。
+  - クラウドサービスを作成して管理する。
+  - Virtual Machine Manager におけるユーザーロールの作成
+
+
+  ### モジュール 9&#58; Virtual Machine Manager におけるサービスの管理
+  本モジュールでは、Virtual Machine Manager においてサービスを作成して管理する方法について説明します。
+  #### レッスン
+  - Virtual Machine Manager におけるサービスの概要
+  - Virtual Machine Manager におけるサービスの作成と管理
+
+
+  #### ラボ&#58; Virtual Machine Manager におけるサービスの管理
+  - サービステンプレートの作成
+  - サービスの導入とサービステンプレートの更新
+  - サービスのスケールアウトとサービスの更新
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Virtual Machine Manager においてサービスを説明する。
+  - Virtual Machine Manager においてサービスを作成して管理する。
+
+
+  ### モジュール 10&#58; System Center Operations Manager を使用した仮想化インフラストラクチャの監視
+  本モジュールでは、仮想化インフラストラクチャの監視に Operations Manager を使用する方法を説明します。
+  #### レッスン
+  - Operations Manager のアーキテクチャとセキュリティ
+  - Operations Manager を使用した監視とレポート作成
+  - Operations Manager と Virtual Machine Manager および Data Protection Manager の統合
+
+
+  #### ラボ&#58; Operations Manager の使用による仮想化インフラストラクチャの監視
+  - Operations Manager エージェントの実装
+  - Operations Manager と Virtual Machine Manager の統合
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Operations Manager のアーキテクチャを説明し、 Operations Manager データへのアクセスを保護する方法について説明する。
+  - Operations Manager を使用して監視およびレポート作成を行う。
+  - Operations Manager と Virtual Machine Manager および Data Protection Manager の統合
+
+
+  ### モジュール 11&#58;  Hyper-V Replica と Azure Site Recovery の実装と管理
+  本モジュールでは、Hyper-V Replica と Azure Site Recovery を実装して管理する方法について説明します。
+  #### レッスン
+  - Hyper-V Replica の実装と管理
+  - Azure Site Recovery の実装と管理
+
+
+  #### ラボ&#58;  Hyper-V Replica と Azure Site Recovery の実装と管理
+  - Hyper-V Replica の設定と管理
+  - Azure Site Recovery の設定と管理
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Hyper-V Replica を実装して管理する。
+  - Azure Site Recovery を実装して管理する。
+
+
+  ### モジュール 12&#58; Data Protection Manager の使用による仮想化インフラストラクチャの保護
+  本モジュールでは、仮想化インフラストラクチャの保護のために Data Protection Manager の使用方法について説明します。
+  #### レッスン
+  - VM のバックアップおよびリストアオプションの概要
+  - 仮想化インフラストラクチャ保護のための Data Protection Manager の設定と管理
+
+
+  #### ラボ&#58; Data Protection Manager の使用による仮想化インフラストラクチャの保護
+  - DPM サーバーの設定と DPM 保護エージェントのインストール
+  - 保護グループの作成と設定
+  - VM およびその他のデータのリカバリ
+  - DPM によるオンライン保護の提供
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - VM のバックアップおよびリストアオプションについて説明する。
+  - 仮想化インフラストラクチャを保護するために Data Protection Manager を設定して管理する。
+
