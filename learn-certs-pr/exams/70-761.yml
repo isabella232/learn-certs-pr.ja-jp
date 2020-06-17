@@ -1,0 +1,49 @@
+### YamlMime:Examination
+title: Querying Data with Transact-SQL
+metadata:
+  title: 'Exam 70-761: Querying Data with Transact-SQL'
+  description: 'Exam 70-761: Querying Data with Transact-SQL'
+uid: exam.70-761
+displayName: 70-761
+summary: |-
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  この試験は、2 年以上の経験を持つ SQL Server のデータベース管理者、システム エンジニア、および開発者で、クエリ記述のスキルと知識を検証するユーザーを対象としています。
+subTitle: この試験は、2 年以上の経験を持つ SQL Server のデータベース管理者、システム エンジニア、および開発者で、クエリ記述のスキルと知識を検証するユーザーを対象としています。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiOm
+practiceTestUrl: https://www.mindhub.com/search?query=70-761&amp;categoryId=11284?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-761&examname=Querying%20Data%20with%20Transact-SQL&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-761
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Transact-SQL によるデータの管理 (40-45%)
+- 高度な Transact-SQL コンポーネントによるデータのクエリ (30-35%)
+- Transact-SQL を使用したデータベースのプログラミング (25-30%)
+roles:
+- database-administrator
+products:
+- sql-server
+courses:
+- uid: course.20761
+relatedCertifications:
+- related:
+    uid: certification.mcsa-sql2016-database-development-certification
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

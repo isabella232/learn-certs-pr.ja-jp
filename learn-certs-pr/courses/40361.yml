@@ -1,0 +1,49 @@
+### YamlMime:Course
+title: 'Software Development Fundamentals: MTA Exam 98-361'
+metadata:
+  title: 'Course 40361-A: Software Development Fundamentals: MTA Exam 98-361'
+  description: 'Course 40361-A: Software Development Fundamentals: MTA Exam 98-361'
+uid: course.40361
+courseNumber: '40361-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: コア プログラミングについて理解する
+- skill: オブジェクト指向のプログラミングについて理解する
+- skill: 一般的なソフトウェア開発について理解する
+- skill: Web アプリケーションについて理解する
+- skill: デスクトップ アプリケーションについて理解する
+- skill: データベースについて理解する
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.98-361
+summary: |-
+  この 3 日間の MTA トレーニング コースは、Microsoft Technology Associate 試験 98-361 の準備に役立ち、コア プログラミング、オブジェクト指向プログラミング、一般的なソフトウェア開発、Web アプリケーション、デスクトップ アプリケーション、データベースのトピックについて理解を深めることができます。このコースでは、この試験の Microsoft Official Academic Courses (MOAC) と同じコンテンツを利用しています。
+
+  #### 聴衆プロファイル
+  Microsoft Technology Associate (MTA) は、Microsoft のテクノロジを使用してキャリアを構築するために必要な基本的な知識を検証する、Microsoft の最新のテクノロジ認定資格試験です。このプログラムは、テクノロジの将来のキャリアへの適切なエントリー ポイントを提供し、いくつかの実地経験またはトレーニングを想定していますが、実務経験を想定していません。
+prerequisitesSection: |-
+  このコースの前提条件はありません。
+outlineSection: |-
+  ### モジュール 1&#58; オブジェクト指向プログラミングの概要
+
+
+  ### モジュール 2&#58; 一般的なソフトウェア開発についての理解
+
+
+  ### モジュール 3&#58; Web アプリケーションについての理解
+
+
+  ### モジュール 4&#58; デスクトップ アプリケーションについての理解
+
+
+  ### モジュール 5&#58; データベースについての理解
+

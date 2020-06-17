@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Developing Microsoft Azure and Web Services
+metadata:
+  title: 'Exam 70-487: Developing Microsoft Azure and Web Services'
+  description: 'Exam 70-487: Developing Microsoft Azure and Web Services'
+uid: exam.70-487
+displayName: 70-487
+summary: |+
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  この認定資格の受験者は、Visual Studio 2017 および Microsoft® .NET Core Framework を使用して Web ソリューションを設計および開発する専門的な開発者です。候補者は、最低 3 〜 5 年の ASP.NET MVC ベースのソリューションを開発した経験が必要です。さらに、候補者は次のことを実証出来ることが求められます&#58;
+  - Windows Azure を含むさまざまな (ローカルおよびリモートの) データとサービスにアクセスする Web アプリケーションの設計と開発の経験
+  - データとサービス ソリューションの完全なソフトウェア開発ライフサイクルの経験
+  - Windows Azure を含む多層環境への開発と展開の経験
+  - 非同期ソリューションの設計と開発経験
+  - HTTP サービスの作成と使用経験
+subTitle: 'この認定資格の受験者は、Visual Studio 2017 および Microsoft® .NET Core Framework を使用して Web ソリューションを設計および開発する専門的な開発者です。候補者は、最低 3 〜 5 年の ASP.NET MVC ベースのソリューションを開発した経験が必要です。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMe
+practiceTestUrl: https://www.mindhub.com/70-487-developing-microsoft-azure-and-web-services/p/MU-70-487?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-487&examname=Developing%20Microsoft%20Azure%20and%20Web%20Services&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-487
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- データへのアクセス (20-25%)
+- Entity Framework を使用したデータのクエリと操作 (20-25%)
+- Web API ベースのサービスの作成と使用 (20-25%)
+- Web サービスの設計と実装 (15-20%)
+- Web アプリケーションとサービスの展開 (15-20%)
+roles:
+- developer
+products:
+- azure
+courses:
+- uid: course.20487
+relatedCertifications:
+- related:
+    uid: certification.mcsd-app-builder-certification
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

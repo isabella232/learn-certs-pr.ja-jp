@@ -1,0 +1,74 @@
+### YamlMime:Course
+title: 'Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+metadata:
+  title: 'Course 40032-A: Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+  description: 'Course 40032-A: Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+uid: course.40032
+courseNumber: '40032-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: ネットワーク インフラストラクチャについて理解する
+- skill: ネットワーク ハードウェアについて理解する
+- skill: プロトコルとサービスについて理解する
+- skill: セキュリティ層について理解する
+- skill: オペレーティング システムのセキュリティを理解する
+- skill: ネットワーク セキュリティについて理解する
+- skill: セキュリティ ソフトウェアについて理解する
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.98-366
+summary: |-
+  この 5 日間のトレーニング 2 パックは、Microsoft Technology Associate 試験 98-366 および試験 98-367 の準備に役立ち、次のトピックの理解を構築します&#58; ネットワーク インフラストラクチャ、ネットワーク ハードウェア、プロトコルとサービス、セキュリティ層、オペレーティング システム セキュリティ、ネットワーク セキュリティ、セキュリティ ソフトウェア。これらのコースでは、これらの試験の Microsoft Official Academic Courses (MOAC) と同じコンテンツを利用しています。
+
+  #### 聴衆プロファイル
+  Microsoft Technology Associate (MTA) は、Microsoft のテクノロジを使用してキャリアを構築するために必要な基本的な知識を検証する、Microsoft の最新のテクノロジ認定資格試験です。このプログラムは、テクノロジの将来のキャリアへの適切なエントリー ポイントを提供し、いくつかの実地経験またはトレーニングを想定していますが、実務経験を想定していません。
+prerequisitesSection: |-
+  このコースの前提条件はありません。
+outlineSection: |-
+  ### モジュール 1&#58; ローカル エリア ネットワークについての理解
+
+
+  ### モジュール 2&#58; OSI モデルを使用したネットワークの定義
+
+
+  ### モジュール 3&#58; 有線および無線ネットワークについての理解
+
+
+  ### モジュール 4&#58; インターネット プロトコルについての理解
+
+
+  ### モジュール 5&#58; コマンドラインでの TCP/IP の実装
+
+
+  ### モジュール 6&#58; ネットワーク サービスの操作
+
+
+  ### モジュール 7&#58; 広域ネットワークについての理解
+
+
+  ### モジュール 8&#58; ネットワーク インフラストラクチャとネットワーク セキュリティの定義
+
+
+  ### モジュール 9&#58; セキュリティ レイヤーについての理解
+
+
+  ### モジュール 10&#58; 認証、承認、アカウンティング
+
+
+  ### モジュール 11&#58; セキュリティ ポリシーについての理解
+
+
+  ### モジュール 12&#58; ネットワーク セキュリティについての理解
+
+
+  ### モジュール 13&#58; サーバーとクライアントの保護
+

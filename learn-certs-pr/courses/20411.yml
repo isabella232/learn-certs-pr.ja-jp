@@ -1,0 +1,296 @@
+### YamlMime:Course
+title: Administering Windows Server® 2012
+metadata:
+  title: 'Course 20411-D: Administering Windows Server® 2012'
+  description: 'Course 20411-D: Administering Windows Server® 2012'
+uid: course.20411
+courseNumber: '20411-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: ドメイン ネーム システムの構成とトラブルシューティング
+- skill: Active Directory ドメイン サービスを維持する
+- skill: ユーザーおよびサービス アカウントの管理
+- skill: Group Policy インフラストラクチャを実装する
+- skill: Group Policy を使用してユーザー デスクトップを管理する
+- skill: Network Policy Server のインストール、構成、トラブルシューティング
+- skill: ネットワーク アクセス保護を実装する
+- skill: リモート アクセスを実装する
+- skill: ファイル サービスの最適化
+- skill: 暗号化と高度な監査を構成する
+- skill: サーバー イメージの展開と保守
+- skill: 更新管理を実装する
+- skill: Windows Server 2012 を監視する
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-411
+summary: |-
+  この 5 日間の Microsoft 公式コースでは、Windows Server 2012 R2 を含む Windows Server 2012 の管理の実務的なインストラクションおよび実践について学びます。このコースは、既存のエンタープライズ環境にコアとなる Windows Server 2012 インフラストラクチャを実装するために必要なスキルと知識を提供する、3 つのコースのパート 2 です。 
+
+  3 つのコースは、Windows Server 2012 環境でのサービスとインフラストラクチャの実装、管理、保守、プロビジョニングをまとめてカバーしています。これらのコースではスキルとタスクの一部が重複していますが、このコースでは、
+  名前解決の構成とトラブルシューティング、Active Directory Domain Services (AD DS) と Group Policy によるユーザーとグループの管理、DirectAccess、VPN、Web アプリケーション プロキシなどのリモート アクセス ソリューションの実装、Network Policy と Network Access Protection の実装、Data Security、サーバーイメージの展開とメンテナンス、および Windows Server 2012 環境の更新管理と監視など、Windows Server 2012 インフラストラクチャを維持するために必要な管理タスクに焦点を当てています。 
+
+  このコースは、[MCSA&#58; Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx) 資格に必要な 3 つの試験のうちの 2 番目である、Microsoft Certified Solutions Associate (MCSA)&#58; 試験 [411&#58; Administering Windows Server 2012](https://www.microsoft.com/learning/exam-70-411.aspx) の実践的な準備に直接対応し、推奨される選択肢です。 
+
+  このコースのラボは、Windows Server 2012 R2 および Windows 8.1 に基づいています。
+
+  #### 視聴者プロフィール
+  このコースは、Windows Server 2008 または Windows Server 2012 環境での実務経験があり、Windows Server 2012 および Windows Server 2012 R2 環境に必要なコア インフラストラクチャを管理および維持するために必要なスキルと知識を習得したい IT プロフェッショナルを対象としています。学生の主な焦点は、Windows Server 2012 サービスとインフラストラクチャの初期展開を拡大し、ドメイン ベースの Windows Server 2012 環境を管理および維持するために必要なスキルを提供し、ユーザーとグループの管理、ネットワーク アクセス、データ セキュリティなどの分野でスキルを提供することです。このコースへの参加に通常関心のある受験者は、
+  - Windows Server 2008 または Windows Server 2012 での作業経験があり、Windows Server 2012 または Windows Server 2012 R2 環境で日常の管理および保守タスクを実行するために必要なスキルを習得したい Windows Server 管理者。
+  - [411、Administering Windows Server 2012](https://www.microsoft.com/learning/exam-70-411.aspx) 試験を受けようとしている IT プロフェッショナル
+  - DataCenter、Desktop Infrastructure、Messaging、Collaboration、および Communications で Microsoft 認定ソリューション エキスパート (MCSE) 試験を受験したい IT プロフェッショナルも、個々の専門分野のための前提条件となる Microsoft 認定ソリューション アソシエイト (MCSA) 試験の準備として、このコースを受講することに興味を持っています。
+prerequisitesSection: |-
+  このコースに参加する前に、受講者は次のことが必要です&#58;
+  - Active Directory Domain Services (AD DS)、Networking Services、Microsoft Hyper-V などのコア Windows Server サービスの初期実装と構成に関する知識とスキル。 
+
+  コースの前提条件はすべて、コース [20410D&#58; Installing and Configuring Windows Server 2012](https://www.microsoft.com/learning/course.aspx?ID=20410D) と同等の知識を持つか、当該コースに参加することで満たすことができます。これは、このコースが当該コースでカバーされる知識とスキルに基づいているためです。
+outlineSection: |-
+  ### モジュール 1&#58; Domain Name System の設定とトラブルシューティング
+  このモジュールでは、DNS の複製とキャッシングを含む、DNS の構成とトラブルシューティングの方法について説明します。
+  #### レッスン
+  - DNS サーバー ロールの構成
+  - DNS ゾーンの構成
+  - DNS ゾーン転送の構成
+  - DNS の管理とトラブルシューティング
+
+
+  #### ラボ&#58; DNS の構成とトラブルシューティング
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+
+  - DNS サーバー ロールをインストールおよび構成する
+  - DNS ゾーンを作成および構成する
+  - DNS ゾーン転送を構成する
+  - DNS の管理とトラブルシューティング
+
+
+  ### モジュール 2&#58; Active Directory ドメイン サービスの保守
+  このモジュールでは、仮想化ドメイン コントローラと読み取り専用ドメイン コントローラ (RODC) を実装する方法について説明します。また、一般的な AD DS 管理タスクを実行し、AD DS データベースを管理する方法についても説明します。
+  #### レッスン
+  - AD DSの概要
+  - 仮想化ドメイン コントローラの実装
+  - RODC の実装
+  - AD DS の管理
+  - AD DS データベースの管理
+
+
+  #### ラボ&#58; AD DS の保守
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - 仮想化ドメイン コントローラの実装
+  - RODC を実装する
+  - AD DS の管理
+  - AD DS データベースを管理する
+
+
+  ### モジュール 3&#58; ユーザー アカウントとサービス アカウントの管理
+  このモジュールでは、ユーザー アカウントの作成、構成、および自動化の方法について説明します。また、ユーザー オブジェクトのアカウント関連のプロパティを構成する方法についても説明します。さらに、管理されたサービス アカウントを作成および管理する方法についても説明します。
+  #### レッスン
+  - パスワード ポリシーとユーザー アカウントのロックアウト設定の構成
+  - 管理されたサービス アカウントの構成
+
+
+  #### ラボ&#58; ユーザー アカウントとサービス アカウントの管理
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - パスワード ポリシーとユーザー アカウントのロックアウト設定を構成する
+  - 管理されたサービス アカウントを構成する
+
+
+  ### モジュール 4&#58; Group Policy インフラストラクチャの実装
+  このモジュールでは、GPO インフラストラクチャを実装する方法について説明します。また、一般的な GPO 管理タスクを実行する方法、および Windows PowerShell を使用して GPO を管理する方法についても説明します。また、GPO のアプリケーションのトラブルシューティングにも焦点を当てています。
+  #### レッスン
+  - Group Policy の紹介
+  - GPO の実装と管理
+  - Group Policy のスコープと Group Policy の処理
+  - GPO のアプリケーションのトラブルシューティング
+
+
+  #### ラボ&#58; Group Policy インフラストラクチャの実装
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+
+  - Group Policy とは何かを説明する
+  - Group Policy Object (GPO) を実装および管理する
+  - Group Policy のスコープと Group Policy の処理を管理する
+  - GPO の適用のトラブルシューティング
+
+
+  ### モジュール 5&#58; Group Policy によるユーザー デスクトップの管理
+  このモジュールでは、Group Policy Objects (GPOs) を使用して、Administrative Template、Folder Redirection、Group Policy の基本設定を使用し、組織全体にデスクトップ環境を実装する方法と、必要に応じてソフトウェアの展開を使用してアプリケーション プログラムをインストールおよび更新する方法について説明します。ユーザーのコンピュータ設定を適切に構成できるように、これらのさまざまな GPO 機能の使用方法を理解することが重要です。
+  #### レッスン
+  - 管理用テンプレートの実装
+  - フォルダー リダイレクトとスクリプトの構成
+  - Group Policy の基本設定の構成
+  - Group Policy によるソフトウェアの管理
+
+
+  #### ラボ&#58; Group Policy によるユーザー デスクトップの管理
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - GPO を使用してフォルダー リダイレクトとスクリプトを構成する
+  - 管理用テンプレートの説明と実装
+  - GPO 設定を構成する
+  - GPO を使用してソフトウェアを展開する
+
+
+  ###  モジュール  6&#58; Network Policy サーバー ロールのインストール、構成、およびトラブルシューティング
+  このモジュールでは、NPS、RADIUS クライアント、サーバーをインストールおよび構成する方法について説明します。また、NPS の認証方法についても説明します。NPS の認証方法と、NPS を監視およびトラブルシューティングする方法について説明します。
+  #### レッスン
+  - ネットワーク ポリシー サーバーのインストールと構成
+  - RADIUS クライアントとサーバーの構成
+  - NPS 認証方法
+  - Network Policy Server の監視とトラブルシューティング
+
+
+  #### ラボ&#58; Network Policy サーバーのインストールと構成
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Network Policy Server (NPS) をインストールして構成する
+  - Remote Authentication Dial-In User Service (RADIUS) プロトコルを使用してクライアントとサーバーを構成する
+  - NPS 認証方法について説明する
+  - NPS の監視とトラブルシューティング
+
+
+  ###  モジュール  7&#58; ネットワーク アクセス保護の実装
+  このモジュールでは、NAP を構成、監視、およびトラブルシューティングする方法について説明します。また、NAP がネットワークとさまざまな NAP 強制プロセスを保護する方法についても説明します。
+  #### レッスン
+  - ネットワーク アクセス保護の概要
+  - NAP 強制プロセスの概要
+  - NAP の構成
+  - NAP の IPSec 実施の構成
+  - NAP の監視とトラブルシューティング
+
+
+  #### ラボ&#58; ネットワーク アクセス保護の実装
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - NAP がネットワークの保護にどのように役立つかについて説明する
+  - さまざまな NAP 強制プロセスについて説明する
+  - NAP を構成する
+  - NAP の監視とトラブルシューティング
+
+
+  ###  モジュール  8&#58; リモート アクセスの実装
+  このモジュールでは、Windows Server 2012 でリモート アクセスを実装および管理する方法を学習します。また、Getting Started ウィザードを使用して DirectAccess を実装する方法、高度な DirectAccess インフラストラクチャを実装および管理する方法、VPN を実装する方法についても学習します。
+  #### レッスン
+  - リモート アクセスの概要
+  - スタートアップ ウィザードを使用した DirectAccess の実装
+  - 高度な DirectAccess インフラストラクチャの実装と管理
+  - VPN の実装
+  - Web アプリケーション プロキシの実装
+
+
+  #### ラボ&#58; Getting Started Wizard を使用して DirectAccess を実装する
+
+  #### ラボ&#58; 高度な DirectAccess ソリューションの展開
+
+  #### ラボ&#58; VPN の実装
+
+  #### ラボ&#58; Web アプリケーション プロキシの実装
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Windows Server 2012 オペレーティング システムでのリモート アクセス ロールのインストールと管理
+  - Getting Started Wizard を使用して DirectAccess を実装する
+  - 高度な DirectAccess インフラストラクチャの実装と管理
+  - VPN アクセスを実装する
+  - Web アプリケーション プロキシの実装
+
+
+  ###  モジュール  9&#58; ファイル サービスの最適化
+  このモジュールでは、FSRM について説明し、クォータ、ファイル スクリーニング、およびストレージ レポートを構成し、分類管理およびファイル管理タスクを実装します。DFS のコンポーネントについて説明します。また、DFS 名前空間と DFS レプリケーションを構成する方法についても説明します。
+  #### レッスン
+  - FSRM の概要
+  - FSRM を使用した Quotas、File Screens、および Storage Reports の管理
+  - 分類およびファイル管理タスクの実装
+  - DFS の概要
+  - DFS 名前空間の構成
+  - DFS レプリケーションの構成とトラブルシューティング
+
+
+  #### ラボ&#58; File Server Resource Manager を使用した Quotas および ファイル スクリーニングの構成
+
+  #### ラボ&#58; 分散ファイル システムの実装
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Windows Server 2012 オペレーティング システムの File Server Resource Manager (FSRM) について説明する
+  - FSRM を使用して Quotas、File Screens、および Storage Reports を管理する
+  - 分類およびファイル管理タスクを実装する
+  - Distributed File System (DFS) について説明する
+  - DFS 名前空間を構成する
+  - DFS レプリケーションの構成とトラブルシューティング
+
+
+  ###  モジュール  10&#58; 暗号化と高度な監査の設定
+  このモジュールでは、EFS を使用してファイルを暗号化し、高度な監査機能を構成する方法について説明します。
+  #### レッスン
+  - BitLocker を使用したドライブの暗号化
+  - EFS を使用したファイルの暗号化
+  - 高度な監査の構成
+
+
+  #### ラボ&#58; 暗号化と高度な監査の構成
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - BitLocker Drive Encryption を使用してデータを保護する
+  - Encrypting File System (EFS) を使用してファイルを暗号化する
+  - 高度な監査を構成する
+
+
+  ###  モジュール  11&#58; サーバー イメージのデプロイとメンテナンス
+  このモジュールでは、Windows Deployment Service を使用してサーバー イメージを作成および管理する方法について説明します
+  #### レッスン
+  - Windows 展開サービスの概要
+  - 画像の管理
+  - Windows 展開サービスを使用した展開の実装
+  - Windows 展開サービスの管理
+
+
+  #### ラボ&#58; Windows 展開サービス による Windows Server 2012 の展開
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Windows 展開サービス (Windows DS) の重要な機能について説明する
+  - Windows Assessment and Deployment Kit (Windows ADK) ツールを使用して画像を管理する
+  - Windows Server 2012 で Windows 展開サービスを構成する
+  - Windows 展開サービスで展開を実行する
+
+
+  ### モジュール 12&#58; 更新管理の実装
+  このモジュールでは、Windows Server Update Service (WSUS) を使用して Windows サーバーとクライアントに更新を展開する方法について説明します。
+  #### レッスン
+  - WSUS の概要
+  - WSUS を使用した更新プログラムの展開
+
+
+  #### ラボ&#58; 更新管理の実装
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - WSUS のロールについて説明する
+  - WSUS 更新管理プロセスについて説明する
+  - WSUS を使用して更新プログラムを展開する
+
+
+  ### モジュール 13&#58; Windows Server 2012 の監視
+  このモジュールでは、Windows Server 2012 で使用可能な監視ツールについて説明します。また、Performance Monitor を使用してイベントを監視する方法についても説明します。
+  #### レッスン
+  - 監視ツール
+  - パフォーマンス モニターの使用
+  - イベント ログの監視
+
+
+  ### ラボ&#58; Windows Server 2012 の監視
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+
+  - Windows Server 2012 オペレーティング システムの監視ツールについて説明する
+  - Performance Monitor を使用して、サーバーで実行されているプログラムのパフォーマンス統計を表示および分析する
+  - イベント ログを監視して、記録されたイベントを表示および解釈する
+

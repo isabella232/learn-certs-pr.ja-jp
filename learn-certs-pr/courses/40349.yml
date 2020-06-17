@@ -1,0 +1,51 @@
+### YamlMime:Course
+title: 'Windows Operating System Fundamentals: MTA Exam 98-349'
+metadata:
+  title: 'Course 40349-B: Windows Operating System Fundamentals: MTA Exam 98-349'
+  description: 'Course 40349-B: Windows Operating System Fundamentals: MTA Exam 98-349'
+uid: course.40349
+courseNumber: '40349-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: オペレーティング システムの構成について理解する
+- skill: クライアント システムをインストールおよびアップグレードする
+- skill: アプリケーションを管理する
+- skill: ファイルとフォルダを管理する
+- skill: デバイスを管理する
+- skill: オペレーティング システムのメンテナンスについて理解する
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+exams:
+- uid: exam.98-349
+summary: |-
+  この 3 日間の MTA トレーニング コースは、Microsoft Technology Associate 試験 98-349 の準備と、オペレーティング システムの構成、クライアント システムのインストールとアップグレード、アプリケーションの管理、ファイルとフォルダーの管理、デバイスの管理、およびオペレーティング システム メンテナンスなどのトピックの理解を深めるのに役立ちます。このコースでは、この試験の Microsoft Official Academic Courses (MOAC) と同じコンテンツを利用しています。このコースは、Windows 10 をサポートするように更新されています。
+
+  #### 聴衆プロファイル
+  Microsoft Technology Associate (MTA) は、Microsoft のテクノロジを使用してキャリアを構築するために必要な基本的な知識を検証する、Microsoft の最新のテクノロジ認定資格試験です。このプログラムは、テクノロジの将来のキャリアへの適切なエントリー ポイントを提供し、いくつかの実地経験またはトレーニングを想定していますが、実務経験を想定していません。
+prerequisitesSection: |-
+  このコースの前提条件はありません。
+outlineSection: |-
+  ### モジュール 1&#58; クライアント システムのインストールとアップグレード
+
+  ### モジュール 2&#58; オペレーティング システムの構成についての理解
+
+  ### モジュール 3&#58; ネイティブ アプリケーション、ツール、モビリティ、およびリモート管理と支援についての理解
+
+  ### モジュール 4&#58; アプリケーション、サービス、およびディスクの管理
+
+  ### モジュール 5&#58; デバイスの管理
+
+  ### モジュール 6&#58; ファイルとプリンターの共有についての理解
+
+  ### モジュール 7&#58; Windows 10 の保守、更新、保護
+
+  ### モジュール 8&#58; バックアップとリカバリの方法についての理解
+

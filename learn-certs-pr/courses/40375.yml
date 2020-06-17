@@ -1,0 +1,62 @@
+### YamlMime:Course
+title: 'HTML5 Application Development Fundamentals: MTA Exam 98-375'
+metadata:
+  title: 'Course 40375-A: HTML5 Application Development Fundamentals: MTA Exam 98-375'
+  description: 'Course 40375-A: HTML5 Application Development Fundamentals: MTA Exam 98-375'
+uid: course.40375
+courseNumber: '40375-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: アプリケーションのライフ サイクルを管理する
+- skill: HTML5 を使用してユーザー インターフェイスを作成する
+- skill: CSS を使用してユーザー インターフェイスをフォーマット化する
+- skill: JavaScript を使用してコーディングを行う
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.98-375
+summary: |-
+  この 3 日間の MTA トレーニング コースは、Microsoft Technology Associate 試験 98-375 の準備と、アプリケーション ライフ サイクルの管理、HTML5 を使用したユーザー インターフェイスの構築、CSS を使用したユーザー インターフェイスのフォーマット、JavaScript を使用したコーディングについての理解を深めるのに役立ちます。このコースでは、この試験の Microsoft Official Academic Courses (MOAC) と同じコンテンツを利用しています。
+
+  #### 聴衆プロファイル
+  Microsoft Technology Associate (MTA) は、Microsoft のテクノロジを使用してキャリアを構築するために必要な基本的な知識を検証する、Microsoft の最新のテクノロジ認定資格試験です。このプログラムは、テクノロジの将来のキャリアへの適切なエントリー ポイントを提供し、いくつかの実地経験またはトレーニングを想定していますが、実務経験を想定していません。
+prerequisitesSection: |-
+  このコースの前提条件はありません。
+outlineSection: |-
+  ### モジュール 1&#58; アプリケーションのライフサイクルの管理
+
+
+  ### モジュール 2&#58; HTML5&#58; テキスト、グラフィックス、およびメディアを使用したユーザー インターフェースの構築
+
+
+  ### モジュール 3&#58; HTML5&#58; 組織、入力、および検証を使用したユーザー インターフェースの構築
+
+
+  ### モジュール 4&#58; CSS の基本&#58; コンテンツフロー、配置、スタイルについての理解
+
+
+  ### モジュール 5&#58; CSS の基本&#58; レイアウトについての理解
+
+
+  ### モジュール 6&#58; CSS を使用したテキスト フローの管理
+
+
+  ### モジュール 7&#58; CSS を使用したグラフィカル インターフェースの管理
+
+
+  ### モジュール 8&#58; JavaScript とコーディングの基本についての理解
+
+
+  ### モジュール 9&#58; アニメーションの作成、グラフィックの操作、およびデータへのアクセス
+
+
+  ### モジュール 10&#58; タッチ インターフェース、デバイス、オペレーティング システム リソースなどの JavaScript コーディング
+

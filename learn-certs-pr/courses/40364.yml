@@ -1,0 +1,44 @@
+### YamlMime:Course
+title: 'Database Administration Fundamentals: MTA Exam 98-364'
+metadata:
+  title: 'Course 40364-A: Database Administration Fundamentals: MTA Exam 98-364'
+  description: 'Course 40364-A: Database Administration Fundamentals: MTA Exam 98-364'
+uid: course.40364
+courseNumber: '40364-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: コア データベースの概念について理解する
+- skill: データベース オブジェクトを作成する
+- skill: データを操作する
+- skill: データ ストレージについて理解する
+- skill: データベースを管理する
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- sql-server
+exams:
+- uid: exam.98-364
+summary: |-
+  この 3 日間の MTA トレーニング コースでは、Microsoft Technology Associate 試験 98-364 の準備に役立ち、コア データベースの概念、データベース オブジェクトの作成、データの操作、データ ストレージ、およびデータベースの管理についての理解を深めます。このコースでは、この試験の Microsoft Official Academic Courses (MOAC) と同じコンテンツを利用しています。
+
+  #### 聴衆プロファイル
+  Microsoft Technology Associate (MTA) は、Microsoft のテクノロジを使用してキャリアを構築するために必要な基本的な知識を検証する、Microsoft の最新のテクノロジ認定資格試験です。このプログラムは、テクノロジの将来のキャリアへの適切なエントリー ポイントを提供し、いくつかの実地経験またはトレーニングを想定していますが、実務経験を想定していません。
+prerequisitesSection: |-
+  このコースの前提条件はありません。
+outlineSection: |-
+  ### モジュール 1&#58; コア データベースの概念についての理解
+
+  ### モジュール 2&#58; データベース オブジェクトの作成
+
+  ### モジュール 3&#58; データの操作
+
+  ### モジュール 4&#58; データ ストレージについての理解
+
+  ### モジュール 5&#58; データベースの管理
+

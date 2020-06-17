@@ -1,0 +1,43 @@
+### YamlMime:Course
+title: 'Security Fundamentals: MTA Exam 98-367'
+metadata:
+  title: 'Course 40367-B: Security Fundamentals: MTA Exam 98-367'
+  description: 'Course 40367-B: Security Fundamentals: MTA Exam 98-367'
+uid: course.40367
+courseNumber: '40367-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: セキュリティ層について理解する
+- skill: オペレーティング システムのセキュリティを理解する
+- skill: ネットワーク セキュリティについて理解する
+- skill: セキュリティ ソフトウェアについて理解する
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.98-367
+summary: |-
+  この 3 日間の MTA トレーニング コースでは、Microsoft Technology Associate 試験 98-367 の準備を行い、セキュリティ層、オペレーティング システムのセキュリティ、ネットワーク セキュリティ、セキュリティ ソフトウェアのトピックについて理解を深めることができます。このコースでは、この試験の Microsoft Official Academic Courses (MOAC) と同じコンテンツを利用しています。このコースは、Windows 10 をサポートするために更新されています。
+
+  #### 聴衆プロファイル
+  Microsoft Technology Associate (MTA) は、Microsoft のテクノロジを使用してキャリアを構築するために必要な基本的な知識を検証する、Microsoft の最新のテクノロジ認定資格試験です。このプログラムは、テクノロジの将来のキャリアへの適切なエントリー ポイントを提供し、いくつかの実地経験またはトレーニングを想定していますが、実務経験を想定していません。
+prerequisitesSection: |-
+  このコースの前提条件はありません。
+outlineSection: |-
+  ### モジュール 1&#58; セキュリティ レイヤーについての理解
+
+  ### モジュール 2&#58; 認証、承認、アカウンティングについての理解
+
+  ### モジュール 3&#58; セキュリティ ポリシーについての理解
+
+  ### モジュール 4&#58; ネットワーク セキュリティについての理解
+
+  ### モジュール 5&#58; サーバーとクライアントの保護
+
