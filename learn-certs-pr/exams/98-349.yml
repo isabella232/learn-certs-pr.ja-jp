@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: Windows Operating System Fundamentals
+metadata:
+  title: 'Exam 98-349: Windows Operating System Fundamentals'
+  description: 'Exam 98-349: Windows Operating System Fundamentals'
+uid: exam.98-349
+displayName: 98-349
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  この試験の受験者は、Windows 10環境での基本的なWindowsオペレーティングシステムの概念を理解している必要があります。
+
+  <div style='font-weight&#58; bold;'><br/>2016年8月31日現在、この試験は、Windows 10でサポートされていないツールの削除など、Windows 10のアップデート内容が含まれる。これらの変更点と、測定されるスキルにそれがどのように影響するかについての詳細は、Exam 98-349 の変更ドキュメントをダウンロードしてご確認ください。</div>
+subTitle: この試験の受験者は、Windows 10環境での基本的なWindowsオペレーティングシステムの概念を理解している必要があります。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy8
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=98-349&examname=Windows%20Operating%20System%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-349
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- オペレーティングシステム構成の理解(15-20%)
+- クライアントシステムのインストールとアップグレード(15-20%)
+- アプリケーションの管理(15-20%)
+- ファイルとフォルダーの管理 (15–20%)
+- デバイスの管理(15-20%)
+- オペレーティングシステムのメンテナンスの理解(15-20%)
+roles:
+- administrator
+products:
+- windows
+courses:
+- uid: course.40349
+relatedCertifications:
+- related:
+    uid: certification.mta-windows-operating-system-fundamentals
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Introduction to Programming Using Java
+metadata:
+  title: 'Exam 98-388: Introduction to Programming Using Java'
+  description: 'Exam 98-388: Introduction to Programming Using Java'
+uid: exam.98-388
+displayName: 98-388
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  この試験の受験者は、Java 6 SE以降で作業するアプリケーション開発者、高校や高校卒業直後のレベルのソフトウェア開発の生徒、または初心者のソフトウェア開発者です。
+
+  受験者は、Javaで少なくとも150時間以上の実習経験があること、Javaの特徴と機能に精通していること、正しい形式で、よく文書化されたJavaコードの作成、デバッグ、および保守方法を理解している必要があります。
+subTitle: この試験の受験者は、Java 6 SE以降で作業するアプリケーション開発者、高校や高校卒業直後のレベルのソフトウェア開発の生徒、または初心者のソフトウェア開発者です。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyR
+practiceTestUrl: https://www.mindhub.com/product-p/mu-98-388_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=98-388&examname=Introduction%20to%20Programming%20Using%20Java&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-388
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- Javaの基礎を理解する(15-20%)
+- データ型、変数、式で作業する(40-45%)
+- フロー制御を実装する(15-20%)
+- オブジェクト指向プログラミングを実行する(10-15%)
+- コンパイルとデバッグのコード(5-10%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-java
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

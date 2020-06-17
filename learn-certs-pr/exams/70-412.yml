@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Configuring Advanced Windows Server 2012 Services
+metadata:
+  title: 'Exam 70-412: Configuring Advanced Windows Server 2012 Services'
+  description: 'Exam 70-412: Configuring Advanced Windows Server 2012 Services'
+uid: exam.70-412
+displayName: 70-412
+summary: |-
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  この試験は、エンタープライズ環境で Windows Server 2012 インフラストラクチャを管理するために必要なスキルと知識をテストする 3 部構成の試験の第 3 部です。この試験では、フォールト トレランス、証明書サービス、ID フェデレーションなど、Windows Server 2012 インフラストラクチャの展開、管理、保守に必要なタスクの詳細な構成について、受験者の能力を検証します。この試験と他の 2 つの試験との組み合わせにより、受験者が、Windows Server 2012 環境におけるサービスとインフラストラクチャの実装、管理、保守、プロビジョニングに必要なスキルと知識を有していることを確認します。
+
+  <div style='font-weight&#58; bold;'><br/>2018 年 4 月 19 日現在の試験の更新があります。これらの変更点と、測定されるスキルにそれがどのように影響するかについての詳細は、Exam 412 の変更ドキュメントをダウンロードしてご確認ください。</div>
+subTitle: この試験は、エンタープライズ環境で Windows Server 2012 インフラストラクチャを管理するために必要なスキルと知識をテストする 3 部構成の試験の第 3 部です。この試験では、フォールト トレランス、証明書サービス、ID フェデレーションなど、Windows Server 2012 インフラストラクチャの展開、管理、保守に必要なタスクの詳細な構成について、受験者の能力を検証します。この試験と他の 2 つの試験との組み合わせにより、受験者が、Windows Server 2012 環境におけるサービスとインフラストラクチャの実装、管理、保守、プロビジョニングに必要なスキルと知識を有していることを確認します。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixW
+practiceTestUrl: https://www.mindhub.com/70-412-Configuring-Advanced-Windows-Server-2012-Se-p/mu-70-412_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-412&examname=Configuring%20Advanced%20Windows%20Server%202012%20Services&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-412
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- 高可用性の構成および管理
+- ファイルと記憶域ソリューションの構成
+- ビジネス継続性および障害回復の実装
+- ネットワーク サービスの構成
+- Active Directory Infrastructure を構成する
+- アクセスおよび情報保護ソリューションの構成
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20412
+relatedCertifications:
+- related:
+    uid: certification.mcsa-windows-server-certification
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

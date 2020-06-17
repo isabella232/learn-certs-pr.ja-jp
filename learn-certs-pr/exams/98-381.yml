@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Introduction to Programming Using Python
+metadata:
+  title: 'Exam 98-381: Introduction to Programming Using Python'
+  description: 'Exam 98-381: Introduction to Programming Using Python'
+uid: exam.98-381
+displayName: 98-381
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  この試験の受験者は構文として正しい Python コードを理解して書くことが出来る必要があり、Python がサポートするデータ タイプ、および与えられた問題を論理的に解くことのできる Python コードを認識できる能力が求められます。
+
+  受験者は、最低でも、100時間のPhythonプログラム言語での実地体験およびもしくは教習を受けていること、その機能と能力について詳しいこと、書き、デバッグし、よくメンテナンスするにはどうするか理解している必要があります。
+subTitle: この試験の受験者は構文として正しい Python コードを理解して書くことが出来る必要があり、Python がサポートするデータ タイプ、および与えられた問題を論理的に解くことのできる Python コードを認識できる能力が求められます。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k2
+practiceTestUrl: https://www.mindhub.com/98-381-Introduction-to-Programming-Using-Python-p/mu-98-381_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=98-381&examname=Introduction%20to%20Programming%20Using%20Python&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-381
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- データ型と演算子を使用して操作を実行する(20-25%)
+- 決定とループを用いた制御フロー (25-30%)
+- 出力と入力操作の実行 (20-25%)
+- ドキュメントと構造コード (15-20%)
+- トラブルシューティングとエラー ハンドリングの実行 (5-10%)
+- モジュールとツールを使用して操作を実行する (1-5%)
+roles:
+- developer
+products:
+- vs
+courses:
+- uid: course.55264
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-python
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

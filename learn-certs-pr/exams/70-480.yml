@@ -1,0 +1,68 @@
+### YamlMime:Examination
+title: Programming in HTML5 with JavaScript and CSS3
+metadata:
+  title: 'Exam 70-480: Programming in HTML5 with JavaScript and CSS3'
+  description: 'Exam 70-480: Programming in HTML5 with JavaScript and CSS3'
+uid: exam.70-480
+displayName: 70-480
+summary: |-
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  この試験の受験者は、オブジェクトベースのイベント駆動型のプログラミング モデルで HTML を開発し、JavaScript を使用してさまざまなアプリケーション タイプ、ハードウェア、およびソフトウェア プラットフォームに必要なビジネス ロジックをプログラミングする少なくとも 1 年の経験を有する開発者です。
+
+  受験者は以下のことについても十分に理解しておく必要があります&#58;
+  - プログラム フローとイベントの管理
+  - 非同期プログラミング
+  - データの検証と jQuery を含むデータ収集の使用
+  - エラーと例外の処理
+  - 配列とコレクション
+  - 変数、演算子、式の操作
+  - プロトタイプとメソッドの操作
+  - 決定と繰り返しステートメント
+
+  <div style='font-weight&#58; bold;'><br/>注意&#58; 2017 年 12 月 14 日現在の試験の更新があります。これらの変更点と、測定されるスキルにそれがどのように影響するかについての詳細は、Exam 480 の変更ドキュメントをダウンロードしてご確認ください。</div>
+subTitle: この試験の受験者は、オブジェクトベースのイベント駆動型のプログラミング モデルで HTML を開発し、JavaScript を使用してさまざまなアプリケーション タイプ、ハードウェア、およびソフトウェア プラットフォームに必要なビジネス ロジックをプログラミングする少なくとも 1 年の経験を有する開発者です。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnKv
+practiceTestUrl: https://www.mindhub.com/Programming-in-HTML5-with-JavaScript-and-CSS3-p/mu-70-480_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-480&examname=Programming%20in%20HTML5%20with%20JavaScript%20and%20CSS3&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-480
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- ドキュメントの構造とオブジェクトを実装し操作する (20-25%)
+- プログラムフローの実装 (25-30%)
+- データのアクセスと保護 (25-30%)
+- アプリケーションでの CSS3 の使用 (25-30%)
+roles:
+- developer
+products:
+- azure
+courses:
+- uid: course.20480
+relatedCertifications:
+- related:
+    uid: certification.mcsa-web-applications-certification
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

@@ -1,0 +1,262 @@
+### YamlMime:Course
+title: Configuring Advanced Windows Server® 2012 Services
+metadata:
+  title: 'Course 20412-D: Configuring Advanced Windows Server® 2012 Services'
+  description: 'Course 20412-D: Configuring Advanced Windows Server® 2012 Services'
+uid: course.20412
+courseNumber: '20412-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Dynamic Host Configuration Protocol (DHCP)、Domain Name System (DNS) の高度な機能を構成し、Windows Server 2012 で IP Address Management (IPAM) を構成します。
+- skill: iSCSI、BranchCache、FSRM を構成および管理します。
+- skill: 共有ファイルへのアクセスを管理および監査するように DAC を構成します。
+- skill: 複数のドメインとフォレストを含む AD DS の展開を計画および実装します。
+- skill: 場所を含む AD DS の展開を計画および実装します。
+- skill: Active Directory Certificate Services (AD CS) の展開を実装および構成します。
+- skill: AD RMS 展開を実装します。
+- skill: AD FS 展開を実装します。
+- skill: Network Load Balancing (NLB) を実装することにより、Web ベースのアプリケーションに高可用性と負荷分散を提供します。
+- skill: NLB を実装することにより、Web ベースのアプリケーションの高可用性と負荷分散を実装および検証します。
+- skill: フェールオーバー クラスタリングを実装することにより、ネットワーク サービスとアプリケーションに高可用性を提供します。
+- skill: フェールオーバー クラスターを実装し、高可用性ネットワーク サービスを構成して検証します。
+- skill: フェールオーバー クラスターに Hyper-V 仮想マシンを展開して管理します。
+- skill: ビジネス要件および技術要件に基づいて、バックアップおよび障害回復ソリューションを実装します。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-412
+summary: |-
+  この 5 日間の Microsoft 公式コースでは、Windows Server 2012 R2 を含む高度な Windows Server 2012 サービスのの実務的なインストラクションおよび実践について学びます。このコースは、既存のエンタープライズ環境にコアとなる Windows Server 2012 インフラストラクチャを実装するために必要なスキルと知識を提供する、3 つのコースのパート 3 です。 
+
+  3 つのコースは、Windows Server 2012 環境でのサービスとインフラストラクチャの実装、管理、保守、プロビジョニングをまとめてカバーしています。これらのコースではスキルとタスクの一部が重複していますが、このコースでは、高度なネットワークサービス、Active Directory Domain Services (AD DS)、Active Directory Rights Management Services (AD RMS)、Active Directory Federation Services (AD FS)、Network Load Balancing、Failover Clustering、ビジネス継続性と障害回復サービス、および Dynamic Access Control (DAC) などのアクセスと情報のプロビジョニングおよび保護技術、Web Application Proxy と AD FS と Workplace Join の統合など、Windows Server 2012 インフラストラクチャの展開、管理、および保守に必要なサービスの高度な構成に焦点を当てています。
+
+  このコースは、MCSA&#58; Windows Server 2012 資格に必要な 3 つの試験のうちの 3 番目である、Microsoft Certified Solutions Associate (MCSA)&#58; 試験 [412&#58; Configuring Advanced Windows Server 2012 Services](https://www.microsoft.com/learning/course.aspx?cid=20412) の実践的な準備に直接対応し、推奨される選択肢です。 
+
+  注&#58; このコースのラボは、Windows Server 2012 R2 および Windows 8.1 に基づいています。
+
+  #### 視聴者プロフィール
+  このコースは、Windows Server 2012 または Windows Server 2012 R2 環境での実装、管理、保守の実務経験があり、Windows Server 2012  環境内でサービスの高度な管理とプロビジョニングを実行するために必要なスキルと知識を習得したい IT プロフェッショナルを対象としています 。通常、このコースへの参加を希望する受験者は次のとおりです。
+  - Windows Server 2008 または Windows Server 2012 エンタープライズ環境での実務経験を持つ、経験豊富な Windows Server 管理者。
+  - 試験 [412&#58; Configuring Advanced Windows Server 2012](https://www.microsoft.com/learning/exam-70-412.aspx) サービスを受けようとしている IT プロフェッショナル。
+  - DataCenter、Desktop Infrastructure、Messaging、Collaboration、および Communications で Microsoft 認定ソリューション エキスパート (MCSE) 試験を受験したい IT プロフェッショナルも、個々の専門分野のための前提条件となる MCSA 試験の準備として、このコースを受講することに興味を持っています。
+prerequisitesSection: |-
+  このコースに参加する前に、受講者は次のことが必要です&#58;
+  - Windows Server 2008 または Windows Server 2012 サーバーをエンタープライズ環境で日常的に使用した経験。
+
+  コースの前提条件はすべて、[20410C&#58; Installing and Configuring Windows Server 2012](https://www.microsoft.com/learning/course.aspx?ID=20410C&Locale=en-us) および [20411C&#58; Administering Windows Server 2012](https://www.microsoft.com/learning/course.aspx?ID=20411C)と同等の知識を持つか、当該コースに参加することで満たすことができます。これは、このコースが当該コースでカバーされる知識とスキルに基づいているためです。
+outlineSection: |-
+  ### モジュール 1&#58; 高度なネットワーク サービスの実装
+  このモジュールでは、Dynamic Host Configuration Protocol (DHCP) と Domain Name System (DNS) の高度な機能を構成し、IP Address Management (IPAM) を構成できるようになります。
+  #### レッスン
+  - 高度な DHCP 機能の構成
+  - 詳細な DNS 設定の構成
+  - IPAM の実装
+  - IPAM による IP アドレス スペースの管理
+
+
+  #### ラボ&#58; 高度なネットワーク サービスの実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Windows Server 2012 で DHCP の高度な機能を構成する。
+  - Windows Server 2012 で詳細な DNS 設定を構成する。
+  - Windows Server 2012 に IP アドレス管理を実装する。
+
+
+  ### モジュール 2&#58; 高度なファイル サービスの実装
+  このモジュールでは、高度なビジネス要件を満たすようにファイル サービスを構成できるようになります。
+  #### レッスン
+  - iSCSI ストレージの構成
+  - BranchCache の構成
+  - ストレージ使用量の最適化
+
+
+  #### ラボ&#58; 高度なファイル サービスの実装
+
+  #### ラボ&#58; BranchCache の実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - iSCSI を構成および管理する方法を学ぶ。
+  - Windows Server 2012 を使用して BranchCache を実装する。
+  - ストレージ使用率を最適化する Windows Server 2012 機能を実装する。
+
+
+  ### モジュール 3&#58; ダイナミック アクセス制御の実装
+  このモジュールでは、Dynamic Access Control (DAC) を構成して、共有ファイルへのアクセスを管理および監査できるようになります。
+  #### レッスン
+  - DAC の概要
+  - DAC コンポーネントの実装
+  - アクセス制御用の DAC の実装
+  - Access Denied Assistance の実装
+  - ワーク フォルダーの実装と管理
+
+
+  #### ラボ&#58; 安全なデータ アクセスの実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - DAC について説明する。
+  - DAC のコンポーネントを実装および構成する。
+  - ファイル サーバーに DAC を実装する。
+  - Access Denied Assistance について説明し、実装する。
+  - ワーク フォルダーと DAC の統合を実装する。
+
+
+  ### モジュール 4&#58; 分散 Active Directory ドメイン サービス展開の実装
+  このモジュールでは、複数のドメインとフォレストを含む Active Directory Domain Service (AD DS) の展開を計画および実装できるようになります。
+  #### レッスン
+  - 分散 AD DS 展開の概要
+  - 分散 AD DS 環境の展開
+  - AD DS 信頼の構成
+
+
+  #### ラボ&#58; 分散 AD DS 展開の実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - 非常に複雑な AD DS 展開のコンポーネントについて説明する。
+  - 複雑な AD DS 展開を実装する。
+  - AD DS 信頼を構成する。
+
+
+  ### モジュール 5&#58; Active Directory ドメイン サービス サイトとレプリケーションの実装
+  このモジュールでは、複数の場所を含む AD DS の展開を計画および実装できるようになります。
+  #### レッスン
+  - AD DS レプリケーションの概要
+  - AD DS サイトの構成
+  - AD DS レプリケーションの構成と監視
+
+
+  #### ラボ&#58; AD DS サイトとレプリケーションの実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Windows Server 2012 AD DS 環境でレプリケーションがどのように機能するかについて説明する。
+  - AD DS ネットワーク トラフィックを最適化するために AD DS サイトを構成する。
+  - AD DS レプリケーションを構成および監視する。
+
+
+  ### モジュール 6&#58; AD CS の実装
+  このモジュールでは、Active Directory Certificate Services (AD CS) の展開を実装できるようになります。
+  #### レッスン
+  - ビジネス環境における証明書の使用
+  - PKI の概要
+  - CA の展開
+  - 証​​明書テンプレートの展開と管理
+  - 証​​明書の配布と失効の実装
+  - 証​​明書の回復の管理
+
+
+  #### ラボ&#58; CA 階層のデプロイと構成
+
+  #### ラボ&#58; 証明書の展開と管理
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - ビジネス環境で証明書を説明し、使用する。
+  - Public Key Infrastructure (PKI) のコンポーネントと概念を説明し、証明機関基盤を実装するためのオプションを説明する。
+  - AD CS 証明機関インフラストラクチャを計画および実装する。
+  - AD CS 証明機関を使用して証明書テンプレートの展開を計画および実装する。
+  - 証​​明書の配布と取り消しを計画および実装する。
+  - キーのアーカイブとリカバリを構成および管理する。
+
+
+  ### モジュール 7&#58; Active Directory Rights Management サービスの実装
+  このモジュールでは、複数の場所を含む AD DS の展開を実装できるようになります。
+  #### レッスン
+  - AD RMS の概要
+  - AD RMS インフラストラクチャの展開と管理
+  - AD RMS コンテンツ保護の構成
+  - AD RMS への外部アクセスの構成
+
+
+  #### ラボ&#58; AD RMS の実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - AD RMS とは何か、およびそれを使用してコンテンツ保護を実現する方法について説明する。
+  - AD RMS インフラストラクチャを展開および管理する。
+  - AD RMS を使用してコンテンツ保護を構成する。
+  - 組織外のユーザーが AD RMS を使用して保護されたコンテンツにアクセスできるようにする。
+
+
+  ### モジュール 8&#58; AD FS の実装と管理
+  このモジュールでは、Active Directory Federation Services (AD FS) の展開を実装できるようになります。
+  #### レッスン
+  - AD FS の概要
+  - AD FS の展開
+  - 単一組織向けの AD FS の実装
+  - 企業間フェデレーション シナリオにおける AD FS の展開
+  - AD FS を外部クライアントに拡張する
+
+
+  #### ラボ&#58; AD FS の実装
+
+  #### ラボ&#58; 外部パートナーとユーザー向けの AD FS の実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - ID フェデレーションのビジネス シナリオと、AD FS を使用してシナリオに対処する方法について説明する。
+  - AD FS の前提条件を構成し、AD FS サービスを展開する。
+  - AD FS を実装して、単一の組織で SSO を有効にする。
+  - AD FS を実装して、フェデレーション パートナー間の SSO を有効にする。
+  - Web アプリケーション プロキシを実装し、AD FS との WorkPlace Join 統合について説明する。
+
+
+  ### モジュール 9&#58; ネットワーク負荷分散の実装
+  このモジュールでは、Network Load Balancing (NLB) を実装することにより、Web ベースのアプリケーションに高可用性と負荷分散を提供できるようになります。
+  #### レッスン
+  - NLB の概要
+  - NLB クラスターの構成
+  - NLB 実装の計画
+
+
+  #### ラボ&#58; NLB の実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - NLB のしくみを説明する。
+  - NLB クラスターを構成する。
+  - NLB の実装を計画する。
+
+
+  ### モジュール 10&#58; フェイルオーバー クラスタリングの実装
+  このモジュールでは、フェールオーバー クラスタリングを実装することにより、ネットワーク サービスとアプリケーションに高可用性を提供できるようになります。
+  #### レッスン
+  - フェールオーバー クラスタリングの概要
+  - フェールオーバー クラスターの実装
+  - フェールオーバー クラスターでの高可用性アプリケーションとサービスの構成
+  - フェールオーバー クラスターの維持
+  - マルチサイト フェールオーバー クラスターの実装
+
+
+  #### ラボ&#58; フェイルオーバー クラスタリングの実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Windows Server 2012 のフェールオーバー クラスタリング機能について説明する。
+  - フェールオーバー クラスターの実装方法について説明する。
+  - フェールオーバー クラスターで高可用性アプリケーションとサービスを構成する方法について説明する。
+  - フェールオーバー クラスターの保守方法と新しい保守機能の使用方法について説明する。
+  - マルチサイト フェールオーバー クラスターの実装方法を説明する。
+
+
+  ### モジュール 11&#58; Hyper-V を使用したフェイルオーバー クラスタリングの実装
+  このモジュールでは、フェールオーバー クラスター内の Hyper-V 仮想マシンを展開および管理できるようになります。
+  #### レッスン
+  - Hyper-V とフェールオーバー クラスタリングの統合の概要
+  - フェールオーバー クラスターでのHyper-V 仮想マシンの実装
+  - Hyper-V 仮想マシンの動きの実装
+
+
+  #### ラボ&#58; Hyper-V を使用したフェイルオーバー クラスタリングの実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - 仮想マシンを高可用性にするためのオプションについて説明する。
+  - ホストに展開されたフェールオーバー クラスターに仮想マシンを実装する方法について説明する。
+  - 仮想マシンまたはそのストレージを移動するためのオプションについて説明する。
+  - Microsoft System Center 2012- Virtual Machine Manager (VMM) 2012 の概要を説明する。
+
+
+  ### モジュール 12&#58; ビジネス継続性と障害回復の実装
+  このモジュールでは、ビジネス要件および技術要件に基づいて、バックアップと障害回復ソリューションを実装できるようになります。
+  #### レッスン
+  - データ保護の概要
+  - Windows Server バックアップの実装
+  - サーバーとデータ リカバリの実装
+
+
+  #### ラボ&#58; Windows Server のバックアップと復元の実装
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - 障害回復ソリューションを実装するときに含める必要がある考慮事項について説明する。
+  - Windows Server 2012 のバックアップ ソリューションを計画および実装する。
+  - サーバーとデータ リカバリを計画および実装する。
+

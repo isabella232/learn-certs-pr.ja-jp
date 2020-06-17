@@ -1,0 +1,48 @@
+### YamlMime:Course
+title: 'Networking Fundamentals: MTA Exam 98-366'
+metadata:
+  title: 'Course 40366-B: Networking Fundamentals: MTA Exam 98-366'
+  description: 'Course 40366-B: Networking Fundamentals: MTA Exam 98-366'
+uid: course.40366
+courseNumber: '40366-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: ネットワーク インフラストラクチャについて理解する
+- skill: ネットワーク ハードウェアについて理解する
+- skill: プロトコルとサービスについて理解する
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.98-361
+summary: |-
+  この 3 日間の MTA トレーニング コースでは、Microsoft Technology Associate 試験 98-366 の準備に役立ち、ネットワーク インフラストラクチャ、ネットワーク ハードウェア、プロトコルとサービスのトピックについて理解を深めることができます。このコースでは、この試験の Microsoft Official Academic Courses (MOAC) と同じコンテンツを利用しています。このコースは、Windows 10 をサポートするために更新されています。
+
+  #### 聴衆プロファイル
+  Microsoft Technology Associate (MTA) は、Microsoft のテクノロジを使用してキャリアを構築するために必要な基本的な知識を検証する、Microsoft の最新のテクノロジ認定資格試験です。このプログラムは、テクノロジの将来のキャリアへの適切なエントリー ポイントを提供し、いくつかの実地経験またはトレーニングを想定していますが、実務経験を想定していません。
+prerequisitesSection: |-
+  このコースの前提条件はありません。
+outlineSection: |-
+  ### モジュール 1&#58; ローカル エリア ネットワークについての理解
+
+  ### モジュール 2&#58; OSI モデルを使用したネットワークの定義
+
+  ### モジュール 3&#58; 有線および無線ネットワークについての理解
+
+  ### モジュール 4&#58; インターネット プロトコルについての理解
+
+  ### モジュール 5&#58; コマンドラインでの TCP/IP の実装
+
+  ### モジュール 6&#58; ネットワーク サービスの操作
+
+  ### モジュール 7&#58; 広域ネットワークについての理解
+
+  ### モジュール 8&#58; ネットワーク インフラストラクチャとネットワーク セキュリティの定義
+

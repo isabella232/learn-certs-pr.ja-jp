@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Developing Microsoft SQL Server Databases
+metadata:
+  title: 'Exam 70-464: Developing Microsoft SQL Server Databases'
+  description: 'Exam 70-464: Developing Microsoft SQL Server Databases'
+uid: exam.70-464
+displayName: 70-464
+summary: |-
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  この試験は、組織全体のデータベースの構築と実装に携わり、高レベルのデータ可用性を実現するデータベースのプロフェッショナルを対象としています。業務としては、データベース ファイル、データ型、およびテーブルの作成、インデックスの計画、作成、および最適化、データの整合性の確保、ビュー、ストアド プロシージャ、および関数の実装、トランザクションやロックの管理などが含まれます。
+
+  <div style='font-weight&#58; bold;'><br/>2016 年 2 月 18 日現在、この試験には SQL Server 2012 と 2014 の両方を対象としたコンテンツが含まれています。この試験には、SQL Server 2012 製品にのみ該当する機能に関する問題は含まれていません。詳しくは、<a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tCcY"> 本ドキュメントをダウンロードしてご確認ください</a>。</div>
+subTitle: この試験は、組織全体のデータベースの構築と実装に携わり、高レベルのデータ可用性を実現するデータベースのプロフェッショナルを対象としています。業務としては、データベース ファイル、データ型、およびテーブルの作成、インデックスの計画、作成、および最適化、データの整合性の確保、ビュー、ストアド プロシージャ、および関数の実装、トランザクションやロックの管理などが含まれます。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkI
+practiceTestUrl: https://www.mindhub.com/70-464-developing-microsoft-sql-server-databases/p/MU-70-464?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-464&examname=Developing%20Microsoft%20SQL%20Server%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-464
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- データベース オブジェクトの実装 (30-35%)
+- プログラミング オブジェクトの実装 (15-20%)
+- データベース オブジェクトの設計 (25-30%)
+- クエリの最適化およびトラブルシューティング (25-30%)
+roles:
+- data-engineer
+products:
+- sql-server
+courses:
+- uid: course.20464
+relatedCertifications:
+- related:
+    uid: certification.mcse-data-management-analytics
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

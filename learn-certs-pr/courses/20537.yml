@@ -1,0 +1,247 @@
+### YamlMime:Course
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack
+metadata:
+  title: 'Course 20537-B: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack'
+  description: 'Course 20537-B: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack'
+uid: course.20537
+courseNumber: '20537-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Microsoft Azure Stack のコンポーネントとアーキテクチャについて説明する。
+- skill: Microsoft Azure Stack を展開する。
+- skill: Microsoft Azure Stack で使用される Windows Server 2016 の機能を理解する。
+- skill: DevOps で Microsoft Azure Stack をどのように使用するかを理解する。
+- skill: Microsoft Azure Stack のリソースを提供する。
+- skill: Microsoft Azure Stack で IaaS を管理する。
+- skill: Microsoft Azure Stack で PaaS を管理する。
+- skill: Microsoft Azure Stack の更新を管理する。
+- skill: Microsoft Azure Stack で監視とトラブルシューティングを実行する。
+- skill: Microsoft Azure Stack のライセンスと課金の仕組みを理解する。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.70-537
+summary: |-
+  この 5 日間のコースでは、 Microsoft Azure Stack の展開と構成に必要な主要な知識を提供します。実践的なラボを使用して、受講者は以下のことを学びます。
+  - Microsoft Azure Stack の主な機能と特徴。 
+  - Microsoft Azure Stack、 Microsoft Azure、 Windows Azure Pack の違い。
+  - Microsoft Azure Stack のアーキテクチャとコンポーネント。
+  - Microsoft Azure Stack の展開方法。
+  - Microsoft Azure Stack で使用される Windows Server の役割と機能。
+  - Microsoft Azure Stack のアイデンティティと認証の仕組み。
+  - Microsoft Azure Stack による DevOps の実現方法 
+  - Azure Resource Manager テンプレートの作成と管理の方法。
+  - プランの作成と管理の方法。オファーとデリゲーションの作成と管理の方法。
+  - Microsoft Azure Stack でマーケットプレイスを管理する。
+  - Microsoft Azure Stack のソフトウェア定義ネットワーク。
+  - Microsoft Azure Stack でストレージをプロビジョニングおよび管理する方法を理解する。
+  - Microsoft Azure Stack で仮想マシンをプロビジョニングする方法。
+  - Microsoft Azure Stack でのリソースプロバイダの設定。
+  - Microsoft Azure Stack の監視とトラブルシューティングの方法。
+  - Microsoft Azure Stack のライセンスと課金の仕組みを理解する。
+  
+  #### 聴衆プロファイル
+  本コースは、Microsoft Azure Stack を使用して、自社のデータセンター(DataCenter)内からエンドユーザーや顧客にクラウドサービスを提供することに興味があるサービス管理者、DevOps、クラウドアーキテクトを対象としています。
+prerequisitesSection: |-
+  本コースに参加する前に、受講者は以下のような条件が必要です。
+  - Windows Server 2016 に関する実務知識。
+  - SQL Server 2014 に関する実務知識。
+  - Microsoft Azure に関する実務知識。
+outlineSection: |-
+  ### モジュール 1&#58; Azure Stackの概要
+  この最初のモジュールでは、 Azure Stack に関連する重要な概念を説明し、Azure Stack とは何か、そしてそれが提供する機能を理解するのに役立ちます。また、 Azure Stack、 Microsoft Azure、 Windows Azure Pack の差別化要因についても学びます。
+  #### レッスン
+  - Azure Stack とは？
+  - Azure Stack と Microsoft Azure の比較。
+  - Azure Stack と Windows Azure Pack の比較。
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  -  Azure Stack の主な機能と特徴について説明する。
+  - Azure Stack と Microsoft Azure の違いを理解する。
+  - Azure Stack と Windows Azure Pack の違いを理解する。
+
+
+  ### モジュール 2&#58; Microsoft Azure Stack の基本コンポーネント
+  本モジュールでは、 Azure Stack で使用される Windows Server 2016 の機能と、 Azure Stack 環境の管理と保守をさらに強化するために追加できるオプションの System Center 2016 コンポーネントについて学びます。  また、 Azure Stack がどのように認証を管理しているのか、利用可能なさまざまな認証プロバイダについても学びます。
+
+
+  #### レッスン
+  - Windows Server 2016 および System Center 2016 。
+  - アイデンティティ と認証。
+
+
+  #### ラボ&#58;  Azure Stack インフラストラクチャの確認
+  - Azure Stack インフラストラクチャコンポーネントの確認
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Microsoft Azure Stack で Windows Server 2016 とオプションの System Center 2016 の機能がどのように使用されているかを理解する。
+  - Microsoft Azure Stack のアイデンティティと認証の仕組みを理解する。
+
+
+  ### モジュール 3&#58;  Microsoft Azure Stack の展開
+  本モジュールでは、 Azure Stack の内部アーキテクチャの一部と、 Azure Stack がどのようにシステムの基盤を形成するかについて説明します。本コースでは、さまざまな Azure Stack の概念について説明します。
+  - ソフトウェアで定義されたデータセンター(DataCenter)
+  - Azure Stack の内部アーキテクチャ
+  - Azure Stack インフラストラクチャ
+  - Azure Stack 必須要件
+  - Azure Stack の計画とインストール
+  #### レッスン
+  - Microsoft Azure Stack アーキテクチャ
+  - Azure Stack 必須要件
+  - Azure Stack のインストール
+
+
+  #### ラボ&#58; 必須要件の確認と Microsoft Azure Stack のインストール
+  - 必須要件の確認
+  - インストールが正常に完了したことの確認。
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Microsoft Azure Stack アーキテクチャを説明する。
+  - Microsoft Azure Stack の必須要件を理解する。
+  - Microsoft Azure Stack をインストールする。
+
+
+  ### モジュール 4&#58;  Microsoft Azure Stack リソースの提供
+  本モジュールでは、仮想マシンや SQL Server データベースなどのリソースを使用する際にテナントが使用するメカニズムを提供する Azure Stack の主な機能について説明します。
+  #### レッスン
+  - プランとオファーの操作。
+  - Microsoft Azure Stack マーケットプレイス。
+  - Azure Stack でマルチテナンシーの有効化。
+  - Azure Stack と Windows Azure Pack の統合。
+
+
+  #### ラボ&#58; Microsoft Azure Stack の計画とオファーの管理
+  - プランの設定。
+  - オファーの設定。
+  - オファーの承認。
+  - オファーの委任。
+  - 新しいマーケトプレイスアイテムの作成。
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Microsoft Azure Stack のオファーと計画を設定する。
+  - Microsoft Azure Stack マーケットプレイスを管理する。
+  - Azure Stack でマルチテナンシーの有効にする。
+  - Azure Stack と Windows Azure Pack を統合する。
+
+
+  ### モジュール 5&#58;Microsoft Azure と DevOps
+  本モジュールでは、 Azure Stackがどのようにして組織が DevOps を活用できるようにするかの基本的なことについて説明します。Azure Stack、Azure Resource Manager、利用可能な SDK と API、そして PowerShell Desired State Configuration、Chef と Puppetのような構成管理技術をどのように使用して、アプリケーションの高速かつ一貫した展開を安定性とともに促進することができるかについても詳細に説明しています。
+  #### レッスン
+  - Microsoft Azure Stack for DevOps で使用されるテクノロジー。
+  - Azure Resource Manager テンプレート。
+  - サードパーティのリソースプロバイダ。
+
+
+  #### ラボ&#58; ARM テンプレートのデバッグと展開
+  - API バージョンを取得するための Windows PowerShell の使用 。
+  - Visual Studio で ARM テンプレートをデバッグする。
+  - Azure CLI を使用して仮想マシンを展開する。
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Microsoft Azure Stack の DevOps で使用されるテクノロジーを理解する。
+  - Azure Resource Manager のテンプレートについて理解する。
+  - Microsoft Azure Stack で利用可能なサードパーティのリソースプロバイダについて理解する。
+
+
+  ### モジュール 6&#58;  Infrastructure as a Service と Microsoft Azure Stack
+  本モジュールでは、Azure Stack の Infrastructure as a Service について説明します。これは、以下の領域を対象としています。
+
+  - ソフトウェアで定義されたデータセンター(DataCenter)
+  - Hyper-V ネットワーク仮想化
+  - Azure Stack への外部接続
+  - Azure Stack の Azure 一貫ストレージ
+  - Azure Stack の仮想マシン
+
+
+  #### レッスン
+  - Microsoft Azure Stack および Windows Server 2016 によるソフトウェアデファインドネットワークの改善。
+  - Azure Stack ストレージ
+  - Microsoft Azure Stack の仮想マシン
+
+
+  #### ラボ&#58; Microsoft Azure Stack でのストレージと仮想マシンのプロビジョニング
+  - サブスクリプションおよびリソースグループの作成
+  - ストレージアカウントの作成
+  - 仮想ネットワークの作成
+  - 仮想マシンの作成
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Microsoft Azure Stack および Windows Server 2016 によるソフトウェアデファインドネットワーキングの改善点を理解する。
+  - Azure Stack ストレージを設定する。
+  - Microsoft Azure Stack の仮想マシンを展開する。
+
+
+  ### モジュール 7&#58;  Platform as a Service と Microsoft Azure Stack
+  スタックは、 Microsoft Azure から Azure Stack に Platform as Service （PaaS）ベースのオファリングをもたらします。Microsoft Azure はもともと、 PaaS ベースのアプリケーション開発向けに設計されたものであり、 IaaS ベースのサービスは後で追加されました。Azure Stack の初期リリースでは、 Microsoft は 4 つの PaaS ベースのサービスを提供しています &#58; SQL ＆ MySQL データベース、
+  ウェブサイト用アプリサービス 、パスワードや証明書などの秘密を安全に保存するための Key Vault、 サーバーレスコンピュートのための Azure Functions 。本モジュールでは、各サービスについて詳しく説明し、これらのサービスをどのように活用できるかを示します。
+  #### レッスン
+  - Platform as a Service の理解。
+  - Microsoft Azure Stack の SQL Server ＆ MySQL Server プロバイダ。
+  - アプリサービスプロバイダ。
+  - Azure Key Vault。
+  - Azure Functions。
+
+
+  #### ラボ&#58; Azure Stack での Platform as a Service の設定
+  - ホスティングサーバーの追加
+  - プランとオファーの設定
+  - SQL Server データベースの作成
+  - アプリサービス用のプランとオファーの設定
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  -  Platform as a Service について説明する。
+  - SQL ＆ MySQL リソースプロバイダを設定する。
+  - アプリサービスリソースプロバイダを設定する。
+  - Azure Stack での Key Vault の動作を理解する。
+  - Azure Stack で Azure Functions がどのように動作するかを理解する。
+
+
+  ### モジュール 8&#58;  Microsoft Azure Stack におけるのモニタリング
+  本モジュールでは、 Azure Stack の監視方法と更新方法について学びます。また、 Azure Stack を使用して、テナントがプロビジョニングしたゲストワークロードを監視する方法についても学びます。Azure Stack のコアコンポーネントのトラブルシューティングの方法について学びます。最後に、 Azure Stack インフラストラクチャの保護方法と、テナントのワークロードを保護する方法について学びます。
+  #### レッスン
+  - フィールド交換可能ユニット。
+  - Azure Stack コントロールプレーンの監視。
+  - Azure Stack Infrastructure のパッチ適用。
+  - Microsoft Azure Stack でのゲストワークロードの監視。
+  - Azure Stack のトラブルシューティング。
+  - Azure Stack とテナントのワークロードの保護。
+
+
+  #### ラボ&#58; Microsoft Azure Stack およびゲストオペレーティングシステムのトラブルシューティングと監視
+  - Azure Stack の監視。
+  - ゲストオペレーティングシステムの監視。
+  - 監査ログとアラートを使用した Azure Stack のトラブルシューティング。
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Microsoft Azure Stack のフィールド交換可能ユニットの概念について説明する。
+  - Microsoft Azure Stack での制御プレーン監視について説明する。
+  - Microsoft Azure Stack でのパッチを管理する方法について理解する。
+  - Microsoft Azure Stack でのゲストワークロードを監視する。
+  - Microsoft Azure Stack をトラブルシューティングする。
+  - Azure Stack とテナントのワークロードを保護する。
+
+
+  ### モジュール 9&#58; ライセンス Microsoft Azure Stack and Billing Tenants
+  本モジュールでは、 Azure Stack の 2 つの課金モデルを含め、Azure Stack がマイクロソフトからどのようにライセンスされているのか、Azure Stack の導入にはどのような他のコストが一般的にかかるのかを学びます。
+  #### レッスン
+  - Microsoft Azure Stack のライセンスとトラブルシューティングの方法。
+  - Azure Consistent Usage API。
+  - Azure Stack を使用したビジネスコストとモデル。
+
+
+  #### ラボ&#58; 使用情報の取得
+  - Azure Stack 使用情報の取得。
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Azure Stack の課金方法を理解する。
+  - Azure Consistent Usage API を使用する。
+  - Azure Stack でビジネスコストとモデルを理解する。
+

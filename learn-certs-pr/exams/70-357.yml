@@ -1,0 +1,63 @@
+### YamlMime:Examination
+title: Developing Mobile Apps
+metadata:
+  title: 'Exam 70-357: Developing Mobile Apps'
+  description: 'Exam 70-357: Developing Mobile Apps'
+uid: exam.70-357
+displayName: 70-357
+summary: |-
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  この試験の受験者は、Windows ストアまたはビジネス向け Windows ストアのいずれかに展開するために Windows 10 アプリを設計および開発する経験豊富な開発者の方です。
+
+  受験者は通常、WPF または Silverlight for Windows Phone の経験に加えて、C# と XAML を使用した Windows アプリの開発について 2 年を超える経験のある方です。また受験者には、認証テクノロジと共に Model-View-ViewModel (MVVM) デザイン パターンと Entity Framework に関する経験が必要です。Visual Studio 2015 の経験が強く推奨されます。
+subTitle: この試験の受験者は、Windows ストアまたはビジネス向け Windows ストアのいずれかに展開するために Windows 10 アプリを設計および開発する経験豊富な開発者の方です。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjH
+practiceTestUrl: https://www.mindhub.com/70-357-developing-mobile-apps-microsoft-official/p/MU-70-357?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-357&examname=Developing%20Mobile%20Apps&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-357
+locales:
+- en
+- es
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+- ru
+levels:
+- intermediate
+skills:
+- アダプティブ UI の XAML ページ レイアウトの作成 (10-15%)
+- ページ ナビゲーションとライフサイクル イベントの実装 (10-15%)
+- データ アクセスとデータ バインディングの実装 (20-25%)
+- アダプティブ コーディング用の機能検出の実装 (10-15%)
+- ユーザー入力とユーザーのカスタム操作の管理 (10-15%)
+- 認証と ID の管理 (10-15%)
+- 通知、バックグラウンド タスク、再利用可能なコンポーネントの実装 (15-20%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mcsa-universal-windows-platform
+- related:
+    uid: certification.mcsd-app-builder-certification
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

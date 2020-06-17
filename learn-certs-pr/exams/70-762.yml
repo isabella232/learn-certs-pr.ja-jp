@@ -1,0 +1,52 @@
+### YamlMime:Examination
+title: Developing SQL Databases
+metadata:
+  title: 'Exam 70-762: Developing SQL Databases'
+  description: 'Exam 70-762: Developing SQL Databases'
+uid: exam.70-762
+displayName: 70-762
+summary: |-
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  この試験は、組織全体のデータベースの構築と実装に携わり、高レベルのデータ可用性を実現するデータベースのプロフェッショナルを対象としています。業務としては、データベース ファイル、データ型、およびテーブルの作成、インデックスの計画、作成、および最適化、データの整合性の確保、ビュー、ストアド プロシージャ、および関数の実装、トランザクションやロックの管理などが含まれます。
+subTitle: この試験は、組織全体のデータベースの構築と実装に携わり、高レベルのデータ可用性を実現するデータベースのプロフェッショナルを対象としています。業務としては、データベース ファイル、データ型、およびテーブルの作成、インデックスの計画、作成、および最適化、データの整合性の確保、ビュー、ストアド プロシージャ、および関数の実装、トランザクションやロックの管理などが含まれます。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXU
+practiceTestUrl: https://www.mindhub.com/70-762-Developing-SQL-Databases-p/mu-70-762_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-762&examname=Developing%20SQL%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-762
+locales:
+- en
+levels:
+- advanced
+skills:
+- データベース オブジェクトの設計と実装 (25-30%)
+- プログラミング オブジェクトの実装 (20-25%)
+- データベースの同時実行の管理 (25-30%)
+- データベース オブジェクトと SQL インフラストラクチャの最適化 (20-25%)
+roles:
+- database-administrator
+products:
+- sql-server
+courses:
+- uid: course.20762
+relatedCertifications:
+- related:
+    uid: certification.mcse-data-management-analytics
+- related:
+    uid: certification.mcsa-sql2016-database-development-certification
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

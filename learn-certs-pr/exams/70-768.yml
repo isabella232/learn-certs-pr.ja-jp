@@ -1,0 +1,52 @@
+### YamlMime:Examination
+title: Developing SQL Data Models
+metadata:
+  title: 'Exam 70-768: Developing SQL Data Models'
+  description: 'Exam 70-768: Developing SQL Data Models'
+uid: exam.70-768
+displayName: 70-768
+summary: |-
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  この試験は、ビジネス インテリジェンス (BI) の開発者で、BI ソリューションの作成に携わるうえで必要な多次元データ モデルの実装、OLAP キューブの実装と維持、および表形式データ モデルの実装を行う方を対象としています。
+subTitle: この試験は、ビジネス インテリジェンス (BI) の開発者で、BI ソリューションの作成に携わるうえで必要な多次元データ モデルの実装、OLAP キューブの実装と維持、および表形式データ モデルの実装を行う方を対象としています。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjR
+practiceTestUrl: https://www.mindhub.com/70-768-Developing-SQL-Data-Models-p/mu-70-768_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-768&examname=Developing%20SQL%20Data%20Models&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-768
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 多次元のビジネス インテリジェンス (BI) セマンティック モデルの設計 (25-30%)
+- 表形式の BI セマンティック モデルの設計 (20-25%)
+- 多次元式 (MDX) と Data Analysis Expressions (DAX) を使用したクエリの開発 (15-20%)
+- SQL Server Analysis Services (SSAS) の構成と維持 (30-35%)
+roles:
+- data-analyst
+products:
+- sql-server
+courses:
+- uid: course.20768
+relatedCertifications:
+- related:
+    uid: certification.mcsa-sql2016-business-intelligence-certification
+- related:
+    uid: certification.mcse-data-management-analytics
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

@@ -1,0 +1,69 @@
+### YamlMime:Examination
+title: Developing ASP.NET MVC Web Applications
+metadata:
+  title: 'Exam 70-486: Developing ASP.NET MVC Web Applications'
+  description: 'Exam 70-486: Developing ASP.NET MVC Web Applications'
+uid: exam.70-486
+displayName: 70-486
+summary: |+
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  この試験の受験対象者は、Webソリューションを設計、開発するために、MicrosoftのVisual Studio 2017 と ASP.NET を使用するプロの開発者です。受験者は、少なくとも3年から5年のMicrosoft ASP.NET MVCベースのソリューションとMicrosoft AzureのWebアプリケーションの知識を開発した経験を持っている必要があります。
+
+  候補者はまた、次のよう;を持っている必要があります&#58;
+  - ASP.NET MVC モデルでの Web アプリケーションの設計と開発
+  - ビジネス要件に基づいたユーザー インタラクション ソリューションの計画と設計
+  - Web アプリケーションの完全なソフトウェア開発ライフサイクルの経験
+  - Azure を含めて開発と多層環境への展開
+  - 非同期ソリューションの設計と開発
+
+  <div style='font-weight&#58; bold;'><br/>注意&#58; 2018 年 1 月 15 日現在の試験の更新があります。これらの変更点と、測定されるスキルにそれがどのように影響するかについての詳細は、Exam 486 の変更ドキュメントをダウンロードしてご確認ください。</div>
+subTitle: この試験の受験対象者は、Webソリューションを設計、開発するために、MicrosoftのVisual Studio 2017 と ASP.NET を使用するプロの開発者です。受験者は、少なくとも3年から5年のMicrosoft ASP.NET MVCベースのソリューションとMicrosoft AzureのWebアプリケーションの知識を開発した経験を持っている必要があります。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkK
+practiceTestUrl: https://www.mindhub.com/70-486-developing-asppnet-mvc-web-applications/p/MU-70-486?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-486&examname=Developing%20ASP.NET%20MVC%20Web%20Applications&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-486
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- アプリケーション アーキテクチャの設計 (15-20%)
+- 配置アーキテクチャの構築と設計 (10-15%)
+- ユーザー エクスペリエンスの設計 (15-20%)
+- ユーザー エクスペリエンスの開発 (15-20%)
+- Web アプリケーションのトラブルシューティングとデバッグ (20-25%)
+- セキュリティの設計と実装 (15-20%)
+roles:
+- developer
+products:
+- aspnet-core
+courses:
+- uid: course.20486
+relatedCertifications:
+- related:
+    uid: certification.mcsa-web-applications-certification
+- related:
+    uid: certification.mcsd-app-builder-certification
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

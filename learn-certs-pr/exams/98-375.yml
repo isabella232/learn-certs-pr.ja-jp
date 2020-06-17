@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: HTML5 Application Development Fundamentals
+metadata:
+  title: 'Exam 98-375: HTML5 Application Development Fundamentals'
+  description: 'Exam 98-375: HTML5 Application Development Fundamentals'
+uid: exam.98-375
+displayName: 98-375
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  この試験の受験者は、今日のタッチ対応デバイス (PC、タブレット、携帯電話) で動作する HTML5 クライアント アプリケーションの開発のコア スキルを証明しようとしている個人を対象としています。HTML はブラウザーでレンダリングして UI を生成する Web テクノロジと考えられがちですが、この試験は HTML5、CSS3、および JavaScript を使用してクライアント アプリケーションを開発する方法に焦点を当てています。この試験を受ける前に、受験者はこの準備ガイドで概説したトピック (CSS や JavaScript など) に関する強固な基礎知識が必要です。受験者には、関連するトレーニング コースを受講するか、MSDN と Microsoft Visual Studio で利用可能なチュートリアルとサンプルを利用して、関連テクノロジの概念を理解し、実地経験を積むことをお勧めします。
+subTitle: この試験の受験者は、今日のタッチ対応デバイス (PC、タブレット、携帯電話) で動作する HTML5 クライアント アプリケーションの開発のコア スキルを証明しようとしている個人を対象としています。HTML はブラウザーでレンダリングして UI を生成する Web テクノロジと考えられがちですが、この試験は HTML5、CSS3、および JavaScript を使用してクライアント アプリケーションを開発する方法に焦点を当てています。この試験を受ける前に、受験者はこの準備ガイドで概説したトピック (CSS や JavaScript など) に関する強固な基礎知識が必要です。受験者には、関連するトレーニング コースを受講するか、MSDN と Microsoft Visual Studio で利用可能なチュートリアルとサンプルを利用して、関連テクノロジの概念を理解し、実地経験を積むことをお勧めします。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJs
+practiceTestUrl: https://www.mindhub.com/MTA-98-375-HTML5-Application-Development-Fundame-p/mu-98-375_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=98-375&examname=HTML5%20Application%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-375
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- アプリケーションのライフサイクルを管理する(20-25%)
+- HTML5を使用してユーザーインターフェイス(UI)を構築する(25-30%)
+- カスケードスタイルシート(CSS)を使用してユーザーインターフェイスをフォーマットする(20-25%)
+- JavaScriptを使用したコーディング(30-35%)
+roles:
+- developer
+products:
+- vs
+courses:
+- uid: course.40375
+- uid: course.40034
+relatedCertifications:
+- related:
+    uid: certification.mta-html5-application-development-fundamentals
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+

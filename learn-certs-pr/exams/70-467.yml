@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Designing Business Intelligence Solutions with Microsoft SQL Server
+metadata:
+  title: 'Exam 70-467: Designing Business Intelligence Solutions with Microsoft SQL Server'
+  description: 'Exam 70-467: Designing Business Intelligence Solutions with Microsoft SQL Server'
+uid: exam.70-467
+displayName: 70-467
+summary: |-
+  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  </div>
+
+  この試験は、ビジネス インテリジェンス (BI) の設計者で、業務として BI インフラストラクチャ全体の設計と他のデータ システムとの連携を実行する方を対象としています。
+
+  <div style='font-weight&#58; bold;'><br/>2016 年 2 月 18 日現在、この試験には SQL Server 2012 と 2014 の両方を対象としたコンテンツが含まれています。この試験には、SQL Server 2012 製品にのみ該当する機能に関する問題は含まれていません。詳しくは、<a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tt8Z"> 本ドキュメントをダウンロードしてご確認ください</a>。</div>
+subTitle: この試験は、ビジネス インテリジェンス (BI) の設計者で、業務として BI インフラストラクチャ全体の設計と他のデータ システムとの連携を実行する方を対象としています。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXf
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-467&examname=Designing%20Business%20Intelligence%20Solutions%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-467
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- ビジネス インテリジェンス (BI) インフラストラクチャの計画 (15-20%)
+- BI インフラストラクチャの設計 (15-20%)
+- レポーﾄ ソリューションの設計 (20-25%)
+- BI データ モデルの設計 (30-35%)
+- ETL ソリューションの設計 (10-15%)
+roles:
+- data-engineer
+products:
+- sql-server
+courses:
+- uid: course.20467
+relatedCertifications:
+- related:
+    uid: certification.mcse-data-management-analytics
+resources:
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: ../certification-exam-policies.md
+
