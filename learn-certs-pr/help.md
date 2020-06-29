@@ -11,7 +11,7 @@ ms.author: micsullivan
 ---
 # Microsoft トレーニングおよび資格のヘルプ
 
-<div style='color: red;'><strong><font color="red"><br/>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>詳細について学びます</a>。</font></strong><br/><br/></div>
+<div style='color&#58; red;'><strong><font color="red"><br/>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>詳細について学びます</a>。</font></strong><br/><br/></div>
 
 Microsoft のトレーニングと認定の製品についてご質問がありますか？[Microsoft Learn](/learn/certifications/) にアクセスすると、Microsoft トレーニング、認定、試験、Microsoft 公認コース (MOC) などに関するほとんどの質問への回答が見つかります。
 
@@ -23,8 +23,8 @@ Microsoft のトレーニングと認定の製品についてご質問があり�
 
 | サポートの範囲 | お問い合わせ先 |
 |------------- |--- |
-| **Microsoft Certification** | あなたの質問は、[Technical Certification Overview](https://www.microsoft.com/learning/certification-overview.aspx) で既に回答されている場合があります <br/><br/>  **認定サポートフォーラム：**<br/>モデレートされた [認証サポート フォーラム](https://aka.ms/MCPForum) を通じてヘルプをご覧ください。<br/><br/>  フォーラム モデレーターが 1 営業日以内に回答します。|
-| **Microsoft Certified Trainer (MCT) プログラム** | あなたの質問は [MCTプログラムの概要](https://www.microsoft.com/learning/mct-certification.aspx)で既に回答されている場合があります。<br/><br/>  **MCT サポート フォーラム：**<br/> モデレートされた [MCT サポート フォーラム](https://aka.ms/MCTForum) を通じてヘルプをご覧ください。<br/><br/> フォーラム モデレーターが 1 営業日以内に回答します。|
+| **Microsoft Certification** | あなたの質問は、[Technical Certification Overview](/learn/certifications/) で既に回答されている場合があります <br/><br/>  **認定サポートフォーラム：**<br/>モデレートされた [認証サポート フォーラム](https://aka.ms/MCPForum) を通じてヘルプをご覧ください。<br/><br/>  フォーラム モデレーターが 1 営業日以内に回答します。|
+| **Microsoft Certified Trainer (MCT) プログラム** | あなたの質問は [MCTプログラムの概要](/learn/certifications/mct-certification)で既に回答されている場合があります。<br/><br/>  **MCT サポート フォーラム：**<br/> モデレートされた [MCT サポート フォーラム](https://aka.ms/MCTForum) を通じてヘルプをご覧ください。<br/><br/> フォーラム モデレーターが 1 営業日以内に回答します。|
 
 ## トレーニングのヘルプ
 

@@ -9,30 +9,16 @@ ms.workload: NA
 ms.date: 08/22/2019
 ms.author: micsullivan
 ---
-# Microsoft 認定試験について
+#  Microsoft 認定試験について
 
 Microsoft 認定資格があると、自身のキャリアを最初からその頂点へと高めることができます。認定は、あなたの認知度を高め、あなたを他の人から区別し、特徴分けし、そしてあなたの知識とスキルの検証となります。
 
 
 ## Microsoft認定試験に登録する。
 
-### Microsoft Office 認定資格
+試験アカデミック アウトレットを介して実施される Microsoft Office Specialist (MOS) 試験および/または その他の試験は、Microsoft Technology Associate (MTA) 試験の場合は、[register at Certiport](https://www.certiport.com/portal/Pages/Registration.aspx) からご登録ください。
 
-試験アカデミック アウトレットを介して実施される Microsoft Office Specialist (MOS) 試験および Microsoft Technology Associate (MTA) 試験の場合は、[Certiportで登録](https://www.certiport.com/portal/Pages/Registration.aspx) を参照してください。
-
-### Microsoft Technical Certification
-
-商業的アウトレットを介して実施されるその他すべての Microsoft 認定パスおよび MTA 試験については、 [Microsoft にサインイン](https://www.microsoft.com/learning/signin.aspx)、次に [ピアソン VUE で試験とスケジュールを選択 ](https://www.microsoft.com/learning/exam-list.aspx)を参照してください。
-
-## 認定試験をブラウズ
-
-- [Azure exams](https://www.microsoft.com/learning/azure-exams.aspx)
-- [Data exams](https://www.microsoft.com/learning/data-and-ai-exams.aspx)
-- [Microsoft 365 exams](https://www.microsoft.com/learning/microsoft-365-exams.aspx)
-- [Microsoft Dynamics 365 exams](https://www.microsoft.com/learning/dynamics-365-exams.aspx)
-- [Modern Desktop exams](https://www.microsoft.com/learning/modern-desktop-exams.aspx)
-- [Windows Server 2016 exams](https://www.microsoft.com/learning/windows-server-2016-exams.aspx)
-- [All exams](https://www.microsoft.com/learning/exam-list.aspx)
+販売店を通じて提供される試験については、[試験を選択し、Microsoftにサインインしてプロンプトに従い登録する](/learn/certifications/browse/?resource_type=examination)。
 
 ## 試験に備える
 
@@ -46,13 +32,14 @@ Microsoft 認定資格があると、自身のキャリアを最初からその�
 
 #### 無料オンライントレーニングを検索
 
-[世界レベルのエキスパートによる無料オンライントレーニングによって、技術スキルを伸ばし、キャリアを向上させることができます。](https://mva.microsoft.com/)
+段階的なガイダンスで新しいスキルを学び、Microsoft  製品の力を発見してください。  
+[私たちの学習パスとモジュールを探索することにより、今日あなたの旅を開始します。](/learn/browse/)
 
 #### Microsoft 公式演習テストが
 
 [Microsoft 公式演習テストを探す](https://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm)
 
-#### Microsoft プレスの書籍
+#### Microsoft Press Books
 
 [エキスパートが執筆した書籍を Microsoft プレスで検索。](https://www.microsoftpressstore.com/)
 
@@ -61,99 +48,100 @@ Microsoft 認定資格があると、自身のキャリアを最初からその�
 試験のセキュリティと認定資格の価値を保護するために、試験形式や質問のタイプを試験前に明らかにすることはありません。Microsoft は、絶えず革新的な試験テクノロジや質問のタイプを導入しており、これらを事前の予告なくいつでも試験に組み込む権利を有しています。試験には次の内容が含まれる可能性があります。
 
 ### 試験と質問のサンプル
+
 #### 実際の画面 (0:44)
 
 <div>
-    <a href="https://www.youtube.com/watch?v=7CvYGpSVbkA" target="_blank"><img width="450px" src="images/active-screen.jpg" alt="Active screen"/></a>
-    <br/>
+	<a href="https://www.youtube.com/watch?v=7CvYGpSVbkA" target="_blank"><img width="450px" src="images/active-screen.jpg" alt="Active screen"/></a>
+	<br/>
 </div>
 
 
 #### 最適解問題 (0:20)
 
 <div>
-    <a href="https://youtu.be/-Z2GPTFtvjk" target="_blank"><img width="450px" src="images/best-answer.jpg" alt="Best answer"/></a>
-    <br/>
+	<a href="https://youtu.be/-Z2GPTFtvjk" target="_blank"><img width="450px" src="images/best-answer.jpg" alt="Best answer"/></a>
+	<br/>
 </div>
 
 
 #### リストの作成 (0:45)
 
 <div>
-    <a href="https://youtu.be/lUN2mIaegJM" target="_blank"><img width="450px" src="images/build-list.jpg" alt="Build list"/></a>
-    <br/>
+	<a href="https://youtu.be/lUN2mIaegJM" target="_blank"><img width="450px" src="images/build-list.jpg" alt="Build list"/></a>
+	<br/>
 </div>
 
 
 #### 事例 (1:13)
 
 <div>
-    <a href="https://youtu.be/iGxdMTz788k" target="_blank"><img width="450px" src="images/case-studies.jpg" alt="Case studies"/></a>
-    <br/>
+	<a href="https://youtu.be/iGxdMTz788k" target="_blank"><img width="450px" src="images/case-studies.jpg" alt="Case studies"/></a>
+	<br/>
 </div>
 
 
 #### ドラッグ アンド ドロップ (0:37)
 
 <div>
-    <a href="https://youtu.be/yfvegCS-2WE" target="_blank"><img width="450px" src="images/drag-and-drop.jpg" alt="Drag and drop"/></a>
-    <br/>
+	<a href="https://youtu.be/yfvegCS-2WE" target="_blank"><img width="450px" src="images/drag-and-drop.jpg" alt="Drag and drop"/></a>
+	<br/>
 </div>
 
 
-#### あついエリア (0:17)
+#### ホットエリア (0:17)
 
 <div>
-    <a href="https://youtu.be/vWyzLlyi4oY" target="_blank"><img width="450px" src="images/hot-area.jpg" alt="Hot area"/></a>
-    <br/>
+	<a href="https://youtu.be/vWyzLlyi4oY" target="_blank"><img width="450px" src="images/hot-area.jpg" alt="Hot area"/></a>
+	<br/>
 </div>
 
 
 #### 複数の選択 (0:37)
 
 <div>
-    <a href="https://youtu.be/lvpACCsv558" target="_blank"><img width="450px" src="images/multiple-choice.jpg" alt="Multiple choice"/></a>
-    <br/>
+	<a href="https://youtu.be/lvpACCsv558" target="_blank"><img width="450px" src="images/multiple-choice.jpg" alt="Multiple choice"/></a>
+	<br/>
 </div>
 
 
 #### 繰り返し答えられた選択 (0:20)
 
 <div>
-    <a href="https://youtu.be/fb4KSwY_dxo" target="_blank"><img width="450px" src="images/repeated-answer-choices.jpg" alt="Repeated answer choices"/></a>
-    <br/>
+	<a href="https://youtu.be/fb4KSwY_dxo" target="_blank"><img width="450px" src="images/repeated-answer-choices.jpg" alt="Repeated answer choices"/></a>
+	<br/>
 </div>
 
 
 #### 短い答え (0:29)
 
 <div>
-    <a href="https://youtu.be/qJzQDPs9he8" target="_blank"><img width="450px" src="images/short-answer.jpg" alt="Short answer"/></a>
-    <br/>
+	<a href="https://youtu.be/qJzQDPs9he8" target="_blank"><img width="450px" src="images/short-answer.jpg" alt="Short answer"/></a>
+	<br/>
 </div>
 
 
-#### ラボ（ 2:58 ）
+#### ラボ( 2:58 )
 
 <div>
-    <a href="https://www.microsoft.com/en-us/videoplayer/embed/RE4ppkp" target="_blank"><img width="450px" src="images/labs.jpg" alt="Labs"/></a>
-    <br/>
+	<a href="https://www.microsoft.com/en-us/videoplayer/embed/RE4ppkp" target="_blank"><img width="450px" src="images/labs.jpg" alt="Labs"/></a>
+	<br/>
 </div>
 
 
 #### マークレビュー(0:33)
 
 <div>
-    <a href="https://youtu.be/ROO_PzuXbMw" target="_blank"><img width="450px" src="images/mark-review.jpg" alt="Mark review"/></a>
-    <br/>
+	<a href="https://youtu.be/ROO_PzuXbMw" target="_blank"><img width="450px" src="images/mark-review.jpg" alt="Mark review"/></a>
+	<br/>
 </div>
 
 
 #### レビュースクリーン (1:36)
 
 <div>
-    <a href="https://youtu.be/BJygBpl_8PI" target="_blank"><img width="450px" src="images/review-screen.jpg" alt="Review screen"/></a>
-    <br/>
+	<a href="https://youtu.be/BJygBpl_8PI" target="_blank"><img width="450px" src="images/review-screen.jpg" alt="Review screen"/></a>
+	<br/>
 </div>
 
 
@@ -163,7 +151,7 @@ Microsoft 認定資格があると、自身のキャリアを最初からその�
 Microsoft 認定資格試験は、業界のプロフェッショナルからの意見を取り入れて慎重に開発されており、世界中の組織でMicrosoft製品がどのように使用されているかを反映しています。
 
 1. スキル分野を定義します。
-エキスパートは、特定のジョブロールか関数内の特定のテクノロジーの、使用される特に重要なタスクを認識します。
+エキスパートは、Microsoft のテクノロジとソリューションを活用する特定の職務または機能内で実行される重要なタスクを特定します。
 
 2. 試験のスキルの流通を定義します。
 ステップ1で定義されたスキルは、世界中の追加テクニックとジョブ関数のエキスパートにより評価されるこの評価が、質問をどのスキル分野に配分するかを定義する際のブループリントになります。
@@ -184,7 +172,7 @@ Microsoft 認定資格試験は、業界のプロフェッショナルからの�
 専門家の委員会がMicrosoftの精神測定学者と協力して、合格スコアを決定します。資格の中に含まれる質問の難易度に関連するスキルのコンポーネントを考慮したのを基にしています。
 
 8. 試験は全世界で行うことができます。
-ピアソンVUEまたはCertiport、独立した試験デリバリープロバイダーであり、認定試験を管理します。資格は、世界中にあるテストセンターか、もしくはVUE経由でオンライン受検から受けられます(現在Certiportからのオンライン受検はできません）
+独立した試験提供プロバイダが認定資格試験を管理します。試験は、世界中にあるテスト センターか、もしくはオンライン受検から受けられます (アカデミック向けオンライン受検は現在ご利用いただけません)。
 
 9. 試験の有効期間を持続／維持します。
 Microsoftは資格を、そのライフサイクルに渡ってサイコメトリックに計測し、そしてスキルドメインを計るのに妥当で有り続けていることを確認します。サイコメトリックな手法で計測できないとされた設問は削除され、テクノロジー自体の変更に由来する新しい項目が、サイコメトリックな理由の元にアップデートして置き換えられ新規にフィーチャーと機能性が追加されます。
@@ -196,13 +184,13 @@ Microsoftは資格を、そのライフサイクルに渡ってサイコメト�
 
 ### 参加する方法
 
-Microsoftベータ試験は、80%割引で提供されます（コードが必要）受験者は、 Microsoft ベータ試験プログラムの [Updates](/learn/certifications/posts/updates-on-microsoft-beta-exam-program) で説明されているように、再受験後の次の試験は 25% 割引で受験できます。
+Microsoftベータ試験は、80%割引で提供されます(コードが必要)受験者は、 Microsoft ベータ試験プログラムの [Updates](/learn/certifications/posts/updates-on-microsoft-beta-exam-program) で説明されているように、再受験後の次の試験は 25% 割引で受験できます。
 
-コードを取得するには、SME プロフィール データベースのメンバーになるか、 あるいは [Exam policies and FAQs page](/learn/certifications/certification-exam-policies) の左のアナウンスメント セクションから取得してください。SMEプロフィール データベース プログラムへの有資格参加者は、ベータ試験参加の割引コードを受け取ります。これにより、ベータ試験が受け易くなります。
+コードを取得するには、SME プロフィール データベースのメンバーになるか、 あるいは[Exam policies and FAQs page] の左のアナウンスメント セクションから取得してください。SMEプロフィール データベース プログラムへの有資格参加者は、ベータ試験参加の割引コードを受け取ります。これにより、ベータ試験が受け易くなります。
 
-SME プロフィール データベース プログラムは こちらに公開されています[Microsoft Collaborate](https://aka.ms/collaborate)。コミュニティブログ [試験と学習内容の作成ヘルプ を参照してください！SME データベースに今すぐ参加してください！](/learn/certifications/posts/help-us-create-exams-and-learning-content) では、コラボレーションプログラムへの参加方法を確認できます。
+SME プロフィール データベース プログラムは こちらに公開されています[Microsoft Collaborate](https://aka.ms/collaborate)。コミュニティブログ [ 試験と学習内容の作成ヘルプ を参照してください！SME データベースに今すぐ参加してください！ ](/learn/certifications/posts/help-us-create-exams-and-learning-content) では、コラボレーションプログラムへの参加方法を確認できます。
 
-テクノロジーによっては、SMEプロフィール データベース プログラムの有資格受験生は受入れ可能な受験生数より多くなります。そのような場合は、有資格者の中から適切な人数を無作為に抽出して試験に招待します。それに選ばれなかった場合、アナウンスメント ページを見ればまだ参加することができます。ベータ試験の登録が開始される日の別のコードを掲載します。
+ジョブ ロールによっては、SME Profile データベース プログラムの有資格受験生は受入れ可能な受験生数より多くなります。そのような場合は、有資格者の中から適切な人数を無作為に抽出して試験に招待します。それに選ばれなかった場合、アナウンスメント ページを見ればまだ参加することができます。ベータ試験の登録が開始される日の別のコードを掲載します。
 
 ベータ試験を受けたいのに招待されなかったり、無料の受験枠に登録できなかった場合は、正規の試験と同様に登録し、通常料金を支払ってベータ試験の期間に受験することができます。受験生によっては、求職条件や昇進のニーズを満たすために、またはテクノロジーの早期採用者であることを実証するために、試験を早めに受けたいと思う人もいます。
 
@@ -216,7 +204,7 @@ SME プロフィール データベース プログラムは こちらに公開�
 
 試験で評価されるスキルがリストアップされている試験の詳細ページにアクセスしましょう。私たちの目標は、トレーニングによってはベータ試験の開始より前に存在することを確認することですが、そうすることはいつも可能という訳ではありません。ベータ試験に興味のある個人は、通常、他のリソースが使用可能であったり、該当のテクノロジの経験があったり、ベータ製品を使用していたりします。追加の準備資料が必要な場合は、同僚に相談したり、コミュニティ リソースや早期利用者の記事を確認したりしてください。
 
-あなたが準備素材なしでベータテストの準備をする方法のアイデアと示唆についてはここを見てください；[準備材料無しでベータ試験の準備をする方法は？](/learn/certifications/posts/just-how-does-one-prepare-for-beta-exams-without-preparation-materials)
+あなたが準備素材なしでベータテストの準備をする方法のアイデアと提案についてはここを見てください；[準備材料無しでベータ試験の準備をする方法は？](/learn/certifications/posts/just-how-does-one-prepare-for-beta-exams-without-preparation-materials)
 
 ### ベータテストスコアリングと結果
 
@@ -232,11 +220,7 @@ SME プロフィール データベース プログラムは こちらに公開�
 
 ベータ試験に合格しなかった場合、ベータ試験を再受験することはできません。その試験に合格するために必要な認定資格を取得するには、試用期間中に定期的に試験に合格するまで待つか、ベータ試験に参加するために受け取った25％の割引を適用することができます。
 
-ベータスコアが有効であると思われる場合（試験が生存しているか、それが記載されているツイートが見られたため）、まず、試験配信プロバイダがオンラインで投稿したかどうかを確認します。掲示されていない場合は、試験配信会社にお問い合わせください（最終版の試験が公開されてから、ベータスコアがオンラインになるまでに最大2週間かかる場合があります）。試験実施プロバイダがスコアを掲載したけれど、Microsoftトランスクリプトでスコアが見えない場合は、お問い合わせください [認定資格サポート](https://aka.ms/mcpforum)。
+ベータスコアが有効であると思われる場合(試験が生存しているか、それが記載されているツイートが見られたため)、まず、試験配信プロバイダがオンラインで投稿したかどうかを確認します。掲示されていない場合は、試験配信会社にお問い合わせください(最終版の試験が公開されてから、ベータスコアがオンラインになるまでに最大2週間かかる場合があります)。試験実施プロバイダがスコアを掲載したけれど、Microsoftトランスクリプトでスコアが見えない場合は、お問い合わせください [認定資格サポート](https://aka.ms/mcpforum)。
 
 ## あなたの知識とスキルへの称賛を得ましょう。 
-[全ての資格試験を見る。](https://www.microsoft.com/learning/exam-list.aspx)
-
-
-
-
+[全ての資格試験を見る。](/learn/certifications/browse/?resource_type=examination)

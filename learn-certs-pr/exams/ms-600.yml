@@ -22,7 +22,6 @@ locales:
 levels:
 - intermediate
 skills:
-- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
 - Microsoft Identity を実装する(20-25%)
 - Microsoft Graph でアプリケーションを構築する(20-25%)
 - SharePoint を拡張し、カスタマイズする(20-25%)
@@ -48,7 +47,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
