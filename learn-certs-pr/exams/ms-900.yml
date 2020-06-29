@@ -8,7 +8,7 @@ displayName: MS-900
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 4 月 14 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
+  <div style='font-weight&#58; bold;'>本試験の内容は、2020年7月8日に更新されます。以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
   </div>
 
   この試験は、クラウド サービス全般および SaaS (Software as a Service) クラウド モデルを採用する際の考慮事項と利点に関する基本的な知識を実証することを目的としています。この試験では、利用可能なオプションに関する知識と、Microsoft 365 クラウド サービス製品の実装によって得られる利点についても説明します。
@@ -29,7 +29,7 @@ providers:
 levels:
 - beginner
 skills:
-- この試験の内容は、2020 年 3 月 14 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- 本試験の内容は、2020年7月8日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
 - クラウド概念の説明 (15-20%)
 - Microsoft 365の主要なサービスおよび概念の説明 (30-35%)
 - Microsoft 365 のセキュリティ、コンプライアンス、プライバシー、および信頼のオプションについての説明 (25-30%)
@@ -54,7 +54,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定資格ポスター
+- title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: 資格試験のサポート

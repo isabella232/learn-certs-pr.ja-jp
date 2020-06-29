@@ -1,0 +1,97 @@
+### YamlMime:Course
+title: Microsoft Azure AI Fundamentals
+metadata:
+  title: 'Course AI-900T00-A: Microsoft Azure AI Fundamentals'
+  description: 'Course AI-900T00-A: Microsoft Azure AI Fundamentals'
+uid: course.ai-900t00
+courseNumber: 'AI-900T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Artificial Intelligence ワークロードと考慮事項について説明する
+- skill: Azure での機械学習の基本原則について説明する
+- skill: Azure のコンピューター ビジョン ワークロードの機能について説明する
+- skill: Azure の Natural Language Processing (NLP) ワークロードの機能について説明する
+- skill: Azure での会話型 AI ワークロードの機能について説明する
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+exams:
+- uid: exam.ai-900
+summary: |-
+  このコースでは、人工知能 (AI) に関連する基本的な概念と、AI ソリューションの作成に使用できる Microsoft  Azure のサービスを紹介します。このコースは、専門のデータ サイエンティストやソフトウェア開発者になることを学生に教えるのではなく、一般的な AI ワークロードの認知度を高め、それらをサポートする Azure サービスを特定できるようにすることを目的としています。このコースは、インストラクター指導のトレーニングと Microsoft Learn platform (https://azure.com/learn) にあるオンライン資料を組み合わせた、混合型の学習体験として設計されています。コースの実践演習は学習モジュールに基づいており、受講者は学習のコンテンツを参考資料として使用して、クラスで学んだことを強化し、トピックについてさらに詳しく調べることをお勧めします。
+
+  #### 視聴者プロフィール
+  Azure AI Fundamentals コースは、人工知能 (AI) が可能にするソリューションの種類、およびそれらを作成するために使用できる Microsoft  Azure 上のサービスについて学習することに興味がある人を対象としています。このコースを受講する前に、Microsoft  Azure の使用経験は必要ありませんが、コンピュータ テクノロジとインターネットについての基本的な知識があることを前提としています。このコースで取り上げている概念の中には、チャートを解釈する能力など、数学の基本的な理解が必要なものがあります。このコースには、データの操作やコードの実行を伴う実践的なアクティビティが含まれているため、基本的なプログラミングの原則の知識が役立ちます。
+prerequisitesSection: |-
+  コンピュータに精通しており、Web ブラウザを使用している。
+outlineSection: |-
+  ### モジュール 1&#58; AIの概要
+  このモジュールでは、人工知能 (AI) の一般的な使用法と、AI に関連するさまざまなタイプのワークロードについて学習します。次に、責任ある AI 開発のための考慮事項と原則を探ります。
+  #### レッスン
+  - Azure の人工知能
+  - 責任ある AI
+  
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Artificial Intelligence ワークロードと考慮事項について説明する
+
+
+  ### モジュール 2&#58; Azure Machine Learning の概要
+  機械学習は、最新の AI ソリューションの基盤です。このモジュールでは、いくつかの基本的な機械学習の概念と、Azure Machine Learning サービスを使用して機械学習モデルを作成および公開する方法について学びます。
+  #### レッスン
+  - 機械学習の概要
+  - Azure Machine Learning
+  
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure での機械学習の基本原則について説明する
+  
+
+  ### モジュール 3&#58; コンピュータ ビジョン
+  コンピュータ ビジョンは、画像、ビデオ ファイル、カメラを通じて視覚的に世界を理解することを扱う AI の領域です。このモジュールでは、複数のコンピュータ ビジョンの手法とサービスについて説明します。
+  #### レッスン
+  - コンピュータ ビジョンの概念
+  - Azure のコンピュータ ビジョン
+  
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure のコンピューター ビジョン ワークロードの機能について説明する
+
+
+  ### モジュール 4&#58; Natural Language Processing
+  このモジュールでは、書き言葉と話し言葉を処理できる AI ソリューションのシナリオについて説明します。テキストを分析し、音声を認識して合成し、言語間で翻訳し、コマンドを解釈するソリューションを構築するために使用できる Azure サービスについて学びます。
+  
+  
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure の Natural Language Processing (NLP) ワークロードの機能について説明する
+
+
+  ### モジュール 5&#58; 会話型 AI
+  会話型 AI を使用すると、ユーザーは、メール、Web チャット インターフェイス、ソーシャル メディアなどの通信チャネルを介して、AI エージェントまたは*ボット*との対話に参加できます。このモジュールでは、ボットを操作するためのいくつかの基本原則について説明し、ユーザーの質問にインテリジェントに応答できるボットを作成する機会を提供します。
+  #### レッスン
+  - 会話型 AI の概念
+  - Azure での会話型 AI
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure での会話型 AI ワークロードの機能について説明する
