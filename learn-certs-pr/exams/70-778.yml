@@ -14,7 +14,7 @@ summary: |-
 subTitle: この試験の受験生は、Power BI を使用してデータを処理する方法についてより深い知識が求められます。受験生は、データリソースとデータ変換の実行や、Microsoft Power BI Desktopを使用してのモデリングや可視化、Power BIサービスを使用してのダッシュボードの設定、Power BI Deskに卓越している必要があります。受験者は、SQL Server Analysis Services (SSAS) や Microsoft SQL Azure への直接接続の実装や Microsoft Excel でのデータ分析実装に卓越している必要があります。受験生は、Power　BI を使用してのレポートの作成のための BI プロフェッショナル、データ アナリストや他の役割の人を想定しています。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJB
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-778&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-778
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=778&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-778
 locales:
 - en
 levels:

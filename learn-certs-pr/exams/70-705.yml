@@ -16,7 +16,7 @@ summary: |-
 subTitle: この試験の受験者は、大規模な組織にライセンスソリューションを販売する営業担当者です。このカテゴリの組織は、通常 250 以上のデバイスまたはユーザーを持っています。受験者は、エンタープライズ契約、エンタープライズサブスクリプション契約、Cloud Solution Provider (CSP)、MPSA、OEM、Open および Open Value を含むすべての Microsoft Corporation ライセンス ソリューションの基本的な理解に加えて、Microsoft のライセンス ソリューションの販売経験が 6 ヶ月以上ある必要があります。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trl8
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-705&examname=Designing%20and%20Providing%20Microsoft%20Licensing%20Solutions%20to%20Large%20Organizations&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-705
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=705&examname=Designing%20and%20Providing%20Microsoft%20Licensing%20Solutions%20to%20Large%20Organizations&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-705
 locales:
 - en
 - zh-cn

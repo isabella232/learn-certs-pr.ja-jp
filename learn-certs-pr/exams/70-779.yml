@@ -14,7 +14,7 @@ summary: |-
 subTitle: この試験の受験生は、Microsoft Excel を使用してデータを処理する方法について精通している必要があります。受験生は Microsoft Excel を使用してデータを消費、変換、モデリング、可視化できなければなりません。受験生は PowerPivot、PivotTables、PivotCharts を使用してデータを設定および操作できなければなりません。受験生にはExcelを使うBIプロフェッショナル、データアナリストや他の役割の人を想定しています。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t555
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-779&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Excel&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-779
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=779&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Excel&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-779
 locales:
 - en
 levels:
