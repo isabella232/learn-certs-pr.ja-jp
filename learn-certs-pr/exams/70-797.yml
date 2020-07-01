@@ -20,7 +20,7 @@ summary: |-
 subTitle: この試験では、強固な ID の作成、コンテンツの保護 (データ損失防止)、モバイル デバイス管理ポリシー、Hyper-V による仮想化、会社ポータルと Windows ストアによるアプリケーション管理について、受験者が基本的な知識とスキルを有していることを実証します。Windows 10 のセキュリティと、統合された Azure 機能に基づいて、受験者が評価されます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjT
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
 locales:
 - en
 levels:

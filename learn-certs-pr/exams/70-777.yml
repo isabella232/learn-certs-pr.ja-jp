@@ -16,7 +16,7 @@ summary: |-
 subTitle: この試験の受験生は Azure Cosmos DB を活用する開発者および設計者です。受験生は、Cosmos DB API に依存しない拡張可能なアプリケーションを構築および構成するための、パーティション化、レプリケーション、およびリソース ガバナンスの基本的な概念を理解する必要があります。また、Cosmos DB SQL API の基本的な知識も必要です。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjS
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-777&examname=Implementing%20Microsoft%20Azure%20Cosmos%20DB%20Solutions&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-777
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=777&examname=Implementing%20Microsoft%20Azure%20Cosmos%20DB%20Solutions&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-777
 locales:
 - en
 levels:

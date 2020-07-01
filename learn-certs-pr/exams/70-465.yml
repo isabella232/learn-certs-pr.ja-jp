@@ -16,7 +16,7 @@ summary: |-
 subTitle: この試験は、組織でデータベース ソリューションの設計と構築に携わる、データベース プロフェッショナルを対象としています。業務としては、計画の作成やデータベースの構造、ストレージ、オブジェクト、サーバーの設計が含まれます。データベース ソリューションが実行される環境に関する計画を作成します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t560
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-465&examname=Designing%20Database%20Solutions%20for%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-465
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=465&examname=Designing%20Database%20Solutions%20for%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-465
 locales:
 - en
 - zh-cn
