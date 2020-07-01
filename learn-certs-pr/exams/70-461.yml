@@ -16,7 +16,7 @@ summary: |-
 subTitle: この試験は、2 年以上の経験を持つ SQL Server のデータベース管理者、システム エンジニア、および開発者で、クエリ記述のスキルと知識を検証するユーザーを対象としています。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t54W
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-461&examname=Querying%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-461
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=461&examname=Querying%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-461
 locales:
 - en
 - zh-cn

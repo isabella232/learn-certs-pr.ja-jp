@@ -16,7 +16,7 @@ summary: |-
 subTitle: この試験は、インストール タスク、メンテナンス タスク、および構成タスクを実行するデータベース プロフェッショナルを対象としています。その他の業務として、データベース システムのセットアップ、それらのシステムが効率的に動作するかどうかの確認、定期的な保存やバックアップ、許可されていないデータ アクセスからのセキュリティ保護などが挙げられます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIN
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=70-462&examname=Administering%20Microsoft%20SQL%20Server%202012/2014%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-462
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=462&examname=Administering%20Microsoft%20SQL%20Server%202012/2014%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-462
 locales:
 - en
 - zh-cn
