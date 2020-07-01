@@ -14,7 +14,6 @@ summary: |-
 subTitle: この Microsoft SharePoint 2013 試験の受験者は、SharePoint 環境に関する十分な知識を持ち、サイト レベルのタスクを実行できる必要があります。対象者は SharePoint 2013 の主なサイト、ライブラリ、リスト機能の正しい使い方を理解しており、デモンストレーションを実行できる必要があります。受験者は、構造の提供、問題の解決、コラボレーションの促進、生産性の向上のために SharePoint サイトを最適化およびカスタマイズできる必要があります。操作方法の例としては、リストのアクセス許可の管理、クイック起動へのコンテンツの追加、チーム サイトの作成、ライブラリ ビューの変更などがあります。受験者の役割としては、テクニカル サポート スタッフ、プロジェクト マネージャー、チーム リーダー、部門責任者などが想定されます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toX6
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=77-419&examname=Microsoft%20SharePoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-419
 locales:
 - en
 levels:
