@@ -21,40 +21,34 @@ ms.author: micsullivan
 
 以下、無料試験の申し込み方法について順を追って説明します。
 
-**ステップ 1:** [eligible exams](#eligible-exams) のいずれかを選択し、[試験を予約する] ボタンをクリックして、オンライン登録プロセスを開始します。
-<br/><br/> 
-
+**ステップ 1:** いずれかの [認定試験](#eligible-exams-for-this-offer) を選択し、「試験のスケジュール」ボタンをクリックしてオンライン登録プロセスを開始します。  
 ![試験のスケジュール](images/step1.png)
 
 **ステップ 2:** 現在の Microsoft 認定資格プロフィールにサインインするか、Microsoft アカウントを使用して作成します。  
-<br/><br/>
-
 ![Microsoft アカウントでサインイン ](images/step-2-2x.png)
 
-**ステップ 3:** ログインしたら、自身の認定プロフィールの詳細が正確であることを確認します。
-<br/><br/>
-
+**ステップ 3:** ログインしたら、自身の認定プロフィールの詳細が正確であることを確認します。  
 ![Microsoft 認定資格プロフィールの詳細を確認](images/step3.png)
 
-**ステップ 4:** 認定プロフィール ページの下部にある「保存して続けるボタン」をクリックして、「試験割引き」ページに移ります。
-<br/><br/>  
-
+**ステップ 4:** 認定プロフィール ページの下部にある「保存して続けるボタン」をクリックして、「試験割引き」ページに移ります。  
 ![認定資格プロフィール ページの下部にある [保存して続行] ボタンをクリック](images/step-4-2x.png)
 
-**ステップ 5:** 「試験割引き」ページにおいて参加したイベントを選択し、「アカウントを確認する」ボタンをクリックします。
-<br/><br/> 
+**ステップ 5:** 「試験割引」ページでは、イベントの登録に使用したメール アドレスを入力します (例：alias@company.com や alias@outlook.com)。  
+![イベント登録に使用したメールアドレスを入力する](images/step5-1-enter-email.png)
 
-![試験割引ページで [アカウントの確認] ボタンをクリック](images/step5.png)
+**ステップ 6:** 試験割引の対象者である場合は、入力したアドレスに確認メールが届きます。次へ進むには、メールに記載されているパスコードを入力する必要があります。メールが届かない場合は、コードを再送してください。  
+![メールで受信したパスコードを入力する](images/step6-enter-passcode.png)
 
-**ステップ 6:** アカウントを確認する際、お客様は、イベント登録に使用したのと同じアカウントを使用していることを確認する必要があります。(注意: イベント登録に Microsoft アカウントを使用した場合、試験を予定するための認定プロフィールにログインするためには、同じ Microsoft アカウントを使用する必要があります。この結果、2つの検定プロフィールを持つことになった場合、検定試験を終了した後、プロフィールを統合するために [Microsoft 認定資格サポート・](https://trainingsupport.microsoft.com/en-us/mcp/forum) までご連絡ください。
-<br/><br/>
+**ステップ 7:** 正しいパスコードを入力すると、アカウントをリンクするように求められます。割引を受けるためには、アカウントをリンクすることに同意する必要があります。  
+![アカウントをリンクして割引を受ける](images/step7-linkmodal.png)
 
-![同じソーシャル アカウントを使用して認証して、アカウントを確認](images/step6.png)
+次回ログインしたときに、いずれかのアカウントの試験割引の資格がある場合は、割引が自動的に表示されます。アカウントを削除するには、[認定ダッシュボード](https://aka.ms/certdashboard) にアクセスし、「認定プロファイルを編集する」をクリックします。
 
-**ステップ 7:** 次の画面のステップに従い、試験を予定するために必要な詳細を提供します。チェックアウト中に、総支払金額が0.00ドルであることを確認し、注文を提出します。
-<br/><br/>
+**ステップ 8:** 上部に割引のポップアップが表示されます。請求したい割引を選択し、[この試験の受験予約をする] ボタンをクリックしてチェックアウトに進みます。  
+![割引を選択し、[この試験の受験予約をする] ボタンをクリックして続行する](images/step8-coupon.png)
 
-![試験のスケジュールに必要な詳細を入力](images/step7.png)
+**ステップ 9:** 次の画面のステップに従い、試験を予定するために必要な詳細を提供します。チェックアウト中に、総支払金額が 0.00 ドルであることを確認し、注文を提出します。  
+![アカウントをリンクして割引を受ける](images/step9.png)
 
 ### 認定サポート:
 
@@ -70,7 +64,7 @@ ms.author: micsullivan
 | Dynamics 365 and Power Platform | [MB-200: Microsoft Power Platform + Dynamics 365 Core](/learn/certifications/exams/mb-200)<br/>[MB-210: Microsoft Dynamics 365 Sales](/learn/certifications/exams/mb-210)<br/>[MB-220: Microsoft Dynamics 365 Marketing](/learn/certifications/exams/mb-220)<br/>[MB-230: Microsoft Dynamics 365 Customer Service](/learn/certifications/exams/mb-230)<br/>[MB-240: Microsoft Dynamics 365 Field Service](/learn/certifications/exams/mb-240)<br/>[MB-300: Microsoft Dynamics 365: Core Finance and Operations](/learn/certifications/exams/mb-300)<br/>[MB-310: Microsoft Dynamics 365 Finance](/learn/certifications/exams/mb-310)<br/>[MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing](/learn/certifications/exams/mb-320)<br/>[MB-330: Microsoft Dynamics 365 Supply Chain Management](/learn/certifications/exams/mb-330)<br/>[MB-400: Microsoft Power Apps + Dynamics 365 Developer](/learn/certifications/exams/mb-400)<br/>[MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer](/learn/certifications/exams/mb-500)<br/>[MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect](/learn/certifications/exams/mb-600)<br/>[MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect](/learn/certifications/exams/mb-700)<br/>[MB-901: Microsoft Dynamics 365 Fundamentals](/learn/certifications/exams/mb-901)<br/>[PL-900: Microsoft Power Platform Fundamentals](/learn/certifications/exams/pl-900) |
 | Microsoft 365 | [MD-100: Windows 10](/learn/certifications/exams/md-100)<br/>[MD-101: Managing Modern Desktops](/learn/certifications/exams/md-101)<br/>[MS-100: Microsoft 365 Identity and Services](/learn/certifications/exams/ms-100)<br/>[MS-101: Microsoft 365 Mobility and Security](/learn/certifications/exams/ms-101)<br/>[MS-200: Planning and Configuring a Messaging Platform](/learn/certifications/exams/ms-200)<br/>[MS-201: Implementing a Hybrid and Secure Messaging Platform](/learn/certifications/exams/ms-201)<br/>[MS-203: Microsoft 365 Messaging](/learn/certifications/exams/ms-203)<br/>[MS-300: Deploying Microsoft 365 Teamwork](/learn/certifications/exams/ms-300)<br/>[MS-301: Deploying SharePoint Server Hybrid](/learn/certifications/exams/ms-301)<br/>[MS-500: Microsoft 365 Security Administration](/learn/certifications/exams/ms-500)<br/>[MS-600: Building Applications and Solutions with Microsoft 365 Core Services](/learn/certifications/exams/ms-600)<br/>[MS-700: Managing Microsoft Teams](/learn/certifications/exams/ms-700)<br/>[MS-900: Microsoft 365 Fundamentals](/learn/certifications/exams/ms-900) |
 
-## よくあるご質問
+## FAQ
 
 ### オファーについて
 
@@ -80,7 +74,7 @@ ms.author: micsullivan
 
 **質問: このオファーは、何の資格の認定試験ですか ？**
 
-**回答:** このオファーには、Microsoft fundamentals、ロールベースおよび専門認定の試験が含まれます。資格認定試験のリストについては、当社のオファー詳細ページの [Eligible exams](#eligible-exams) セクションを参照してください。
+**回答:** このオファーには、Microsoft fundamentals、ロールベースおよび専門認定の試験が含まれます。資格認定試験のリストについては、当社のオファー詳細ページの[Eligible exams](#eligible-exams) セクションを参照してください。
 
 **質問: Microsoft Build に登録したが、Cloud Skills Challenge に登録または完了しなかった場合でも、このオファーを申請できますか？**
 
@@ -132,4 +126,4 @@ ms.author: micsullivan
 - この試験オファーは、キャッシュ、クレジットあるいは返金と回復または交換されない場合があります。
 - この試験オファーは、譲渡不可であり、任意の方法で変更、改訂、または譲渡した場合は無効となります。
 
-追加情報については、完全版 [Microsoftの利用規約](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1) をご参照ください。
+追加情報については、完全版 [Microsoftの利用規約](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1) をご参照ください。。

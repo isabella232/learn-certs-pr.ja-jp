@@ -5,10 +5,11 @@ metadata:
   description: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
 uid: exam.dp-900
 displayName: DP-900
-summary: "<div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>\r\n\r\nこの試験の受験者は、コア データの概念と、Microsoft Azure データ サービスを使用してそれらを実装する方法についての基礎知識を持っている必要があります。\r\n\r\nこの試験は、クラウド内のデータの取り扱いを開始する受験者を対象としています。\r\n\r\n受験者は、リレーショナル データと非リレーショナル データの概念、およびトランザクションや分析などのさまざまなタイプのデータ ワークロードに精通している必要があります。\r\n\r\nAzure Data Fundamentals は、Azure Database Administrator Associate や Azure Data Engineer Associate などの他の Azure ロールベースの認定の準備に使用できますが、いずれの前提条件でもありません。  \r\n\r\n<div style='font-weight&#58; bold;'><br/>ベータ試験は、設問と試験の質に関するデータを収集しているため、すぐには採点されません。ベータ試験の価値と重要性についての詳細<a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">こちらをご覧ください</a>。</div>"
+summary: "<div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>.</strong><br/><br/></div>\r\n\r\nこの試験の受験者は、コア データの概念と、Microsoft Azure データ サービスを使用してそれらを実装する方法についての基礎知識を持っている必要があります。\r\n\r\nこの試験は、クラウド内のデータの取り扱いを開始する受験者を対象としています。\r\n\r\n受験者は、リレーショナル データと非リレーショナル データの概念、およびトランザクションや分析などのさまざまなタイプのデータ ワークロードに精通している必要があります。\r\n\r\nAzure Data Fundamentals は、Azure Database Administrator Associate や Azure Data Engineer Associate などの他の Azure ロールベースの認定の準備に使用できますが、いずれの前提条件でもありません。  \r\n\r\n<div style='font-weight&#58; bold;'><br/>ベータ試験は、設問と試験の質に関するデータを収集しているため、すぐには採点されません。ベータ試験の価値と重要性についての詳細<a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">こちらをご覧ください</a>。</div>"
 subTitle: 'コアデータの概念、Azure でリレーショナル データを操作する方法、Azure で非リレーショナル データを操作する方法、Azure の分析ワークロードについて説明できることを証明します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
 locales:
 - en
 levels:
@@ -23,6 +24,8 @@ roles:
 - database-administrator
 products:
 - azure
+paths:
+- uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
 relatedCertifications:
 - related:
     uid: certification.azure-data-fundamentals

@@ -1,25 +1,33 @@
-- name: Microsoft 認定資格
+- name: Microsoft Certifications
   href: index.yml
 - name: オファー
   href: deals.md
 - name: ボリュームライセンス
   href: volume-licensing-program.md
+- name: Microsoft Learning Partners
+  href: partners.md
 - name: 認定資格、試験、コースを棄権しました
   expanded: false
   items:
-  - name: 認定資格を棄権しました
+  - name: 終了した認定資格
     href: retired-certifications.md
-  - name: 試験を棄権しました
+  - name: 終了した試験
     href: retired-certification-exams.md 
   - name: コースを棄権しました
     href: retired-courses.md
-- name: Microsoft 認定トレーナーになる
+- name: マイクロソフト認定トレーナーになる
   href: mct-certification.md
 - name: Microsoft 認定試験について
   href: certification-exams.md
+- name: マイクロソフト試験と認定資格バッジ
+  href: badges.md
 - name: オンライン試験について
   href: online-exams.md
 - name: 試験のポリシーと FAQ
   href: certification-exam-policies.md
 - name: 認定資格のヘルプ
   href: help.md
+- name: Microsoft Certification program FAQs 
+  href: microsoft-certification-program-faqs.md
+- name: Microsoft Learning の移動 ...
+  href: learnfaq.md
