@@ -7,8 +7,8 @@ uid: exam.mb-230
 displayName: MB-230
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 5 月 1 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 7 月 1 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
   </div>
 
   この試験の受験者は、カスタマーサービス経験を持つ Dynamics 365 の機能コンサルタントです。受験生は、サービス、品質、信頼性、効率性、顧客満足度にフォーカスしたオムニチャンネル(実店舗とネット店舗両方をカバー)ソリューションの実現に責任を持ちます。
@@ -28,10 +28,10 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は、2020 年 5 月 1 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
-- 構成を実行する (25-30%)
+- この試験の内容は、2020 年 7 月 1 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- 構成の実行 (25-30%)
 - サポート案件とサポート技術情報の管理 (30-35%)
-- キュー、資格、および SLA を管理する(25-30%)
+- キュー、資格、SLA の管理 (25-30%)
 - Forms Proを構成する (15-20%)
 roles:
 - functional-consultant
@@ -46,7 +46,7 @@ paths:
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-bizapps.dyn365-voice-of-customer
+- uid: learn-dynamics.create-forms
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-customer-service

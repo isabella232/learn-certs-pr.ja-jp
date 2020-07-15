@@ -6,7 +6,7 @@ metadata:
 uid: certification.m365-messaging-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
   Microsoft 365 メッセージング管理者は、ハイブリッドとクラウド エンタープライズ環境における受信者、パーミッション、メール保護、メール フロー、パブリック フォルダを展開、設定、管理、トラブルシューティング、および監視します。
 subTitle: Microsoft 365 メッセージング管理者は、ハイブリッドとクラウド エンタープライズ環境における受信者、パーミッション、メール保護、メール フロー、パブリック フォルダを展開、設定、管理、トラブルシューティング、および監視します。
@@ -22,6 +22,8 @@ roles:
 type: role-based
 products:
 - m365
+courses:
+- uid: course.ms-203t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
 exams:
 - uid: exam.ms-203
