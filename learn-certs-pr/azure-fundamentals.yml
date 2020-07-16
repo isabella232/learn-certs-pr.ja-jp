@@ -6,7 +6,7 @@ metadata:
 uid: certification.azure-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
   Azure Fundamentals 認定資格の受験者は、クラウド サービスの基礎知識と、それらのサービスが Microsoft Azure でどのように提供されるかについての知識が必要です。
 
@@ -32,7 +32,10 @@ courses:
 - uid: course.az-900t01
 - uid: course.az-900t00
 paths:
-- uid: learn.cloud-foundations
+- uid: learn.wwl.explore-microsoft-azure-cloud-concepts
+- uid: learn.wwl.distinguish-microsoft-azure-core-services
+- uid: learn.wwl.examine-microsoft-azure-security-privacy-compliance-trust
+- uid: learn.wwl.review-microsoft-azure-pricing-slas-lifecycles
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
 exams:
 - uid: exam.az-900

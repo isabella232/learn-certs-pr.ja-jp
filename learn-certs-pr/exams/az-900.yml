@@ -7,7 +7,7 @@ uid: exam.az-900
 displayName: AZ-900
 summary: |-
   <div>
-  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
   <div><strong>この試験の内容は、2020 年 5 月 28 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
   </div>
 
@@ -18,17 +18,17 @@ summary: |-
   この試験は、クラウドベースのソリューションとサービスを使い始めた人を対象としています。受験者は、Azure のサービス、ワークロード、セキュリティ、プライバシー、価格、サポートだけでなく、クラウドの概念に関する基本的な知識を実証できる必要があります。また、ネットワーキング、ストレージ、コンピューティング、アプリケーション サポート、およびアプリケーション開発の概念についても理解している必要があります。
 
   Azure Fundamentals は、他の Azure のロール ベースまたは専門分野の認定の準備に使用できますが、それらのいずれの前提条件でもありません。
-subTitle: '「この試験では、クラウドのコンセプト；コアAzure サービス、セキュリティ、プライバシー、コンプライアンスおよび信頼；そしてAzure 料金プランとサポート、といった概念を理解する能力を測定します。」'
+subTitle: 'この試験では、クラウドのコンセプト；コアAzure サービス、セキュリティ、プライバシー、コンプライアンスおよび信頼；そしてAzure 料金プランとサポート、といった概念を理解する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
-- providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer  
 locales:
 - en
 - ja
@@ -50,7 +50,10 @@ courses:
 - uid: course.az-900t01
 - uid: course.az-900t00
 paths:
-- uid: learn.cloud-foundations
+- uid: learn.wwl.explore-microsoft-azure-cloud-concepts
+- uid: learn.wwl.distinguish-microsoft-azure-core-services
+- uid: learn.wwl.examine-microsoft-azure-security-privacy-compliance-trust
+- uid: learn.wwl.review-microsoft-azure-pricing-slas-lifecycles
 relatedCertifications:
 - related:
     uid: certification.azure-fundamentals
