@@ -6,35 +6,42 @@ metadata:
 uid: exam.az-304
 displayName: AZ-304
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<A href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
 
-  この試験の受験生は、ビジネス上の要求をセキュアで拡張可能な信頼できるソリューションに置き換えて関係者へアドバイスを行う Azure ソリューションアーキテクトです。
+  この試験の受験者は、コンピューティング、ネットワーク、ストレージ、セキュリティなどの側面を含む、Microsoft Azure で実行されるソリューションの設計と実装に関する専門知識を持っている必要があります。
 
-  受験者は、ネットワーキング、仮想化、アイデンティティ、セキュリティ、ビジネス継続性、ディザスタリカバリー、データプラットフォーム、予算管理、ガバナンスを含む IT 操作の各種方面についての経験と知識が卓越している必要があります。このロールには、各エリアがソリューション全体にどのように影響するかの判断の管理が求められます。
+  Azure ソリューションアーキテクトの責任には、利害関係者に助言し、ビジネス要件を安全でスケーラブルで信頼性の高いクラウド ソリューションに変換することが含まれます。
 
-  受験者は、 Azure 管理のエキスパートレベルのスキルを持ち、 Azure 開発プロセスと DevOps プロセスの経験を持っている必要があります。
+  Azure Solution Architect は、クラウド管理者、クラウド DBA、およびクライアントとパートナーを組み、ソリューションを実装します
 
-  <div style='font-weight&#58; bold;'><br/>注意&#58; 本試験は、2020年6月29日前後に受験できます。</div>
+  この試験の受験者は、ネットワーキング、仮想化、アイデンティティ、セキュリティ、ビジネス継続性、障害回復、データ プラットフォーム、予算編成、ガバナンスなど、IT 運用の高度な経験と知識を持っている必要があります。このロールは各領域での決定がソリューション全体に与える影響を管理する必要があります。さらに、このロールには、Azure 管理のエキスパート レベルのスキルを持ち、Azure 開発プロセスと DevOps プロセスの経験が必要です。
+
+  <div style='font-weight&#58; bold;'><br/>ベータ試験は、設問と試験の質に関するデータを収集しているため、すぐには採点されません。ベータ試験の価値と重要性についての詳細<a href="/learn/certifications/certification-exams#participating-in-beta-exams">こちらをご覧ください</a>。</div>
 subTitle: 'この試験では、以下の技術的タスクを実行できる能力を査定します。 監視の設計、 アイデンティティとセキュリティの設計、 データストレージの設計、 ビジネス継続性の設計、 インフラストラクチャの設計。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWz
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-304&examname=Exam%20AZ-304:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-304
 locales:
 - en
 levels:
 - advanced
 skills:
-- 監視の設計(10-15%)
-- アイデンティティとセキュリティの設計 (25-30%)
+- モニタリングを設計する (10-15%)
+- アイデンティティとセキュリティを設計する (25-30%)
 - データストレージの設計(15-20%)
 - ビジネス継続性の設計 (10-15%)
-- インフラストラクチャの設計 (25-30%)
+- インフラストラクチャを設計する (25-30%)
 roles:
 - solution-architect
 products:
 - azure
+exams:
+- uid: exam.az-303
+courses:
+- uid: course.az-304t00
 relatedCertifications:
 - related:
-    uid: none
+    uid: certification.azure-solutions-architect
 resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。

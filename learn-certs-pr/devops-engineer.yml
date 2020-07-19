@@ -2,24 +2,28 @@
 title: 'Microsoft Certified: DevOps Engineer Expert'
 metadata:
   title: 'Microsoft Certified: DevOps Engineer Expert'
-  description: 'Azure DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。'
+  description: Azure DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。
 uid: certification.devops-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
 
-  Azure DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。
+  DevOps エンジニア エキスパート認定資格の受験者は、ビジネス価値を継続的に提供するために、人、プロセス、テクノロジと連携する主題の専門知識を持っている必要があります。
+
+  このロールの責任には、コラボレーション、コード、インフラストラクチャ、ソース管理、セキュリティ、コンプライアンス、継続的インテグレーション、テスト、配信、モニタリング、フィードバックの戦略の設計と実装が含まれます。
+
+  この認定資格の受験者は、Azure の管理と開発の両方に精通している必要があり、これらの分野の少なくとも 1 つに精通している必要があります。
 subTitle: Azure DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。
 levels:
 - advanced
 skills:
-- DevOps 戦略を設計する
-- DevOps 開発プロセスを実装する
-- 継続的インテグレーションの実装
-- 継続的デリバリーの実装
-- 依存性管理の実装
-- アプリケーションインフラストラクチャの実装
-- 継続的フィードバックの実装
+- インストルメンテーション戦略を開発する
+- Site Reliability Engineering (SRE) 戦略を開発する
+- セキュリティとコンプライアンス計画を作成する
+- ソース制御を管理する
+- コミュニケーションとコラボレーションを促進する
+- 継続的統合を定義して実装する
+- 継続的デリバリーおよびリリース管理戦略を定義して実装する
 roles:
 - devops-engineer
 type: role-based

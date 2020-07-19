@@ -7,7 +7,7 @@ uid: exam.dp-100
 displayName: DP-100
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<A href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
   <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 5 月 22 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
   </div>
 
@@ -25,8 +25,8 @@ levels:
 - intermediate
 skills:
 - この試験の内容は、2020 年 5 月 22 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
-- Azure Machine Learning ワークスペースの設定(30～35%)
-- 実験を実行し、モデルを訓練します(25〜30%)
+- Azure Machine Learning ワークスペースの設定(30-35%)
+- 実験を実行し、モデルを訓練します(25-30%)
 - モデルを最適化して管理します (20-25%)
 - 配信可能性を展開して維持します(20-25%)
 roles:
@@ -34,9 +34,13 @@ roles:
 products:
 - azure
 - azure-data-science-vm
+- azure-machine-learning
+- azure-machine-learning-service
+- azure-machine-learning-studio
 courses:
 - uid: course.dp-100t01
 paths:
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
 relatedCertifications:
 - related:

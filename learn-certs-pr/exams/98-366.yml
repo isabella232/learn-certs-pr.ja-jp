@@ -11,11 +11,15 @@ summary: |-
   この試験の受験者は、一般的なネットワーキングの概念とテクノロジに精通しています。候補者は、Windows Server、Windowsベースのネットワーク、ネットワーク管理ツール、DNS、TCP / IP、名前解決プロセス、ネットワークプロトコルとトポロジに関する実践的な体験を期待されています。
 
   <div style='font-weight&#58; bold;'><br/>2018 年 01 月 31 日現在の試験の更新があります。これらの変更点と、測定されるスキルにそれがどのように影響するかについての詳細は、Exam 98-366 の変更ドキュメントをダウンロードしてご確認ください。</div>
-subTitle: この試験の受験者は、一般的なネットワーキングの概念とテクノロジに精通しています。候補者は、Windows Server、Windowsベースのネットワーク、ネットワーク管理ツール、DNS、TCP / IP、名前解決プロセス、ネットワークプロトコルとトポロジに関する実践的な体験を期待されています。
+subTitle: この試験の受験者は、一般的なネットワーキングの概念とテクノロジに精通しています。候補者は、Windows Server、Windowsベースのネットワーク、ネットワーク管理ツール、DNS、TCP/IP、名前解決プロセス、ネットワークプロトコルとトポロジに関する実践的な体験を期待されています。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJr
 practiceTestUrl: https://www.mindhub.com/MTA-98-366-Networking-Fundamentals-p/mu-98-366_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
