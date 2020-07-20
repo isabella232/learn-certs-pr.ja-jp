@@ -1,6 +1,6 @@
 ---
-title: 'Become a Microsoft Certified Trainer | Microsoft Docs'
-description: 'Become a Microsoft Certified Trainer' 
+title: Microsoft 認定トレーナーになる | Microsoft Docs
+description: Microsoft 認定トレーナーになる 
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -9,7 +9,7 @@ ms.workload: NA
 ms.date: 11/26/2019
 ms.author: micsullivan
 ---
-# Become a Microsoft Certified Trainer
+# 「Microsoft 認定トレーナーになる
 
 Microsoft 認定トレーナー (MCT) は Microsoft テクノロジの技術および指導における最上級のエキスパートです。世界中の Microsoft テクニカル トレーニング プロフェッショナルのこの独占グループに参加して、MCT トレーニング認定資格とメンバーシップのメリットを享受してください。
 
@@ -37,6 +37,7 @@ MCT プログラムの要件の詳細については、このページの [申�
 
 
 ### MCT プログラムへの登録の要件
+
 - 現在の Microsoft 認定資格または MCT プログラムに適格な資格を有していること。 
 (認証の条件のリストについては以下を参照)
 - 次のいずれかにより検証された指導スキルの実証:
@@ -79,16 +80,17 @@ MCT プログラムの要件の詳細については、このページの [申�
 - [Microsoft Certified: Azure Security Engineer Associate](https://www.microsoft.com/learning/azure-security-engineer.aspx)
 - [Microsoft Certified: Azure DevOps Engineer Expert](https://www.microsoft.com/learning/azure-devops.aspx)
 - [Microsoft Certified: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx)
+- [Microsoft Certified: Azure AI Engineer Associate](https://www.microsoft.com/learning/azure-ai-engineer.aspx)
+- [Microsoft Certified: Azure Data Scientist Associate](https://www.microsoft.com/learning/azure-data-scientist.aspx)
+- [Microsoft Certified: Azure Data Engineer Associate](https://www.microsoft.com/learning/azure-data-engineer.aspx)
+- [Microsoft Certified: Data Analyst Associate](/learn/certifications/data-analyst-associate)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
-- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)(2020 年 8 月 31 日 廃止)
+- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx) (2020 年 8 月 31 日 廃止)
 - [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/learning/m365-security-administrator.aspx)
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/m365-teams-administrator-associate)
-- [Microsoft Certified: Azure AI Engineer Associate](https://www.microsoft.com/learning/azure-ai-engineer.aspx)
-- [Microsoft Certified: Azure Data Scientist Associate](https://www.microsoft.com/learning/azure-data-scientist.aspx)
-- [Microsoft Certified: Azure Data Engineer Associate](https://www.microsoft.com/learning/azure-data-engineer.aspx)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
 - [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)
@@ -130,14 +132,14 @@ MCT オンライン申請は、[MCT 登録ツールへのサインイン](https:
 
 **注** MCT 登録ツールにアクセスするには、MSA でログインしてください。
 
-Microsoft  オフィス スペシャリストであるがMicrosoft 認定資格 ID (MC ID) を保有していない場合は、[customerservices@certiport.com](mailto:customerservices@certiport.com) に連絡して ID を取得してください。次に、[MCT 登録ツール](https://mcp.microsoft.com/Authenticate/MCT) にアクセスします。オンライン申請を完了する前に、次のセクションで MCT 登録の詳細を確認してください。
+Microsoft オフィス スペシャリストであるがMicrosoft 認定資格 ID (MCID) を保有していない場合は、[customerservices@certiport.com](mailto:customerservices@certiport.com) に連絡して ID を取得してください。次に、[MCT 登録ツール](https://mcp.microsoft.com/Authenticate/MCT) にアクセスします。オンライン申請を完了する前に、次のセクションで MCT 登録の詳細を確認してください。
 
 MCT 登録ツールを使用して次のことを行いましょう:
 
-- **MCT プログラムの要件を確認し、MCT プログラム ガイドおよび契約に署名します。** 電子署名により、MCT 契約の条件の承諾が認証されます。
-- **プロファイル情報を更新します。** ここで指定する連絡先情報は MCT のコミュニケーションに使用されます。
-- **雇用状況を指定します。** ラーニング パートナーまたは Microsoft Imagine Academy に雇用されている場合は、雇用主であるラーニング パートナーまたは Microsoft Imagine Academy の ID 番号が必要です。
-- **支払い方法を選択します。** プログラム料金は、国/地域と雇用状況により異なります。お住まいの国/地域の MCT および MCT Alumni メンバーシップ料金は、ページ最後の参照ツールでご確認ください。
+- **MCT プログラムの要件を確認し、MCT プログラム ガイドおよび契約に署名します。**電子署名により、MCT 契約の条件の承諾が認証されます。
+- **プロファイル情報を更新します。**ここで指定する連絡先情報は MCT のコミュニケーションに使用されます。
+- **雇用状況を指定します。**ラーニング パートナーまたは Microsoft Imagine Academy に雇用されている場合は、雇用主であるラーニング パートナーまたは Microsoft Imagine Academy の ID 番号が必要です。
+- **支払い方法を選択します。**プログラム料金は、国/地域と雇用状況により異なります。お住まいの国/地域の MCT および MCT Alumni メンバーシップ料金は、ページ最後の参照ツールでご確認ください。
 
 ## MCT Alumni プログラム
 
@@ -145,8 +147,8 @@ MCT 登録ツールを使用して次のことを行いましょう:
 
 MCT Alumni プログラムの要件は次のとおりです:
 
--MCT プログラムに現在参加している、または以前参加していた
--Microsoft との関係が良好である
+- MCT プログラムに現在参加している、または以前参加していた
+- Microsoft との関係が良好である
 
 プログラム料金は、国/地域と雇用状況により異なります。お住まいの国/地域の MCT および MCT Alumni メンバーシップ料金は、ページ最後の参照ツールでご確認ください。
 
@@ -179,7 +181,7 @@ MCT Alumni のメンバーになることに関心がある場合は、メンバ
 MCT に戻るには:
 
 - このページの [要件](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) セクションで説明されている **MCT プログラムの要件を満たしていることを確認してください**。現在の Microsoft 認定資格に対するトランスクリプトと、MCT プログラムに適格な資格を有していることを確認します。
-- **MCT プログラムへの参加を申し込みます。** MCT Alumni は、以前に MCT プログラムに申請したときに取得した指導スキルの認定の証明を提出するか、少なくとも 1 年の指導経験があることを実証する照会状を提出できます。この照会状は、以前の顧客、マネージャー、同僚のいずれかからのものにできます。
+- **MCT プログラムへの参加を申し込みます。**MCT Alumni は、以前に MCT プログラムに申請したときに取得した指導スキルの認定の証明を提出するか、少なくとも 1 年の指導経験があることを実証する照会状を提出できます。この照会状は、以前の顧客、マネージャー、同僚のいずれかからのものにできます。
 
 ## MCT および MCT Alumni プログラムの料金
 

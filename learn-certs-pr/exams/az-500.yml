@@ -7,7 +7,7 @@ uid: exam.az-500
 displayName: AZ-500
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<A href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
   <div style='font-weight&#58; bold;'>本試験の内容は、2020年7月29日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。<br/><br/></div>
   </div>
 
@@ -17,7 +17,7 @@ summary: |-
 
   Azure Security Engineer は、多くの場合、エンドツーエンド インフラストラクチャの一部として、クラウドベースの管理とセキュリティまたはハイブリッド環境に専念する大規模なチームの一部として機能します。
 
-  この試験の受験者は、スクリプト作成と自動化に優れたスキルを持ち、ネットワーキング、仮想化、およびクラウドの N 層アーキテクチャを深く理解し、Azure のクラウド機能と製品とサービス、およびその他の Microsoft 製品とサービスに精通している必要があります。
+  この試験の受験者は、スクリプトと自動化に精通している必要があり、ネットワーキングと仮想化について深く理解している必要があります。受験者は、クラウド機能、Azure 製品とサービス、およびその他の Microsoft 製品とサービスに精通している必要もあります。
 subTitle: 'この試験では、ID とアクセスの管理、プラットフォーム保護の実装、セキュリティ運用の管理、データとアプリケーションの安全確保という技術的タスクを遂行する能力を評価します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70

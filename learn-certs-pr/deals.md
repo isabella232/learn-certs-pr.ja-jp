@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 ## Exam Replay
 
-スキルを検証し、プロとしての優位性を獲得し、自信を高めます。Exam Replay の試験バウチャーは、購入日から 12 ヶ月間有効であり、他のオファーと組み合わせることはできません。購入から 12 ヶ月以内に、試験の受験予約をして受験 (および再受験) する必要があります。詳細については、[よく寄せられる質問](#frequently-asked-questions) をご覧ください。Exam Replay オファーの購入または引き換えに問題がある場合は、[Pearson VUEチーム](mailto:mindhub@pearson.com)にメールしてください
+スキルを検証し、プロとしての優位性を獲得し、自信を高めます。Exam Replay の試験バウチャーは、購入日から 12 ヶ月間有効であり、他のオファーと組み合わせることはできません。購入から 12 ヶ月以内に、試験の受験予約をして受験 (および再受験) する必要があります。詳細については、[よく寄せられる質問](#frequently-asked-questions) をご覧ください。Exam Replay オファーの購入または引き換えに問題がある場合は、[サポートチーム](mailto:mindhub@pearson.com)にメールしてください
 
 ### 次の 2 つの異なる試験リプレイオファーから選択します：
 
@@ -24,7 +24,7 @@ ms.author: micsullivan
                 <img src="images/exam-replay-thumbnail.png">
             </td>
             <td>                
-                <p><strong>Microsoft Exam Replay</strong><br/>含まれる内容: 1 回の Microsoft Certified Professional  認定試験無料受験票 + 1 回の再試験(必要な場合)。</p>
+                <p><strong>Microsoft Exam Replay</strong><br/>含まれる内容: 1 回の Microsoft Certified Professional 認定試験無料受験票 + 1 回の再試験(必要な場合）。</p>
                 <p><a href="https://us.mindhub.com/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3"><strong>今すぐ購入</strong></a></p>
             </td>
         </tr>
@@ -33,7 +33,7 @@ ms.author: micsullivan
                 <img src="images/exam-replay-with-practice-test-thumbnail.png">
             </td>
             <td>
-               <p><strong>Microsoft Exam Replay with Practice Test</strong><br/>含まれる内容:: 1 回の Microsoft Certified Professional  認定試験無料受験票 + 1 回 の再試験(必要な場合)および 1 回の Microsoft 公認模擬試験。</p>
+               <p><strong>Microsoft Exam Replay with Practice Test</strong><br/>含まれる内容: 1 回の Microsoft Certified Professional 認定試験無料受験票 + 1 回 の再試験(必要な場合）および 1 回の Microsoft 公認模擬試験。</p>
                <p><a href="https://us.mindhub.com/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink"><strong>今すぐ購入</strong></a></p>
             </td>
         </tr>
@@ -42,11 +42,11 @@ ms.author: micsullivan
 
 
 ## 学生割引でお金を節約
-試験の登録時に学生の身分を証明すると、Microsoft Certified Professional  試験のお得な割引を利用できます。学校が Microsoft Imagine Academy プログラムのメンバーになっている場合は、追加割引の対象となる可能性があります。*注 Microsoft Certified 試験の学割はインドや中国では利用できません。*
+試験の登録時に学生の身分を証明すると、Microsoft Certified Professional 試験のお得な割引を利用できます。*注 Microsoft Certified 試験の学割はインドや中国では利用できません。*
 
 [**詳細情報**](/learn/certifications/certification-exam-policies)
 
-## <a name="frequently-asked-questions"></a>よく寄せられる質問
+## よく寄せられる質問
 
 **質問: Exam Replay とは何ですか？**
 
@@ -58,7 +58,7 @@ ms.author: micsullivan
 
 **質問: Exam Replay で何回再受験できますか?**
 
-**回答:** 最初の試験に合格しなかった場合、Exam Replay は同じ試験の 2 回の再受験に適しています。
+**回答:** 最初の試験に合格しなかった場合、Exam Replay は同じ試験の 1 回の再受験に適しています。
 
 **質問: Exam Replay の対象になるのはどの試験ですか?**
 
