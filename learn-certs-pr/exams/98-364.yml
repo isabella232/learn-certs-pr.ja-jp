@@ -6,13 +6,17 @@ metadata:
 uid: exam.98-364
 displayName: 98-364
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<A href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
 
   この試験の受験者は、Microsoft SQL Server などのリレーショナル データベースを含むデータベースの初歩的な知識とスキルを証明しようとしている個人を対象としています。受験者には、関連するトレーニング コースを受講するか、MSDN と Microsoft Visual Studio で利用可能なチュートリアルとサンプルを利用して、ここで説明するテクノロジの概念を理解し、実地経験を積むことをお勧めします。このテクノロジに関する最小限の実地経験をお勧めしますが、この試験は職務経験を前提としてはいません。
 subTitle: この試験の受験者は、Microsoft SQL Server などのリレーショナル データベースを含むデータベースの初歩的な知識とスキルを証明しようとしている個人を対象としています。受験者には、関連するトレーニング コースを受講するか、MSDN と Microsoft Visual Studio で利用可能なチュートリアルとサンプルを利用して、ここで説明するテクノロジの概念を理解し、実地経験を積むことをお勧めします。このテクノロジに関する最小限の実地経験をお勧めしますが、この試験は職務経験を前提としてはいません。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJq
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=98-364&examname=Database%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-364
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=98-364&examname=Database%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-364
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -42,7 +46,7 @@ courses:
 - uid: course.40364
 relatedCertifications:
 - related:
-    uid: certification.mta-database-fundamentals
+    uid: none
 resources:
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。

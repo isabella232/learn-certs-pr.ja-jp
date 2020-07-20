@@ -6,7 +6,7 @@ metadata:
 uid: exam.98-382
 displayName: 98-382
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<A href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
 
   この試験の受験者は構文として正しいJavaScriptコードを理解して書くことが出来る必要があり、JavaScriptがサポートするデータタイプを使用し、与えられた問題を論理的に解くことのできるJavaScriptコードを認識できる必要があります。
 
@@ -15,7 +15,11 @@ subTitle: この試験の受験者は構文として正しいJavaScriptコード
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiyb
 practiceTestUrl: https://www.mindhub.com/MTA-98-382-Intro-to-Programming-with-JavaScript-p/mu-98-382_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=98-382&examname=Introduction%20to%20Programming%20Using%20JavaScript&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-382
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=98-382&examname=Introduction%20to%20Programming%20Using%20JavaScript&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-382
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja

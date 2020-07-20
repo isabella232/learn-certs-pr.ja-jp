@@ -6,7 +6,10 @@ metadata:
 uid: exam.mb-600
 displayName: MB-600
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<A href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>本試験の内容は、2020年7月30日に更新されます。以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
+  </div>
 
   Microsoft Dynamics 365 + Power Platform のソリューション アーキテクトは、実施を成功に導き、ソリューションが組織の幅広いビジネス ニーズや技術ニーズにどのように対応するかに重点を置いています。
 
@@ -22,6 +25,7 @@ locales:
 levels:
 - advanced
 skills:
+- 本試験の内容は、2020年7月30日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
 - Solution Envisioning および Requirement Analysis を実行する(30-35%)
 - Solution を設計する(45-50%)
 - Solutionを実装する(20-25%)

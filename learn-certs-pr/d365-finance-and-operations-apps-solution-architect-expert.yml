@@ -2,14 +2,14 @@
 title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
 metadata:
   title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
-  description: Microsoft Dynamics 365 の Solution Architects for Finance and Operations アプリケーションは、信頼できるアドバイザーであり、組織や実装チームのメンバーと相談して、ビジネスニーズを明確かつコスト効率の高いソリューションに絞り込みます。
+  description: Microsoft Dynamics 365 の Finance and Operations アプリのソリューション アーキテクトは、ビジネス推奨プラクティス、ソフトウェア機能、実装の提供を理解している信頼できるアドバイザーであり、実装チームメンバーをリードして、事前定義された実装目標を達成できる Dynamics ソリューションを実装できます。
 uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
 
-  Microsoft Dynamics 365 の Solution Architects for Finance and Operations アプリケーションは、信頼できるアドバイザーであり、組織や実装チームのメンバーと相談して、ビジネスニーズを明確かつコスト効率の高いソリューションに絞り込みます。
-subTitle: Microsoft Dynamics 365 の Solution Architects for Finance and Operations アプリケーションは、信頼できるアドバイザーであり、組織や実装チームのメンバーと相談して、ビジネスニーズを明確かつコスト効率の高いソリューションに絞り込みます。
+  Microsoft Dynamics 365 の Finance and Operations アプリのソリューション アーキテクトは、ビジネス推奨プラクティス、ソフトウェア機能、実装の提供を理解している信頼できるアドバイザーであり、実装チームメンバーをリードして、事前定義された実装目標を達成できる Dynamics ソリューションを実装できます。
+subTitle: Microsoft Dynamics 365 の Finance and Operations アプリのソリューション アーキテクトは、ビジネス推奨プラクティス、ソフトウェア機能、実装の提供を理解している信頼できるアドバイザーであり、実装チームメンバーをリードして、事前定義された実装目標を達成できる Dynamics ソリューションを実装できます。
 levels:
 - advanced
 skills:
@@ -17,6 +17,7 @@ skills:
 - ソリューション コンポーネントを設計する
 - ソリューション テストと管理戦略を定義する
 roles:
+- functional-consultant
 - solution-architect
 type: role-based
 products:

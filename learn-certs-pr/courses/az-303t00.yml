@@ -1,0 +1,274 @@
+### YamlMime:Course
+title: Microsoft Azure Architect Technologies
+metadata:
+  title: 'Course AZ-303T00-A: Microsoft Azure Architect Technologies'
+  description: 'Course AZ-303T00-A: Microsoft Azure Architect Technologies'
+uid: course.az-303t00
+courseNumber: 'AZ-303T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure Active Directory とユーザーおよびグループを使用して ID を保護します。
+- skill: オンプレミスとクラウドベースの機能にまたがる ID ソリューションを実装する
+- skill: さまざまなソースからのデータを収集、結合、分析するための監視ソリューションを適用します。
+- skill: サブスクリプション、アカウント、Azure ポリシー、およびロールベースのアクセス制御を管理します。
+- skill: Resource Manager、Azure ポータル、Cloud Shell、CLI を使用して Azure を管理します。
+- skill: VNet Peering などのサイト間接続ソリューション、および仮想ネットワーク ゲートウェイを構成します。
+- skill: Azure App Service、Azure Container Instances、Kubernetes を管理します。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- solution-architect
+products:
+- azure
+exams:
+- uid: exam.az-303
+summary: |-
+  このコースでは、ソリューション アーキテクトがビジネス要件を安全でスケーラブルかつ信頼性の高いソリューションへと変える方法について学びます。レッスンには、仮想化、自動化、ネットワーキング、ストレージ、アイデンティティ、セキュリティ、データ プラットフォーム、アプリケーション インフラストラクチャが含まれます。このコースでは、これらの各分野での決定がソリューション全体に与える影響について概説します。
+
+  #### 視聴者プロフィール
+  このコースは、Microsoft Azure で実行されるソリューションの設計と実装に関する専門知識を持つ IT プロフェッショナルを対象としています。ネットワーク、仮想化、アイデンティティ、セキュリティ、ビジネス継続性、障害回復、データ プラットフォーム、予算編成、ガバナンスなど、IT 運用に関する幅広い知識が必要です。Azure ソリューション アーキテクトは、Azure ポータルを使用し、熟練するにつれコマンド ライン インターフェイスを使用するようになります。受験者は、 Azure 管理のエキスパートレベルのスキルを持ち、 Azure 開発プロセスと DevOps プロセスの経験を持っている必要があります。箇条書きやリストはありません。
+prerequisitesSection: |-
+  実績のある Azure ソリューション アーキテクトは、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、およびネットワーキングに関する経験を元にしてこのロールを開始します。
+  - 以下を含むオンプレミスの仮想化テクノロジについての理解VM、仮想ネットワーク、および仮想ハードディスク。
+  - TCP/IP、ドメイン ネーム システム (DNS)、仮想プライベート ネットワーク (VPN)、ファイアウォール、暗号化テクノロジーなどのネットワーク構成の理解。
+  - ドメイン、フォレスト、ドメイン コントローラ、レプリケーション、Kerberos プロトコル、および Lightweight Directory Access Protocol (LDAP) を含む Active Directory 概念の理解。
+  - バックアップおよびリストア操作を含む復元力および障害回復の理解。
+outlineSection: |-
+  ### モジュール 1&#58; Windows および Linux 用の VM を実装する
+  本モジュールでは、計画、作成、可用性、拡張など、Azure 仮想マシンについて学習します。本モジュールの内容は次のとおりです。
+  #### レッスン
+  - 仮想マシンのサイズを選択する
+  - 高可用性を構成する
+  - Azure 専用ホストを実装する
+  - スケール セットを展開および構成する
+  - Azure Disk Encryption を構成する
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - 仮想マシンの実装を計画する。
+  - 仮想マシンを作成する。
+  - スケール セットを含めて仮想マシンの可用性を構成する。
+  - Azure の VM の高可用性オプションについて理解する
+
+
+  ### モジュール 2&#58; リソースの展開と構成を自動化する
+  本モジュールでは、Azure 管理者がインフラストラクチャの管理に使用するツールについて学習します。これには、Azure Portal、Cloud Shell、Azure PowerShell、CLI 、および Resource Manager テンプレートが含まれます。本モジュールの内容は次のとおりです。
+  #### レッスン
+  - Azure Resource Manager テンプレート
+  - VM のテンプレートを保存する
+  - 新しいリソースの場所を評価する
+  - 仮想ハードディスク テンプレートを構成する
+  - テンプレートから展開する
+  - Automation Runbook を作成および実行する
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - リソースの整理に Azure Resource Manager を活用する。
+  - リソースの展開に ARM テンプレートを使用する。
+  - Automation Runbook を作成および実行する
+  - VHD から Azure VM を展開する
+  - Azure 暗号化テクノロジについて理解する
+
+
+  ### Module 3&#58; 仮想ネットワークを実装する
+  本モジュールでは、仮想ネットワークとサブネット化、IP アドレッシング、ネットワーク セキュリティ グループ、Azure Firewall、Azure DNS などの基本的な仮想ネットワーキングの概念について学習します。
+  #### レッスン
+  - Virtual Network Peering
+  - VNet Peering を実装する
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - サービスを Virtual Network Peering に接続する
+  - VNet Peering を構成する
+  - サービス チェーンについて理解する
+  - VNet Peering を変更または削除する
+
+
+  ### モジュール 4&#58; 負荷分散とネットワーク セキュリティを実装する
+  本モジュールでは、ネットワーク ルーティングおよびサービス エンドポイント、Azure Load Balancer、Azure Application Gateway、Traffic Manager などのネットワーク トラフィック戦略について学習します。
+  #### レッスン
+  - Azure Load Balancer を実装する
+  - Application Gateway を実装する
+  - Web Application Firewall について理解する
+  - Azure Firewall を実装する
+  - Azure Front Door を実装する
+  - Azure Traffice Manager の実装
+  - Network Security Group と Application Security Group を実装する
+  - Azure Bastion を実装する
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Load Balancer ソリューションを選択する
+  - Application Gateway を構成する
+  - Azure Firewall を実装する
+  - Azure Front Door を作成する
+  - Traffic Manager のルーティング方法について理解する
+  - Network Security Groups (NSGs) を構成する
+
+
+  ### モジュール 5&#58; ストレージ アカウントを実装する
+  本モジュールでは、ストレージ アカウント、ブロブ ストレージ、Azure ファイル、File Sync、ストレージ セキュリティ、ストレージ ツールなどの基本的なストレージ機能について学習します。 
+  #### レッスン
+  - ストレージ アカウント
+  - ブロブ ストレージ
+  - ストレージ セキュリティ
+  - ストレージの管理
+  - AAD を使用して Blob とキューにアクセスする
+  - Azure ストレージ ファイアウォールと仮想ネットワークを構成する
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - ストレージ アカウントのサービスと種類について理解する
+  - Blob ストレージ、アカウント、コンテナ、アクセス層を構成する
+  - 共有アクセス シグネチャを実装する
+  - Azure Storage のファイアウォールと仮想ネットワークについて理解する
+
+
+  ### モジュール 6&#58; Azure Active Directory を実装する
+  本モジュールでは、Azure Active Directory を使用して ID を保護し、ユーザーとグループを実装する方法について学習します。
+  #### レッスン
+  - Azure Active Directory の概要
+  - ユーザーとグループ
+  - ドメインおよびカスタム ドメイン
+  - Azure AD Identity Protection
+  - 条件付きアクセスを実装する
+  - MFA の不正アラートを設定する
+  - バイパス オプションを実装する
+  - 信頼できる IP を構成する
+  - Azure AD でゲスト ユーザーを構成する
+  - 複数のディレクトリを管理する
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - 複数の AAD 組織がどのように相互作用するかについて理解する
+  - Azure AD にゲスト ユーザーを追加する
+  - ロケーション条件構成を設定する
+  - Azure MFA 設定を構成する
+  - 条件付きアクセスAzure MFAを実装する
+
+
+  ### モジュール 7&#58; Azure ガバナンスを実装および管理する
+  本モジュールでは、サブスクリプションとアカウントの管理、Azure ポリシーの実装、ロールベースの Access Control の使用について学習します。
+  #### レッスン
+  - 管理グループ、サブスクリプション、およびリソース グループを作成する
+  - ロール ベースのアクセス制御 (RBAC) の概要
+  - ロール ベースのアクセス制御 (RBAC) のロール
+  - Azure AD アクセス レビュー
+  - Azure Policy を実装および構成する
+  - Azure Blueprint
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - リソース グループの構造について理解する
+  - RBAC の仕組みについて理解する
+  - Azure AD アクセス レビューを作成する
+  - コンプライアンスを実施するためのポリシーを作成および管理する
+  - Blueprint を作成する
+
+
+  ### モジュール 8&#58; ハイブリッド ID を実装および管理する
+  このモジュールでは、Azure AD Connect をインストールおよび構成し、Azure AD Connect Health を実装する方法について学習します。
+  #### レッスン
+  - Azure AD Connect をインストールおよび構成する
+  - パスワード同期およびパスワード ライトバックを構成する
+  - Azure AD Connect Health を構成する
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Azure AD のシームレスなシングル サインオンを実装する
+  - Azure AD Connect のインストールを実行する
+  - Azure AD Connect Health を実装する
+
+
+  ### モジュール 9&#58; Azure でワークロードを管理する
+  このモジュールでは、Azure Migrate を使用してワークロードを移行する方法、VMware エージェントベースおよびエージェントレスの移行を実行する方法、Azure バックアップと Azure Site Recovery を実行する方法について学習します。
+  #### レッスン
+  - Azure Migrate を使用してワークロードを移行する
+  - VMware - エージェントレス移行
+  - VMware - エージェント ベースの移行
+  - Azure Backup を実装する
+  - Azure to Azure なサイトリカバリ
+  - Azure Update Management を実装する
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - エージェント ベースの移行アーキテクチャについて理解する
+  - 移行のための Azure の準備
+  - オンプレミスの VMware 環境を準備する
+  - Azure VM バックアップ アーキテクチャについて理解する
+  - Azure VM の更新とパッチを管理する
+
+
+  ### モジュール 10&#58; クラウド インフラストラクチャの監視を実装する
+  このモジュールでは、Azure Monitor、Azure Workbooks、Azure Alerts、Network Watcher、Azure Service Health、Azure Application Insights について学習します。
+  #### レッスン
+  - Azure インフラストラクチャのセキュリティ監視
+  - Azure Monitor
+  - Azure Workbook
+  - Azure Alerts
+  - Log Analytics
+  - Network Watcher
+  - Azure Service Health
+  - Azure のコストを監視する
+  - Azure Application Insights
+  - Azure の統合監視
+
+
+  ### モジュール 11&#58; アプリケーションのセキュリティを管理する
+  このモジュールでは、Azure Key Vaultと、Azure Managed Identities を使用した認証の実装について学習します。
+  #### レッスン
+  - Azure Key Vault
+  - Azure Managed ID
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Screts、Key、Cerficate Management などの Key Vault の使用法について説明する
+  - Azure リソースで Managed ID を使用する
+
+
+  ### モジュール 12&#58; アプリケーション インフラストラクチャを実装する
+  このモジュールでは、コンテナ用の App Service Web アプリを作成する方法、App Service プランを作成および構成する方法、デプロイ スロットを作成および管理する方法について学習します。
+  #### レッスン
+  - Azure App Service を作成して構成する
+  - コンテナ用の App Service Web アプリを作成する
+  - App Service プランの作成と構成
+  - App Service のネットワークを構成する
+  - 展開スロットを作成および管理する
+  - ロジック アプリを実装する
+  - Azure Functions を実装する
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Azure App Service を構成する
+  - App Service プランを作成する
+  - Azure Logic Apps を使用してワークフローを作成する
+  - 関数アプリを作成する
+
+
+  ### モジュール 13&#58; コンテナベースのアプリケーションを実装する
+  このモジュールでは、Azure コンテナ インスタンスを実行する方法と、AKS を使用して Kubernetes を展開する方法について学習します。
+  #### レッスン
+  - Azure Container Instances
+  - Azure Kubernetes サービスを構成する
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Azure Container インスタンスを実行する
+  - AKS で Kubernetes を展開する
+
+
+  ### モジュール 14&#58; NoSQL データベースを実装する
+  このモジュールでは、Azure Table Storage について学習し、CosmsoDB API の推奨オプションを紹介します。
+  #### レッスン
+  - ストレージ アカウント テーブルを構成する
+  - 適切な CosmosDB API を選択する
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - テーブル サービス データ モデルの概要
+  - Azure Cosmos DB のオプションについて理解する
+  - CosmosDB を使用して高可用性について理解する
+
+
+  ### モジュール 15&#58; Azure SQL データベースを実装する
+  このモジュールでは、Azure SQL データベースの単一データベースを作成し、Azure SQL データベース 管理対象インスタンスを作成し、高可用性および Azure SQL データベースを確認します。
+  #### レッスン
+  - Azure SQL データベース設定を構成する
+  - Azure SQL データベース管理対象インスタンスを実装する
+  - 高可用性および Azure SQL データベース
+
+  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
+  - Azure SQL Database の単一データベースを作成する
+  - Azure SQL データベース管理対象インスタンスを作成する
+  - Azure SQL データベースで使用される高可用性アーキテクチャ モデルを推奨する

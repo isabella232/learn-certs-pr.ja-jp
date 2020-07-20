@@ -13,11 +13,13 @@ ms.author: micsullivan
 
 次のテーブルは、廃止されたか近々廃止予定のコース教材のリストです。終了日以降、コースは販売できません。
 
+MOC オンデマンドの廃止済みコースをお探しの場合は、次のリンクをクリックしてください。[https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+
 ## 終了したコースウェア: インストラクター指導のトレーニング
 
 * 2020 年 6 月 30 日のコースウェアの廃止
 
-    | コース番号 | バージョン | タイトル | 言語| 退職日 |
+    | コース番号| バージョン| タイトル| 言語| 退職日|
     | --- | --- | --- | --- | --- |
     | 2274 | C | Managing a Microsoft® Windows Server™ 2003 Environment | ロシア語  | 2020 年 6 月 30 日|
     | 2275 | C | Maintaining a Microsoft® Windows Server™ 2003 Environment | ロシア語  | 2020 年 6 月 30 日|
@@ -158,7 +160,7 @@ ms.author: micsullivan
 
     | コース番号| バージョン| タイトル| 言語| 退職日|
     | --- | --- | --- | --- | --- |
-    | 2778 | A | Writing Queries Using Microsoft® SQL Server® 2008 Transact-SQL|| | 英語 | 2020 年 2 月 28 日
+    | 2778 | A | Writing Queries Using Microsoft® SQL Server® 2008 Transact-SQL | 英語 | 2020 年 2 月 28 日 |
     | 6231 | B | Maintaining a Microsoft® SQL Server® 2008 R2 Database | 英語  | 2020 年 2 月 28 日|
     | 6234 | A | Implementing and Maintaining Microsoft® SQL Server® 2008 Analysis Services | 英語  | 2020 年 2 月 28 日|
     | 6236 | A | Implementing and Maintaining Microsoft® SQL Server™ 2008 Reporting Services | 英語  | 2020 年 2 月 28 日|
@@ -763,7 +765,7 @@ ms.author: micsullivan
 
     | コース番号| バージョン| タイトル| 言語| 退職日|
     | --- | --- | --- | --- | --- |
-    | 10978 | A | Introduction to Azure Development | 英語 | 2017 年 4 月 15 日
+    | 10978 | A | Introduction to Azure Developers | 英語 | 2017 年 4 月 15 日
 
 * 2017 年 3 月 31 日に終了したコースウェア
 
