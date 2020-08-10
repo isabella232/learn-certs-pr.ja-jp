@@ -1,12 +1,12 @@
 ### YamlMime:Certification
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
-  title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
-  description: Microsoft Azure for SAP Workloads のアーキテクトまたはエンジニアは、Azure での SAP ソリューションの長期的な運用に固有の SAP システム ランドスケープおよび業界標準に関する幅広い経験と知識を持っています。
+  title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
+  description: 'Microsoft Azure for SAP Workloads のアーキテクトまたはエンジニアは、Azure での SAP ソリューションの長期的な運用に固有の SAP システム ランドスケープおよび業界標準に関する幅広い経験と知識を持っています。'
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
   Azure for SAP Workloads Specialty 認定資格の受験者は、Microsoft Azure での SAP ソリューションの長期的な運用に固有の SAP システム ランドスケープと業界標準に関する幅広い経験と知識を持つアーキテクトまたはエンジニアである必要があります。
 
@@ -46,6 +46,9 @@ resources:
 - title: Azure 認定資格ポスター
   description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 認証への道のり
+  description: Azure for SAP Workloads Specialty で認定を受けるための手順と、準備に役立つリソースをご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
