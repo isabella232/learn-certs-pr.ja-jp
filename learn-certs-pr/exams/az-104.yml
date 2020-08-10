@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-104
 displayName: AZ-104
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>.</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
 
   この試験の受験者には、組織の Microsoft Azure 環境の実装、管理、監視に関する専門知識が必要です。
 
@@ -20,27 +20,27 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-104?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
-  - providerType: gsi
-    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Azure アイデンティティおよびガバナンスの管理(15-20%)
+- Azure アイデンティティおよびガバナンスの管理 (15-20%)
 - ストレージの作成と管理 (10-15%)
 - Azure 計算資源の展開と管理 (25-30%)
 - 仮想ネットワークの構成と管理 (30-35%)
-- Azure 資源の監視とバックアップ(10-15% )
+- Azure 資源の監視とバックアップ (10-15%)
 roles:
 - administrator
 products:
 - azure
 courses:
-- uid: course.az-010t00
 - uid: course.az-104t00
+- uid: course.az-010t00
 paths:
 - uid: learn.az104-admin-prerequisites
 - uid: learn.az-104-manage-identities-governance
@@ -52,6 +52,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-administrator
 resources:
+- title: 認証への道のり
+  description: Azure Administrator Associate の認定を受けるための手順と、準備に役立つリソースをご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElC
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
