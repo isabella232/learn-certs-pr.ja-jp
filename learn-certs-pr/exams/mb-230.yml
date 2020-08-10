@@ -7,8 +7,8 @@ uid: exam.mb-230
 displayName: MB-230
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 7 月 1 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'> この試験の内容は、2020 年 7 月 1 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
   </div>
 
   この試験の受験者は、カスタマーサービス経験を持つ Dynamics 365 の機能コンサルタントです。受験生は、サービス、品質、信頼性、効率性、顧客満足度にフォーカスしたオムニチャンネル(実店舗とネット店舗両方をカバー)ソリューションの実現に責任を持ちます。
@@ -18,10 +18,11 @@ summary: |-
 
   受験生は、ケースの深い理解、ナレッジベース、キュー、エンタイトルメント、Service Level Agreements (SLA),可視化、統一サービスデスクを含むDynamics 365 Customer Serviceを通じたユーザーのニーズへの知識の適合への強い適性を持っている必要があります。
 
-  受験生は製造業の用語、優先順位、基準、手法、カスタマーサービスオペレーション、ベストプラクティスを理解している必要があります。受験者は、ソリューション アーキテクチャと品質管理だけでなく Dyamics 365 アプリケーション スイートと関連のある Customer Service アプリケーションのロールへの優れた理解が必要です。
+  受験生は製造業の用語、優先順位、基準、手法、カスタマーサービスオペレーション、ベストプラクティスを理解している必要があります。受験者は、ソリューション アーキテクチャと品質管理だけでなく Dynamics 365 アプリケーション スイートと関連のある Customer Service アプリケーションのロールへの優れた理解が必要です。
 subTitle: 'この試験では、構成の実行、ケースとナレッジベースの管理、キューや資格およびSLA の管理、 Forms Pro の構成などの技術的タスクを遂行する能力を評価します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
+practiceTestUrl: https://in.mindhub.com/mb-230-microsoft-dynamics-365-customer-service-microsoft-official-practice-test/p/MU-MB-230?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-230&examname=Exam%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
 locales:
 - en
@@ -29,9 +30,9 @@ levels:
 - intermediate
 skills:
 - この試験の内容は、2020 年 7 月 1 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
-- 構成の実行 (25-30%)
-- サポート案件とサポート技術情報の管理 (30-35%)
-- キュー、資格、SLA の管理 (25-30%)
+- 構成を実行する (25-30%)
+- ケースおよびナレッジ ベースを管理する (30-35%)
+- キュー、資格、および SLA を管理する (25-30%)
 - Forms Proを構成する (15-20%)
 roles:
 - functional-consultant
@@ -52,7 +53,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-customer-service
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate になるための教材を探しましょう。'
+  description: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate のトレーニングリソースを探します。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。

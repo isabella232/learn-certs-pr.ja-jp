@@ -1,0 +1,66 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform Functional Consultant (beta)'
+metadata:
+  title: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
+  description: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
+uid: exam.pl-200
+displayName: PL-200
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  Power Platform Functional Consultant は、発見の実行、要件の把握、主題の専門家および利害関係者の雇用、要件の翻訳、Power Platform ソリューションとアプリの設定を担当します。
+
+  Functional Consultant は、アプリケーションの強化、カスタム ユーザー エクスペリエンス、システム統合、データ変換、カスタム プロセスの自動化、カスタムの可視化などを含むソリューションのコンポーネントを実装します。
+
+  <div style='font-weight&#58; bold;'><br/>注意&#58; この試験は 2020 年 10 月に利用可能になります。</div>
+subTitle: 'この試験は 2020 年 10 月に利用可能になります。この試験では、Common Data Service の構成、Power App の作成、Power Automate による自動化の作成、Power Virtual Agents の構成、Power BI による視覚化の作成などの技術的なタスクを実行する能力を評価します。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Common Data Service を設定する
+- Power App を作成する
+- Power Automate でオートメーションを作成する
+- Power Virtual Agents を構成する
+- Power BI で視覚化を作成する
+roles:
+- business-analyst
+- developer
+- functional-consultant
+products:
+- power-apps
+- power-bi
+- power-automate
+- common-data-service
+- ai-builder
+- power-platform
+- office-teams
+- power-virtual-agents
+relatedCertifications:
+- related:
+    uid: certification.power-platform-functional-consultant-associate
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 資格試験のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: 試験ポリシーとよくある質問をご確認ください。
+  href: ../certification-exam-policies.md
+

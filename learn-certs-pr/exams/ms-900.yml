@@ -8,12 +8,14 @@ displayName: MS-900
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>本試験の内容は、2020年7月8日に更新されます。以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
+  <div style='font-weight&#58; bold;'> この試験の内容は、2020 年 7 月 8 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
   </div>
 
-  この試験は、クラウド サービス全般および SaaS (Software as a Service) クラウド モデルを採用する際の考慮事項と利点に関する基本的な知識を実証することを目的としています。この試験では、利用可能なオプションに関する知識と、Microsoft 365 クラウド サービス製品の実装によって得られる利点についても説明します。
+  この試験は、クラウド サービス全般および SaaS (Software as a Service) クラウド モデルを採用する際の考慮事項と利点に関する基礎レベルの知識を実証することを目的としています。受験者は、Microsoft 365 クラウド サービス製品の実装によって得られる利用可能なオプションやメリットについての知識が必要です。
 
-  この試験は、Office 365、Microsoft Intune、Azure Information Protection (AIP)、およびWindows 10、などのクラウド コンピューティングおよびテクノロジ試験の前処理として利用できます。
+  受験者は、組織の一般的な IT の課題に対処するソリューションを推奨し、市場での競合から Microsoft 365 ソリューションを差別化するために必要な知識を持っている必要があります。受験者は、製品、費用対効果の高いライセンスの最適化、組織のサポート オプションの基本的な知識も必要です。
+
+  受験者は、Microsoft のサービスと製品 (Microsoft 365、Azure、Dynamics 365) を区別できる必要があります。
 subTitle: Microsoft 365 のコア サービス、Microsoft 365 におけるセキュリティ/コンプライアンス/プライバシー/信頼、Microsoft 365 の価格とサポートの Cloud コンセプトを理解していることを証明してください。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVw
@@ -31,11 +33,11 @@ providers:
 levels:
 - beginner
 skills:
-- 本試験の内容は、2020年7月8日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
-- クラウド概念の説明 (15-20%)
-- Microsoft 365の主要なサービスおよび概念の説明 (30-35%)
-- Microsoft 365 のセキュリティ、コンプライアンス、プライバシー、および信頼のオプションについての説明 (25-30%)
-- Microsoft 365 の価格設定およびサポートのオプションについての説明 (25-30%)
+- この試験の内容は、2020 年 7 月 8 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- クラウドの概念について説明する (10-15%)
+- Microsoft 365 の主要なサービスと概念について説明する (30-35%)
+- Microsoft 365 のセキュリティ、コンプライアンス、プライバシー、信頼について説明する (30-35%)
+- Microsoft 365 の価格設定およびサポートについての説明 (20-25%)
 roles:
 - administrator
 products:
@@ -51,7 +53,7 @@ relatedCertifications:
     uid: certification.microsoft-365-fundamentals
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft Certified: Fundamentals になるための教材を探しましょう。'
+  description: 'Microsoft Certified: Fundamentals のトレーニングリソースを探します。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。

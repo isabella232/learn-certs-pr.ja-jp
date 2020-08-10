@@ -1,0 +1,52 @@
+### YamlMime:Examination
+title: 'Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+metadata:
+  title: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+  description: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+uid: exam.mb-800
+displayName: MB-800
+summary: |-
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+
+  Dynamics 365 Business Central コア アプリケーションの Functional Consultant は、コア アプリの機能、モジュールのセットアップ、Business Central へのデータの移行など、Business Central アプリを実装および構成します。コンサルタントは、実装チームと協力してユーザー インターフェイスを構成し、ビジネスに管理性とナビゲーションの容易さを提供します。それらは、洞察、手がかり、アクション タイル、レポート、グラフの適応、Power Platform コンポーネントを使用した Business Central の拡張などを含む、ロール センターを構成します。
+
+  <div style='font-weight&#58; bold;'><br/>注意&#58; この試験は 2020 年 9 月に利用可能になります。</div>
+subTitle: 'この試験は 2020 年 9 月に利用可能になります。この試験では、Business Central のセットアップ、Financials の構成、Sales および Purchasing の構成、運用のセットアップ、Power Platform コンポーネントの使用といったタスクを完了する能力を評価します。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 準備中
+roles:
+- functional-consultant
+products:
+- dynamics-business-central
+- power-platform
+relatedCertifications:
+- related:
+    uid: certification.d365-business-central-functional-consultant-associate
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 資格試験のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 試験のポリシーと FAQ
+  description: 試験ポリシーとよくある質問をご確認ください。
+  href: ../certification-exam-policies.md
+

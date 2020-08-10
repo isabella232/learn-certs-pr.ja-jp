@@ -1,32 +1,29 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 365 Certified: Messaging Administrator Associate'
-  description: 'Microsoft 365 メッセージング管理者は、ハイブリッドとクラウド エンタープライズ環境における受信者、パーミッション、メール保護、メール フロー、パブリック フォルダを展開、設定、管理、トラブルシューティング、および監視します。'
-uid: certification.m365-messaging-administrator
+  title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
+  description: この認定は 2020 年 9 月に利用可能になります。Dynamics 365 Business Central Functional Consultant は、中小企業向けのコア アプリケーション セットアップ プロセスの実装を担当します。
+uid: certification.d365-business-central-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
-  Microsoft 365 メッセージング管理者は、ハイブリッドとクラウド エンタープライズ環境における受信者、パーミッション、メール保護、メール フロー、パブリック フォルダを展開、設定、管理、トラブルシューティング、および監視します。
-subTitle: Microsoft 365 メッセージング管理者は、ハイブリッドとクラウド エンタープライズ環境における受信者、パーミッション、メール保護、メール フロー、パブリック フォルダを展開、設定、管理、トラブルシューティング、および監視します。
+  Dynamics 365 Business Central Functional Consultant は、中小企業向けのコア アプリケーション セットアップ プロセスの実装を担当します。
+
+  <div><br/><strong>注意&#58; この認定は 2020 年 9 月に利用可能になります。</strong></div>
+subTitle: この認定は 2020 年 9 月に利用可能になります。Dynamics 365 Business Central Functional Consultant は、中小企業向けのコア アプリケーション セットアップ プロセスの実装を担当します。
 levels:
 - intermediate
 skills:
-- 組織の設定およびリソースの管理
-- メール アーキテクチャの計画と管理
-- ハイブリッド設定と移行の計画と実装
-- メッセージング環境のセキュリティ強化
+- 準備中
 roles:
-- administrator
+- functional-consultant
 type: role-based
 products:
-- m365
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
-courses:
-- uid: course.ms-203t00
+- dynamics-business-central
+- power-platform
 exams:
-- uid: exam.ms-203
+- uid: exam.mb-800
 resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。

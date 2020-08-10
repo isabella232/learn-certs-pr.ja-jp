@@ -5,11 +5,13 @@ metadata:
   description: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
 uid: exam.pl-100
 displayName: PL-100
-summary: "<div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<A href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>\r\n  \r\nアプリ メーカーは、ソリューション ドメインを熟知している自分とチームのために、タスクとプロセスを簡素化、自動化、変換するソリューションを構築します。データ モデリング、基本的な UX 設計、要件分析、プロセス分析などの主要なテクニカルビジネス アナリスト タスクに精通しています。<br/><br/>\r\n\r\nアプリ メーカーは、ビジネス プロセスを作成して適用し、情報のデジタル コレクションを構築し、繰り返し可能なタスクの効率を向上させ、ビジネス プロセスを自動化します。\r\n\r\nアプリ メーカーは、Power Platform のメーカー ツールを使用してビジネス上の問題を解決します。Visual Basic for Applications、Excel ピボット テーブル、チーム、およびその他のツールの経験がある場合があります。データ モデル、ユーザー インターフェイス、プロセスについての基本的な知識が必要です。アプリ メーカーは、利用可能なツールの機能と制限を認識しており、それらを適用する方法を理解しています。\r\n\r\nアプリ メーカーは自主的で、ソリューション中心です。彼らは正式な IT トレーニングは受けていないかもしれませんが、テクノロジを使用して個人的な成長の考え方でビジネスの問題を解決することに慣れています。彼らは運用上の必要性を理解し、望ましい結果のビジョンを持っています。彼らは段階的かつ反復的な戦略で問題に取り組みます。  \r\n\r\n<div style='font-weight&#58; bold;'><br/>注意&#58; 本試験は、2020年7月17日前後に受験できます。</div>"
-subTitle: 'この試験は 2020 年 7 月 17 日頃に利用可能になります。この試験では、ソリューションの設計、ソリューションの作成、データの分析、ソリューションの実装および管理などの技術的タスクを遂行する能力を評価します。'
+summary: "<div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>\r\n  \r\nアプリ メーカーは、ソリューション ドメインを熟知している自分とチームのために、タスクとプロセスを簡素化、自動化、変換するソリューションを構築します。データ モデリング、基本的な UX 設計、要件分析、プロセス分析などの主要なテクニカルビジネス アナリスト タスクに精通しています。<br/><br/>\r\n\r\nアプリ メーカーは、ビジネス プロセスを作成して適用し、情報のデジタル コレクションを構築し、繰り返し可能なタスクの効率を向上させ、ビジネス プロセスを自動化します。\r\n\r\nアプリ メーカーは、Power Platform のメーカー ツールを使用してビジネス上の問題を解決します。Visual Basic for Applications、Excel ピボット テーブル、チーム、およびその他のツールの経験がある場合があります。データ モデル、ユーザー インターフェイス、プロセスについての基本的な知識が必要です。アプリ メーカーは、利用可能なツールの機能と制限を認識しており、それらを適用する方法を理解しています。\r\n\r\nアプリ メーカーは自主的で、ソリューション中心です。彼らは正式な IT トレーニングは受けていないかもしれませんが、テクノロジを使用して個人的な成長の考え方でビジネスの問題を解決することに慣れています。彼らは運用上の必要性を理解し、望ましい結果のビジョンを持っています。彼らは段階的かつ反復的な戦略で問題に取り組みます。\r\n\r\n<div style='font-weight&#58; bold;'><br/>ベータ試験は、設問と試験の質に関するデータを収集しているため、すぐには採点されません。ベータ試験の価値と重要性についての詳細<a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">こちらをご覧ください</a>。</div>"
+subTitle: 'この試験では、ソリューションの設計、ソリューションの作成、データの分析、ソリューションの実装および管理などの技術的タスクを遂行する能力を評価します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
 providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=PL-100&examname=Exam%20PL-100:%20Microsoft%20Power%20Platform%20App%20Maker&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-100
 - providerType: gsi
   examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
@@ -61,6 +63,18 @@ products:
 - power-bi
 - power-apps
 - power-virtual-agents
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-bizapps.understand-advanced-topics
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.ui-controls-canvas-app-powerapps
+- uid: learn-bizapps.create-business-process-flow
 relatedCertifications:
 - related:
     uid: certification.power-platform-app-maker

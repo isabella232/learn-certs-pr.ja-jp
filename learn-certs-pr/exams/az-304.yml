@@ -6,13 +6,13 @@ metadata:
 uid: exam.az-304
 displayName: AZ-304
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<A href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
 
   この試験の受験者は、コンピューティング、ネットワーク、ストレージ、セキュリティなどの側面を含む、Microsoft Azure で実行されるソリューションの設計と実装に関する専門知識を持っている必要があります。
 
   Azure ソリューションアーキテクトの責任には、利害関係者に助言し、ビジネス要件を安全でスケーラブルで信頼性の高いクラウド ソリューションに変換することが含まれます。
 
-  Azure Solution Architect は、クラウド管理者、クラウド DBA、およびクライアントとパートナーを組み、ソリューションを実装します
+  Azure Solution Architect は、クラウド管理者、クラウド DBA、およびクライアントとパートナーを組み、ソリューションを実装します。
 
   この試験の受験者は、ネットワーキング、仮想化、アイデンティティ、セキュリティ、ビジネス継続性、障害回復、データ プラットフォーム、予算編成、ガバナンスなど、IT 運用の高度な経験と知識を持っている必要があります。このロールは各領域での決定がソリューション全体に与える影響を管理する必要があります。さらに、このロールには、Azure 管理のエキスパート レベルのスキルを持ち、Azure 開発プロセスと DevOps プロセスの経験が必要です。
 
@@ -26,15 +26,25 @@ locales:
 levels:
 - advanced
 skills:
-- モニタリングを設計する (10-15%)
+- 監視の設計(10-15%)
 - アイデンティティとセキュリティを設計する (25-30%)
 - データストレージの設計(15-20%)
-- ビジネス継続性の設計 (10-15%)
+- ビジネス継続性を設計する (10-15%)
 - インフラストラクチャを設計する (25-30%)
 roles:
 - solution-architect
 products:
 - azure
+paths:
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-data-platform
+- uid: learn.architect-messaging-serverless
+- uid: learn.architect-modern-apps
+- uid: learn.architect-api-integration
+- uid: learn.architect-migration-bcdr
 exams:
 - uid: exam.az-303
 courses:
@@ -43,6 +53,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
+- title: 認証への道のり
+  description: Azure Solutions Architect Expert として認定を受けるための手順と、準備に役立つリソースをご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

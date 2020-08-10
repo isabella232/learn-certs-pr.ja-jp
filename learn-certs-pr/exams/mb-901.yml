@@ -8,7 +8,7 @@ displayName: MB-901
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>本試験の内容は、2020年7月10日に更新されます。以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
+  <div style='font-weight&#58; bold;'> この試験の内容は、2020 年 7 月 10 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
   </div>
 
   この試験では、 Dynamics 365 を採用することの位置付けと利点について説明します。
@@ -16,7 +16,7 @@ summary: |-
   受験者は、 Dynamics 365 および Microsoft クラウドコンピューティングを機能的に理解している必要があります。
 
   この試験の受験生には、情報技術 (IT) 環境の一般的な知識または関連する実務経験が必要です。また、受験生は、ビジネス シナリオについての基本的理解、および IT プロジェクトにおけるビジネス、法律、およびセキュリティの要件に対応した経験があることも必要です。
-subTitle: 本試験は、以下を理解できる能力を査定します。 Microsoft Dynamics 365、人工知能(AI)、複合現実(MR)、 Power Platform 、クラウドの概念、クラウドのセキュリティ、 Dynamics 365におけるロールベース のセキュリティ、 Common Data Service、  データ管理フレームワーク、 Dynamics 365 のレポート作成、 Dynamics 365 の統合、クラウドの展開。
+subTitle: 本試験は、以下を理解できる能力を査定します。 Microsoft Dynamics 365、人工知能(AI)、複合現実(MR)、 Power Platform 、クラウドの概念、クラウドのセキュリティ、 Dynamics 365におけるロールベース のセキュリティ、Common Data Service、 データ管理フレームワーク、 Dynamics 365 のレポート作成、 Dynamics 365 の統合、クラウドの展開。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
 locales:
@@ -29,8 +29,8 @@ providers:
 levels:
 - beginner
 skills:
-- 本試験の内容は、2020年7月10日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
-- Dynamics 365 の Microsoft プラットフォームコンポーネントを特定します(30-35%)
+- この試験の内容は、2020 年 7 月 10 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- Dynamics 365 の Microsoft プラットフォームコンポーネントを特定します(30 -35%)
 - Dynamics 365 における人工知能と複合現実について説明する (10-15%)
 - モデル主導型アプリについて説明する (25-30%)
 - Finance and Operations アプリについて説明する (25-30%)
@@ -47,7 +47,7 @@ relatedCertifications:
     uid: certification.d365-fundamentals
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft Certified: Dynamics 365 Fundamentals になるための教材を探しましょう。'
+  description: 'Microsoft Certified: Dynamics 365 Fundamentals のトレーニングリソースを探します。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。

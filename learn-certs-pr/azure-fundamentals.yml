@@ -43,6 +43,9 @@ resources:
 - title: Azure 認定資格ポスター
   description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 認証への道のり
+  description: Azure Fundamentals で認定を受けるための手順と、準備に役立つリソースをご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElB
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

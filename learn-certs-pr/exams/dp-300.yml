@@ -6,7 +6,7 @@ metadata:
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<A href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
 
   本試験の受験者は、 Microsoft SQL Server および Microsoft Azure データサービス上に構築されたオンプレミスおよびクラウド リレーショナル データベースを管理するデータベース管理者およびデータ管理スペシャリストです。
 
@@ -48,6 +48,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-database-administrator-associate
 resources:
+- title: 認証への道のり
+  description: Azure Database Administrator Associate として認定を受けるための手順と、準備に役立つリソースをご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

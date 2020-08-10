@@ -6,7 +6,7 @@ metadata:
 uid: certification.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
   Microsoft Dynamics 365 Sales Functional Consultants は、顧客とのつながりを予測および計画し、処理と決済を通じて取引を管理し、データ分析を使用して営業チームのパフォーマンスを高めるソリューションを実装します。
 subTitle: Microsoft Dynamics 365 Sales Functional Consultants は、顧客とのつながりを予測および計画し、処理と決済を通じて取引を管理し、データ分析を使用して営業チームのパフォーマンスを高めるソリューションを実装します。
@@ -37,21 +37,17 @@ paths:
 - uid: learn-dynamics.implementing-customer-engagement-online
 - uid: learn-bizapps.automate-process-using-flow
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-dynamics.get-started-portals
-- uid: learn-dynamics.work-with-portals
+- uid: learn-bizapps.get-started-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 - uid: learn-dynamics.dynamics-365-for-sales
 - uid: learn-bizapps.applying-goal-management
-- uid: learn-bizapps.customer-service-hub-cases-slas
-- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
-- uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-bizapps.dyn365-voice-of-customer
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6I
 exams:
 - uid: exam.mb-200
 - uid: exam.mb-210
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate になるための教材を探しましょう。'
+  description: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate のトレーニングリソースを探します。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。

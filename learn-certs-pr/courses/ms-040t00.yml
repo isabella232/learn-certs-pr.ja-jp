@@ -1,0 +1,121 @@
+### YamlMime:Course
+title: Manage SharePoint and OneDrive in Microsoft 365
+metadata:
+  title: 'Course MS-040T00-A: Manage SharePoint and OneDrive in Microsoft 365'
+  description: 'Course MS-040T00-A: Manage SharePoint and OneDrive in Microsoft 365'
+uid: course.ms-040t00
+courseNumber: 'MS-040T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: SharePoint サイトを構成する。
+- skill: サイトのストレージ制限を管理します。
+- skill: OneDrive 同期クライアントを展開します。
+- skill: Group Policy を使用して OneDrive の同期クライアント設定を制御する。
+- skill: Microsoft SharePoint および OneDrive のデータの外部共有を管理します。
+- skill: ユーザープロファイルプロパティを構成する。
+- skill: オーディエンスを管理します。
+- skill: App Catalog を使用して、カスタム アプリを管理します。
+- skill: 用語グループ、用語セット、および用語を作成および管理する。
+- skill: モダン検索とクラシック検索の違いについて説明する。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- m365
+summary: |-
+  コンテンツは、あらゆる組織にとって最も重要なデジタル資産です。このコースでは、コンテンツのライフサイクルを変革する最新のコンテンツ サービスを実現するために、SharePoint Site と OneDrive を計画、構成、および管理する方法について学びます。具体的には、このコースでは、SharePoint ハブ サイトなどの最新の SharePoint サイト構造について説明します。組織内での OneDrive の採用と展開に関する成功事例を提供します。また、Microsoft 365 の SharePoint および OneDrive での共有、セキュリティ、監視についても説明します。さらに、適切な権限設定でユーザー プロファイルとアプリを管理する方法について学びます。また、Managed Metadata、Business Connectivity Services、および検索を計画および構成して、Microsoft 365 全体でコンテンツを検索、利用、および管理できるようにする方法についても説明します。
+
+  #### 視聴者プロフィール
+  このコースは、組織内で Microsoft SharePoint と OneDrive を展開および管理する IT プロフェッショナルを対象としています。このコースの受講生は、Microsoft SharePoint と OneDrive に興味を持っています。
+prerequisitesSection: |-
+  受講者は、すでに以下のスキルを持つこのコースを開始する必要があります&#58;
+  - に関する十分な理解、Microsoft 365サービスの基本的機能の経験。
+  - PowerShell の使用を含めた一般的な IT プラクティスの熟練者としての理解。
+  - Active Directory と Azure AD の基本的な理解。
+  - モバイル デバイス管理の基本的な理解、および代替オペレーティング システム (Android および macOS)。
+outlineSection: |-
+  ### モジュール 1&#58; SharePoint Site を計画および構成する
+  このモジュールでは、SharePoint サイトの計画、構成、および管理について説明します。SharePoint 管理者が SharePoint Admin Center を使用して、組織内の SharePoint サイトのライフサイクルを管理する方法について説明します。
+  #### レッスン
+  - Microsoft 365 の SharePoint の概要
+  - SharePoint サイトを構成する
+  - SharePoint サイトを管理する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - SharePoint サイトを作成する。
+  - SharePoint サイトのストレージ制限を管理する。
+  - SharePoint ハブ サイトを作成および構成する。
+  - SharePoint Admin Center を使用して SharePoint サイトを管理する方法について説明する。
+
+
+  ### モジュール 2&#58; OneDrive の構成と管理
+  このモジュールでは、OneDrive の展開を計画する方法について説明します。さまざまなシナリオに基づいて OneDrive を展開するためのあらゆるアプローチについて説明します。また、OneDrive のコンテンツを管理する機能も紹介します。
+  #### レッスン
+  - Microsoft 365 の OneDrive の概要
+  - OneDrive を展開する
+  - OneDrive を管理する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - ユーザーのストレージ制限を管理する。
+  - OneDrive でデータ保持を構成する。
+  - Group Policy を使用して OneDrive の同期クライアント設定を制御する。
+  - OneDrive を展開するさまざまな方法について説明する。
+  - OneDrive Admin Center を使用して OneDrive を管理する方法について説明する。
+
+
+  ### モジュール 3&#58; SharePoint および OneDrive の共有とセキュリティ
+  このモジュールは、Microsoft SharePoint および OneDrive での共有、セキュリティ、監視に焦点を当てています。具体的には、SharePoint と OneDrive での外部共有とアクセス制御の計画と管理について説明します。また、Microsoft 365 Admin Center を使用して Microsoft SharePoint と OneDrive のアクティビティを監視する方法についても説明します。
+  #### レッスン
+  - SharePoint サイトの権限を管理する
+  - SharePoint および OneDrive における共有の管理
+  - SharePoint および OneDrive におけるセキュリティを管理する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Microsoft SharePoint および OneDrive の外部共有について説明する。
+  - Microsoft SharePoint および OneDrive へのデバイス アクセスを管理するオプションについて説明する。
+  - SharePoint および OneDrive の使用状況を測定する Microsoft 365 レポートを表示する。
+
+
+  ### モジュール 4&#58; ユーザー プロファイルとアプリの管理
+  このモジュールは、Microsoft SharePoint のユーザー プロファイルとカスタマイズに関するものです。Microsoft SharePoint でのユーザー プロファイルの管理について説明します。また、App Catalog を使用して Microsoft 365 の SharePoint でカスタム ビジネス アプリを利用できるようにする方法についても説明します。
+  #### レッスン
+  - ユーザープロファイルを管理する
+  - アプリを管理する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - ユーザー プロファイル プロパティの構成方法について説明する。
+  - オーディエンスの管理方法について説明する。
+  - App Catalog を使用してカスタム アプリを管理する方法について説明する。
+
+
+  ### モジュール 5&#58; Managed Metadata と Business Connectivity Services の計画と構成
+  このモジュールは、Managed Metadata と Business Connectivity Services に関するものです。管理対象メタデータの概念と、用語セットをインポートするプロセスを紹介します。また、Business Connectivity Services を管理し、外部リストを作成する方法についても説明します。
+  #### レッスン
+  - 管理メタデータをを計画して構成する
+  - Business Connectivity Services を計画および構成する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Managed Metadata の機能について説明する。
+  - 用語グループ、用語セット、および用語を作成および管理する。
+  - BDC モデルの主要コンポーネントについて説明する。
+  - BCS のアーキテクチャの概要について説明する。
+  - Secure Store Service の目的について説明する。
+
+
+  ### モジュール 6&#58; 検索の計画と構成
+  このモジュールは SharePoint 検索サービスに関するものです。従来の検索と現在の検索の違いなど、SharePoint 検索の計画と構成の詳細について説明します。また、さまざまな設定で検索エクスペリエンスをカスタマイズする方法についても説明します。
+  #### レッスン
+  - 検索を計画する
+  - 検索を構成する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - モダン検索とクラシック検索の違いについて説明する。
+  - 検索スキーマの管理方法について説明する。
+  - クエリ ルールの使用と展開について説明する。
+  - 検索先の使用と導入について説明する。
+

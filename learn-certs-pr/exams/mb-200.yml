@@ -7,8 +7,8 @@ uid: exam.mb-200
 displayName: MB-200
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 7 月 1 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
+  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'> この試験の内容は、2020 年 7 月 1 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
   </div>
 
   この試験の受験者は、エンタープライズ ライセンス製品の機能と機能性に精通している機能コンサルタントです。機能コンサルタントとして、受験者は機能のバンドル済みバージョンに精通していますが、それらのバンドル製品を主な対象として作業するわけではありません。
@@ -32,7 +32,7 @@ skills:
 - ユーザー エクスペリエンスデザインを管理する (20-25%)
 - エンティティおよびデータを管理する (15-20%)
 - セキュリティの実装 (5-10%)
-- 統合の実装 (15-20%)
+- 統合を実装する(15-20%)
 - ソリューションの展開およびテストを実行する(25-30%)
 roles:
 - functional-consultant
@@ -55,8 +55,8 @@ paths:
 - uid: learn-dynamics.implementing-customer-engagement-online
 - uid: learn-bizapps.automate-process-using-flow
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-dynamics.get-started-portals
-- uid: learn-dynamics.work-with-portals
+- uid: learn-bizapps.get-started-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-sales
