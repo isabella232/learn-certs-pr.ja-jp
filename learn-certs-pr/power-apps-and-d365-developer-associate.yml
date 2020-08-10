@@ -2,13 +2,13 @@
 title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
 metadata:
   title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
-  description: Microsoft Power Apps および Dynamics 365 で作業する開発者は、 Dynamics 365 実装の設計、開発、セキュリティ保護、および拡張を担当します。受験生は、アプリケーションの強化、カスタム ユーザー体験、システム統合、データ変換、カスタム プロセス自動化、カスタム可視化などを含むソリューションのコンポーネントを実行します。
+  description: Microsoft Power Apps および Dynamics 365 で作業する開発者は、 Dynamics 365 実装の設計、開発、セキュリティ保護、および拡張を担当します。受験者は、アプリケーションの強化、カスタム ユーザー エクスペリエンス、システム統合、データ変換、カスタム プロセスの自動化、カスタムの可視化などを含むソリューションのコンポーネントを実装します。
 uid: certification.power-apps-and-d365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
-  Microsoft Power Apps および Dynamics 365 で作業する開発者は、 Dynamics 365 実装の設計、開発、セキュリティ保護、および拡張を担当します。受験生は、アプリケーションの強化、カスタム ユーザー体験、システム統合、データ変換、カスタム プロセス自動化、カスタム可視化などを含むソリューションのコンポーネントを実行します。
+  Microsoft Power Apps および Dynamics 365 で作業する開発者は、 Dynamics 365 実装の設計、開発、セキュリティ保護、および拡張を担当します。受験者は、アプリケーションの強化、カスタム ユーザー エクスペリエンス、システム統合、データ変換、カスタム プロセスの自動化、カスタムの可視化などを含むソリューションのコンポーネントを実装します。
 subTitle: Microsoft Power Apps および Dynamics 365 で作業する開発者は、 Dynamics 365 実装の設計、開発、セキュリティ保護、および拡張を担当します。
 levels:
 - intermediate
@@ -41,19 +41,18 @@ paths:
 - uid: learn-dynamics.implementing-customer-engagement-online
 - uid: learn-bizapps.automate-process-using-flow
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-dynamics.get-started-portals
-- uid: learn-dynamics.work-with-portals
+- uid: learn-bizapps.get-started-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 - uid: learn-dynamics.introduction-development
 - uid: learn-dynamics.extend-power-platform-model-driven-apps
 - uid: learn-dynamics.extend-power-platform-common-data-service
-- uid: learn-dynamics.extend-portals
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42Fcm
 exams:
 - uid: exam.mb-200
 - uid: exam.mb-400
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate になるための教材を探しましょう。'
+  description: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate のトレーニングリソースを探します。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j6
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
