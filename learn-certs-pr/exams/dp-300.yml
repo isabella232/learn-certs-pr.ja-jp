@@ -1,12 +1,12 @@
 ### YamlMime:Examination
-title: Administering Relational Databases on Microsoft Azure (beta)
+title: Administering Relational Databases on Microsoft Azure
 metadata:
-  title: 'DP-300: Administering Relational Databases on Microsoft Azure (beta)'
-  description: 'DP-300: Administering Relational Databases on Microsoft Azure (beta)'
+  title: 'DP-300: Administering Relational Databases on Microsoft Azure'
+  description: 'DP-300: Administering Relational Databases on Microsoft Azure'
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
   本試験の受験者は、 Microsoft SQL Server および Microsoft Azure データサービス上に構築されたオンプレミスおよびクラウド リレーショナル データベースを管理するデータベース管理者およびデータ管理スペシャリストです。
 
@@ -14,7 +14,7 @@ summary: |-
 
   このロールは、管理、可用性、セキュリティ、および最新のリレーショナル データベース ソリューションのパフォーマンスの監視と最適化を担当します。このロールは、 Azure Data Engineer のロールと連携して、データプラットフォームソリューションの運用面を管理します。
 
-  <div style='font-weight&#58; bold;'><br/>ベータ試験は、設問と試験の質に関するデータを収集しているため、すぐには採点されません。ベータ試験の価値と重要性についての詳細<a href="/learn/certifications/certification-exams#participating-in-beta-exams">こちらをご覧ください</a>。</div>
+  <div><strong><br/>ベータ試験は、設問と試験の質に関するデータを収集しているため、すぐには採点されません。ベータ試験の価値と重要性についての詳細<a href="/learn/certifications/certification-exams#participating-in-beta-exams">こちらをご覧ください</a>。</strong></div>
 subTitle: '本試験では、以下の技術的タスクを遂行できる能力を査定します。データプラットフォーム リソースの計画と実装、安全な環境の実装、運用リソースの監視と最適化、クエリパフォーマンスの最適化、タスクの自動化の実行、高可用性およびディザスターリカバリー (HADR) 環境の計画と実装、および T-SQL 使用による管理の実行。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
@@ -24,13 +24,13 @@ locales:
 levels:
 - intermediate
 skills:
-- データ プラットフォーム リソースを計画して実装します(15-20%)
-- 安全な環境を実装します(15-20%)
-- 運用リソースを監視して最適化します(15-20%)
-- クエリのパフォーマンスを最適化します(5-10%)
-- タスクの自動化を実行します(10-15%)
-- 高可用性とディザスターリカバリー (HADR) 環境を計画して実装します(15-20%)
-- T-SQL 使用による管理を実行します(10-15%)
+- データ プラットフォーム リソースを計画して実装します (15-20%)
+- 安全な環境を実装します (15-20%)
+- 運用リソースを監視して最適化します (15-20%)
+- クエリのパフォーマンスを最適化します (5-10%)
+- タスクの自動化を実行します (10-15%)
+- 高可用性とディザスターリカバリー (HADR) 環境を計画して実装します (15-20%)
+- T-SQL 使用による管理を実行します (10-15%)
 roles:
 - database-administrator
 products:
@@ -44,6 +44,14 @@ products:
 - sql-server
 courses:
 - uid: course.dp-300t00
+paths:
+- uid: learn.azure-sql-fundamentals
+- uid: learn.wwl.plan-implement-data-platform-resources
+- uid: learn.wwl.implement-secure-environment-database-service
+- uid: learn.wwl.monitor-optimize-operational-resources-sql-server
+- uid: learn.wwl.optimize-query-performance-sql-server
+- uid: learn.wwl.automate-tasks-sql-server
+- uid: learn.wwl.plan-implement-ha-dr-environment
 relatedCertifications:
 - related:
     uid: certification.azure-database-administrator-associate
@@ -61,7 +69,7 @@ resources:
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。

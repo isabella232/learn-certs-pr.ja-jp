@@ -7,17 +7,17 @@ uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
   <div>
-  <div><div style='color&#58; red><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
   <div><strong>本認証は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。その日以降、この認定資格を取得することはできなくなります。詳細については、<a href='/learn/certifications/retired-certifications'>今後廃止される認証をご確認ください</a>。</strong><br/><br/></div>
   </div>
 
   この認定資格は、企業をクラウドに移行させ、ユーザーの生産性と柔軟性を高め、データ損失を減らし、組織のデータセキュリティを向上させるために必要なスキルを持っていることを検証します。この認定は、[Microsoft 365 認定エンタープライズ管理エキスパート](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx) になるための要件の 1 つを満たすために使用できます。
 
-  MCSE 生産性 Solutions Expert になるには、次の要件を完了してください&#58;
+  MCSE Productivity Solutions Expert になるには、次の要件を満たす必要があります。
   - 前提条件の認定を1つ獲得する
     - 前提条件オプション 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
     - 前提条件オプション 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
-  - 選択のいずれかの試験に合格する
+  - 次のいずれかの試験に合格
     - [70-333&#58; Deploying Enterprise Voice with Skype for Business 2015](/learn/certifications/exams/70-333)
     - [70-334&#58; Skype for Business Core Solutions of Microsoft](/learn/certifications/exams/70-334)
     - [70-339&#58; Managing Microsoft SharePoint Server 2016](/learn/certifications/exams/70-339)
@@ -26,10 +26,10 @@ subTitle: この認定資格は、企業をクラウドに移行させ、ユー�
 levels:
 - advanced
 skills:
-- none
+- なし
 roles:
 - administrator
-type: role-based
+type: mcse
 products:
 - m365
 courses:
@@ -54,7 +54,7 @@ resources:
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。

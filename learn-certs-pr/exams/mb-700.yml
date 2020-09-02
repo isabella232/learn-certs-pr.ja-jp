@@ -7,15 +7,15 @@ uid: exam.mb-700
 displayName: MB-700
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>本試験の内容は、2020年7月28日に更新されます。以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
+  <div><strong>この試験の内容は、2020 年 7 月 28 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
   </div>
 
   Microsoft Dynamics 365 の Finance and Operations アプリのソリューション アーキテクトは、ビジネス推奨プラクティス、ソフトウェア機能、実装の提供を理解している信頼できるアドバイザーであり、実装チームメンバーをリードして、事前定義された実装目標を達成できる Dynamics ソリューションを実装できます。
 
   ソリューション アーキテクトは、エンドツーエンド ソリューションの整合性と配信の成功に責任があります。アーキテクトは、プリセールス中に設計プロセス全体で重要なガイダンスを提供し、プロジェクト ライフサイクルの残りの期間にわたって監視を続け、実装全体で発生する問題に対処し、実装目標の達成を確実にします。
 
-  ソリューション アーキテクトには、業界標準と製品機能に関する幅広い知識と経験が必要です。ソリューション アーキテクトは、ダイナミクス ソリューションの機能と技術の両方の分野で幅広い専門知識を持っている必要があります。彼らは、プラットフォーム、ツール、および財務、サプライ チェーン管理、製造などの機能領域について知っておく必要があります。さらに彼らは、 1 つ以上の顧客相手の業界で広範な分野の知識を持っています。
+  ソリューション アーキテクトには、業界標準と製品機能に関する幅広い知識と経験が必要です。ソリューション アーキテクトは、Dynamics ソリューションの機能と技術の両方の分野で幅広い専門知識を持っている必要があります。彼らは、プラットフォーム、ツール、および財務、サプライ チェーン管理、製造などの機能領域について知っておく必要があります。さらに彼らは、 1 つ以上の顧客相手の業界で広範な分野の知識を持っています。
 subTitle: 'この試験では、ソリューション要件の特定、ソリューション コンポーネントの設計、およびソリューション テストと管理戦略の定義などの技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
@@ -25,15 +25,15 @@ locales:
 levels:
 - advanced
 skills:
-- 本試験の内容は、2020年7月28日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
-- ソリューション要件を特定します(30-35%)
-- ソリューション コンポーネントを設計する(40-45%)
+- この試験の内容は、2020 年 7 月 28 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- ソリューション要件を特定します (30-35%)
+- ソリューション コンポーネントを設計する (40-45%)
 - ソリューション テストと管理戦略を定義する (25-30%)
 roles:
 - functional-consultant
 - solution-architect
 products:
-- dynamics
+- dynamics-365
 courses:
 - uid: course.mb-700t00
 paths:
@@ -43,19 +43,19 @@ relatedCertifications:
     uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert になるための教材を探しましょう。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vyT7
+  description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRK
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定ポスター
-  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。

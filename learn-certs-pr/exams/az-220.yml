@@ -7,8 +7,8 @@ uid: exam.az-220
 displayName: AZ-220
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>本試験の内容は、2020年7月21日に更新されます。以下のスキル測定ドキュメントをダウンロードして、これからの変更点をご確認ください。<br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
+  <div><strong>この試験の内容は、2020 年 7 月 21 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
   </div>
 
   この試験の受験者は、Azure IoT ソリューションのクラウド コンポーネントとエッジ コンポーネントを開発する主題に関する専門知識を持っている必要があります。
@@ -17,7 +17,7 @@ summary: |-
 
   Azure IoT 開発者は、データエンジニアやその他の関係者と協力して、ビジネス統合を成功させるための作業を行います。
 
-  この試験の受験者は、データ ストレージ オプション、データ分析、データ処理、サービスとしてのプラットフォーム オプションなど、IoT ソリューションを形成する Azure サービスの実装経験が必要です。このロールでは、IoT ソリューションのコード部分内で Azure IoT サービス構成設定を認識し、C＃、ノード、C、Python など、Azure がサポートする少なくとも 1 つの言語で特定の IoT コーディング タスクを実行できる能力も求められます。
+  この試験の受験者は、データ ストレージ オプション、データ分析、データ処理、サービスとしてのプラットフォーム オプションなど、IoT ソリューションを形成する Azure サービスの実装経験が必要です。このロールでは、IoT ソリューションのコード部分内で Azure IoT サービス構成設定を認識し、C#、ノード、C、Python など、Azure がサポートする少なくとも 1 つの言語で特定の IoT コーディング タスクを実行できる能力も求められます。
 subTitle: '本試験では、 IoT ソリューション インフラストラクチャーの実装、デバイスのプロビジョニングと管理、 Azure IoT Edge デバイスへのソリューションの実装、データの処理と管理、 IoT ソリューションの監視、トラブルシューティングおよび最適化、セキュリティーの実装などの能力を査定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
@@ -31,7 +31,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本試験の内容は、2020年7月21日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
+- この試験の内容は、2020 年 7 月 21 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
 - IoT ソリューション インフラストラクチャの実装 (15-20%)
 - デバイスのプロビジョニングと管理を行います (20-25%)
 - Edge の実装 (15-20%)
@@ -68,7 +68,7 @@ resources:
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。

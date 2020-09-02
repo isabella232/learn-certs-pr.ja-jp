@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
-  description: この認定は 2020 年 9 月に利用可能になります。Dynamics 365 Business Central Functional Consultant は、中小企業向けのコア アプリケーション セットアップ プロセスの実装を担当します。
+  description: この認定は 2020 年 10 月に利用可能になります。Dynamics 365 Business Central Functional Consultant は、中小企業向けのコア アプリケーション セットアップ プロセスの実装を担当します。
 uid: certification.d365-business-central-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -10,34 +10,41 @@ summary: |-
 
   Dynamics 365 Business Central Functional Consultant は、中小企業向けのコア アプリケーション セットアップ プロセスの実装を担当します。
 
-  <div><br/><strong>注意&#58; この認定は 2020 年 9 月に利用可能になります。</strong></div>
-subTitle: この認定は 2020 年 9 月に利用可能になります。Dynamics 365 Business Central Functional Consultant は、中小企業向けのコア アプリケーション セットアップ プロセスの実装を担当します。
+  <div><br/><strong>注意&#58; この認定は 2020 年 10 月に利用可能になります。</strong></div>
+subTitle: この認定は 2020 年 10 月に利用可能になります。Dynamics 365 Business Central Functional Consultant は、中小企業向けのコア アプリケーション セットアップ プロセスの実装を担当します。
 levels:
 - intermediate
 skills:
-- 準備中
+- Business Central をセット アップする
+- 財務を構成する
+- 販売と購入を構成する
+- Business Central オペレーションを実行する
 roles:
 - functional-consultant
 type: role-based
 products:
 - dynamics-business-central
 - power-platform
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSG
 exams:
 - uid: exam.mb-800
 resources:
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認証への道のり
+  description: 認定を受けるための手順と、準備に役立つリソースをご確認ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
-  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
-- title: 資格のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
-  href: help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: help.md
 

@@ -6,7 +6,7 @@ metadata:
 uid: exam.mb-320
 displayName: MB-320
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
   この試験の受験生は、ビジネス要件を分析し、業界のベストプラクティスを実行する現実のビジネスプロセスおよびソリューションにその要件を移し変える職能別コンサルタントです。受験生は、ビジネス要件を満たすようにアプリケーションを実行および構成する重要な人材として活動しています。
   <br/>
@@ -16,8 +16,8 @@ summary: |-
 
   この試験の受験者は通常、財務、製造、サプライチェーン管理など、Microsoft Dynamics 365 Finance の 1 つ以上の機能セットに特化しています。
 
-  受験生は基本的な会計原則と実践の知識を持っている必要があります
-subTitle: 'この試験では、次の技術的タスクを達成する能力を評価します: 製造の構成と設定。生産注文とリーン注文の作成と管理。製造バッチ注文を作成、処理、管理します。'
+  受験生は基本的な会計原則と実践の知識を持っている必要があります。
+subTitle: 'この試験では、次の技術的タスクを達成する能力を評価します: 製造の構成と設定。生産注文とリーン注文の作成と管理。製造バッチ注文の作成、処理、管理。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVs
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-320&examname=Exam%20MB-320:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Manufacturing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-320
@@ -32,7 +32,7 @@ skills:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-300
@@ -48,19 +48,19 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-manufacturing
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate になるための教材を探しましょう。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KLG
+  description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRH
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定ポスター
-  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
