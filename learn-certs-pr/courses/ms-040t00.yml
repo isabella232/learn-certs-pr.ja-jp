@@ -24,7 +24,7 @@ locales:
 levels:
 - intermediate
 roles:
-- developer
+- administrator
 products:
 - m365
 summary: |-
@@ -89,7 +89,7 @@ outlineSection: |-
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - ユーザー プロファイル プロパティの構成方法について説明する。
-  - オーディエンスの管理方法について説明する。
+  - オーディエンスの管理方法について説明する
   - App Catalog を使用してカスタム アプリを管理する方法について説明する。
 
 

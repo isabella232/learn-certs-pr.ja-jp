@@ -12,21 +12,19 @@ ms.author: micsullivan
 
 # Microsoft 認定ラーニング パートナーの受講者に対する Microsoft Learning Azure へのアクセス パス
 
-<div style='color: red;'><font color="red">Microsoft WWL は、Azure パスへのアクセスを回復しました。これは非 SLA ソリューションであり、一部の地域ではまだリソースの制限が発生している場合があることにご注意ください。
+<div>以下は、Microsoft クラウド テクノロジをカバーする特定のコースのラボ ソリューションをサポートするために Microsoft が提供する Azure Pass に関する情報です。  SLA に基づく代替ソリューションの詳細については、Azure へのアクセスを現在提供している Authorized Lab Hosters (ALH) にお問い合わせください。</div>
 
-Azure インターフェイスは、サポートされているリージョンとサイズ、および選択されたリージョンに対して重要な要求があるかどうかに関するフィードバックを提供します。大きな要求やサイズ制限が発生していないサブスクリプションでサポートされている別のリージョンの使用をご検討ください。<br/><br/>SLA に基づく代替ソリューションの詳細については、Azure へのアクセスを現在提供している Authorized Lab Hosters (ALH) にお問い合わせください。</font></div>
-
-最終更新日: **2020年6月5日**
+最終更新日: **2020年8月6日**
 
 Microsoft では、受講者が Microsoft Official Courses を使用して Azure 関連のコースに登録すると、30 日間無料の Microsoft Azure Pass を提供しています。受講者向けパスは、コースウェア マーケットプレイスを通じて Microsoft 認定ラーニング パートナーのみが取得できます。ただし、MOC コースの購入に直接関連付けられており、MOC コースの注文ごとに 1 つのパスに制限されています。受講者向けパスを取得するためのシステムは、他にはありません。ラーニング パートナーが MOC コースを注文したけれど購入時にコースで利用可能な Azure Pass を選択しなかった場合、パートナーはコースウェア マーケットプレイスに戻り、必要に応じてそのパスを注文することができます。
 
-パートナーのみなさまは、[こちら](https://shop.courseware-marketplace.com/shop/en-GB/Content/TermsAndConditions) からコースウェア マーケットプレイスを通じて配布される Azure Pass の利用規約を参照してください。。パスは、コースウェア マーケットプレイスで割り当てられてから 90 日間有効です。期限切れのパスは再発行できません
+パートナーのみなさまは、[こちら](https://shop.courseware-marketplace.com/shop/en-GB/Content/TermsAndConditions) からコースウェア マーケットプレイスを通じて配布される Azure Pass の利用規約を参照してください。パスは、コースウェア マーケットプレイスで割り当てられてから 90 日間有効です。期限切れのパスは再発行できません
 
 非ラーニング パートナーまたは現在のラーニング パートナーと提携していない MCT が実施するコースまたはトレーニングでは、パスを取得したり使用したりすることはできません。コミュニティ コースウェアなどの資格のないコースでは、パスを取得したり使用したりすることはできません。
 
-MCTは、対象となる Azure コース準備のニーズに応じて 1 つのパスをリクエストできます。このようなケースは引き続き発生します。 MCTは、対象となる Azure コース準備パスをリクエストできます (https://vouchers.cloudapp.net/AzurePass/)。ただし、このサービスはいつでも終了することができます。
+MCTは、対象となる Azure コース準備のニーズに応じて 1 つのパスをリクエストできます。このようなケースは引き続き発生します。 MCTは、対象となる Azure コース準備パスをリクエストできます [こちら](https://vouchers.cloudapp.net/AzurePass/)、ただし、このサービスはいつでも終了することができます。
 
-ラーニング パートナーと MCT に配布できるパスは限られています。可用性は、Microsoft Azure がサポートされている [国](https://www.windowsazure.com/pricing/faq/ ) で、提供が継続されている間のみ保証されます。
+ラーニング パートナーと MCT に配布できるパスは限られています。可用性は、Microsoft Azure がサポートされている [国](https://www.windowsazure.com/pricing/faq/) で、提供が継続されている間のみ保証されます。
 
 **対象**: 受講者向け Azure パスの対象となるコースは以下のとおりです。ローカライズ版の同等コースも対象となります。
 
@@ -57,15 +55,14 @@ MCTは、対象となる Azure コース準備のニーズに応じて 1 つの�
 - 40522 Microsoft Cloud Workshop: Azure Stack
 - 40526 Microsoft Cloud Workshop: SAP HANA on Azure
 - 40527 Microsoft Cloud Workshop: Security baseline on Azure
-- 40528 Microsoft Cloud Workshop: ビジネス継続性および障害回復
+- 40528 Microsoft Cloud Workshop: Business continuity and disaster recovery
 - 40529 Microsoft Cloud Workshop: High Performance Computing
 - 40530 Microsoft Cloud Workshop: Cognitive Services and Deep Learning
 - 40531 Microsoft Cloud Workshop: IoT and the Smart City
 - 40533 Microsoft Cloud Workshop: OSS PaaS and DevOps
-- 40534 Microsoft Cloud Workshop: Securing PaaS
 - 40535 Microsoft Cloud Workshop: Serverless Architecture
 - 40557 Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics
-- 40558 Microsoft Cloud Workshop: 基幹業務 (LOB) アプリケ 移行
+- 40558 Microsoft Cloud Workshop: Line-of-business application migration
 - 40559 Microsoft Cloud Workshop: MLOps
 - 40560 Microsoft Cloud Workshop: Predictive Maintenance for remote field devices
 - 40561 Microsoft Cloud Workshop: Machine Learning
@@ -76,6 +73,7 @@ MCTは、対象となる Azure コース準備のニーズに応じて 1 つの�
 - 40573 Microsoft Cloud Workshop: Hybrid identity
 - 50331 Windows Client, Enterprise Desktop Support Technician
 - 55093 Windows Azure Data Services (basics)
+- 55188 Lizenzierung und Verwaltung Virtueller Umgebungen und Cloud Services
 - 55224-1 Microsoft Azure Big Data Analytics Solutions
 - 55224-2 Operationalize Cloud Analytics Solutions with Microsoft Azure
 - 55247 Designing and Implementing Cloud Data Platform Solutions
@@ -84,6 +82,7 @@ MCTは、対象となる Azure コース準備のニーズに応じて 1 つの�
 - AI-900T00 Microsoft Azure AI Fundamentals
 - AZ-010T00 Azure Administration for AWS SysOps
 - AZ-020T00 Microsoft Azure solutions for AWS developers
+- AZ-030T00 Microsoft Azure technologies for AWS architects
 - AZ-103T00 Microsoft Azure Administrator
 - AZ-104T00 Microsoft Azure Administrator
 - AZ-120T00 Planning and Administering Microsoft Azure for SAP Workloads
@@ -96,7 +95,7 @@ MCTは、対象となる Azure コース準備のニーズに応じて 1 つの�
 - AZ-304T00 Microsoft Azure Architect Design
 - AZ-400T00 Designing and Implementing Microsoft DevOps Solutions
 - AZ-500T00 Microsoft Azure Security Technologies
-- AZ-900T00 Microsoft Azure Fundamentals (2 Day)
+- AZ-900T00 Microsoft Azure Fundamentals (2 日)
 - DP-050T00 Migrate SQL workloads to Azure
 - DP-060T00 Migrate NoSQL workloads to Azure Cosmos DB
 - DP-070T00 Migrate Open Source Data Workloads to Azure
@@ -105,6 +104,7 @@ MCTは、対象となる Azure コース準備のニーズに応じて 1 つの�
 - DP-201T01 Designing an Azure Data Solution
 - MB-400T00 Microsoft Power Apps + Dynamics 365 Developer
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
+- MS-600T00 Building applications and solutions with Microsoft 365 core services
 - WS-050T00 Migrating Application Workloads to Azure
 
 注意: このリストは変更されることがあります。新しいバージョンやコースがリリースされ、古いバージョンやコースが廃止されると、このリストにタイトルが追加または削除される場合があります。
@@ -122,7 +122,7 @@ MCTは、対象となる Azure コース準備のニーズに応じて 1 つの�
 | Learning Partner Microsoft Student Azure Pass |
 | --- |
 | Microsoft Learning Azure Pass を取得するためにクレジット カード情報は必要ありません |
-| ドルの制限 - パスに関連するドルの制限があります。金額は、問題のコースによって決まります。|
+| 米ドルの制限 - パスに関連する米ドルの制限があります。金額は、問題のコースによって決まります。|
 | 30 日間制限 - 期間の制限は引き続き適用されます。ドルの上限または期間制限に達すると、パスの有効期限が切れます。|
 | 20 Cores |
 | 20 Clouds |

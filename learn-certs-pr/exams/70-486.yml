@@ -6,7 +6,7 @@ metadata:
 uid: exam.70-486
 displayName: 70-486
 summary: |+
-  <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
   <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
   </div>
 
@@ -19,7 +19,7 @@ summary: |+
   - Azure を含めて開発と多層環境への展開
   - 非同期ソリューションの設計と開発
 
-  <div style='font-weight&#58; bold;'><br/>注意&#58; 2018 年 1 月 15 日現在の試験の更新があります。これらの変更点と、測定されるスキルにそれがどのように影響するかについての詳細は、Exam 486 の変更ドキュメントをダウンロードしてご確認ください。</div>
+  <div><strong><br/>注意&#58; 2018 年 1 月 15 日現在の試験の更新があります。これらの変更点と、測定されるスキルにそれがどのように影響するかについての詳細は、Exam 486 の変更ドキュメントをダウンロードしてご確認ください。</strong></div>
 subTitle: この試験の受験対象者は、Webソリューションを設計、開発するために、MicrosoftのVisual Studio 2017 と ASP.NET を使用するプロの開発者です。受験者は、少なくとも3年から5年のMicrosoft ASP.NET MVCベースのソリューションとMicrosoft AzureのWebアプリケーションの知識を開発した経験を持っている必要があります。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkK
@@ -47,7 +47,8 @@ roles:
 products:
 - aspnet-core
 courses:
-- uid: course.20486
+- uid: course.20486-c
+- uid: course.20486-d
 relatedCertifications:
 - related:
     uid: certification.mcsa-web-applications-certification

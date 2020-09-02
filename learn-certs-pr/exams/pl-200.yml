@@ -6,25 +6,28 @@ metadata:
 uid: exam.pl-200
 displayName: PL-200
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
-  Power Platform Functional Consultant は、発見の実行、要件の把握、主題の専門家および利害関係者の雇用、要件の翻訳、Power Platform ソリューションとアプリの設定を担当します。
+  この試験の受験者は、発見の実行、要件の把握、主題の専門家および利害関係者の雇用、要件の翻訳、Power Platform ソリューションとアプリの設定を担当します。受験者は、アプリケーションの強化、カスタム ユーザー エクスペリエンス、システム統合、データ変換、カスタム プロセスの自動化、カスタムの可視化を実行します。
 
-  Functional Consultant は、アプリケーションの強化、カスタム ユーザー エクスペリエンス、システム統合、データ変換、カスタム プロセスの自動化、カスタムの可視化などを含むソリューションのコンポーネントを実装します。
+  受験者は、ソリューション アーキテクトから提供されたまたは共同で提供した設計、および User Experience Designer が確立した基準、ブランド、および成果物を実装します。サードパーティー アプリケーションやサービスとのシームレスな統合を提供する統合を設計します。
 
-  <div style='font-weight&#58; bold;'><br/>注意&#58; この試験は 2020 年 10 月に利用可能になります。</div>
-subTitle: 'この試験は 2020 年 10 月に利用可能になります。この試験では、Common Data Service の構成、Power App の作成、Power Automate による自動化の作成、Power Virtual Agents の構成、Power BI による視覚化の作成などの技術的なタスクを実行する能力を評価します。'
+  受験者は、品質保証チームのメンバーと積極的に協力して、ソリューションが機能要件と非機能要件を確実に満たすようにします。彼らは、アーティファクトを特定、生成、パッケージ化して DevOps エンジニアに配布し、Power Platform 管理者に運用とメンテナンスのトレーニングを提供します。
+
+  <div><strong><br/>注意&#58; この試験は 2020 年 9 月に利用可能になります。</strong></div>
+subTitle: 'この試験は 2020 年 9 月に利用可能になります。この試験では、Common Data Service の構成、Power Apps を使用したアプリの作成、Power Automate の作成と管理、Power Virtual Agents チャットボットの実装、Power Apps の他のアプリやサービスとの統合などのタスクを完了する能力を評価します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Common Data Service を設定する
-- Power App を作成する
-- Power Automate でオートメーションを作成する
-- Power Virtual Agents を構成する
-- Power BI で視覚化を作成する
+- 共通データ サービスの構成 (25-30%)
+- Power Apps を使用してアプリを作成する (20-25%)
+- Power Automate の作成と管理 (15-20%)
+- Power Virtual Agents チャットボットを実装ずる (10-15%)
+- Power Apps を他のアプリやサービスと統合する (15-20%)
 roles:
 - business-analyst
 - developer
@@ -46,13 +49,13 @@ resources:
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定ポスター
-  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。

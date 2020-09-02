@@ -7,8 +7,8 @@ uid: exam.mb-230
 displayName: MB-230
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'> この試験の内容は、2020 年 7 月 1 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
+  <div><strong>本試験の内容は、2020 年 10 月 2 日 に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
   </div>
 
   この試験の受験者は、カスタマーサービス経験を持つ Dynamics 365 の機能コンサルタントです。受験生は、サービス、品質、信頼性、効率性、顧客満足度にフォーカスしたオムニチャンネル(実店舗とネット店舗両方をカバー)ソリューションの実現に責任を持ちます。
@@ -16,7 +16,7 @@ summary: |-
 
   受験生はソリューションアーキテクトとともにサービス管理可視化とレポート提出を設計して実現します。受験者は Dynamics 365 管理者と協調してナレッジベースと Forms Pro を含む Power プラットフォーム コンポーネントを実装してアップグレードします。
 
-  受験生は、ケースの深い理解、ナレッジベース、キュー、エンタイトルメント、Service Level Agreements (SLA),可視化、統一サービスデスクを含むDynamics 365 Customer Serviceを通じたユーザーのニーズへの知識の適合への強い適性を持っている必要があります。
+  受験生は、ケースの深い理解、ナレッジベース、キュー、エンタイトルメント、Service Level Agreements (SLA), 可視化、統一サービスデスクを含むDynamics 365 Customer Serviceを通じたユーザーのニーズへの知識の適合への強い適性を持っている必要があります。
 
   受験生は製造業の用語、優先順位、基準、手法、カスタマーサービスオペレーション、ベストプラクティスを理解している必要があります。受験者は、ソリューション アーキテクチャと品質管理だけでなく Dynamics 365 アプリケーション スイートと関連のある Customer Service アプリケーションのロールへの優れた理解が必要です。
 subTitle: 'この試験では、構成の実行、ケースとナレッジベースの管理、キューや資格およびSLA の管理、 Forms Pro の構成などの技術的タスクを遂行する能力を評価します。'
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は、2020 年 7 月 1 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- 本試験の内容は、2020年10月2日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
 - 構成を実行する (25-30%)
 - ケースおよびナレッジ ベースを管理する (30-35%)
 - キュー、資格、および SLA を管理する (25-30%)
@@ -37,7 +37,7 @@ skills:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-customer-service
 exams:
 - uid: exam.mb-200
@@ -47,25 +47,25 @@ paths:
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-dynamics.create-forms
+- uid: learn-dynamics.create-surveys
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-customer-service
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate のトレーニングリソースを探します。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
+  description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定ポスター
-  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
