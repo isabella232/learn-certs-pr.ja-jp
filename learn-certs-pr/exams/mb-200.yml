@@ -7,8 +7,9 @@ uid: exam.mb-200
 displayName: MB-200
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'> この試験の内容は、2020 年 7 月 1 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
+  <div><strong>この試験の内容は、2020 年 7 月 1 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  <div><strong>この認定資格は 2020 年 12 月 31 日に廃止されます。詳細については、<a href="https://aka.ms/microsoftlearncommunity">弊社のブログにアクセス</a>して、試験の廃止に関する投稿をご覧ください。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます。</strong><br/><br/></div>
   </div>
 
   この試験の受験者は、エンタープライズ ライセンス製品の機能と機能性に精通している機能コンサルタントです。機能コンサルタントとして、受験者は機能のバンドル済みバージョンに精通していますが、それらのバンドル製品を主な対象として作業するわけではありません。
@@ -28,16 +29,17 @@ levels:
 - intermediate
 skills:
 - この試験の内容は、2020 年 7 月 1 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
-- 発見、計画、および分析を実行する(5-10%)
+- 発見、計画、および分析を実行する (5-10%)
 - ユーザー エクスペリエンスデザインを管理する (20-25%)
 - エンティティおよびデータを管理する (15-20%)
 - セキュリティの実装 (5-10%)
-- 統合を実装する(15-20%)
-- ソリューションの展開およびテストを実行する(25-30%)
+- 統合を実装する (15-20%)
+- ソリューションの展開およびテストを実行する (25-30%)
+retirementDate: 12/31/2020
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-sales
 - dynamics-marketing
 - dynamics-field-service
@@ -73,7 +75,7 @@ resources:
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。

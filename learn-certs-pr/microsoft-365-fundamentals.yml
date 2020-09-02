@@ -8,7 +8,7 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badg
 summary: |-
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
-  'Microsoft 365 で利用可能なオプションと、Cloud サービス、Software as a Service (SaaS) Cloud モデル、および Microsoft 365 Cloud サービスの実装の利点を理解していることを証明します。'
+  Microsoft 365 で利用可能なオプションと、Cloud サービス、Software as a Service (SaaS) Cloud モデル、および Microsoft 365 Cloud サービスの実装の利点を理解していることを証明します。
 subTitle: Microsoft 365 で利用可能なオプションと、Cloud サービス、Software as a Service (SaaS) Cloud モデル、および Microsoft 365 Cloud サービスの実装の利点を理解していることを証明します。
 levels:
 - beginner
@@ -28,7 +28,10 @@ products:
 courses:
 - uid: course.ms-900t01
 paths:
-- uid: learn-m365.microsoft-365-fundamentals
+- uid: learn.wwl.m365-productivity-teamwork-solutions
+- uid: learn.wwl.m365-business-management-solutions
+- uid: learn.wwl.m365-security-compliance-capabilities
+- uid: learn.wwl.m365-licensing-service-support
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRKj
 exams:
 - uid: exam.ms-900
@@ -46,7 +49,7 @@ resources:
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。

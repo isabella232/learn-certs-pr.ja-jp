@@ -6,7 +6,7 @@ metadata:
 uid: exam.mb-330
 displayName: MB-330
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
   この試験の受験生は、ビジネス要件を分析し、業界のベストプラクティスを実行する現実のビジネスプロセスおよびソリューションにその要件を移し変える職能別コンサルタントです。受験生は、ビジネス要件を満たすようにアプリケーションを実行および構成する重要な人材として活動しています。
   <br/>
@@ -15,7 +15,7 @@ summary: |-
 
   この試験の受験者は通常、財務、製造、サプライチェーン管理など、Microsoft Dynamics 365 Finance の 1 つ以上の機能セットに特化しています。
 
-  受験生は調達、貿易、物流、倉庫管理、および輸送管理を含み、サプライチェーンマネジメントの実践のいくつかの知識を持っている必要があります
+  受験生は調達、貿易、物流、倉庫管理、および輸送管理を含み、サプライチェーンマネジメントの実践についてのいくつかの知識を持っている必要があります。
 subTitle: 'この試験は、次の技術的タスクを達成する能力を評価します: 製品情報管理を実装します。在庫管理を実装します。サプライ チェーン プロセスの実装と管理。倉庫および輸送管理を実装します。ビジネス プロセスを実行します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
@@ -25,6 +25,7 @@ locales:
 levels:
 - intermediate
 skills:
+- '注意: 以下のドキュメントで査定した各スキルの下に表示される箇条書きは、そのスキルの評価方法の表示を目的としています。本リストは完全なものではありません。'
 - 製品情報管理を実装する (25-30%)
 - 在庫管理を実装する (20-25%)
 - サプライ チェーン プロセスの実装と管理 (25-30%)
@@ -32,7 +33,7 @@ skills:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-300
@@ -40,28 +41,28 @@ courses:
 - uid: course.mb-330t00
 paths:
 - uid: learn-dynamics.configure-manage-products-inventory-d365-finance-ops
-- uid: learn-dynamics.configure-manage-sales-customers-dyn365-supply-chain-mgmt
 - uid: learn-dynamics.configure-manage-procurement-vendors-d365-finance-ops
-- uid: learn-dynamics.use-warehouse-in-manufacturing-dyn365-fo
+- uid: learn-dynamics.configure-manage-sales-customers-dyn365-supply-chain-mgmt
+- uid: learn-dynamics.configure-work-warehouse-management-d365-finance-ops
 - uid: learn-dynamics.configure-work-transportation-mgmt-dyn365-supply-chain-mgmt
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-supply-chain-management
 resources:
 - title: 認定の学習経路
-  description: 'Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate になるための教材を探しましょう。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35nkT
+  description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjF
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定ポスター
-  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。

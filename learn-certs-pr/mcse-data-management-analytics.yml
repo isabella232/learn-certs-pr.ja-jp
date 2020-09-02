@@ -7,26 +7,33 @@ uid: certification.mcse-data-management-analytics
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
   <div><strong>この認定資格は 2021 年 1 月 31 日に廃止されます。その日以降、この認定資格を取得することはできなくなります。終了日前に取得した認定資格は、今後も <a href='https://www.microsoft.com/learning/dashboard.aspx'>認定資格ダッシュボード</a>におけるトランスクリプトに表示されます。<a href='/learn/certifications/retired-certifications'>停止されたすべての認定資格を閲覧する</a>こともできます。</strong><br/><br/></div>
   </div>
 
-  オンプレミスとクラウド環境の両方で、SQL の管理、エンタープライズ規模のデータ ソリューションの構築、ビジネス インテリジェンス データにおける幅広いスキル セットを実証します。
+  この認定資格は、非常に効率的で最新のデータセンター、ID 管理、システム管理、仮想化、ストレージ、およびネットワーキングを運営するために必要なスキルがあることを証明します。
 
-  MCSE&#58; Data Management and Analytics の認定資格を取得するためには、以下の試験のいずれかに合格する必要があります。
-  - [70-464&#58; Developing Microsoft SQL Server Databases](/learn/certifications/exams/70-464)
-  - [70-465&#58; Designing Database Solutions for Microsoft SQL Server](/learn/certifications/exams/70-465)
-  - [70-466&#58; Implementing Data Models and Reports with Microsoft SQL Server](/learn/certifications/exams/70-466)
-  - [70-467&#58; Designing Business Intelligence Solutions with Microsoft SQL Server](/learn/certifications/exams/70-467)
-  - [70-762&#58; Developing SQL Databases](/learn/certifications/exams/70-762)
-  - [70-767&#58; Implementing a Data Warehouse using SQL](/learn/certifications/exams/70-767)
-  - [70-768&#58; Developing SQL Data Models](/learn/certifications/exams/70-768)
-  - [70-777&#58; Implementing Microsoft Azure Cosmos DB Solutions](/learn/certifications/exams/70-777)
+  MCSE&#58; Data Management & Analytics 認定資格を取得するには、次の要件を満たす必要があります。
+  - 前提条件の認定を1つ獲得する
+    - 前提条件オプション 1&#58; [MCSA&#58; SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification)
+    - 前提条件オプション 2&#58; [MCSA&#58; SQL 2016 Database Development](/learn/certifications/mcsa-sql2016-database-development-certification)
+    - 前提条件オプション 3&#58; [MCSA&#58; SQL 2016 Database Administration](/learn/certifications/mcsa-sql2016-database-administration-certification)
+    - 前提条件オプション 4&#58; [MCSA&#58; SQL 2016 BI Development](/learn/certifications/mcsa-sql2016-business-intelligence-certification)
+    - 前提条件オプション 5&#58; [MCSA&#58; BI Reporting](/learn/certifications/mcsa-bi-reporting)
+  - 次のいずれかの試験に合格&#58;
+    - [70-464&#58; Developing Microsoft SQL Server Databases](/learn/certifications/exams/70-464)
+    - [70-465&#58; Designing Database Solutions for Microsoft SQL Server](/learn/certifications/exams/70-465)
+    - [70-466&#58; Implementing Data Models and Reports with Microsoft SQL Server](/learn/certifications/exams/70-466)
+    - [70-467&#58; Designing Business Intelligence Solutions with Microsoft SQL Server](/learn/certifications/exams/70-467)
+    - [70-762&#58; Developing SQL Databases](/learn/certifications/exams/70-762)
+    - [70-767&#58; Implementing a Data Warehouse using SQL](/learn/certifications/exams/70-767)
+    - [70-768&#58; Developing SQL Data Models](/learn/certifications/exams/70-768)
+    - [70-777&#58; Implementing Microsoft Azure Cosmos DB Solutions](/learn/certifications/exams/70-777)
 subTitle: オンプレミスとクラウド環境の両方で、SQL の管理、エンタープライズ規模のデータ ソリューションの構築、ビジネス インテリジェンス データにおける幅広いスキル セットを実証します。
 levels:
 - intermediate
 skills:
-- none
+- なし
 roles:
 - database-administrator
 type: mcse
@@ -45,6 +52,17 @@ exams:
 - uid: exam.70-464
 - uid: exam.70-465
 - uid: exam.70-466
+prerequisites:
+- uid: certification.mcsa-sql-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-database-development-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-database-administration-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-business-intelligence-certification
+  isOptional: false
+- uid: certification.mcsa-bi-reporting
+  isOptional: false
 resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
@@ -56,7 +74,7 @@ resources:
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。

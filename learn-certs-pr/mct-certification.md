@@ -1,6 +1,6 @@
 ---
 title: Microsoft 認定トレーナーになる | Microsoft Docs
-description: Microsoft 認定トレーナーになる 
+description: Microsoft 認定トレーナーになる
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -9,7 +9,7 @@ ms.workload: NA
 ms.date: 11/26/2019
 ms.author: micsullivan
 ---
-# 「Microsoft 認定トレーナーになる
+# Microsoft 認定トレーナーになる
 
 Microsoft 認定トレーナー (MCT) は Microsoft テクノロジの技術および指導における最上級のエキスパートです。世界中の Microsoft テクニカル トレーニング プロフェッショナルのこの独占グループに参加して、MCT トレーニング認定資格とメンバーシップのメリットを享受してください。
 
@@ -25,7 +25,7 @@ MCT プログラムの要件、MCT の登録または更新プロセス、また
 
 Microsoft 認定トレーナーとして、パーソナライズされた [ダッシュボード](https://www.microsoft.com/learning/dashboard.aspx) にアクセスすると、さまざまな便利な MCT リソースが見つかります。MCT 証明書をダウンロードして、利用可能な割引を確認してください！
 
-さらに、[MCT Central](https://www.microsoft.com/en-us/learning/mct-central.aspx) にアクセスできます。これにより、MCT は最新のニュースを最新の状態に保ち、仕事、世界中の他の MCT とつながる、または MCT リージョナル リードに連絡する。
+さらに、[MCT Central](https://www.microsoft.com/en-us/learning/mct-central.aspx) にアクセスできます。これにより、MCT は最新のニュースを最新の状態に保ち、仕事、世界中の他の MCT とつながり、 MCT リージョナル リードにへと達します。
 
 [MCT で利用できるすべての特典をご覧ください。](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
@@ -35,7 +35,6 @@ MCT プログラムは、Microsoft テクノロジのトレーニングを提供
 
 MCT プログラムの要件の詳細については、このページの [申請プロセス](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) セクションにある MCT プログラム ガイドおよび MCT プログラム契約を確認してください。
 
-
 ### MCT プログラムへの登録の要件
 
 - 現在の Microsoft 認定資格または MCT プログラムに適格な資格を有していること。 
@@ -44,7 +43,7 @@ MCT プログラムの要件の詳細については、このページの [申�
   - 指導スキルの認定
     - CompTIA CTT+
     - Essential Educate Trainer (Microsoft の内部-認証)
-	- Fourth Dimension Technologies, Inc.
+    - Fourth Dimension Technologies, Inc.
     - Friesen Kaye and Associates
     - Global Knowledge 社の指導スキル認定
     - IAMCT Approved Technical Trainer (IAMCT ATT)
@@ -100,14 +99,13 @@ MCT プログラムの要件の詳細については、このページの [申�
 - [Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-supply-chain-management.aspx)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
-- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate)
+- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) (2020 年 12 月 31 日廃止)
 - [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
-- [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (2021年1月31日廃止予定)、Microsoft Dynamics 365 for Operations (2021年1月31日廃止予定)、SQL 2016 BI Development (2021年1月31日廃止予定)、SQL 2016 Database Administration (2021年1月31日廃止予定)、SQL 2016 Database Development (2021年1月31日廃止予定)、SQL Server 2012/2014 (2021年1月31日廃止予定)、ユニバーサル Windows プラットフォーム (2021年1月31日廃止予定)、Web アプリケーション (2021年1月31日廃止予定)、Windows Server 2012 (2021年1月31日廃止予定)、または Windows Server 2016 (2021年1月31日廃止予定)
+- [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (2021 年 1 月 31 日廃止)、Microsoft Dynamics 365 for Operations (2021 年 1 月 31 日廃止、[Microsoft Dynamics の各資格と認定資格に関連する要件については、こちらを参照してください。](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm))、SQL 2016 BI Development (2021 年 1 月 31 日廃止)、SQL 2016 Database Administration (2021 年 1 月 31 日廃止)、SQL 2016 Database Development (2021 年 1 月 31 日廃止)、SQL Server 2012/2014 (2021 年 1 月 31 日廃止)、Universal Windows Platform (2021 年 1 月 31 日廃止)、Web Applications (2021 年 1 月 31 日廃止)、Windows Server 2012 (2021 年 1 月 31 日廃止)、または Windows Server 2016 (2021 年 1 月 31 日廃止)
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): ビジネス アプリケーション (2021年1月31日廃止予定)、データ管理および分析 (2021年1月31日廃止予定)、Productivity (2021年1月31日廃止予定)、またはコア インフラストラクチャ (2021年1月31日廃止予定)
 - [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): アプリ ビルダー (2021年1月31日廃止予定)
-- Dynamics CRM Dynamics Technical (2019 年 12 月 31 日廃止) - [Microsoft Dynamicsの資格と認定に関連する要件を理解する](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm)。
 - [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Outlook Associate (Outlook and Outlook 2019)](/learn/certifications/mos-outlook-2019), [Microsoft Office Specialist: Associate (Office 365 and Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019), [Access Expert (Access and Access 2019)](/learn/certifications/mos-access-expert-2019) or [Microsoft Office Specialist: Expert (Office 365 and Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
- 
+
 **注意** Microsoft 認定資格および MCT プログラムに適格な資格は変更されることがあります。全ての新しいロールベースの認定は、MCT プログラムが一旦リリースされ次第有効となります。廃止された認定につきましては、廃止後最大 6 ヶ月間有効となります。[終了した認定資格の詳細](https://www.microsoft.com/learning/retired-certifications.aspx).
 
 ## 申請プロセス
@@ -164,7 +162,6 @@ MCT Alumni には、次のようなメリットがあります:
 ### MCT Alumni 申請プロセス
 
 MCT Alumni のメンバーになることに関心がある場合は、メンバーシップの条件について理解するために MCT Alumni プログラム契約を確認してください。<br/>
-
 
 [MCT Alumni プログラム契約](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2XP6W)
 

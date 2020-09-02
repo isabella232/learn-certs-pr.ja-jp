@@ -6,19 +6,29 @@ metadata:
 uid: exam.mb-800
 displayName: MB-800
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
-  Dynamics 365 Business Central コア アプリケーションの Functional Consultant は、コア アプリの機能、モジュールのセットアップ、Business Central へのデータの移行など、Business Central アプリを実装および構成します。コンサルタントは、実装チームと協力してユーザー インターフェイスを構成し、ビジネスに管理性とナビゲーションの容易さを提供します。それらは、洞察、手がかり、アクション タイル、レポート、グラフの適応、Power Platform コンポーネントを使用した Business Central の拡張などを含む、ロール センターを構成します。
+  この試験の受験者は、中小企業向けのコア アプリケーションの設定プロセスを実装する機能コンサルタントです。彼らは Dynamics 365 Business Central アプリを実装および構成します。これには、コア アプリの機能とモジュールのセット アップ、および Business Central へのデータの移行などが含まれます。
 
-  <div style='font-weight&#58; bold;'><br/>注意&#58; この試験は 2020 年 9 月に利用可能になります。</div>
-subTitle: 'この試験は 2020 年 9 月に利用可能になります。この試験では、Business Central のセットアップ、Financials の構成、Sales および Purchasing の構成、運用のセットアップ、Power Platform コンポーネントの使用といったタスクを完了する能力を評価します。'
+  受験者は、実装チームと協力してユーザー インターフェイスを実行し、ビジネスに管理性とナビゲーションの容易さを提供します。それらは、洞察、手がかり、アクション タイル、レポート、グラフの適応、Microsoft Power Platform コンポーネントを使用した Business Central の拡張などを含む、ロール センターを構成します。
+
+  受験者は、Business Central アプリを通じて、財務管理、販売、購入、在庫の基本的な理解など、ユーザーのニーズを満たす応用知識を持っている方です。
+
+  この試験の受験者は、通常、Business Central の 1 つ以上の機能セットを専門としています。彼らは、Dynamics 365 アプリケーション スイートとの関係における Business Central のロールについて理解しています。
+
+  <div><strong><br/>注意&#58; この試験は 2020 年 10 月に利用可能になります。</strong></div>
+subTitle: 'この試験は 2020 年 10 月に利用可能になります。この試験では、Business Central のセットアップ、財務の構成、販売と購入の設定、Business Central の運用の実行などのタスクを完了させる能力を評価します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 準備中
+- Business Central をセットアップする (20-25%)
+- 財務を構成する (25-30%)
+- 販売と購入を構成する (10-15%)
+- Business Central オペレーションを実行する (30-35%)
 roles:
 - functional-consultant
 products:
@@ -38,7 +48,7 @@ resources:
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
