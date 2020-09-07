@@ -8,11 +8,9 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badg
 summary: |-
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
-  Azure Fundamentals 認定資格の受験者は、クラウド サービスの基礎知識と、それらのサービスが Microsoft Azure でどのように提供されるかについての知識が必要です。
+  Azure Fundamentals 認定資格の受験者は、クラウド サービスの基礎知識と、それらのサービスが Microsoft Azure でどのように提供されるかについての知識が必要です。この認定資格は、クラウドベースのソリューションおよびサービスを使い始めたばかりの、あるいは初めて Azure を使用する受験者を対象としています。
 
-  Azure Fundamentals 認定資格は、クラウドの概念、Azure のコア サービス、Azure の価格、SLA、ライフサイクル、およびクラウドのセキュリティ、プライバシー、コンプライアンス、信頼の基礎に関する知識を証明する機会です。
-
-  この認定資格は、クラウドベースのソリューションとサービスを使い始めた人を対象としています。受験者は、Azure のサービス、ワークロード、セキュリティ、プライバシー、価格、サポートだけでなく、クラウドの概念に関する基本的な知識を実証できる必要があります。また、ネットワーキング、ストレージ、コンピューティング、アプリケーション サポート、およびアプリケーション開発の概念についても理解している必要があります。
+  Azure Fundamentals 認定資格では、クラウドの概念、Azure サービス、Azure ワークロード、Azureのセキュリティとプライバシー、および Azure の価格とサポートに関する知識を証明します。受験者は、ネットワーキング、ストレージ、コンピューティング、アプリケーション サポート、アプリケーション開発の概念を含む、一般的なテクノロジの概念に精通している必要があります。
 
   Azure Fundamentals は、他の Azure のロール ベースまたは専門分野の認定の準備に使用できますが、それらのいずれの前提条件でもありません。
 subTitle: Azure Fundamentals は、クラウド サービスの基礎知識と、それらのサービスが Microsoft Azure でどのように提供されるかを検証します。
