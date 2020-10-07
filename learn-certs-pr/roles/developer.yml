@@ -1,7 +1,7 @@
 ### YamlMime:Role 
-title: デベロッパー 
+title: Developer 
 metadata: 
-  title: デベロッパー 
+  title: Developer 
   description: 開発者は、ソリューションの設計、構築、テスト、保守を行います。開発者は、Solution Architect および顧客と連携して、アプリケーションとサービスを実装します。
 uid: role.developer 
 summary: | 
@@ -55,7 +55,7 @@ certificationPaths:
 certifications:
 - uid: certification.azure-developer
   requiredExams:
-  - uid: exam.az-203
+  - uid: exam.az-204
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   requiredExams:
   - uid: exam.mb-300
@@ -65,14 +65,20 @@ certifications:
   - uid: exam.ms-600
 - uid: certification.power-apps-and-d365-developer-associate
   requiredExams:
-  - uid: exam.pl-900
+  - uid: exam.mb-400
+- uid: certification.power-platform-developer-associate
+  requiredExams:
+  - uid: exam.pl-400
+- uid: certification.azure-iot-developer-specialty
+  requiredExams:
+  - uid: exam.az-220
 resources:
 - title: Microsoft トレーニングおよび認定資格のガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: トレーニングおよび認定資格のポスター
   description: このトレーニングおよび認定資格のポスターで、成功への道を選択してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: 資格のサポート
   href: ../help.md
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。

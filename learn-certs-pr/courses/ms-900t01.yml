@@ -3,23 +3,21 @@ title: Microsoft 365 Fundamentals
 metadata:
   title: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
   description: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
-  iltScheduling: true
 uid: course.ms-900t01
 courseNumber: 'MS-900T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: さまざまなクラウドサービスモデルを区別する。
-- skill: Microsoft 365 と Office 365 の主な相違点を特定する。
-- skill: Microsoft 365 サービスへの移行を計画する。
-- skill: Microsoft オンプレミスサービスと Microsoft 365 クラウドサービスの主な相異点を特定する。
-- skill: Microsoft 365 のエンタープライズモビリティを定義します。
-- skill: Microsoft 365 サービスがチームワークをサポートする方法を特定する。
-- skill: クラウド、オンプレミス、ハイブリッド ID などの ID について説明する。
-- skill: Intune の使用を含めて、クラウドデバイスの管理と保護について説明する。
-- skill: Azure 情報保護の使用を含めて、データ保護について説明する。
-- skill: 一般的なコンプライアンスと Microsoft 365 のコンプライアンス機能について説明する。
-- skill: Microsoft 365 のサブスクリプション、ライセンス、請求、サポートについて説明する
+- skill: さまざまなクラウド サービス モデルを区別します。
+- skill: Microsoft 365 サブスクリプションの主な違いを特定します。
+- skill: Microsoft 365 サービスへの移行を計画します。
+- skill: Microsoft オンプレミス サービスと Microsoft 365 クラウド サービスの主な違いを特定します。
+- skill: Microsoft 365 サービスがチームワークをどのようにサポートするかを特定します。
+- skill: クラウド、オンプレミス、ハイブリッド ID などの ID について説明します。
+- skill: Intune の使用を含む、クラウド デバイスの管理と保護について説明します。
+- skill: Azure Information Protection の使用を含むデータ保護について説明します。
+- skill: コンプライアンス全般と Microsoft 365 のコンプライアンス機能について説明します。
+- skill: Microsoft 365 サブスクリプション、ライセンス、請求、サポートについて説明する
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -28,6 +26,7 @@ levels:
 roles:
 - business-user
 - administrator
+- maker
 products:
 - m365
 - windows
@@ -35,66 +34,56 @@ products:
 exams:
 - uid: exam.ms-900
 summary: |-
-  このコースでは、クラウドサービスと SaaS （ Software as a Service ）クラウドモデルを採用する際の考慮事項と利点に関する基本的な知識を提供します。具体的には、 Microsoft 365 クラウドサービスオファーに重点を置いています。まず、クラウドコンピューティングおよび特に Microsoft クラウドサービスなど、クラウドの基礎について学習します。Microsoft Azure について紹介し、 Microsoft 365 と Office 365 の相異点について調べます。次に、 Microsoft 365 オンプレミスサービスと Microsoft 365 クラウドサービスの比較を含めた Microsoft 365 の詳細なレビュー、Microsoft 365 におけるエンタープライズモビリティのレビュー、および Microsoft 365 サービスによるコラボレーションの仕組みの分析などを実行します。このコースでは、セキュリティ、コンプライアンス、プライバシーおよび信頼が Microsoft 365 でどのように処理されるかを分析します。最後に Microsoft 365 のサブスクリプション、ライセンス、請求、およびサポートのレビューを行います。
+  このコースは、Microsoft 365 クラウド サービス製品に特に焦点を当て、クラウドサービスや Software as a Service (SaaS) クラウド モデルを採用する際の考慮事項と利点に関する基礎知識を提供します。まず、クラウド コンピューティングの概要、特に Microsoft クラウド サービスを含む、クラウドの基礎について学びます。Microsoft Azure について紹介し、Microsoft 365 と Office 365 の違いを学びます。次に、Microsoft 365 の詳細なレビューを行います。これには、Microsoft オンプレミス サービスと Microsoft 365 クラウド サービスの比較、Microsoft 365 のエンタープライズ モビリティのレビュー、Microsoft 365 サービスのコラボレーション方法についての分析などが含まれます。次に、コースでは、セキュリティ、コンプライアンス、プライバシー、および信頼が Microsoft 365 でどのように処理されるかを分析し、Microsoft 365 サブスクリプション、ライセンス、請求、およびサポートのレビューについて学びます。
 
-  #### Audience profile
-  このコースは、組織内でクラウドサービスの展開と管理を希望する IT プロフェッショナル、またはクラウドの基礎をもとにした基礎知識を習得したいと考えている IT プロフェッショナルを対象としています。このコースでは、クラウドサービス全般と SaaS （ Software as a Service ）クラウドモデルとしてのソフトウェアを採用する際の考慮事項と利点に関する基本的な知識を提供します。具体的には、 Microsoft 365 クラウドサービスオファーに焦点を当てています。
+  #### 視聴者プロフィール
+  このコースは、組織にクラウド サービスを展開することを目指すビジネス意思決定者や IT プロフェッショナル、または単にクラウドの基礎に関する基本的な知識を習得したいと考えている IT プロフェッショナルを対象としています。これには、一般にクラウド サービスを採用することの考慮事項と利点、および特に Software as a Service (SaaS) クラウド モデルが含まれ、一般的には Microsoft 365 クラウド サービスの提供に重点が置かれます。
 prerequisitesSection: |-
-  このコースは、対象にしています。
-  クラ組織内でクラウドサービスの展開と管理を希望するする IT プロフェッショナルを
-  対象にしています。受講者は次の経歴を持つ必要があります&#58;
-  - 一般的な IT 知識、または IT 環境での一般的な作業経験
-  - Exchange Server、SharePoint、Office Professional、AD RMS など、対応する Microsoft オンプレミス製品に関する一般的な ( 販売レベル ) 経験
-  - IT のビジネス / 法務 / セキュリティ要件に対応する経験
+  このコースは、組織にクラウド サービスを展開することを目指すビジネス意思決定者や IT プロフェッショナルを対象としています。受講者は、次のバックグランドを持っている必要があります。
+  - ネットワーク、コンピューティング、クラウドの概念に関する一般的な知識
 outlineSection: |-
-  ### Module 1&#58; クラウドの概念
-  #### Lessons
-  - クラウドコンピューティングの原則
-  - Microsoft クラウドサービス
-  - クラウドサービスへの移行
+  ### モジュール 1&#58; クラウドの概念
+  クラウド コンピューティングのコア概念と、それがビジネスにどのように役立つかを学びます。
+  #### レッスン
+  - クラウド コンピューティングの原則
+  - Microsoft 365 とは
+  - クラウド展開を選択する
 
 
-  #### Lab &#58; Cloud Fundamentals
-  - Exercise 1&#58; 適切なクラウドモデル (paper-based lab) の決定
+  ### モジュール 2&#58; Microsoft 365 の生産性とチームワーク機能
+  Microsoft 365 - The World's Productivity Cloud を使用して、Microsoft 365 の生産性ソリューションとチームワーク ソリューション、および人々の生産性向上に役立つ機能について学びます。
+  #### レッスン 
+  - Microsoft 365 の生産性およびチームワーク ソリューション
+  - 従業員を Microsoft Stream、Teams、Yammer に参加させる
+  - すべてのデバイスで Office をもっと活用する
+  - ファイルの保存および OneDrive や SharePoint との共有
 
 
-  ### Module 2&#58; コア Microsoft 365 サービス
-  #### Lessons
-  - Microsoft 365 コアサービス
-  - Microsoft 365 における Microsoft オンプレミスサービスとクラウドサービス
-  - Microsoft 365 における統合エンドポイント管理
-  - Microsoft 365 における Teamwork
+  ### モジュール 3&#58; Microsoft 365 ビジネス管理機能
+  Microsoft 365 - The World's Productivity Cloud を使用して、Microsoft 365 のビジネス管理ソリューションと組織の生産性向上に役立つ機能について学びます。
+  #### レッスン 
+  - Microsoft 365 でビジネスを管理する
+  - Microsoft Endpoint Manager でデバイス管理を簡素化する
+  - Windows 10 をもっと活用し、安全を確保する
+  - Microsoft 365 の分析とレポートを使ってビジネス インテリジェンスを役立てる
 
 
-  #### Lab &#58; Microsoft 365 テナントの有効化と構成
-  - Exercise 1&#58; Microsoft 365 テナントの有効化と構成
-  - Exercise 2&#58; Microsoft 365 ユーザーと管理者ポータルの探索
-  - Exercise 3&#58; 新規ユーザーとグループのアカウントの構成
+  ### モジュール 4&#58; Microsoft 365 のセキュリティとコンプライアンス
+  Microsoft 365 のセキュリティおよびコンプライアンス ソリューションの領域と、企業が企業を保護し、規制要件を満たすのに役立つ機能について説明します。
+  #### レッスン 
+  - セキュリティの原則およびソリューション分野
+  - ID およびアクセス管理
+  - 脅威対策
+  - クラウド セキュリティ
+  - 情報保護およびガバナンス
+  - コンプライアンス管理
+  - リスク、発見、監査を管理する
 
 
-  ### Module 3&#58; Microsoft 365 のセキュリティ、コンプライアンス、プライバシーおよび信頼
-  #### Lessons
-  - 組織のセキュリティの基礎
-  - Microsoft 365 のセキュリティ機能
-  -  ID およびアクセスの管理
-  - Microsoft 365 におけるデバイスとデータ保護
-  - Microsoft 365 における コンプライアンス
-
-
-  #### Lab &#58; Microsoft 365 のセキュリティ
-  - Exercise 1&#58; Azure Active Directory におけるユーザーとデバイスの管理
-  - Exercise 2&#58; ID 同期の評価
-  - Exercise 3&#58; コンプライアンスのツールのエクスプロアー
-
-
-  ### Module 4&#58; Microsoft 365 価格設定とサポート
-  #### Lessons
-  - Microsoft 365 サブスクリプション、ライセンス、請求
-  - Microsoft 365 におけるサポート
-
-
-  #### Lab &#58; Microsoft 365 におけるサブスクリプション、ライセンス、サポートの管理
-  - Exercise 1&#58; 請求とサブスクリプションのエクスプロアーインターフェイス
-  - Exercise 2&#58; テナントに試用ライセンスの追加
-  - Exercise 3&#58; サポートオプションのレビュー
+  ### モジュール 5&#58; Microsoft 365 のライセンスとサポート
+  Microsoft 365 のライセンス、サービス、サポート オプションの詳細をご覧ください。
+  #### レッスン 
+  - Microsoft 365 で利用可能なライセンス オプションを識別する
+  - Microsoft 365 サービスのサポート サービスについて説明する
+  - Microsoft 365 のサービス ライフサイクルについて説明する
 

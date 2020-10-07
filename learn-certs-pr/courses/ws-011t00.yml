@@ -26,7 +26,7 @@ locales:
 levels:
 - intermediate
 roles:
-- developer
+- administrator
 products:
 - windows-server
 summary: |-
@@ -47,10 +47,9 @@ outlineSection: |-
   ### モジュール 1&#58; Windows Server 管理の概要
   このモジュールでは、Windows Server 2019 のさまざまなエディションと、導入、サービス、アクティベーションの手法を区別する方法について説明します。このモジュールでは、Windows Server Core も紹介し、Desktop Experience のバージョンと比較します。このモジュールでは、Windows Admin Center、PowerShell、権限の委任など、Windows Server を管理するためのツールと概念について説明します。
   #### レッスン
+  - Windows Server 管理の原則とツールの概要
   - Windows Server 2019 の概要
   - Windows Server Core の概要
-  - Windows Server 管理の原則とツールの概要
-
 
   #### ラボ&#58; Windows Server の展開と構成
   - Server Core の展開と構成
@@ -64,24 +63,23 @@ outlineSection: |-
   ### モジュール 2&#58; Windows Server の ID サービス
   このモジュールでは、ID サービスを紹介し、Windows Server 環境での Active Directory Domain Services (AD DS) について説明します。このモジュールでは、AD DS にドメイン コントローラを展開する方法、Azure Active Directory (Ad)、および Azure AD を AD DS と統合することのメリットについて説明します。このモジュールでは、Group Policy の基本と、ドメイン環境で グループ ポリシー オブジェクト (GPO) を構成する方法についても説明します。最後に、モジュールでは、Active Directory 証明書サービスのロールと証明書の使用法について説明します。
   #### レッスン
-  - AD DS の概要
+  - AD DSの概要
   - Windows Server ドメイン コントローラの展開
-  - Azure AD 概要
+  - Azure AD の概要
   - グループ ポリシーを実装します
-  - Active Directory 証明書サービスの概要
-
+  - Active Directory Sertificate Service の概要
 
   #### ラボ&#58; ID Service および Group Policy の実装
   - Server Core に新しいドメイン コントローラを展開する
   - Group Policy の構成
   - 証​​明書サービスの展開と使用
-  - Group Policy の基本について説明し、ドメイン環境で GPO を構成する
-  - Active Directory 証明書サービスのロールと証明書の使用法について説明する
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - Windows Server 環境における AD DS について説明する。
   - AD DS にドメイン コントローラを展開する。
   - Azure AD と、Azure AD を AD DS と統合する利点について説明する。
+  - Group Policy の基本について説明し、ドメイン環境で GPO を構成する
+  - Active Directory 証明書サービスのロールと証明書の使用法について説明する
 
 
   ### モジュール 3&#58; Windows Server のネットワーク インフラストラクチャ サービス
@@ -90,13 +88,10 @@ outlineSection: |-
   - DHCP の導入と管理
   - DNS サービスの導入と管理
   - IPAM の導入と管理
-  - Windows Server のリモート アクセス サービス
-
 
   #### ラボ&#58; Windows Server でのネットワーク インフラストラクチャ サービスの実装と構成
   - DHCP の導入と設定
   - DNS の導入と設定
-  - ウェブアプリケーション プロキシの実装
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - DHCP サービスを説明、導入、および構成する。
@@ -114,7 +109,6 @@ outlineSection: |-
   - iSCSI の実装
   - 分散ファイル システムの展開
 
-
   #### ラボ&#58; Windows Server でのストレージ ソリューションの実装
   - データ重複排除の実装
   - iSCSI ストレージの設定
@@ -122,11 +116,11 @@ outlineSection: |-
   - 記憶域スペース ダイレクトの実装
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - Windows Server で共有を実装する。
-  - Storage Space テクノロジを展開する。
-  - データ重複排除機能を実装する。
-  - iSCSI ベースのストレージを実装する。
-  - Distributed File System (DFS) を展開および管理する。
+  - Windows Server で共有を実装する
+  - Storage Space テクノロジを展開する
+  - データ重複排除機能を実装する
+  - iSCSI ベースのストレージを実装する
+  - Distributed File System (DFS) を展開および管理する
 
 
   ### モジュール 5&#58; Windows Server の Hyper-V 仮想化とコンテナ
@@ -137,7 +131,6 @@ outlineSection: |-
   - Windows Server での仮想化の保護
   - Windows Server のコンテナ
   - Kubernetes の概要
-
 
   #### ラボ&#58; Windows Server での仮想化の実装と構成
   - VM の作成と構成
@@ -159,9 +152,9 @@ outlineSection: |-
   - ストレッチ クラスタの概要
   - Hyper-V VM を使用した高可用性および障害回復ソリューション
 
-
   #### ラボ&#58; フェールオーバークラスタリングの実装
-  - ストレージの構成とクラスターの作成
+  - iSCSI ストレージの設定
+  - フェイルオーバー クラスタの構成
   - 高可用性ファイル サーバーの展開と構成
   - 高可用性ファイル サーバーの展開の検証
 
@@ -178,7 +171,6 @@ outlineSection: |-
   - Hyper-V Replica
   - Windows Server のインフラストラクチャのバックアップと復元
 
-
   #### ラボ&#58; Hyper-V Replica および Windows Server Backup の実装
   - Hyper-V レプリカの実装
   - Windows Server バックアップを使用したバックアップと復元の実装
@@ -193,12 +185,11 @@ outlineSection: |-
   ### モジュール 8&#58; Windows Server のセキュリティ
   このモジュールでは、Windows Server のセキュリティ機能とその実装方法について説明します。このモジュールでは、Windows Server で使用される資格情報について説明し、権限アクセス保護を実装する方法について説明します。このモジュールでは、Windows Server のセキュリティを強化する方法とテクノロジについて説明するだけでなく、Just Enough Administration (JEA) を構成する方法や SMB トラフィックを保護する方法についても説明します。最後に、このモジュールでは、Windows Update、その展開および管理オプションについて説明します。
   #### レッスン
-  - 資格情報と権限アクセス保護
+  - Windows Server の資格情報と特権アクセス保護
   - Windows Server の強化
-  - Windows Server の JEA
+  - Windows Server での十分な管理
   - SMB トラフィックの保護と分析
   - Windows Server アップデート管理
-
 
   #### ラボ&#58; Windows Server でのセキュリティの構成
   - Windows Defender Credential Guard の構成
@@ -214,17 +205,16 @@ outlineSection: |-
   - Windows Update とその展開および管理オプションについて説明する。
 
 
-  ### モジュール 9&#58; Windows Server の RDS
+  ### モジュール 9&#58; Windows Server のリモート デスクトップ サービス
   このモジュールでは、Windows Server の Remote Desktop Protocol (RDP) および Virtual Desktop Infrastructure (VDI) の主要な機能について説明します。このモジュールでは、セッションベースのデスクトップを展開する方法について説明し、個人用および分極化された仮想デスクトップについて説明します。
   #### レッスン
-  - RDS の概要
+  - リモート デスクトップ サービスの概要
   - セッションベースのデスクトップ展開の構成
   - 個人用およびプールされた仮想デスクトップの概要
 
-
   #### ラボ&#58; Windows Server での RDS の実装
   - RDS を実装する
-  - セッション収集設定の構成と RDC の使用
+  - RemoteApp コレクション設定の構成
   - 仮想デスクトップ テンプレートの構成
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
@@ -234,15 +224,16 @@ outlineSection: |-
 
 
   ### モジュール 10&#58; Windows Server のリモート アクセスと Web サービス
-  このモジュールでは、仮想プライベート ネットワーク (VPN)、Network Policy Server (NPS)、および Microsoft Internet Information Services (IIS) の実装方法について説明します。このモジュールでは、Always On VPN 機能と、Windows Server で NPS および Web Server (IIS) を構成する方法について説明します。
+  このモジュールでは、仮想プライベート ネットワーク (VPN)、Network Policy Server (NPS)、および Microsoft Internet Information Services (IIS) の実装方法について説明します。このモジュールでは、リモート アクセス サービスの概要を示し、Always On VPN 機能と、Windows Server で NPS および Web Server (IIS) を構成する方法について説明します。
   #### レッスン
+  - Windows Server の RAS の概要
   - VPN の実装
-  - Always On VPN の実装
   - NPS を実装する
+  - Always On VPN の実装
   - Windows Server での Web サーバーの実装
 
-
   #### ラボ&#58; ネットワークコントローラの導入
+  - ウェブアプリケーション プロキシの実装
   - Windows Server での VPN の実装
   - Web サーバーの展開と構成
 
@@ -253,35 +244,33 @@ outlineSection: |-
   - Web Server (IIS) について説明および構成する。
 
 
-  ### モジュール 11&#58; Windows Server でのサーバーとパフォーマンスの監視
+  ### モジュール 11&#58; 監視、パフォーマンス、トラブルシューティング
   このモジュールでは、Windows Server でサービスとパフォーマンスの監視を実装し、トラブルシューティングを適用する方法について説明します。このモジュールでは、監視ツールに焦点を当て、イベント ログを含むパフォーマンスを監視する方法と、トラブルシューティングの目的でイベント ログの監視を実行する方法について説明します。
   #### レッスン
   - Windows Server の監視ツールの概要
   - パフォーマンス モニターの使用
   - トラブルシューティングのためのイベントログの監視
 
-
   #### ラボ&#58; Windows Server の監視とトラブルシューティング
   - パフォーマンスベースラインの確立
   - パフォーマンス問題の原因の特定
+  - 集中型イベントログの表示と設定
   - パフォーマンス問題の原因の特定
-
-  パフォーマンス問題の原因の特定
   - Windows Server の監視ツールについて説明する。
   - パフォーマンス監視について説明し、Windows Server で使用する。
   - イベント ログについて説明し、トラブルシューティングの目的でイベント ログの監視を実行する。
 
 
   ### モジュール 12&#58; Windows Server でのアップグレードと移行
-  このモジュールでは、AD Ds、ストレージ、および Windows サーバーのアップグレードと移行を実行する方法について説明します。このモジュールでは、AD DS の移行に使用するツールについて説明します。このモジュールでは、Storage Migration Service について触れ、そして最後に、Windows Server の移行ツールと使用シナリオについても説明します。
+  このモジュールでは、AD DS、ストレージ、および Windows サーバーのアップグレードと移行を実行する方法について説明します。このモジュールでは、AD DS の移行に使用するツールについて説明します。このモジュールでは、Storage Migration Service について触れ、そして最後に、Windows Server の移行ツールと使用シナリオについても説明します。
   #### レッスン
   - AD DS の移行
   - ストレージ移行サービス
   - Windows Server 移行ツール
 
-
   #### ラボ&#58; サーバー ワークロードの移行
-  - ストレージ移行サービスの実装
+  - サーバーのワークロードを移行するプロセスの選択
+  - Storage Migration Service を使用してファイルを移行する方法の計画
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
   - AD DS の移行に使用するツールについて説明する。

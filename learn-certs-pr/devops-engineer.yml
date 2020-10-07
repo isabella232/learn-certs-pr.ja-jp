@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: DevOps Engineer Expert'
 metadata:
   title: 'Microsoft Certified: DevOps Engineer Expert'
-  description: 'Azure DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。'
+  description: 'Microsoft DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。'
 uid: certification.devops-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
@@ -13,7 +13,7 @@ summary: |-
   このロールの責任には、コラボレーション、コード、インフラストラクチャ、ソース管理、セキュリティ、コンプライアンス、継続的インテグレーション、テスト、配信、モニタリング、フィードバックの戦略の設計と実装が含まれます。
 
   この認定資格の受験者は、Azure の管理と開発の両方に精通している必要があり、これらの分野の少なくとも 1 つに精通している必要があります。
-subTitle: Azure DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。
+subTitle: Microsoft DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。
 levels:
 - advanced
 skills:
@@ -67,7 +67,7 @@ resources:
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。

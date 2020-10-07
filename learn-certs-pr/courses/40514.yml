@@ -1,0 +1,52 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Migrating Oracle to Azure SQL or Postgre SQL'
+metadata:
+  title: 'Course 40514-G: Microsoft Cloud Workshop: Migrating Oracle to Azure SQL or Postgre SQL'
+  description: 'Course 40514-G: Microsoft Cloud Workshop: Migrating Oracle to Azure SQL or Postgre SQL'
+uid: course.40514
+courseNumber: '40514-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: このワークショップの最後に、OracleからSQL ServerまたはPostgreSQLへの移行に必要なコスト、パフォーマンス、および作業レベルを比較するためのサイト分析をより適切に実施できるようになります。ワークショップを完了するために必要な時間を考えると、学生とトレーナーは単一の移行パスを選択することをお勧めします。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このワークショップでは、OracleからSQL ServerまたはPostgreSQLに移行するために必要なコスト、パフォーマンス、および労力のレベルを比較するためにサイト分析を実施する方法をよりよく理解できるようになります。このワークショップには2つの移行パスが含まれており、トレーニングファイルにはパスごとに適切な名前が付けられています。どちらのワークショップでも、お客様の一般的なOracle移行シナリオを共有しています。各ワークショップパスには、この学習の旅を支援するためにデータベースプラットフォームの移行手順が調整されています。更新する必要のある依存アプリケーションとレポートを評価し、移行計画を作成します。また、お客様が新しいSQL　ServerまたはPostgreSQLの機能を利用してパフォーマンスと復元力を向上させるのに役立つ概念実証（POC）を設計および構築します。
+
+  SQL Serverの移行に重点的に取り組んでいる学生は、古いバージョンのSQL Serverから最新バージョンに移行する方法を探り、オンプレミスからクラウドへの移行の影響を検討します。
+
+  #### Audience profile
+  このワークショップは、クラウドテクノロジーのインフラストラクチャとソリューションの設計に関するアーキテクチャの専門知識を持ち、「このコースについて」と「コース修了時」の領域で説明されているAzureおよびAzureサービスについて詳しく知りたいクラウドアーキテクトとITプロフェッショナルを対象としています。このワークショップに参加する人は、マイクロソフト以外の他のクラウドテクノロジーにも精通していて、コースの前提条件を満たし、Azureのクロストレーニングを希望しているものとします。
+outlineSection: |-
+  ### Module 1&#58; Whiteboard Design Session - Migrating Oracle to Azure SQL or Postgre SQL
+  #### Lessons
+  - 顧客のケーススタディの確認
+  - 概念実証解決策の設計
+  - 解決策を提示
+
+  ### Module 2&#58; Hands-on Lab - Migrating Oracle to Azure SQL or Postgre SQL
+
+  #### Lab &#58; Migrating Oracle to Azure SQL
+
+  - SQL Serverインスタンスを構成
+  - DMSを使用してSQL ServerをAzure SQL Databaseに移行
+  - アップグレード後の機能強化
+  - Oracle 11g Express Editionのセットアップ
+  - OracleデータベースをSQL Server 2017に移行
+  - アプリケーションを移行
+
+  #### Lab &#58; Migrating Oracle to Postgre SQL
+
+  - Oracle 11g Express Editionのセットアップ
+  - PostgreSQLに移行する前にOracle 11gデータベースの評価
+  - OracleデータベースをPostgreSQLに移行する準備
+  - データベースとアプリケーションを移行
+

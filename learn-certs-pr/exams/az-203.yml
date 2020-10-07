@@ -7,8 +7,8 @@ uid: exam.az-203
 displayName: AZ-203
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>この試験は 2020 年 5 月 31 日に廃止されました。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます<br/></></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
+  <div><strong>この試験は 2020 年 8 月 31 日に廃止されました。代替試験 AZ-204 の受験が可能です。詳細については、<a href="/learn/certifications/exams/az-204">AZ-204 試験の詳細ページをご覧ください</a>。</strong><br/><br/></div>
   </div>
 
   この試験の受験生はアプリケーションやサービスといったクラウドソリューションを設計、構築した Azure デベロッパーですこれらの対象者は、ソリューション設計から開発やデプロイ、テストやメンテナンスまでの開発のすべてのフェーズに関わります。ソリューションの実装にあたって、クラウドソリューションアーキテクト、クラウド DBA、クラウドアドミニストレータ、クライアントと連携を取ります。
@@ -17,8 +17,6 @@ summary: |-
   受験生はストレージ、セキュリティ、計算、コミュニケーションを含む Azure ツールとテクノロジを利用したアプリとサービス開発に精通している必要があります。
 
   受験生は最低1年のソフトウェア開発の全段階にわたるスケーラブルなソリューションの開発の経験を持ち、最低1種類のクラウドをサポートしたプログラム言語のスキルを保有している必要があります。
-
-  <div style='font-weight&#58; bold;'><br/>注意&#58; この試験に合格すると、次の認定資格を取得できます。&#58; <a href="https://docs.microsoft.com/learn/certifications/azure-developer">Microsoft Certified&#58; Azure Developer Associate</a>.</div>
 subTitle: 'この試験では、Azure のサービスとしてのインフラのコンピューティングソリューション開発、Azure のサービスとしてのプラットフォームのコンピューティングソリューション開発、Azureストレージを開発、Azure Security の実装、ソリューションの監視・トラブルシューティング・最適化、zure サービスとサードパーティサービスの連携と活用、という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
@@ -27,13 +25,10 @@ locales:
 - ja
 - zh-cn
 - ko
-providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-203&examname=Exam%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:
-- Azure のサービスとしてのインフラのコンピューティングソリューション開発(10-15%)
+- Azure のサービスとしてのインフラのコンピューティングソリューション開発 (10-15%)
 - Azure のサービスとしてのプラットフォームのコンピューティングソリューション開発 (20-25%)
 - Azure ストレージを開発 (15-20%)
 - Azure Security の実装 (10-15%)
@@ -85,7 +80,7 @@ resources:
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。

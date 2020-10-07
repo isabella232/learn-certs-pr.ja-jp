@@ -17,6 +17,111 @@ MOC オンデマンドの廃止済みコースをお探しの場合は、次の�
 
 ## 終了したコースウェア: インストラクター指導のトレーニング
 
+* 2020 年 12 月 31 日のコースウェアの廃止
+
+    | コース番号| バージョン| タイトル| 言語| 退職日|
+    | --- | --- | --- | --- | --- |
+    | MB-200T00 | A | Microsoft Power Platform + Dynamics 365 Core | 英語 | 2020 年 12 月 31 日 |
+    | MB-400T00 | A | Microsoft Power Apps + Dynamics 365 Developer | 英語 | 2020 年 12 月 31 日 |
+
+* 2020 年 11 月 30 日のコースウェアの廃止
+
+    | コース番号| バージョン| タイトル| 言語| 退職日|
+    | --- | --- | --- | --- | --- |
+    | 40512 | G | App modernization | 英語 | 2020 年 11 月 30 日 |
+    | 40528 | G | Business continuity and disaster recovery | 英語 | 2020 年 11 月 30 日 |
+    | 40503 | G | Enterprise-ready cloud | 英語 | 2020 年 11 月 30 日 |
+    | 40565 | G | Modernizing Data Analytics with SQL Server 2019 | 英語 | 2020 年 11 月 30 日 |
+    | 40533 | G | OSS PaaS and DevOps | 英語 | 2020 年 11 月 30 日 |
+    | 40563 | G | Real-time data with Azure Database for PostgreSQL Hyperscale | 英語 | 2020 年 11 月 30 日 |
+
+* 2020 年 9 月 30 日のコースウェアの廃止、および 2020 年 10 月 30 日の関連するローカライズされたコースの廃止
+
+    | コース番号| バージョン| タイトル| 言語| 退職日|
+    | --- | --- | --- | --- | --- |
+    | AZ-300T01 | A | Deploying and Configuring Infrastructure | 英語 | 2020 年 9 月 30 日 |
+    | AZ-300T01ZH | A | Deploying and Configuring Infrastructure | 簡体字中国語 | 2020 年 10 月 30 日 |
+    | AZ-300T01KO | A | Deploying and Configuring Infrastructure | 韓国語 | 2020 年 10 月 30 日 |
+    | AZ-300T01JA | A | Deploying and Configuring Infrastructure | 日本語 | 2020 年 10 月 30 日 |
+    | AZ-300T02 | A | Implementing Workloads and Security | 英語 | 2020 年 9 月 30 日 |
+    | AZ-300T02ZH | A | Implementing Workloads and Security | 簡体字中国語 | 2020 年 10 月 30 日 |
+    | AZ-300T02KO | A | Implementing Workloads and Security | 韓国語 | 2020 年 10 月 30 日 |
+    | AZ-300T02JA | A | Implementing Workloads and Security | 日本語 | 2020 年 10 月 30 日 |
+    | AZ-300T03 | A | Understanding Cloud Architect Technology Solutions | 英語 | 2020 年 9 月 30 日 |
+    | AZ-300T03ZH | A | Understanding Cloud Architect Technology Solutions | 簡体字中国語 | 2020 年 10 月 30 日 |
+    | AZ-300T03KO | A | Understanding Cloud Architect Technology Solutions | 韓国語 | 2020 年 10 月 30 日 |
+    | AZ-300T03JA | A | Understanding Cloud Architect Technology Solutions | 日本語 | 2020 年 10 月 30 日|
+    | AZ-300T04 | A | Creating and Deploying Apps | 英語 | 2020 年 9 月 30 日 |
+    | AZ-300T04ZH | A | Creating and Deploying Apps | 簡体字中国語 | 2020 年 10 月 30 日 |
+    | AZ-300T04KO | A | Creating and Deploying Apps | 韓国語 | 2020 年 10 月 30 日 |
+    | AZ-300T04JA | A | Creating and Deploying Apps | 日本語 | 2020 年 10 月 30 日 |
+    | AZ-300T06 | A | Developing for the Cloud | 英語 | 2020 年 9 月 30 日 |
+    | AZ-300T06ZH | A | Developing for the Cloud | 簡体字中国語 | 2020 年 10 月 30 日 |
+    | AZ-300T06KO | A | Developing for the Cloud | 韓国語 | 2020 年 10 月 30 日 |
+    | AZ-300T06JA | A | Developing for the Cloud | 日本語 | 2020 年 10 月 30 日 |
+    | AZ-301T01 | A | Designing for Identity and Security | 英語 | 2020 年 9 月 30 日 |
+    | AZ-301T01ZH | A | Designing for Identity and Security | 簡体字中国語 | 2020 年 10 月 30 日|
+    | AZ-301T01KO | A | Designing for Identity and Security | 韓国語 | 2020 年 10 月 30 日 |
+    | AZ-301T01JA | A | Designing for Identity and Security | 日本語 | 2020 年 10 月 30 日 |
+    | AZ-301T02 | A | Designing a Data Platform Solution | 英語 | 2020 年 9 月 30 日 |
+    | AZ-301T02ZH | A | Designing a Data Platform Solution | 簡体字中国語 | 2020 年 10 月 30 日 |
+    | AZ-301T02KO | A | Designing a Data Platform Solution | 韓国語 | 2020 年 10 月 30 日 |
+    | AZ-301T02JA | A | Designing a Data Platform Solution | 日本語| 2020 年 10 月 30 日 |
+    | AZ-301T03 | A | Design for Deployment, Migration, and Integration | 英語 | 2020 年 9 月 30 日 |
+    | AZ-301T03ZH | A | Design for Deployment, Migration, and Integration | 簡体字中国語 | 2020 年 10 月 30 日 |
+    | AZ-301T03KO | A | Design for Deployment, Migration, and Integration | 韓国語 | 2020 年 10 月 30 日 |
+    | AZ-301T03JA | A | Design for Deployment, Migration, and Integration | 日本語 | 2020 年 10 月 30 日 |
+    | AZ-301T04 | A | Designing an Infrastructure Strategy | 英語 | 2020 年 9 月 30 日 |
+    | AZ-301T04ZH | A | Designing an Infrastructure Strategy | 簡体字中国語 | 2020 年 10 月 30 日 |
+    | AZ-301T04KO | A | Designing an Infrastructure Strategy | 韓国語 | 2020 年 10 月 30 日 |
+    | AZ-301T04JA | A | Designing an Infrastructure Strategy | 日本語 | 2020 年 10 月 30 日 |
+
+* 2020 年 8 月 31 日のコースウェアの廃止
+
+    | コース番号| バージョン| タイトル| 言語| 退職日|
+    | --- | --- | --- | --- | --- |
+    | AZ-103T00 | A | Microsoft Azure Administrator | 英語 | 2020 年 8 月 31 日 |
+    | AZ-103T00ZH | A | Microsoft Azure Administrator | 簡体字中国語 | 2020 年 8 月 31 日 |
+    | AZ-103T00KO | A | Microsoft Azure Administrator | 韓国語 | 2020 年 8 月 31 日 |
+    | AZ-103T00JA | A | Microsoft Azure Administrator | 日本語 | 2020 年 8 月 31 日 |
+    | AZ-203T01 | A | Develop Azure Infrastructure as a Service compute solutions | 英語 | 2020 年 8 月 31 日 |
+    | AZ-203T01ZH | A | Develop Azure Infrastructure as a Service compute solutions | 簡体字中国語 | 2020 年 8 月 31 日 |
+    | AZ-203T01KO | A | Develop Azure Infrastructure as a Service compute solutions | 韓国語 | 2020 年 8 月 31 日 |
+    | AZ-203T01JA | A | Develop Azure Infrastructure as a Service compute solutions | 日本語 | 2020 年 8 月 31 日 |
+    | AZ-203T02 | A | Develop Azure Platform as a Service compute solutions | 英語 | 2020 年 8 月 31 日 |
+    | AZ-203T02ZH | A | Develop Azure Platform as a Service compute solutions | 簡体字中国語 | 2020 年 8 月 31 日 |
+    | AZ-203T02KO | A | Develop Azure Platform as a Service compute solutions | 韓国語 | 2020 年 8 月 31 日 |
+    | AZ-203T02JA | A | Develop Azure Platform as a Service compute solutions | 日本語 | 2020 年 8 月 31 日 |
+    | AZ-203T03 | A | Develop for Azure storage | 英語 | 2020 年 8 月 31 日 |
+    | AZ-203T03ZH | A | Develop for Azure storage | 簡体字中国語 | 2020 年 8 月 31 日 |
+    | AZ-203T03KO | A | Develop for Azure storage | 韓国語 | 2020 年 8 月 31 日 |
+    | AZ-203T03JA | A | Develop for Azure storage | 日本語 | 2020 年 8 月 31 日 |
+    | AZ-203T04 | A | Implement Azure security | 英語 | 2020 年 8 月 31 日 |
+    | AZ-203T04ZH | A | Implement Azure security | 簡体字中国語 | 2020 年 8 月 31 日 |
+    | AZ-203T04KO | A | Implement Azure security | 韓国語 | 2020 年 8 月 31 日 |
+    | AZ-203T04JA | A | Implement Azure security | 日本語 | 2020 年 8 月 31 日 |
+    | AZ-203T05 | A | Monitor, troubleshoot, and optimize Azure solutions | 英語 | 2020 年 8 月 31 日 |
+    | AZ-203T05ZH | A | Monitor, troubleshoot, and optimize Azure solutions | 簡体字中国語 | 2020 年 8 月 31 日 |
+    | AZ-203T05KO | A | Monitor, troubleshoot, and optimize Azure solutions | 韓国語 | 2020 年 8 月 31 日 |
+    | AZ-203T05JA | A | Monitor, troubleshoot, and optimize Azure solutions | 日本語 | 2020 年 8 月 31 日 |
+    | AZ-203T06 | A | Connect to and consume Azure and third-party services | 英語 | 2020 年 8 月 31 日 |
+    | AZ-203T06ZH | A | Connect to and consume Azure and third-party services | 簡体字中国語 | 2020 年 8 月 31 日 |
+    | AZ-203T06KO | A | Connect to and consume Azure and third-party services | 韓国語 | 2020 年 8 月 31 日 |
+    | AZ-203T06JA | A | Connect to and consume Azure and third-party services | 日本語 | 2020 年 8 月 31 日 |
+    | MS-200T01 | A | Understanding the Modern Messaging Infrastructure | 英語 | 2020 年 8 月 31 日 |
+    | MS-200T02 | A | Managing Client Access and Mail Flow | 英語 | 2020 年 8 月 31 日 |
+    | MS-200T03 | A | Managing Messaging High Availability and Disaster Recovery | 英語 | 2020 年 8 月 31 日 |
+    | MS-201T01 | A | Defining a Hybrid Messaging Strategy | 英語 | 2020 年 8 月 31 日 |
+    | MS-201T02 | A | Managing Messaging Security, Hygiene, and Compliance | 英語 | 2020 年 8 月 31 日 |
+    | MS-300T01 | A | Managing Office 365 Content Services | 英語 | 2020 年 8 月 31 日 |
+    | MS-300T02 | A | Managing SharePoint Online | 英語 | 2020 年 8 月 31 日 |
+    | MS-300T03 | A | Enabling Microsoft Teams for Collaboration | 英語 | 2020 年 8 月 31 日 |
+    | MS-300T04 | A | Enabling Office 365 Workloads for Collaboration | 英語 | 2020 年 8 月 31 日 |
+    | MS-301T01 | A | Implementing SharePoint 2019 Infrastructure | 英語 | 2020 年 8 月 31 日 |
+    | MS-301T02 | A | Implementing SharePoint 2019 Service Applications | 英語 | 2020 年 8 月 31 日 |
+    | MS-301T03 | A | Implementing SharePoint Hybrid Scenarios | 英語 | 2020 年 8 月 31 日 |
+    | MS-301T04 | A | Migrating to SharePoint Online | 英語 | 2020 年 8 月 31 日 |
+
 * 2020 年 6 月 30 日のコースウェアの廃止
 
     | コース番号| バージョン| タイトル| 言語| 退職日|
@@ -160,7 +265,7 @@ MOC オンデマンドの廃止済みコースをお探しの場合は、次の�
 
     | コース番号| バージョン| タイトル| 言語| 退職日|
     | --- | --- | --- | --- | --- |
-    | 2778 | A | Writing Queries Using Microsoft® SQL Server® 2008 Transact-SQL | 英語 | 2020 年 2 月 28 日 |
+    | 2778 | A | Writing Queries Using Microsoft® SQL Server™ 2008 Transact-SQL | 英語 | 2020 年 2 月 28 日
     | 6231 | B | Maintaining a Microsoft® SQL Server® 2008 R2 Database | 英語  | 2020 年 2 月 28 日|
     | 6234 | A | Implementing and Maintaining Microsoft® SQL Server® 2008 Analysis Services | 英語  | 2020 年 2 月 28 日|
     | 6236 | A | Implementing and Maintaining Microsoft® SQL Server™ 2008 Reporting Services | 英語  | 2020 年 2 月 28 日|
@@ -245,7 +350,7 @@ MOC オンデマンドの廃止済みコースをお探しの場合は、次の�
     | 10993 | B | Integrating On-Premises Identity Infrastructure with Microsoft Azure | 英語 | 2019 年 12 月 31 日 |
     | 40389 | A | First Look Clinic: Windows Server 2016 | 英語 | 2019 年 12 月 31 日 |
     | 40525 | G | Microsoft Cloud Workshop: Media AI | 英語 | 2019年 12 月 31 日 |
-    | 20695 | D | Deploying Windows Desktops and Enterprise Applications | 英語| 2019 年 12 月 31 日|
+    | 20695 |D| | Deploying Windows Desktops and Enterprise Applications | 英語| 2019 年 12 月 31 日|
     | 20703-2 | B | Integrating Cloud Services with System Center Configuration Manager | 英語 | 2019 年 12 月 31 日 |
     | 10050 | A | Microsoft® SQL Server® 2008 データベースの実装 | 日本語 | 2019 年 12 月 31 日 |
     | 10078 | A | Configuring and Troubleshooting Windows Server 2008 Active Directory Domain Services (簡体字中国語) | 簡体字中国語 | 2019 年 12 月 31 日 |

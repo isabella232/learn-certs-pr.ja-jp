@@ -1,0 +1,147 @@
+### YamlMime:Course
+title: Azure Stack HCI
+metadata:
+  title: 'Course WS-013T00-A: Azure Stack HCI'
+  description: 'Course WS-013T00-A: Azure Stack HCI'
+uid: course.ws-013t00
+courseNumber: 'WS-013T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure Stack HCI、Azure Stack Hub、Azure Stack Edge などの Azure Stack ポートフォリオについて説明する
+- skill: Azure Stack HCI コア テクノロジと管理ツールについて説明します。
+- skill: 一般的な Azure Stack HCI 実装のプロセスについて説明します。
+- skill: Azure Stack HCI ハイブリッド機能を特定します。
+- skill: Azure Stack HCI でワークロードを実装、管理、メンテナンスします。
+- skill: Storage QoS および Storage Replica を含む Azure Stack HCI Storage を計画および実装します。
+- skill: Azure Stack HCI ネットワーキングを計画します。
+- skill: Azure Stack HCI にソフトウェア定義ネットワークを実装します。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- windows-server
+summary: |-
+  この 3 日間のコースは、主にオンプレミスの Windows Server 環境の管理にかなりの経験がある IT プロフェッショナルを対象としています。その目的は、Windows Server ソフトウェア定義データセンター および Azure Stack HCI に関連する高度なトピックについても触れることです。このコースでは、他の Azure Stack 製品に関する情報だけでなく、既存の System Center 製品を使用して、Windows Server 2019 でソフトウェア定義データセンターを実装および管理する方法についても説明します。このコースは上級者向けであり、ソフトウェア定義データセンターとハイパーコンバージドの原則を使用して、中規模から大規模で Windows Server 2019 で仮想ワークロードを実行したいユーザーを対象としています。
+
+  #### 視聴者プロフィール
+  このコースは、オンプレミスの Windows Server 環境を管理し、Azure を使用してサーバー ワークロードを管理し、Windows Server 2019 で仮想ワークロードを実行する IT プロフェッショナルを対象としています。これらの対象者は、既存の Microsoft System Center 製品を使用して、Windows Server 2019 でソフトウェア定義データセンターを実装および管理したいと考えている方です。
+prerequisitesSection: |-
+  - オンプレミス シナリオでの Windows Server オペレーティング システムと Windows Server 仮想化ワークロードの管理経験
+  - Microsoft Azure でのサービスとしてのインフラストラクチャ (IaaS) サービスの実装と管理の経験
+  - Azure Active Directory (Azure AD) の基本的な知識
+  - PowerShell スクリプトおよび PowerShell Desired State Configuration (DSC) に関する中級程度の知識
+  - Microsoft のコア コンピューティング、ストレージ、ネットワーキング、仮想化テクノロジに関する中級程度の知識
+  - Windows Server ベースのコンピューティングおよびストレージの高可用性テクノロジに関する中級程度の知識
+  - Microsoft の仮想化セキュリティ関連テクノロジに関する中級程度の知識
+outlineSection: |-
+  ### モジュール 1&#58; Azure Stack HCI の紹介
+  このモジュールでは、Azure Stack HCI の基本的な特性と、Azure Stack Hub や Azure Stack Edge などの Azure Stack ポートフォリオの一部である製品について説明します。このモジュールでは、Azure Stack HCI コア テクノロジと管理ツールの概要、および一般的な実装プロセスの概要についても説明します。最後に、Azure Stack HCI ハイブリッド機能の概要 (詳細はほとんどモジュール 4 で説明) を説明してモジュールをまとめています。
+  #### レッスン
+  - Azure Stack HCI の概要
+  - Azure Stack HCI テクノロジの概要
+  - Azure Stack HCI 管理ツールの概要
+  - Azure Stack HCI 実装プロセスの概要
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Microsoft Azure Stack ポートフォリオの基本的な機能と使用例について説明する。
+  - Azure Stack HCI アーキテクチャのコア コンポーネントを特定する。
+  - ハイパーコンバージド インフラストラクチャの展開と管理に使用される一般的な管理ツールを特定する。
+  - Azure Arc の目的と機能について説明する。
+  - オンプレミス環境に統合できる Azure インフラストラクチャ サービスを特定する。
+  - クラウド監視をクォーラム監視タイプとして構成する。
+  - Azure ネットワーク アダプタで Azure 仮想ネットワークへの Point-to-Site VPNを確立する方法について説明する
+  - Azure File Sync と Azure Monitor の特性と使用例について説明する。
+  - Azure Backup と Azure Site Recovery を使用してビジネス継続性を維持する方法について説明する。
+  - Azure Update Management のユースケースとアーキテクチャについて説明する。
+  - Azure Stack HCI 実装をプロビジョニングするための高レベルなプロセスについて説明する。
+
+
+  ### モジュール 2&#58; Azure Stack HCI の運用と保守
+  このモジュールでは、Azure Stack HCI でワークロードを実装、管理、維持する方法について説明します。最初のモジュールで説明したように、Azure Stack HCI は、特定のタイプのワークロードのパフォーマンス、復元力、および拡張性を最適化するように設計されています。これらのワークロードの実装は初期構成に従っており、これには、Windows Server 2019 オペレーティング システムを実行中の Microsoft によって承認済みのハードウェアの上に仮想化ストレージとネットワーク レイヤーをプロビジョニングすることが含まれます。このモジュールでは、Windows Server 2019 と Azure の統合を利用して、これらのワークロードを管理および維持するために使用できる、さまざまな Azure サービスと Windows Server の機能の概要について説明します。
+  #### レッスン
+  - Azure Stack HCI でのワークロードの実装と管理
+  - Azure Stack HCI のメンテナンス
+
+  #### ラボ&#58; ラボA&#58; ラボ環境のプロビジョニング
+  - ラボ環境のプロビジョニング
+
+  #### ラボ&#58; ラボB&#58; ハイブリッド シナリオでの Windows Admin Center の使用
+  - ハイパーコンバージド インフラストラクチャと Azure サービスの統合
+  - Azure 統合機能の確認
+  - ハイパーコンバージド インフラストラクチャの更新の管理
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - 共有ディスクを使用して共有クラスタリングを実装する。
+  - シールドされた VM の展開に必要なコンポーネントについて説明する。
+  - Virtual Desktop Infrastructure (VDI) ワークロードを実装する。
+  - Azure Stack HCI でコンテナベースのデプロイをホストする。
+  - Azure ネットワーク アダプタを使用して、 Azure 仮想ネットワークへの Point-to-Site (P2S) VPN 接続を作成する。
+  - Azure File Sync アーキテクチャについて説明する。
+  - Azure File Sync を実装して、オンプレミスと Azure ファイル共有の間でファイルを複製する。
+  - Azure Arc で Azure Stack HCI ワークロードを管理する。
+
+
+  ### モジュール 3&#58; Azure Stack HCI ストレージの計画と実装
+  このモジュールでは、Azure Stack HCI Storage を計画および実装する方法について説明します。このモジュールでは、コア HCI ストレージ テクノロジについて詳しく説明し、(Azure Stack HCI のコンテキストにおける) Storage QoS および Storage Replica についても少し触れています。このモジュールでは、Azure Stack HCI ストレージの計画、実装、および管理のプロセスについて説明します。
+  #### レッスン
+  - Azure Stack HCI Storage のコア テクノロジの概要
+  - Azure Stack HCI における Storage Spaces Direct の計画
+  - Storage Spaces Direct ベースのハイパーコンバージド インフラストラクチャの実装
+  - Azure Stack HCI での Storage Spaces Direct の管理
+  - Storage QoS の計画と実装
+  - Storage Replica の計画と実装
+
+  #### ラボ&#58; ハイパーコンバージド インフラストラクチャでの Storage Spaces Direct の実装
+  - S2D クラスタのデプロイの準備
+  - Windows Admin Center を使用して S2D クラスタを実装する
+  - Windows Admin Center を使用して S2D クラスタのストレージを構成する
+  - Windows PowerShell を使用して S2D クラスタを実装およびテストする
+  - S2D クラスタ内のディスクの管理と監視
+  - S2D クラスタの回復力の管理と監視
+  - S2D クラスタのメタデータの識別と分析
+  - S2D クラスタ層の識別と構成
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure Stack HCI ストレージコア テクノロジについて説明する。
+  - Azure Stack HCI で Storage Spaces Direct を計画する。
+  - Storage Spaces Direct ベースのハイパーコンバージド インフラストラクチャを実装する。
+  - Azure Stack HCI で Storage Spaces Direct を管理する。
+  - ストレージ QoS を計画および実装する。
+  - Storage Replica を計画および実装する。
+
+
+  ### モジュール 4&#58; Azure Stack HCI ネットワーキングの計画と実装
+  このモジュールでは、Azure Stack HCI でソフトウェア定義ネットワークを計画および実装する方法について説明します。このモジュールでは、テクノロジとその基本的な機能に焦点を当て、主要な SDN 管理ツールとしての Windows Admin Center について詳しく説明しています。このモジュールでは、Switch Embedded Teaming (SET)、Software Load Balancing (SLB)、Datacenter Firewall、RAS Gateway など、Azure Stack HCI で利用可能な SDN の 4 つの特定のコンポーネントについても詳しく説明します。
+  #### レッスン
+  - Azure Stack HCI コア ネットワーキング テクノロジの概要
+  - Network Virtualization と SDN の概要
+  - Switch Embedded Teaming の計画と実装
+  - Software Load Balancing の計画と実装
+  - Datacenter Firewall の計画と実装
+  - RAS Gateways の計画と実装
+
+  #### ラボ&#58; ラボA&#58; ソフトウェア定義ネットワークの展開
+  - PowerShell を使用したソフトウェア定義ネットワークの導入
+
+  #### ラボ&#58; ラボB&#58; ハイパーコンバージド インフラストラクチャでのソフトウェア定義ネットワークの実装
+  - SDN ラボ環境のルーティングと管理の構成
+  - Windows Admin Center と PowerShell を使用した仮想ネットワークの管理
+  - Windows Admin Center を使用した SDN Access Control List の実装
+  - PowerShell を使用して プライベート VIP で SDN Software Load Balancing を実装する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure Stack HCI のコア Software-Defined Networking (SDN) コンポーネントについて説明する。
+  - Azure Stack HCI のコンテキストで、ソフトウェアのみの機能とハードウェアのみの機能を区別する。
+  - Simplified SMB Multichannel および Multi-NIC Cluster Network の使用例について説明する。
+  - Azure Stack HCI のコンテキストでのネットワーク仮想化について説明する。
+  - Azure Stack HCI に SDN をデプロイするプロセスについて説明する。
+  - SET を計画および実装する。
+  - SLB の機能とインフラストラクチャについて説明し、SLB を実装する。
+  - Datacenter Firewall を実装および構成する。
+  - RAS Gateway を実装、構成、トラブルシューティングする。
+

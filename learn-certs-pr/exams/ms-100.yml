@@ -6,7 +6,10 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
+  <div><strong>本試験の内容は、2020 年 9 月 24 日 に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  </div>
 
   この試験の受験者は、Microsoft 365 サービスの評価、計画、移行、展開、および管理に参加している Microsoft 365 エンタープライズ管理者です。それらは、ID、セキュリティ、コンプライアンス、およびサポートテクノロジを含む、企業向けのMicrosoft 365テナント管理タスクを実行します。
 
@@ -22,9 +25,10 @@ locales:
 levels:
 - advanced
 skills:
+- 本試験の内容は、2020年9月24日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
 - Microsoft 365 サービスの設計と実装 (25-30%)
-- ユーザーのアイデンティティとロールを管理します (35-40%)
-- アクセスと認証を管理します (20-25%)
+- ユーザー ID とロールの管理 (35-40%)
+- アクセスと認証の管理 (20-25%)
 - Office 365 のワークロードとアプリケーションの計画 (10-15%)
 roles:
 - administrator
@@ -50,7 +54,7 @@ resources:
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。

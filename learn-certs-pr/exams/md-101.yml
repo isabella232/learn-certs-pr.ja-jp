@@ -6,15 +6,16 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
-  2019 年 3 月 31 日に期限が切れる前に [試験 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) に合格した場合、MD-101 を取得するだけで Modern Desktop 認定を取得できます。この試験の受験生は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視する管理者です。受験生は、ID、アクセス、ポリシー、アップデート、およびアプリを管理します。
-  <br/>
+  2019 年 3 月 31 日に期限が切れる前に [試験 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) に合格した場合、MD-101 を取得するだけで Modern Desktop 認定を取得できます。
 
-  管理者として、受験者は通常、現代の組織のビジネスニーズを満たすデバイス戦略を設計および実装するために、Microsoft 365 Enterprise Administratorと協力します。
+  この試験の受験生は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視する管理者です。受験生は、ID、アクセス、ポリシー、アップデート、およびアプリを管理します。
+
+  管理者として、受験者は通常、現代の組織のビジネスニーズを満たすデバイス戦略を設計および実装するために、Microsoft 365 Enterprise Administrator と協力します。
 
   受験者は、Microsoft 365 のワークロードに精通している必要があり、Windows 10 および Windows 以外のデバイスとテクノロジの展開、構成、および保守に精通しており、熟練している必要があります。
-subTitle: 'この試験では、次の一覧に示す技術タスクを遂行する能力を評価します: オペレーティングシステムの展開および更新、ポリシーおよびプロファイルの管理、デバイスの管理および保護、アプリおよびデータの管理''2019 年 3 月 31 日の有効期限が切れる前に試験 70-698 に合格した場合、MD-101 を取得するだけで Modern Desktop 認定を取得できます。'
+subTitle: 'この試験では、次の一覧に示す技術タスクを遂行する能力を評価します: オペレーティングシステムの展開および更新、ポリシーおよびプロファイルの管理、デバイスの管理および保護、アプリおよびデータの管理2019 年 3 月 31 日の有効期限が切れる前に試験 70-698 に合格した場合、MD-101 を取得するだけで Modern Desktop 認定を取得できます。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
 practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -58,7 +59,7 @@ resources:
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
