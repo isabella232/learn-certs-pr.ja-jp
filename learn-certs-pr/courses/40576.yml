@@ -1,0 +1,53 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+metadata:
+  title: 'Course 40576-G: Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+  description: 'Course 40576-G: Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+uid: course.40576
+courseNumber: '40576-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure Synapse Analyticsを使用して、完全なエンドツーエンドの高度な分析ソリューションを設計および構築。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  このホワイトボード設計セッションでは、グループで作業し、Azure Synapse　Analyticsを使用してエンドツーエンドのソリューションを設計するプロセスを確認します。設計セッションでは、データのロード、データの準備、データの変換、およびデータの提供に加え、バッチ学習とデータの両方の機械学習と処理を行います。
+
+  #### Audience profile
+  このワークショップは、クラウドテクノロジーのインフラストラクチャとソリューションの設計に関するアーキテクチャの専門知識を持ち、「このコースについて」と「コース修了時」の領域で説明されているAzureおよびAzureサービスについて詳しく知りたいクラウドアーキテクトとITプロフェッショナルを対象としています。このワークショップに参加する人は、マイクロソフト以外の他のクラウドテクノロジーにも精通していて、コースの前提条件を満たし、Azureのクロストレーニングを希望していているものとします。
+prerequisitesSection: |-
+  ワークショップのコンテンツは、インフラストラクチャとソリューション設計の300レベルのアーキテクチャ専門知識を前提としています。このワークショップに参加する前に、この前提条件を受講することをお勧めします。
+  - Microsoft Azure Essentialsコース, http&#58;//www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Module 1&#58; Whiteboard Design Session - Azure Synapse Analytics and AI
+  #### Lessons
+  - 顧客のケーススタディの確認
+  - 概念実証解決策の設計
+  - 解決策の提示
+  
+  ### Module 2&#58; Hands-On Lab - Azure Synapse Analytics and AI
+  #### Lessons
+  - Azure Synapse Analyticsワークスペースへアクセス
+  - SQLプールにサポートテーブルを作成してデータを入力
+  - 生の寄せ木張りを探索
+  - Azure Synapse SQL Serverlessで生のテキストベースのデータを探索
+  - シナプスパイプラインと認知検索
+  - セキュリティ
+  - 機械学習
+  - 監視-Azure Synapse Analyticsワークスペースへのアクセス
+  - SQLプールにサポートテーブルを作成してデータを入力
+  - 生の寄せ木張りを探索
+  - Azure Synapse SQL Serverlessで生のテキストベースのデータを探索
+  - シナプスパイプラインと認知検索
+  - セキュリティ
+  - 機械学習
+  - モニタリング
+

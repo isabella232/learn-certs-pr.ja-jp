@@ -1,0 +1,216 @@
+### YamlMime:Course
+title: Windows Server 2019 Hybrid and Azure IaaS
+metadata:
+  title: 'Course WS-012T00-A: Windows Server 2019 Hybrid and Azure IaaS'
+  description: 'Course WS-012T00-A: Windows Server 2019 Hybrid and Azure IaaS'
+uid: course.ws-012t00
+courseNumber: 'WS-012T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: コンピューティング、ストレージ、ネットワーキングなど、 Azure IaaS の基本原則について説明します。
+- skill: Windows Admin Center や PowerShell など、ハイブリッド ソリューションの実装に使用されるツールを特定する。
+- skill: Azure IaaS の AD DS と管理対象 AD DS を含む Hybrid シナリオで ID を実装します。
+- skill: AD DS と Azure AD を統合する。
+- skill: WAC、Azure Arc、Azure Automation、Azure Monitor を使用してハイブリッド シナリオを管理および監視します。
+- skill: Azure Security Center、Azure Sentinel、および Windows Update Management を使用してハイブリッド セキュリティを強化します。
+- skill: Azure Files と Azure File Sync を使用して、ハイブリッド シナリオで File Service を実装します。
+- skill: ハイブリッドおよびクラウドのみの移行、バックアップ、およびリカバリのシナリオを計画および実装します。
+- skill: Windows Server 2019 を実行中の Azure VM をデプロイし、ネットワーク、ストレージ、セキュリティを構成します。
+- skill: Windows Server 2019 を実行中の Azure VM を管理およびメンテナンスします。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+summary: |-
+  この 3 日間のコースは、主にオンプレミスの Windows Server 環境の管理の経験を持つ IT プロフェッショナルを対象としています。その目的は、Azure IaaS がホストする Windows Server ベースのワークロードを含む環境を計画、実装、および管理するための専門家を確保することです。このコースでは、Azure のハイブリッド機能を活用する方法、仮想および物理サーバー ワークロードを Azure IaaS に移行する方法、Windows Server 2019 を実行中の Azure VM を管理および保護する方法について説明します。
+
+  #### 視聴者プロフィール
+  この 3 日間のコースは、主に Windows Server 管理者とシステム エンジニアを対象としており、オンプレミスからハイブリッド環境およびクラウドのみの環境への移行に備えています。第二に、このコースは、Microsoft Azure IaaS ワークロードを対象とする管理タスクと運用タスクを含むすべてのロールに役立ちます。
+prerequisitesSection: |-
+  - AD DS、DNS、DFS、Hyper-V、File および Storage Service などのオンプレミス シナリオにおける Windows Server オペレーティング システムと Windows Server ワークロードの管理経験
+  - 一般的な Windows Server 管理ツールの経験 (最初の前提条件によって明示されます)。
+  - Microsoft のコア コンピューティング、ストレージ、ネットワーキング、および仮想化テクノロジの基本的な知識 (最初の前提条件によって明示されます)。
+  - オンプレミスの復元力に関する Windows Server ベースのコンピューティングおよびストレージ テクノロジ (Failover Clustering、Storage Space) に関する基本的な知識。
+  - Microsoft Azure での IaaS サービスの実装と管理に関する基本的な経験。
+  - Azure Active Directory の基本的な知識。
+  - セキュリティ関連技術についての基本的な理解 (ファイアウォール、暗号化、多要素認証、SIEM/SOAR)。
+  - PowerShell スクリプトについての基本的な知識。
+
+  Windows Server テクノロジに関連する次の概念の理解&#58;
+  - 高可用性と障害回復
+  - 自動化
+  - 監視
+outlineSection: |-
+  ### モジュール 1&#58; Windows Server 2019 での Azure Hybrid IaaS の紹介
+  このモジュールでは、Azure IaaS の原則 (コンピューティング、ストレージ、ネットワーキング) と、オンプレミス環境を Azure および Azure AD と統合する方法 (ネットワーク、ファイル サービス、管理、監視、バックアップと障害回復、ID) について説明します。このモジュールでは、ハイブリッド管理ツール (Windows Admin Cemter、Azure ポータル、PowerShell、Azure CLI) についても紹介します。入門モジュールとして、これらのトピックの大部分はコースの後半でより詳しく説明します。さらに、このモジュールでは、ハイブリッド統合の観点から関連するトピック以外の Windows Server 2019 テクノロジについては説明していません。
+  #### レッスン
+  - Azure IaaS の概要
+  - Azure Hybrid Model の概要
+  - ハイブリッド管理ツールの使用
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - コンピューティング、ストレージ、ネットワーキングなど、 Azure IaaS の基本原則について説明します。
+  - Windows Admin Center や PowerShell など、ハイブリッド ソリューションの実装に使用されるツールを特定する。
+
+
+  ### モジュール 2&#58; ハイブリッド シナリオでの ID の実装
+  このモジュールでは、Azure VM 上の AD DS、Azure Active Directory と 統合された AD DS、Azure AD DS など、ハイブリッド シナリオで ID 管理と認証を統合する 3 つの主要な方法を紹介します。
+  #### レッスン
+  - Azure IaaS での AD DS の実装
+  - AD DS と Azure AD の統合
+  - 管理対象の AD DS 環境の実装
+
+  #### ラボ&#58; AD DS と Azure AD の統合の実装
+  - AD DS との統合のための Azure AD の準備
+  - Azure AD との統合のためのオンプレミス AD DS の準備
+  - Azure AD Connect のダウンロード、インストール、および構成
+  - AD DS と Azure AD の統合の検証
+  - AD DS での Azure AD 統合機能の実装
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - AD DS を Azure IaaS に実装する。
+  - AD DS と Azure AD を統合する。
+  - Manaed AD DS を実装する。
+
+
+  ### モジュール 3&#58; ハイブリッド シナリオでのハイブリッド管理と運用監視の促進
+  このモジュールでは、Windows Admin Center、Azure Arc、Azure Automation、Azure Monitor など、ハイブリッド管理と運用監視 (モジュール 4 で説明されているセキュリティ関連の監視とは別) を容易にするツールに焦点を当てています。
+  #### レッスン
+  - Windows Admin Center
+  - Azure Arc
+  - Azure Monitor
+  - Azure Automation
+
+  #### ラボ&#58; ハイブリッド シナリオでの Windows Admin Center の使用
+  - Windows Server 2019 を実行する Azure VM のプロビジョニング
+  - Azure Network Adapter によるハイブリッド接続のテスト
+  - Azure での Windows Admin Center ゲートウェイのデプロイ
+  - Azure での Windows Admin Center ゲートウェイの機能の確認
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Windows Admin Center について説明、展開、および構成する。
+  - Azure Arc について説明および実装する。
+  - Azure Monitor について説明および管理する。
+  - Service Map を実装する。
+  - Azure Monitor と Operations Manager を統合する。
+
+
+  ### モジュール 4&#58; ハイブリッド シナリオでのセキュリティ ソリューションの実装
+  このモジュールでは、Azure Security Center、Azure Sentinel、Azure Monitor/Azure Automation ベースの Windows Update Management ソリューションなど、ハイブリッド セキュリティを強化する主要な手法とサービスについて説明します。
+  #### レッスン
+  - Azure Security Center
+  - Azure Sentinel
+  - Windows Update の管理
+
+  #### ラボ&#58; ハイブリッド シナリオでの Azure Security Center の使用
+  - Windows Server 2019 を実行する Azure VM のプロビジョニング
+  - Azure Security Center の構成
+  - オンプレミスの Windows Server 2019 の Azure Security Center への搭載
+  - Azure Security Center のハイブリッド機能の検証
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure Security Center について説明し、ハイブリッド環境で有効にする。
+  - Azure Sentinel について説明し、SIEM 機能を実装する。
+  - Azure Sentinel に SOAR ソリューションを実装する。
+  - Azure Automation に Update Management ソリューションを実装する。
+
+
+  ### モジュール 5&#58; ハイブリッドシナリオでの File Service の実装
+  このモジュールでは、Azure File Service を活用して、オンプレミスの Windows ファイル サーバーを置換または拡張する方法について説明します。このモジュールでは、Azure File と Azure File Sync の実装について説明します。
+  #### レッスン
+  - Azure File の実装
+  - Azure File Sync の実装
+
+  #### ラボ&#58; Azure File Sync の実装
+  - オンプレミス環境での DFS レプリケーションの実装
+  - 同期グループの作成と構成
+  - DFS レプリケーションのファイル同期ベースのレプリケーションへの置き換え
+  - レプリケーションの検証およびクラウド階層化の有効化
+  - レプリケーションの問題のトラブルシューティング
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - レプリケーションの問題のトラブルシューティング
+  - Azure File Sync について説明および実装する。
+  - クラウド階層化を管理する。
+  - DFSR から Azure File Sync に移行する。
+
+
+  ### モジュール 6&#58; Azure VM のデプロイと構成
+  このモジュールでは、Windows Server 2019 を実行中の Azure VM をデプロイして構成する方法について説明します。このモジュールでは、Azure VM のネットワーク、ストレージ、セキュリティを構成する方法について説明します。
+  #### レッスン
+  - Azure VM のデプロイ
+  - Azure VM ネットワークの構成
+  - Azure VM ストレージの構成
+  - Azure VM セキュリティの構成
+
+  #### ラボ&#58; Azure VM での Windows Server 2019 のデプロイと構成
+  - Azure VM デプロイ用の ARM テンプレートの作成
+  - VM 拡張機能ベースの構成を含むように ARM テンプレートを変更する
+  - ARM テンプレートを使用して Windows Server 2019 を実行している Azure VM をデプロイする
+  - Windows Server 2019 を実行している Azure VM への管理アクセスの構成
+  - Azure VM での Windows Server 2019 のセキュリティの構成
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure VM プラットフォーム レベルの回復力を実装する。
+  - Azure VM に Windows Server 2019 オペレーティング システム レベルの復元力を実装する。
+  - Windows Server 2019 用の Azure VM 拡張機能を実装する。
+  - Azure VM ネットワークを構成および最適化する。
+  - Azure VM ディスクを構成する。
+  - Azure VM ストレージを拡張する
+
+
+  ### モジュール 7&#58; Azure VM の管理と保守
+  このモジュールでは、Windows Server 2019 を実行中の Azure VM を管理および維持する方法について説明します。このモジュールでは、Windows Admin Center、Cloud Shell による PowerShell Remoting、Run Command、シリアル コンソール、Guest Configuration 拡張機能による Azyure ポリシーなど、Azure VM の管理および保守のためのツールについて説明します。
+  #### レッスン
+  - Windows Server 2019 を実行中の Azure VM の管理
+  - Windows Server 2019 を実行中の Azure VM のメンテナンス
+
+  #### ラボ&#58; Windows Server 2019 を実行中の Azure VM の管理
+  - Windows Server 2019 を実行する Azure VM のプロビジョニング
+  - Windows Admin Center を使用した Azure VM での Windows Server 2019 の管理
+  - PowerShell Remoting　を使用した Cloud Shell による Azure VM での Windows Server 2019 の管理
+  - Run Command を使用した Azure VM での Windows Server 2019 の管理
+  - Run Command を使用した Azure VM での Windows Server 2019 の管理
+  - Guest Configuration 拡張機能による Azure Policy を使用した Azure VM での Windows Server 2019 の管理
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure VM で Windows Server 2019 を管理する。
+  - Azure ポリシーを実装する。
+  - Windows の更新を維持する。
+  - Azure VM レベルおよびディスクレベルのバックアップと復元について説明する。
+  - Azure VM の可用性を維持する。
+
+
+  ### モジュール 8&#58; ハイブリッド シナリオでの移行および回復サービスの計画と実装
+  このモジュールでは、Windows Server 2019 と Azure サービスを利用して、ハイブリッドおよびクラウドのみの移行、バックアップ、および回復シナリオを計画および実装する方法について説明します。これらのサービスには、Azure Migrate、Storage Migration Service、Azure Backup、Azure Site Recovery、Storage Replica が含まれます。
+  #### レッスン
+  - Azure 移行
+  - Storage Migration Server
+  - Azure Site Recovery
+  - Storage Replica
+  - Azure Backup
+
+  #### ラボ&#58; Azure ベースの回復サービスの実装
+  - Windows Server 2019 を実行する Azure VM のプロビジョニング
+  - Azure Site Recovery の実装
+  - Azure Backup の実装
+
+  #### ラボ&#58; Azure ベースの回復サービスのテスト
+  - Azure Backup ベースのバックアップと復元のテスト
+  - Azure Site Recovery フェイルオーバーのテスト
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure Migrate を使用して Windows Server ワークロードを移行する。
+  - ストレージ移行サービスについて説明し、その使用に適したシナリオを特定する。
+  - Azure Site Recovery がビジネス継続性と障害回復をどのように支援するかについて説明する。
+  - Azure Site Recovery を使用して Windows サーバーを Azure に移行する。
+  - Storage Replica とその使用に適したシナリオについて説明する。
+  - Storage Replica を使用して Azure VM にストレージを複製する。
+  - Azure Backup を使用してオンプレミスのワークロードをバックアップする。
+

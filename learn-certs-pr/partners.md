@@ -2,23 +2,22 @@
 title: 'Microsoft Learning Partners and Providers | Microsoft Docs'
 description: 'Microsoft Learning Partners and Providers'
 documentationcenter: NA
-author: micsullivan
+author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 06/02/2020
-ms.author: msulliv
-ms.prod: non-product-specific
+ms.author: micsullivan
 ---
 # Microsoft ラーニング パートナー: 今日、明日のスキルを教えます
 
-![Microsoft Learning Partners banner](images/partners-banner.jpg "Microsoft Learning Partners banner")
+![Microsoft ラーニング パートナー バナー](images/partners-banner.jpg "Microsoft Learning Partners banner")
 
 Microsoft ラーニングパートナーは、スキルアップして次の職務に就きたい個人の方にも、チームのクラウドスキルを向上させたい管理職の方にも、ブレンディッドラーニング、対面学習、オンライン学習など、学習ニーズに合わせた幅広いトレーニングソリューションを提供しています。ビデオ、実践的なラボ、Microsoft 認定資格の準備を組み合わせた詳細なトレーニングソリューションで技術スキルを磨き、Microsoft の技術スキルを次のレベルに引き上げます。
 
 ## 国別に Microsoft ラーニングパートナーを検索
 
-当社の世界的なパートナーネットワークは、Microsoft のテクノロジーについて、役割に応じてカスタマイズされた柔軟なトレーニングと認定資格を提供しています。すべてのインストラクタは、厳格なトレーニングを修了し、厳しい技術認定要件を満たしている Microsoft 認定資格トレーナー(MCT)です。
+当社の世界的なパートナーネットワークは、Microsoft のテクノロジーについて、役割に応じてカスタマイズされた柔軟なトレーニングと認定資格を提供しています。すべてのインストラクタは、厳格なトレーニングを修了し、厳しい技術認定要件を満たしている Microsoft 認定資格トレーナー（MCT）です。
 
 国を選択してください：
 > [!div class="op_single_selector"]
@@ -191,7 +190,7 @@ Microsoft ラーニングパートナーは、スキルアップして次の職�
 
 | <a name="croatia"></a>クロアチア |
 |-----------|
-| [Algebra d.o.o. Maksimirska](http://thellpa.com/members/algebra/microsoft)</br>[Fast Lane CEE](https://www.fastlane.si/microsoft-training)</br>[Tech Data Corporation](https://academy.techdata.com/cz/vendor/microsoft/training/) |
+| [Algebra d.o.o.Maksimirska](http://thellpa.com/members/algebra/microsoft)</br>[Fast Lane CEE](https://www.fastlane.si/microsoft-training)</br>[Tech Data Corporation](https://academy.techdata.com/cz/vendor/microsoft/training/) |
 
 | <a name="czech-republic"></a>チェコ共和国 |
 |-----------|
@@ -251,7 +250,7 @@ Microsoft ラーニングパートナーは、スキルアップして次の職�
 
 | <a name="indonesia"></a>インドネシア |
 |-----------|
-| [ASABA COMPUTER CENTRE, PT](http://www.asaba.co.id/services)</br>[EBIZ INFOTAMA INTERINDO, PT](https://ebiz.co.id/it-solution/microsoft-services)</br>[INIXINDO PERSADA REKAYASA PT](https://www.inixindo.co.id/index.php/microsoft-certification)</br>[IVERSON TECHNOLOGY](https://learning.iverson.co.id/stream/microsoft)</br>[PT. ACTIVINDO SYSTEM INFORMATIKA](https://activetrain.net/training-dan-sertifikasi-microsoft/)</br>[PT ExecuTrain Nusantarajaya](https://www.executrain.co.id/microsoftcertificationroadmap)</br>[PT Mitra Integrasi Informatika](http://www.metrodata-training.com/training-category/1/microsoft/#training)</br>[PT SARANA SOLUSINDO INFORMATIKA](https://www.solusitraining.com/microsoft-official-courses-demand/#)</br>[PT Triutama Sistem Indonesia](http://trusttrain.com/Training.html)</br>[Trainocate Indonesia](https://trainocate.com/courses/Microsoft) |
+| [ASABA COMPUTER CENTRE, PT](http://www.asaba.co.id/services)</br>[EBIZ INFOTAMA INTERINDO, PT](https://ebiz.co.id/it-solution/microsoft-services)</br>[INIXINDO PERSADA REKAYASA PT](https://www.inixindo.co.id/index.php/microsoft-certification)</br>[IVERSON TECHNOLOGY](https://learning.iverson.co.id/stream/microsoft)</br>[PT.ACTIVINDO SYSTEM INFORMATIKA](https://activetrain.net/training-dan-sertifikasi-microsoft/)</br>[PT ExecuTrain Nusantarajaya](https://www.executrain.co.id/microsoftcertificationroadmap)</br>[PT Mitra Integrasi Informatika](http://www.metrodata-training.com/training-category/1/microsoft/#training)</br>[PT SARANA SOLUSINDO INFORMATIKA](https://www.solusitraining.com/microsoft-official-courses-demand/#)</br>[PT Triutama Sistem Indonesia](http://trusttrain.com/Training.html)</br>[Trainocate Indonesia](https://trainocate.com/courses/Microsoft) |
 
 | <a name="ireland"></a>アイルランド |
 |-----------|
@@ -445,10 +444,12 @@ Microsoft ラーニングパートナーは、スキルアップして次の職�
 |-----------|
 | [SMACLINK ACADEMY](https://smaclink.com/category/khoa-dao-tao/theo-hang-cong-nghe/microsoft/)   </br>[Trainocate](https://trainocate.com/courses/Microsoft) |
 
+
 ## 1000 を超えるソリューションプロバイダを探索
 
 > [!div class="nextstepaction"]
 > [Microsoft のソリューションプロバイダを検索](https://www.microsoft.com/en-us/solution-providers/search?cacheId=6b7c41ec-9246-4196-9541-7a4427a37f97)
+
 
 ## ITプロフェッショナルと開発者にとっての利点
 
@@ -456,7 +457,7 @@ Microsoft ラーニングパートナーは、スキルアップして次の職�
 
 ## IT管理者にとっての利点
 
-**効率と生産性を向上させます**。Microsoft ラーニングパートナーは、組織の技術投資を最大限に活用するのに役立ちます。従業員は、Microsoft 技術を習得するために、クラスルームトレーニングやMicrosoft Official Courses On-Demandを利用できます。</br ></br> **展開の準備をする**。Microsoft ラーニングパートナーズを通じて提供される専門トレーニングは、エンタープライズが新しいMicrosoft テクノロジの展開を加速し、休止時間を短縮するのに役立ちます。調査によると、稼働停止時間の40％は、コアシステムのトレーニングが大幅に不足しているために起こる、オペレータのエラーによるものです。(Anderson, Cushing.「トレーニングによるネットワーク管理への影響：認定は運用生産性につながる。」IDC調査。2009年11月25日、Network WorldのLinda Musthalerによる報告に基づく) </br ></br> **従業員の育成、募集、人材確保**。トレーニングと認定は、チームメンバーが特定のテクノロジ、ハードウェア、ソフトウェアでどれくらいうまく作業できるかを測定する効果的な方法です。</br ></br> 技術幹部の回答者の60％は、大規模なITインフラストラクチャのプロジェクトを計画する上で最大の課題の1つは、必要なときに必要な能力を持つ専門家が利用できることであると述べています。(TEKsystems/CIO Custom Solutions Group, *IT Workforce Planning Trends*, 2011年6月)
+**効率と生産性を向上させます**。Microsoft ラーニングパートナーは、組織の技術投資を最大限に活用するのに役立ちます。従業員は、Microsoft 技術を習得するために、クラスルームトレーニングやMicrosoft Official Courses On-Demandを利用できます。</br ></br> **展開の準備をする**。Microsoft ラーニングパートナーズを通じて提供される専門トレーニングは、エンタープライズが新しいMicrosoft テクノロジの展開を加速し、休止時間を短縮するのに役立ちます。調査によると、稼働停止時間の40％は、コアシステムのトレーニングが大幅に不足しているために起こる、オペレータのエラーによるものです。(Anderson, Cushing.「トレーニングによるネットワーク管理への影響：認定は運用生産性につながる。」IDC調査。2009年11月25日、Network WorldのLinda Musthalerによる報告に基づく） </br ></br> **従業員の育成、募集、人材確保**。トレーニングと認定は、チームメンバーが特定のテクノロジ、ハードウェア、ソフトウェアでどれくらいうまく作業できるかを測定する効果的な方法です。</br ></br> 技術幹部の回答者の60％は、大規模なITインフラストラクチャのプロジェクトを計画する上で最大の課題の1つは、必要なときに必要な能力を持つ専門家が利用できることであると述べています。(TEKsystems/CIO Custom Solutions Group, *IT Workforce Planning Trends*, 2011年6月)
 
 ## Microsoft ラーニングパートナーになる
 

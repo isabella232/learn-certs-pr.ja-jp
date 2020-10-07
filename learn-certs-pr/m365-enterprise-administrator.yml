@@ -6,7 +6,7 @@ metadata:
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
   Microsoft 365 Enterprise Administrators は、Microsoft 365 サービスの審査、事前計画、マイグレーション、デプロイ、管理を行います。
 
@@ -16,11 +16,11 @@ levels:
 - advanced
 skills:
 - Microsoft 365 サービスの設計と実装
-- ユーザーのアイデンティティとロールを管理します
-- アクセスと認証を管理します
+- ユーザー ID とロールの管理
+- アクセスと認証の管理
 - Office 365 のワークロードとアプリケーションの計画
 - 最新のデバイスサービスの実装
-- Microsoft 365のセキュリティと脅威管理を実装します
+- Microsoft 365 セキュリティと脅威の管理の実装
 - Microsoft 365 のガバナンスとコンプライアンスを管理します
 roles:
 - administrator
@@ -58,7 +58,7 @@ resources:
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。

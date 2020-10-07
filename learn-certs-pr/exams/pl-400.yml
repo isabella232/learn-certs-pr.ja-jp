@@ -6,7 +6,7 @@ metadata:
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
   この試験の受験者は、Power Platform ソリューションの設計、開発、保護、トラブルシューティングを行います。受験者は、アプリケーションの強化、カスタム ユーザー エクスペリエンス、システム統合、データ変換、カスタム プロセスの自動化、カスタムの可視化などを含むソリューションのコンポーネントを実装します。
 
@@ -14,8 +14,8 @@ summary: |-
 
   受験者は、Power Platform サービス、JavaScript、JSON、TypeScript、C＃、HTML、.NET、Microsoft Azure、Microsoft 365、RESTful Web サービス、ASP.NET、Microsoft Power BI などの開発経験が必要です。
 
-  <div style='font-weight&#58; bold;'><br/>注意&#58; この試験は 2020 年 10 月に利用可能になります。</div>
-subTitle: 'この試験は 2020 年 10 月に利用可能になります。「この試験では、技術設計の作成、 Common Data Service の設定、 Power Apps の作成と設定、ビジネスプロセスの自動化の設定、ユーザー エクスペリエンスの拡張、プラットフォームの拡張、統合の開発などの技術的なタスクを実行する能力を測定します。'
+  <div><strong><br/>注意&#58; この試験は 2020 年 9 月 25 日頃に利用可能になります。</strong></div>
+subTitle: 'この試験は 2020 年 9 月 25 日頃に利用可能になります。この試験では、技術設計の作成、 Common Data Service の設定、 Power Apps の作成と設定、ビジネスプロセスの自動化の設定、ユーザー エクスペリエンスの拡張、プラットフォームの拡張、統合の開発などの技術的なタスクを実行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4BeRV
 locales:
@@ -23,13 +23,13 @@ locales:
 levels:
 - intermediate
 skills:
-- Technical Design を作成する(10-15%)
-- Common Data Service を設定する(15-20%)
-- Power Apps を作成および設定する(15-20%)
+- Technical Design を作成する (10-15%)
+- Common Data Service を設定する (15-20%)
+- Power Apps を作成および設定する (15-20%)
 - ビジネス プロセス自動化を設定する (5-10%)
-- ユーザー エクスペリエンスを拡張する(10-15%)
-- プラットフォームを拡張する(15-20%)
-- 統合を開発する(5-10%)
+- ユーザー エクスペリエンスを拡張する (10-15%)
+- プラットフォームを拡張する (15-20%)
+- 統合を開発する (5-10%)
 roles:
 - developer
 products:
@@ -44,13 +44,13 @@ resources:
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認定ポスター
-  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。

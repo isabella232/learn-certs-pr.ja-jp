@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Power Platform Developer Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Developer Associate'
-  description: この認定は 2020 年 10 月に利用可能になります。Microsoft Power Platform Developer Associate 認定資格の受験者は、Power Platform ソリューションの設計、開発、保護、トラブルシューティングを行います。
+  description: この認定資格は、2020 年 9 月 25 日頃に利用可能になります。Microsoft Power Platform Developer Associate 認定資格の受験者は、Power Platform ソリューションの設計、開発、保護、トラブルシューティングを行います。
 uid: certification.power-platform-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -10,12 +10,12 @@ summary: |-
 
   Microsoft Power Platform Developer Associate 認定資格の受験者は、Power Platform ソリューションの設計、開発、保護、トラブルシューティングを行います。彼らは、アプリケーションの強化、カスタム ユーザー エクスペリエンス、システム統合、データ変換、カスタム プロセスの自動化、カスタムの可視化などを含むソリューションのコンポーネントを実装します。
 
-  受験者は、Power Platform サービスに関する高度な応用知識を持っている必要があります。受験者は、能力、境界、制約について深く理解しています。受験者は、Microsoft Power Platform の DevOps プラクティスの基本について理解している必要があります。
+  受験者は、Power Platform サービスに関する高度な応用知識を持っている必要があります。受験者は、能力、境界、制約について深く理解しています。受験者は、Power Platformの DevOps プラクティスについて基本的に理解している必要があります。
 
   このロールの開発経験には、Power Platform サービス、JavaScript、JSON、TypeScript、C＃、HTML、.NET、Microsoft Azure、Microsoft 365、RESTful Web サービス、ASP.NET、Power BI が含まれます。
 
-  <div><br/><strong>注意&#58; この認定は 2020 年 10 月に利用可能になります。</strong></div>
-subTitle: この認定は 2020 年 10 月に利用可能になります。Microsoft Power Platform Developer Associate 認定資格の受験者は、Power Platform ソリューションの設計、開発、保護、トラブルシューティングを行います。
+  <div><br/><strong>注意&#58; この認定資格は、2020 年 9 月 25 日頃に利用可能になります。</strong></div>
+subTitle: この認定資格は、2020 年 9 月 25 日頃に利用可能になります。Microsoft Power Platform Developer Associate 認定資格の受験者は、Power Platform ソリューションの設計、開発、保護、トラブルシューティングを行います。
 levels:
 - intermediate
 skills:
@@ -37,19 +37,22 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhz
 exams:
 - uid: exam.pl-400
 resources:
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認証への道のり
+  description: 認定を受けるための手順と、準備に役立つリソースをご確認ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
-  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
-- title: 資格のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
-  href: help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: help.md
 

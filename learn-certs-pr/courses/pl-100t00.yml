@@ -1,0 +1,53 @@
+### YamlMime:Course
+title: Microsoft Power Platform App Maker
+metadata:
+  title: 'Course PL-100T00-A: Microsoft Power Platform App Maker'
+  description: 'Course PL-100T00-A: Microsoft Power Platform App Maker'
+uid: course.pl-100t00
+courseNumber: 'PL-100T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: アプリを設計してワークフローを自動化する
+- skill: アプリを作成してワークフローを自動化する
+- skill: アプリまたは自動化されたワークフローのコンテキスト内のデータを分析して視覚化する
+- skill: アプリと自動ワークフローを実装および管理する
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-100
+summary: |-
+  このコースでは、Microsoft Power Platform を使用してビジネス タスクとプロセスを簡素化、自動化、変換するためのローコード テクニックを使用してアプリを構築する方法について説明します。
+
+  #### 視聴者プロフィール
+  App Maker は、ソリューション ビジネス ドメインに深い専門知識を持っている自身やチームのために、タスクとプロセスを簡素化、自動化、変換するソリューションを構築します。基本的なデータ モデリング、ユーザー エクスペリエンスの設計、要件分析、およびプロセス分析のスキルがあります。App Maker は、ビジネス プロセスを作成して適用し、情報のデジタル コレクションを構築し、繰り返し可能なタスクの効率を向上させ、ビジネス プロセスを自動化します。App Maker は、Power Platform の Maker ツールを使用してビジネス上の問題を解決します。Microsoft のアプリやサードパーティの生産性向上ツールの高度な機能を使用する場合もあります。App Maker は、利用可能なツールの機能と制限を認識しており、それらを適用する方法を理解しています。App Makerは自己駆動型で、ソリューションに焦点を当てています。彼らは正式な IT トレーニングは受けていないかもしれませんが、テクノロジを使用して個人的な成長の考え方でビジネスの問題を解決することに慣れています。彼らは運用上の必要性を理解し、望ましい結果のビジョンを持っています。彼らは段階的かつ反復的な戦略で問題に取り組みます。
+prerequisitesSection: |-
+  - 基本的なデータ モデリング、ユーザー エクスペリエンスの設計、要件分析、およびプロセス分析のスキル。
+  - 自身の成長を求めるマインドセットを持ち、テクノロジを使用してビジネス上の問題を解決することに慣れている。
+  - 運用上の必要性を理解し、望ましい結果のビジョンを持っている。彼らは段階的かつ反復的な戦略で問題に取り組みます。
+outlineSection: |-
+  ### モジュール 1&#58; Power Apps でモデル駆動型アプリケーションを作成する
+  このモジュールでは、Common Data Service を使用する Power Apps でモデル駆動型アプリを作成する方法を紹介します。
+
+  ### モジュール 2&#58; Power Apps でキャンバス アプリを作成する
+  このモジュールでは、Power Apps を紹介し、アプリの作成とカスタマイズ、およびアプリの管理と配信をサポートします。
+
+  ### モジュール 3&#58; Power Apps のキャンバス アプリで UI とコントロールを使用する
+  このモジュールでは、最高のアプリ ナビゲーションを提供する方法に焦点を当て、テーマ、アイコン、画像、パーソナライゼーション、さまざまなフォーム ファクタ、およびコントロールを使用して最高の UI を構築します。
+
+  ### モジュール 4&#58; Power Automate を使用してビジネス プロセスを自動化する
+  このモジュールでは、Power Automate を紹介し、ワークフローの構築方法とフローの管理方法について説明します。
+
+  ### モジュール 5&#58; Power BI で分析レポートを作成して使用する
+  Power BI とは何か、そのビルディング ブロックとそれらがどのように連携するかを学びます。
+
+  ### モジュール 6&#58; AI Builder を使ってみる
+  このモジュールは、最初から AI モデルを構築するのに役立ち、コードを 1 行も書かずにビジネスでそれを使用する方法を示します。
+

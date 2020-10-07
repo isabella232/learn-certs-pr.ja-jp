@@ -3,17 +3,27 @@ title: Microsoft Azure Security Technologies
 metadata:
   title: 'Course AZ-500T00-A: Microsoft Azure Security Technologies'
   description: 'Course AZ-500T00-A: Microsoft Azure Security Technologies'
-  iltScheduling: true
 uid: course.az-500t00
 courseNumber: 'AZ-500T00-A'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Azure の特殊なデータ分類を説明する
-- skill: Azure データ保護メカニズムを特定する
-- skill: Azure データ暗号化方法を実装する
-- skill: セキュリティで保護されたインターネット プロトコルとそれらを Azure に実装する方法
-- skill: Azure のセキュリティ サービスと機能を説明する
+- skill: ロールベースのアクセス制御、Azure ポリシー、リソース ロックなどの企業ガバナンス戦略を実装します。
+- skill: ユーザー、グループ、および多要素認証を含む Azure AD インフラストラクチャを実装する。
+- skill: リスク ポリシー、条件付きアクセス、アクセス レビューを含む Azure AD Identity Protection を実装します。
+- skill: Azure AD ロールと Azure リソースを含む Azure AD Privileged Identity Management を実装する。
+- skill: 認証方法とオンプレミスのディレクトリ同期を含む Azure AD Connect を実装する。
+- skill: Azure Firewall を含むペリメータ セキュリティ戦略を実装する。
+- skill: Network Security Group や Application Security Group などのネットワーク セキュリティ戦略を実装する。
+- skill: エンドポイント保護、リモート アクセス管理、更新管理、ディスク暗号化などのホスト セキュリティ戦略を実装します。
+- skill: Azure Container Instances、Azure Container Registry、Azure Kubernetes などのコンテナ セキュリティ戦略を実装する。
+- skill: 証​​明書、キー、シークレットを含む Azure Key Vault を実装する。
+- skill: アプリの登録、管理対象 ID 、サービス エンドポイントなどのアプリケーション セキュリティ戦略を実装する。
+- skill: 共有アクセス署名、Blob 保持ポリシー、 Azure Files 認証などのストレージ セキュリティ戦略を実装する。
+- skill: 認証、データ分類、動的データ マスキング、Always Encrypted などのデータベース セキュリティ戦略を実装する。
+- skill: 接続されたソース、ログ分析、アラートを含む Azure Monitor を実装する。
+- skill: ポリシー、推奨事項、およびジャストインタイムの仮想マシン アクセスを含む Azure Security Center を実装する。
+- skill: ワークブック、インシデント、およびプレイブックを含む Azure Sentinel を実装する。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -31,48 +41,107 @@ products:
 exams:
 - uid: exam.az-500
 summary: |-
-  このコースでは、さまざまなセキュリティツールを使用して、セキュリティ コントロールの実装、セキュリティ体制の維持、脆弱性の特定と修復に必要な知識とスキルを習得します。
+  このコースでは、IT セキュリティの専門家に、セキュリティ管理の実装、組織のセキュリティ体制の維持、およびセキュリティの脆弱性の特定と修復に必要な知識とスキルを提供します。このコースには、ID とアクセスのセキュリティ、プラットフォームの保護、データとアプリケーション、およびセキュリティ運用が含まれます。
 
-  このコースでは、スクリプト作成と自動化、仮想化、クラウド N 層アーキテクチャについて説明します。
-
-  #### 聴衆プロファイル
-  学生は、少なくとも 1 年の Azure ワークロードを保護する実践的な経験と、Azure 上のワークロードのセキュリティ制御の経験が必要です。
+  #### 視聴者プロフィール
+  このコースは、関連する認定試験の受験を計画している、または日常業務でセキュリティ タスクを実行している Azure Security Engineer を対象としています。このコースは、Azure ベースのデジタル プラットフォームにセキュリティを提供することを専門とし、組織のデータを保護するうえで不可欠な役割を果たすエンジニアにも役立ちます。
 prerequisitesSection: |-
-  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/learn/certifications/azure-administrator)
+  このコースを最大限に活用するには、受講者は次のことを行う必要があります。
+  - 多層防御、最小権限の原則、ロールベースのアクセス制御、多要素認証、共有責任、ゼロ信頼モデルなど、セキュリティのベスト プラクティスと業界のセキュリティ要件について理解する。
+  - Virtual Private Network (VPN)、Internet Security Protocol (IPSec)、Secure Socket Layer (SSL)、ディスクおよびデータの暗号化方法などのセキュリティ プロトコルに精通している。
+  - Azure ワークロードのデプロイの経験がある。このコースでは、Azure 管理の基本については触れませんが、コース内容はセキュリティ固有の情報を追加することにより、その知識に基づいて構築されています。
+  - Windows および Linux オペレーティング システムとスクリプト言語の経験がある。コース ラボでは PowerShell と CLI を使用できます。
+
+  クラスの準備をするには、この無料のオンライン トレーニングの受講を検討してください。
+  - [Azure Fundamentals](/learn/paths/azure-fundamentals/)
+  - [AZ-104&#58; Prerequisites for Azure Administrators](/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
-  ### モジュール 1&#58; ID およびアクセス
+  ### モジュール 1&#58; アイデンティティとアクセスの管理をする
+  このモジュールでは、Azure Active Directory、Azure Identity Protection、Enterprise Governance、Azure AD PIM、Hybrid Identity について説明します。
   #### レッスン
-  - Azure ワークロードとサブスクリプション用に Azure Active Directory を構成する
-  - Azure AD Privileged Identity Management を構成する
-  - Azure サブスクリプションのセキュリティを構成する
+  - Azure Active Directory
+  - Azure Identity Protection
+  - 企業ガバナンス
+  - Azure AD Privileged Identity Management
+  - Hybrid Identity
+
+  #### ラボ&#58; ロールベースのアクセス制御
+
+  #### ラボ&#58; Azure Policy
+
+  #### ラボ&#58; Resource Manager Locks
+
+  #### ラボ&#58; MFA、条件付きアクセス、および AAD ID 保護
+
+  #### ラボ&#58; Azure AD Privileged Identity Management
+
+  #### ラボ&#58; ディレクトリの同期を実装する
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - ロールベースのアクセス制御、Azure ポリシー、リソース ロックなどの企業ガバナンス戦略を実装します。
+  - ユーザー、グループ、および多要素認証を含む Azure AD インフラストラクチャを実装する。
+  - リスク ポリシー、条件付きアクセス、アクセス レビューを含む Azure AD Identity Protection を実装します。
+  - Azure AD ロールと Azure リソースを含む Azure AD Privileged Identity Management を実装する。
+  - 認証方法とオンプレミスのディレクトリ同期を含む Azure AD Connect を実装する。
 
 
-  ### モジュール 2&#58; プラットフォーム保護
+  ### モジュール 2&#58; プラットフォーム保護の実装をする
+  このモジュールでは、ペリメータ、ネットワーク、ホスト、およびコンテナのセキュリティについて説明します。
   #### レッスン
-  - クラウド セキュリティを理解する
-  - ネットワークを構築する
-  - 安全なネットワーク
-  - ホスト セキュリティを実装する
-  - プラットフォーム セキュリティを実装する
-  - サブスクリプション セキュリティを実装する
+  - ペリメータ セキュリティ
+  - ネットワーク セキュリティ
+  - ホスト セキュリティ
+  - コンテナ セキュリティ
+
+  #### ラボ&#58; ネットワーク セキュリティ グループとアプリケーション セキュリティ グループ
+
+  #### ラボ&#58; Azure Firewall
+
+  #### ラボ&#58; ACR および AKS の構成と保護
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - Azure Firewall を含むペリメータ セキュリティ戦略を実装する。
+  - Network Security Group や Application Security Group などのネットワーク セキュリティ戦略を実装する。
+  - エンドポイント保護、リモート アクセス管理、更新管理、ディスク暗号化などのホスト セキュリティ戦略を実装します。
+  - Azure Container Instances、Azure Container Registry、Azure Kubernetes などのコンテナ セキュリティ戦略を実装する。
 
 
-  ### モジュール 3&#58; セキュリティ運用
+  ### モジュール 3&#58; データとアプリケーションの安全をする
+  このモジュールでは、Azure Key Vault、アプリケーション セキュリティ、ストレージ セキュリティ、SQL データベース セキュリティについて説明します。
   #### レッスン
-  - セキュリティ サービスを設定する
-  - Azure Security Center を使用してセキュリティ ポリシーを構成する
-  - セキュリティ アラートを管理する
-  - セキュリティ問題に対応および修正する
-  - セキュリティ ベースラインの作成
+  - Azure Key Vault
+  - アプリケーション セキュリティ
+  - ストレージ セキュリティ
+  - SQL データベース セキュリティ
+
+  #### ラボ&#58; Key Vault (Always Encrypted を設定して安全なデータを実装する)
+
+  #### ラボ&#58; Azure SQL データベースの保護
+
+  #### ラボ&#58; サービス エンドポイントとストレージの保護
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - 証​​明書、キー、シークレットを含む Azure Key Vault を実装する。
+  - アプリの登録、管理対象 ID 、サービス エンドポイントなどのアプリケーション セキュリティ戦略を実装する。
+  - 共有アクセス署名、Blob 保持ポリシー、 Azure Files 認証などのストレージ セキュリティ戦略を実装する。
+  - 認証、データ分類、動的データ マスキング、Always Encrypted などのデータベース セキュリティ戦略を実装する。
 
 
-  ### モジュール 4&#58; データとアプリケーション
+  ### モジュール 4&#58; セキュリティ運用の管理をする
+  このモジュールでは、Azure Monitor、Azure Security Center、Azure Sentinel について説明します。
   #### レッスン
-  - データを管理するためのセキュリティ ポリシーを設定する
-  - データ インフラストラクチャのセキュリティを設定する
-  - 保存データの暗号化を設定する
-  - アプリケーション セキュリティを理解する
-  - アプリケーション ライフサイクルのためのセキュリティを実装する
-  - 安全なアプリケーション
-  - Azure Key Vault を設定および管理する
+  - Azure Monitor
+  - Azure Security Center
+  - Azure Sentinel
+
+  #### ラボ&#58; Azure Monitor
+
+  #### ラボ&#58; Azure Security Center
+
+  #### ラボ&#58; Azure Sentinel
+
+  学生はこのモジュールの完了後、次のことができるようになります&#58;
+  - 接続されたソース、ログ分析、アラートを含む Azure Monitor を実装する。
+  - ポリシー、推奨事項、およびジャストインタイムの仮想マシン アクセスを含む Azure Security Center を実装する。
+  - ワークブック、インシデント、およびプレイブックを含む Azure Sentinel を実装する。
 
