@@ -7,8 +7,8 @@ uid: exam.ms-200
 displayName: MS-200
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>本試験の新バージョン<a href="/learn/certifications/exams/az-203">MS-203</a>, は、2020年6月2日に受験できるようになりました。本試験は、 2020年8月31日前後に終了するまで、受験することができます。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます<br/></></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
+  <div><strong>この試験は 2020 年 8 月 31 日に廃止されました。代替試験 MS-203 の受験が可能です。詳細については、<a href="/learn/certifications/exams/ms-203">MS-203 試験の詳細ページをご覧ください</a>。</strong><br/><br/></div>
   </div>
 
   この試験の受験者は、オンプレミスとクラウドエンタープライズ環境における受信者、パーミッション、メール保護、メールフロー、パブリックフォルダを展開、設定、管理、トラブルシューティング、監視するメッセージング管理者です。
@@ -17,21 +17,18 @@ summary: |-
 
   メッセージング管理者は、現代的な組織のビジネスニーズに合致するセキュアハイブリッドトポロジーを、セキュリティ管理者とMicrosoft 365 エンタープライズ管理者とともに協調して実装します。
 
-  メッセージング管理者は認証タイプ、ライセンス契約、Microsoft 365アプリケーションとの統合についての実務知識を持っている必要があります。
-
-  <div style='font-weight&#58; bold;'><br/>注意&#58; この試験に合格すると、次の認定資格を取得できます&#58; <a href="/learn/certifications/m365-messaging-administrator">Microsoft 365 Certified&#58; Messaging Administrator Associate</a>.</div>
+  メッセージング管理者は認証タイプ、ライセンス契約、Microsoft 365 アプリケーションとの統合についての実務知識を持っている必要があります。
 subTitle: 'この試験では、次の一覧に示す技術タスクを遂行する能力を評価します:最新のメッセージング インフラストラクチャを管理する、メール フロー トポロジを管理する、受信者とデバイスを管理する'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MS-200&examname=Exam%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-200
 locales:
 - en
 levels:
 - intermediate
 skills:
 - モダンメッセージインフラストラクチャの管理 (45-50%)
-- メールフローテクノロジーの管理(35-40%)
+- メールフローテクノロジーの管理 (35-40%)
 - 受信者とデバイスの管理 (15-20%)
 retirementDate: 08/31/2020
 roles:
@@ -58,7 +55,7 @@ resources:
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
 - title: 資格試験のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: ../help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。

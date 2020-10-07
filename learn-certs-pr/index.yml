@@ -1,6 +1,6 @@
 ### YamlMime:CertificationHome
 
-title: Microsoft 認定資格
+title: Microsoft Certifications
 summary: あなたが今日の技術的ロールおよび要件に通用していることを示す認定資格を取得しましょう。認定パスを検出するジョブロールを選択します。
 
 roles:
@@ -29,13 +29,13 @@ roles:
     summary: セキュリティ エンジニアは、セキュリティ制御と脅威からの保護を実装し、 ID とアクセスを管理し、データ、アプリケーション、およびネットワークを保護します。
     url: /learn/certifications/roles/security-engineer
   - name: functional-consultant
-    summary: 機能コンサルタントは、 Microsoft Dynamics 365 を活用して、顧客のニーズに対して予測し、計画します。
+    summary: 機能コンサルタントは、Microsoft Dynamics 365 と Microsoft Power Platform を活用して、顧客のニーズを予測および計画します。
     url: /learn/certifications/roles/functional-consultant
 
 
 certificationsSection:
   title: Microsoft 認定資格者になる
-  summary: "Microsoft には、多くの技術職のための認定パスがあります。これらの各認定資格は、認定を取得するための一連の試験に合格することから成ります。"
+  summary: Microsoft には、多くの技術職のための認定パスがあります。これらの各認定資格は、認定を取得するための一連の試験に合格することから成ります。
   tiers:
     - title: Fundamentals 認定資格
       summary: 推奨される開始時期。テクノロジーをまさに始めようとしている個人に役立つ理想的な開始時期。
@@ -45,7 +45,7 @@ certificationsSection:
         - uid: certification.power-platform-fundamentals
       browseLink:
         text: 基本的な認定資格を閲覧する
-        url: /learn/certifications/browse?levels=beginner&term=fundamentals 
+        url: /learn/certifications/browse/?type=fundamentals 
     - title: ロールベースの認定資格
       summary: ロールベースの認定資格を選択して、重要な職務のスキルの学習を開始します。
       certifications:
@@ -64,6 +64,13 @@ certificationsSection:
       browseLink:
         text: 別の認定資格を閲覧する
         url: /learn/certifications/browse?resource_type=certification
+
+upworkSection:
+    title: 追加の収入を得たいですか？
+    summary: 弊社は、Upwork と提携して、Azure 認定フリーランサーとお客様をつなぎます。
+    signupLink:
+        text: Upwork に登録
+        url: https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRw3HkB8qWX5Iq22_B4ihseZUN1haSVVPNUpINTRFRVRaQ1BRSzNCRllQNS4u
 
 trainingSection:
   title: 認定資格の準備方法
@@ -93,7 +100,7 @@ resourcesSection:
       summary: 私たちの世界的なパートナー ネットワークは、Microsoft テクノロジーに関する、柔軟かつソリューションを元にした、カスタマイズ済みのトレーニングを提供します。
       url: https://www.microsoft.com/learning/partners.aspx
     - title: 認定資格および試験のサポート
-      summary: サポート フォーラムでサポートを得る。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+      summary: サポート フォーラムでサポートを得る。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
       url: /learn/certifications/help
     - title: すべての認定資格および試験を閲覧する
       summary: すべての認定資格を確認して、キャリアを次のレベルに引き上げましょう。
@@ -104,7 +111,7 @@ statisticsSection:
   summary: 認定資格は、業界で認められているロールベースのスキルの証拠としてプロフェッショナルな優位性を提供します。
   video:
     pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
-    iframeTitle: Microsoft 認定資格
+    iframeTitle: Microsoft Certifications
     iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
     title: Microsoft 認定資格の利点
     summary: 認定資格の取得により、マイクロソフト認定を受けた技術者の 23％ が、給与が最大 20％ 増加したと報告しました。さらに、認定資格を持つ社員は、同僚の監督を任されることが多く、昇進が早くなります。ー2017 年ピアソン VUE Value of Certification ホワイト ペーパー。
@@ -117,4 +124,4 @@ statisticsSection:
       note: IDC/Microsoft、Cloud Skills and Organizational Influence* How Cloud Skills Are Accelerating the Careers of IT Professional、 2017 年 5 月
     - title: 36.9%
       summary: IT プロフェッショナルのサマリーは、認定資格のお陰で複雑なタスクに自信を持って取り組めると述べました。
-      note: ピアソン VUE、The Value of IT Certification Survey、2017 年 1 月
+      note: ピアソン VUE、「The Value of IT Certification Survey」、2017年1月

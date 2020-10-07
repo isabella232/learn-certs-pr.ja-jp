@@ -15,6 +15,13 @@ summary: |-
   Azure Solution Architect は、クラウド管理者、クラウド DBA、およびクライアントとパートナーを組み、ソリューションを実装します。
 
   この認定資格の受験者は、ネットワーキング、仮想化、アイデンティティ、セキュリティ、ビジネス継続性、障害回復、データ プラットフォーム、予算編成、ガバナンスなど、IT 運用の高度な経験と知識を持っている必要があります。このロールは各領域での決定がソリューション全体に与える影響を管理する必要があります。さらに、このロールには、Azure 管理のエキスパート レベルのスキルを持ち、Azure 開発プロセスと DevOps プロセスの経験が必要です。
+
+  <div><strong><br/>注意&#58; 次の試験の組み合わせのいずれかに合格すると、この認定資格を取得することができます。<ul>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> そして <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
+  <li><a href="/learn/certifications/exams/az-303">AZ-303</a> そして <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> そして <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-301">AZ-301</a> そして <a href="/learn/certifications/exams/az-303">AZ-303</a></li>
+  </ul></strong></div>
 subTitle: Azure Solution Architects は、コンピューティング、ネットワーク、ストレージ、セキュリティなどの側面を含む、Microsoft Azure で実行されるソリューションを設計および実装します。
 levels:
 - advanced
@@ -88,7 +95,7 @@ resources:
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。

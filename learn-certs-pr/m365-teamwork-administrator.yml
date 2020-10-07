@@ -7,8 +7,8 @@ uid: certification.m365-teamwork-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div>
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div><strong>この認定資格は 2020 年 8 月 31 日に廃止されます。その日以降、この認定資格を取得することはできなくなります。終了日前に取得した認定資格は、今後も <a href="https://www.microsoft.com/learning/dashboard.aspx">認定資格ダッシュボード</a>におけるトランスクリプトに表示されます。</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
+  <div><strong>この認定資格は 2020 年 8 月 31 日に廃止されました。終了日前に取得した認定資格は、今後も <a href="https://www.microsoft.com/learning/dashboard.aspx">認定資格ダッシュボード</a>におけるトランスクリプトに表示されます</a>。</strong><br/><br/></div>
   </div>
 
   Microsoft 365 Teamwork Administrators は、SharePoint（オンライン、オンプレミス、ハイブリッド）、OneDrive、Teamsなど、効率的かつ効果的なコラボレーションに焦点を当てた Office 365 ワークロードを構成、展開、および管理します。
@@ -61,7 +61,7 @@ resources:
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。

@@ -1,0 +1,57 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Azure Stack'
+metadata:
+  title: 'Course 40522-G: Microsoft Cloud Workshop: Azure Stack'
+  description: 'Course 40522-G: Microsoft Cloud Workshop: Azure Stack'
+uid: course.40522
+courseNumber: '40522-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: アプリケーションと展開モデルのAzureを活用するハイブリッドクラウドシステムを推奨および設計
+- skill: お客様の要件に基づいて、AzureパブリッククラウドとAzure Stackのどちらが適切かを理解
+- skill: AzureパブリッククラウドソリューションとAzure Stackの間の可能な統合についての説明
+- skill: Azure Stackの分類（テナント、リージョン、サブスクリプション、オファー、プラン、サービス、割り当て）を理解
+- skill: Azure Stack のために使えるリソースプロバイダーについて説明
+- skill: Azure publlic cloudとAzure stackの間のハイブリッド接続を設計および展開
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このワックショップでは、AzureパブリッククラウドとAzure Stackを組み合わせてハイブリッドクラウドアーキテクチャを設計する方法を学びます。この機能的なアーキテクチャにより、お客様は、Azureを「場所」としてではなく、Azureへの投資を「クラウドプラットフォーム」として活用できるようになります。どちらのシステムがAzure public cloudに向いていて、どちらがAzure stackjにもっと適しているのかどうかを決められるようにもなります。
+
+  #### Audience profile
+  このワークショップは、クラウドテクノロジーのインフラストラクチャとソリューションの設計に関するアーキテクチャの専門知識を持ち、「このコースについて」と「コース修了時」の領域で説明されているAzureおよびAzureサービスについて詳しく知りたいクラウドアーキテクトとITプロフェッショナルを対象としています。このワークショップに参加する人は、マイクロソフト以外の他のクラウドテクノロジーにも精通していて、コースの前提条件を満たし、Azureのクロストレーニングを希望しているものとします。
+outlineSection: |-
+  ### Module 1&#58; Whiteboard Design Session - Azure Stack Migrate or Azure Stack Operate
+  #### Lessons
+  - 顧客のケーススタディの確認
+  - 概念実証解決策の設計
+  - 解決策の提示
+
+  ### Module 2&#58; Hands-on Lab - Azure Stack
+
+  #### Lab &#58; Azure Stack Migrate
+
+  - テナントのAzure Stack Hubデプロイメント分類法の作成
+  - Contoso Financial Webアプリケーションを展開
+  - 顧客がWeb APIを提供することを展開
+  - Azure機能によるバックエンドプロセスの自動化
+  - Contoso Finance Admin ウェブサイトを展開
+
+  #### Lab &#58; Azure Stack Operate
+
+  - Azure Stack Hub Marketplaceアイテムを作成して公開
+  - マルチテナンシーを実装
+  - プラン、オファー、サブスクリプションの委任管理を実装
+  - 役割によるのロールベースアクセス制御を構成
+  - 特権エンドポイントに接続して操作
+  - Azure Stack Hubインフラストラクチャバックアップを実装
+
+
