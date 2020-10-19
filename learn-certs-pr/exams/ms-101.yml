@@ -60,7 +60,7 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 宿泊施設をリクエスするト
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
-  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: ../request-accommodations.md
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
