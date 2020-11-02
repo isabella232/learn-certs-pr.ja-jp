@@ -6,7 +6,9 @@ metadata:
 uid: exam.dp-900
 displayName: DP-900
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div><div><strong>本試験の内容は、2020 年 10 月 22 日 に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  </div>
 
   この試験の受験者は、コア データの概念と、Microsoft Azure データ サービスを使用してそれらを実装する方法についての基礎知識を持っている必要があります。
 
@@ -15,19 +17,29 @@ summary: |-
   受験者は、リレーショナル データと非リレーショナル データの概念、およびトランザクションや分析などのさまざまなタイプのデータ ワークロードに精通している必要があります。
 
   Azure Data Fundamentals は、Azure Database Administrator Associate や Azure Data Engineer Associate などの他の Azure ロールベースの認定の準備に使用できますが、いずれの前提条件でもありません。
-subTitle: 'コアデータの概念、Azure でリレーショナル データを操作する方法、Azure で非リレーショナル データを操作する方法、Azure の分析ワークロードについて説明できることを証明します。'
+subTitle: 'アデータの概念、Azure でリレーショナル データを操作する方法、Azure で非リレーショナル データを操作する方法、Azure の分析ワークロードについて説明できることを証明します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
+practiceTestUrl: https://in.mindhub.com/dp-900-microsoft-azure-data-fundamentals-microsoft-official-practice-test/p/MU-DP-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 - providerType: gsi
   examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=DP-900&provider=psi&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- fr
+- de
+- es
 levels:
 - beginner
 skills:
+- 本試験の内容は、2020年10月22日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
 - コアデータの概念について説明する (15-20%)
 - Azure でリレーショナルデータを操作する方法について説明する (25-30%)
 - Azure で非リレーショナルデータを操作する方法について説明する (25-30%)
@@ -54,7 +66,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
+- title: 認証ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -66,7 +78,7 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊施設をリクエスするト
+- title: Request accommodations
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: ../request-accommodations.md
 - title: 試験のポリシーと FAQ

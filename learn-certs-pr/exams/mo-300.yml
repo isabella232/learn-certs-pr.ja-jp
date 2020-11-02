@@ -6,7 +6,7 @@ metadata:
 uid: exam.mo-300
 displayName: MO-300
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
 
   この試験は、プレゼンテーションの管理と作成、シェイプとスライドの挿入とフォーマット、スライド内容の作成、トランジションとアニメーションの適用および複数のプレゼンテーションの管理などの能力をカバーしています。プレゼンテーションの例には、プロフェッショナル レベルのセールス プレゼンテーション、従業員トレーニング、教材、キオスク スライドショーなどが含まれます。受験者は、PowerPoint の主要な機能の正しい適用を実証し、タスクを個別に完了することが期待されます。
 subTitle: この試験では、プレゼンテーションの管理と作成、シェイプとスライドの挿入とフォーマット、スライド内容の作成、トランジションとアニメーションの適用および複数のプレゼンテーションの管理など、プレゼンテーションやスライドショーを作成、編集、強化する能力を評価します。プレゼンテーションの例には、プロフェッショナル レベルのセールス プレゼンテーション、従業員トレーニング、教材、キオスク スライドショーなどが含まれます。
@@ -30,16 +30,18 @@ locales:
 - pl
 - el-gr
 - zh-cn
+- zh-tw
+- ja
 levels:
 - intermediate
 skills:
-- プレゼンテーションの管理
+- プレゼンテーションを管理する
 - スライドを管理する
-- テキスト、図形、画像の挿入と書式設定
-- 表、チャート、smartArt、3Dモデル、およびメディアを挿入する
-- 画面を切り替えるおよびアニメーションを適用する
+- テキスト、図形、画像を挿入して書式設定する
+- 表、チャート、smartArt、3D モデル、およびメディアを挿入する
+- 画面の切り替えおよびアニメーションを適用する
 roles:
-- developer
+- business-user
 products:
 - office
 - office-powerpoint
@@ -53,7 +55,7 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊施設をリクエスするト
+- title: Request accommodations
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: ../request-accommodations.md
 - title: 試験のポリシーと FAQ

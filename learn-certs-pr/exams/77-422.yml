@@ -1,18 +1,18 @@
 ### YamlMime:Examination
-title: PowerPoint 2013
+title: Microsoft PowerPoint 2013
 metadata:
-  title: 'Exam 77-422: PowerPoint 2013'
-  description: 'Exam 77-422: PowerPoint 2013'
+  title: 'Exam 77-422: Microsoft PowerPoint 2013'
+  description: 'Exam 77-422: Microsoft PowerPoint 2013'
 uid: exam.77-422
 displayName: 77-422
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<A href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
 
-  PowerPoint の専門知識を実証するために学習します。このオールインワン スタディ ガイドを使用して、2013年 PowerPoint Microsoft Office Specialist (MOS) 試験の演習および準備をします。基本的なスキルを復習するためのわかりやすい手順とイラストとともに、完全かつ客観的な試験の適用範囲を網羅していることをご確認ください。加えて、ハンズオン プラクティス タスクを入手し、学習したことを適用してください。ガイドにはダウンロード可能な演習ファイルが含まれています。
-subTitle: 'この試験の受験者は、Office を使用して安全で柔軟性の高いアプリケーションを構築する IT プロフェッショナルを対象としています。'
+  この Microsoft Office Specialist (MOS) PowerPoint 2013 試験の受験者は、PowerPoint 環境に関する基礎知識を持ち、独力でタスクを完了できる必要があります。受験者は、プレゼンテーションの管理と作成、シェイプとスライドの挿入とフォーマット、スライド内容の作成、トランジションとアニメーションの適用および複数のプレゼンテーションの管理ができる方を対象としています。
+subTitle: 'この Microsoft Office Specialist (MOS) PowerPoint 2013 試験の受験者は、PowerPoint 環境に関する基礎知識を持ち、独力でタスクを完了できる必要があります。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXb
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=77-422&examname=PowerPoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-422
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -32,10 +32,10 @@ locales:
 levels:
 - beginner
 skills:
-- プレゼンテーションの作成と管理
+- プレゼンテーションを作成および管理する
 - 図形とスライドを挿入および書式を設定する
 - スライド コンテンツを作成する
-- トランジションおよびアニメーションを適用する
+- 切り替えとアニメーションを適用する
 - 複数のプレゼンテーションの管理
 roles:
 - business-user
@@ -43,7 +43,7 @@ products:
 - office-powerpoint
 relatedCertifications:
 - related:
-    uid: certification.microsoft-office-specialist-certification-2013
+    uid: certification.mos-powerpoint-2013
 - related:
     uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
@@ -53,7 +53,7 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊施設をリクエスするト
+- title: Request accommodations
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: ../request-accommodations.md
 - title: 試験のポリシーと FAQ

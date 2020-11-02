@@ -6,7 +6,7 @@ metadata:
 uid: exam.77-421
 displayName: 77-421
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
 
   この Microsoft OneNote 2013 試験の受験者は、OneNote 環境に関する基礎知識を持ち、独力でタスクを完了できる必要があります。対象者は OneNote 2013 の主な機能の正しい使い方を理解しており、デモンストレーションを実行できる必要があります。
 
@@ -21,8 +21,8 @@ locales:
 levels:
 - beginner
 skills:
-- OneNote 環境の管理 (25–30%)
-- 他のユーザーとの共有および共同作業 (15-20%)
+- OneNote環境の管理 (25-30%)
+- 他のユーザーと共有して共同作業 (15-20%)
 - メモの整理および理解 (20-25%)
 - OneNote コンテンツの編集およびリンク (25-30%)
 roles:
@@ -31,7 +31,9 @@ products:
 - office-onenote
 relatedCertifications:
 - related:
-    uid: none
+    uid: certification.mos-onenote-2013
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
@@ -39,7 +41,7 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊施設をリクエスするト
+- title: Request accommodations
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: ../request-accommodations.md
 - title: 試験のポリシーと FAQ

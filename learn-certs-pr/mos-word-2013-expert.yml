@@ -1,0 +1,42 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Word 2013 Expert'
+metadata:
+  title: 'Microsoft Office Specialist: Word 2013 Expert'
+  description: 'マイクロソフト オフィス スペシャリスト: Word 2013 Expert'
+uid: certification.mos-word-2013-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
+
+  この認定資格はMicrosoft Office Specialist Expert 認定資格を取得して、Microsoft Word 2013 の高度なスキルを身に付けていることを実証します。対象者はアプリケーションの高度な機能と特殊な機能の使い方を理解しており、デモンストレーションを実行できる必要があります。受験者はさまざまな特殊な目的や状況に応じてプロフェッショナルな外観の文書を作成、管理、配布できる必要があります。
+subTitle: この認定資格はMicrosoft Office Specialist Expert 認定資格を取得して、Microsoft Word 2013 の高度なスキルを身に付けていることを実証します。
+levels:
+- intermediate
+skills:
+- ドキュメントの管理と共有
+- 高度なドキュメントを設計する
+- より高度な資料の作成と管理
+- カスタマイズされた Word エレメントの作成
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-word
+exams:
+- uid: exam.77-425
+- uid: exam.77-426
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

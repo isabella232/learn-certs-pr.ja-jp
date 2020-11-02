@@ -5,15 +5,29 @@ metadata:
   description: 'Exam AI-900: Microsoft Azure AI Fundamentals'
 uid: exam.ai-900
 displayName: AI-900
-summary: "<div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>\r\n\r\nこの試験の受験者は、機械学習 (ML) および人工知能 (AI) の概念と関連する Microsoft Azure サービスの基礎知識を持っている必要があります。\r\n\r\nこの試験は、一般的な ML および AI ワークロードの知識と、それらを Azure に実装する方法を示す機会です。  \r\n\r\nこの試験は、技術的背景と非技術的背景の両方を持つ候補者を対象としています。データ サイエンスとソフトウェア エンジニアリングの経験は必要ありませんが、プログラミングに関する一般的な知識や経験があれば好ましいです。  \r\n\r\nAzure AI Fundamentals は、Azure Data Scientist Associate や Azure AI Engineer Associate などの他の Azure ロールベースの認定の準備に使用できますが、いずれの前提条件でもありません。"
-subTitle: '次のことを説明できることを証明します。AI ワークロードと考慮事項、Azure での機械学習の基本原則、Azure のコンピュータ ビジョン ワークロードの機能、Azure の Natural Language Processing(NLP) ワークロードの機能、Azure の会話型 AI ワークロードの機能。'
+summary: |-
+  <div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div><div><strong>本試験の内容は、2020 年 10 月 22 日 に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  </div>
+
+  この試験の受験者は、機械学習 (ML) および人工知能 (AI) の概念と関連する Microsoft Azure サービスの基礎知識を持っている必要があります。
+
+  この試験は、一般的な ML および AI ワークロードの知識と、それらを Azure に実装する方法を示す機会です。
+
+  この試験は、技術的背景と非技術的背景の両方を持つ候補者を対象としています。データ サイエンスとソフトウェア エンジニアリングの経験は必要ありませんが、プログラミングに関する一般的な知識や経験があれば好ましいです。
+
+  Azure AI Fundamentals は、Azure Data Scientist Associate や Azure AI Engineer Associate などの他の Azure ロールベースの認定の準備に使用できますが、いずれの前提条件でもありません。
+subTitle: '次のことを説明できることを証明します。AI ワークロードと考慮事項、Azure での機械学習の基本原則、Azure のコンピュータ ビジョン ワークロードの機能、Azure の Natural Language Processing (NLP) ワークロードの機能、Azure の会話型 AI ワークロードの機能。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
+practiceTestUrl: https://www.mindhub.com/p/MU-AI-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AI-900&provider=psi&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
 locales:
 - en
 - ja
@@ -25,6 +39,7 @@ locales:
 levels:
 - beginner
 skills:
+- 本試験の内容は、2020年10月22日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
 - AI ワークロードと考慮事項について説明する (15-20%)
 - Azure での機械学習の基本原則について説明する (30-35%)
 - Azure のコンピューター ビジョン ワークロードの機能について説明する (15-20%)
@@ -69,7 +84,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
+- title: 認証ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -81,7 +96,7 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊施設をリクエスするト
+- title: Request accommodations
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: ../request-accommodations.md
 - title: 試験のポリシーと FAQ

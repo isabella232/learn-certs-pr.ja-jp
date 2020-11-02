@@ -2,12 +2,13 @@
 title: Microsoft Learning Azure Passes | Microsoft Docs
 description: Microsoft Learning Azure Passes
 documentationcenter: NA
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 04/01/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 
 # Microsoft 認定ラーニング パートナーの受講者に対する Microsoft Learning Azure へのアクセス パス
@@ -20,13 +21,11 @@ Microsoft では、受講者が Microsoft Official Courses を使用して Azure
 
 パートナーのみなさまは、[こちら](https://shop.courseware-marketplace.com/shop/en-GB/Content/TermsAndConditions) からコースウェア マーケットプレイスを通じて配布される Azure Pass の利用規約を参照してください。パスは、コースウェア マーケットプレイスで割り当てられてから 90 日間有効です。期限切れのパスは再発行できません
 
-非ラーニング パートナーまたは現在のラーニング パートナーと提携していない MCT が実施するコースまたはトレーニングでは、パスを取得したり使用したりすることはできません。コミュニティ コースウェアなどの資格のないコースでは、パスを取得したり使用したりすることはできません。
-
 MCTは、対象となる Azure コース準備のニーズに応じて 1 つのパスをリクエストできます。このようなケースは引き続き発生します。 MCTは、対象となる Azure コース準備パスをリクエストできます [こちら](https://vouchers.cloudapp.net/AzurePass/)、ただし、このサービスはいつでも終了することができます。
 
 ラーニング パートナーと MCT に配布できるパスは限られています。可用性は、Microsoft Azure がサポートされている [国](https://www.windowsazure.com/pricing/faq/) で、提供が継続されている間のみ保証されます。
 
-**対象**: 受講者向け Azure パスの対象となるコースは以下のとおりです。ローカライズ版の同等コースも対象となります。
+**対象** : 受講者向け Azure パスの対象となるコースは以下のとおりです。ローカライズ版の同等コースも対象となります。
 
 - 10986 Updating Your Skills to SQL Server 2016
 - 10998 Updating Your Skills to SQL Server 2017
@@ -55,7 +54,7 @@ MCTは、対象となる Azure コース準備のニーズに応じて 1 つの�
 - 40522 Microsoft Cloud Workshop: Azure Stack
 - 40526 Microsoft Cloud Workshop: SAP HANA on Azure
 - 40527 Microsoft Cloud Workshop: Security baseline on Azure
-- 40528 Microsoft Cloud Workshop: Business continuity and disaster recovery
+- 40528 Microsoft Cloud Workshop: ビジネス継続性と災害復旧
 - 40529 Microsoft Cloud Workshop: High Performance Computing
 - 40530 Microsoft Cloud Workshop: Cognitive Services and Deep Learning
 - 40531 Microsoft Cloud Workshop: IoT and the Smart City

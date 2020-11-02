@@ -2,16 +2,14 @@
 title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
-  description: この認定資格は、2020 年 9 月 25 日頃に利用可能になります。Power Platform Functional Consultant は、機能、境界、制約の実際的な理解など、Power Platform の幅広い応用知識を持っている必要があります。
+  description: Power Platform Functional Consultant は、機能、境界、制約の実際的な理解など、Power Platform の幅広い応用知識を持っている必要があります。
 uid: certification.power-platform-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></font></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong><br/><br/></font></div>
 
   Power Platform Functional Consultant は、機能、境界、制約の実際的な理解など、Power Platform の幅広い応用知識を持っている必要があります。Power Platform メーカー ツールを使用して、Power Platform と Microsoft 365 を使用するソリューションを作成した経験が必要です。認定 Functional Consultant は、データ モデリング、ユーザー エクスペリエンスの設計、要件分析、およびプロセス分析に習熟している必要があります。
-
-  <div><br/><strong>注意&#58; この認定資格は、2020 年 9 月 25 日頃に利用可能になります。</strong></div>
-subTitle: この認定資格は、2020 年 9 月 25 日頃に利用可能になります。Power Platform Functional Consultant は、機能、境界、制約の実際的な理解など、Power Platform の幅広い応用知識を持っている必要があります。
+subTitle: Power Platform Functional Consultant は、機能、境界、制約の実際的な理解など、Power Platform の幅広い応用知識を持っている必要があります。
 levels:
 - intermediate
 skills:
@@ -34,16 +32,30 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4D1eL
 exams:
 - uid: exam.pl-200
 resources:
-- title: 認定ポスター
+- title: 認証ポスター
   description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: 認証への道のり
   description: 認定を受けるための手順と、準備に役立つリソースをご確認ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Gn93
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

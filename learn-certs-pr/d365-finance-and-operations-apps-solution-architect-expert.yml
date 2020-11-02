@@ -2,14 +2,14 @@
 title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
 metadata:
   title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
-  description: Microsoft Dynamics 365 の Finance and Operations アプリのソリューション アーキテクトは、ビジネス推奨プラクティス、ソフトウェア機能、実装の提供を理解している信頼できるアドバイザーであり、実装チームメンバーをリードして、事前定義された実装目標を達成できる Dynamics ソリューションを実装できます。
+  description: Microsoft Dynamics 365 の財務および運用アプリのソリューション アーキテクトは、ビジネスで推奨されるプラクティスとソフトウェア機能を理解している信頼できるアドバイザーです。彼らはチーム メンバーが事前定義された実装目標を達成できる Dynamics ソリューションを実装できるようリードします。
 uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
 
-  Microsoft Dynamics 365 の Finance and Operations アプリのソリューション アーキテクトは、ビジネス推奨プラクティス、ソフトウェア機能、実装の提供を理解している信頼できるアドバイザーであり、実装チームメンバーをリードして、事前定義された実装目標を達成できる Dynamics ソリューションを実装できます。
-subTitle: Microsoft Dynamics 365 の Finance and Operations アプリのソリューション アーキテクトは、ビジネス推奨プラクティス、ソフトウェア機能、実装の提供を理解している信頼できるアドバイザーであり、実装チームメンバーをリードして、事前定義された実装目標を達成できる Dynamics ソリューションを実装できます。
+  Microsoft Dynamics 365 の財務および運用アプリのソリューション アーキテクトは、ビジネスで推奨されるプラクティスとソフトウェア機能を理解している信頼できるアドバイザーです。彼らはチーム メンバーが事前定義された実装目標を達成できる Dynamics ソリューションを実装できるようリードします。
+subTitle: Microsoft Dynamics 365 の財務および運用アプリのソリューション アーキテクトは、ビジネスで推奨されるプラクティスとソフトウェア機能を理解している信頼できるアドバイザーです。彼らはチーム メンバーが事前定義された実装目標を達成できる Dynamics ソリューションを実装できるようリードします。
 levels:
 - advanced
 skills:
@@ -39,7 +39,7 @@ prerequisites:
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   isOptional: false
 resources:
-- title: 認定ポスター
+- title: 認証ポスター
   description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: 認証への道のり

@@ -7,14 +7,13 @@ uid: exam.ms-101
 displayName: MS-101
 summary: |-
   <div>
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
-  <div><strong>本試験の内容は、2020 年 9 月 24 日 に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細はこちら</a>。</strong></font><br/><br/></div><div><strong>この試験の内容は、2020 年 9 月 24 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
   </div>
 
   この試験の受験者は、Microsoft 365 サービスの評価、計画、移行、展開、および管理に参加している Microsoft 365 エンタープライズ管理者です。それらは、ID、セキュリティ、コンプライアンス、およびサポートテクノロジを含む、企業向けのMicrosoft 365テナント管理タスクを実行します。
 
    受験者は Microsoft 365 ワークロードに関する実用的な知識を持っており、少なくとも 1 つの Microsoft 365 ワークロード (Exchange、SharePoint、Skype for Business、または Windows as a Service) の管理者である必要があります。受験者は、ネットワーキング、サーバー管理、および DNS、Active Directory、PowerShell などの IT の基礎についての実用的な知識も持っています。
-subTitle: 'この試験では、次の技術的タスクを達成する能力を評価します：最新のデバイスサービスを実装します。Microsoft 365 のセキュリティと脅威管理を実装します。Microsoft 365 のガバナンスとコンプライアンスを管理します。'
+subTitle: 'この試験では、最新のデバイスサービスの実装、Microsoft 365のセキュリティと脅威管理の実装、Microsoft 365のガバナンスとコンプライアンスの管理という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -25,10 +24,10 @@ locales:
 levels:
 - advanced
 skills:
-- 本試験の内容は、2020年9月24日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
-- 最新のデバイスサービスの実装 (30-35%)
-- Microsoft 365 セキュリティと脅威の管理の実装 (30-35%)
-- Microsoft 365 のガバナンスとコンプライアンスを管理します (35-40%)
+- この試験の内容は、2020 年 9 月 24 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- 最新のデバイス サービスの実装 (30-35％)
+- Microsoft 365 のセキュリティおよび脅威の管理の実装 (30-35％)
+- Microsoft 365 のガバナンスおよびコンプライアンスの管理 (35-40％)
 roles:
 - administrator
 products:
@@ -46,7 +45,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
+- title: 認証ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -58,7 +57,7 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊施設をリクエスするト
+- title: Request accommodations
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: ../request-accommodations.md
 - title: 試験のポリシーと FAQ

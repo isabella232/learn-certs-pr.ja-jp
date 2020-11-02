@@ -2,12 +2,13 @@
 title: 'Microsoft Build Cloud Skills Challenge 2020: Free Certification Exam | Microsoft Docs'
 description: 'Microsoft Build Cloud Skills Challenge 2020: 無料認定資格試験'
 documentationcenter: NA 
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 05/18/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # Microsoft Build Cloud Skills Challenge 2020: 無料認定資格試験
 
@@ -25,7 +26,7 @@ ms.author: micsullivan
 ![試験のスケジュール](images/step1.png)
 
 **ステップ 2:** 現在の Microsoft 認定資格プロフィールにサインインするか、Microsoft アカウントを使用して作成します。  
-![Microsoft アカウントでサインイン ](images/step-2-2x.png)
+![Microsoft アカウントでサインイン](images/step-2-2x.png)
 
 **ステップ 3:** ログインしたら、自身の認定プロフィールの詳細が正確であることを確認します。  
 ![Microsoft 認定資格プロフィールの詳細を確認](images/step3.png)
@@ -44,11 +45,11 @@ ms.author: micsullivan
 
 次回ログインしたときに、いずれかのアカウントの試験割引の資格がある場合は、割引が自動的に表示されます。アカウントを削除するには、[認定資格ダッシュボード](https://aka.ms/certdashboard) にアクセスし、「認定プロファイルを編集する」をクリックします。
 
-**ステップ 8:** 上部に割引のポップアップが表示されます。請求したい割引を選択し、この試験の受験予約をする ボタンをクリックしてチェックアウトに進みます。  
+**ステップ 8:** 上部に割引のポップアップが表示されます。請求したい割引を選択し、[この試験の受験予約をする] ボタンをクリックしてチェックアウトに進みます。  
 ![割引を選択し、予約済み試験ボタンをクリックして続行します](images/step8-coupon.png)
 
 **ステップ 9:** 次の画面のステップに従い、試験を予定するために必要な詳細を提供します。チェックアウト中に、総支払金額が 0.00 ドルであることを確認し、注文を提出します。  
-![Link accounts to receive discount](images/step9.png)
+![アカウントをリンクして割引を受ける](images/step9.png)
 
 ### 認定サポート:
 
@@ -60,8 +61,8 @@ ms.author: micsullivan
 
 | 製品 | 試験 |
 | --- | --- |
-| Azure | [AI-100: Designing and Implementing an Azure AI Solution](/learn/certifications/exams/ai-100)<br/>[AI-900: Microsoft Azure AI Fundamentals](/learn/certifications/exams/ai-900)<br/>[AZ-104: Microsoft Azure Administrator](/learn/certifications/exams/az-104)<br/>[AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](/learn/certifications/exams/az-120)<br/>[AZ-204: Developing Solutions for Microsoft Azure](/learn/certifications/exams/az-204)<br/>[AZ-220: Microsoft Azure IoT Developer](/learn/certifications/exams/az-220)<br/>[AZ-300: Microsoft Azure Architect Technologies](/learn/certifications/exams/az-300)<br/>[AZ-301: Microsoft Azure Architect Design](/learn/certifications/exams/az-301)<br/>[AZ-303: Microsoft Azure Architect Technologies](/learn/certifications/exams/az-303)<br/>[AZ-304: Microsoft Azure Architect Design](/learn/certifications/exams/az-304)<br/>[AZ-400: Designing and Implementing Microsoft DevOps Solutions](/learn/certifications/exams/az-400)<br/>[AZ-500: Microsoft Azure Security Technologies](/learn/certifications/exams/az-500)<br/>[AZ-900: Microsoft Azure Fundamentals](/learn/certifications/exams/az-900)<br/>[DA-100: Analyzing Data with Microsoft Power BI](/learn/certifications/exams/da-100)<br/>[DP-100: Designing and Implementing a Data Science Solution on Azure](/learn/certifications/exams/dp-100)<br/>[DP-200: Implementing an Azure Data Solution](/learn/certifications/exams/dp-200)<br/>[DP-201: Designing an Azure Data Solution](/learn/certifications/exams/dp-201)<br/>[DP-300: Administering Relational Databases on Microsoft Azure](/learn/certifications/exams/dp-300)<br/>[DP-900: Microsoft Azure Data Fundamentals](/learn/certifications/exams/dp-900) |
-| Dynamics 365 and Power Platform | [MB-200: Microsoft Power Platform + Dynamics 365 Core](/learn/certifications/exams/mb-200)<br/>[MB-210: Microsoft Dynamics 365 Sales](/learn/certifications/exams/mb-210)<br/>[MB-220: Microsoft Dynamics 365 Marketing](/learn/certifications/exams/mb-220)<br/>[MB-230: Microsoft Dynamics 365 Customer Service](/learn/certifications/exams/mb-230)<br/>[MB-240: Microsoft Dynamics 365 Field Service](/learn/certifications/exams/mb-240)<br/>[MB-300: Microsoft Dynamics 365: Core Finance and Operations](/learn/certifications/exams/mb-300)<br/>[MB-310: Microsoft Dynamics 365 Finance](/learn/certifications/exams/mb-310)<br/>[MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing](/learn/certifications/exams/mb-320)<br/>[MB-330: Microsoft Dynamics 365 Supply Chain Management](/learn/certifications/exams/mb-330)<br/>[MB-400: Microsoft Power Apps + Dynamics 365 Developer](/learn/certifications/exams/mb-400)<br/>[MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer](/learn/certifications/exams/mb-500)<br/>[MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect](/learn/certifications/exams/mb-600)<br/>[MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect](/learn/certifications/exams/mb-700)<br/>[MB-901: Microsoft Dynamics 365 Fundamentals](/learn/certifications/exams/mb-901)<br/>[PL-100: Microsoft Power Platform App Maker](/learn/certifications/exams/pl-100)<br/>[PL-900: Microsoft Power Platform Fundamentals](/learn/certifications/exams/pl-900) |
+| Azure | [AI-100: Designing and Implementing an Azure AI Solution](/learn/certifications/exams/ai-100)<br/>[AI-900: Microsoft Azure AI Fundamentals](/learn/certifications/exams/ai-900)<br/>[AZ-104: Microsoft Azure Administrator](/learn/certifications/exams/az-104)<br/>[AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](/learn/certifications/exams/az-120)<br/>[AZ-204: Developing Solutions for Microsoft Azure](/learn/certifications/exams/az-204)<br/>[AZ-220: Microsoft Azure IoT Developer](/learn/certifications/exams/az-220)<br/>[AZ-303: Microsoft Azure Architect Technologies](/learn/certifications/exams/az-303)<br/>[AZ-304: Microsoft Azure Architect Design](/learn/certifications/exams/az-304)<br/>[AZ-400: Designing and Implementing Microsoft DevOps Solutions](/learn/certifications/exams/az-400)<br/>[AZ-500: Microsoft Azure Security Technologies](/learn/certifications/exams/az-500)<br/>[AZ-900: Microsoft Azure Fundamentals](/learn/certifications/exams/az-900)<br/>[DA-100: Analyzing Data with Microsoft Power BI](/learn/certifications/exams/da-100)<br/>[DP-100: Designing and Implementing a Data Science Solution on Azure](/learn/certifications/exams/dp-100)<br/>[DP-200: Implementing an Azure Data Solution](/learn/certifications/exams/dp-200)<br/>[DP-201: Designing an Azure Data Solution](/learn/certifications/exams/dp-201)<br/>[DP-300: Administering Relational Databases on Microsoft Azure](/learn/certifications/exams/dp-300)<br/>[DP-900: Microsoft Azure Data Fundamentals](/learn/certifications/exams/dp-900) |
+| Dynamics 365 and Power Platform | [MB-200: Microsoft Power Platform + Dynamics 365 Core](/learn/certifications/exams/mb-200)<br/>[MB-210: Microsoft Dynamics 365 Sales](/learn/certifications/exams/mb-210)<br/>[MB-220: Microsoft Dynamics 365 Marketing](/learn/certifications/exams/mb-220)<br/>[MB-230: Microsoft Dynamics 365 Customer Service](/learn/certifications/exams/mb-230)<br/>[MB-240: Microsoft Dynamics 365 Field Service](/learn/certifications/exams/mb-240)<br/>[MB-300: Microsoft Dynamics 365: Core Finance and Operations](/learn/certifications/exams/mb-300)<br/>[MB-310: Microsoft Dynamics 365 Finance](/learn/certifications/exams/mb-310)<br/>[MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing](/learn/certifications/exams/mb-320)<br/>[MB-330: Microsoft Dynamics 365 Supply Chain Management](/learn/certifications/exams/mb-330)<br/>[MB-400: Microsoft Power Apps + Dynamics 365 Developer](/learn/certifications/exams/mb-400)<br/>[MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer](/learn/certifications/exams/mb-500)<br/>[MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect](/learn/certifications/exams/mb-600)<br/>[MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect](/learn/certifications/exams/mb-700)<br/>[MB-901: Microsoft Dynamics 365 Fundamentals](/learn/certifications/exams/mb-901)<br/>[PL-100: Microsoft Power Platform App Maker](/learn/certifications/exams/pl-100)<br/>[PL-200: Microsoft Power Platform Functional Consultant](/learn/certifications/exams/pl-200)<br/>[PL-400: Microsoft Power Platform Developer](/learn/certifications/exams/pl-400)<br/>[PL-900: Microsoft Power Platform Fundamentals](/learn/certifications/exams/pl-900) |
 | Microsoft 365 | [MD-100: Windows 10](/learn/certifications/exams/md-100)<br/>[MD-101: Managing Modern Desktops](/learn/certifications/exams/md-101)<br/>[MS-100: Microsoft 365 Identity and Services](/learn/certifications/exams/ms-100)<br/>[MS-101: Microsoft 365 Mobility and Security](/learn/certifications/exams/ms-101)<br/>[MS-203: Microsoft 365 Messaging](/learn/certifications/exams/ms-203)<br/>[MS-500: Microsoft 365 Security Administration](/learn/certifications/exams/ms-500)<br/>[MS-600: Building Applications and Solutions with Microsoft 365 Core Services](/learn/certifications/exams/ms-600)<br/>[MS-700: Managing Microsoft Teams](/learn/certifications/exams/ms-700)<br/>[MS-900: Microsoft 365 Fundamentals](/learn/certifications/exams/ms-900) |
 
 ## よくあるご質問
@@ -102,7 +103,7 @@ ms.author: micsullivan
 
 **質問: 試験の予約を再スケジュールまたはキャンセルするときに料金はかかりますか ？**
 
-**回答:** キャンセルする前に十分な通知をしないと、無料の試験オファーを失います。  スケジュールを変更する前に十分な通知を提供しない場合、料金が適用されます。  詳細は、[キャンセルおよび再スケジュールのポリシー](/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) をご覧ください。
+**回答:** キャンセルする前に十分な通知をしないと、無料の試験オファーを失います。 スケジュールを変更する前に十分な通知を提供しない場合、料金が適用されます。 詳細は、[キャンセルおよび再スケジュールのポリシー](/learn/certifications/certification -exam -policies#cancellation -and -reschedule -policy) をご覧ください。
 
 **質問: 試験の予約を逃し、再スケジュールやキャンセルをしなかった場合はどうなりますか？**
 
@@ -117,8 +118,8 @@ ms.author: micsullivan
 ## <a name="terms-and-conditions"></a> 契約条件
 
 - この試験は、Microsoft Build に参加し、Microsoft Build Cloud Skills Challenge を完了した対象者が利用できます。
-- この試験オファーは1つの Microsoft 認定試験を受けるために復活されるもので、公認のピアソン VUE 試験センターで実施されるか、あるいはピアソン VUE のオンライン プロトコル サイトによって実施されます。
-- この試験オファー、試験固有のもので、選択したMicrosoft の試験にのみ復活可能です。
+-この試験オファーは1つの Microsoft 認定試験を受けるために復活されるもので、公認のピアソン VUE 試験センターで実施されるか、あるいはピアソン VUE のオンライン プロトコル サイトによって実施されます。
+-この試験オファー、試験固有のもので、選択したMicrosoft の試験にのみ復活可能です。
 - この試験のクーポン利用期間は 2020 年 6 月 8 日から開始され、2021 年 1 月 31 日に終了します。
 - この試験オファーは、お客様に対して有効期間期日までに 1 つの試験を登録および受験する権利を与えるものです。
 - この試験オファーの有効期間は、いかなる条件でも延長することができません。

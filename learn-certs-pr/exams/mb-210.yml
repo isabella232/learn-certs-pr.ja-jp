@@ -7,16 +7,15 @@ uid: exam.mb-210
 displayName: MB-210
 summary: |-
   <div>
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
-  <div><strong>本試験の内容は、2020 年 10 月 2 日 に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細はこちら</a>。</strong></font><br/><br/></div><div><strong>この試験の内容は、2020 年 10 月 2 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
   </div>
 
   この試験の受験者は、セールス経験を持つ Dynamics 365 の機能コンサルタントです。受験生は、収益目標、ビジネス戦略、会社の目的に沿い効果的で効率的なセールスライフサイクルをサポートするソリューションに責任を持ちます。
 
-  受験生は、リード、契約、アカウント、オポチュニティのコア機能の設定と拡張の責任を負っていて、会社の場所においてセールス過程のマップへのエンティティをサポートします。彼らは、Power Apps を使用してすべてのデバイスの統一されたエクスペリエンスを開発する機会、Power Automate をアプリケーション統合、ビジネス プロセス フロー、およびその他の自動化ツールで「キャッシュ ジャーニーへのリード」をサポートおよび加速するアプリケーションを構築する機会を特定します。
+  受験者は、リード、契約、アカウント、オポチュニティのコア機能の設定と拡張を担当し、会社の場所においてセールス過程のマップへのエンティティをサポートします。彼らは、Power Apps を使用してすべてのデバイスの統一されたエクスペリエンスを開発する機会、Power Automate をアプリケーション統合、ビジネス プロセス フロー、およびその他の自動化ツールで「キャッシュ ジャーニーへのリード」をサポートおよび加速するアプリケーションを構築する機会を特定します。
 
   受験者は強いビジネス知識と素晴らしい本人による経験を、1 つ以上のセールス ロールのセールス世界で持っていなければなりません。
-subTitle: 'この試験では、次の一覧に示す技術タスクを遂行する能力を評価します: 構成を実行し、主要な販売エンティティを管理し、販売エンティティを管理。'
+subTitle: 'この試験では、構成の実行、コア販売エンティティの管理、追加のツールやサービスの構成という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
 practiceTestUrl: https://in.mindhub.com/mb-210-microsoft-dynamics-365-sales-microsoft-official-practice-test/p/MU-MB-210?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -26,10 +25,10 @@ locales:
 levels:
 - intermediate
 skills:
-- 本試験の内容は、2020年10月2日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
-- 構成を実行する (40-45%)
-- コア セールス エンティティの管理 (20-25%)
-- セールス エンティティの管理 (35-40%)
+- この試験の内容は、2020 年 10 月 2 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- 構成を実行する (25-30%)
+- コア販売エンティティを管理する (50-55%)
+- 追加のツールおよびサービスを構成する (15-20%)
 roles:
 - functional-consultant
 products:
@@ -53,7 +52,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
+- title: 認証ポスター
   description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
@@ -65,7 +64,7 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊施設をリクエスするト
+- title: Request accommodations
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: ../request-accommodations.md
 - title: 試験のポリシーと FAQ

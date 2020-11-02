@@ -5,14 +5,14 @@ metadata:
   description: 'Exam 77-726: Word 2016 Expert: Creating Documents for Effective Communication'
 uid: exam.77-726
 displayName: 77-726
-summary: |+
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<A href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
+summary: |-
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
 
   Word 2016 試験の専門家レベルの受験者は、ドキュメントおよびコンテンツ管理、および高度な書式設定における Word 2016 の高度な機能に精通しています。
 
   受験者は、4 ページ以上の専門的な文書を作成して管理し、さまざまな特殊な目的や状況に対応します。受験者は、プロジェクトのニーズを満たし、生産性を向上させるために、Word 環境をカスタマイズします。Expert レベルの文書の例として、ビジネス プラン、研究論文、本、専門パンフレット、大量メール送信用文書があります。受験者の役割としては、編集者、プロジェクト マネージャー、ビジネス情報労働者、教育者などが想定されます。
 
-  Microsoft Office Specialist (MOS) 2016認定試験では、受験者の知識、スキル、および能力を適切に評価するための、新しいパフォーマンスベースの形式が導入されていますMOS 2016プログラムを使用して&#58;
+  Microsoft Office Specialist （MOS） 2016認定試験では、受験者の知識、スキル、および能力を適切に評価するための、新しいパフォーマンスベースの形式が導入されていますMOS 2016プログラムを使用して&#58;
   - 通常、MOS 2016 試験タスクの手順には、以前のバージョンとは異なり、コマンド名が含まれません。たとえば、機能名は使用されず、記述子で置き換えられています。つまり、受験者は、各プロジェクトのタスクを完了するためにプログラムの機能の目的と一般的な用途を理解している必要があります。
   - MOS 2016 試験形式には、複数のプロジェクトが組み込まれています。
 subTitle: Word 2016 試験の専門家レベルの受験者は、ドキュメントおよびコンテンツ管理、および高度な書式設定における Word 2016 の高度な機能に精通しています。
@@ -34,17 +34,19 @@ locales:
 levels:
 - intermediate
 skills:
-- ドキュメント オプションの設定と管理(35-40%)
-- 高度なアプリケーションの設計 (20-25%)
-- 高度な参考資料の作成(20-25%)
-- カスタマイズされた Word エレメントの作成(15-20%)
+- ドキュメントのオプションと設定を管理する (35-40%)
+- 高度なドキュメントを設計する (20-25%)
+- より高度な資料の作成と管理 (20-25%)
+- カスタマイズされた Word エレメントの作成 (15-20%)
 roles:
-- developer
+- business-user
 products:
 - office
 relatedCertifications:
 - related:
     uid: certification.mos-word-2016-expert
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2016
 resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
@@ -52,7 +54,7 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊施設をリクエスするト
+- title: Request accommodations
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: ../request-accommodations.md
 - title: 試験のポリシーと FAQ

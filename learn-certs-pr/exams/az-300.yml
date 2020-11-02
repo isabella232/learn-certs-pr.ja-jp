@@ -6,9 +6,8 @@ metadata:
 uid: exam.az-300
 displayName: AZ-300
 summary: |-
-  <div>
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
-  <div><strong>本試験の新バージョン, <a href="/learn/certifications/exams/az-303">AZ-303</a>, 2020 年 6 月 29日に受験できるようになりました。本試験は、 2020年9月30日前後に終了するまで、受験することができます。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
+  <div><strong>この試験の英語版は 2020 年 9 月 30 日に廃止されました。代替試験, <a href="/learn/certifications/exams/az-303">AZ-303</a>, の受験が可能です。地域言語試験は 2020 年 10 月 30 日まで利用可能です。</strong><br/><br/></div>
   </div>
 
   この試験の受験者は、コンピューティング、ネットワーク、ストレージ、セキュリティなどの側面を含む、Microsoft Azure で実行されるソリューションの設計と実装に関する専門知識を持っている必要があります。
@@ -20,10 +19,10 @@ summary: |-
   この試験の受験者は、ネットワーキング、仮想化、アイデンティティ、セキュリティ、ビジネス継続性、障害回復、データ管理、予算編成、ガバナンスなど、IT 運用のさまざまな側面にわたる高度な経験と知識を持っている必要があります。このロールは各領域での決定がソリューション全体に与える影響を管理する必要があります。さらに、このロールには Azure ナレッジ ドメイン (管理、開発、DevOps) の少なくとも 1 つに習熟している必要があります。
 
   <div><strong><br/>注意&#58; 以下の試験の組み合わせのいずれかに合格すると、<a href="/learn/certifications/azure-solutions-architect">Microsoft Certified&#58; Azure Solutions Architect Expert</a> 認定資格を取得することができます。<ul>
-  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> そして <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
-  <li><a href="/learn/certifications/exams/az-303">AZ-303</a> そして <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
-  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> そして <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
-  <li><a href="/learn/certifications/exams/az-301">AZ-301</a> そして <a href="/learn/certifications/exams/az-303">AZ-303</a></li>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> そして<a href="/learn/certifications/exams/az-301">AZ-301</a></li>
+  <li><a href="/learn/certifications/exams/az-303">AZ-303</a> そして<a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> そして<a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-301">AZ-301</a> そして<a href="/learn/certifications/exams/az-303">AZ-303</a></li>
   </ul></strong></div>
 subTitle: 'この試験では、インフラストラクチャのデプロイと設定、負荷分散とセキュリティの実装、アプリの作成とデプロイ、認証とセキュアデータの実装、クラウド用とAzureストレージ用の開発、という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -31,20 +30,18 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzw
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-300&examname=Exam%20AZ-300:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-300
 locales:
-- en
 - ja
 - zh-cn
 - ko
 levels:
 - advanced
 skills:
-- 本試験の新バージョン, AZ-303, 2020 年 6 月 29日に受験できるようになりました。本試験は、 2020年9月30日前後に終了するまで、受験することができます。以下のスキル測定ドキュメントをダウンロードして、変更に関する詳細情報をご覧ください。
+- この試験の英語版は 2020 年 9 月 30 日に廃止されました。代替試験 AZ-303 の受験が可能です。地域言語試験は 2020 年 10 月 30 日まで利用可能です。以下のスキル測定ドキュメントをダウンロードして、変更に関する詳細情報をご覧ください。
 - インフラのデプロイと設定 (40-45%)
 - ワークロードとセキュリティの実装 (25-30%)
 - アプリの作成とデプロイ (5-10%)
 - 認証とセキュアなデータの実装 (5-10%)
 - クラウド用およびAzure用ストレージの開発 (15-20%)
-retirementDate: 09/30/2020
 roles:
 - solution-architect
 products:
@@ -71,12 +68,6 @@ products:
 - azure-event-hubs
 exams:
 - uid: exam.az-301
-courses:
-- uid: course.az-300t01
-- uid: course.az-300t02
-- uid: course.az-300t03
-- uid: course.az-300t04
-- uid: course.az-300t06
 paths:
 - uid: learn.architect-network-infrastructure
 - uid: learn.architect-storage-infrastructure
@@ -94,7 +85,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
+- title: 認証ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -106,7 +97,7 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊施設をリクエスするト
+- title: Request accommodations
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: ../request-accommodations.md
 - title: 試験のポリシーと FAQ
