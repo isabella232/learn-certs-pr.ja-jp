@@ -1,33 +1,58 @@
-- name: Microsoft Certifications
+- name: Microsoft 認定資格
   href: index.yml
 - name: オファー
   href: deals.md
-- name: ボリュームライセンス
+- name: ボリューム ライセンス
   href: volume-licensing-program.md
-- name: Microsoft Learning Partners
+- name: Microsoft ラーニング パートナー
   href: partners.md
-- name: 認定資格、試験、コースを棄権しました
+- name: 廃止された認定資格、試験、コース
   expanded: false
   items:
-  - name: 終了した認定資格
+  - name: 廃止された認定資格
     href: retired-certifications.md
-  - name: 終了した試験
+  - name: 廃止された試験
     href: retired-certification-exams.md 
-  - name: コースを棄権しました
+  - name: 廃止されたコース
     href: retired-courses.md
-- name: マイクロソフト認定トレーナーになる
+- name: Microsoft 認定トレーナーになる
   href: mct-certification.md
-- name: Microsoft 認定試験について
+- name: Microsoft 認定資格試験について
   href: certification-exams.md
-- name: マイクロソフト試験と認定資格バッジ
+- name: Microsoft 試験および認定資格バッジ
   href: badges.md
-- name: オンライン試験について
+- name: Pearson VUE によるオンライン試験について
   href: online-exams.md
+- name: PSI によるオンライン試験について
+  href: online-exams-psi.md
 - name: 試験のポリシーと FAQ
-  href: certification-exam-policies.md
+  expanded: false
+  items:
+  - name: 試験プロセスの概要
+    href: exam-process-overview.md  
+  - name: 試験のセキュリティおよび再受験のポリシー
+    href: exam-security-policy-and-exam-retake-policy.md
+  - name: 試験の日程変更およびキャンセルのポリシー
+    href: exam-reschedule-and-cancellation-policy.md
+  - name: Microsoft 認定資格プログラム契約書
+    href: microsoft-certification-program-agreement.md
+  - name: Microsoft 試験秘密保持契約書
+    href: microsoft-exam-non-disclosure-agreement.md
+  - name: 特別な設備のリクエスト
+    href: request-accommodations.md
+  - name: 試験項目チャレンジ プロセス
+    href: exam-item-challenge-process.md
+  - name: ベータ試験
+    href: beta-exams.md
+  - name: 認定資格試験の大学単位
+    href: college-credit-for-certification-exams.md
+  - name: 学生割引
+    href: student-discounts.md
 - name: 認定資格のヘルプ
   href: help.md
-- name: Microsoft Certification program FAQs 
+- name: Microsoft Official Courseware (MOC) ヘルプ
+  href: certification-and-training-help.md
+- name: Microsoft Certificationプログラム FAQ 
   href: microsoft-certification-program-faqs.md
-- name: Microsoft Learning の移動 ...
+- name: Moving Microsoft Learning ...
   href: learnfaq.md

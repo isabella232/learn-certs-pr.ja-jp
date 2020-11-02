@@ -2,15 +2,21 @@
 title: 'Microsoft Office Specialist: Microsoft Excel 2016 Expert'
 metadata:
   title: 'Microsoft Office Specialist: Microsoft Excel 2016 Expert'
-  description: 'Microsoft Office Specialist: Microsoft Excel 2016 Expert'
+  description: 'マイクロソフト オフィス スペシャリスト: Microsoft Excel 2016 Expert'
 uid: certification.mos-excel-2016-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: この認定資格はMicrosoft オフィス スペシャリスト エキスパート認定資格を取得して、主要な Office プログラムにおける高度なスキルを身に付けていることを実証します。
-subTitle: この認定資格はMicrosoft オフィス スペシャリスト エキスパート認定資格を取得して、主要な Office プログラムにおける高度なスキルを身に付けていることを実証します。
+summary: |-
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
+
+  Microsoft Office Specialist Expert 認定資格を取得して、Excel 2016 の高度なスキルを身に付けていることを証明しましょう。この認定資格のエキスパート レベルの受験者は、Excel 環境の高度な知識を持ち、プログラムの使用方法を指導できる方を対象としています。
+subTitle: この認定資格はMicrosoft Office Specialist Expert 認定資格を取得して、主要な Office プログラムにおける高度なスキルを身に付けていることを実証します。
 levels:
 - advanced
 skills:
-- なし
+- ワークブックのオプションと設定の管理
+- カスタムデータフォーマットおよびレイアウトの適用
+- 高度な数式を作成する
+- 高度なチャートや表を作成する
 roles:
 - business-user
 type: mos
@@ -20,14 +26,15 @@ exams:
 - uid: exam.77-728
 resources:
 - title: トレーニングおよび認定資格ガイド
-  description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 試験リプレイ
+- title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: deals.md
 - title: 資格のサポート
-  description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: help.md
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

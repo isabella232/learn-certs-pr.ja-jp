@@ -1,0 +1,50 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+metadata:
+  title: 'Course 40577-G: Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+  description: 'Course 40577-G: Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+uid: course.40577
+courseNumber: '40577-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure　IoT　Hubを使用し、インターネット（IoT）デバイスデータをキャプチャ
+- skill: Azure StreamAnalyticsを使用し、デバイスデータを処理
+- skill: Azure　Functionsを使用し、コマンドとクエリの責任分離（CQRS）パターンを適用
+- skill: Azure　Synapse　AnalyticsSparkノートブックを使用し、予知保全モデルを構築
+- skill: モデルをAzureMachineLearningモデルレジストリにデプロイ
+- skill: モデルをAzureContainerインスタンスにデプロイ
+- skill: CosmosDB変更フィードにアクセスするAzureFunctionsを使用して予測を生成
+- skill: アプリケーションを最新化しAIをアプリケーションに統合
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: "このワークショップでは、Azureサービスを使用し、最新のアプリケーションを実装するプロセスを確認することができます。 このワークショップでは、イベントソーシングとコマンドおよびクエリ責任分離（CQRS）パターン、データの読み込み、データの準備や変換、提供、そして、異常の検出、予知保全モデルの作成、および予知保全モデルのリアルタイムスコアリングについて説明します。 \n\n\n\n#### Audience profile\n\nこのワークショップは、クラウドテクノロジーのインフラストラクチャとソリューション設計の建築に関する専門知識を持ち、「このコースについて」と「コースの完了時」の領域で説明されているAzureとAzureサービスについて詳しく知りたいクラウドアーキテクトとITプロフェッショナルを対象としています。 このワークショップに参加する方は、他のMicrosoft以外のクラウドテクノロジーの経験があり、コースの前提条件を満たし、さらにAzureでクロストレーニングを行う必要があります。"
+prerequisitesSection: |-
+  ワークショップの内容は、インフラストラクチャとソリューションの設計に関する300レベルのアーキテクチャの専門知識を前提としています。 このワークショップに参加する方は、事前にこの前提条件を受講することをお勧めします。
+  - Microsoft Azure Essentialsコース、http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Module 1&#58; Whiteboard Design Session - Innovate and modernize apps with Data and AI
+  #### Lessons
+  - お客様のケーススタディの確認
+  - 概念実証ソリューションの設計
+  - ソリューションの提示
+
+
+  ### Module 2&#58; Hands-On Lab - Innovate and modernize apps with Data and AI
+  #### Lessons
+  - ファクトリロードシミュレータのデプロイ
+  - Azure　Machine　Learningを使用し、予知保全モデルのトレーニングおよび登録
+  - イベントテレメトリをCosmosDBに送信するAzure関数の作成
+  - 予知保全の結果を用いて、イベントテレメトリの強化
+  - 自動化された異常検出を用いて、イベントテレメトリの強化
+  - スコアリングされたテレメトリデータをPostgreSQLへ送信
+  - イベントソーシングとCQRSを使用するためにサービスロジックの最新化
+  - PowerBIレポートでの工場のステータスの表示
+

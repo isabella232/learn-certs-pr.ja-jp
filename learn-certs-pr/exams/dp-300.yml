@@ -7,13 +7,12 @@ uid: exam.dp-300
 displayName: DP-300
 summary: |-
   <div>
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
-  <div><strong>本試験の内容は、2020 年 9 月 24 日 に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細はこちら</a>。</strong></font><br/><br/></div><div><strong>この試験の内容は、2020 年 9 月 24 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
   </div>
 
-  本試験の受験者は、 Microsoft SQL Server および Microsoft Azure データサービス上に構築されたオンプレミスおよびクラウド リレーショナル データベースを管理するデータベース管理者およびデータ管理スペシャリストです。
+  本試験の受験者は、 Microsoft SQL Server および Microsoft Azure Data Services で構築されたオンプレミスおよびクラウド リレーショナル データベースを管理するデータベース管理者およびデータ管理スペシャリストです。
 
-  Azure データベース管理者は、 Microsoft Azure Data Services および Microsoft SQL Server 上に構築されたクラウド ネイティブおよびハイブリッドデータプラットフォームソリューションの運用面を実装して管理します。Azure データベース管理者は、経営管理目的で T-SQL を使用する知識を適用することを含めて、さまざまな方法とツールを使用して日常的な操作を実行します。
+  Azure データベース管理者は、 Azure Data Services および SQL Server で構築されたクラウド ネイティブおよびハイブリッド データ プラットフォーム ソリューションの運用面を実装して管理します。Azure データベース管理者は、経営管理目的で T-SQL を使用する知識を適用することを含めて、さまざまな方法とツールを使用して日常的な操作を実行します。
 
   このロールは、管理、可用性、セキュリティ、および最新のリレーショナル データベース ソリューションのパフォーマンスの監視と最適化を担当します。このロールは、 Azure Data Engineer のロールと連携して、データプラットフォームソリューションの運用面を管理します。
 subTitle: '本試験では、以下の技術的タスクを遂行できる能力を査定します。データプラットフォーム リソースの計画と実装、安全な環境の実装、運用リソースの監視と最適化、クエリパフォーマンスの最適化、タスクの自動化の実行、高可用性およびディザスターリカバリー (HADR) 環境の計画と実装、および T-SQL 使用による管理の実行。'
@@ -22,15 +21,18 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3y
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=DP-300&examname=Exam%20DP-300:%20Administering%20Relational%20Databases%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-300
 locales:
 - en
+- zh-cn
+- ja
+- ko
 levels:
 - intermediate
 skills:
 - 本試験の内容は、2020年9月24日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
 - データ プラットフォーム リソースを計画して実装します (15-20%)
-- 安全な環境を実装します (15-20%)
+- 安全な環境を実装する (15-20%)
 - 運用リソースを監視して最適化します (15-20%)
-- クエリのパフォーマンスを最適化します (5-10%)
-- タスクの自動化を実行します (10-15%)
+- クエリのパフォーマンスを最適化する (15-20%)
+- タスクの自動化を実行します (15-20%)
 - 高可用性とディザスターリカバリー (HADR) 環境を計画して実装します (15-20%)
 - T-SQL 使用による管理を実行します (10-15%)
 roles:
@@ -64,7 +66,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
+- title: 認証ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -76,7 +78,7 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊施設をリクエスするト
+- title: Request accommodations
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: ../request-accommodations.md
 - title: 試験のポリシーと FAQ

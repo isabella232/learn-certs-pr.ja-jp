@@ -6,11 +6,11 @@ metadata:
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
 
   Microsoft 365 Enterprise Administrators は、Microsoft 365 サービスの審査、事前計画、マイグレーション、デプロイ、管理を行います。
 
-  <div><br/><strong>MCSE Productivity Solutions Expert 認定資格は、2021 年 1 月 31 日に廃止されます。したがって、MCSE Productivity Solutions Expert認定は、2022年1月31日以降（MCSEの廃止後1年）、Microsoft 365 Certified&#58; Enterprise Administrator Expert認定の前提条件オプションとしての資格はありません。</strong></div>
+  <div><br/><strong>The MCSE&#58; Productivity Solutions Expert 認定資格は、2021 年 1 月 31 日に廃止されます。2022 年 1 月 31 日 (認定資格が廃止されてから 1 年後) まで、この認定資格の前提条件オプションとして引き続き適格です。</strong></div>
 subTitle: Microsoft 365 Enterprise Administrators は、Microsoft 365 サービスの審査、事前計画、マイグレーション、デプロイ、管理を行います。
 levels:
 - advanced
@@ -20,7 +20,7 @@ skills:
 - アクセスと認証の管理
 - Office 365 のワークロードとアプリケーションの計画
 - 最新のデバイスサービスの実装
-- Microsoft 365 セキュリティと脅威の管理の実装
+- Microsoft 365のセキュリティと脅威管理を実装します
 - Microsoft 365 のガバナンスとコンプライアンスを管理します
 roles:
 - administrator
@@ -32,8 +32,6 @@ courses:
 - uid: course.ms-101t00
 prerequisites:
 - uid: certification.modern-desktop
-  isOptional: false
-- uid: certification.m365-teamwork-administrator
   isOptional: false
 - uid: certification.m365-security-administrator
   isOptional: false
@@ -51,7 +49,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
+- title: 認証ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
