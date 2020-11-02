@@ -7,7 +7,7 @@ uid: exam.az-120
 displayName: AZ-120
 summary: |-
   <div>
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細はこちら</a>。</strong></font><br/><br/></div><div><strong>この試験の内容は、2020 年 7 月 21 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細はこちら</a>。</strong></font><br/><br/></div><div><strong>この試験の内容は、2020 年 9 月 17 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
   </div>
 
   この試験の受験対象者は、Microsoft Azure での SAP ソリューションの長期的な運用に固有の SAP システム ランドスケープと業界標準に関する幅広い経験と知識を持つアーキテクトまたはエンジニアである必要があります。
@@ -31,8 +31,8 @@ locales:
 levels:
 - advanced
 skills:
-- この試験の内容は、2020 年 7 月 21 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
-- SAP WorkloadsをAzureに移行する (10-15%)
+- この試験の内容は、2020 年 9 月 17 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- SAP Workloads を Azure に移行する (10-15%)
 - SAP Workloads をサポートする Azure ソリューションの設計 (20-25%)
 - Azure for SAP Workloads の構築とデプロイ (35-40%)
 - SAP Workloads 向け Azure インフラストラクチャの検証 (10-15%)
@@ -59,7 +59,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
+- title: 認証ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -71,7 +71,7 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊施設をリクエスするト
+- title: Request accommodations
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: ../request-accommodations.md
 - title: 試験のポリシーと FAQ

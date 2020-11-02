@@ -7,8 +7,7 @@ uid: exam.az-220
 displayName: AZ-220
 summary: |-
   <div>
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
-  <div><strong>本試験の内容は、2020 年 9 月 24 日 に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細はこちら</a>。</strong></font><br/><br/></div><div><strong>この試験の内容は、2020 年 9 月 24 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
   </div>
 
   この試験の受験者は、Azure IoT ソリューションのクラウド コンポーネントとエッジ コンポーネントを開発する主題に関する専門知識を持っている必要があります。
@@ -31,11 +30,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 本試験の内容は、2020年9月24日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
+- この試験の内容は、2020 年 9 月 24 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
 - IoT ソリューション インフラストラクチャの実装 (15-20%)
 - デバイスのプロビジョニングと管理を行います (20-25%)
 - Edge の実装 (15-20%)
-- データのプロセスおよび管理 (15-20%)
+- データの処理と管理 (15-20%)
 - IoT ソリューションの監視、トラブルシューティングおよび最適化 (15-20%)
 - セキュリティの実装 (15-20%)
 roles:
@@ -61,7 +60,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
+- title: 認証ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -73,7 +72,7 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊施設をリクエスするト
+- title: Request accommodations
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: ../request-accommodations.md
 - title: 試験のポリシーと FAQ

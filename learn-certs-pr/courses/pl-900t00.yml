@@ -8,12 +8,12 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 'Power Platform コンポーネントの説明: Power Apps、Power BI 、および Microsoft Automate'
-- skill: 'Power Platform コンポーネントの説明: Common Data Service 、コネクタ、AI Builder'
-- skill: M365、Dynamics 365、Microsoft Azure、サードパーティのサービス全体にわたるクロスクラウド シナリオについて説明する
-- skill: Power Platform の利点と機能を特定する
-- skill: 基本的な機能と事業価値の Power Platform コンポーネントを特定する
-- skill: Microsoft Automate、Power BI 、および Power Apps を使用して、簡単なソリューションを実装する
+- skill: Power Platformコンポーネントの説明：Power Apps、Power BI、Microsoft Automate
+- skill: Power Platformコンポーネントの説明：Common Data Service、Connectors、AI Builder
+- skill: M365、Dynamics365、MicrosoftAzure、およびサードパーティサービス全体のクロスクラウドシナリオについての説明
+- skill: PowerPlatformの利点と機能の特定
+- skill: 基本的な機能とビジネスバリューを持ったPowerPlatformコンポーネントの特定
+- skill: PowerApps、PowerAutomate、PowerBI、かつPowerVirtualAgentsを使用してシンプルなソリューションの実装
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -26,93 +26,110 @@ products:
 exams:
 - uid: exam.pl-900
 summary: |-
-  Power Platform の事業価値と製品機能について学習します。シンプルな Power App を作成し、データを Common Data Service に接続し、Power BI ダッシュボードを構築し、Power Automate を使用してプロセスを自動化します。
+  PowerPlatformのビジネス価値と製品機能を学びましょう。 シンプルなPowerAppsを作成し、CommonDataServiceでデータを接続し、PowerBIダッシュボードを構築し、PowerAutomateでプロセスを自動化し、Power VirtualAgentsでチャットボットを構築します。
 
-  #### 視聴者プロフィール
-  この試験の受験者は、ビジネス プロセスを自動化し、データを分析してビジネス インサイトを形成し、シンプルなアプリ体験を得てより効果的に行動することによって、生産性の向上を目指すユーザーです。
+  #### Audience profile
+
+  この試験の候補者は、ビジネスプロセスを自動化し、データを分析してビジネスインサイトを生成し、シンプルなアプリエクスペリエンスを作成することでより効果的に行動することで、生産性の向上を目指すユーザーです。
 prerequisitesSection: |-
-  このコースには前提条件はありません
-outlineSection: |-
-  ### モジュール 1&#58; Power Platform 入門
-  Power Platform のコンポーネント、データを接続する方法、および組織がこのテクノロジを活用してビジネス ソリューションを作成する方法について学びます。
-  #### レッスン
-  - Power Platform の概要
-  - モジュールのサマリー
+  このコースのための前提条件はありません。
+outlineSection: |+
+  ### Module 1&#58; Introduction to Power Platform
+  Power Platformのコンポーネント、データを接続する方法、および組織がこのテクノロジーを活用してビジネスソリューションを作成する方法について学習します。
+  #### Lessons -パワープラットフォームの概要
+  - モジュールの概要
 
-  学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - Power Platform の各コンポーネント アプリケーションを使用してビジネス ソリューションを作成するべき時を見分ける
-  - Power Platform を使用してビジネス ソリューションを作成することの価値について学習する
-  - Power Platform のコンポーネントと機能について学習する
+  このモジュールを完了すると、受講者は次のことができるようになります&#58;
+  - 各PowerPlatformコンポーネントアプリケーションを使用してビジネスソリューションを作成するタイミングの特定
+  - PowerPlatformを使用してビジネスソリューションを作成することの価値を学ぶこと
+  - PowerPlatformのコンポーネントと機能を学ぶこと
 
+  ### Module 2&#58; Introduction to Common Data Service
+  Common Data Serviceを使用すると、クラウド内の強力でスケーラブルなデータソリューションを詳しく調べることができます。 Common Data Serviceの特徴と、PowerPlatformと連携して独自の効率的なビジネスソリューションを作成する方法を学びます。
+  #### Lessons -共通データサービスの概要
+  - モジュールの概要
 
-  ### モジュール 2&#58; Common Data Service 入門
-  Common Data Service により、クラウド内での強力でスケーラブルなデータ ソリューションを探求することが可能です。Common Data Service が何によって作動し、Power Platform とともにどのように機能して、ユニークで効率的なビジネス ソリューションの作成につながるのかについて学習します。
-  #### レッスン
-  - Common Data Service の概要
-  - モジュールのサマリー
+  #### Lab &#58; Data Modeling
+  - ソリューションの作成
+  - エンティティと関係の作成
+  - データのインポート
 
-  #### ラボ &#58; データ モデル
-  - 環境とソリューションを作成する
-  - エンティティとリレーションシップを作成する
-  - データをインポートする
+  このモジュールを完了すると、受講者は次のことができるようになります&#58;
+  - Common DataServiceとCommonDataModelの違いの説明
+  - ユースケースとビジネスルールおよびプロセスフローの制限についての説明
+  - 共通のデータサービスにある環境、エンティティ、フィールド、および関係の説明
 
-  学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - Common Data Service と Common Data Model の違いを説明する
-  - ビジネス ルールとプロセス フローの使用事例と限界について説明する
-  - Common Data Service 内にはどのような環境、エンティティ、フィールド、およびリレーションシップがあるのかについて説明する
+  ### Module 3&#58; Get Started with Power Apps
+  Power Appsの価値と機能、および他の組織がこのテクノロジーを活用してビジネス向けのシンプルなアプリケーションを構築する方法について学びます。
+  #### Lessons 
+  - PowerAppsの概要
+  - キャンバスアプリの作成方法
+  - モデル駆動型アプリを構築する方法
+  - PowerAppsポータルの概要
+  #### Lab &#58; How to build a canvas app, part 1
+  - スタッフキャンバスアプリの作成
+  - アプリを完成させること
 
+  #### Lab &#58; How to build a canvas app, part 2
+  - セキュリティキャンバスアプリの作成
 
-  ### モジュール 3&#58; Power アプリを使い始める
-  Power App の価値と機能、および他の組織がこの技術を活用して自社用の簡単なアプリケーションを構築している方法について学習します。
-  #### レッスン
-  - Power アプリの概要
-  - アプリ ソリューションを構築する方法
+  #### Lab &#58; How to build a model-driven app
+  - ビューとフォームのカスタマイズ
+  - モデル駆動型アプリケーションの作成
 
-  #### ラボ&#58; キャンバス アプリ、パート1
-  - スタッフ用のキャンバス アプリを作成する
-  - アプリを完成させる
+  #### Lab &#58; How to build a Power Apps portal
+  - PowerAppsポータルのプロビジョニング
+  - ポータルWebページの作成
+  - ポータルテーマの変更
 
-  #### ラボ&#58; キャンバス アプリ、パート2
-  - セキュリティ キャンバス アプリを作成する
+  このモジュールを完了すると、受講者は次のことができるようになります&#58;
+  - 他の組織がPowerAppsを使用してプロセスをデジタル化する方法を学ぶこと
+  - Power Appsの動作を確認し、最初のアプリを作成するためのオプションを学ぶこと
+  - PowerAppsとは何かとそのビジネス価値について学ぶこと
 
-  #### ラボ&#58; モデル駆動型アプリ
-  - ビューとフォームをカスタマイズする
-  - モデル駆動型アプリケーションを作成する
-
-  学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - 他の組織が Power アプリを用いてプロセスをデジタル化する方法を学習する
-  - 動作中の Power アプリを見て、自分の最初のアプリを作成するためのオプションについて学習する
-  - Power アプリとは何か、また、そのビジネス上の価値について学習する
-
-
-  ### モジュール 4&#58; Power Automate を使い始める
-  ユーザーがどのように Power Automate を活用して、ビジネスの能率と生産性を改善することができるのかについて学習します。
-  #### レッスン
-  - Power Automate の概要
+  ### Module 4&#58; Get Started with Power Automate
+  ユーザーがPowerAutomateを活用して、ビジネスの効率と生産性を向上させる方法を学びます。
+  #### Lessons -電源自動化の概要
   - 自動化されたソリューションを構築する方法
 
-  #### ラボ&#58; Power Automate
-  - 来訪通知フローを作成する
-  - セキュリティ一括処理フローを作成する
+  #### Lab &#58; Power Automate
+  - 訪問通知フローの作成
+  - セキュリティスイープフローの作成
 
-  学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - Power Automate がどのように機能し、ユーザーの観点からはどのように映るかを見る
-  - 簡単なフローを構築する
-  - Power Automate のビジネス上の価値と機能について学習する
+  このモジュールを完了すると、受講者は次のことができるようになります&#58;
+  - Power Automateがどのように機能し、ユーザーの視点から見えるかの確認
+  - 簡単なフローを作成します
+  - PowerAutomateのビジネス価値と機能を学ぶこと
 
+  ### Module 5&#58; Get Started with Power BI
+  組織がPowerBIを使用してデータを簡単にクリーンアップ、表示、および理解し、十分な情報に基づいた意思決定を行う方法を学びます。
+  #### Lessons 
+  - PowerBIの概要
+  - 簡単なダッシュボードを作成する方法
 
-  ### モジュール 5&#58; Power BI を使い始める
-  組織が Power BI をどのように使用し、データを簡単に清浄化、表示、および理解して、より十分な情報を得たうえでの決定を行うことができるかについて学習します。
-  #### レッスン
-  - Power BI の概要
-  - 簡単なダッシュボードを構築する方法
+  #### Lab &#58; How to build a simple dashboard
+  - PowerBIレポートの作成
+  - PowerBIダッシュボードの作成
 
-  #### ラボ&#58; Power BI
-  - Power BI レポートを作成する
-  - Power BI ダッシュボードを作成する
+  このモジュールを完了すると、受講者は次のことができるようになります&#58;
+  - Power BIがどのように機能し、ユーザーの視点から見えるかを確認する
+  - シンプルなPowerBIダッシュボードを構築する方法を学ぶこと
+  - PowerBIのビジネス価値と機能についての説明
 
-  学生はこのモジュールの完了後、次のことができるようになります&#58;
-  - Power BI がどのように機能し、ユーザーの観点からはどのように映るかを見る
-  - 簡単な Power BI ダッシュボードを構築する方法を学習する
-  - Power BI のビジネス上の価値と機能について説明する
+  ### Module 6&#58; Introduction to Power Virtual Agents
+  Power Virtual Agentの価値と機能、および組織がこのテクノロジーを活用してビジネス向けのチャットボットソリューションを構築する方法について学びます。
+  #### Lessons -Power VirtualAgentsの概要
+  - チャットボットを構築する方法
+
+  #### Lab &#58; How to build a basic chatbot
+  - PVAにサインアップして、新しいボットの作成
+  - トピックの作成
+  - テストトピック
+  - 挨拶の変更
+  - ボットの公開
+
+  このモジュールを完了すると、受講者は次のことができるようになります&#58;
+  - Power VirtualAgentsのビジネス価値と機能の説明
+  - 基本的なチャットボットの構築
+  - Power VirtualAgentとチャットボットを構成する重要なコンポーネントを学ぶこと
 

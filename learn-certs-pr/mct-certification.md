@@ -1,13 +1,14 @@
 ---
-title: Microsoft 認定トレーナーになる | Microsoft Docs
-description: Microsoft 認定トレーナーになる
+title: 'Microsoft 認定トレーナーになる | Microsoft Docs'
+description: 'Microsoft 認定トレーナーになる'
 documentationcenter: NA 
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 11/26/2019
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # Microsoft 認定トレーナーになる
 
@@ -23,7 +24,7 @@ MCT プログラムの要件、MCT の登録または更新プロセス、また
 
 ## MCT プログラム のメリット
 
-Microsoft 認定トレーナーとして、パーソナライズされた [ダッシュボード](https://www.microsoft.com/learning/dashboard.aspx) にアクセスすると、さまざまな便利な MCT リソースが見つかります。MCT 証明書をダウンロードして、利用可能な割引を確認してください！
+Microsoft 認定トレーナーとして、パーソナライズされた [ダッシュボード](https://www.microsoft.com/learning/dashboard.aspx) にアクセスすると、さまざまな便利な MCT リソースが見つかります。MCT 証明書をダウンロードして、利用可能な割引を確認してください!
 
 さらに、[MCT Central](https://www.microsoft.com/en-us/learning/mct-central.aspx) にアクセスできます。これにより、MCT は最新のニュースを最新の状態に保ち、仕事を見つけ、世界中の他の MCT とつながり、 MCT リージョナル リードに連絡することができます。
 
@@ -35,10 +36,9 @@ MCT プログラムは、Microsoft テクノロジのトレーニングを提供
 
 MCT プログラムの要件の詳細については、このページの [申請プロセス](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) セクションにある MCT プログラム ガイドおよび MCT プログラム契約を確認してください。
 
-
 ### MCT プログラムへの登録の要件
 
-- 現在の Microsoft 認定資格または MCT プログラムに適格な資格を有していること。 
+- 現在の Microsoft 認定資格または MCT プログラムに適格な資格を有していること。
 (認証の条件のリストについては以下を参照)
 - 次のいずれかにより検証された指導スキルの実証:
   - 指導スキルの認定
@@ -60,7 +60,7 @@ MCT プログラムの要件の詳細については、このページの [申�
   
   OR<br/><br/>
 
-  - 1 年以上の指導経験があることの証明 
+  - 1 年以上の指導経験があることの証明
 
 **注意** MCT として更新するには、契約応当日までに MCT プログラムの更新要件を満たす必要があります。
 
@@ -75,7 +75,7 @@ MCT プログラムの要件の詳細については、このページの [申�
 
 ### 現在の Microsoft 認定資格および MCT プログラムに適格な資格
 
-**Microsoft Certifications**
+**Microsoft 認定資格**
 
 - [Microsoft Certified: Azure Administrator Associate](https://www.microsoft.com/learning/azure-administrator.aspx)
 - [Microsoft Certified: Azure Developer Associate](https://www.microsoft.com/learning/azure-developer.aspx)
@@ -94,6 +94,7 @@ MCT プログラムの要件の詳細については、このページの [申�
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/m365-teams-administrator-associate)
+- [Microsoft Certified: Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
 - [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)
@@ -109,7 +110,7 @@ MCT プログラムの要件の詳細については、このページの [申�
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): ビジネス アプリケーション (2021年1月31日廃止予定)、データ管理および分析 (2021年1月31日廃止予定)、Productivity (2021年1月31日廃止予定)、またはコア インフラストラクチャ (2021年1月31日廃止予定)
 - [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): アプリ ビルダー (2021年1月31日廃止予定)
 - [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Outlook Associate (Outlook and Outlook 2019)](/learn/certifications/mos-outlook-2019), [Microsoft Office Specialist: Associate (Office 365 and Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019), [Access Expert (Access and Access 2019)](/learn/certifications/mos-access-expert-2019) or [Microsoft Office Specialist: Expert (Office 365 and Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
- 
+
 **注意** Microsoft 認定資格および MCT プログラムに適格な資格は変更されることがあります。全ての新しいロールベースの認定は、MCT プログラムが一旦リリースされ次第有効となります。廃止された認定につきましては、廃止後最大 6 ヶ月間有効となります。[終了した認定資格の詳細](https://www.microsoft.com/learning/retired-certifications.aspx).
 
 ## 申請プロセス
@@ -138,9 +139,10 @@ Microsoft オフィス スペシャリストであるがMicrosoft 認定資格 I
 
 MCT 登録ツールを使用して次のことを行いましょう:
 
-- **MCT プログラムの要件を確認し、MCT プログラム ガイドおよび契約に署名します。** 電子署名により、MCT 契約の条件の承諾が認証されます。
-- **プロファイル情報を更新します。** ここで指定する連絡先情報は MCT のコミュニケーションに使用されます。
-- **雇用状況を指定します。** ラーニング パートナーまたは Microsoft Imagine Academy に雇用されている場合は、雇用主であるラーニング パートナーまたは Microsoft Imagine Academy の ID 番号が必要です。
+-**MCT プログラムの要件を確認し、MCT プログラム ガイドおよび契約に署名します。**電子署名により、MCT 契約の条件の承諾が認証されます。
+-**プロファイル情報を更新します。**ここで指定する連絡先情報は MCT のコミュニケーションに使用されます。
+-**雇用状況を指定します。**ラーニング パートナーまたは Microsoft Imagine Academy に雇用されている場合は、雇用主であるラーニング パートナーまたは Microsoft Imagine Academy の ID 番号が必要です。
+
 - **支払い方法を選択します。** プログラム料金は、国/地域と雇用状況により異なります。お住まいの国/地域の MCT および MCT Alumni メンバーシップ料金は、ページ最後の参照ツールでご確認ください。
 
 ## MCT Alumni プログラム
@@ -167,7 +169,6 @@ MCT Alumni には、次のようなメリットがあります:
 
 MCT Alumni のメンバーになることに関心がある場合は、メンバーシップの条件について理解するために MCT Alumni プログラム契約を確認してください。<br/>
 
-
 [MCT Alumni プログラム契約](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2XP6W)
 
 **注意** すべてのコンテンツは、特に注記がない限り英語で記述されています。
@@ -182,8 +183,8 @@ MCT Alumni のメンバーになることに関心がある場合は、メンバ
 
 MCT に戻るには:
 
-- このページの [要件](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) セクションで説明されている **MCT プログラムの要件を満たしていることを確認してください** 。現在の Microsoft 認定資格に対するトランスクリプトと、MCT プログラムに適格な資格を有していることを確認します。
-- **MCT プログラムへの参加を申し込みます。** MCT Alumni は、以前に MCT プログラムに申請したときに取得した指導スキルの認定の証明を提出するか、少なくとも 1 年の指導経験があることを実証する照会状を提出できます。この照会状は、以前の顧客、マネージャー、同僚のいずれかからのものにできます。
+- このページの [要件](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) セクションで説明されている **MCT プログラムの要件を満たしていることを確認してください**。現在の Microsoft 認定資格に対するトランスクリプトと、MCT プログラムに適格な資格を有していることを確認します。
+- **MCT プログラムへの参加を申し込みます。**MCT Alumni は、以前に MCT プログラムに申請したときに取得した指導スキルの認定の証明を提出するか、少なくとも 1 年の指導経験があることを実証する照会状を提出できます。この照会状は、以前の顧客、マネージャー、同僚のいずれかからのものにできます。
 
 ## MCT および MCT Alumni プログラムの料金
 

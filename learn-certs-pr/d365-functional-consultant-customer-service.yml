@@ -7,24 +7,24 @@ uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div>
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
-  <div><strong>MB-200 は、2020 年 9 月に新しい試験<a href="/learn/certifications/exams/pl-200">PL-200</a>に置き換わります。MB-200 が廃止される 2020 年 12 月 31 日までは、MB-200 または PL-200 のどちらかに加えて MB-230 に合格すると、この認定資格を取得できます。MB-200 の廃止後、この認定資格を取得するには、PL-200 と MB-230 に合格する必要があります。</strong><br/><br/></div></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細はこちら</a>。</strong></font><br/><br/></div><div><strong>MB-200 は、2020 年 9 月に新しい試験<a href="/learn/certifications/exams/pl-200">PL-200</a>に置き換わります。MB-200 が廃止される 2020 年 12 月 31 日までは、MB-200 または PL-200 のどちらかに加えて MB-230 に合格すると、この認定資格を取得できます。MB-200 の廃止後、この認定資格を取得するには、PL-200 と MB-230 に合格する必要があります。</strong><br/><br/></div></div>
 
-  Microsoft Dynamics 365 Customer Service Functional Consultants は、迅速かつ機敏、そして AI を活用した CX ソリューションを構築し、顧客ニーズを予測する実用的な洞察をもたらします。
+  「Microsoft Dynamics 365 Customer Service Functional Consultants は、迅速かつ機敏、そして AI を活用した CX ソリューションを構築し、顧客ニーズを予測する実用的な洞察をもたらします。」
 subTitle: Microsoft Dynamics 365 Customer Service Functional Consultants は、迅速かつ機敏、そして AI を活用した CX ソリューションを構築し、顧客ニーズを予測する実用的な洞察をもたらします。
 levels:
 - intermediate
 skills:
 - 発見、計画、および分析を実行する
-- ユーザー エクスペリエンスデザインを管理する
+- ユーザー エクスペリエンスの設計を管理する
 - エンティティおよびデータを管理する
-- セキュリティの実装
+- セキュリティを実装する
 - 統合を実装する
 - ソリューションの展開およびテストを実行する
-- 構成を実行する
-- ケースおよびナレッジ ベースを管理する
-- キュー、資格、および SLA を管理する
-- Forms Proを構成する
+- ケースおよび Knowledge Management を管理する
+- キュー、資格、およびサービス レベル アグリーメント (SLA) を管理する
+- スケジューリングを実装する
+- カスタマー サービスにオムニチャネルを実装する
+- 分析を管理する
 roles:
 - functional-consultant
 type: role-based
@@ -51,7 +51,7 @@ exams:
 - uid: exam.mb-200
 - uid: exam.mb-230
 resources:
-- title: 認定ポスター
+- title: 認証ポスター
   description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: 認証への道のり

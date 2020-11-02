@@ -7,8 +7,8 @@ uid: exam.mb-400
 displayName: MB-400
 summary: |-
   <div>
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
-  <div><strong>この認定資格は 2020 年 12 月 31 日に廃止されます。新しい試験 <a href="/learn/certifications/exams/pl-400">PL-400</a> は、2020 年 9 月 に利用可能になります。詳細については、<a href="https://aka.ms/microsoftlearncommunity">弊社のブログにアクセス</a>して、試験の廃止に関する投稿をご覧ください。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
+  <div><strong>この認定資格は 2020 年 12 月 31 日に廃止されます。新しい試験 <a href="/learn/certifications/exams/pl-400">PL-400</a> は、2020 年 9 月 に利用可能になります。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます。</strong><br/><br/></div>
   </div>
 
   この試験の受験者は、 Dynamics 365 の Microsoft Power Apps モデル駆動型アプリケーションで作業して、Dynamics 365 の実装を設計、開発、セキュリティ保護、拡張する開発者です。受験者は、アプリケーションの強化、カスタム ユーザー エクスペリエンス、システム統合、データ変換、カスタム プロセスの自動化、カスタムの可視化などを含むソリューションのコンポーネントを実行します。
@@ -29,7 +29,7 @@ skills:
 - Technical Design を作成する (10-15%)
 - Common Data Service を設定する (15-20%)
 - Power Apps を作成および設定する (10-15%)
-- ビジネス プロセス自動化を設定する (10-15%)
+- ビジネスプロセスの自動化を構成する (10-15%)
 - ユーザー エクスペリエンスを拡張する (15-20%)
 - プラットフォームを拡張する (15-20%)
 - 統合を開発する (10-15%)
@@ -58,7 +58,7 @@ resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認定ポスター
+- title: 認証ポスター
   description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
@@ -70,7 +70,7 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 宿泊施設をリクエスするト
+- title: Request accommodations
   description: 試験の宿泊施設のリクエストの詳細をご覧ください。
   href: ../request-accommodations.md
 - title: 試験のポリシーと FAQ
