@@ -24,20 +24,20 @@ roles:
 products:
 - azure
 summary: |-
-  このワックショップでは、AzureパブリッククラウドとAzure Stackを組み合わせてハイブリッドクラウドアーキテクチャを設計する方法を学びます。この機能的なアーキテクチャにより、お客様は、Azureを「場所」としてではなく、Azureへの投資を「クラウドプラットフォーム」として活用できるようになります。どちらのシステムがAzure public cloudに向いていて、どちらがAzure stackjにもっと適しているのかどうかを決められるようにもなります。
+  このワックショップでは、AzureパブリッククラウドとAzure Stackを組み合わせてハイブリッドクラウドアーキテクチャを設計する方法を学びます。この機能的なアーキテクチャにより、お客様は、Azureを「場所」としてではなく、Azureへの投資を「クラウドプラットフォーム」として活用できるようになります。どちらのシステムがAzure public cloudに向いていて、どちらがAzure stackにもっと適しているのかどうかを決められるようにもなります。
 
-  #### Audience profile
+  #### 聴衆プロファイル
   このワークショップは、クラウドテクノロジーのインフラストラクチャとソリューションの設計に関するアーキテクチャの専門知識を持ち、「このコースについて」と「コース修了時」の領域で説明されているAzureおよびAzureサービスについて詳しく知りたいクラウドアーキテクトとITプロフェッショナルを対象としています。このワークショップに参加する人は、マイクロソフト以外の他のクラウドテクノロジーにも精通していて、コースの前提条件を満たし、Azureのクロストレーニングを希望しているものとします。
 outlineSection: |-
-  ### Module 1&#58; Whiteboard Design Session - Azure Stack Migrate or Azure Stack Operate
-  #### Lessons
+  ### モジュール 1&#58; ホワイトボード設計セッション-Azure Stack MigrateまたはAzure Stack Operate
+  #### レッスン
   - 顧客のケーススタディの確認
   - 概念実証解決策の設計
   - 解決策の提示
 
-  ### Module 2&#58; Hands-on Lab - Azure Stack
+  ### モジュール 2&#58; Hands-on Lab - Azure Stack
 
-  #### Lab &#58; Azure Stack Migrate
+  #### ラボ &#58; Azure Stack Migrate
 
   - テナントのAzure Stack Hubデプロイメント分類法の作成
   - Contoso Financial Webアプリケーションを展開
@@ -45,7 +45,7 @@ outlineSection: |-
   - Azure機能によるバックエンドプロセスの自動化
   - Contoso Finance Admin ウェブサイトを展開
 
-  #### Lab &#58; Azure Stack Operate
+  #### ラボ &#58; Azure Stack Operate
 
   - Azure Stack Hub Marketplaceアイテムを作成して公開
   - マルチテナンシーを実装
