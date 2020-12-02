@@ -34,63 +34,70 @@ exams:
 summary: |-
   このコースでは、受講者にAzureIoTソリューションのクラウド部分とエッジ部分を正常に作成および維持するために必要なスキルと知識を提供します。このコースには、IoT Hub、デバイスプロビジョニングサービス、Azure Stream Analytics、TimeSeriesInsightsなどのコアAzureIoTサービスの全範囲が含まれています。このコースには、Azure PaaSサービスに焦点を当てるだけでなく、IoT Edge、デバイス管理、監視とトラブルシューティング、セキュリティの懸念、およびAzure IoTCentralに関するセクションが含まれています。
 
-  #### Audience profile
+  #### 聴衆プロファイル
 
   AzureIoT開発者は、AzureIoTソリューションのクラウド部分とエッジ部分を実装して維持する責任があります。IoT開発者は、AzureIoTサービスやその他のMicrosoftツールを使用してデバイスを構成および保守するだけでなく、物理デバイスもセットアップし、ライフサイクル全体を通じてデバイスを保守する責任があります。IoT開発者は、デバイストポロジ、接続、デバッグ、セキュリティなど、IoTソリューションの設計を実装します。エッジデバイスのシナリオでは、IoT開発者はコンピューティング-コンテナーを展開し、デバイスネットワークを構成します。これには様々なエッジゲートウェイの実装が含まれる可能性があります。IoT開発者は、IoTに関連する監視やデータ変換など、データパイプラインを管理するソリューションの設計を実装します。IoT開発者は、データエンジニアやその他の利害関係者と協力して、ビジネス統合を成功させます。IoT開発者は、データストレージオプション、データ分析、データ処理、AzureIoTPaaSとSaaSのオプションなどのAzureサービスについて十分に理解している必要があります。IoT開発者は、C＃、Node.js、C、Python、Javaなど、少なくとも1つのAzureサポート言語での基本的なプログラミングスキルを持っている必要があります。
-prerequisitesSection: "- Cloud SolutionAwareness&#58; 受講者は、Azureポータルの使用経験と、PaaS、SaaS、およびIaaSの実装に関する基本的な知識を持っている必要があります。\n- Software Development Experience&#58; ソフトウェア開発の経験はこのコースの前提条件ですが、特定のソフトウェア言語は必要ありません。また、経験は専門家レベルである必要はありません。\n- DataProcessingExperience&#58; データストレージとデータ処理の一般的な理解が推奨されますが、必須ではありません。\n\nAzureとクラウドコンピューティングを初めて使用する場合は、次のリソースのいずれかを検討してください&#58;\n - 無料オンライン&#58; Azure Fundamentals (https&#58;//docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)\n- インストラクター主導のコース&#58; AZ-900&#58; Azure Fundamentals (https&#58;//docs.microsoft.com/en-us/learn/certifications/courses/az-900t01) "
-outlineSection: |+
-  ### Module 1&#58; Introduction to IoT and Azure IoT Services
-  このモジュールでは、受講者は、さまざまなIoT実装のビジネス上の考慮事項を調べ、AzureIoTリファレンスアーキテクチャがIoTソリューションをどのようにサポートしているかを確認することから始めます。 このモジュールでは、IoTソリューションで一般的に使用されるAzureサービスの概要と、Azureポータルの概要についても説明します。
+prerequisitesSection: |- 
+  - Cloud Solution Awareness&#58; 受講者は、Azureポータルの使用経験と、PaaS、SaaS、およびIaaSの実装に関する基本的な知識を持っている必要があります。
+  - Software Development Experience&#58; ソフトウェア開発の経験はこのコースの前提条件ですが、特定のソフトウェア言語は必要ありません。また、経験は専門家レベルである必要はありません。
+  - Data Processing Experience&#58; データストレージとデータ処理の一般的な理解が推奨されますが、必須ではありません。
 
-  #### Lessons
+  Azureとクラウドコンピューティングを初めて使用する場合は、次のリソースのいずれかを検討してください&#58;
+  - 無料オンライン&#58; Azure Fundamentals (https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
+  - インストラクター主導のコース&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01) 
+outlineSection: |+
+  ### モジュール 1&#58; IoTとAzure IoTサービスの概要
+  このモジュールでは、受講者は、さまざまなIoT実装のビジネス上の考慮事項を調べ、Azure IoTリファレンスアーキテクチャがIoTソリューションをどのようにサポートしているかを確認することから始めます。 このモジュールでは、IoTソリューションで一般的に使用されるAzureサービスの概要と、Azureポータルの概要についても説明します。
+
+  #### レッスン
   - IoTのビジネスチャンス
   - IoTソリューションアーキテクチャの概要
   - IoTハードウェアとクラウドサービス
   - このコースのラボシナリオ
 
 
-  #### Lab &#58; Getting Started with Azure
+  #### ラボ &#58; Azure入門
 
-  #### Lab &#58; Setting Started with Azure IoT Services
+  #### ラボ &#58; Azure IoTサービスで設定を開始
 
 
   このモジュールを完了すると、受講者は次のことができるようになります&#58;
-  - IoTとAzureIoTをビジネスでどのように適用できるかの説明
-  - AzureIoTソリューションアーキテクチャのコアコンポーネントについての説明
-  - AzureIoTサービスと、それらがIoTソリューションにどのように関連しているかの説明
+  - IoTとAzure IoTをビジネスでどのように適用できるかの説明
+  - Azure IoTソリューションアーキテクチャのコアコンポーネントについての説明
+  - Azure IoTサービスと、それらがIoTソリューションにどのように関連しているかの説明
   - Azureアカウントを作成し、Azureポータルを使用してIoTハブとDPSサービスの作成
 
 
   このモジュールでは、受講者はAzure IoT Hubサービスを詳しく見て、IoTハブとデバイス間の安全な双方向通信を構成する方法を学習します。受講者は、デバイスツインやIoTハブエンドポイントなどのIoTハブ機能についても紹介されます。これらの機能については、コースが進むにつれてさらに詳しく説明されます。
 
-  #### Lessons
+  #### レッスン
   - IoTハブとデバイス
   - IoT開発ツール
   - デバイスの構成と通信
 
-  #### Lab &#58; Setup the Development Environment
+  #### ラボ &#58; 開発環境のセットアップ
 
-  #### Lab &#58; Connect IoT Device to Azure
+  #### ラボ &#58; IoTデバイスをAzureに接続
 
   このモジュールを完了すると、受講者は次のことができるようになります&#58;
   - IoTハブサービスのコア機能の説明
-  - AzureIoTデバイスのライフサイクルの説明
+  - Azure IoTデバイスのライフサイクルの説明
   - IoT HubがデバイスIDを管理し、他のセキュリティ機能を実装する方法の説明
-  - Azureポータル、Azure CLI、およびVisual StudioCodeを使用してデバイスをIoTHubに登録
+  - Azureポータル、Azure CLI、およびVisual Studio Codeを使用してデバイスをIoT Hubに登録
   - IoTハブデバイスおよびサービスSDKの実装
 
 
-  ### Module 3&#58; Device Provisioning at Scale
-  このモジュールでは、受講者はデバイスプロビジョニングと、Azure Device ProvisioningServiceを構成および管理する方法に焦点を当てます。 受講者は、登録プロセス、自動プロビジョニングと再プロビジョニング、登録解除、およびさまざまな認証メカニズムの実装方法について学習します。
+  ### モジュール 3&#58; 大規模なデバイスプロビジョニング
+  このモジュールでは、受講者はデバイスプロビジョニングと、Azure Device Provisioning Serviceを構成および管理する方法に焦点を当てます。 受講者は、登録プロセス、自動プロビジョニングと再プロビジョニング、登録解除、およびさまざまな認証メカニズムの実装方法について学習します。
 
-  #### Lessons
+  #### レッスン
   - デバイスプロビジョニングサービスの利用規約
   - デバイスプロビジョニングサービスの構成と管理
   - デバイスプロビジョニングタスク
 
-  #### Lab &#58; Individual Enrollment of Devices in DPS
+  #### ラボ &#58; DPSへのデバイスの個別登録
 
-  #### Lab &#58; Automatic Enrollment of Devices in DPS
+  #### ラボ &#58; DPSへのデバイスの自動登録
 
   このモジュールを完了すると、受講者は次のことができるようになります&#58;
   - デバイスプロビジョニングのプロセスとデバイスプロビジョニングサービスの機能の説明
@@ -98,17 +105,17 @@ outlineSection: |+
   - デバイスプロビジョニングサービスSDKの実装
   - プロビジョニング解除や登録解除など、デバイスの登録プロセスの管理
 
-  ### Module 4&#58; Message Processing and Analytics
-  このモジュールでは、IoTHubやその他のAzureサービスを使用してメッセージを処理する方法を学習します。 受講者は、メッセージとイベントのルーティングを構成する方法、および組み込みのエンドポイントとカスタムエンドポイントへのルーティングを実装する方法の調査から始めます。 受講者は、IoTソリューションに一般的なAzureストレージオプションをいくつか学びます。 モジュールを締めくくるために、受講者はAzure StreamAnalyticsといくつかのASAパターンのクエリを実装します。
+  ### モジュール 4&#58; メッセージ処理と分析
+  このモジュールでは、IoT Hubやその他のAzureサービスを使用してメッセージを処理する方法を学習します。 受講者は、メッセージとイベントのルーティングを構成する方法、および組み込みのエンドポイントとカスタムエンドポイントへのルーティングを実装する方法の調査から始めます。 受講者は、IoTソリューションに一般的なAzureストレージオプションをいくつか学びます。 モジュールを締めくくるために、受講者はAzure Stream AnalyticsといくつかのASAパターンのクエリを実装します。
 
-  #### Lessons
+  #### レッスン
   - メッセージとメッセージ処理
   - データストレージオプション
   - Azure Stream Analytics
 
-  #### Lab &#58; Device Message Routing
+  #### ラボ &#58; デバイスメッセージルーティング
 
-  #### Lab &#58; Filtering and Aggregating Message Data
+  #### ラボ &#58; メッセージデータのフィルタリングと集約
 
   このモジュールを完了すると、受講者は次のことができるようになります&#58;
   - メッセージとイベントのルーティングの構成
@@ -116,78 +123,78 @@ outlineSection: |+
   - メッセージエンリッチメントの実装
   - Azure Stream Analyticsの入力、クエリ、および出力の実装
   - メッセージデータは、履歴や追加の分析のためにウォームストレージに保存
-  - メッセージ処理および分析ソリューション内でAzureFunctionの使用
+  - メッセージ処理および分析ソリューション内でAzure Functionの使用
 
-  ### Module 5&#58; Insights and Business Integration
+  ### モジュール 5&#58; インサイトとビジネスの統合
   - メッセージとイベントのルーティングの構成
   - データを組み込みおよびカスタムエンドポイントにルーティング
   - メッセージエンリッチメントの実装
   - Azure Stream Analyticsの入力、クエリ、および出力の実装
   - メッセージデータは、履歴や追加の分析のためにウォームストレージに保存
-  - メッセージ処理および分析ソリューション内でAzureFunctionの使用
+  - メッセージ処理および分析ソリューション内でAzure Functionの使用
 
-  #### Lessons
+  #### レッスン
   - IoTソリューションの事業統合
   - 時系列インサイトによるデータの視覚化
   - PowerBIによるデータの視覚化
 
-  #### Lab &#58; Integrate IoT Hub with Event Grid
+  #### ラボ &#58; IoTハブとイベントグリッドの統合
 
-  #### Lab &#58; Explore and Analyze Time Stamped Data with Time Series Insights
+  #### ラボ &#58; 時系列インサイトを使用してタイムスタンプ付きデータを調査かつ分析
 
   このモジュールを完了すると、受講者は次のことができるようになります&#58;
   - IoTソリューション内でのビジネス統合のオプションとその実現方法の説明
-  - LogicAppsとEventGridを使用してビジネス統合サポートの開発
+  - Logic AppsとEventGridを使用してビジネス統合サポートの開発
   - 時系列インサイトで視覚化するためのIoTデータの構成
   - PowerBIで視覚化するためのIoTデータの構成
 
-  ### Module 6&#58; Azure IoT Edge Deployment Process
-  このモジュールでは、モジュールをAzure IoTEdgeデバイスにデプロイする方法を学習します。 受講者は、IoTEdgeデバイスをゲートウェイデバイスとして構成および使用する方法も学習します。
+  ### モジュール 6&#58; Azure IoT Edgeの展開プロセス
+  このモジュールでは、モジュールをAzure Io TEdgeデバイスにデプロイする方法を学習します。 受講者は、IoT Edgeデバイスをゲートウェイデバイスとして構成および使用する方法も学習します。
 
-  #### Lessons
-  - Azure IoTEdgeの紹介
+  #### レッスン
+  - Azure IoT Edgeの紹介
   - エッジ展開プロセス
   - エッジゲートウェイデバイス
 
-  #### Lab &#58; Introduction to IoT Edge
+  #### ラボ &#58; IoT Edgeの概要
 
-  #### Lab &#58; Set Up an IoT Edge Gateway
+  #### ラボ &#58; IoT Edgeゲートウェイの設定
 
   このモジュールを完了すると、受講者は次のことができるようになります&#58;
-  - IoTデバイスとIoTEdgeデバイスの違いの説明
-  - IoTEdgeデバイスの構成
-  - デプロイメントマニフェストを使用してIoTEdgeデプロイメントの実装
-  - IoTEdgeデバイスをゲートウェイデバイスとして構成
+  - IoTデバイスとIoT Edgeデバイスの違いの説明
+  - IoT Edgeデバイスの構成
+  - デプロイメントマニフェストを使用してIoT Edgeデプロイメントの実装
+  - IoT Edgeデバイスをゲートウェイデバイスとして構成
 
-  ### Module 7&#58; Azure IoT Edge Modules and Containers
+  ### モジュール 7&#58; Azure IoT Edgeモジュールとコンテナー
   このモジュールでは、受講者はカスタムエッジモジュールを開発および展開し、ローカルストレージに依存するオフラインシナリオのサポートを実装します。 受講者は、Visual Studio Codeを使用し、サポートされているコンテナーエンジンを使用してコンテナーとしてカスタムモジュールを構築します。
 
-  #### Lessons
+  #### レッスン
   - カスタムエッジモジュールの開発
   - オフラインおよびローカルストレージ
 
-  #### Lab &#58; Develop, Deploy, and Debug a Custom Module on Azure IoT Edge
+  #### ラボ &#58; Azure IoT Edgeでカスタムモジュールを開発、デプロイ、デバッグ
 
-  #### Lab &#58; Run an IoT Edge Device in Restricted Network and Offline
+  #### ラボ &#58; 制限付きネットワークおよびオフラインでIoT Edgeデバイスの実行
 
   このモジュールを完了すると、受講者は次のことができるようになります&#58;
   - カスタムエッジモジュールを構築するための要件の説明
-  - コンテナ化されたモジュールを開発するためのVisual StudioCodeの構成
-  - カスタムモジュールをIoTEdgeデバイスにデプロイ
-  - オフラインシナリオをサポートするために、IoTEdgeデバイスにローカルストレージの実装
+  - コンテナ化されたモジュールを開発するためのVisual Studio Codeの構成
+  - カスタムモジュールをIoT Edgeデバイスにデプロイ
+  - オフラインシナリオをサポートするために、IoT Edgeデバイスにローカルストレージの実装
 
-  ### Module 8&#58; Device Management
+  ### モジュール 8&#58; 端末管理
   このモジュールでは、受講者はIoTソリューションのデバイス管理を実装する方法を学習します。 受講者は、デボイスツインを使用するデバイス管理ソリューションと直接的な方法を使用するソリューションを開発します。
 
-  #### Lessons
+  #### レッスン
   - IoTデバイス管理入門
   - IoTおよびIoTエッジデバイスの管理
   - 大規模なデバイス管理
 
 
-  #### Lab &#58; Remotely Monitor and Control Devices with Azure IoT Hub
+  #### ラボ &#58; Azure IoTHubを使用してデバイスをリモートで監視かつ制御
 
-  #### Lab &#58; Automatic Device Management
+  #### ラボ &#58; 自動デバイス管理
 
   このモジュールを完了すると、受講者は次のことができるようになります&#58;
   - 最も一般的なデバイス管理パターンと構成のベストプラクティスの説明
@@ -195,56 +202,56 @@ outlineSection: |+
   - デバイスツインと直接方式を使用して、さまざまなパターンのデバイス管理の実装
   - 自動デバイス管理とジョブを使用して、デバイス管理を大規模に実装
 
-  ### Module 9&#58; Solution Testing, Diagnostics, and Logging
+  ### モジュール 9&#58; ソリューションのテスト、診断、かつログ記録
   このモジュールでは、受講者は、開発者がIoTソリューションをテストするのに役立つロギングおよび診断ツールを構成します。受講者は、IoTHubとAzureMonitorを使用してアラートを構成し、問題のトラブルシューティングに使用できるデバイス接続状態などの状態を追跡します。
 
-  #### Lessons
+  #### レッスン
   - 監視とログ記録
   - トラブルシューティング
 
-  #### Lab &#58; Configure Metrics and Logs in Azure IoT Hub
+  #### ラボ &#58; Azure IoT Hubでメトリックとログの構成
 
-  #### Lab &#58; Monitor and Debug Connection Failures
+  #### ラボ &#58; 接続障害の監視とデバッグ
 
   このモジュールを完了すると、受講者は次のことができるようになります&#58;
-  - AzureIoTソリューションを監視およびログ記録するためのオプションの説明
-  - IoTソリューションをサポートするようにAzureMonitorの構成
+  - Azure IoTソリューションを監視およびログ記録するためのオプションの説明
+  - IoTソリューションをサポートするようにAzure Monitorの構成
   - IoTソリューションをサポートするようにIoTハブメトリックの構成
   - 診断ログの実装
   - IoTデバイスの接続と通信の問題のトラブルシューティング
 
-  ### Module 10&#58; Azure Security Center and IoT Security Considerations
-  このモジュールでは、受講者はIoTソリューションに適用されるセキュリティの考慮事項について検討します。 受講者は、ソリューションアーキテクチャとベストプラクティスに適用されるセキュリティを調査することから始め、次にAzure Security Center forIoTがデバイスの展開とIoTハブの統合をどのようにサポートするかを確認します。 次に、受講者はAzure Security Center for IoT Agentsを使用して、ソリューションのセキュリティを強化します。
+  ### モジュール 10&#58; AzureセキュリティセンターとIoTセキュリティに関する考慮事項
+  このモジュールでは、受講者はIoTソリューションに適用されるセキュリティの考慮事項について検討します。 受講者は、ソリューションアーキテクチャとベストプラクティスに適用されるセキュリティを調査することから始め、次にAzure Security Center for IoTがデバイスの展開とIoTハブの統合をどのようにサポートするかを確認します。 次に、受講者はAzure Security Center for IoT Agentsを使用して、ソリューションのセキュリティを強化します。
 
-  #### Lessons
+  #### レッスン
   - IoTソリューションのセキュリティの基礎
-  - Azure Security Center forIoTの紹介
-  - Azure Security Center forIoTAgentsで保護の強化
+  - Azure Security Center for IoTの紹介
+  - Azure Security Center for IoT Agentsで保護の強化
 
-  #### Lab &#58; Implementing Azure Security Center for IoT
+  #### ラボ &#58; Azure Security Center forIoTの実装
 
   このモジュールを完了すると、受講者は次のことができるようになります&#58;
   - IoTソリューションのセキュリティ上の懸念とベストプラクティスの説明
-  - AzureIoTセキュリティアーキテクチャと脅威モデリングについての説明
-  - Azure Security Center forIoTが提供する機能とサポートについての説明
+  - Azure IoTセキュリティアーキテクチャと脅威モデリングについての説明
+  - Azure Security Center for IoTが提供する機能とサポートについての説明
   - セキュリティエージェントとセキュリティモジュールツインの構成
   - IoTイベント向けAzureセキュリティセンターの集約
 
-  ### Module 11&#58; Build an IoT Solution with IoT Central
+  ### モジュール 11&#58; IoT CentralでIoTソリューションを構築
 
-  このモジュールでは、受講者はAzure IoTCentralをIoTのSaaSソリューションとして構成および実装する方法を学習します。 受講者は、IoTCentralとその仕組みの高レベルの調査から始めます。 IoT Centralの確立についての基本的な理解があれば、受講者はデバイステンプレートの作成と管理に進み、次にIoTCentralアプリケーションでデバイスを管理します。
+  このモジュールでは、受講者はAzure IoT CentralをIoTのSaaSソリューションとして構成および実装する方法を学習します。 受講者は、IoT Centralとその仕組みの高レベルの調査から始めます。 IoT Centralの確立についての基本的な理解があれば、受講者はデバイステンプレートの作成と管理に進み、次にIoT Centralアプリケーションでデバイスを管理します。
 
-  #### Lessons
-  - IoTCentralの紹介
+  #### レッスン
+  - IoT Centralの紹介
   - デバイステンプレートの作成と管理
-  - Azure IoTCentralでデバイスの管理
-  #### Lab &#58; Get Started with Azure IoT Central
+  - Azure IoT Centralでデバイスの管理
+  #### ラボ &#58; Azure IoT Centralの使用を開始
 
-  #### Lab &#58; Implementing IoT Solutions with Azure IoT Central
+  #### ラボ &#58; Azure IoT Centralを使用したIoTソリューションの実装
 
   このモジュールを完了すると、受講者は次のことができるようになります&#58;
-  - Azure IoTCentralとAzureIoTPaaSサービスの違いの説明
-  - Azure IoTCentralが提供する機能についての説明
+  - Azure IoT CentralとAzure IoT PaaSサービスの違いの説明
+  - Azure IoT Centralが提供する機能についての説明
   - デバイステンプレートの目的とコンポーネントの説明
   - デバイステンプレートを作成かつ公開
   - ルールと通知を使用したデバイスの管理

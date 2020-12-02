@@ -19,27 +19,27 @@ roles:
 products:
 - azure
 summary: |-
-  このワークショップでは、Microsoft365およびAzureテクノロジを利用したWindows仮想デスクトップのソリューションの設計経験を積むことができます。次のコンポーネントでは、ソリューションの一部として決定する必要があります。 1つ目は、セキュリティ要件、Azure Active Directory、アプリケーション、およびWindowsライセンスをユーザーに提供するために必要なMicrosoft365サブスクリプションで構成されています。次に、Windows仮想デスクトップ環境をサポートするために必要となるAzureインフラストラクチャを構成する必要があります。最後に、アプリケーションサーバーの現在のオンプレミスインフラストラクチャへの接続、および高いセキュリティと限られた遅延でのユーザーデスクトップとオンプレミスネットワークへの適切なアクセスのために、ネットワーク要件を決定する必要があります。
+  このワークショップでは、Microsoft 365およびAzureテクノロジを利用したWindows仮想デスクトップのソリューションの設計経験を積むことができます。次のコンポーネントでは、ソリューションの一部として決定する必要があります。 1つ目は、セキュリティ要件、Azure Active Directory、アプリケーション、およびWindowsライセンスをユーザーに提供するために必要なMicrosoft 365サブスクリプションで構成されています。次に、Windows仮想デスクトップ環境をサポートするために必要となるAzureインフラストラクチャを構成する必要があります。最後に、アプリケーションサーバーの現在のオンプレミスインフラストラクチャへの接続、および高いセキュリティと限られた遅延でのユーザーデスクトップとオンプレミスネットワークへの適切なアクセスのために、ネットワーク要件を決定する必要があります。
 
-  #### Audience profile
+  #### 聴衆プロファイル
 
   このワークショップは、クラウドテクノロジーのインフラストラクチャとソリューション設計の建築に関する専門知識を持ち、「このコースについて」と「コースの完了時」の領域で説明されているAzureとAzureサービスについて詳しく知りたいクラウドアーキテクトとITプロフェッショナルを対象としています。 このワークショップに参加する方は、他のMicrosoft以外のクラウドテクノロジーの経験があり、コースの前提条件を満たし、さらにAzureでクロストレーニングを行う必要があります。
 prerequisitesSection: |-
   ワークショップの内容は、インフラストラクチャとソリューションの設計に関する300レベルのアーキテクチャの専門知識を前提としています。 このワークショップに参加する方は、事前にこの前提条件を受講することをお勧めします。
-  -Microsoft Azure Essentialsコース、http://www.microsoft.com/en-US/azureessentials
+  - Microsoft Azure Essentialsコース、https://www.microsoft.com/en-US/azureessentials
 outlineSection: |-
-  ### Module 1&#58; Whiteboard Design Session - Implementing Windows Virtual Desktop in the enterprise
-  #### Lessons
+  ### モジュール 1&#58; ホワイトボードデザインセッション-企業でのWindows仮想デスクトップの実装
+  #### レッスン
   - お客様のケーススタディの確認
   - 概念実証ソリューションの設計
   - ソリューションの提示
 
 
-  ### Module 1&#58; Whiteboard Design Session - Implementing Windows Virtual Desktop in the enterprise
-  #### Lessons
-  - ADDSを使用したAzureADConnectの構成
-  - WVD用のAzureADグループの作成
-  - FSLogix用のAzureファイル共有の作成
+  ### モジュール 2&#58; Hands-On Lab -企業でのWindows仮想デスクトップの実装
+  #### レッスン
+  - ADDSを使用したAzure AD Connectの構成
+  - WVD用のAzure ADグループの作成
+  - FS Logix用のAzureファイル共有の作成
   - WVDのマスターイメージの作成
   - パーソナルデスクトップ用のホストプールの作成
   - ホストプールの作成と、プールされたリモートアプリの割り当て

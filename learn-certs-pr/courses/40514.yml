@@ -23,18 +23,18 @@ summary: |-
 
   SQL Serverの移行に重点的に取り組んでいる学生は、古いバージョンのSQL Serverから最新バージョンに移行する方法を探り、オンプレミスからクラウドへの移行の影響を検討します。
 
-  #### Audience profile
+  #### 聴衆プロファイル
   このワークショップは、クラウドテクノロジーのインフラストラクチャとソリューションの設計に関するアーキテクチャの専門知識を持ち、「このコースについて」と「コース修了時」の領域で説明されているAzureおよびAzureサービスについて詳しく知りたいクラウドアーキテクトとITプロフェッショナルを対象としています。このワークショップに参加する人は、マイクロソフト以外の他のクラウドテクノロジーにも精通していて、コースの前提条件を満たし、Azureのクロストレーニングを希望しているものとします。
 outlineSection: |-
-  ### Module 1&#58; Whiteboard Design Session - Migrating Oracle to Azure SQL or Postgre SQL
-  #### Lessons
+  ### モジュール 1&#58; ホワイトボード設計セッション-OracleからAzure SQLまたはPostgre SQLへの移行
+  #### レッスン
   - 顧客のケーススタディの確認
   - 概念実証解決策の設計
   - 解決策を提示
 
-  ### Module 2&#58; Hands-on Lab - Migrating Oracle to Azure SQL or Postgre SQL
+  ### モジュール 2&#58; ハンズオンラボ-OracleからAzure SQLまたはPostgre SQLへの移行
 
-  #### Lab &#58; Migrating Oracle to Azure SQL
+  #### ラボ &#58; OracleからAzureSQLへの移行
 
   - SQL Serverインスタンスを構成
   - DMSを使用してSQL ServerをAzure SQL Databaseに移行
@@ -43,10 +43,10 @@ outlineSection: |-
   - OracleデータベースをSQL Server 2017に移行
   - アプリケーションを移行
 
-  #### Lab &#58; Migrating Oracle to Postgre SQL
+  #### ラボ &#58; OracleからPostgre SQLへの移行
 
   - Oracle 11g Express Editionのセットアップ
   - PostgreSQLに移行する前にOracle 11gデータベースの評価
-  - OracleデータベースをPostgreSQLに移行する準備
+  - OracleデータベースをPostgre SQLに移行する準備
   - データベースとアプリケーションを移行
 

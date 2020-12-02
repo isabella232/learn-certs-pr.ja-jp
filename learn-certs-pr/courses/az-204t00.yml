@@ -46,36 +46,36 @@ products:
 exams:
 - uid: exam.az-204
 summary: |-
-  このコースは、MicrosoftAzureでエンドツーエンドのソリューションを作成する方法を開発者に教えるものです。 受講者は、Azureコンピューティングソリューションの実装、Azure関数の作成、Webアプリの実装と管理、Azureストレージを利用したソリューションの開発、認証と承認の実装、KeyVaultとマネージドIDを使用したソリューションの保護の方法を学ぶことができます。 また、Azureサービスや第三者のサービスに接続して利用する方法を学びます。これには、ソリューションにイベントベースおよびメッセージベースのモデルを含みます。 このコースでは、Azureソリューションの監視、トラブルシューティング、および最適化についても説明します。
+  このコースは、Microsoft Azureでエンドツーエンドのソリューションを作成する方法を開発者に教えるものです。 受講者は、Azureコンピューティングソリューションの実装、Azure関数の作成、Webアプリの実装と管理、Azureストレージを利用したソリューションの開発、認証と承認の実装、Key VaultとマネージドIDを使用したソリューションの保護の方法を学ぶことができます。 また、Azureサービスや第三者のサービスに接続して利用する方法を学びます。これには、ソリューションにイベントベースおよびメッセージベースのモデルを含みます。 このコースでは、Azureソリューションの監視、トラブルシューティング、および最適化についても説明します。
 
-  #### Audience profile
+  #### 聴衆プロファイル
 
-  このコースで学びたい方は、Azure開発、またはMicrosoft Azure DeveloperAssociate認定試験に合格することに関心があるものとします。
+  このコースで学びたい方は、Azure開発、またはMicrosoft Azure Developer Associate認定試験に合格することに関心があるものとします。
 prerequisitesSection: |-
-  受講者は、1〜2年の専門能力開発の経験とMicrosoftAzureの経験が必要です。 Azure Supported Languageでプログラミングできる必要があります。
+  受講者は、1〜2年の専門能力開発の経験とMicrosoft Azureの経験が必要です。 Azure Supported Languageでプログラミングできる必要があります。
 outlineSection: |-
-  ### Module 1&#58; Creating Azure App Service Web Apps
-  受講者は、AzureAppServiceプラットフォームでWebアプリケーションを構築する方法を学習します。 プラットフォームがどのように機能するか、およびApp Serviceプラットフォームを作成、構成、スケーリング、保護、および展開する方法を学習します。
-  #### Lessons
-  - Azure AppServiceのコアコンセプト
+  ### モジュール 1&#58; Azure App Service Web Apps の作成
+  受講者は、Azure App ServiceプラットフォームでWebアプリケーションを構築する方法を学習します。 プラットフォームがどのように機能するか、およびApp Serviceプラットフォームを作成、構成、スケーリング、保護、および展開する方法を学習します。
+  #### レッスン
+  - Azure App Serviceのコアコンセプト
   - Azure App ServiceWebアプリの作成
-  - AppServiceアプリの構成と監視
-  - AppServiceアプリのスケーリング
-  - Azure AppServiceのステージング環境
+  - App Serviceアプリの構成と監視
+  - App Serviceアプリのスケーリング
+  - Azure App Serviceのステージング環境
 
 
-  ### Module 2&#58; Implement Azure functions
+  ### モジュール 2&#58; Azure Functions を実装する
   このモジュールでは、Functionsアプリの作成、およびトリガーと入力-出力をアプリに統合する方法について説明します。
 
-  #### Lessons
-  - AzureFunctionsの概要
+  #### レッスン
+  - Azure Functionsの概要
   - Azure関数の開発
   - 耐久性のある機能の実装
 
-  ### Module 3&#58; Develop solutions that use blob storage
-  受講者は、AzureBlobストレージの仕組み、ホット-コールド-アーカイブBLOBストレージのライフサイクルを通じてデータを管理する方法、およびAzureBlobストレージクライアントライブラリを使用してデータとメタデータを管理する方法を学習します。
-  #### Lessons
-  - AzureBlobストレージのコアコンセプト
-  - AzureBlobストレージのライフサイクルの管理
-  - AzureBlobストレージの操作
+  ### モジュール 3&#58; Blob ストレージを使用するソリューションの開発
+  受講者は、Azure Blobストレージの仕組み、ホット-コールド-アーカイブBLOBストレージのライフサイクルを通じてデータを管理する方法、およびAzure Blobストレージクライアントライブラリを使用してデータとメタデータを管理する方法を学習します。
+  #### レッスン
+  - Azure Blobストレージのコアコンセプト
+  - Azure Blobストレージのライフサイクルの管理
+  - Azure Blobストレージの操作
 
