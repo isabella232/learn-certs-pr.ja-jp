@@ -1,6 +1,4 @@
 {
-  "build_entry_point": null,
-  "package_version": null,
   "docsets_to_publish": [
     {
       "docset_name": "learn-certs-pr",
@@ -29,23 +27,13 @@
   ],
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
-  "report_severity_level": null,
   "branches_to_filter": [
     "live-sxs",
     "master-sxs"
   ],
-  "git_repository_url_open_to_public_contributors": null,
-  "git_repository_branch_open_to_public_contributors": null,
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
-  "enable_incremental_build": null,
-  "enable_incremental_postprocessing": null,
-  "remove_resource_files_in_output_package": null,
-  "enable_push_aggregation": null,
-  "enable_pull_request_aggregation": null,
-  "need_pr_comments": null,
-  "resolve_user_profile_using_github": null,
   "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
@@ -65,10 +53,5 @@
     }
   ],
   "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false,
-  "targets": null,
-  "docs_build_engine": {
-    "name": "docfx_v3",
-    "version": null
-  }
+  "need_generate_pdf_url_template": false
 }
