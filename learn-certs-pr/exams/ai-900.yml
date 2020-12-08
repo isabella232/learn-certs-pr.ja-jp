@@ -7,7 +7,8 @@ uid: exam.ai-900
 displayName: AI-900
 summary: |-
   <div>
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div><div><strong>本試験の内容は、2020 年 10 月 22 日 に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/>
+  </div><div><strong>この試験の内容は2020年10月22日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong><br/><br/></div>
   </div>
 
   この試験の受験者は、機械学習 (ML) および人工知能 (AI) の概念と関連する Microsoft Azure サービスの基礎知識を持っている必要があります。
@@ -39,7 +40,7 @@ locales:
 levels:
 - beginner
 skills:
-- 本試験の内容は、2020年10月22日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
+- この試験の内容は2020年11月24日に更新されました。変更点を確認するには、以下の試験スキルの概要をダウンロードしてください。
 - AI ワークロードと考慮事項について説明する (15-20%)
 - Azure での機械学習の基本原則について説明する (30-35%)
 - Azure のコンピューター ビジョン ワークロードの機能について説明する (15-20%)
@@ -102,4 +103,3 @@ resources:
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
-

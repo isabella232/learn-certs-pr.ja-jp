@@ -7,7 +7,8 @@ uid: exam.dp-300
 displayName: DP-300
 summary: |-
   <div>
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細はこちら</a>。</strong></font><br/><br/></div><div><strong>この試験の内容は、2020 年 9 月 24 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細はこちら</a>。</strong></font><br/><br/></div>
+  <div><strong>この試験の内容は2020年11月24日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong><br/><br/></div>
   </div>
 
   本試験の受験者は、 Microsoft SQL Server および Microsoft Azure Data Services で構築されたオンプレミスおよびクラウド リレーショナル データベースを管理するデータベース管理者およびデータ管理スペシャリストです。
@@ -27,7 +28,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本試験の内容は、2020年9月24日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
+- この試験の内容は2020年11月24日に更新されました。変更点を確認するには、以下のス試験スキルの概要ををダウンロードしてください。
 - データ プラットフォーム リソースを計画して実装します (15-20%)
 - 安全な環境を実装する (15-20%)
 - 運用リソースを監視して最適化します (15-20%)
@@ -84,4 +85,3 @@ resources:
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
-

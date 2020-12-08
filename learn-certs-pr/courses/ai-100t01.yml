@@ -30,10 +30,20 @@ summary: |-
   #### 聴衆プロファイル
   このコースは、Cloud Solution Architects、Azure 人工知能デザイナー、および AI 開発者を対象としています。
 prerequisitesSection: |-
-  このコースに参加する学生は、次のものを求められます&#58;
-  - Azure の基礎
-  - Azure ストレージ テクノロジーの理解
-  - C#の知識
+  成功したAzureAIエンジニアは、クラウドテクノロジーの専門的な経験と、ソフトウェア開発キットの経験を活かしこの役割を果たします。
+  
+  具体的には&#58;
+  - C＃またはPythonでのソリューションの実装
+  - クラウドでのアプリケーション開発
+  - Azureストレージテクノロジーの理解
+  
+  これらの前提条件のスキルを習得するには、コースに参加する前に、次の無料のオンライントレーニングを受講してください&#58;
+  - [Microsoft Azureクラウドの概念を探る](/learn/paths/explore-microsoft-azure-cloud-concepts/)
+  - [C＃で最初の一歩を踏み出す](/learn/paths/csharp-first-steps/)または[Pythonで最初の一歩を踏み出す](/learn/paths/python-first-steps/)
+  - [コアクラウドサービス– Azureの概要](/learn/modules/welcome-to-azure/)
+  - [コアクラウドサービス– Azureコンピューティングオプション](/learn/modules/intro-to-azure-compute/)
+  
+  Azure AIサービスを初めて使用する場合は、最初に[Microsoft Azure AIの基礎](/learn/certifications/azure-ai-fundamentals)を受講してください。
 outlineSection: |-
   ### モジュール 1&#58; Azure Cognitive Services の紹介
   学生は、Microsoft Azure で利用可能な Cognitive Services と AI ソリューションの設計におけるそれらのロールについて学びます。
@@ -81,4 +91,3 @@ outlineSection: |-
   - テキスト分析で Bot の感情分析を実行する
   - 言語認識サービスを使用して Bot の言語を検出する
   - コンピューター ビジョンと Bot を統合する
-

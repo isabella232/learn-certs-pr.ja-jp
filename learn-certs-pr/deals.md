@@ -41,12 +41,8 @@ ms.author: micsullivan
 </div>
 
 
-## 学生割引でお金を節約
-試験の登録時に学生の身分を証明すると、Microsoft Certified Professional 試験のお得な割引を利用できます。*注 Microsoft Certified 試験の学割はインドや中国では利用できません。*
 
-[**詳細情報**](/learn/certifications/certification-exam-policies)
-
-## よく寄せられる質問
+## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
 **質問: Exam Replay とは何ですか？**
 
@@ -87,6 +83,3 @@ ms.author: micsullivan
 **質問: Exam Replay または Exam Replay with Practice Test の購入または引き換えに問題がある場合、誰に連絡すればよいですか？**
 
 **回答:** Exam Replay または Exam Replay with Practice Test の購入または引き換えに問題がある場合は、[ピアソン VUE チームにメールを送信](mailto:mindhub@pearson.com) してください。
-
-
-

@@ -37,8 +37,18 @@ summary: |-
   #### 聴衆プロファイル
   このコースの主な対象者は、Microsoft Azure に存在するデータ プラットフォーム テクノロジーについて学びたいデータ プロフェッショナル、データ アーキテクト、およびビジネス インテリジェンス プロフェッショナルです。次に対象となるのは、Microsoft Azure に存在するデータ プラットフォーム テクノロジーからコンテンツを配信するアプリケーションを開発する個人です。
 prerequisitesSection: |-
-  専門的な経験に加えて、このトレーニングを受講する学生は、次のコースと同等の技術知識を持っている必要があります。
-  - [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
+  成功した受講者は、クラウドコンピューティングの概念に関する知識と、データソリューションに関する専門的な経験を活かしこのコースを開始します。
+  
+  具体的には&#58;
+  - MicrosoftAzureでのクラウドリソースの作成
+  - ビッグデータのユースケースの特定
+  - クラウドコンピューティングサービスが一般的なビジネスニーズをどのように解決できるかを理解
+  
+  これらの前提条件のスキルを習得するには、コースに参加する前に、次の無料のオンライントレーニングを受講してください&#58;
+  - [Microsoftクラウドの概念を探る](/learn/paths/explore-microsoft-azure-cloud-concepts/)
+  - [データエンジニアのタスクを特定する](/learn/modules/data-engineering-processes/)
+  - [コアクラウドサービス– Azureデータストレージオプション](/learn/modules/intro-to-data-in-azure/)
+  - [コアクラウドサービス– Azureコンピューティングオプション](/learn/modules/intro-to-azure-compute/)
 outlineSection: |-
   ### モジュール 1&#58; Azure for the Data Engineer
   このモジュールでは、データの世界がどのように進化したか、およびクラウド データ プラットフォーム テクノロジーが企業にさまざまな方法でデータを探索する新しい機会をどのように提供しているかを探ります。学生は、利用可能なさまざまなデータ プラットフォーム テクノロジーの概要と、データ エンジニアの役割と責任がこの新しい世界で組織の利益のためにどのように進化したかを学びます。
@@ -49,7 +59,7 @@ outlineSection: |-
   - Case Study でクラウドのユース ケースを説明する
 
 
-  #### ラボ &#58; データ エンジニア向けの Azure
+  #### ラボ&#58; データ エンジニア向けの Azure
   - 進化するデータの世界を特定する
   - Azure Data Platform Services を決定する
   - Data Engineer が実行するタスクを特定する
@@ -71,7 +81,7 @@ outlineSection: |-
   - Azure Data Lake にデータをアップロードする
 
 
-  #### ラボ &#58; データ ストレージの使用
+  #### ラボ&#58; データ ストレージの使用
   - Azure のデータ ストレージ アプローチを選択する
   - Storage Account を作成する
   - Data Lake ストレージについて説明する
@@ -93,7 +103,7 @@ outlineSection: |-
   - Azure Databricks を使用して変換を実行する
 
 
-  #### ラボ &#58; Azure Databricks でチーム ベースを使用したデータ サイエンスの有効化
+  #### ラボ&#58; Azure Databricks でチーム ベースを使用したデータ サイエンスの有効化
   - Azure Databricks について説明する
   - Azure Databricks を使用する
   - Azure Databricks にデータを読み込む
@@ -115,7 +125,7 @@ outlineSection: |-
   - Azure Cosmos DB を使用してデータをグローバルに配布する
 
 
-  #### ラボ &#58; Cosmos DB を使用したグローバル分散データベースの構築
+  #### ラボ&#58; Cosmos DB を使用したグローバル分散データベースの構築
   - Azure Cosmos DB を作成する
   - Azure Cosmos DB にデータを挿入しクエリを実行する
   - VS Code を使用して Azure Cosmos DB 用の .Net Core アプリを構築する
@@ -131,20 +141,20 @@ outlineSection: |-
   ### モジュール 5&#58; クラウド内のリレーショナル データ ストアの操作
   このモジュールでは、SQL データベースや SQL データウェアハウスなど、Azure リレーショナル データ プラットフォームのオプションについて学習します。学生は、あるサービスを別のサービスよりも選択する理由と、各サービスをプロビジョニング、接続、および管理する方法を説明できます。
   #### レッスン
-  Azure SQL Database を使用する
+  - Azure SQL Database を使用する
   - Azure SQL Data Warehouse について説明する
   - Azure SQL Data Warehouse の作成とクエリ
   - PolyBase を使用してデータを Azure SQL Data Warehouse にロードする
 
 
-  #### ラボ &#58; クラウド内のリレーショナル データ ストアの使用
+  #### ラボ&#58; クラウド内のリレーショナル データ ストアの使用
   - Azure SQL Database を使用する
   - Azure SQL Data Warehouse について説明する
   - Azure SQL Data Warehouse の作成とクエリ
   - PolyBase を使用してデータを Azure SQL Data Warehouse にロードする
 
   学生はこのモジュールの完了後、次のことができるようになります&#58;
-  Azure SQL Database を使用する
+  - Azure SQL Database を使用する
   - Azure Data Warehouse について説明する
   - Azure SQL Data Warehouse を作成およびクエリする
   - PolyBase を使用してデータを Azure SQL Data Warehouse にロードする
@@ -158,7 +168,7 @@ outlineSection: |-
   - Stream Analytics Jobs を使用したデータの処理
 
 
-  #### ラボ &#58; Stream Analytics を使用したリアルタイム分析の実行
+  #### ラボ&#58; Stream Analytics を使用したリアルタイム分析の実行
   - データ ストリームとイベント処理について説明する
   - Event Hubs を使用したデータ取り込み
   - Stream Analytics Jobs を使用したデータの処理
@@ -177,7 +187,7 @@ outlineSection: |-
   - Azure Data Factory と Databricks
 
 
-  #### ラボ &#58; Azure Data Factory を使用したデータ移動のオーケストレーション
+  #### ラボ&#58; Azure Data Factory を使用したデータ移動のオーケストレーション
   - Data Factory の仕組みを説明する
   - Azure Data Factory Components
   - Azure Data Factory と Databricks
@@ -198,7 +208,7 @@ outlineSection: |-
   - Streaming Data の保護
 
 
-  #### ラボ &#58; Azure Data Platform のセキュリティ保護
+  #### ラボ&#58; Azure Data Platform のセキュリティ保護
   - セキュリティの紹介
   - 主要なセキュリティ コンポーネント
   - Storage Accounts と Data Lake Storage のセキュリティ保護
@@ -222,7 +232,7 @@ outlineSection: |-
   - 障害回復を管理する
 
 
-  #### ラボ &#58; データ ストレージと処理の監視およびトラブルシューティング
+  #### ラボ&#58; データ ストレージと処理の監視およびトラブルシューティング
   - 利用可能な監視機能を説明する
   - 一般的なデータ ストレージの問題のトラブルシューティング
   - 一般的なデータ処理の問題のトラブルシューティング

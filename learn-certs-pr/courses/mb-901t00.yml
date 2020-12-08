@@ -32,7 +32,7 @@ summary: |-
   このコースでは、Dynamics 365 アプリケーションについての広範な概要を学習者に提供します。アプリケーションを一つ一つご紹介し、それらのビジネス上の価値を明確にし、主な機能についての説明およびデモを行います。Dynamics 365 のセキュリティおよびレポートについて見ていき、使用可能なデータおよび成果物統合についてよくわかるよう説明します。
 
   #### 視聴者プロフィール
-  このコースは、Dynamics 365 の基礎をしっかり身につけたい学習者を対象としています。
+  このコースは、Dynamics 365の基礎をしっかりと身に付けたい学習者を対象としています。
 prerequisitesSection: |-
   なし
 outlineSection: |-
@@ -83,12 +83,11 @@ outlineSection: |-
   - 営業プロセスとパイプラインの管理
   - Microsoft Relationship Sales Solution (MRSS) のメリット
   - Dynamics 365 Sales Insights
-  - Microsoft Forms Pro
+  - Dynamics 365 Customer Voice
   - Dynamics 365 Product Visualize
   - サマリー
 
-  #### ラボ &#58; 
-  - Dynamics 365 Sales について掘り下げる
+  #### ラボ &#58; Dynamics 365 Sales について掘り下げる
   - 見積もりを作成または編集する
   - 注文を作成または編集する
   - 請求書を作成または編集する
@@ -98,7 +97,7 @@ outlineSection: |-
   - Dynamics 365 Sales における営業プロセスの管理方法を明確に述べる。
   - Microsoft のリレーションシップ セリング ソリューション (MRSS) の良さを理解する。
   - Dynamics 365 Sales Insights のビジネス上の価値について説明する。
-  - Microsoft Forms Pro のビジネス上の価値について説明する。
+  - Dynamics 365 Customer Voice のビジネス上の価値について説明する。
 
 
   ### モジュール 4&#58; Dynamics 365 Marketing 入門

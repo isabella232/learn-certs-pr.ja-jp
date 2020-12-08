@@ -14,6 +14,8 @@ summary: |-
 
   受験者は、品質保証チームのメンバーと積極的に協力して、ソリューションが機能要件と非機能要件を確実に満たすようにします。彼らは、アーティファクトを特定、生成、パッケージ化して DevOps エンジニアに配布し、Power Platform 管理者に運用とメンテナンスのトレーニングを提供します。
 
+  Power Platform機能コンサルタントは、Dynamics 365モデル駆動型アプリケーションに精通している必要があり、PowerPlatformコンポーネントを使用してDynamics 365モデル駆動型アプリケーションを拡張およびカスタマイズした経験が必要です。
+
   <div><strong><br/>ベータ試験は、設問と試験の質に関するデータを収集しているため、すぐには採点されません。ベータ試験の価値と重要性についての詳細<a href="/learn/certifications/certification-exams#participating-in-beta-exams">こちらをご覧ください</a>。</strong></div>
 subTitle: 'この試験では、Common Data Service の構成、Power Apps を使用したアプリの作成、Power Automate の作成と管理、Power Virtual Agents チャットボットの実装、Power Apps の他のアプリやサービスとの統合などのタスクを完了する能力を評価します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -42,6 +44,8 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+courses:
+- uid: course.pl-200t00
 paths:
 - uid: learn-dynamics.get-started-using-common-data-service
 - uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
@@ -60,6 +64,9 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-functional-consultant-associate
 resources:
+- title: 認定の学習経路
+  description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GP08
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

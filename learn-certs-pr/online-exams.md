@@ -272,7 +272,7 @@ Microsoft コンピュータでローカル管理者権限を設定するのに�
 
 ### 他の重要な情報
 
-- 他の Microsoft 認定資格試験と同様に、[Non-Disclosure Agreement](/learn/certifications/certification-exam-policies#non-disclosure-agreement) (NDA) に記載されている条件を読んで同意する必要があります。与えられる時間は 5 分しかないため、試験の前にこれを読んで、要件を完全に理解し、時間切れになる前に同意するようにしてください。割り当てられた時間内に NDA に同意されない場合、試験を受けることはできません。
+- 他の Microsoft 認定資格試験と同様に、[Non-Disclosure Agreement](/learn/certifications/microsoft-exam-non-disclosure-agreement) (NDA) に記載されている条件を読んで同意する必要があります。与えられる時間は 5 分しかないため、試験の前にこれを読んで、要件を完全に理解し、時間切れになる前に同意するようにしてください。割り当てられた時間内に NDA に同意されない場合、試験を受けることはできません。
 - 受験者の行動要件を遵守しなければなりません。以下が含まれますが、これらに限定されません。
   - いかなる手段によっても、試験の質問や回答をコピーまたは記録しますことはできません。
   - 試験で出題される質問や回答を他の人と共有したり、話し合ったりしますことはできません。
@@ -305,7 +305,7 @@ Microsoft コンピュータでローカル管理者権限を設定するのに�
 
 **注** セルフ チェックイン プロセスの完了後、グリーター (ID または部屋の要件を再確認するために必要) または試験監督者からの連絡があるまで、最大 30 分待つ場合があります。
 
-**予定された試験時間から 30 分経過**しても試験監督につながっていない場合、接続は失われます。予約していた試験から 24〜30 時間で、試験の予約を変更することが可能になります。Microsoft 認定プロファイルに関連付けられた電子メールアドレスを使って [certification dashboard](https://www.microsoft.com/learning/dashboard.aspx) にログオンし、再予約を行います。可能な限りセルフサービスでのご利用をお勧めしますが、ピアソン VUE [support](https://home.pearsonvue.com/microsoft/contact) に連絡して、試験の予約変更を行うことも可能です。COVID-19 が原因で応答が通常よりも遅くなるため、しばらくお待ちください (最大 5 日)。
+**予定された試験時間から 30 分経過**しても試験監督につながっていない場合、接続は失われます。予約していた試験から 24〜30 時間で、試験の予約を変更することが可能になります。Microsoft 認定プロファイルに関連付けられた電子メールアドレスを使って [certification dashboard](https://aka.ms/certdashboard) にログオンし、再予約を行います。可能な限りセルフサービスでのご利用をお勧めしますが、ピアソン VUE [support](https://home.pearsonvue.com/microsoft/contact) に連絡して、試験の予約変更を行うことも可能です。COVID-19 が原因で応答が通常よりも遅くなるため、しばらくお待ちください (最大 5 日)。
 
 - 本人確認と部屋のスキャンは、セルフ チェックインの完了時にグリーターによって行われます。これらのアーティファクトのグリーターによる確認中に問題や懸念が特定されなかった場合は、監督者キューに配置されます。試験監督者がアサインされ次第、試験を開始することができます。提供されたアーティファクトについてグリーターが質問をする場合、グリーターは解決に向けてあなたをサポートします。
 - このプロセスが完了すると、試験が開始されます。問題がなければ、試験官は試験中に連絡しません。
@@ -327,10 +327,10 @@ Microsoft コンピュータでローカル管理者権限を設定するのに�
 試験監督付きオンライン試験に関してよく寄せられる質問の回答を参照してください。
 
 ### オンライン試験が私にとって適切かどうかを判断するにはどうすればよいですか？
-コンピューターが [system requirements](/learn/certifications/online-exams#testing-session-protocol) を満たしていることを確認し、必要な [system test](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) を完了します。[testing session protocol](/learn/certifications/online-exams#testing-session-protocol) を確認して、試験中に予測される事項について確認します。システムが要件を満たしているか、またはテスト セッション プロトコルについて疑問や留保がある場合は、テスト センターで試験を予約することをお勧めします。
+コンピューターが [system requirements](/learn/certifications/online-exams#system-requirements) を満たしていることを確認し、必要な [system test](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) を完了します。[testing session protocol](/learn/certifications/online-exams#testing-session-protocol) を確認して、試験中に予測される事項について確認します。システムが要件を満たしているか、またはテスト セッション プロトコルについて疑問や留保がある場合は、テスト センターで試験を予約することをお勧めします。
 
 ### システムがシステム テストに合格しない場合でも、オンライン試験を受験できますか？
-いいえ。システムが [system test](/learn/certifications/online-exams#take-a-system-test) に合格しない場合はオンライン試験に登録しないでください。身分証明書の鮮明な写真を撮れない場合は、オンライン試験を予約は行わないでください。
+いいえ。システムが [system test](/learn/certifications/online-exams#system-requirements) に合格しない場合はオンライン試験に登録しないでください。身分証明書の鮮明な写真を撮れない場合は、オンライン試験を予約は行わないでください。
 
 ### オンライン試験の登録方法を教えてください。
 登録するには、まず、Microsoft 認定プロファイルに関連付けられている電子メールを使用して、Microsoft [certification dashboard](https://aka.ms/certdashboard) にログオンする。[**試験のスケジュール**] ボタンを選択し、[exam list](/learn/certifications/browse/) から受験する Microsoft 試験を選択します。自国で試験監督付きオンライン配布試験が利用可能である場合は、試験登録プロセスで該当するオプションを選ぶことができます。また、グリーター、試験監督者、および試験監督ソフトウェアの言語も選択します。
@@ -342,7 +342,7 @@ Microsoft では、配布方法にかかわらず、試験の整合性を保護�
 いいえ。配信方法 (オンラインまたは試験センターで直接) を混在させることができます。
 
 ### 試験を開始して、試験官が割り当てられた後、どの程度の時間で試験を完了する必要がありますか？
-Pearson VUE 試験センターでの受験時と同じ時間内に試験を完了する必要があります。試験の種類に基づいた試験時間については、[Exam policies and FAQs](/learn/certifications/certification-exam-policies#frequently-asked-questions) を確認してください。
+Pearson VUE 試験センターでの受験時と同じ時間内に試験を完了する必要があります。試験の種類に基づいた試験時間については、[試験プロセスの概要](/learn/certifications/exam-process-overview) を確認してください。
 
 ### オンライン試験は試験センターで行われる試験よりも難しいですか？
 いいえ。試験は難易度の点で同等です。
@@ -360,7 +360,7 @@ Pearson VUE 試験センターでの受験時と同じ時間内に試験を完�
 利用可能な身分証明書のリストについては、現在の [ID policy](https://home.pearsonvue.com/Policies/1S/English) をご確認ください。**Microsoft 認定プロファイルの名前は、試験に参加するために提示する政府発行の身分証明書に記載されている名前と正確に一致している必要があります**。現在、身分証明書を更新中である場合は、身分証明書の更新書を含む法律上の氏名変更書式は、オンライン監督試験配布では受け入れることができない点に注意してください。
 
 ### Microsoft 認定プロファイルの正式名称を変更するにはどうすればよいですか？
-Microsoft 認定プロファイルの名前は、試験のチェックイン プロセス中に提供する政府発行の身分証明書と正確に一致している必要があります。名前を変更する必要がある場合は、[Certification Support](https://aka.ms/mcpforum) にご連絡いただければフォーラム モデレーターがサポートします。
+Microsoft 認定プロファイルの名前は、試験のチェックイン プロセス中に提供する政府発行の身分証明書と正確に一致している必要があります。名前の変更が必要な方は、[legal name update form](https://aka.ms/MSCertificationLegalNamechange)からお問い合わせください。
 
 ### オンライン試験を予約しています。試験はどのように開始しますか。
 チェックイン プロセスを開始するには、15 分前にログインすることをお勧めします。予定されている予約時間から 15 分以内に試験を開始してください。

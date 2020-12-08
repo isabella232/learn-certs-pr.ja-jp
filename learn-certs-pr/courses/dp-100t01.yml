@@ -26,10 +26,18 @@ summary: |-
   #### 聴衆プロファイル
   このコースは、データ サイエンティスト、および機械学習モデルのトレーニングと展開において重要な責任を持つ人を対象としています。
 prerequisitesSection: |-
-  このコースに参加する学生は、次のものを求められます&#58;
-  - Earned [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
-  - データの準備、モデルのトレーニング、競合モデルの評価による最適なモデルの選択方法など、データサイエンスの理解。
-  - Python プログラミング言語でのプログラミング方法、および Python ライブラリ&#58; pandas、scikit-learn、matplotlib、seaborn の使用方法。
+  成功しているAzureデータサイエンティストは、クラウドコンピューティングの概念に関する基本的な知識と、一般的なデータサイエンスおよび機械学習のツールと手法の経験を活かしこの役割を果たします。
+  
+  具体的には&#58;
+  - MicrosoftAzureでクラウドリソースの作成。
+  - Pythonを使用してデータを探索かつ視覚化。
+  - ScikitLearn、PyTorch、TensorFlowなどの一般的なフレームワークを使用した機械学習モデルのトレーニングと検証。
+  
+  これらの前提条件のスキルを習得するには、コースに参加する前に、次の無料のオンライントレーニングを受講してください&#58;
+  - [Microsoftクラウドの概念を探る](/learn/paths/explore-microsoft-azure-cloud-concepts/)。
+  - [機械学習モデルの作成](/learn/paths/create-machine-learn-models/)。
+  
+  データサイエンスと機械学習にまったく慣れていない場合は、最初に[Microsoft Azure AIの基礎](/learn/certifications/azure-ai-fundamentals)を完了してください。
 outlineSection: |-
   ### モジュール 1&#58; Azure でのデータ サイエンスの実行
   学生は、データ サイエンス プロセスとデータ サイエンティストの役割について学びます。  次に、これを適用して、Azure サービスがデータ サイエンス プロセスをサポートおよび拡張する方法を理解します。
@@ -57,4 +65,3 @@ outlineSection: |-
   このモジュールでは、学生は AML サービスの機械学習モデルを自動的に管理および監視する方法を学習します。
   #### レッスン
   - Machine Learning Models を管理および監視する
-

@@ -1,0 +1,75 @@
+### YamlMime:Course
+title: Microsoft Power Platform Developer
+metadata:
+  title: 'Course PL-400T00-A: Microsoft Power Platform Developer'
+  description: 'Course PL-400T00-A: Microsoft Power Platform Developer'
+uid: course.pl-400t00
+courseNumber: 'PL-400T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 技術設計の作成
+- skill: Common Data Serviceの構成
+- skill: PowerAppsを作成して構成
+- skill: ビジネスプロセスの自動化を構成
+- skill: ユーザーエクスペリエンスの拡張
+- skill: プラットフォームの拡張
+- skill: 統合を開発する
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-400
+summary: |-
+  Microsoft Power Platformは、ビジネスタスクとプロセスを簡素化、自動化、および変換することにより、組織が運用を最適化するのに役立ちます。 このコースでは、Power Appsを構築し、フローを自動化し、プラットフォームを拡張してビジネス要件を完了し、複雑なビジネス問題を解決する方法を学習します。
+
+  #### 聴衆プロファイル
+  このコースの受講者は、Power Platformソリューションの設計、開発、保護、およびトラブルシューティングを行います。 受講者は、アプリケーションの機能強化、カスタムユーザーエクスペリエンス、システム統合、データ変換、カスタムプロセスの自動化、カスタムの視覚化など、ソリューションのコンポーネントを実装します。 受講者は、機能、境界、および制約の詳細な理解を含む、Power Platformサービスの応用知識を習得します。 受講者は、JavaScript、JSON、TypeScript、C＃、HTML、.NET、Microsoft Azure、Microsoft 365、RESTful Webサービス、ASP.NET、およびPowerBIを含む開発経験がある必要があります。
+prerequisitesSection: |-
+  - 受講者は、Power Platformの入門知識がある必要があります
+  - 受講者は、JavaScript、JSON、TypeScript、C＃、HTML、.NET、Microsoft Azure、Microsoft 365、RESTful Webサービス、ASP.NET、およびPowerBIを含む開発経験がある必要があります
+outlineSection: |-
+  ### モジュール 1&#58; パワーアプリでモデル駆動型アプリケーションを作成
+
+  このモジュールでは、Common Data Serviceを使用するパワーアプリでモデル駆動型アプリを作成する方法を紹介します。
+  
+  ### モジュール 2&#58; Common Data Serviceを使用して始める
+  このモジュールでは、Common Data Serviceの背後にある概念と利点について説明します。 環境、エンティティ、フィールド、およびオプションセットの作成についても説明します。
+  
+  ### モジュール 3&#58; パワーアプリでキャンパスアプリの作成
+  このモジュールでは、パワーアプリを紹介し、アプリの作成とカスタマイズ、および管理と配布のサポートをします。 また、最高のアプリナビゲーションを提供し、テーマ、アイコン、画像、パーソナライズ、様々なフォームファクター、およびコントロールを使用して最高のUIを構築する方法についても説明します。
+  
+  
+  ### モジュール 4&#58; パワーオートメートを使用してビジネスプロセスをオートメート
+  このモジュールでは、パワーオートメートを紹介し、ワークフローを構築する方法とフローを管理する方法を説明します。
+  
+  
+  ### モジュール 5&#58; パワーオートメートでビジネスプロセスフローの作成
+  このモジュールでは、パワーオートメートでビジネスプロセスフローを作成する方法を紹介します。
+  
+  ### モジュール 6&#58; Power Platformを使用した開発の概要
+  このモジュールは、プラットフォーム、ツール、およびPower Platformのエコシステムについて学習するための最初のステップです。  
+  
+  ### モジュール 7&#58; Power Platformのユーザーエクスペリエンスの拡張モデル駆動型アプリ
+
+  このモジュールでは、クライアントスクリプトを作成する方法、クライアントスクリプトを使用して一般的なアクションを実行する方法、およびクライアントスクリプトを使用してビジネスプロセスフローを自動化する方法について説明します。 クライアントスクリプトで実行できること、ルール、およびスクリプトの保守について学習します。 いつクライアントスクリプトを使用するし、いつ 使用しないのかどうかを確認します。
+  
+  
+  ### モジュール 8&#58; Power Apps Component Frameworkを使用してコンポーネントを作成
+
+  このモジュールでは、コアの概念とコンポーネントに関する入門モジュールを使用して、パワーアプリのコンポーネントフレームワークの使用を開始する方法について説明します。 その後に、コンポーネントを構築し、パワーアプリの コンポーネントフレームワークの高度な機能を操作する方法を示します。  
+  
+  ### モジュール 9&#58;Power Platform Common Data Serviceの拡張
+  このモジュールでは、Power Platformの拡張に必要なツールとリソースについて説明します。 まず、SDK、拡張性モデル、イベントフレームワークについて見ていきます。 この学習過程では、プラグインをいつ使用するのかどうかについてもカバーしています。 プラグインの構成、およびプラグインの登録とデプロイ。
+  
+  ### モジュール 10&#58; Power Platform と Common Data Serviceの統合
+  このモジュールでは、Common Data Service APIについて学習することにより、コードを使用してCommon Data Serviceと統合する方法について説明します。 データとイベントをAzureに統合するためにCommon Data Serviceで利用できるオプションの詳細な概要を取得します。
+  
+  ### モジュール 11&#58; Power Appsポータルの拡張
+  このモジュールでは、コンテンツポータルをCommon Data Serviceと対話する完全なWebアプリに変換する方法について説明します。 また、ポータル機能を拡張し、Office 365、Power Platform、およびAzureコンポーネントと統合するためにカスタマイザーと開発者が利用できるオプションについても説明します。
