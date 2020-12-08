@@ -28,7 +28,7 @@ Microsoft Office Specialist (MOS) 試験、およびその他のアカデミッ�
 
 #### インストラクター指導のコース
 
-[Microsoft Certified Trainerが提供する、Microsoft の技術に関する教室及びオンライントレーニングを検索しましょう。](https://www.microsoft.com/learning/find-partner.aspx)
+[Microsoft Certified Trainerが提供する、Microsoft の技術に関する教室及びオンライントレーニングを検索しましょう。](/learn/certifications/partners)
 
 #### 無料オンライントレーニングを検索
 
@@ -183,9 +183,9 @@ Microsoftは資格を、そのライフサイクルに渡ってサイコメト�
 
 ### 参加する方法
 
-Microsoftベータ試験は、80%割引で提供されます（コードが必要）次のリンク先で説明されているように、ベータ試験を受けるために 80％ 割引を利用する受験者は、採点完了後に次の試験で 25％ の割引を受けられます。[Microsoft ベータ試験プログラムの更新](/learn/certifications/posts/updates-on-microsoft-beta-exam-program)._この割引は、ベータ版参加者全員が利用できるわけではありません。他の方法を使用してベータ試験の料金を支払った場合、25％ のディスカウント バウチャーはご利用いただけません。
+Microsoftベータ試験は、80%割引で提供されます（コードが必要）次のリンク先で説明されているように、ベータ試験を受けるために 80％ 割引を利用する受験者は、採点完了後に次の試験で 25％ の割引を受けられます。[Microsoft ベータ試験プログラムの更新](/learn/certifications/posts/updates-on-microsoft-beta-exam-program)._この割引は、ベータ版参加者全員が利用できるわけではありません。他の方法を使用してベータ試験の料金を支払った場合、25％ のディスカウント バウチャーはご利用いただけません。_
 
-コードを取得するには、SME プロフィール データベースのメンバーになるか、 あるいは[試験の方針とFAQページ](/learn/certifications/certification-exam-policies) の左のアナウンスメント セクションから取得してください。SMEプロフィール データベース プログラムへの有資格参加者は、ベータ試験参加の割引コードを受け取ります。これにより、ベータ試験が受け易くなります。
+コードを取得するために、当社のSME プロフィールデータベースの会員になるか、 [Microsoft Learn Blog](https://aka.ms/learningblog)から情報を受け取ることができます。SMEプロフィール データベース プログラムへの有資格参加者は、ベータ試験参加の割引コードを受け取ります。これにより、ベータ試験が受け易くなります。
 
 SME プロフィール データベース プログラムは こちらに公開されています[Microsoft Collaborate](https://aka.ms/collaborate)。コミュニティブログ [ 試験と学習内容の作成ヘルプ ] を参照してください！SME データベースに今すぐ参加してください！ ](/learn/certifications/posts/help -us -create -exams -and -learning -content) では、コラボレーションプログラムへの参加方法を確認できます。
 

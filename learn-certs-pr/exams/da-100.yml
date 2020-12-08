@@ -61,7 +61,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 認証ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
@@ -77,4 +77,3 @@ resources:
 - title: 試験のポリシーと FAQ
   description: 試験ポリシーとよくある質問をご確認ください。
   href: ../certification-exam-policies.md
-

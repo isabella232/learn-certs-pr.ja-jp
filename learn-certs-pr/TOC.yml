@@ -28,8 +28,8 @@
 - name: 試験のポリシーと FAQ
   expanded: false
   items:
-  - name: 試験プロセスの概要
-    href: exam-process-overview.md  
+  - name: よくある質問
+    href: frequently-asked-questions.md   
   - name: 試験のセキュリティおよび再受験のポリシー
     href: exam-security-policy-and-exam-retake-policy.md
   - name: 試験の日程変更およびキャンセルのポリシー

@@ -6,7 +6,10 @@ metadata:
 uid: exam.az-104
 displayName: AZ-104
 summary: |-
+  <div>
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
+  <div><strong>この試験の内容は2020年11月24日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong><br/><br/></div>
+  </div>
 
   この試験の受験者には、組織の Microsoft Azure 環境の実装、管理、監視に関する専門知識が必要です。
 
@@ -32,6 +35,7 @@ locales:
 levels:
 - intermediate
 skills:
+- この試験の内容は2020年11月24日に更新されました。変更点を確認するには、以下のス試験スキルの概要ををダウンロードしてください。
 - Azure アイデンティティおよびガバナンスの管理 (15-20%)
 - ストレージの作成と管理 (10-15%)
 - Azure 計算資源の展開と管理 (25-30%)

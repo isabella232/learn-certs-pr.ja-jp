@@ -26,8 +26,18 @@ summary: |-
   このコースの主な対象者は、MySQL または Postgres DB ワークロードを Azure SQL DB に移行する予定のデータベース開発者です。
   次にこのコースの対象となるのは、Azure SQL DB の機能と利点に対する認識を高めるための MySQL/Postgres 管理者です。
 prerequisitesSection: |-
-  このトレーニングに参加する学生は、プロフェッショナルとしての経験に加えて、次の技術知識をすでに身に付けていることが求められます。
-  - Postgres や MySQL などのオープン ソース リレーショナル データベース管理システム、SQL 管理、表データのダンプなどのバックアップやリカバリ手法に関する知識
+  成功した受講者は、クラウドコンピューティングの概念に関する基本的な知識と、オープンソースのリレーショナルデータベース管理システムの経験を活かしこの役割を果たします。
+  具体的には&#58;
+  - PostgreSQLおよび/またはMySQLの操作
+  - オープンソースデータでのバックアップとリカバリの手法の使用
+  - SQL管理
+  
+  これらのスキルを習得するには、コースに参加する前に、次の無料のオンライントレーニングを受講してください&#58;
+  - [コアクラウドサービス– Azureコンピューティングオプション](/learn/modules/intro-to-azure-compute/)
+  - [MariaDB、MySQL、およびPostgreSQLをAzureにデプロイする](/learn/modules/deploy-mariadb-mysql-postgresql-azure/)
+  - [Azure SQLの概要](/learn/modules/azure-sql-intro/)
+  - [Azure Cosmos DBへのオープンソースデータベースの移行の概要](/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/)
+
 outlineSection: |-
   ### モジュール 1&#58; MySQL および PostgreSQL 用の Azure SQL DB に移行する
   このモジュールでは、Azure SQL DB の利点とアーキテクチャについて説明します。
