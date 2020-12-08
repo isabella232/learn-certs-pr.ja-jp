@@ -33,13 +33,13 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHl
 exams:
 - uid: exam.62-193
 resources:
-- title: 革新的な教育と学習（ITL）研究プロジェクト
-  description: 革新的な教育と学習（ITL）研究プロジェクト
-  href: https://education.microsoft.com/GetTrained/ITL-Research
+- title: Microsoft 教育者センター
+  description: 教育者のためのトレーニング、プログラム、およびリソース
+  href: https://education.microsoft.com/ja-jp
 - title: スタディガイド
   description: 試験の準備に使用できるトレーニング資料の確認
-  href: http://aka.ms/MCEStudyGuide
+  href: https://aka.ms/MCEStudyGuide
 - title: Exam Replay
   description: 今未来を教えるキャンペーンのためのデジタルキット（ポスター、データシート、MCE試験の目標分野）
-  href: http://aka.ms/MCEAssets
+  href: https://aka.ms/MCEAssets
 

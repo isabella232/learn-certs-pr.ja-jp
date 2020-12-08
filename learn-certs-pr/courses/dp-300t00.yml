@@ -35,9 +35,16 @@ summary: |-
   #### 視聴者プロフィール
   このコースの対象者は、Microsoft Azure で利用可能なデータ プラットフォーム テクノロジの管理について学びたい、データとデータベースを管理するデータ専門家です。このコースは、Azure を使用するデータ プラットフォームで利用可能なテクノロジと、アプリケーションを介してこれらのテクノロジを操作する方法を理解する必要があるデータ アーキテクトとアプリケーション開発者にとっても貴重です。
 prerequisitesSection: |-
-  専門的な経験に加えて、このトレーニングを受講する受講者は、次のコースと同等の技術知識を持っている必要があります。
-  - Azure Fundamentals
-  - Azure Data Fundamentals
+  成功したAzureデータベース管理者は、データベース管理の専門的な経験とクラウドテクノロジーの技術的知識を活かしこの役割を果たします。
+  
+  具体的には&#58;
+  - SQL Serverの操作、保守、および開発
+  - リソースのデプロイや管理など、Azureの経験
+  
+  少なくとも、コースに参加する前に、次のオンライントレーニングの情報を知っておく必要があります&#58;
+  - [Azure SQLの概要](/learn/modules/azure-sql-intro/)
+  - [Azure Fundamentals](/learn/certifications/azure-fundamentals)
+  - [Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals)
 outlineSection: |-
   ### モジュール 1&#58; Azure データベース管理者のロール
   このモジュールでは、Azure の世界におけるデータベース管理者のロールを探ります。また、コンテンツ全体に関連する基本的な情報も提供します。これには、さまざまな SQL Server ベースのオプション (VM 内の SQL Server、管理対象インスタンス、Azure SQL データベース) のレビューが含まれます。Azure で SQL データベースを操作するときに互換性レベルが重要な概念である理由を学習します。受講者は、SQL Server ベースのプラットフォームに加えて、Azure で利用可能な他のデータベース プラットフォーム、特に PostgreSQL と MySQL についても学びます

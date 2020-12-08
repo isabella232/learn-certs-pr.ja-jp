@@ -26,7 +26,7 @@ skills:
 - 作業指示のスケジュールと発送
 - フィールド サービスのモビリティを管理する
 - 在庫管理と購入
-- 資産の管理と契約
+- コネクテッドフィールドサービスの実装
 roles:
 - functional-consultant
 type: role-based
@@ -56,7 +56,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: 認証への道のり
   description: 認定を受けるための手順と、準備に役立つリソースをご確認ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
