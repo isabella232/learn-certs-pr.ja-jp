@@ -20,5 +20,5 @@ Microsoft 認定資格の製品に関するサポートが必要ですか？以�
 
 | サポートの範囲 | お問い合わせ先 |
 |------------- |--- |
-| **Microsoft 認定資格試験 および Microsoft 認定資格** | あなたの質問は、すでに [認定資格の概要](/learn/certifications/) で回答されている場合があります。<br/><br/> **正式名称を更新してください。**<br/>[登録名更新フォーム](https://aka.ms/MSCertificationLegalNamechange) からリクエストを送信してください。<br/><br/> **その他すべてのサポートに関する質問:** <br/>モデレートされた [認証サポート フォーラム](https://aka.ms/MCPForum)を通じてヘルプをご覧ください。<br/><br/> カスタマー サポート エージェントに連絡するには、ページの上部にある 質問する をクリックしてフォームに入力してください。 サポート エージェントが 1 営業日以内に対応します。|
+| **Microsoft 認定資格試験 および Microsoft 認定資格** | ご質問は[マイクロソフト認定資格プログラム FAQ](/learn/certifications/microsoft-certification-program-faqs)に既に返答済である可能です。<br/><br/> **正式名称を更新してください。**<br/>[登録名更新フォーム](https://aka.ms/MSCertificationLegalNamechange) からリクエストを送信してください。<br/><br/> **その他すべてのサポートに関する質問:** <br/>モデレートされた [認証サポート フォーラム](https://aka.ms/MCPForum)を通じてヘルプをご覧ください。<br/><br/> カスタマー サポート エージェントに連絡するには、ページの上部にある 質問する をクリックしてフォームに入力してください。 サポート エージェントが 1 営業日以内に対応します。|
 | **Microsoft Certified Trainer (MCT) プログラム** | あなたの質問は [MCTプログラムの概要](/learn/certifications/mct-certification)で既に回答されている場合があります。<br/><br/>  **MCT サポート フォーラム：**<br/>モデレートされた [MCTサポートフォーラム](https://aka.ms/MCTForum)を通じてヘルプをご覧ください。<br/><br/> カスタマー サポート エージェントに連絡するには、ページの上部にある 質問する をクリックしてフォームに入力してください。 サポート エージェントが 1 営業日以内に対応します。|
