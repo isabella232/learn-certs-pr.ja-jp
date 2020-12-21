@@ -7,16 +7,14 @@ uid: exam.ms-700
 displayName: MS-700
 summary: |-
   <div><div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div><strong>この試験の内容は2020年11月24日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong><br/><br/></div>
+  <div><strong>この試験の内容は2020年11月24日に更新されました。変更点を確認するには、下記スキル測定ドキュメントをダウンロードしてください。</strong><br/><br/></div>
   </div>
 
-  この試験の受験者は、その組織の Microsoft Teams 管理者です。Microsoft Teams 管理者 は、企業環境における効率的で効果的なコラボレーションとコミュニケーションに重点を置いた Microsoft Teamsの Office 365 ワークロードを構成、展開、および管理します。
+  Microsoft Teams 管理者 は、企業環境における効率的で効果的なコラボレーションとコミュニケーションに重点を置いた Microsoft Teamsの Office 365 ワークロードを構成、展開、および管理します。
 
-  Teams管理者は、Teamsのチャット、アプリ、チャネル、会議、オーディオ会議、ライブイベント、通話を計画、展開、管理できる必要があります。Teams Administrator は、 Skype for Business からTeamsへのアップグレードも担当します。
+  Teams管理者は、Teamsのチャット、アプリ、チャネル、会議、オーディオ会議、ライブイベント、通話を計画、展開、管理できる必要があります。Teams Administrator は、 Skype for Business からTeamsへのアップグレードも担当します。この試験の受講希望者の方は、PowerShellを使用してチームを管理することに習熟している必要があります。Teams Administratorは、SharePoint、OneDrive、Exchange、Azure AD、Office 365グループ（ただしそれに限らず）、アプリやサービスとの統合ポイントに関して基本的な知識を持っていなければなりません。Teams Administratorは、外部のアプリとサービスを統合する方法を理解していなければなりません。
 
   Teams 管理者はテレフォニー エンジニアと協力して、高度な音声機能を Microsoft Teams に統合します。このロールは、直接ルーティングの設定、コールルーティングの設定、またはテレフォニーの統合について責任を負いません。Teams管理者は、セキュリティとコンプライアンス、メッセージング、ネットワーク、 ID 、デバイスなど、他のワークロード管理者の役割と連携することができます。
-
-  この試験の受験生は、 PowerShell を使用したTeams設定の管理に習熟している必要があります。Teams Administrator は、 SharePoint、 OneDrive for Business、 Exchange、 Azure AD、 およびOffice 365 グループなどを含むがこれに限定されることなく、アプリケーションおよびサービスとの統合ポイントを基本的に理解しています。Teams Administrator は、外部アプリとサービスを統合する方法を理解しています。
 subTitle: 'この試験では、 Microsoft Teams 環境の計画と構成、チャット、通話、会議の管理、Teams とアプリケーション ポリシーの管理など、技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
@@ -31,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は2020年11月24日に更新されました。変更点を確認するには、以下のス試験スキルの概要ををダウンロードしてください。
+- この試験の内容は2020年11月24日に更新されました。変更点を確認するには、下記試験スキル概要をダウンロードしてください。
 - Microsoft Teams environment を計画、構成する (45-50%)
 - チャット、通話、会議を管理する (30-35%)
 - Teams および app policies を管理する (20-25%)

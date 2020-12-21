@@ -52,18 +52,9 @@ Microsoft は、リアルタイムのインストラクター指導のトレー�
 			<td>
 				<ul>
 					<li><a href="/learn/certifications/training-faq">FAQ</a>を確認してください。</li>
-					<li>質問に対する回答が見つからない場合は、<a href="https://trainingsupport.microsoft.com/iltvilt/forum">Learning サポート フォーラムの Learning Partner インストラクター指導のコース予約に質問を投稿してください</a>。
+					<li>質問に対する回答が見つからない場合は、<a href="https://trainingsupport.microsoft.com/en-us/iltvilt/forum">Learning サポート フォーラムの Learning Partner インストラクター指導のコース予約に質問を投稿してください</a>。
 </li>
 				</ul>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p>エクスペリエンスやサービスを改善するための一<strong><em>般的なフィードバック</em></strong></p>
-            </td>
-            <td>
-                <p><a href="/learn/support/troubleshooting#report-feedback">このフォームを使用してフィードバックを送信し、</a> 「製品または機能」 を選択してから、「インストラクター指導のトレーニング」 を選択し、詳細なフィードバックを提供してください。</p>
-				<p>フィードバックには対応しますが、フィードバックに対する返信はありませんのでご安心ください。</p>
             </td>
         </tr>
         <tr>

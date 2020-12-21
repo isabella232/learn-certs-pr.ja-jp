@@ -8,7 +8,7 @@ displayName: AZ-900
 summary: |-
   <div>
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
-  <div><strong>この試験の内容は2020年11月9日に更新されます。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong><br/><br/></div> 
+  <div><strong>この試験の内容は2020年11月9日に更新されました。変更点を確認するには、下記スキル測定ドキュメントをダウンロードしてください。</strong><br/><br/></div> 
   </div>
   
   この試験の受験者は、クラウド サービスの基礎知識と、それらのサービスが Microsoft Azure でどのように提供されるかを理解している必要があります。この試験は、クラウドベースのソリューションやサービスを使い始めたばかりの方や、Azure の初心者の方を対象としています。
@@ -16,6 +16,8 @@ summary: |-
   Azure Fundamentals 試験は、クラウドの概念、 Azure サービス、 Azure ワークロード、 Azure のセキュリティとプライバシー、 Azure の価格とサポートに関する知識を証明する機会です。受験者は、ネットワーキング、ストレージ、コンピューティング、アプリケーション サポート、アプリケーション開発の概念を含む一般的なテクノロジの概念に精通している必要があります。
 
   Azure Fundamentals は、他の Azure のロール ベースまたは専門分野の認定の準備に使用できますが、それらのいずれの前提条件でもありません。
+
+  この認定試験に合格すると、ACEカレッジの単位を取得できる可能性がございます。詳細については、[認定試験のためのACEカレッジクレジット](/learn/certifications/ace-credit-for-certification-exams) をご参照ください。
 subTitle: 'この試験では、クラウドのコンセプト；コアAzure サービス、セキュリティ、プライバシー、コンプライアンスおよび信頼；そしてAzure 料金プランとサポート、といった概念を理解する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
@@ -38,13 +40,19 @@ locales:
 levels:
 - beginner
 skills:
-- 'この試験の内容は2020年11月9日に更新されます。以下の試験スキルの概要をダウンロードして、変更点を確認してください。'
-- クラウドの概念について説明する (15-20%)
-- Azure のコアサービスについて説明する (30-35%)
-- セキュリティ、プライバシー、コンプライアンス、信頼について説明する (25-30%)
-- Azure の価格サービス レベル アグリーメントとライフサイクルについて説明する(20-25%)
+- この試験の内容は2020年11月9日に更新されました。変更点を確認するには、下記試験スキルの概要をダウンロードしてください。
+- cloudのコンセプトに関する説明（20〜25％）
+- コアAzureサービスに関する説明（15〜20％）
+- Azureのコアソリューションと管理ツールに関する説明（10〜15％）
+- 一般的なセキュリティおよびネットワークセキュリティ機能に関する説明（10〜15％）
+- ID、ガバナンス、プライバシー、およびコンプライアンス機能に関する説明（20〜25％）
+- Azureのコスト管理とService Level Agreementsに関する説明（10〜15％）
 roles:
+- administrator
+- business-user
 - developer
+- student
+- technology-manager
 products:
 - azure
 courses:

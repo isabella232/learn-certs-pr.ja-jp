@@ -9,6 +9,10 @@ summary: |-
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
 
   Azure データベース管理者は、 Microsoft Azure Data Services および Microsoft SQL Server 上に構築されたクラウド ネイティブおよびハイブリッドデータプラットフォームソリューションの運用面を実装して管理します。Azure データベース管理者は、経営管理目的で T-SQL を使用する知識を適用することを含めて、さまざまな方法とツールを使用して日常的な操作を実行します。
+
+  <div></br>
+  この役割の受講希望者の方は、下記でカバーされているすべてのコンセプトを理解する必要があります<a href='/learn/certifications/exams/dp-900'>Exam DP-900&#58; Microsoft Azure Data Fundamentals</a>.
+  </div>
 subTitle: Azure データベース管理者は、 Microsoft Azure Data Services および Microsoft SQL Server 上に構築されたクラウド ネイティブおよびハイブリッドデータプラットフォームソリューションの運用面を実装して管理します。
 levels:
 - intermediate

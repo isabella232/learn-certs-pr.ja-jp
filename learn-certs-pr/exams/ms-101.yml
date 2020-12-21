@@ -8,12 +8,12 @@ displayName: MS-101
 summary: |-
   <div>
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細はこちら</a>。</strong></font><br/><br/></div>
-  <div><strong>この試験の内容は2020年11月24日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong><br/><br/></div>
+  <div><strong>この試験の内容は2020年11月24日に更新されました。変更点を確認するには、下記スキル測定ドキュメントをダウンロードしてください。</strong><br/><br/></div>
   </div>
 
   この試験の受験者は、Microsoft 365 サービスの評価、計画、移行、展開、および管理に参加している Microsoft 365 エンタープライズ管理者です。それらは、ID、セキュリティ、コンプライアンス、およびサポートテクノロジを含む、企業向けのMicrosoft 365テナント管理タスクを実行します。
 
-   受験者は Microsoft 365 ワークロードに関する実用的な知識を持っており、少なくとも 1 つの Microsoft 365 ワークロード (Exchange、SharePoint、Skype for Business、または Windows as a Service) の管理者である必要があります。受験者は、ネットワーキング、サーバー管理、および DNS、Active Directory、PowerShell などの IT の基礎についての実用的な知識も持っています。
+  受験者は Microsoft 365 ワークロードに関する実用的な知識を持っており、少なくとも 1 つの Microsoft 365 ワークロード (Exchange、SharePoint、Skype for Business、または Windows as a Service) の管理者である必要があります。受験者は、ネットワーキング、サーバー管理、および DNS、Active Directory、PowerShell などの IT の基礎についての実用的な知識も持っています。
 subTitle: 'この試験では、最新のデバイスサービスの実装、Microsoft 365のセキュリティと脅威管理の実装、Microsoft 365のガバナンスとコンプライアンスの管理という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
@@ -25,7 +25,7 @@ locales:
 levels:
 - advanced
 skills:
-- この試験の内容は2020年11月24日に更新されました。変更点を確認するには、以下のス試験スキルの概要ををダウンロードしてください。
+- この試験の内容は2020年11月24日に更新されました。変更点を確認するには、下記試験スキル概要をダウンロードしてください。
 - 最新のデバイス サービスの実装 (30-35%)
 - Microsoft 365 のセキュリティおよび脅威の管理の実装 (30-35%)
 - Microsoft 365 のガバナンスおよびコンプライアンスの管理 (35-40%)
@@ -39,6 +39,17 @@ exams:
 - uid: exam.ms-100
 courses:
 - uid: course.ms-101t00
+paths:
+- uid: learn-m365.manage-enterprise-deployment-m365
+- uid: learn-m365.identity-and-access
+- uid: learn-m365.m365-cloud-security
+- uid: learn-m365.m365-security-threat-protection
+- uid: learn-m365.m365-security-management
+- uid: learn.security.manage-security-operations
+- uid: learn-m365.m365-messaging-secure-environment
+- uid: learn-m365.m365-compliance-information
+- uid: learn-m365.audit-safeguard-customer-data
+- uid: learn-m365.compliance-discover
 relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator

@@ -85,11 +85,11 @@ Learn が異なる金額を示している場合でも、Learning Partner のサ
 
 ### 他のトレーニング コースが参加したいコースよりも費用がかかるのはなぜですか？
 
-他の市場と同様に、クラスの価格は各 Learning Partner によって決定されます。パートナーは、Microsoft Learn 予約ツールに記載されている価格で、完全な Microsoft Official Course トレーニング エクスペリエンスを提供する必要があります。パートナーは、オプションの追加製品やサービスを宣伝することができます。宣伝された価格設定が誤解を招く、または不正確であると思われる場合は、[Learn サポート フォーラムの Leaning Partner インストラクター指導のコース予約](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) からご連絡ください。
+他の市場と同様に、クラスの価格は各 Learning Partner によって決定されます。パートナーは、Microsoft Learn 予約ツールに記載されている価格で、完全な Microsoft Official Course トレーニング エクスペリエンスを提供する必要があります。パートナーは、オプションの追加製品やサービスを宣伝することができます。宣伝された価格設定が誤解を招く、または不正確であると思われる場合は、[Learn サポート フォーラムの Leaning Partner インストラクター指導のコース予約](https://trainingsupport.microsoft.com/en-us/iltvilt/forum) からご連絡ください。
 
 ### コースの場所、日付などによるフィルタリングが正しく機能していません。
 
-フィルタリングが機能しない場合は、ブラウザを更新してもう一度お試しください。それでもフィルターが機能しないと思われる場合は、[Learn サポートフォーラムの Learning Partner インストラクター指導のコース予約](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) からお問い合わせいただけます。これは、検索してヘルプを求め、問題を報告し、アドバイスを得るのに最適なリソースです。
+フィルタリングが機能しない場合は、ブラウザを更新してもう一度お試しください。それでもフィルターが機能しないと思われる場合は、[Learn サポートフォーラムの Learning Partner インストラクター指導のコース予約](https://trainingsupport.microsoft.com/en-us/iltvilt/forum) からお問い合わせいただけます。これは、検索してヘルプを求め、問題を報告し、アドバイスを得るのに最適なリソースです。
 
 ### 私のいる地域で Learning Partner を見つけることができません。 
 
@@ -101,4 +101,4 @@ Learn が異なる金額を示している場合でも、Learning Partner のサ
 
 Learning Partner は、サイトでの予約に関連するサポートを提供する責任があります。Learning Partner の Web サイトを見て、さまざまな数値を試すことができます。
 
-それでも Learning Partner にアクセスできない場合は、[Learn サポートフォーラムの Learning Partner インストラクター指導のコース予約](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) に質問を投稿してください。これは、ヘルプを求め、問題を報告し、アドバイスを得るのに最適なリソースです。
+それでも Learning Partner にアクセスできない場合は、[Learn サポートフォーラムの Learning Partner インストラクター指導のコース予約](https://trainingsupport.microsoft.com/en-us/iltvilt/forum) に質問を投稿してください。これは、ヘルプを求め、問題を報告し、アドバイスを得るのに最適なリソースです。

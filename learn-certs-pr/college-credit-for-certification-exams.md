@@ -1,6 +1,6 @@
 ---
-title: '認定資格試験の大学単位 | Microsoft Docs'
-description: '認定資格試験の大学単位' 
+title: '認定試験のためのNCCRSカレッジクレジット | Microsoft Docs'
+description: '認定試験のためのNCCRSカレッジクレジット'
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -10,7 +10,7 @@ ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# 認定資格試験の大学単位
+# 認定試験のためのNCCRSカレッジクレジット
 
 ## 学生のための認定資格
 

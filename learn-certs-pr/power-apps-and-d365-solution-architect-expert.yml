@@ -5,7 +5,15 @@ metadata:
   description: Microsoft Dynamics 365 + Power Platform のソリューション アーキテクトは、実施を成功に導き、ソリューションが組織の幅広いビジネス ニーズや技術ニーズにどのように対応するかに重点を置いています。
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: "<div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>\r\n\r\nMicrosoft Dynamics 365 + Power Platform のソリューション アーキテクトは、実施を成功に導き、ソリューションが組織の幅広いビジネス ニーズや技術ニーズにどのように対応するかに重点を置いています。"
+summary: |-
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
+  
+  Microsoft Dynamics 365 + Power Platform のソリューション アーキテクトは、実施を成功に導き、ソリューションが組織の幅広いビジネス ニーズや技術ニーズにどのように対応するかに重点を置いています。
+  
+  <div>注&#58;下記2つの認定を取得することは、この認定の前提条件となります。サイトの制限により、この前提条件は以下に記載されておりません。<ul>
+  <li><a href="/learn/certifications/power-platform-functional-consultant-associate">Microsoft Certified&#58; Power Platform Functional Consultant Associate</a></li>
+  <li><a href="/learn/certifications/power-platform-developer-associate">Microsoft Certified&#58; Power Platform Developer Associate</a></li>
+  </ul></div>
 subTitle: Microsoft Dynamics 365 + Power Platform のソリューション アーキテクトは、実施を成功に導き、ソリューションが組織の幅広いビジネス ニーズや技術ニーズにどのように対応するかに重点を置いています。
 levels:
 - advanced
