@@ -43,8 +43,8 @@ MCT プログラムの要件の詳細については、このページの [申�
 - 次のいずれかにより検証された指導スキルの実証:
   - 指導スキルの認定
     - CompTIA CTT+
-    - Essential Educate Trainer (Microsoft の内部     - 認証)
-	- Fourth Dimension Technologies, Inc.
+    - Essential Educate Trainer (Microsoft の内部 - 認証)
+    - Fourth Dimension Technologies, Inc.
     - Friesen Kaye and Associates
     - Global Knowledge 社の指導スキル認定
     - IAMCT Approved Technical Trainer (IAMCT ATT)
@@ -53,10 +53,12 @@ MCT プログラムの要件の詳細については、このページの [申�
     - Learning Tree Train the Trainer プログラム
     - Marcom Deli
     - Microsoft Certified Trainer Instructional Skills Certification (MCT-ISC)
-	- Microsoft Customer Service & Support (CSS) トレーナー認定
-	- Microsoft コア トレーニング スキル
+    - Microsoft Customer Service & Support (CSS) トレーナー認定
+    - Microsoft コア トレーニング スキル
     - New Horizons 社の指導スキル認定
     - PrepMasters USA
+    - Modern Classroom Certified Trainer (MCCT®)
+    - Certified Virtual Educator
   
   OR<br/><br/>
 

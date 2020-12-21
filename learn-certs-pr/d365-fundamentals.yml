@@ -9,6 +9,8 @@ summary: |-
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
   Microsoft Dynamics 365 、人工知能、複合現実、 Power Platform 、クラウドの概念、クラウドのセキュリティ、 Dynamics 365 のセキュリティ、 Common Data Service 、 Dynamics 365 のレポート、 Dynamics 365 の統合、クラウドの展開について理解していることを証明してください。
+
+  注&#58; Microsoftは現時点では、Microsoftは“Common Data Service” から“Microsoft Dataverse”への参照を更新致しません。
 subTitle: 'Microsoft Dynamics 365、人工知能(AI )、複合現実(MR )、 Power Platform、クラウドの概念、クラウドのセキュリティ、 Dynamics 365 のセキュリティ、 Common Data Service、 Dynamics 365 のレポート、 Dynamics 365 の統合、クラウドの展開について理解していることを証明してください。'
 levels:
 - beginner
@@ -18,7 +20,10 @@ skills:
 - モデル主導型アプリについて説明する
 - Finance and Operations アプリについて説明する
 roles:
+- business-owner
+- business-user
 - functional-consultant
+- student
 type: fundamentals
 products:
 - dynamics-365

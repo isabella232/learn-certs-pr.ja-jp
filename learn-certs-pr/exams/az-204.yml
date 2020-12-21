@@ -18,6 +18,8 @@ summary: |-
   Azure 開発者は、クラウド ソリューション アーキテクト、クラウド DBA、クラウド管理者、およびクライアントと提携して、ソリューションを実装します。
 
   この試験の受験者には、1〜2 年の専門的な開発経験と Microsoft Azure の経験が必要です。さらに、このロールには、Azure でサポートされている言語でのプログラミング能力と、Azure SDK、Azure PowerShell、Azure CLI、データ ストレージ オプション、データ接続、API、アプリの認証と承認、コンピューティングとコンテナのデプロイ、デバッグ、パフォーマンスの調整、および監視に関する能力が必要です。
+
+  この認定試験に合格すると、ACEカレッジの単位を取得できる可能性がございます。詳細については、[認定試験のためのACEカレッジクレジット](/learn/certifications/ace-credit-for-certification-exams) をご参照ください。
 subTitle: '本試験では、以下の技術的タスクを遂行できる能力を査定します。Azure 計算ソリューションの開発、Azure ストレージの開発、Azure セキュリティの実装、Azure ソリューションの監視、トラブルシューティング、最適化、Azureサービスとサードパーティ サービスの接続と利用。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B

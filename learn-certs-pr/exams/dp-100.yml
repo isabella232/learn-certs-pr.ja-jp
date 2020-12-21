@@ -12,6 +12,8 @@ summary: |-
   </div>
 
   Azure データ科学者は、データサイエンスと機械学習に関する知識を活用して、 Azure に機械学習ワークロードを実装して実行します。特に、 Azure Machine Learning Service を使用します。これには、 Azure 上のデータサイエンスワークロードに適した作業環境の計画と作成、データ実験の実行と予測モデルのトレーニング、モデルの管理と最適化、機械学習モデルの生産への展開が含まれます。
+
+  この認定試験に合格すると、ACEカレッジの単位を取得できる可能性がございます。詳細については、[認定試験のためのACEカレッジクレジット](/learn/certifications/ace-credit-for-certification-exams) をご参照ください。
 subTitle: '本試験では、以下の技術的タスクを遂行できる能力を査定します。 Azure Machine Learning ワークスペースのセットアップ、テストの実施とモデルのトレーニング、モデルの最適化と管理、モデルの展開と利用。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA

@@ -8,7 +8,7 @@ displayName: AZ-104
 summary: |-
   <div>
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
-  <div><strong>この試験の内容は2020年11月24日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong><br/><br/></div>
+  <div><strong>この試験の内容は2020年11月24日に更新されました。変更点を確認するには、下記スキル測定ドキュメントをダウンロードしてください。</strong><br/><br/></div>
   </div>
 
   この試験の受験者には、組織の Microsoft Azure 環境の実装、管理、監視に関する専門知識が必要です。
@@ -18,6 +18,8 @@ summary: |-
   Azure 管理者は、多くの場合、組織のクラウド インフラストラクチャの実装に専念するより大きなチームの一部として機能します。
 
   この試験の受験者は、Azure のコア サービス、Azure ワークロード、セキュリティ、およびガバナンスについて十分に理解しているとともに、Azure の管理に関する少なくとも 6 か月の実務経験が必要です。さらに、このロールには、PowerShell、Azure CLI、Azure portal、Azure Resource Manager テンプレートの使用経験が必要です。
+
+  この認定試験に合格すると、ACEカレッジの単位を取得できる可能性がございます。詳細については、[認定試験のためのACEカレッジクレジット](/learn/certifications/ace-credit-for-certification-exams) をご参照ください。
 subTitle: '本試験では、以下の技術的タスクを遂行できる能力を査定します。 Azure アイデンティティおよびガバナンスの管理、ストレージの実装と管理、Azure 計算資源の展開と管理、 仮想ネットワークの構成と管理、および Azure 計算資源の監視とバックアップ。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
@@ -35,7 +37,7 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は2020年11月24日に更新されました。変更点を確認するには、以下のス試験スキルの概要ををダウンロードしてください。
+- この試験の内容は2020年11月24日に更新されました。変更点を確認するには、下記試験スキル概要をダウンロードしてください。
 - Azure アイデンティティおよびガバナンスの管理 (15-20%)
 - ストレージの作成と管理 (10-15%)
 - Azure 計算資源の展開と管理 (25-30%)
