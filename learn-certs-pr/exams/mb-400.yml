@@ -16,6 +16,8 @@ summary: |-
   受験者は、Dynamics 365 の Power Apps モデル駆動型アプリケーションに関する高度な知識を身に付けておく必要があります。これには、カスタマイズ、構成、統合、拡張性、および境界と制約についての詳細な理解が含まれます。受験者は、 Dynamics 365 の Power Apps モデル駆動型アプリケーションの DevOps プラクティスについて基本的に理解している必要があります。受験者は、データを公開、保存、レポートする必要があります。
 
   受験生には、 JavaScript 、 TypeScript 、 C# 、 HTML 、 .NET 、 Microsoft Azure 、 Office 365 、 RESTful Web Services、 ASP.NET 、 Power BI などを含む開発経験が必要です。
+
+  <div><strong><br/> この試験は2020年12月31日に終了するため、Microsoftは“Common Data Service” から“Microsoft Dataverse”への参照を更新致しません。</strong></div>
 subTitle: 'この試験では、技術設計の作成、 Common Data Service (CDS) の設定、 Power Apps の作成と設定、ビジネスプロセスの自動化の設定、ユーザー エクスペリエンスの拡張、プラットフォームの拡張、統合の開発などの技術的なタスクを実行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0

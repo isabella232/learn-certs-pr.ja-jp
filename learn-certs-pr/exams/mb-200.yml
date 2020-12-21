@@ -16,6 +16,8 @@ summary: |-
   受験生は主に、クライントのニーズに答えること、新機能と機能性の実装に関連する設計タスクの実行、システム変更の実装とテストに対して責任をおっています。
 
   受験生はソリューションの機能デザインもプランニングし、アプリケーションライフサイクル管理(ALM)プロセスを実装し、レガシーや外部のシステムからデータとオブジェクトを移行し、Power Platformを他のシステムと統合し、Power Platform環境を管理します。
+
+  <div><strong><br/>この試験は2020年12月31日に終了するため、Microsoftは“Common Data Service” から“Microsoft Dataverse”への参照を更新致しません。</strong></div>
 subTitle: 'この試験では、発見/計画/分析の実行、ユーザーエクスペリエンスデザインの管理、エンティティおよびデータの管理、セキュリティの実装、統合の実装、ソリューションの展開およびテストの実行という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb

@@ -11,6 +11,8 @@ summary: |-
   </div>
 
   この試験の受験者は、Power Platform の機能を理解し、Power Automate で基本的なビジネス プロセスを自動化し、Power BI で基本的なデータ分析を実行し、シンプルな Power App を作成することでより効果的に行動し、Power Virtual Agents を使用して強力なチャット ボットを作成することで、生産性の向上を目指します。
+
+  この認定試験に合格すると、ACEカレッジの単位を取得できる可能性がございます。詳細については、[認定試験のためのACEカレッジクレジット](/learn/certifications/ace-credit-for-certification-exams) をご参照ください。
 subTitle: この試験では、Power Platform のビジネス価値を説明し、Power Platform のコア コンポーネントを特定し、Power BI の機能を実証し、Power App の機能について説明し、Power Automate の機能を実証し、Power Virtual Agents のビジネス価値を実証する能力を評価します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
@@ -41,7 +43,9 @@ skills:
 - Power Automate の機能を実証する (15-20%)
 - Power Virtual Agents のビジネス価値を実証 (10-15%)
 roles:
-- developer
+- business-user
+- functional-consultant
+- student
 products:
 - power-platform
 courses:

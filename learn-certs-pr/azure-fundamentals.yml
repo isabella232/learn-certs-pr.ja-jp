@@ -19,10 +19,18 @@ levels:
 skills:
 - クラウドの概念について説明する
 - Azure のコアサービスについて説明する
-- セキュリティ、プライバシー、コンプライアンス、信頼について説明する
-- Azure の価格サービス レベル アグリーメントとライフサイクルについて説明する
+- cloudのコンセプトに関する説明
+- コアAzureサービスに関する説明
+- Azureのコアソリューションと管理ツールに関する説明
+- 一般的なセキュリティおよびネットワークセキュリティ機能に関する説明
+- ID、ガバナンス、プライバシー、およびコンプライアンス機能に関する説明
+- Azureのコスト管理とService Level Agreementsに関する説明
 roles:
+- administrator
+- business-user
 - developer
+- student
+- technology-manager
 type: fundamentals
 products:
 - azure
@@ -30,10 +38,12 @@ courses:
 - uid: course.az-900t01
 - uid: course.az-900t00
 paths:
-- uid: learn.wwl.explore-microsoft-azure-cloud-concepts
-- uid: learn.wwl.distinguish-microsoft-azure-core-services
-- uid: learn.wwl.examine-microsoft-azure-security-privacy-compliance-trust
-- uid: learn.wwl.review-microsoft-azure-pricing-slas-lifecycles
+- uid: learn.az-900-describe-cloud-concepts
+- uid: learn.az-900-describe-core-azure-services
+- uid: learn.az-900-describe-core-solutions-management-tools-azure
+- uid: learn.az-900-describe-general-security-network-security-features
+- uid: learn.az-900-describe-identity-governance-privacy-compliance-features
+- uid: learn.az-900-describe-azure-cost-management-service-level-agreements
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
 exams:
 - uid: exam.az-900
