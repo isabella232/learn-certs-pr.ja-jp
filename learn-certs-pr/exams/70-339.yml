@@ -19,7 +19,6 @@ summary: |-
 subTitle: この試験は、データセンターおよびクラウドで SharePoint 2016 のインストール、構成、展開、および管理を行う経験豊富な IT プロフェッショナルを対象としています。受験者として対象となるのは通常、SharePoint および SharePoint が依存するその他のコア テクノロジ (Windows Server 2008 R2 以降、インターネット インフォメーション サービス (IIS)、Microsoft SQL Server 2008 R2 以降、Active Directory、ネットワーク インフラストラクチャ サービスなど) の計画と管理について 4 年を超える経験のある方です。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBh
-practiceTestUrl: https://www.mindhub.com/70-339-Managing-Microsoft-SharePoint-Server-2016-p/mu-70-339_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F70-339
 locales:
 - en

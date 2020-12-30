@@ -18,7 +18,6 @@ summary: |-
 subTitle: この試験の候補者は、Windows Server 2016 の機能を使用して ID を管理します。候補者は、Active Directory Domain Service (AD DS) のインストール、構成、管理、および Group Policy Object (GPO) の実装を行います。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1l
-practiceTestUrl: https://www.mindhub.com/70-742-Identity-with-Windows-Server-2016-Microsoft-p/mu-70-742_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=742&examname=Identity%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-742
 locales:
 - en

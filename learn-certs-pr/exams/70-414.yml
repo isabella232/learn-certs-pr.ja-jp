@@ -16,7 +16,6 @@ summary: |-
 subTitle: この試験は、エンタープライズ規模の高度に仮想化された環境で Windows Server 2012 インフラストラクチャを設計、実装、保守するために必要なスキルと知識をテストする 2 部構成の試験の第 2 部です。この試験での合格は、ID およびアクセス、高可用性、サーバー インフラストラクチャなど、Windows Server 2012 サービスの計画、構成、管理について受験者の能力を検証します。この試験と他の試験との組み合わせにより、受験者が、Windows Server 2012 環境におけるサービスおよびインフラストラクチャの設計、展開、保守に必要なスキルと知識を有していることを確認します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t54V
-practiceTestUrl: https://www.mindhub.com/70-414-Implementing-an-Advanced-Infrastructure-p/mu-70-414_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=414&examname=Implementing%20an%20Advanced%20Server%20Infrastructure&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-414
 locales:
 - en

@@ -14,7 +14,6 @@ summary: |-
 subTitle: この試験の受験者は構文として正しいJavaScriptコードを理解して書くことが出来る必要があり、JavaScriptがサポートするデータタイプを使用し、与えられた問題を論理的に解くことのできるJavaScriptコードを認識できる必要があります。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiyb
-practiceTestUrl: https://www.mindhub.com/MTA-98-382-Intro-to-Programming-with-JavaScript-p/mu-98-382_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=98-382&examname=Introduction%20to%20Programming%20Using%20JavaScript&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-382

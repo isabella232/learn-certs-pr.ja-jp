@@ -21,7 +21,6 @@ summary: |-
 subTitle: 'この試験では、負荷分散必須要件の特定、アイデンティティとセキュリティの設計、データプラットフォームソリューションの設計、ビジネス継続性戦略の設計、デプロイメント・マイグレーション・インテグレーションの設計、インフラストラクチャ戦略の設計、という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
-practiceTestUrl: https://us.mindhub.com/p/MU-AZ-301?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - ja
 - zh-cn
