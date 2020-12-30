@@ -14,7 +14,6 @@ summary: |-
 subTitle: この試験は、2 年以上の経験を持つ SQL Server のデータベース管理者、システム エンジニア、および開発者で、クエリ記述のスキルと知識を検証するユーザーを対象としています。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiOm
-practiceTestUrl: https://www.mindhub.com/search?query=70-761&amp;categoryId=11284?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=761&examname=Querying%20Data%20with%20Transact-SQL&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-761
 locales:
 - en

@@ -14,7 +14,6 @@ summary: |-
 subTitle: この試験の受験者は、Windowsデバイスとモビリティに関する基本的な知識があります。候補者は、Windowsデバイス、Windowsベースのネットワーキング、Active Directory、マルウェア対策製品、ファイアウォール、ネットワークトポロジとデバイス、およびネットワークポートに関する実践的な体験をもっていることを期待されています。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy9
-practiceTestUrl: https://www.mindhub.com/MTA-98-368-Mobility-and-Devices-Fundamentals-p/mu-98-368_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=98-368&examname=Mobility%20and%20Devices%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-368

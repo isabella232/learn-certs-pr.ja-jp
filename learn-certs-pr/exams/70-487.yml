@@ -19,7 +19,6 @@ summary: |+
 subTitle: 'この認定資格の受験者は、Visual Studio 2017 および Microsoft® .NET Core Framework を使用して Web ソリューションを設計および開発する専門的な開発者です。候補者は、最低 3 〜 5 年の ASP.NET MVC ベースのソリューションを開発した経験が必要です。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMe
-practiceTestUrl: https://www.mindhub.com/70-487-developing-microsoft-azure-and-web-services/p/MU-70-487?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=487&examname=Developing%20Microsoft%20Azure%20and%20Web%20Services&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-487
 locales:
 - en

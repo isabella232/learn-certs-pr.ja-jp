@@ -20,7 +20,6 @@ summary: |-
 subTitle: 'この試験では、インフラストラクチャのデプロイと設定、負荷分散とセキュリティの実装、アプリの作成とデプロイ、認証とセキュアデータの実装、クラウド用とAzureストレージ用の開発、という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
-practiceTestUrl: https://us.mindhub.com/p/MU-AZ-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - ja
 - zh-cn

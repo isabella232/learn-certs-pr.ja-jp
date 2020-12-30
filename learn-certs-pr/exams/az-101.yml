@@ -12,7 +12,6 @@ summary: |-
 subTitle: この試験では、IDの保護、Azure へのサーバ移行の評価と実施、アプリケーションサービスの実装と管理、高度な仮想ネットワークの実装という技術タスクを遂行する能力を評価します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6M
-practiceTestUrl: https://www.mindhub.com/shop/microsoft?facetValueFilter=tenant~publisher:measureup&?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
