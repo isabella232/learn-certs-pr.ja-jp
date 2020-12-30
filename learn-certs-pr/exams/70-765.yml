@@ -16,7 +16,6 @@ summary: |-
 subTitle: この試験は、アーキテクト、シニア開発者、インフラストラクチャ スペシャリスト、開発リーダーを対象としています。受験生は、さまざまなクラウド サービス モデルとサービス モデル アーキテクチャ、データ ストレージ オプション、データ同期手法についての実用的な知識を持っています。受験生はまた、Azure アプリケーションの外部リソースとの統合に加えて、配置モデル、データベースのアップグレードと移行、アプリケーションとサービスについての実用的な知識も持っています。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7mn
-practiceTestUrl: https://www.mindhub.com/70-765-Provisioning-SQL-Databases-p/mu-70-765_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=765&examname=Provisioning%20SQL%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-765
 locales:
 - en

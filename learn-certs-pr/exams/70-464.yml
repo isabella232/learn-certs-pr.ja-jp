@@ -16,7 +16,6 @@ summary: |-
 subTitle: この試験は、組織全体のデータベースの構築と実装に携わり、高レベルのデータ可用性を実現するデータベースのプロフェッショナルを対象としています。業務としては、データベース ファイル、データ型、およびテーブルの作成、インデックスの計画、作成、および最適化、データの整合性の確保、ビュー、ストアド プロシージャ、および関数の実装、トランザクションやロックの管理などが含まれます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkI
-practiceTestUrl: https://www.mindhub.com/70-464-developing-microsoft-sql-server-databases/p/MU-70-464?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=464&examname=Developing%20Microsoft%20SQL%20Server%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-464
 locales:
 - en

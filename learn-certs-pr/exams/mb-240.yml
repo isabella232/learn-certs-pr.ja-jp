@@ -19,7 +19,6 @@ summary: |-
 subTitle: 'この試験では、次の技術タスクを実行する能力を測定します。フィールドサービスアプリケーションの構成。作業指示の管理。作業指示書のスケジュールと発送。 フィールドサービスのモビリティの管理。 在庫と購入の管理。 コネクテッドフィールドサービスの実装。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
-practiceTestUrl: https://in.mindhub.com/mb-240-microsoft-dynamics-365-field-service-microsoft-official-practice-test/p/MU-MB-240?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-240&examname=Exam%20MB-240:%20Microsoft%20Dynamics%20365%20for%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 locales:
 - en

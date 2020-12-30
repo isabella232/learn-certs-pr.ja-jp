@@ -20,7 +20,6 @@ summary: |-
 subTitle: この試験の受験者は、Windows Server 2016 環境をセキュリティー強化します。候補者は、シールド環境および暗号化対応仮想マシンと Guarded Fabric を使用して、サーバー環境を強化し、仮想マシン インフラストラクチャを保護するために使用される方法とテクノロジに精通しています。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IDM3
-practiceTestUrl: https://www.mindhub.com/70-744-Securing-Windows-Server-2016-p/mu-70-744_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=744&examname=Securing%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-744
 locales:
 - en

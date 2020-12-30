@@ -14,7 +14,6 @@ summary: |-
 subTitle: この試験では、受験者が基本的なセキュリティの知識とスキルを有していることを実証します。また、マイクロソフト認定ソリューション アソシエイト (MCSA) 試験への足掛かりにもなります。受験者には、関連するトレーニング コースを受講して、ここで説明する概念とテクノロジに精通することをお勧めします。受験者は、Windows Server、Windows ベース ネットワーキング、Active Directory、マルウェア対策製品、ファイアウォール、ネットワーク トポロジとネットワーク デバイス、およびネットワーク ポートに関する実地経験があることが期待されます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k1
-practiceTestUrl: https://www.mindhub.com/MTA-98-367-Security-Fundamentals-p/mu-98-367_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=98-367&examname=Security%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-367

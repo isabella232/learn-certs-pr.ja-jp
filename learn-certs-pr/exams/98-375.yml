@@ -12,7 +12,6 @@ summary: |-
 subTitle: この試験の受験者は、今日のタッチ対応デバイス (PC、タブレット、携帯電話) で動作する HTML5 クライアント アプリケーションの開発のコア スキルを証明しようとしている個人を対象としています。HTML はブラウザーでレンダリングして UI を生成する Web テクノロジと考えられがちですが、この試験は HTML5、CSS3、および JavaScript を使用してクライアント アプリケーションを開発する方法に焦点を当てています。この試験を受ける前に、受験者はこの準備ガイドで概説したトピック (CSS や JavaScript など) に関する強固な基礎知識が必要です。受験者には、関連するトレーニング コースを受講するか、MSDN と Microsoft Visual Studio で利用可能なチュートリアルとサンプルを利用して、関連テクノロジの概念を理解し、実地経験を積むことをお勧めします。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJs
-practiceTestUrl: https://www.mindhub.com/MTA-98-375-HTML5-Application-Development-Fundame-p/mu-98-375_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=98-375&examname=HTML5%20Application%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-375

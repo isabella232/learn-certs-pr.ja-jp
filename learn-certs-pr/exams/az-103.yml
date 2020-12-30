@@ -19,7 +19,6 @@ summary: |-
 subTitle: '2019年5月1日の開始に当たり、Exam AZ-103に合格するだけで当資格を得られるようになりました。新試験はAZ-100およびAZ-101(2019年5月1日廃止)がカバーしていたスキルを合わせたものとなり、多くの部分が AZ-100から来ています。この試験では、Azureサブスクリプションとリソースの管理、ストレージの実装と管理、仮想マシン(VM)のデプロイと管理、仮想ネットワークの設定と管理、アイデンティティの管理という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUR
-practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
 - ja
