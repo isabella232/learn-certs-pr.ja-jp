@@ -65,6 +65,10 @@ ms.prod: non-product-specific
 | [MB-200](/learn/certifications/exams/mb-200): Microsoft Power Platform + Dynamics 365 Core |
 | [MB-400](/learn/certifications/exams/mb-400): Microsoft Power Apps + Dynamics 365 Developer |
 
+| 2021 年 6 月 30 日に廃止 |
+| --- |
+| [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
+
 ## 最近終了した試験
 
 参考として、昨年終了した試験には、12 ヶ月間有効な試験の詳細ページへのリンクが含まれます。

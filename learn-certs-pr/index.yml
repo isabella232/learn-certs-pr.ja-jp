@@ -107,21 +107,30 @@ resourcesSection:
       url: /learn/certifications/browse
 
 statisticsSection:
-  title: 認定を取得する理由
-  summary: 認定資格は、業界で認められているロールベースのスキルの証拠としてプロフェッショナルな優位性を提供します。
+  title: Microsoft 認定資格
+  summary: Microsoft 認定資格は、デジタルおよびクラウド ビジネスにおけるスキルの習得について、世界的に認められ、業界に支持された証拠を提供することで、専門的な優位性を提供します。
   video:
-    pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
+    pdfDownloadUrl: https://home.pearsonvue.com/voc
     iframeTitle: Microsoft Certifications
     iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
-    title: Microsoft 認定資格の利点
-    summary: 認定資格の取得により、マイクロソフト認定を受けた技術者の 23％ が、給与が最大 20％ 増加したと報告しました。さらに、認定資格を持つ社員は、同僚の監督を任されることが多く、昇進が早くなります。ー2017 年ピアソン VUE Value of Certification ホワイト ペーパー。
+    title: 認定資格のメリット
+    summary: 認定資格の取得により、技術専門家の67％が仕事で実行する能力に対して自信を持てるようになったと回答し、41％が仕事の満足度の向上を報告し、35％の給与または賃金が増加しました。- 2018 Pearson VUE Value of IT Certification
   items:
-    - title: 38%
-      summary: IT サマリーは 2021 年までにクラウド関連になるでしょう。
-      note: IDC/Microsoft、Cloud Skills and Organizational Influence* How Cloud Skills Are Accelerating the Careers of IT Professional、 2017 年 5 月
-    - title: 35%
-      summary: IT プロフェッショナルのサマリーは、他のテクノロジーの展開よりも、クラウドの展開の方が影響力が強いと回答しています。
-      note: IDC/Microsoft、Cloud Skills and Organizational Influence* How Cloud Skills Are Accelerating the Careers of IT Professional、 2017 年 5 月
-    - title: 36.9%
-      summary: IT プロフェッショナルのサマリーは、認定資格のお陰で複雑なタスクに自信を持って取り組めると述べました。
-      note: ピアソン VUE、「The Value of IT Certification Survey」、2017年1月
+    - title: 91%
+      summary: 認定を受けた IT プロフェッショナルは、認定資格は彼らにより専門的な信頼性を与えると言います。
+      note: 2018 Pearson VUE Value of Certification
+    - title: 52%
+      summary: 認定を受けた IT プロフェッショナルは、自社の専門知識が組織内でより求められていると言います。
+      note: Global Knowledge 2019 の IT スキルと給与レポート
+    - title: 93%
+      summary: 意思決定者は、認定された従業員が付加価値を提供することに同意します。
+      note: Global Knowledge 2019 IT Decision Makers Insights
+
+     
+
+
+
+
+
+
+

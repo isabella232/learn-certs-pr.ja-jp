@@ -57,8 +57,8 @@ MCT プログラムの要件の詳細については、このページの [申�
     - Microsoft コア トレーニング スキル
     - New Horizons 社の指導スキル認定
     - PrepMasters USA
-    - Modern Classroom Certified Trainer (MCCT®)
-    - Certified Virtual Educator
+    - Modern Classroom Certified Trainer (MCCT®) [大学職員または教授のみ]
+    - Certified Virtual Educator [大学職員または教授のみ]
   
   OR<br/><br/>
 
@@ -96,7 +96,9 @@ MCT プログラムの要件の詳細については、このページの [申�
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/m365-teams-administrator-associate)
+- [Microsoft Certified: Power Platform Functional Consultant Associate](/learn/certifications/power-platform-functional-consultant-associate)
 - [Microsoft Certified: Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker)
+- [Microsoft Certified: Power Platform Developer Associate](/learn/certifications/power-platform-developer-associate)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
 - [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)

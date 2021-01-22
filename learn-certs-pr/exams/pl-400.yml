@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Developer (beta)'
+title: 'Microsoft Power Platform Developer'
 metadata:
-  title: 'Exam PL-400: Microsoft Power Platform Developer (beta)'
-  description: 'Exam PL-400: Microsoft Power Platform Developer (beta)'
+  title: 'Exam PL-400: Microsoft Power Platform Developer'
+  description: 'Exam PL-400: Microsoft Power Platform Developer'
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
@@ -13,8 +13,6 @@ summary: |-
   受験者は、機能、境界、および制約に関する深い理解を含む、Power Platform サービスの詳細な応用知識を持っている必要があります。受験者は、Power Platformの DevOps プラクティスについて基本的に理解している必要があります。
 
   受験者は、Power Platform サービス、JavaScript、JSON、TypeScript、C＃、HTML、.NET、Microsoft Azure、Microsoft 365、RESTful Web サービス、ASP.NET、Microsoft Power BI などの開発経験が必要です。
-
-  <div><strong><br/>ベータ試験は、設問と試験の質に関するデータを収集しているため、すぐには採点されません。ベータ試験の価値と重要性についての詳細<a href="/learn/certifications/certification-exams#participating-in-beta-exams">こちらをご覧ください</a>。</strong></div>
 subTitle: 'この試験では、技術設計の作成、 Common Data Service の設定、 Power Apps の作成と設定、ビジネスプロセスの自動化の設定、ユーザー エクスペリエンスの拡張、プラットフォームの拡張、統合の開発などの技術的なタスクを実行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4BeRV
