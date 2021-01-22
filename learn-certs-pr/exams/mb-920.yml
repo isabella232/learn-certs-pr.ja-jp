@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)
+metadata:
+  title: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)'
+  description: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)'
+uid: exam.mb-920
+displayName: MB-920
+summary: |-
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
+  
+  この試験では、Microsoft Dynamics 365 ファイナンスおよびオペレーション アプリの機能について説明します。
+  
+  この試験の受験者は情報科学 (IT) 環境の一般的な知識もしくは関連する実務経験を持っている必要があります。また、財務原則と事業運営に関する基本的な理解を持っている必要があります。
+  
+  <div><br/><strong>注意&#58; この試験は 2021 年 2 月に利用可能になります。</strong></div>
+subTitle: 'この試験は 2021 年 2 月に利用可能になります。  この試験では、次の項目について説明する能力を評価します。Dynamics 365 Supply Chain Management、Dynamics Finance、Dynamics 365 Commerce、Dynamics 365 Human Resources、Project Operations、Dynamics 365 Business Central、および共有機能。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JFBT
+locales:
+- en
+levels:
+- beginner
+skills:
+- Dynamics 365 Supply Chain Management の説明 (25-30％)
+- Dynamics Finance の説明 (25-30％)
+- Dynamics 365 Commerce の説明 (10-15％)
+- Dynamics 365 Human Resources の説明 (5-10％)
+- Project Operations の説明 (10-15％)
+- Dynamics 365 Business Central の説明 (5-10％)
+- 共有機能の説明 (10-15％)
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products: 
+- dynamics-365
+- dynamics-finance-operations
+relatedCertifications:
+- related:
+    uid: certification.d365-fundamentals-finance-and-operations-apps-erp
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認証ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 資格試験のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: ../request-accommodations.md
+- title: 試験のポリシーと FAQ
+  description: 試験ポリシーとよくある質問をご確認ください。
+  href: ../certification-exam-policies.md

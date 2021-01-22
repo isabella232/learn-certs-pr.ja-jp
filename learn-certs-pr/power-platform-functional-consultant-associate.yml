@@ -2,14 +2,24 @@
 title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
-  description: Power Platform Functional Consultant は、機能、境界、制約の実際的な理解など、Power Platform の幅広い応用知識を持っている必要があります。
+  description: 機能コンサルタントとして、この認定資格を使用して、プロジェクトやその他の業務でより効果的に自分を売り込むことができます。Microsoft Power Platform Functional Consultant Associate認定により、コードなしまたはローコードなしで、通常は開発者の専門知識を必要とするソリューションを構築できることを、組織は知ることができます。
 uid: certification.power-platform-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong><br/><br/></font></div>
 
-  Power Platform Functional Consultant は、機能、境界、制約の実際的な理解など、Power Platform の幅広い応用知識を持っている必要があります。Power Platform メーカー ツールを使用して、Power Platform と Microsoft 365 を使用するソリューションを作成した経験が必要です。認定 Functional Consultant は、データ モデリング、ユーザー エクスペリエンスの設計、要件分析、およびプロセス分析に習熟している必要があります。
-subTitle: Power Platform Functional Consultant は、機能、境界、制約の実際的な理解など、Power Platform の幅広い応用知識を持っている必要があります。
+  コンサルティングや構成のスキルを磨こうとしている機能コンサルタント、データ アナリスト、または開発者、あるいはソリューション アーキテクトの認定資格取得への道を歩んでいるソリューション アーキテクトですか？Microsoft Power Platform を構成する知識と経験を持つ IT プロフェッショナルの場合があります。Microsoft Dynamics 365 のモデル駆動型アプリケーションとデータ モデリングの原則に精通している場合は、Microsoft Power Platform Functional Consultant Associate 認定資格がどのようにキャリアを強化し、 チームの主要メンバーにするのに役立つ方法について確認してください。
+  この認定資格は、Power Apps、Power BI、および Power Virtual Agents を使用するソリューションを構築および実装する資格があると考えられていることを世界に示しています。
+  
+  この認定資格の受験者として、組織の関係者や、ソリューション アーキテクト、開発者、テスターなどの主題の専門家と協力して、要件を収集し、Microsoft Power Platform ソリューションを実装します。モデル駆動型、キャンバス、ポータル アプリを作成します。また、Power Automate フローを作成し、Power Virtual Agents を使用してチャットボットを設計し、Power BI の可視化とダッシュボードを使用してデータを分析します。アプリケーションの機能強化、カスタム ユーザー エクスペリエンス、システム統合、データ変換、カスタム プロセスの自動化、カスタムの可視化を作成します。
+  
+  機能コンサルタントとして、この認定資格を使用して、プロジェクトやその他の業務でより効果的に自分を売り込むことができます。Microsoft Power Platform Functional Consultant Associate認定により、コードなしまたはローコードなしで、通常は開発者の専門知識を必要とするソリューションを構築できることを、組織は知ることができます。
+
+  この認定資格を取得する前に、より多くの経験が必要な場合は、以下をご提案します。
+  - Power BI を使用して基本的なダッシュボードを構築します。
+  - Microsoft Learn で利用可能な学習パスを取得します。
+  - インストラクター指導のトレーニング コースに登録します。
+subTitle: 機能コンサルタントとして、この認定資格を使用して、プロジェクトやその他の業務でより効果的に自分を売り込むことができます。Microsoft Power Platform Functional Consultant Associate認定により、コードなしまたはローコードなしで、通常は開発者の専門知識を必要とするソリューションを構築できることを、組織は知ることができます。
 levels:
 - intermediate
 skills:
@@ -32,6 +42,8 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+courses:
+- uid: course.pl-200t00
 paths:
 - uid: learn-dynamics.get-started-using-common-data-service
 - uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service

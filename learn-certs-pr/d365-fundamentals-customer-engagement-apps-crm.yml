@@ -1,0 +1,57 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Fundamentals Customer Engagement Apps (CRM)'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals Customer Engagement Apps (CRM)'
+  description: 'この認定資格は 2021 年 2 月に利用可能になります。事業運営、顧客関係管理 （CRM） に精通しており、IT に精通している (一般的または実務経験を通じて) 場合、この認定資格を利用してこれらのスキルを示します。Dynamics 365 の顧客エンゲージメント機能に対する広範な露出を検証して、キャリア パスを強化します。'
+uid: certification.d365-fundamentals-customer-engagement-apps-crm
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
+  
+  事業運営、顧客関係管理 （CRM） に精通しており、IT に精通している (一般的または実務経験を通じて) 場合、この認定資格を利用してこれらのスキルを示します。Dynamics 365 の顧客エンゲージメント機能に対する広範な露出を検証して、キャリア パスを強化します。 
+  
+  異なる役割を持ち、キャリアのさまざまな段階で、この基礎認定の恩恵を受けることができます。以下の例をご覧ください。
+  - 操作するアプリケーションの一般的な理解を示したい IT プロフェッショナル 
+  - Dynamics 365 の知識があり、スキルや経験を検証したいビジネス関係者およびその他の人
+  - ビジネス オペレーションおよび CRM に対する理解を示したい開発者
+  Dynamics365 の顧客エンゲージメント機能を活用して次のレベルに移行したい学生、新卒、およびキャリア チェンジをする方
+  
+  <div><br/><strong>注意: この認定資格は 2021 年 2 月に利用可能になります。</strong></div>
+subTitle: 'この認定資格は 2021 年 2 月に利用可能になります。事業運営、顧客関係管理 （CRM） に精通しており、IT に精通している (一般的または実務経験を通じて) 場合、この認定資格を利用してこれらのスキルを示します。Dynamics 365 の顧客エンゲージメント機能に対する広範な露出を検証して、キャリア パスを強化します。'
+levels:
+- beginner
+skills:
+- Dynamics 365 Marketing の説明 
+- Dynamics 365 Sales の説明
+- Dynamics 365 Customer Service の説明 
+- Dynamics 365 Field Service の説明 
+- Project Operations の説明 
+- 共有機能の説明 
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+type: fundamentals
+products: 
+- dynamics-365
+- dynamics-customer-engagement
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIew
+exams:
+- uid: exam.mb-910
+resources:
+- title: 認証ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: help.md

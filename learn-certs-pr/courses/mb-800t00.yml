@@ -1,0 +1,55 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Business Central Functional Consultant
+metadata:
+  title: 'Course MB-800T00-A: Microsoft Dynamics 365 Business Central Functional Consultant'
+  description: 'Course MB-800T00-A: Microsoft Dynamics 365 Business Central Functional Consultant'
+uid: course.mb-800t00
+courseNumber: 'MB-800T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Business Central モジュールのユース ケースについて理解する
+- skill: Business Central を設定する
+- skill: 財務を構成する
+- skill: 販売と購買を構成する
+- skill: 操作を構成する
+- skill: 統合の自動化シナリオについて理解する
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-business-central
+- power-platform
+exams:
+- uid: exam.mb-800
+summary: |-
+  中小企業向けに構築され、最適化された Dynamics 365 Business Central は、エントリ レベルのビジネス アプリケーションを成長させた企業向けのアプリケーションです。成長する企業は、在庫やトランザクションの増加に対応できず、他の基幹業務システムとの統合が不足し、レポートの制限がある基本的な会計ソフトウェアや従来のエンタープライズ リソース プランニング (ERP) システムを上回ることが多くあります。また、企業はクラウドにおける拡張、モビリティの向上、可用性を備えたサービスを提供するというロジスティクスにも課題を抱えています。Business Central を使用すると、財務の管理、サプライチェーンの自動化と保護、スマートな販売、顧客サービスとプロジェクトのパフォーマンスの向上、業務の最適化を実現できます。
+
+  #### 聴衆プロファイル
+  Dynamics 365 Business Central のコア機能コンサルタントは、中小規模のビジネス向けのコア アプリケーション セットアップ プロセスの実装を担当します。
+prerequisitesSection: |-
+  このコースは、Dynamics 365 Business Central で作業する機能コンサルタント、またはビジネス の中心知識を広げる他の Dynamics 365 アプリを使用する機能コンサルタントを対象にしています。
+outlineSection: |-
+  ### モジュール 1&#58; Business Central の概要
+  Business Central モジュールの概要 
+  
+  ### モジュール 2&#58; アプリケーションのセットアップ
+  
+  
+  ### モジュール 3&#58; 財務の構成
+  
+  
+  ### モジュール 4&#58; 販売と購買の構成
+  
+  
+  ### モジュール 5&#58; 操作
+  
+  
+  ### モジュール 6&#58; 統合と自動化
+  
+  #### その他の資料
+  Microsoft.com/learn

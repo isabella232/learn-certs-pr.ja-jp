@@ -8,6 +8,7 @@ displayName: MB-901
 summary: |-
   <div>
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
+  <div><strong>この試験は 2021 年 6 月 30 日に廃止されます。MB-910 と MB-920 の 2 つの代替試験が利用可能です。詳細については、 <a href="/learn/certifications/exams/mb-910">MB-910</a> および <a href="/learn/certifications/exams/mb-920">MB-920</a> 試験詳細ページを参照してください。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます。</strong><br/><br/></div>
   <div><strong>この試験の内容は、2020 年 7 月 10 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
   </div>
 
@@ -19,7 +20,7 @@ summary: |-
 
   この認定試験に合格すると、ACEカレッジの単位を取得できる可能性がございます。詳細については、[認定試験のためのACEカレッジクレジット](/learn/certifications/ace-credit-for-certification-exams) をご参照ください。
   
-  <div><br/><strong>注&#58; Microsoftは現時点では、Microsoftは“Common Data Service” から“Microsoft Dataverse”への参照を更新致しません。/strong></div>
+  <div><br/><strong>この試験は 2021 年 6 月 30 日に廃止されるため、Microsoft は「Common Data Service」の参照を「Microsoft Dataverse」に更新しません。</strong></div>
 subTitle: 本試験は、以下を理解できる能力を査定します。 Microsoft Dynamics 365、人工知能(AI)、複合現実(MR)、 Power Platform 、クラウドの概念、クラウドのセキュリティ、 Dynamics 365におけるロールベース のセキュリティ、Common Data Service、 データ管理フレームワーク、 Dynamics 365 のレポート作成、 Dynamics 365 の統合、クラウドの展開。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
@@ -49,6 +50,7 @@ roles:
 - business-user
 - functional-consultant
 - student
+retirementDate: 06/30/2021
 products:
 - dynamics-365
 courses:
