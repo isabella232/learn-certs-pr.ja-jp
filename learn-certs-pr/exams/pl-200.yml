@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Functional Consultant (beta)'
+title: 'Microsoft Power Platform Functional Consultant'
 metadata:
-  title: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
-  description: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
+  title: 'Exam PL-200: Microsoft Power Platform Functional Consultant'
+  description: 'Exam PL-200: Microsoft Power Platform Functional Consultant'
 uid: exam.pl-200
 displayName: PL-200
 summary: |-
@@ -15,8 +15,6 @@ summary: |-
   受験者は、品質保証チームのメンバーと積極的に協力して、ソリューションが機能要件と非機能要件を確実に満たすようにします。彼らは、アーティファクトを特定、生成、パッケージ化して DevOps エンジニアに配布し、Power Platform 管理者に運用とメンテナンスのトレーニングを提供します。
 
   Power Platform機能コンサルタントは、Dynamics 365モデル駆動型アプリケーションに精通している必要があり、PowerPlatformコンポーネントを使用してDynamics 365モデル駆動型アプリケーションを拡張およびカスタマイズした経験が必要です。
-
-  <div><strong><br/>ベータ試験は、設問と試験の質に関するデータを収集しているため、すぐには採点されません。ベータ試験の価値と重要性についての詳細<a href="/learn/certifications/certification-exams#participating-in-beta-exams">こちらをご覧ください</a>。</strong></div>
 subTitle: 'この試験では、Common Data Service の構成、Power Apps を使用したアプリの作成、Power Automate の作成と管理、Power Virtual Agents チャットボットの実装、Power Apps の他のアプリやサービスとの統合などのタスクを完了する能力を評価します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs

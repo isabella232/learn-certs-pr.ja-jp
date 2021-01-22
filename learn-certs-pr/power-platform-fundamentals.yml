@@ -8,7 +8,19 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badg
 summary: |-
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
 
-  ビジネス価値およびコア製品機能から、単純な Power Apps キャンバス アプリの構築、データ ソースの接続、Power Automate による基本的なビジネス プロセスの自動化、Power BI ダッシュボードの作成、Power Virtual Agent による強力なチャット ボットの作成に至るまで、Power Platform のコア機能を理解していることを証明しましょう。
+  学生、ビジネス ユーザー、または初心者の専門技術者の場合、この認定資格は、Microsoft Power Platform のスキルを使用してチームの生産性を向上させるため、進歩を加速させ、キャリアを向上させることができます。トレーニングするために経験は必要なく、必要なのはコンピュータ技術、データ分析、クラウド コンピューティング、インターネットに関する基本的な知識のみです。Fundamental 認定資格は、スキルセットを拡大し、Microsoft Power Platform Functional Consultant などの他の認定資格に進むための最初のステップとお考えください。
+  
+  Microsoft Power Platform の Fundamental 認定資格は、以下を行いたい場合に最適です。
+  - Microsoft Power Platform でソリューションを構築します。
+  - Power Automate を使用して基本的なビジネス プロセスを自動化します。
+  - Power BI を使用してデータ分析を実行します。 
+  - シンプルな Power App のエクスペリエンスを作成します。
+  - Power Virtual Agents で実用的なチャットボットを構築します。
+  
+  この認定資格には前提条件はありません。しかし、もっと経験を積みたい場合は、以下を実行することができます。
+  - Microsoft Power Platform で働くチームの人の技術を得ます。
+  - Microsoft Learn で利用可能な学習パスを確認します。
+  - インストラクター指導のトレーニング コースに登録します。
 subTitle: ビジネス価値およびコア製品機能から、単純な Power Apps キャンバス アプリの構築、データ ソースの接続、Power Automate による基本的なビジネス プロセスの自動化、Power BI ダッシュボードの作成、Power Virtual Agent による強力なチャット ボットの作成に至るまで、Power Platform のコア機能を理解していることを証明しましょう。
 levels:
 - beginner

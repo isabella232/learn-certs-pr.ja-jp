@@ -5,7 +5,7 @@ metadata:
   description: 'Course MB-210T01: Microsoft Dynamics 365 Sales'
 uid: course.mb-210t01
 courseNumber: 'MB-210T01'
-hoursToComplete: 48
+hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: アプリケーションをインストールして管理する
@@ -31,7 +31,7 @@ summary: |-
 
   世界的に認められた専門家のチームに参加して、リードからチャンス、そして成約に至るまで一歩一歩進んで行ってください。アプリケーションで利用可能な自動化およびカスタマイズオプションを使用することによって、営業スタッフが最も生産性の高い自分になる方法を学ぶことができます。
 
-  #### Audience profile
+  #### 聴衆プロファイル
   Dynamics 365 Functional Consultantは、検出の実行、要件の取得、対象分野の専門家と利害関係者の関与、要件の翻訳、およびソリューションとアプリケーションの構成を担当します。機能コンサルタントは、すぐに使用できる機能、コードレスの拡張性、アプリケーションとサービスの統合を使用してソリューションを実装致します。
 prerequisitesSection: |-
   ビジネスアプリケーションに精通しており、ビジネスに合わせてそれらをカスタマイズおよび実装したいという願望をお持ちの方。

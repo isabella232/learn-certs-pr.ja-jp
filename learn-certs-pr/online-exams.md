@@ -118,7 +118,7 @@ Microsoft コンピュータでローカル管理者権限を設定するのに�
                 <p><strong>インターネット ブラウザ</strong></p>
             </td>
             <td>
-                <p>Web 登録、または安全なブラウザや <strong>Internet Explorer 11</strong> のダウンロード用の Microsoft <strong>Edge</strong>、<strong>Safari</strong>、<strong>Chrome</strong>、および <strong>Firefox</strong> の最新バージョン。</p>
+                <p>Microsoft <strong>Edge</strong>、<strong>Safari</strong>、<strong>Chrome</strong>、<strong>Firefox</strong> の最新バージョン。</p>
             </td>
         </tr>
         <tr>
@@ -185,7 +185,7 @@ Microsoft コンピュータでローカル管理者権限を設定するのに�
 </table>
 </div>
 
-### その他の注意事項とヒント：
+### その他の注意事項とヒント:
 
 - 試験に登録して購入する前に、必要な [システム テスト](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) を受験の際と同じ場所、同じコンピュータで行います。
 - 試験監督付きオンライン配布は、プロキシ サーバー、ネットワーク パケット検査/フィルタリング、厳格なネットワーク セキュリティの構成によって使用できないことがあります。
@@ -235,7 +235,7 @@ Microsoft コンピュータでローカル管理者権限を設定するのに�
 - 試験に参加するために提示する政府発行の ID の名前は、Microsoft 認定プロファイルの名前と正確に一致していなければならない。Microsoft 認定資格プロファイルの名前を変更する必要がある場合は、試験日の前に [Certification Support](https://aka.ms/mcpforum) にお問い合わせください。フォーラム モデレーターがサポートします。
 - 18 歳未満の未成年者は、身分証明書として有効な学生証を提示できます。また、受験者の保護者は、チェックイン プロセス中に有効な身分証明書を提示し、言葉での承諾を示す必要があります。
 
-### ワークエリアスキャン：
+### ワークエリアスキャン:
 
 - ウェブカメラ、電話、ノート PC を使用して、周囲の壁を左右に、床と天井を上下にゆっくりとスキャンするように求められます。部屋のスキャンを完了できなければ、プロセスの続行または受験は許可されません。
 - 次に、試験エリア全体をスキャンします。試験官は、次のようなセキュリティ上のリスクを探します。ただし、これらに限定されるわけではありません。

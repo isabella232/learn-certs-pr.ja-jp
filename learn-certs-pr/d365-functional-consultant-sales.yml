@@ -6,19 +6,18 @@ metadata:
 uid: certification.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細はこちら</a>。</strong></font><br/><br/></div><div><strong>MB-200 は、2020 年 9 月に新しい試験<a href="/learn/certifications/exams/pl-200">PL-200</a>に置き換わります。MB-200 が廃止される 2020 年 12 月 31 日までは、MB-200 または PL-200 のどちらかに加えて MB-210 に合格すると、この認定資格を取得できます。MB-200 の廃止後、この認定資格を取得するには、PL-200 と MB-230 に合格する必要があります。</strong><br/><br/></div></div>
+  <div><div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細はこちら</a>。</strong></font><br/><br/></div><div><strong>試験 <a href="/learn/certifications/exams/mb-200">MB-200</a> は、新しい試験 <a href="/learn/certifications/exams/pl-200">PL-200</a> に置き換えられます。MB-200 が廃止される 2020 年 12 月 31 日までは、MB-200 または PL-200 のどちらかに加えて MB-210 に合格すると、この認定資格を取得できます。MB-200 の廃止後、この認定資格を取得するには、PL-200 と MB-210 に合格する必要があります。注意：試験は中部標準時の午後 11 時 59 分に廃止されます。</strong><br/><br/></div></div>
 
   Microsoft Dynamics 365 Sales Functional Consultants implement solutions that anticipate and plan customer connections, manage deals through processing and closing, and accelerate sales team performance using data analytics.
 subTitle: Microsoft Dynamics 365 Sales Functional Consultants は、顧客とのつながりを予測および計画し、処理と決済を通じて取引を管理し、データ分析を使用して営業チームのパフォーマンスを高めるソリューションを実装します。
 levels:
 - intermediate
 skills:
-- 発見、計画、および分析を実行する
-- ユーザー エクスペリエンスの設計を管理する
-- エンティティおよびデータを管理する
-- セキュリティを実装する
-- 統合を実装する
-- ソリューションの展開およびテストを実行する
+- Common Data Service を設定する 
+- Power App を使用してアプリを作成する 
+- Power Automate を作成および管理する 
+- Power Virtual Agents チャットボットを実装する 
+- Power Apps を他のアプリやサービスと統合する
 - 構成を実行する
 - コア販売エンティティを管理する
 - 追加のツールおよびサービスを構成する
@@ -29,21 +28,27 @@ products:
 - dynamics-365
 - dynamics-sales
 courses:
-- uid: course.mb-200t00
+- uid: course.pl-200t00
 - uid: course.mb-210t01
 paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
-- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.create-business-process-flow
 - uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-bizapps.get-started-power-apps-portals
-- uid: learn-bizapps.extend-power-apps-portals
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 - uid: learn-dynamics.dynamics-365-for-sales
 - uid: learn-bizapps.applying-goal-management
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6I
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 - uid: exam.mb-210
 resources:
 - title: 認証ポスター
