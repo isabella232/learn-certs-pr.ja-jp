@@ -8,7 +8,7 @@ displayName: MB-400
 summary: |-
   <div>
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
-  <div><strong>この認定資格は 2020 年 12 月 31 日に廃止されます。新しい試験 <a href="/learn/certifications/exams/pl-400">PL-400</a> は、2020 年 9 月 に利用可能になります。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます。</strong><br/><br/></div>
+  <div><strong>本試験は2020年12月31日に終了 しました。代替試験PL -400が利用可能です。詳細 については、<a href="/learn/certifications/exams/pl-400">PL-400試験の詳細ページ をご覧ください </a>。</strong><br/><br/></div>
   </div>
 
   この試験の受験者は、 Dynamics 365 の Microsoft Power Apps モデル駆動型アプリケーションで作業して、Dynamics 365 の実装を設計、開発、セキュリティ保護、拡張する開発者です。受験者は、アプリケーションの強化、カスタム ユーザー エクスペリエンス、システム統合、データ変換、カスタム プロセスの自動化、カスタムの可視化などを含むソリューションのコンポーネントを実行します。
@@ -17,17 +17,14 @@ summary: |-
 
   受験生には、 JavaScript 、 TypeScript 、 C# 、 HTML 、 .NET 、 Microsoft Azure 、 Office 365 、 RESTful Web Services、 ASP.NET 、 Power BI などを含む開発経験が必要です。
 
-  <div><strong><br/> この試験は2020年12月31日に終了するため、Microsoftは“Common Data Service” から“Microsoft Dataverse”への参照を更新致しません。</strong></div>
 subTitle: 'この試験では、技術設計の作成、 Common Data Service (CDS) の設定、 Power Apps の作成と設定、ビジネスプロセスの自動化の設定、ユーザー エクスペリエンスの拡張、プラットフォームの拡張、統合の開発などの技術的なタスクを実行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
 locales:
 - en
 levels:
 - intermediate
 skills:
-- この試験の内容は、2020 年 5 月 22 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
 - Technical Design を作成する (10-15%)
 - Common Data Service を設定する (15-20%)
 - Power Apps を作成および設定する (10-15%)
@@ -43,8 +40,6 @@ products:
 - dynamics-customer-engagement
 exams:
 - uid: exam.mb-200
-courses:
-- uid: course.mb-400t00
 paths:
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
 - uid: learn-dynamics.introduction-development

@@ -7,7 +7,7 @@ uid: exam.mb-700
 displayName: MB-700
 summary: |-
   <div>
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細はこちら</a>。</strong></font><br/><br/></div><div><strong>この試験の内容は、2020 年 9 月 28 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細はこちら</a>。</strong></font><br/><br/></div><div><strong>- 本試験の内容は、2021年2月26日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点を確認してください。</strong><br/><br/></div>
   </div>
 
   Microsoft Dynamics 365 の財務および運用アプリのソリューション アーキテクトは、ビジネスで推奨されるプラクティスとソフトウェア機能を理解している信頼できるアドバイザーです。彼らはチーム メンバーが事前定義された実装目標を達成できる Dynamics ソリューションを実装できるようリードします。
@@ -24,7 +24,7 @@ locales:
 levels:
 - advanced
 skills:
-- この試験の内容は、2020 年 9 月 28 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- 本試験の内容は、2021年2月26日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
 - ソリューション要件を特定します (30-35%)
 - ソリューション コンポーネントを設計する (40-45%)
 - ソリューション テストと管理戦略を定義する (25-30%)

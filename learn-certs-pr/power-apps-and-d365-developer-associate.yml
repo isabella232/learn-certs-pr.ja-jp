@@ -8,11 +8,9 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div>
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
-  <div><strong>本認証は2020 年 12 月 31 日に廃止されます。その日以降、この認定資格を取得することはできなくなります。終了日前に取得した認定資格は、今後も<a href="https://aka.ms/certdashboard">認定資格ダッシュボード</a> に表示されます。</strong><br/><br/></div></div>
+  <div><strong>この認定は廃止されました。現在利用可能なオプションについて は、Browse 認定と試験のページ <a href="/learn/certifications/browse/">を参照してください</a>。廃止された日より前に取得した証明書は、 <a href="https://aka.ms/certdashboard">引き続き証明書ダッシュボード の成績証明書に表示されます </a>。</strong><br/><br/></div></div>
 
   Microsoft Power Apps および Dynamics 365 で作業する開発者は、 Dynamics 365 実装の設計、開発、セキュリティ保護、および拡張を担当します。受験者は、アプリケーションの強化、カスタム ユーザー エクスペリエンス、システム統合、データ変換、カスタム プロセスの自動化、カスタムの可視化などを含むソリューションのコンポーネントを実装します。
-
-  <div><strong><br/>この試験は2020年12月31日に終了するため、Microsoftは“Common Data Service” から“Microsoft Dataverse”への参照を更新致しません。</strong></div>
 subTitle: Microsoft Power Apps および Dynamics 365 で作業する開発者は、 Dynamics 365 実装の設計、開発、セキュリティ保護、および拡張を担当します。
 levels:
 - intermediate
@@ -36,9 +34,6 @@ type: role-based
 products:
 - dynamics-365
 - dynamics-customer-engagement
-courses:
-- uid: course.mb-400t00
-- uid: course.mb-200t00
 paths:
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes

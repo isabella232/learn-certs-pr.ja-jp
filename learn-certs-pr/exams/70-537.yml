@@ -7,7 +7,7 @@ uid: exam.70-537
 displayName: 70-537
 summary: |-
   <div><div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  <div><strong>この試験はアメリカ中部標準時の2021年1月31日午後11時59分に終了します。同日以降、本試験は受験できなくなります。代替試験<a href='/learn/certifications/exams/AZ-600'>AZ -600</a>が利用可能であり、またこれは新しいMicrosoft認定に必須です。Azure Stack Hub Operator Associate認証。<br/><br/></strong></div>
   </div>
 
   この試験の受験者は、Azure 管理者とAzure Stack Hub ペレータであり、Azure Stack を使用して、エンドユーザまたは自社のデータセンター内の顧客にクラウド サービスを提供します。
