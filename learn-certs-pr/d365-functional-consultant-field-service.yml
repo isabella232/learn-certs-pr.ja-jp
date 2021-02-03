@@ -4,11 +4,12 @@ metadata:
   title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
   description: 'Microsoft Dynamics 365 Field Service Functional Consultantsは、Field Service アプリケーションを構成し、フィールド サービス ライフサイクルを管理するソリューションを実装し、Connected Field Service (IoT) ソリューションを展開します。'
 uid: certification.d365-functional-consultant-field-service
+certificationRenewalUid: renewal.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div>
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
-  <div><strong>試験 <a href="/learn/certifications/exams/mb-200">MB-200</a> は、新しい試験 <a href="/learn/certifications/exams/pl-200">PL-200</a> に置き換えられます。MB-200 が廃止される 2020 年 12 月 31 日までは、MB-200 または PL-200 のどちらかに加えて MB-240 に合格すると、この認定資格を取得できます。MB-200 の廃止後、この認定資格を取得するには、PL-200 と MB-240 に合格する必要があります。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます。</strong><br/><br/></div></div>
+  </div>
 
   Microsoft Dynamics 365 Field Service Functional Consultantsは、Field Service アプリケーションを構成し、フィールド サービス ライフサイクルを管理するソリューションを実装し、Connected Field Service (IoT)ソリューションを展開します。
 subTitle: Microsoft Dynamics 365 Field Service Functional Consultantsは、Field Service アプリケーションを構成し、フィールド サービス ライフサイクルを管理するソリューションを実装し、Connected Field Service (IoT)ソリューションを展開します。

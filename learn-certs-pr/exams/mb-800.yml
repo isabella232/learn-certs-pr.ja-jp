@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+title: 'Microsoft Dynamics 365 Business Central Functional Consultant'
 metadata:
-  title: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
-  description: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+  title: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant'
+  description: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant'
 uid: exam.mb-800
 displayName: MB-800
 summary: |-
@@ -15,8 +15,6 @@ summary: |-
   受験者は、Business Central アプリを通じて、財務管理、販売、購入、在庫の基本的な理解など、ユーザーのニーズを満たす応用知識を持っている方です。
 
   この試験の受験者は、通常、Business Central の 1 つ以上の機能セットを専門としています。彼らは、Dynamics 365 アプリケーション スイートとの関係における Business Central のロールについて理解しています。
-
-  <div><strong><br/>質問と試験の質に関するデータを収集しているため、ベータ試験はすぐには採点されません。 ベータ試験の価値と重要性についてはこちらからご確認ください。<a href="/learn/certifications/certification-exams#participating-in-beta-exams>詳細</a>。</strong></div>
 subTitle: 'この試験では、Business Central のセットアップ、財務の構成、販売と購入の設定、Business Central の運用の実行などのタスクを完了させる能力を評価します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
