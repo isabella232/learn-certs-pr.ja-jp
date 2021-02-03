@@ -8,7 +8,18 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></font></div>
 
-  アプリ メーカーは、ソリューション ドメインを熟知している自分とチームのために、タスクとプロセスを簡素化、自動化、変換するソリューションを構築します。データ モデリング、基本的な UX 設計、要件分析、およびプロセス分析の主要なテクニカルビジネス アナリスト タスクに精通しています。
+  ソリューションドメインに深い専門知識を持つビジネスプロフェッショナルで、Microsoft Power Platformソリューションの構築に対する情熱を活かして、チームのタスクとプロセスを簡素化、自動化、一変したい場合、この認証はあなたにぴったりです。データモデリング、基本的なUX設計、要件分析、プロセス分析など、主要なテクニカルビジネスアナリストのタスクを達成するスキルが必要です。 
+  
+  自主的でソリューション重視で、Microsoft Power Platformのメーカーツールを使ってビジネス上の問題を解決する場合、アプリメーカーの役割のプロファイルに適合します。Visual Basic for Applications、Excel PivotTables、Teamsなどのツールを使用した経験を持つこともありえます。正式なITトレーニングを受けていないかもしれませんが、ビジネス上の問題を解決するためにテクノロジーを使用してIT管理者とMicrosoft Power Platform開発者と協力することには慣れています。貴方の責任担当は&#58;  
+  - アプリの設計と作成、ワークフローの自動化。 
+  - アプリまたは自動化されたワークフローのコンテキストでデータを分析し、可視化します。 
+  - アプリと自動ワークフローの実装と管理。
+
+  詳細については、投稿をお読みください&#58; [あなたはPower Platform App Makerですか？]今こそ認定を受けましょう(https://techcommunity.microsoft.com/t5/microsoft-learn-blog/are-you-a-power-platform-app-maker-now-s-the-time-to-get/ba-p/1512993)。
+  この認定を受けようとする前に、より多くの経験が必要な場合は&#58;
+  - データモデリング、基本的なUX設計、要件分析、プロセス分析の実際の経験を得るために、プロジェクトにボランティアで参加することができます。
+  - Microsoft Learnで学習パスを取得します。
+  - インストラクター主導のトレーニングコースに登録します。
 subTitle: アプリ メーカーは、ソリューション ドメインを熟知している自分とチームのために、タスクとプロセスを簡素化、自動化、変換するソリューションを構築します。データ モデリング、基本的な UX 設計、要件分析、およびプロセス分析の主要なテクニカルビジネス アナリスト タスクに精通しています。
 levels:
 - intermediate

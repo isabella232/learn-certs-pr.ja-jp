@@ -17,9 +17,15 @@ MOC オンデマンドの廃止済みコースをお探しの場合は、次の�
 
 ## 終了したコースウェア: インストラクター指導のトレーニング
 
+* 2021 年 3 月 31 日にコースウェアは廃止
+
+    | コース番号 | バージョン | タイトル | 言語 | 退職日 |
+    | --- | --- | --- | --- | --- |
+    | 20778 | C | Analyzing Data with Power BI | 英語 | 2021 年 03 月 31 日 |
+
 * 2020 年 12 月 31 日のコースウェアの廃止
 
-    | コース番号| バージョン| タイトル| 言語| 退職日|
+    | コース番号 | バージョン | タイトル | 言語 | 退職日 |
     | --- | --- | --- | --- | --- |
     | MB-200T00 | A | Microsoft Power Platform + Dynamics 365 Core | 英語 | 2020 年 12 月 31 日 |
     | MB-400T00 | A | Microsoft Power Apps + Dynamics 365 Developer | 英語 | 2020 年 12 月 31 日 |
@@ -1125,7 +1131,7 @@ MOC オンデマンドの廃止済みコースをお探しの場合は、次の�
 
     | 6 月 30 日の廃止コース番号 | バージョン | タイトル | 言語 | ノート |
     | --- | --- | --- | --- | --- |
-    | 6428 | A | Configuring and Troubleshooting Windows Server 2008 Terminal Services | 英語 | ‘コース 6439：Configuring and Troubleshooting Windows Server 2008 Application Infrastructure’に置き換え
+    | 6428 | A | Configuring and Troubleshooting Windows Server 2008 Terminal Services | 英語 | ‘コース 6439: Configuring and Troubleshooting Windows Server 2008 Application Infrastructure’に置き換え
     | 6429 | A | Configuring and Managing Windows Media Services for Windows Server 2008 | 英語 | ‘コース 6439: Configuring and Troubleshooting Windows Server 2008 Application Infrastructure’に置き換え
     | 6437 | A | Designing a Windows Server 2008 Applications Infrastructure | 英語 | ‘コース 6435B: Designing Windows Server 2008 Network and Applications Infrastructure’ に置き換え
 
@@ -1163,7 +1169,7 @@ Microsoft は、業界の動向を継続的に監視し、技術の変化に対�
 
 **質問: どの基準を使用して、コースを終了させるべきかを判断しますか？**
  
-通常、コースは次のいずれかのシナリオで終了します：
+通常、コースは次のいずれかのシナリオで終了します:
 
 - コースは置き換えられました。1つまたは複数の以前のコースを置き換え、実質的に新しい方法でマテリアルをカバーする新しいコースがリリースされます。
 - コースでカバーされているテクノロジがMicrosoftによってサポートされなくなった場合、通常コースウェアが終了されます。

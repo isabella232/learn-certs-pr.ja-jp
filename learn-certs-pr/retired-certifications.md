@@ -34,7 +34,6 @@ Microsoft Certified Professional Programを最新の状態に保つために、M
 | [MCSE: Core Infrastructure](/learn/certifications/mcse-core-infrastructure) | 2021 年 1 月 31 日廃止 |
 | [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | 2021 年 1 月 31 日廃止 |
 | [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | 2021 年 1 月 31 日廃止 |
-| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 2020 年 12 月 31 日廃止 |
 | [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 2021 年 6 月 30 日に廃止 |
 
 ## 終了した認定資格
@@ -45,6 +44,7 @@ Microsoft Certified Professional Programを最新の状態に保つために、M
 
 | ロールベースの                                                                         |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
+| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 2020 年 12 月 31 日 |
 | [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)              | 2020 年 8 月 31 日 |
 
 | Microsoft Certified Solutions Developer                                            |

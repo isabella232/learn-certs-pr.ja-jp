@@ -8,11 +8,18 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong><br/><br/></font></div>
 
-  Microsoft Power Platform Developer Associate 認定資格の受験者は、Power Platform ソリューションの設計、開発、保護、トラブルシューティングを行います。彼らは、アプリケーションの強化、カスタム ユーザー エクスペリエンス、システム統合、データ変換、カスタム プロセスの自動化、カスタムの可視化などを含むソリューションのコンポーネントを実装します。
-
-  受験者は、Power Platform サービスに関する高度な応用知識を持っている必要があります。受験者は、能力、境界、制約について深く理解しています。受験者は、Power Platformの DevOps プラクティスについて基本的に理解している必要があります。
-
-  このロールの開発経験には、Power Platform サービス、JavaScript、JSON、TypeScript、C＃、HTML、.NET、Microsoft Azure、Microsoft 365、RESTful Web サービス、ASP.NET、Power BI が含まれます。
+  Microsoft Power Platformソリューションの設計、開発、安全の確保、拡張に情熱を持っている場合、この認証はあなたに適しているかもしれません。この認定を取得するには、アプリケーションの強化、カスタムユーザーエクスペリエンス（経験）、システム統合、データ変換、カスタムプロセスオートメーション、カスタムビジュアライゼーションなどのソリューションコンポーネントを作成できる必要があります。Microsoft Power Platformサービスの強力な応用知識と、Microsoft Power PlatformのDevOps実践（プラクティス）の基本的な理解が必要です。さらに、自身の背景として、JavaScript、JSON、TypeScript、C #、HTML、.NET、Azure、Microsoft 365、RESTful Webサービス、ASP.NET、PowerBIを使用した開発経験が含まれている必要があります。
+  
+  この認証の候補者は、通常、アプリメーカー、機能コンサルタント、ソリューションアーキテクト、IT管理者と協力します。あなたの責任はさまざまです&#58;
+  - テクニカルデザインとPower Appsの作成。
+  - Dataverse、Power Apps、 およびビジネスプロセスの自動化の構成。
+  - プラットフォームとユーザー経験(エクスペリエンス)の拡張。
+  - 統合の開発。
+  
+  詳細については、ブログ投稿をご覧ください: [新しい認証&#58;  Microsoft Power Platform Developer Associate](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/new-certification-microsoft-power-platform-developer-associate/ba-p/1469335).この認定を受けようとする前に、より多くの経験が必要な場合は&#58;
+  - 実地体験の経験を得るために、Microsoft Power Platform開発プロジェクトにボランティアで参加することができます。
+  - Microsoft Learnで学習パスを取得します。
+  - インストラクター主導のトレーニングコースに登録します。
 subTitle: Microsoft Power Platform Developer Associate 認定資格の受験者は、Power Platform ソリューションの設計、開発、保護、トラブルシューティングを行います。
 levels:
 - intermediate
