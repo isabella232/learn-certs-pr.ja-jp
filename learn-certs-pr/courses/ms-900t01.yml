@@ -18,7 +18,7 @@ skillsGained:
 - skill: Azure Information Protection の使用を含むデータ保護について説明します。
 - skill: コンプライアンス全般と Microsoft 365 のコンプライアンス機能について説明します。
 - skill: Microsoft 365 サブスクリプション、ライセンス、請求、サポートについて説明する
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

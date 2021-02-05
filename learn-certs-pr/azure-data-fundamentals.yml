@@ -5,7 +5,7 @@ metadata:
   description: Azure Data Fundamentals は、コア データの概念の基礎知識と、Microsoft Azure データ サービスを使用してそれらを実装する方法を検証します。
 uid: certification.azure-data-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: "<div><strong><font color='red'>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</font></strong><br/><br/></div>\r\n\r\nAzure Data Fundamentals 認定資格の受験者は、コア データの概念と、Microsoft Azure データ サービスを使用してそれらを実装する方法についての基礎知識を持っている必要があります。  \r\n\r\nこの認定は、クラウド内のデータの取り扱いを開始する受験者を対象としています。  \r\n\r\n受験者は、リレーショナル データと非リレーショナル データの概念、およびトランザクションや分析などのさまざまなタイプのデータ ワークロードに精通している必要があります。  \r\n\r\nAzure Data Fundamentals は、Azure Database Administrator Associate や Azure Data Engineer Associate などの他の Azure ロールベースの認定の準備に使用できますが、いずれの前提条件でもありません。"
+summary: "Azure Data Fundamentals 認定資格の受験者は、コア データの概念と、Microsoft Azure データ サービスを使用してそれらを実装する方法についての基礎知識を持っている必要があります。  \r\n\r\nこの認定は、クラウド内のデータの取り扱いを開始する受験者を対象としています。  \r\n\r\n受験者は、リレーショナル データと非リレーショナル データの概念、およびトランザクションや分析などのさまざまなタイプのデータ ワークロードに精通している必要があります。  \r\n\r\nAzure Data Fundamentals は、Azure Database Administrator Associate や Azure Data Engineer Associate などの他の Azure ロールベースの認定の準備に使用できますが、いずれの前提条件でもありません。"
 subTitle: Azure Data Fundamentals は、コア データの概念の基礎知識と、Microsoft Azure データ サービスを使用してそれらを実装する方法を検証します。
 levels:
 - beginner

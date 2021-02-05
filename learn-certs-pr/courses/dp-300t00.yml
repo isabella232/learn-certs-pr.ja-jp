@@ -11,7 +11,7 @@ skillsGained:
 - skill: Azure SQL オファリングの計画、展開、構成
 - skill: データベースのパフォーマンスを監視し、最適なパフォーマンスを得るためにデータベースとクエリを調整する
 - skill: 高可用性ソリューションを計画および構成する
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

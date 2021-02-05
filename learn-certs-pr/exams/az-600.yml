@@ -6,8 +6,6 @@ metadata:
 uid: exam.az-600
 displayName: AZ-600
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
-  
   試験AZ-600の候補者は、Azure管理を使用して独自のデータセンター内からエンドユーザーまたは顧客にクラウドサービスを提供するAzure管理者またはAzure Stack Hubオペレータです。
   
   この試験の候補者は、Azure Stack Hub環境の管理と運用に重要な経験を持つ必要があります。仮想化、ネットワーキング、アイデンティティ管理の知識に加えて、Azureを強く理解する必要があります。Azure Stack HubがDevOpsプロセスとハイブリッド開発モデルをどのように可能にするかを理解する必要があります。

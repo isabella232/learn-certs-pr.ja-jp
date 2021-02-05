@@ -5,7 +5,7 @@ metadata:
   description: Azure AI Fundamentals は、機械学習と人工知能の概念、および関連する Microsoft Azure サービスの基礎知識を検証します。
 uid: certification.azure-ai-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: "<div><strong><font color='red'>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</font></strong><br/><br/></div>\r\n\r\nAzure AI Fundamentals 認定資格の受験者は、機械学習 (ML) および人工知能 (AI) の概念と関連する Microsoft Azure サービスの基礎知識を持っている必要があります。  \r\n\r\nこの認定資格は、一般的な ML および AI ワークロードの知識と、それらを Azure に実装する方法を示す機会です。  \r\n\r\nこの認定資格は、技術的背景と非技術的背景の両方を持つ候補者を対象としています。データ サイエンスとソフトウェア エンジニアリングの経験は必要ありませんが、プログラミングに関する一般的な知識や経験があれば好ましいです。  \r\n\r\nAzure AI Fundamentals は、Azure Data Scientist Associate や Azure AI Engineer Associate などの他の Azure ロールベースの認定の準備に使用できますが、いずれの前提条件でもありません。"
+summary: "Azure AI Fundamentals 認定資格の受験者は、機械学習 (ML) および人工知能 (AI) の概念と関連する Microsoft Azure サービスの基礎知識を持っている必要があります。  \r\n\r\nこの認定資格は、一般的な ML および AI ワークロードの知識と、それらを Azure に実装する方法を示す機会です。  \r\n\r\nこの認定資格は、技術的背景と非技術的背景の両方を持つ候補者を対象としています。データ サイエンスとソフトウェア エンジニアリングの経験は必要ありませんが、プログラミングに関する一般的な知識や経験があれば好ましいです。  \r\n\r\nAzure AI Fundamentals は、Azure Data Scientist Associate や Azure AI Engineer Associate などの他の Azure ロールベースの認定の準備に使用できますが、いずれの前提条件でもありません。"
 subTitle: Azure AI Fundamentals は、機械学習と人工知能の概念、および関連する Microsoft Azure サービスの基礎知識を検証します。
 levels:
 - beginner

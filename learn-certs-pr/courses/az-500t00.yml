@@ -24,7 +24,7 @@ skillsGained:
 - skill: 接続されたソース、ログ分析、アラートを含む Azure Monitor を実装する。
 - skill: ポリシー、推奨事項、およびジャストインタイムの仮想マシン アクセスを含む Azure Security Center を実装する。
 - skill: ワークブック、インシデント、およびプレイブックを含む Azure Sentinel を実装する。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

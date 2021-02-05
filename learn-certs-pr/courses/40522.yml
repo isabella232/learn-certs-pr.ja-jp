@@ -14,7 +14,7 @@ skillsGained:
 - skill: Azure Stackの分類（テナント、リージョン、サブスクリプション、オファー、プラン、サービス、割り当て）を理解
 - skill: Azure Stack のために使えるリソースプロバイダーについて説明
 - skill: Azure publlic cloudとAzure stackの間のハイブリッド接続を設計および展開
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

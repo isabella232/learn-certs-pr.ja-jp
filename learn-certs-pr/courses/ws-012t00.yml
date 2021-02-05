@@ -17,7 +17,7 @@ skillsGained:
 - skill: ハイブリッドおよびクラウドのみの移行、バックアップ、およびリカバリのシナリオの計画かつ実装。
 - skill: Windows Server2019を実行しているAzure VMを展開し、ネットワーク、ストレージ、セキュリティの構成。
 - skill: Windows Server2019を実行しているAzure VMの管理かつ保守。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

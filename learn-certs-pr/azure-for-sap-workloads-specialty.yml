@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
-
   Azure for SAP Workloads Specialty 認定資格の受験者は、Microsoft Azure での SAP ソリューションの長期的な運用に固有の SAP システム ランドスケープと業界標準に関する幅広い経験と知識を持つアーキテクトまたはエンジニアである必要があります。
 
   このロールの責任には、サービスに関する推奨事項の作成と、最適な復元力、パフォーマンス、スケール、プロビジョニング、サイズ、および監視のためにリソースを適切に調整することが含まれます。

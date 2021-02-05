@@ -16,7 +16,7 @@ skillsGained:
 - skill: ストレージQoSとストレージレプリカを含むAzure Stack HCIストレージの計画かつ実装。
 - skill: Azure Stack HCIネットワーキングの計画。
 - skill: Azure Stack HCIにソフトウェア定義ネットワークの実装。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

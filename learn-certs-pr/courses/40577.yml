@@ -16,7 +16,7 @@ skillsGained:
 - skill: モデルをAzureContainerインスタンスにデプロイ
 - skill: CosmosDB変更フィードにアクセスするAzureFunctionsを使用して予測を生成
 - skill: アプリケーションを最新化しAIをアプリケーションに統合
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

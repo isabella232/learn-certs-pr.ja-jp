@@ -11,7 +11,7 @@ skillsGained:
 - skill: Cosmos DB による Globally Distributed Applications の構築
 - skill: Cosmos DB への MongoDB Workloads の移行
 - skill: Cosmos DB への Cassandra DB Workloads の移行
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

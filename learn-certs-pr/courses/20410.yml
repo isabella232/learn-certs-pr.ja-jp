@@ -21,7 +21,7 @@ skillsGained:
 - skill: グループ ポリシーを実装します。
 - skill: Group Policy Objects (GPOs) を使用して Windows サーバーをセキュリティで保護します。
 - skill: Hyper-V を使用してサーバー仮想化を実装します。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -12,8 +12,6 @@ ms.prod: non-product-specific
 ---
 # Microsoft 認定資格のヘルプ
 
-<div style='color&#58; red;'><strong><font color="red"><br/>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>詳細について学びます</a>。</font></strong><br/><br/></div>
-
 Microsoft 認定資格の製品に関するサポートが必要ですか？以下のサポート オプションをご確認ください。
 
 ## サポートへのお問い合わせ方法

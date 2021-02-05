@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-
   Azure AI Engineer Associate 認定資格の受験者は、認識サービス、機械学習、知識マイニングを使用して、自然言語処理、音声、コンピュータ ビジョン、会話型 AI を含む Microsoft AI ソリューションを設計および実装する、専門知識が必要です。
 
   このロールの責任には、AI ソリューションの要件の分析、適切なツールとテクノロジの推奨、スケーラビリティとパフォーマンスの要件を満たす AI ソリューションの設計と実装が含まれます。

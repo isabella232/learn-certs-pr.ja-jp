@@ -20,7 +20,7 @@ skillsGained:
 - skill: System Center Operations Manager を使用して、仮想化インフラストラクチャを監視する。
 - skill: Microsoft Hyper-V Replica と Microsoft Azure Site Recovery を実装し、管理する。
 - skill: Data Protection Manager を使用して仮想化インフラストラクチャを保護する。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

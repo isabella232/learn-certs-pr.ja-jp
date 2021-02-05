@@ -21,7 +21,7 @@ skillsGained:
 - skill: 管理されていないライブラリと動的コンポーネントを Visual C# アプリケーションに統合する。
 - skill: リフレクションを使用して型のメタデータを調べ、カスタム属性を作成して使用し、実行時にコードを生成し、アセンブリバージョンを管理する。
 - skill: 対称暗号化と非対称暗号化を使用して、データを暗号化および復号化する。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

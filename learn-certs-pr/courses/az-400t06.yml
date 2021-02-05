@@ -22,7 +22,7 @@ skillsGained:
 - skill: テレメトリを分析してベースラインを確立する
 - skill: 実際のサイトレビューを実装し、システム停止に対するフィードバックを取得する
 - skill: 無意味な、または対処不可能なアラートを減らすために継続的な調整を実行する
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

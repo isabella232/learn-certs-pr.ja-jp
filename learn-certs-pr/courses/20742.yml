@@ -21,7 +21,7 @@ skillsGained:
 - skill: AD FS を実装し、管理する。
 - skill: AD DS と Azure AD 間の同期を実装する。
 - skill: AD DS サービスの監視、トラブルシューティング、事業継続性確立を実行する。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -21,7 +21,7 @@ skillsGained:
 - skill: カスタムスクリプトとコンポーネント により SSIS を拡張する
 - skill: DNS パッケージの展開して構成する
 - skill: BI ソリューションがデータウェアハウスからデータを使用できる方法について説明する
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

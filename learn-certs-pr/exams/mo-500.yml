@@ -6,8 +6,6 @@ metadata:
 uid: exam.mo-500
 displayName: MO-500
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-
   この試験では、テーブル、リレーションシップ、データ入力フォーム、マルチレベル レポート、マルチテーブル クエリなどの Access データベースオブジェクトを作成および維持する機能について説明します。受験者は、Access の主要な機能の正しい適用を実証し、タスクを個別に完了することが期待されます。
 subTitle: この試験では、データベース設計原則の能力を評価します。この試験では、テーブル、リレーションシップ、データ入力フォーム、マルチレベル レポート、マルチテーブル クエリなどの Access データベースオブジェクトを作成および維持する機能について説明します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg

@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></font></div>
-
   Azure Administrator Associate 認定資格の受験者は、組織の Microsoft Azure 環境の実装、管理、監視に関する専門知識が必要です。
 
   このロールの責任には、クラウド環境での ID、ガバナンス、ストレージ、コンピューティング、および仮想ネットワークの実装、管理、および監視、さらに必要に応じてリソースのプロビジョニング、サイズ、監視、調整が含まれます。

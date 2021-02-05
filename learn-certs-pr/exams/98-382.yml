@@ -6,8 +6,6 @@ metadata:
 uid: exam.98-382
 displayName: 98-382
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<A href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-
   この試験の受験者は構文として正しいJavaScriptコードを理解して書くことが出来る必要があり、JavaScriptがサポートするデータタイプを使用し、与えられた問題を論理的に解くことのできるJavaScriptコードを認識できる必要があります。
 
   受験者は、最低でも、100時間のJavaScriptプログラム言語での実地体験か教習を受けている必要があります。受験者は、JavaScriptの機能と実現可能性、そしてよくフォームされよくドキュメンテーションされたJavaScriptコードをどのように書き、デバッグし、メンテナンスするか理解していなければなりません。

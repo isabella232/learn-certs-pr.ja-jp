@@ -21,7 +21,7 @@ skillsGained:
 - skill: XML データの保存およびクエリを実行する。
 - skill: 空間データを操作する。
 - skill: Blob とテキスト ドキュメントの保存とクエリを実行する。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
