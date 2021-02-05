@@ -15,7 +15,7 @@ skillsGained:
 - skill: Resource Manager、Azure ポータル、Cloud Shell、CLI を使用して Azure を管理します。
 - skill: VNet Peering などのサイト間接続ソリューション、および仮想ネットワーク ゲートウェイを構成します。
 - skill: Azure App Service、Azure Container Instances、Kubernetes を管理します。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

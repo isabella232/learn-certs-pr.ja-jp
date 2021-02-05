@@ -17,7 +17,7 @@ skillsGained:
 - skill: Azure でホストされるソリューションのアラート スキームを設計します。
 - skill: Azure でホストされるインフラストラクチャとデータに適切なバックアップ オプションを選択します。
 - skill: バックアップの回復またはスケーリングのために、将来のリソースの展開を自動化します。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -6,8 +6,6 @@ metadata:
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
-
   この試験の受験者は、Power Platform ソリューションの設計、開発、保護、トラブルシューティングを行います。受験者は、アプリケーションの強化、カスタム ユーザー エクスペリエンス、システム統合、データ変換、カスタム プロセスの自動化、カスタムの可視化などを含むソリューションのコンポーネントを実装します。
 
   受験者は、機能、境界、および制約に関する深い理解を含む、Power Platform サービスの詳細な応用知識を持っている必要があります。受験者は、Power Platformの DevOps プラクティスについて基本的に理解している必要があります。

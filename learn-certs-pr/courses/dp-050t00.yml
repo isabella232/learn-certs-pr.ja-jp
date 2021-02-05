@@ -13,7 +13,7 @@ skillsGained:
 - skill: SQL Workloads を Azure Virtual Machines に移行する
 - skill: SQL Workloads を Azure SQL Database へ移行する
 - skill: SQL Workloads を Azure SQL Database Managed Instance へ移行する
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

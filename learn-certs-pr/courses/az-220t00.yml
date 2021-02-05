@@ -19,7 +19,7 @@ skillsGained:
 - skill: ソリューションの監視、ロギング、および診断テストの実装。
 - skill: セキュリティの懸念を認識して対処し、Azure Security Center forIoTの実装。
 - skill: AzureIoTCentralを使用してIoTソリューションを構築し、IoTのSaaSの機会を認識。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

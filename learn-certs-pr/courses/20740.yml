@@ -20,7 +20,7 @@ skillsGained:
 - skill: ネットワーク負荷分散 (NLB) クラスターを構成し、 NLB の実装を計画する。
 - skill: 展開イメージを作成および管理する。
 - skill: 仮想マシンのインストールを管理、監視、保守する。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

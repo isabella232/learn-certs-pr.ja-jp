@@ -23,7 +23,7 @@ skillsGained:
 - skill: SQL Server インフラストラクチャを監視する
 - skill: SQL Server インフラストラクチャをトラブルシューティングする
 - skill: データのインポートおよびエクスポート
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

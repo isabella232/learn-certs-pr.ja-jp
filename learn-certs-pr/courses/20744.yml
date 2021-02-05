@@ -21,7 +21,7 @@ skillsGained:
 - skill: ファイルサービスを最適化してセキュリティ保護する。
 - skill: ファイアウォールと暗号化を使用して、ネットワークトラフィックを保護する。
 - skill: DNSSEC および Message Analyzer を使用して、ネットワークトラフィックを保護する。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

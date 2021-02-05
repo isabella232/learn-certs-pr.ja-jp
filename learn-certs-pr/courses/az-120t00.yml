@@ -12,7 +12,7 @@ skillsGained:
 - skill: Azure Portal、Cloud Shell、Azure PowerShell、CLI、および Resource Manager を活用する
 - skill: VNet Peering や VNet間接続などのサイト間接続機能を使用する
 - skill: Azure Active Directory ‘AAD) と Azure AD Connect を使用する
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

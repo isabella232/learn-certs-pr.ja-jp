@@ -21,7 +21,7 @@ skillsGained:
 - skill: 継続的なデータベース保守を実行します。
 - skill: SQL Server エージェント ジョブを使用した SQL Server メンテナンスの自動化。
 - skill: データベース メール、アラート、通知を構成します。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -6,8 +6,6 @@ metadata:
 uid: exam.98-388
 displayName: 98-388
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-
   この試験の受験者は、Java 6 SE以降で作業するアプリケーション開発者、高校や高校卒業直後のレベルのソフトウェア開発の生徒、または初心者のソフトウェア開発者です。
 
   受験者は、Javaで少なくとも150時間以上の実習経験があること、Javaの特徴と機能に精通していること、正しい形式で、よく文書化されたJavaコードの作成、デバッグ、および保守方法を理解している必要があります。

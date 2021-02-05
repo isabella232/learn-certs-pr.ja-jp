@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-stack-hub-operator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-  
   Azure Stack Hub認証の候補者は、Azure Stack Hubを使用して独自のデータセンター内からエンドユーザーまたは顧客にクラウドサービスを提供するAzure管理者またはAzure Stack Hubオペレータです。
   
   彼らの責任範囲は、Azure Stack Hubインフラストラクチャの計画、展開、パッケージ化、更新、およびメンテナンスです。また、ハイブリッドクラウドリソースを提供し、サービスを要求またサービス(IaaS)をインフラストラクチャとしての、とサービス（PaaS）をプラットフォームとしてを管理します。

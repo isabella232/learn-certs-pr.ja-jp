@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong></font><br/><br/></div>
-
   Azure Data Engineers は、Azure データ サービスのあらゆる技術の知識を使用してデータの管理、監視、セキュリティ、およびプライバシーを設計および実装し、ビジネス ニーズを満たします。
 subTitle: Azure Data Engineers は、Azure データ サービスのあらゆる技術の知識を使用してデータの管理、監視、セキュリティ、およびプライバシーを設計および実装し、ビジネス ニーズを満たします。
 levels:

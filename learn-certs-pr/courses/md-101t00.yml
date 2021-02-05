@@ -14,7 +14,7 @@ skillsGained:
 - skill: アプリケーションを管理およびデプロイし、モバイル アプリケーション管理戦略を計画する。
 - skill: Azure AD とアクティブ ディレクトリ DS を使用してユーザーおよび認証を管理する。
 - skill: デバイスとデータの保護に使用される方法を説明し、実施する。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

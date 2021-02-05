@@ -16,7 +16,7 @@ skillsGained:
 - skill: 一般的なセキュリティとネットワークセキュリティ機能、および様々なAzureサービスを使用して、cloud リソースの安全性、安全性、信頼性を確保する方法に関する説明。
 - skill: ID、ガバナンス、プライバシー、コンプライアンスの機能、Azureがcloud リソースへのアクセスを保護するのにどのように役立つか、cloud ガバナンス戦略を構築することの意味、Azureが一般的な規制およびコンプライアンス標準にどのように準拠しているかに関する討論。
 - skill: コストに影響を与える要因、cloud 支出の見積もりと管理に役立つツール、およびAzureのサービスレベルアグリーメント（SLA）がアプリケーション設計の決定にどのように影響するかに関する討論。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

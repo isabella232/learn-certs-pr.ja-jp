@@ -17,7 +17,7 @@ skillsGained:
 - skill: オープンソースソフトウェアパッケージのセキュリティとライセンスの遵守状況を調べて、企業標準に合わせる
 - skill: パッケージのセキュリティとライセンスの評価にアクセスするビルド パイプラインを構成する
 - skill: パッケージフィードへの安全なアクセスを設定する
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
