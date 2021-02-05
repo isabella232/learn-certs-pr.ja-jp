@@ -9,7 +9,7 @@ hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: このワークショップの最後に、OracleからSQL ServerまたはPostgreSQLへの移行に必要なコスト、パフォーマンス、および作業レベルを比較するためのサイト分析をより適切に実施できるようになります。ワークショップを完了するために必要な時間を考えると、学生とトレーナーは単一の移行パスを選択することをお勧めします。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

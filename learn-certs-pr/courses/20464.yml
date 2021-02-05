@@ -26,7 +26,7 @@ skillsGained:
 - skill: SQL CLR 統合の適切な使用について学び、 SQL Server 内に既存の .NET アセンブリを実装する。
 - skill: SQL Server に XML データとスキーマを保存する。
 - skill: SQL Server の XML データに対して基本的なクエリを実行する。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

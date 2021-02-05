@@ -13,7 +13,7 @@ skillsGained:
 - skill: SQL Server を設定する
 - skill: データベースと (共有) ファイルを管理する
 - skill: クラウドでデータベースをプロビジョニング、移行、管理する
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

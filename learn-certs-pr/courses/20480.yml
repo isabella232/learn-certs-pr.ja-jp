@@ -24,7 +24,7 @@ skillsGained:
 - skill: Web アプリケーションとサーバー間のデータの送受信には、Web ソケットを使用する。
 - skill: Web Worker のプロセスを利用して、長時間稼働する Web アプリケーションの応答性を向上させる。
 - skill: Web パックを使用して、制作用の Web アプリケーションをパッケージ化する。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

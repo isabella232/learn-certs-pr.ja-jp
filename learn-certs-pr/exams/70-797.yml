@@ -6,8 +6,6 @@ metadata:
 uid: exam.70-797
 displayName: 70-797
 summary: |-
-  <div style='color&#58; red;'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-
   この試験では、強固な ID の作成、コンテンツの保護 (データ損失防止)、モバイル デバイス管理ポリシー、Hyper-V による仮想化、会社ポータルと Windows ストアによるアプリケーション管理について、受験者が基本的な知識とスキルを有していることを実証します。Windows 10 のセキュリティと、統合された Azure 機能に基づいて、受験者が評価されます。
 
   この試験の受験者は、プロフェッショナルとしての経験に加えて、次の技術;すでに身に付けていることが求められます。

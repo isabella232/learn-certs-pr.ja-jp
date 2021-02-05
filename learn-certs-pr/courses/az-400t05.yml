@@ -15,7 +15,7 @@ skillsGained:
 - skill: Chef、Puppet、Ansible、SaltStack、Terraform など、Azure のサードパーティ ツールとサービスを使用してインフラストラクチャを展開および構成する
 - skill: インフラストラクチャ、およびリリース パイプラインとアプリケーション インフラストラクチャのための恒星戦略と適切なツールセットを定義する
 - skill: アプリケーション インフラストラクチャにコンプライアンスとセキュリティを実装する
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

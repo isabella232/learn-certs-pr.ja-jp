@@ -13,7 +13,7 @@ skillsGained:
 - skill: VM の展開および管理
 - skill: 仮想ネットワークの構成および管理
 - skill: Azure Active Directory を使用した ID の管理
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

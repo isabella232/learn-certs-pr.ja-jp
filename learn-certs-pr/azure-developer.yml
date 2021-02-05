@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-
   Azure Developer Associate 認定資格の受験者は、Microsoft Azure でのクラウド アプリケーションとサービスの設計、構築、テスト、および保守に関する専門知識を持っている必要があります。
 
   このロールの責任には、要件の定義と設計から開発、デプロイ、メンテナンスに至るまで、クラウド開発のすべてのフェーズに参加することが含まれます。パフォーマンスの調整と監視。

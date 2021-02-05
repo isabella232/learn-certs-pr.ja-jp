@@ -26,7 +26,7 @@ skillsGained:
 - skill: SignalR を使用して、クライアントとサーバー間の双方向通信を有効にする。
 - skill: Web API とは何か、なぜ開発者がアプリケーションに Web API を追加するのかについて説明する。
 - skill: ASP.NET Core MVC ウェブアプリケーションを開発用コンピュータからウェブサーバにパッケージ化してデプロイする方法を説明する。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

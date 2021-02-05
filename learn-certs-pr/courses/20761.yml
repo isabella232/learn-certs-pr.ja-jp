@@ -24,7 +24,7 @@ skillsGained:
 - skill: ピボット、アンピボット、ロールアップ、およびキューブを実装してデータを変換します。
 - skill: ストアド プロシージャを作成および実装します。
 - skill: 変数、条件、ループなどのプログラミング構造を T-SQL コードに追加します。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -19,7 +19,7 @@ skillsGained:
 - skill: サービスを監視、ログ、およびトラブルシューティングする。
 - skill: クレームベースのアイデンティティの概念と標準について説明し、 Azure Active Directory を使用して認証と認可を実装する。
 - skill: スケーラブルなサービスアプリケーションを作成する。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -6,8 +6,6 @@ metadata:
 uid: certification.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>詳細について学びます</a>。</strong><br/><br/></div>
-
   Microsoft 365 Developers は、 Microsoft 365 プラットフォームを使用する組織の生産性とコラボレーションのニーズに合わせて最適化されたアプリケーションとソリューションを設計、構築、テストおよび保守を実行します。
 
   Microsoft 365 Developers は、 Microsoft ID と Microsoft Graph に精通しています。彼らには、UI 要素（ Adaptive Card や UI Fabric を含む）、統合ポイント（ Microsoft チーム、 Office Add-in、 SharePoint Framework 、Actionable Messagesを含む）、およびワークロード プラットフォーム ターゲットの決定に関する一般的な知識があります。

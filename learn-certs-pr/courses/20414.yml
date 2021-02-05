@@ -21,7 +21,7 @@ skillsGained:
 - skill: AD FS サーバーの導入を計画および実装し、アプリケーションのアクセスを認識します。
 - skill: Dynamic Access Control、Workplace Join、Work Folder を計画および実装します。
 - skill: AD RMS 展開を計画および実装し、AD RMS テンプレートとアクセスを計画および管理し、AD RMS サービスへの外部アクセスを計画および実装します。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

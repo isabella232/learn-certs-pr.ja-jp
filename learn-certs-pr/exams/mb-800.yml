@@ -6,8 +6,6 @@ metadata:
 uid: exam.mb-800
 displayName: MB-800
 summary: |-
-  <div><font color='red'><strong>コロナウイルス (COVID-19) の状況に対応して、Microsoft はトレーニングおよび認定プログラムにいくつかの一時的な変更を実施しています。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
-
   この試験の受験者は、中小企業向けのコア アプリケーションの設定プロセスを実装する機能コンサルタントです。彼らは Dynamics 365 Business Central アプリを実装および構成します。これには、コア アプリの機能とモジュールのセット アップ、および Business Central へのデータの移行などが含まれます。
 
   受験者は、実装チームと協力してユーザー インターフェイスを実行し、ビジネスに管理性とナビゲーションの容易さを提供します。それらは、洞察、手がかり、アクション タイル、レポート、グラフの適応、Microsoft Power Platform コンポーネントを使用した Business Central の拡張などを含む、ロール センターを構成します。

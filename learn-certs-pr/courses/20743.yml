@@ -20,7 +20,7 @@ skillsGained:
 - skill: Windows および Hyper-V コンテナを展開および管理する。
 - skill: フェールオーバー クラスタリングを実装する。
 - skill: 仮想マシンを使用してフェイルオーバー クラスタリングを実装する。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

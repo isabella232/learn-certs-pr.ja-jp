@@ -15,7 +15,7 @@ skillsGained:
 - skill: Cosmos DB を使用して効率的なグラフ データベース モデルを作成する方法について説明する。
 - skill: Azure Search、HDInsight、Azure Databricks、および Power BI と Cosmos DB を使用してビッグ データをクエリおよび分析する方法を説明する。
 - skill: Cosmos DB をストリーミング データのソースおよびシンクとして使用する方法について説明する。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

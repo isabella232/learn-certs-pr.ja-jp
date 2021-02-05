@@ -22,7 +22,7 @@ skillsGained:
 - skill: フェールオーバー クラスターを実装し、高可用性ネットワーク サービスを構成して検証します。
 - skill: フェールオーバー クラスターに Hyper-V 仮想マシンを展開して管理します。
 - skill: ビジネス要件および技術要件に基づいて、バックアップおよび障害回復ソリューションを実装します。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

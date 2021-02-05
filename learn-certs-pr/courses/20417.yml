@@ -20,7 +20,7 @@ skillsGained:
 - skill: Active Directory® Domain Services (AD DS) を実装します。
 - skill: Active Directory Federation Service (AD FS) を実装する。
 - skill: Windows Server 2012 を監視および保守します。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
