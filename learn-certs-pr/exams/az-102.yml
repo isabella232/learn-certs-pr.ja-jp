@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-102
 displayName: AZ-102
 summary: >-
-  <div style='color&#58; red; font-weight&#58; bold;'>この試験は2019年6月30日に終了しました。注&#58;試験は中央標準時の午後11時59分に終了します<br/><br/></div>
+  <div><strong>この試験は2019年6月30日に終了しました。注&#58;試験は中央標準時の午後11時59分に終了します<br/><br/></strong></div>
 
 
   この試験は [試験 70-533](https://www.microsoft.com/learning/exam-70-533.aspx) を取った受験生のみを想定しています&#58; Implementing Microsoft Azure Infrastructure Solutions.もしまだ試験 533を取っていない場合、 この試験を取っても資格を取れません。
