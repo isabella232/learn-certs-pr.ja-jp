@@ -5,7 +5,7 @@ metadata:
   description: '試験 AZ-100: Microsoft Azure Infrastructure and Deployment'
 uid: exam.az-100
 displayName: AZ-100
-summary: "<div style='color&#58; red; font-weight&#58; bold;'>この試験は2019年5月1日に終了しました。注&#58;試験は中央標準時の午後11時59分に終了します</div>\n<br/>   \nこの試験の受験者は、ストレージ、セキュリティ、ネットワーキング、コンピューティング Cloud機能にまたがる Cloud サービスを管理する Azure 管理者です。受験者は、ITライフサイクルの各サービスに精通しており、インフラストラクチャ サービス、アプリケーション、および環境の依頼を受けます。適切なリソースのプロビジョニング、サイズ設定、監視、調整と同様、最適なパフォーマンスおよび規模で使用するサービを推奨します。この試験の受験者は、PowerShell、Command Line Interface、Azure Portal、ARM テンプレート、オペレーティング システム、仮想化、Cloud インフラストラクチャ、ストレージ構造、およびネットワーキングに習熟している必要があります。"
+summary: "<div><strong>この試験は2019年5月1日に終了しました。注&#58;試験は中央標準時の午後11時59分に終了します</strong></div>\n<br/>   \nこの試験の受験者は、ストレージ、セキュリティ、ネットワーキング、コンピューティング Cloud機能にまたがる Cloud サービスを管理する Azure 管理者です。受験者は、ITライフサイクルの各サービスに精通しており、インフラストラクチャ サービス、アプリケーション、および環境の依頼を受けます。適切なリソースのプロビジョニング、サイズ設定、監視、調整と同様、最適なパフォーマンスおよび規模で使用するサービを推奨します。この試験の受験者は、PowerShell、Command Line Interface、Azure Portal、ARM テンプレート、オペレーティング システム、仮想化、Cloud インフラストラクチャ、ストレージ構造、およびネットワーキングに習熟している必要があります。"
 subTitle: この試験では、Azureサブスクリプションとリソースの管理、ストレージの実装と管理、仮想マシンのデプロイと管理、仮想ネットワークの設定と管理、アイデンティティの管理という技術的なタスクを遂行する能力を測定します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRLp
