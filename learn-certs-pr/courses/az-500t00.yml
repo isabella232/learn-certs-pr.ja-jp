@@ -42,19 +42,25 @@ exams:
 - uid: exam.az-500
 summary: |-
   このコースでは、IT セキュリティの専門家に、セキュリティ管理の実装、組織のセキュリティ体制の維持、およびセキュリティの脆弱性の特定と修復に必要な知識とスキルを提供します。このコースには、ID とアクセスのセキュリティ、プラットフォームの保護、データとアプリケーション、およびセキュリティ運用が含まれます。
-
+  
   #### 視聴者プロフィール
   このコースは、関連する認定試験の受験を計画している、または日常業務でセキュリティ タスクを実行している Azure Security Engineer を対象としています。このコースは、Azure ベースのデジタル プラットフォームにセキュリティを提供することを専門とし、組織のデータを保護するうえで不可欠な役割を果たすエンジニアにも役立ちます。
 prerequisitesSection: |-
-  このコースを最大限に活用するには、受講者は次のことを行う必要があります。
-  - 多層防御、最小権限の原則、ロールベースのアクセス制御、多要素認証、共有責任、ゼロ信頼モデルなど、セキュリティのベスト プラクティスと業界のセキュリティ要件について理解する。
+  学習者の方が下記の様な事前の知識と理解を持っていると成功することができます&#58;
+  - 多層防御、最小特権アクセス、役割ベースのアクセス制御、多要素認証、責任の共有、ゼロ信頼モデルなどのセキュリティのベストプラクティスと業界のセキュリティ要件。
   - Virtual Private Network (VPN)、Internet Security Protocol (IPSec)、Secure Socket Layer (SSL)、ディスクおよびデータの暗号化方法などのセキュリティ プロトコルに精通している。
   - Azure ワークロードのデプロイの経験がある。このコースでは、Azure 管理の基本については触れませんが、コース内容はセキュリティ固有の情報を追加することにより、その知識に基づいて構築されています。
   - Windows および Linux オペレーティング システムとスクリプト言語の経験がある。コース ラボでは PowerShell と CLI を使用できます。
-
-  クラスの準備をするには、この無料のオンライン トレーニングの受講を検討してください。
-  - [Azure Fundamentals](/learn/paths/azure-fundamentals/)
-  - [AZ-104&#58; Prerequisites for Azure Administrators](/learn/paths/az-104-administrator-prerequisites/)
+  
+  前提条件のコース(または同等の知識と実践的な経験)&#58;
+  
+  この無料のオンライントレーニングは、このコースで成功するために必要な経験をご提供致します。
+ 
+  - [AZ-104&#58; AzureでIDとガバナンスを管理-学習する | Microsoft Docs](/learn/paths/az-104-manage-identities-governance/)
+  - [AZ-104&#58; Azureでのストレージの実装と管理-学習する | Microsoft Docs](/learn/paths/az-104-manage-storage/)
+  - [AZ-104&#58; Azure管理者向けの仮想ネットワークの構成と管理-学習する| Microsoft Docs](/learn/paths/az-104-manage-virtual-networks/)
+  - [AZ-104&#58; リソースの監視とバックアップ - 学習する| Microsoft Docs](/learn/paths/az-104-monitor-backup-resources/)
+  - [AZ-104&#58; Azureコンピューティングリソースの展開と管理- 学習する| Microsoft Docs](/learn/paths/az-104-manage-compute-resources/)
 outlineSection: |-
   ### モジュール 1&#58; アイデンティティとアクセスの管理をする
   このモジュールでは、Azure Active Directory、Azure Identity Protection、Enterprise Governance、Azure AD PIM、Hybrid Identity について説明します。

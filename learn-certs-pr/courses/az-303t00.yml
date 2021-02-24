@@ -28,18 +28,19 @@ exams:
 - uid: exam.az-303
 summary: |-
   このコースでは、ソリューション アーキテクトがビジネス要件を安全でスケーラブルかつ信頼性の高いソリューションへと変える方法について学びます。レッスンには、仮想化、自動化、ネットワーキング、ストレージ、アイデンティティ、セキュリティ、データ プラットフォーム、アプリケーション インフラストラクチャが含まれます。このコースでは、これらの各分野での決定がソリューション全体に与える影響について概説します。
-
+  
   #### 視聴者プロフィール
   このコースは、Microsoft Azure で実行されるソリューションの設計と実装に関する専門知識を持つ IT プロフェッショナルを対象としています。ネットワーク、仮想化、アイデンティティ、セキュリティ、ビジネス継続性、障害回復、データ プラットフォーム、予算編成、ガバナンスなど、IT 運用に関する幅広い知識が必要です。Azure ソリューション アーキテクトは、Azure ポータルを使用し、熟練するにつれコマンド ライン インターフェイスを使用するようになります。受験者は、 Azure 管理のエキスパートレベルのスキルを持ち、 Azure 開発プロセスと DevOps プロセスの経験を持っている必要があります。
 prerequisitesSection: |-
   成功したAzureアーキテクトの受講者は、下記のようなオペレーティングシステム、仮想化、cloud インフラストラクチャ、ストレージ構造、ネットワーキングの経験があります。&#58;
   - VMs や仮想ネットワークなどのオンプレミス仮想化テクノロジーの理解
-  - TCP/IP、Domain Name System (DNS)、virtual private networks (VPNs),、ファイアウォール、暗号化技術などのネットワーク構成の理解
+  - TCP/IP、Domain Name System (DNS)、virtual private networks (VPNs)、ファイアウォール、暗号化技術などのネットワーク構成の理解
   - ドメイン、フォレスト、ドメインコントローラーなどのActive Directory コンセプトの理解
   
   Azureやcloudのコンピューティングを初めて使用される方は、下記リソースのいずれかをご検討ください&#58;
   - 無料オンライン&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
   - インストラクター主導のコース&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
+  - Azure管理者の前提条件 (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### モジュール 1&#58; Azure Active Directoryの実装
   このモジュールでは、Azure Active Directoryを使用してIDを保護し、ユーザーとグループを実装する方法を学習します。このモジュールには次のものが含まれています&#58;
@@ -70,7 +71,7 @@ outlineSection: |-
   #### レッスン
   - Azure AD Connectをインストールして構成 
   - Password SyncとPassword Writebackの構成
-  -Azure AD Connect Healthの構成
+  - Azure AD Connect Healthの構成
 
   
   このモジュールを完了すると、受講者は次のことができるようになります&#58;
@@ -178,7 +179,7 @@ outlineSection: |-
   - 高可用性とAzureSQLデータベース
 
   このモジュールでは、次の方法を学習します
-  - Azure SQLデータベース（単一データベース）の作成
+  - Azure SQLデータベース(単一データベース)の作成
   - AzureSQLデータベースマネージドインスタンスの作成
   - AzureSQLデータベースで使用される高可用性アーキテクチャモデルの推奨
   
@@ -309,9 +310,6 @@ outlineSection: |-
   - Azureアプリケーションインサイト
   - Azureでの統合モニタリング
 
- 
-
-  
   このモジュールでは下記の仕方を学習します。
   - Azure Log Analyticsの理解
   - Azure Service Healthの理解

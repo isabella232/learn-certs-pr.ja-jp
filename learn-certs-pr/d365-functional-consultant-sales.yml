@@ -7,19 +7,27 @@ uid: certification.d365-functional-consultant-sales
 certificationRenewalUid: renewal.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft Dynamics 365 Sales Functional Consultants implement solutions that anticipate and plan customer connections, manage deals through processing and closing, and accelerate sales team performance using data analytics.
+  機能コンサルタントやMicrosoft Dynamics 365 Salesで働く専門家、またはコンサルティングスキルを磨こうとしている開発者の方にとって、この認定資格はキャリアを後押しするのに役立ちます。これにより、プロジェクトのマーケティングをより効果的に行うことができ、Dynamics 365 Salesを使用して営業部隊に力を与えることができることを組織に示します。
+  
+  この認定資格に合格できる方は、Microsoft Power Platformの構成経験があり、Dynamics 365モデル駆動型アプリケーションとデータモデリングの原則を理解している必要があります。組織の利害関係者と協力して、要件を収集し、Dynamics 365 Salesスソリューションを実装します。リード、商談、見積もり、注文を管理し、製品カタログと価格表を構成します。さらに、組織の固有のビジネスプロセスに一致するようにDynamics 365 Salesを構成し、Dynamics 365 Salesデータをモデル化します。 Power AutomateやPower AppssなどのPower Platform コンポーネントを使用して、Dynamics365ソリューションを拡張することもできます。
+  
+  この認定資格を取得する前にさらに経験が必要な方には、いくつか提案がございます&#58;
+  - Dynamics 365モデル駆動型アプリの実装プロジェクトに取り組む。
+  - Dynamics 365 Salesと連携する機能コンサルタントまたはソリューションアーキテクトをシャドウイング。
+  - Microsoft Learnで利用可能な学習パスの取得。
+  - インストラクター主導のトレーニングコースに登録。
 subTitle: Microsoft Dynamics 365 Sales Functional Consultants は、顧客とのつながりを予測および計画し、処理と決済を通じて取引を管理し、データ分析を使用して営業チームのパフォーマンスを高めるソリューションを実装します。
 levels:
 - intermediate
 skills:
-- Common Data Service を設定する 
-- Power App を使用してアプリを作成する 
-- Power Automate を作成および管理する 
-- Power Virtual Agents チャットボットを実装する 
-- Power Apps を他のアプリやサービスと統合する
 - 構成を実行する
 - コア販売エンティティを管理する
 - 追加のツールおよびサービスを構成する
+- Common Data Service を設定する
+- Power App を使用してアプリを作成する
+- Power Automate を作成および管理する
+- Power Virtual Agents チャットボットを実装する
+- Power Apps を他のアプリやサービスと統合する
 roles:
 - functional-consultant
 type: role-based

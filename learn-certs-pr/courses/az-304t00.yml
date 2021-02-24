@@ -34,7 +34,7 @@ exams:
 - uid: exam.az-304
 summary: |-
   このコースでは、ソリューション アーキテクトがビジネス要件を安全でスケーラブルかつ信頼性の高いソリューションへと変える方法について学びます。レッスンには、ロギング、コスト分析、認証と承認、ガバナンス、セキュリティ、ストレージ、高可用性、および移行に関連する設計上の考慮事項が含まれます。このロールには、設計ソリューション全体に影響を与える複数の領域での決定が必要です。
-
+  
   #### 視聴者プロフィール
   このコースは、Microsoft Azure で実行されるソリューションの設計と実装に関する専門知識を持つ IT プロフェッショナルを対象としています。ネットワーク、仮想化、アイデンティティ、セキュリティ、ビジネス継続性、障害回復、データ プラットフォーム、予算編成、ガバナンスなど、IT 運用に関する幅広い知識が必要です。Azure ソリューション アーキテクトは、Azure ポータルを使用し、熟練するにつれコマンド ライン インターフェイスを使用するようになります。受験者は、 Azure 管理のエキスパートレベルのスキルを持ち、 Azure 開発プロセスと DevOps プロセスの経験を持っている必要があります。
 prerequisitesSection: |-
@@ -49,9 +49,10 @@ prerequisitesSection: |-
   - キューズ、テーブル、キャッシェなど、アプリケーションとサービスのデカップリングについての理解。
   - 保管時の暗号化、転送中の暗号化、SSL、TLSなど、環境を保護するためのセキュリティ概念の理解。
   
-  前提条件のコース（または同等の知識）&#58;
-  - AZ-900 Azure Fundamentals
-  - AZ-303 Azure Solution Architect Technologies
+  前提条件のコース(または同等の知識)&#58;
+  - 無料オンライン&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
+  - インストラクター主導のコース&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
+  - Azure管理者の前提条件 (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### モジュール 1&#58; コンピューティング ソリューションを設計する
   このモジュールでは、仮想マシン、App Services、Service Fabric、Azure Functions、Windows Virtual Desktop、コンテナなど、適切なコンピューティング テクノロジについて学習します。
