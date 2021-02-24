@@ -7,21 +7,21 @@ uid: certification.d365-functional-consultant-customer-service
 certificationRenewalUid: renewal.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  「Microsoft Dynamics 365 Customer Service Functional Consultants は、迅速かつ機敏、そして AI を活用した CX ソリューションを構築し、顧客ニーズを予測する実用的な洞察をもたらします。」
+  Microsoft Dynamics 365 Customer Service Functional Consultants は、迅速かつ機敏、そして AI を活用した CX ソリューションを構築し、顧客ニーズを予測する実用的な洞察をもたらします。
 subTitle: Microsoft Dynamics 365 Customer Service Functional Consultants は、迅速かつ機敏、そして AI を活用した CX ソリューションを構築し、顧客ニーズを予測する実用的な洞察をもたらします。
 levels:
 - intermediate
 skills:
-- Common Data Service を設定する 
-- Power App を使用してアプリを作成する 
-- Power Automate を作成および管理する 
-- Power Virtual Agents チャットボットを実装する 
-- Power Apps を他のアプリやサービスと統合する
 - ケースおよび Knowledge Management を管理する
 - キュー、資格、およびサービス レベル アグリーメント (SLA) を管理する
 - スケジューリングを実装する
 - カスタマー サービスにオムニチャネルを実装する
 - 分析を管理する
+- Common Data Service を設定する
+- Power App を使用してアプリを作成する
+- Power Automate を作成および管理する
+- Power Virtual Agents チャットボットを実装する
+- Power Apps を他のアプリやサービスと統合する
 roles:
 - functional-consultant
 type: role-based

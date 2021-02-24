@@ -1,0 +1,73 @@
+### YamlMime:Examination
+title: Designing and Implementing a Microsoft Azure AI Solution (beta)
+metadata:
+  title: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution (beta)'
+  description: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution (beta)'
+uid: exam.ai-102
+displayName: AI-102
+summary: |-
+  試験AI-102の候補者は、Azure Cognitive Services、Azure Cognitive Search、およびMicrosoft Bot フレイムワークを活用するAIソリューションの構築、管理、および展開に関する専門知識を持っている必要があります。
+  
+  この試験の候補者は、C＃、Python、またはJavaScriptに習熟している必要があり、RESTベースのAPIとSDKを使用して、Azureでコンピュータービジョン、自然言語処理、知識マイニング、会話型AIソリューションを構築できる必要があります。また、Azure AIポートフォリオを構成するコンポーネントと利用可能なデータストレージオプションについても理解する必要があります。さらに、候補者は責任あるAIの原則を理解し、適用できる必要があります。
+  
+  <div><br/><font color='red'><strong>注&#58;この試験は2021年2月23日に利用可能になります。</strong></font></div>
+subTitle: 'この試験は2021年2月23日に受験可能です。これは下記タスクを行う能力があるかどうかを測る試験です。
+Azure CognitiveServicesソリューションの計画および管理、コンピュータビジョンソリューションの実装、自然言語処理ソリューションの実装、知識マイニングソリューションの実装、会話型AIソリューションの実装。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYD
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Azure Cognitive Servicesソリューションの計画と管理(15-20%)
+- コンピュータビジョンソリューションの実装(20-25%)
+- 自然言語処理ソリューションの実装(20-25%)
+- ナレッジマイニングソリューションの実装(15-20%)
+- 会話型AIソリューションの実装(15-20%)
+roles:
+- ai-engineer
+products:
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-custom-vision
+- azure-face
+- azure-form-recognizer
+- azure-language-understanding
+- azure-qna-maker
+- azure-speech
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator
+- azure-translator-speech
+- azure-translator-text
+- azure-video-indexer
+relatedCertifications:
+- related:
+    uid: certification.azure-ai-engineer
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 資格試験のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: ../request-accommodations.md
+- title: 試験のポリシーと FAQ
+  description: 試験ポリシーとよくある質問をご確認ください。
+  href: ../certification-exam-policies.md

@@ -7,13 +7,14 @@ uid: exam.dp-201
 displayName: DP-201
 summary: |-
   <div>
+  <div><font color='red'><strong>この試験の最新版 <a href='/learn/certifications/exams/dp-203'>DP-203</a>は2021年2月23日に可能となります。2021年6月30日に終了となるまでこの試験を受けることができます。注&#58; 試験は中部標準時の２３時59分に終了致します。</strong></font><br/><br/></div>
   <div><strong>この試験の内容は、2020 年 7 月 31 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
   </div>
-
+  
   この試験の受験者は、Azure データ サービスを使用するデータ ソリューションを設計するためのデータ要件を、ビジネス関係者と協力して特定および満たす Microsoft Azure データ エンジニアです。
-
+  
   Azure データ エンジニアは、リレーショナル データ ストアとノンリレーショナル データ ストアを使用する Azure データ記憶域ソリューション、バッチおよびリアルタイムのデータ処理ソリューション、データ セキュリティとコンプライアンス ソリューションの設計など、データ関連のタスクを担当します。
-
+  
   本試験の受験生は、次の Azure サービスを使用するデータ ソリューションを設計できなければなりません。Azure Cosmos DB、Azure Synapse Analytics、 Azure Data Lake Storage、Azure Data Factory、Azure Stream Analytics、Azure Databricks、および Azure Blob ストレージ。
 subTitle: 'この試験では、Azure データ記憶域ソリューションの設計、データ プロセス ソリューションの設計、データ セキュリティおよびコンプライアンスの設計という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -31,6 +32,7 @@ skills:
 - Azure データソリューションのデザイン (40-45%)
 - データ処理ソリューションのデザイン (25-30%)
 - データ セキュリティとコンプライアンスの設計 (25-30%)
+retirementDate: 06/30/2021
 roles:
 - data-engineer
 products:

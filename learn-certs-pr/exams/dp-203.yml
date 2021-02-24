@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Data Engineering on Microsoft Azure (beta)
+metadata:
+  title: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
+  description: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
+uid: exam.dp-203
+displayName: DP-203
+summary: |-
+  Azure データエンジニアリングは、様々な構造化データシステムと非構造化データシステムのデータを分析ソリューションの構築に適した構造に統合、変換、強化します。
+  
+  試験DP-203の候補者として&#58;Data Engineering on Microsoft Azureには、SQL、Python、Scalaなどのデータ処理言語に関する確かな知識が必要であり、並列処理とデータアーキテクチャのパターンを理解している必要があります。
+  
+  <div><br/><font color='red'><strong>注&#58;この試験は2021年2月23日に受験可能となります。</strong></font></div>
+subTitle: 'この試験は2021年2月23日に受験可能です。これは下記技術タスクを行う能力があるかどうかを測る試験です。データストレージの設計と実装。データ処理の設計と開発。データセキュリティの設計と実装。データストレージとデータ処理を監視および最適化。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT
+locales:
+- en
+levels:
+- intermediate
+skills:
+- データストレージの設計と実装(40-45%)
+- データ処理の設計と開発(25-30%)
+- データセキュリティの設計と実装(10-15%)
+- データストレージとデータ処理を監視および最適化(10-15%)
+roles:
+- data-engineer
+products:
+- azure-data-factory
+- azure-synapse-analytics
+- azure-stream-analytics
+- azure-event-hubs
+- azure-data-lake
+- azure-databricks
+relatedCertifications:
+- related:
+    uid: certification.azure-data-engineer
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 資格試験のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: ../request-accommodations.md
+- title: 試験のポリシーと FAQ
+  description: 試験ポリシーとよくある質問をご確認ください。
+  href: ../certification-exam-policies.md

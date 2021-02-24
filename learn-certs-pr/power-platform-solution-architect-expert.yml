@@ -1,0 +1,70 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Solution Architect Expert'
+metadata: 
+  title: 'Microsoft Certified: Power Platform Solution Architect Expert'
+  description: この認定資格は2021年3月中に利用可能となります。Power Platform Solution Architect Expertsは、利害関係者と協力して、組織の幅広いビジネスおよび技術的ニーズに影響を与えるソリューションに焦点を当てていきます。
+uid: certification.power-platform-solution-architect-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Microsoft Power PlatformまたはMicrosoft Dynamics 365 ソリューションアーキテクトとしての専門知識を証明したい場合、またはソリューションアーキテクトになるための次のステップに進む準備ができている開発者またはシニアコンサルタントの方は、このエキスパート認定があなたのキャリア前進をサポートすることができます。
+  
+  Power Platform Solution Architect Expert認定の候補者として、関係者と協力し、組織の幅広いビジネスおよび技術的ニーズに影響を与えるソリューションに焦点を当てます。 Power Platform、Dynamics 365カスタマーエンゲージメントアプリ、関連するMicrosoft cloud ソリューション、およびサードパーティテクノロジに関する機能的および技術的な知識があります。この認定には、Power Platformソリューションアーキテクトとして最低1〜3年、またはシニアコンサルタントまたは開発者として7〜10年、およびPower Platformアーキテクチャに関する深い知識が必要です。
+  
+  この認定を試す前に追加の経験が必要な方には、次の提案がございます。
+  - Power Platformプロジェクトでソリューションアーキテクトとして(またはシャドウとして)作業。
+  - インストラクター主導のトレーニングコースに登録。
+  - [Microsoft Learn](/learn/paths/become-solution-architect/).で利用可能な学習パスを調べる。
+ 
+  <div><font color='red'><strong>注&#58;この認定は2021年3月に利用可能になります。</strong></font></div>
+subTitle: この認定資格は2021年3月中に利用可能となります。Power Platform ソリューションアーキテクト専門家は、利害関係者と協力して、組織の幅広いビジネスおよび技術的ニーズに影響を与えるソリューションに焦点を当てていきます。受験者は、Power Platform、Dynamics 365カスタマーエンゲージメントアプリ、関連のあるMicrosoft cloudソリューション、およびサードパーティテクノロジに関する機能的および技術的な知識を持っている必要があります。
+levels:
+- advanced
+skills:
+- ソリューションの構想と要件分析を実行します
+- ソリューションを設計する
+- ソリューションを実装します
+roles:
+- developer
+- functional-consultant
+- solution-architect
+type: role-based
+products:
+- dynamics-365
+- power-platform
+- ai-builder
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- dynamics-customer-engagement
+- common-data-service
+- azure-api-apps
+- azure-app-configuration
+- azure-app-service
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56P
+exams:
+- uid: exam.pl-600
+prerequisites:
+- uid: certification.power-platform-functional-consultant-associate
+  isOptional: false
+- uid: certification.power-platform-developer-associate
+  isOptional: false
+resources:
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: help.md

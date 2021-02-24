@@ -25,17 +25,26 @@ exams:
 - uid: exam.az-104
 summary: |-
   本コースでは、Azure サブスクリプションの管理、ID の保護、インフラストラクチャの管理、仮想ネットワークの構成、Azure とオンプレミスサイトの接続、ネットワーク トラフィックの管理、ストレージ ソリューションの実装、仮想マシンの作成と拡張、Web アプリケーションとコンテナの実装、データのバックアップと共有、ソリューションの監視などの方法について、IT プロフェッショナルに説明します。
-
+  
   #### 視聴者プロフィール
   本コースは Azure 管理者を対象としています。Azure 管理者は、クラウド環境でアイデンティティ、ガバナンス、ストレージ、計算、仮想ネットワークを実装、管理および監視します。Azure 管理者は、必要に応じて、リソースのプロビジョニング、サイズ設定、監視、調整を行います。
 prerequisitesSection: |-
-  優秀な Azure 管理者は、仮想化、ネットワーク、ID、ストレージの経験を積むことから始めます。
-  - 以下を含むオンプレミスの仮想化テクノロジについての理解VM、仮想ネットワーク、および仮想ハードディスク。
-  - TCP/IP、Domain Name System (DNS)、仮想プライベート ネットワーク (VPN) 、ファイアウォール、および暗号化技術を含むネットワーク設定についての理解。
-  - ユーザー、グループ、ロールベースのアクセス制御など、Active Directory の概念についての理解。
-  - 復元および障害回復 (バックアップおよび復元操作を含む) についての理解。
+  Azure管理者として成功するには、仮想化、ネットワーキング、ID、およびストレージの経験が必要です。
+  - VMs、仮想ネットワーク、仮想ハードディスクなどのオンプレミス仮想化テクノロジーの理解。
+  - TCP/IP、ドメインネームシステム(DNS)、仮想プライベートネットワーク(VPNs)、ファイアウォール、暗号化技術などのネットワーク構成の理解。
+  - ユーザー、グループ、役割ベースのアクセス制御など、 Active Directoryの概念の理解。
+  - バックアップおよび復元操作を含む、復元力と災害復旧の理解。
+  
+  前提条件のコース(または同等の知識と実践的な経験)&#58;
 
-  [AZ-104&#58; Prerequisites for Azure Administrators](/learn/paths/az-104-administrator-prerequisites/) を受講することで、前提条  件を満たし Azure の理解を深めることができます。この無料のオンライン トレーニングは、このコースで成功するために必要な体験を提供します。
+  この無料のオンライントレーニングは、このコースで成功するために必要な経験をご提供致します。
+  - [Azure Fundamentals パート1&#58; Azureのコアコンセプトについての説明-学習する| Microsoft Docs](/learn/paths/az-900-describe-cloud-concepts/)
+  - [Azure Fundamentals パート2&#58; コアAzureサービスについての説明-学習する | Microsoft Docs](/learn/paths/az-900-describe-core-azure-services/)
+  - [Azure Fundamentals パート3&#58; Azureのコアソリューションと管理ツールについての説明-学習する | Microsoft Docs](/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
+  - [Azure Fundamentals パート4&#58; 一般的なセキュリティとネットワークセキュリティ機能についての説明-学習する | Microsoft Docs](/learn/paths/az-900-describe-general-security-network-security-features/)
+  - [Azure Fundamentals パート5&#58; ID、ガバナンス、プライバシー、およびコンプライアンス機能についての説明](/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
+  - [Azure Fundamentals パート6&#58; Azureのコスト管理とサービスレベル契約についての説明](/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
+  - [AZ-104&#58; Azure管理者の前提条件-学習する | Microsoft Docs](/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### モジュール 1&#58; ID
   本モジュールでは、Azure Active Directory を使用して ID を保護し、ユーザーとグループを実装する方法について学習します。

@@ -7,13 +7,14 @@ uid: exam.dp-200
 displayName: DP-200
 summary: |-
   <div>
+  <div><font color='red'><strong>この試験の最新版 <a href='/learn/certifications/exams/dp-203'>DP-203</a>は2021年2月23日に可能となります。2021年6月30日に終了となるまでこの試験を受けることができます。注&#58;試験は中部標準時の２３時59分に終了致します。</strong></font><br/><br/></div>
   <div><strong>この試験の内容は2020年11月24日に更新されました。変更点を確認するには、下記スキル測定ドキュメントをダウンロードしてください。</strong><br/><br/></div>
   </div>
-
+  
   この試験の受験者は、Azure データ サービスを使用するデータ ソリューションを実装するためのデータ要件を、ビジネス関係者と協力して特定および満たす Microsoft Azure データ エンジニアです。
-
+  
   Azure データ エンジニアは、データ ストレージ サービスのプロビジョニング、ストリーミング データとバッチ データの取り込み、データの変換、セキュリティ要件の実装、データ保持ポリシーの実装、パフォーマンスボトルネックの特定、外部データ ソースへのアクセスなど、データ関連の実装タスクを担当します。
-
+  
   この試験の受講希望者のの方は、下記Azureサービスを使用するデータソリューションを実装できる必要があります&#58; Azure Cosmos DB、Azure Synapse Analytics (前のAzure SQL DW)、Azure Data Factory、Azure Stream Analytics、Azure Databricksそして、Azure Blob storage。
 subTitle: 'この試験では、データ記憶域ソリューションの実装、データ処理の管理および開発、データソリューションの監視および最適化という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -31,6 +32,7 @@ skills:
 - Implement data storage solutions (40-45%)
 - データ処理法の管理と開発 (25-30%)
 - Monitor and optimize data solutions (30-35%)
+retirementDate: 06/30/2021
 roles:
 - data-engineer
 products:

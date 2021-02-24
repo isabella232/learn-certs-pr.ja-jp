@@ -2,18 +2,18 @@
 title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure AI Engineer Associate'
-  description: 'Azure AI Engineers は、Cognitive Services、Machine Learning、および Knowledge Mining を使用して、自然言語処理、音声、コンピュータ ビジョン、ボット、およびエージェントを含む Microsoft AI ソリューションを設計および実装します。'
+  description: 'Azure AIエンジニアは、 Azure Cognitive Services、Azure Cognitive Search、およびMicrosoft Botフレイムワークを活用するAIソリューションを構築、管理、および展開しております。'
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   Azure AI Engineer Associate 認定資格の受験者は、認識サービス、機械学習、知識マイニングを使用して、自然言語処理、音声、コンピュータ ビジョン、会話型 AI を含む Microsoft AI ソリューションを設計および実装する、専門知識が必要です。
-
+  
   このロールの責任には、AI ソリューションの要件の分析、適切なツールとテクノロジの推奨、スケーラビリティとパフォーマンスの要件を満たす AI ソリューションの設計と実装が含まれます。
-
+  
   受験生は、ソリューション アーキテクトからビジョンAzure AI Engineer翻訳し、データ科学者、データ エンジニア、IoT スペシャリスト、および AI 開発者と協力して、完全なエンドツーエンドのソリューションを構築します。
-
-  この認定資格の受験対象者は、Microsoft  Azure Cognitive Services、Azure Bot Service、Azure Cognitive Search、および Azure のデータ ストレージを使用する AI アプリとエージェントの設計と実装に関する知識と経験が必要です。さらに、受験者は、オープン ソース テクノロジを使用するソリューションを推奨し、Azure AI ポートフォリオを構成するコンポーネントと利用可能なデータ ストレージ オプションを理解し、特定の要件を満たすためにカスタム API を開発する必要がある時期を理解できる必要があります。
-subTitle: Azure AI Engineers は、Cognitive Services、Machine Learning、および Knowledge Mining を使用して、自然言語処理、音声、コンピュータ ビジョン、ボット、およびエージェントを含む Microsoft AI ソリューションを設計および実装します。
+  
+  この認定資格の受験対象者は、Microsoft Azure Cognitive Services、Azure Bot Service、Azure Cognitive Search、および Azure のデータ ストレージを使用する AI アプリとエージェントの設計と実装に関する知識と経験が必要です。さらに、受験者は、オープン ソース テクノロジを使用するソリューションを推奨し、Azure AI ポートフォリオを構成するコンポーネントと利用可能なデータ ストレージ オプションを理解し、特定の要件を満たすためにカスタム API を開発する必要がある時期を理解できる必要があります。
+subTitle: Azure AIエンジニアは、 Azure Cognitive Services、Azure Cognitive Search、およびMicrosoft Botフレイムワークを活用するAIソリューションを構築、管理、および展開しております。
 levels:
 - intermediate
 skills:
