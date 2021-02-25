@@ -1,0 +1,27 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: DevOps Engineer Expert の更新'
+metadata:
+  title: 'Microsoft Certified: DevOps Engineer Expert の更新'
+  description: 'この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。'
+uid: renewal.devops-engineer
+certificationUid: certification.devops-engineer
+assessmentId: a2d734be-49cd-42e6-966e-e7278821234c
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。更新評価に合格して、Azure and GitHub の最新のアップデートに関する知識を有していることを示します。厳選された学習モジュールで更新の準備をすることもできます。
+skills:
+- サイトの信頼性を管理する
+- Azure AD のセキュリティ イベントを監視およびレポートする
+- GitHub Actions を使用してアプリケーションを構築および Azure に展開する
+- GitHub Script を使用して GitHub を自動化する
+- Azure コストの計画と管理を確認する
+- Azure Artifacts を使用して構築の依存関係を管理する
+- Azure Pipelines で独自の構築エージェントをホストする
+examsPassed:
+- az-400
+studyGuideDescription: 'この一連の学習モジュールを使用して、Microsoft 認定資格: DevOps Engineer Expert の更新評価の準備に役立ててください。'
+resources:
+- title: 認定資格の更新について
+  summary: オンラインで認定資格を更新するためのプロセスおよび要件について理解する
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

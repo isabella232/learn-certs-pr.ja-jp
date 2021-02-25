@@ -1,0 +1,29 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Data Scientist Associate の更新'
+metadata:
+  title: 'Microsoft Certified: Azure Data Scientist Associate の更新'
+  description: 'この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。'
+uid: renewal.azure-data-scientist
+certificationUid: certification.azure-data-scientist
+assessmentId: 336d9230-44d1-4603-8056-a88d3a79daeb
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。更新評価に合格して、Azure Machine Learning の最新のアップデートに関する知識を有していることを示します。厳選された学習モジュールで更新の準備をすることもできます。
+skills:
+- Azure Machine Learning SDK の概要
+- Azure Machine Learning を使用して機械学習モデルをトレーニングする
+- Azure Machine Learning でデータを使用して操作する
+- Azure Machine Learning でコンピューティングを操作する
+- パイプラインを使用して機械学習を調整する
+- Azure Machine Learning を使用してリアルタイムの機械学習サービスを展開する
+- Azure Machine Learning でモデルを監視する
+- Azure Machine Learning で自動機械学習を使用する
+- Azure Machine Learning デザイナーで分類モデルを作成する
+examsPassed:
+- dp-100
+studyGuideDescription: 'この一連の学習モジュールを使用して、Microsoft 認定資格: Azure Data Scientist Associate の更新評価の準備に役立ててください。'
+resources:
+- title: 認定資格の更新について
+  summary: オンラインで認定資格を更新するためのプロセスおよび要件について理解する
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

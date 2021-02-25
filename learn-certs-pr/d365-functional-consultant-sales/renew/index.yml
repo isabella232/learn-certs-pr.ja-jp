@@ -1,0 +1,24 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate の更新'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate の更新'
+  description: 'この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。'
+uid: renewal.d365-functional-consultant-sales
+certificationUid: certification.d365-functional-consultant-sales
+assessmentId: 77790b05-d9dc-40d9-a754-61322b6ab014
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。更新評価に合格して、Dynamics 365 Customer Insights and Sales Insights の最新のアップデートに関する知識を有していることを示します。厳選された学習モジュールで更新の準備をすることもできます。
+skills:
+- Dynamics 365 Customer Insight でまとまった顧客プロファイルを作成する
+- Dynamics 365 Customer Insight を使用する
+- Sales Insight を構成する
+- Dynamics 365 Sales Insight の操作
+examsPassed:
+- pl-200, mb-210
+studyGuideDescription: 'この一連の学習モジュールを使用して、Microsoft 認定資格: Dynamics 365 Sales Functional Consultant Associate の更新評価の準備に役立ててください。'
+resources:
+- title: 認定資格の更新について
+  summary: オンラインで認定資格を更新するためのプロセスおよび要件について理解する
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

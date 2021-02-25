@@ -1,0 +1,22 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate の更新'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate の更新'
+  description: 'この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。'
+uid: renewal.d365-functional-consultant-financials
+certificationUid: certification.d365-functional-consultant-financials
+assessmentId: 778eff49-9918-4702-b1af-5b6e14dc6c84
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。更新評価に合格して、Dynamics 365 Finance の最新のアップデートに関する知識を有していることを示します。厳選された学習モジュールで更新の準備をすることもできます。
+skills:
+- Dynamics 365 Finance でクレジットとコレクションを処理する
+- Dynamics 365 Finance で固定資産管理を構成する
+examsPassed:
+- mb-300, mb-310
+studyGuideDescription: 'この一連の学習モジュールを使用して、Microsoft 認定資格: Dynamics 365 Finance Functional Consultant Associate の更新評価の準備に役立ててください。'
+resources:
+- title: 認定資格の更新について
+  summary: オンラインで認定資格を更新するためのプロセスおよび要件について理解する
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

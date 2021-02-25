@@ -1,0 +1,69 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Security Engineer Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Security Engineer Associate'
+  description: 'Azureセキュリティエンジニアは、セキュリティコントロールおよび脅威に対する保護を実装しており、ID管理とアクセス管理、データ保護、アプリケーション保護、およびエンドツーエンドのインフラの一環としてクラウド上およびハブリッド環境内のネットワーク保護を管理します。'
+uid: certification.azure-security-engineer
+certificationRenewalUid: renewal.azure-security-engineer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Azure Security Engineer 認定資格の受験者には、セキュリティ制御と脅威保護の実装、ID とアクセスの管理、エンドツーエンド インフラストラクチャの一部としてのクラウド環境とハイブリッド環境でのデータ、アプリケーション、ネットワークの保護に関する専門知識が必要です。
+
+  このロールの責任には、セキュリティ体制の維持、さまざまなセキュリティ ツールの使用による脆弱性の特定と修正、脅威保護の実装、セキュリティ インシデントのエスカレーションへの対応が含まれます。
+
+  Azure Security Engineer は、多くの場合、エンドツーエンド インフラストラクチャの一部として、クラウドベースの管理とセキュリティまたはハイブリッド環境に専念する大規模なチームの一部として機能します。
+
+  この認定資格の受験者は、スクリプト作成と自動化に優れたスキルを持ち、ネットワーキング、仮想化、およびクラウドの N 層アーキテクチャを深く理解し、Azure のクラウド機能と製品とサービス、およびその他の Microsoft 製品とサービスに精通している必要があります。
+subTitle: Azureセキュリティエンジニアは、セキュリティコントロールおよび脅威に対する保護を実装しており、ID管理とアクセス管理、データ保護、アプリケーション保護、およびエンドツーエンドのインフラの一環としてクラウド上およびハブリッド環境内のネットワーク保護を管理します。
+levels:
+- intermediate
+skills:
+- IDとアクセスの管理
+- プラットフォーム保護の実装
+- セキュリティ運用の管理
+- データおよびアプリケーションの保護
+roles:
+- security-engineer
+type: role-based
+products:
+- azure
+- azure-active-directory
+- azure-policy
+- azure-virtual-network
+- azure-monitor
+- azure-key-vault
+courses:
+- uid: course.az-500t00
+paths:
+- uid: learn.security.secure-your-cloud-apps
+- uid: learn.security.implement-resource-mgmt-security
+- uid: learn.security.implement-network-security
+- uid: learn.security.implement-host-security
+- uid: learn.security.manage-identity-and-access
+- uid: learn.security.manage-security-operations
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUH
+exams:
+- uid: exam.az-500
+resources:
+- title: Azure 認定資格ポスター
+  description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 認証への道のり
+  description: Azure Security Engineer Associate として認定を受けるための手順と、準備に役立つリソースをご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+
