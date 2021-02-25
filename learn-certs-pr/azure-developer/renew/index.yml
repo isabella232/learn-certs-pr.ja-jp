@@ -1,0 +1,25 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Developer Associate の更新'
+metadata:
+  title: 'Microsoft Certified: Azure Developer Associate の更新'
+  description: 'この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。'
+uid: renewal.azure-developer
+certificationUid: certification.azure-developer
+assessmentId: d0dbfae9-07f5-4dfa-97c1-98cad082c78c
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。更新評価に合格して、Azure の最新のアップデートに関する知識を有していることを示します。厳選された学習モジュールで更新の準備をすることもできます。
+skills:
+- Durable Functions を使用して、長時間実行されるサーバーレス ワークフローを作成する
+- トリガーを使用して Azure Function を実行する
+- Azure Cosmos DB に適切な API を選択する
+- パーティショニングおよびインデックス作成戦略を使用して、Azure Cosmos DB のパフォーマンスを最適化する
+- Azure API Management を使用して API の認証を制御する
+examsPassed:
+- az-204
+studyGuideDescription: 'この一連の学習モジュールを使用して、Microsoft 認定資格: Azure Developer Associate の更新評価の準備に役立ててください。'
+resources:
+- title: 認定資格の更新について
+  summary: オンラインで認定資格を更新するためのプロセスおよび要件について理解する
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

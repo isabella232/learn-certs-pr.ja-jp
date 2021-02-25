@@ -1,0 +1,22 @@
+### YamlMime:CertificationRenewal
+title: 'Microsoft Certified: Azure Data Engineer Associate の更新'
+metadata:
+  title: 'Microsoft Certified: Azure Data Engineer Associate の更新'
+  description: 'この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。'
+uid: renewal.azure-data-engineer
+certificationUid: certification.azure-data-engineer
+assessmentId: acbdf90d-e45d-42fc-b8f0-d8d5fa2726e3
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  この認定資格を取得しており、6 か月以内に有効期限が切れる場合は、更新する資格があります。更新評価に合格して、Azure Data Factory の最新のアップデートに関する知識を有していることを示します。厳選された一連の学習モジュールによって更新の準備を行うこともできます。
+skills:
+- Azure Data Factory によるペタバイト規模の取り込み
+- Azure Data Factory を使用して大規模なコードフリー変換を実行する
+examsPassed:
+- dp-200, dp-201, dp-203
+studyGuideDescription: 'この一連の学習モジュールを使用して、Microsoft 認定資格: Azure Data Engineer Associate renewal assessment の準備に役立ててください。'
+resources:
+- title: 認定資格の更新について
+  summary: オンラインで認定資格を更新するためのプロセスおよび要件について理解する
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

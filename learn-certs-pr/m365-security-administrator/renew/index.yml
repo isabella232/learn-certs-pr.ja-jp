@@ -1,0 +1,28 @@
+### YamlMime:Certification
+title: 'Microsoft 365 Certified: Security Administrator Associate の更新'
+metadata:
+  title: 'Microsoft 365 Certified: Security Administrator Associate の更新'
+  description: 'この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。'
+uid: renewal.m365-security-administrator
+certificationUid: certification.m365-security-administrator
+assessmentId: a5e8873e-f61e-4c5b-8f88-845a09bbd070
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。更新評価に合格して、Microsoft 365 の最新のアップデートに関する知識を有していることを示します。厳選された学習モジュールで更新の準備をすることもできます。
+skills:
+- Azure Advanced Threat Protection を使用して環境を保護する
+- Azure Information Protection から Microsoft Information Protection に移行する
+- Microsoft 365 のコンプライアンス管理機能について説明する
+- Azure Active Directory を使用して認証 (条件付きアクセス) を強化する
+- Azure Active Directory で Zero Trust を採用する
+- 機密ラベルを使用してデータを保護する
+- Microsoft Defender Advanced Threat Protection を使用して脅威から保護する
+- Microsoft 365 で通信コンプライアンスを準備する
+examsPassed:
+- ms-500
+studyGuideDescription: 'この一連の学習モジュールを使用して、Microsoft 365 認定資格: Security Administrator Associate の更新評価の準備に役立ててください。'
+resources:
+- title: 認定資格の更新について
+  summary: オンラインで認定資格を更新するためのプロセスおよび要件について理解する
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

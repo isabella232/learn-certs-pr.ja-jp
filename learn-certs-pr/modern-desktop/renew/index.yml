@@ -1,0 +1,29 @@
+### YamlMime:Certification
+title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate の更新'
+metadata:
+  title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate の更新'
+  description: 'この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。'
+uid: renewal.m365-modern-desktop
+certificationUid: certification.modern-desktop
+assessmentId: 8602eec7-4017-456f-a878-62fe16630114
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。更新評価に合格して、Microsoft 365 の最新のアップデートに関する知識を有していることを示します。厳選された学習モジュールで更新の準備をすることもできます。
+skills:
+- Windows Autopilot を使用して Windows の展開を自動化する
+- Microsoft Endpoint Manager を使用してデバイス管理を簡素化する
+- Windows 10 を使用して多くのことを成し遂げ、安全を維持する
+- Microsoft 365 を搭載した最新のデスクトップに移行する
+- Microsoft Intune を使用してデバイスを管理する
+- System Center Configuration Manager を使用して共同管理によって Windows 10 を管理する
+- Microsoft Endpoint Manager を使用してデバイス管理を簡素化する
+- Windows 10 にデプロイ、アップグレード、および移行する
+- Microsoft Intune を使用してアプリケーションを管理する
+examsPassed:
+- md-100, md-101
+studyGuideDescription: 'この一連の学習モジュールを使用して、Microsoft 365 認定資格: Modern Desktop Administrator Associate の更新評価の準備に役立ててください。'
+resources:
+- title: 認定資格の更新について
+  summary: オンラインで認定資格を更新するためのプロセスおよび要件について理解する
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

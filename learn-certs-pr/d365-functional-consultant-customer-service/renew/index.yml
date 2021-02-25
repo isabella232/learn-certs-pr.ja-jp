@@ -1,0 +1,26 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate の更新'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate の更新'
+  description: 'この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。'
+uid: renewal.d365-functional-consultant-customer-service
+certificationUid: certification.d365-functional-consultant-customer-service
+assessmentId: ff363f9d-4af6-4e37-9a0d-f6cfe4d45293
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。更新評価に合格して、Dynamics 365 Customer Service の最新のアップデートに関する知識を有していることを示します。厳選された学習モジュールで更新の準備をすることもできます。
+skills:
+- Microsoft Dynamics 365 Customer Service キューを使用してケースのワークロードを管理する
+- Omnichannel for Customer Service の使用を開始する
+- Power Virtual Agents ボットを Omnichannel for Dynamics 365 Customer Service と統合する
+- Omnichannel for Dynamics 365 Customer Service を使用してチャット ウィジェットを展開する
+- Omnichannel for Dynamics 365 Customer Service でのルーティングおよび作業分散
+- Customer Service Insight を開始する
+examsPassed:
+- pl-200, mb-230
+studyGuideDescription: 'この一連の学習モジュールを使用して、Microsoft 認定資格: Dynamics 365 Customer Service Functional Consultant Associate の更新評価の準備に役立ててください。'
+resources:
+- title: 認定資格の更新について
+  summary: オンラインで認定資格を更新するためのプロセスおよび要件について理解する
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification
