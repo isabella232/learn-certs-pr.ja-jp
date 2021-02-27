@@ -18,7 +18,7 @@ skills:
 - 会話型 AI ソリューションを作成する
 - Azure Cognitive Search を使用してナレッジマイニングを実装する
 examsPassed:
-- ai-100, ai-102
+- ai-100またはai-102
 studyGuideDescription: 'この一連の学習モジュールを使用して、Microsoft 認定資格: Azure AI Engineer Associate の更新評価の準備に役立ててください。'
 resources:
 - title: 認定資格の更新について

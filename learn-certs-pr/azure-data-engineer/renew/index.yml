@@ -14,7 +14,7 @@ skills:
 - Azure Data Factory によるペタバイト規模の取り込み
 - Azure Data Factory を使用して大規模なコードフリー変換を実行する
 examsPassed:
-- dp-200, dp-201, dp-203
+- dp-200, dp-201 または dp-203
 studyGuideDescription: 'この一連の学習モジュールを使用して、Microsoft 認定資格: Azure Data Engineer Associate renewal assessment の準備に役立ててください。'
 resources:
 - title: 認定資格の更新について
