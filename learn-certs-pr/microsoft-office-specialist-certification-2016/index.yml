@@ -36,7 +36,7 @@ resources:
   href: deals.md
 - title: 資格のサポート
   description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
-  href: help.md
+  href: ../help.md
 - title: 認定ダッシュボード
   description: スケジュールされた予定、証明書、および成績証明書を確認および管理します。
   href: https://www.microsoft.com/learning/dashboard.aspx
