@@ -1,0 +1,28 @@
+### YamlMime:CertificationRenewal
+title: 'Microsoft Certified: Azure Solutions Architect Expert の更新'
+metadata:
+  title: 'Microsoft Certified: Azure Solutions Architect Expert の更新'
+  description: 'この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。'
+uid: renewal.azure-solutions-architect
+certificationUid: certification.azure-solutions-architect
+assessmentId: 16c15d1b-16a4-4eaa-aac3-d6c42189bc3c
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。更新評価に合格して、Azure の最新のアップデートに関する知識を有していることを示します。厳選された学習モジュールで更新の準備をすることもできます。
+skills:
+- Azure で全体的な監視戦略を設計する
+- Microsoft Azure Well-Architected Framework - 性能稼働率
+- Microsoft Azure の適切に設計されたフレームワーク - セキュリティ
+- Azure Site Recovery を使用して Azure インフラストラクチャを保護する
+- Azure Backup を使用して仮想マシンを保護する
+- Azure SQL データベースをバックアップおよび復元する
+- 監視と分析を使用して、コストに関する洞察を得る
+- Azure Monitor ログを使用して Azure インフラストラクチャを分析する
+examsPassed:
+- az-303, az-304
+studyGuideDescription: 'この一連の学習モジュールを使用して、Microsoft 認定資格: Azure Solutions Architect Expert の更新評価の準備に役立ててください。'
+resources:
+- title: 認定資格の更新について
+  summary: オンラインで認定資格を更新するためのプロセスおよび要件について理解する
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

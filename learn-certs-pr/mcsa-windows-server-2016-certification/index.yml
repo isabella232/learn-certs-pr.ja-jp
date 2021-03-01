@@ -1,0 +1,48 @@
+### YamlMime:Certification
+title: 'MCSA: Windows Server 2016'
+metadata:
+  title: 'MCSA: Windows Server 2016'
+  description: 'MCSA: Windows Server 2016'
+uid: certification.mcsa-windows-server-2016-certification
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div>
+  <div><strong>この認定資格は 2021 年 1 月 31 日に廃止されます。その日以降、この認定資格を取得することはできなくなります。終了日前に取得した認定資格は、今後も <a href='https://www.microsoft.com/learning/dashboard.aspx'>認定資格ダッシュボード</a>におけるトランスクリプトに表示されます。<a href='/learn/certifications/retired-certifications'>停止されたすべての認定資格を閲覧する</a>こともできます。</strong><br/><br/></div>
+  </div>
+
+  ITコストを削減し、更なるビジネス価値を提供するために必要な、Windows Server 2016 スキルのプライマリーセットをマスターしていることを証明してください。
+subTitle: ITコストを削減し、更なるビジネス価値を提供するために必要な、Windows Server 2016 スキルのプライマリーセットをマスターしていることを証明してください。
+levels:
+- intermediate
+skills:
+- なし
+roles:
+- administrator
+type: mcsa
+products:
+- windows-server
+courses:
+- uid: course.20740
+- uid: course.20741
+- uid: course.20742
+exams:
+- uid: exam.70-740
+- uid: exam.70-741
+- uid: exam.70-742
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定資格ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

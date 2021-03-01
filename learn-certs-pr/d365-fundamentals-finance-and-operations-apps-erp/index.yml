@@ -1,0 +1,59 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+  description: 'この認定資格は 2021 年 2 月に利用可能になります。  Dynamics 365 のエンタープライズ リソース プランニング (ERP) 機能に幅広く触れ、ファイナンスおよびオペレーション アプリが Microsoft のエコシステム全体にどのように適合するかについて理解している場合は、この認定資格が適しています。'
+uid: certification.d365-fundamentals-finance-and-operations-apps-erp
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Dynamics 365 のエンタープライズ リソース プランニング (ERP) 機能に幅広く触れ、ファイナンスおよびオペレーション アプリが Microsoft のエコシステム全体にどのように適合するかについて理解している場合は、この認定資格が適しています。
+  
+  事業運営に精通し、財務原則の基本的理解を有しており、IT に精通している (一般的または実務経験を通じて) 方は、この認定資格を使用して、これらのスキルを検証し、キャリアの扉を開くことができます。
+  
+  この Fundamental 認定資格は、キャリアのさまざまな段階の人々によってさまざまな方法で使用することができます。以下の例をご覧ください。
+  - 自分が使用するアプリケーションについて幅広い理解を深めたい IT プロフェッショナル
+  - Dynamics 365 の楽しい語り方を使用しているアプリと統合する方法を模索している技術専門家とビジネスの意思決定者
+  - Dynamics 365 を使用して、プラットフォームの基本を理解していることを実証するビジネス関係者およびその他のユーザー
+  - 事業運営、財務、ERP についてより深い理解を示したい開発者
+  - Dynamics 365のファイナンスおよびオペレーション アプリを活用して次のレベルに移行したい学生、新卒、およびキャリア チェンジをする方
+  
+  <div><br/><strong>注意: この認定資格は 2021 年 2 月に利用可能になります。</strong></div>
+subTitle: 'この認定資格は 2021 年 2 月に利用可能になります。  Dynamics 365 のエンタープライズ リソース プランニング (ERP) 機能に幅広く触れ、ファイナンスおよびオペレーション アプリが Microsoft のエコシステム全体にどのように適合するかについて理解している場合は、この認定資格が適しています。'
+levels:
+- beginner
+skills:
+- Dynamics 365 Supply Chain Management の説明 
+- Dynamics Finance の説明 
+- Dynamics 365 Commerce の説明 
+- Dynamics 365 Human Resources の説明 
+- Project Operations の説明 
+- Dynamics 365 Business Central の説明
+- 共有機能の説明 
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+type: fundamentals
+products: 
+- dynamics-365
+- dynamics-finance-operations
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JKOU
+exams:
+- uid: exam.mb-920
+resources:
+- title: 認証ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md

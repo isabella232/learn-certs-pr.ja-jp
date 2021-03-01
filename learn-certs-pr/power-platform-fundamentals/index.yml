@@ -1,0 +1,68 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Power Platform Fundamentals'
+  description: ビジネス価値およびコア製品機能から、単純な Power Apps キャンバス アプリの構築、データ ソースの接続、Power Automate による基本的なビジネス プロセスの自動化、Power BI ダッシュボードの作成、Power Virtual Agent による強力なチャット ボットの作成に至るまで、Power Platform のコア機能を理解していることを証明しましょう。
+uid: certification.power-platform-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  学生、ビジネス ユーザー、または初心者の専門技術者の場合、この認定資格は、Microsoft Power Platform のスキルを使用してチームの生産性を向上させるため、進歩を加速させ、キャリアを向上させることができます。トレーニングするために経験は必要なく、必要なのはコンピュータ技術、データ分析、クラウド コンピューティング、インターネットに関する基本的な知識のみです。Fundamental 認定資格は、スキルセットを拡大し、Microsoft Power Platform Functional Consultant などの他の認定資格に進むための最初のステップとお考えください。
+  
+  Microsoft Power Platform の Fundamental 認定資格は、以下を行いたい場合に最適です。
+  - Microsoft Power Platform でソリューションを構築します。
+  - Power Automate を使用して基本的なビジネス プロセスを自動化します。
+  - Power BI を使用してデータ分析を実行します。 
+  - シンプルな Power App のエクスペリエンスを作成します。
+  - Power Virtual Agents で実用的なチャットボットを構築します。
+  
+  この認定資格には前提条件はありません。しかし、もっと経験を積みたい場合は、以下を実行することができます。
+  - Microsoft Power Platform で働くチームの人の技術を得ます。
+  - Microsoft Learn で利用可能な学習パスを確認します。
+  - インストラクター指導のトレーニング コースに登録します。
+subTitle: ビジネス価値およびコア製品機能から、単純な Power Apps キャンバス アプリの構築、データ ソースの接続、Power Automate による基本的なビジネス プロセスの自動化、Power BI ダッシュボードの作成、Power Virtual Agent による強力なチャット ボットの作成に至るまで、Power Platform のコア機能を理解していることを証明しましょう。
+levels:
+- beginner
+skills:
+- Power Platform のビジネス価値について説明する
+- Power Platform のコア コンポーネントを特定する
+- Power BI の機能を実証する
+- Power App の機能について説明する
+- Power Automate の機能を実証する
+- Power Virtual Agents のビジネス価値を実証
+roles:
+- business-user
+- functional-consultant
+- student
+type: fundamentals
+products:
+- power-platform
+courses:
+- uid: course.pl-900t00
+paths:
+- uid: learn-bizapps.wwl.power-plat-fundamentals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43KLw
+exams:
+- uid: exam.pl-900
+resources:
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認証への道のり
+  description: 認定を受けるための手順と、準備に役立つリソースをご確認ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4HabX
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定の学習経路
+  description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gn
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+

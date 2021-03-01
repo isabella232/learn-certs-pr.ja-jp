@@ -1,0 +1,68 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
+  description: Microsoft Dynamics 365 + Power Platform のソリューション アーキテクトは、実施を成功に導き、ソリューションが組織の幅広いビジネス ニーズや技術ニーズにどのように対応するかに重点を置いています。
+uid: certification.power-apps-and-d365-solution-architect-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  <div><font color='red'><strong>この認定資格は2021年6月30日を以って失効します。それ以降この認定資格を得ることはできませんのでご了承ください。上記日程以前に取得した認定資格は 下記成績認定資格ページでそのままご確認頂けます。 <a href='https://aka.ms/certdashboard'>成績認定資格ダッシュボード</a>.</strong></font><br/><br/></div>
+  
+  Microsoft Dynamics 365 + Power Platform のソリューション アーキテクトは、実施を成功に導き、ソリューションが組織の幅広いビジネス ニーズや技術ニーズにどのように対応するかに重点を置いています。
+  
+  <div><br/><strong>注&#58;下記2つの認定を取得することは、この認定の前提条件となります。サイトの制限により、この前提条件は以下に記載されておりません。</strong><ul>
+  <li><a href="/learn/certifications/power-platform-functional-consultant-associate">Microsoft Certified&#58; Power Platform Functional Consultant Associate</a></li>
+  <li><a href="/learn/certifications/power-platform-developer-associate">Microsoft Certified&#58; Power Platform Developer Associate</a></li>
+  </ul></div>
+subTitle: Microsoft Dynamics 365 + Power Platform のソリューション アーキテクトは、実施を成功に導き、ソリューションが組織の幅広いビジネス ニーズや技術ニーズにどのように対応するかに重点を置いています。
+levels:
+- advanced
+skills:
+- Solution Envisioning および Requirement Analysis を実行する
+- Solution を設計する
+- Solutionを実装する
+roles:
+- solution-architect
+type: role-based
+products:
+- dynamics-365
+- power-apps
+courses:
+- uid: course.mb-600t00
+paths:
+- uid: learn-dynamics.become-solution-architect
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
+exams:
+- uid: exam.mb-600
+prerequisites:
+- uid: certification.d365-functional-consultant-sales
+  isOptional: false
+- uid: certification.d365-functional-consultant-marketing
+  isOptional: false
+- uid: certification.d365-functional-consultant-customer-service
+  isOptional: false
+- uid: certification.d365-functional-consultant-field-service
+  isOptional: false
+resources:
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認証への道のり
+  description: 認定を受けるための手順と、準備に役立つリソースをご確認ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7FB
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定の学習経路
+  description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9W
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+

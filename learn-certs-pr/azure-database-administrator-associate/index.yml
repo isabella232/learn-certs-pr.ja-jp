@@ -1,0 +1,72 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Database Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Database Administrator Associate'
+  description: 'Azure データベース管理者は、 Microsoft Azure Data Services および Microsoft SQL Server 上に構築されたクラウド ネイティブおよびハイブリッドデータプラットフォームソリューションの運用面を実装して管理します。'
+uid: certification.azure-database-administrator-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Azure データベース管理者は、 Microsoft Azure Data Services および Microsoft SQL Server 上に構築されたクラウド ネイティブおよびハイブリッドデータプラットフォームソリューションの運用面を実装して管理します。Azure データベース管理者は、経営管理目的で T-SQL を使用する知識を適用することを含めて、さまざまな方法とツールを使用して日常的な操作を実行します。
+
+  <div></br>
+  この役割の受講希望者の方は、下記でカバーされているすべてのコンセプトを理解する必要があります<a href='/learn/certifications/exams/dp-900'>Exam DP-900&#58; Microsoft Azure Data Fundamentals</a>.
+  </div>
+subTitle: Azure データベース管理者は、 Microsoft Azure Data Services および Microsoft SQL Server 上に構築されたクラウド ネイティブおよびハイブリッドデータプラットフォームソリューションの運用面を実装して管理します。
+levels:
+- intermediate
+skills:
+- データ プラットフォーム リソースを計画して実装します
+- 安全な環境を実装する
+- 運用リソースを監視して最適化します
+- クエリのパフォーマンスを最適化する
+- タスクの自動化を実行します
+- 高可用性とディザスターリカバリー (HADR) 環境を計画して実装します
+- T-SQL 使用による管理を実行します
+roles:
+- database-administrator
+type: role-based
+products:
+- azure
+- azure-automation
+- azure-database-mysql
+- azure-database-postgresql
+- azure-sql-database
+- azure-storage
+- azure-virtual-machines
+- sql-server
+courses:
+- uid: course.dp-300t00
+paths:
+- uid: learn.azure-sql-fundamentals
+- uid: learn.wwl.plan-implement-data-platform-resources
+- uid: learn.wwl.implement-secure-environment-database-service
+- uid: learn.wwl.monitor-optimize-operational-resources-sql-server
+- uid: learn.wwl.optimize-query-performance-sql-server
+- uid: learn.wwl.automate-tasks-sql-server
+- uid: learn.wwl.plan-implement-ha-dr-environment
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qjf6
+exams:
+- uid: exam.dp-300
+resources:
+- title: Azure認定ポスター
+  description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 認証への道のり
+  description: Azure Database Administrator Associate として認定を受けるための手順と、準備に役立つリソースをご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認証ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

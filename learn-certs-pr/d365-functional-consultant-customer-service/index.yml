@@ -1,0 +1,78 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+  description: 'Microsoft Dynamics 365 Customer Service Functional Consultants は、迅速かつ機敏、そして AI を活用した CX ソリューションを構築し、顧客ニーズを予測する実用的な洞察をもたらします。'
+uid: certification.d365-functional-consultant-customer-service
+certificationRenewalUid: renewal.d365-functional-consultant-customer-service
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Microsoft Dynamics 365 Customer Service Functional Consultants は、迅速かつ機敏、そして AI を活用した CX ソリューションを構築し、顧客ニーズを予測する実用的な洞察をもたらします。
+subTitle: Microsoft Dynamics 365 Customer Service Functional Consultants は、迅速かつ機敏、そして AI を活用した CX ソリューションを構築し、顧客ニーズを予測する実用的な洞察をもたらします。
+levels:
+- intermediate
+skills:
+- ケースおよび Knowledge Management を管理する
+- キュー、資格、およびサービス レベル アグリーメント (SLA) を管理する
+- スケジューリングを実装する
+- カスタマー サービスにオムニチャネルを実装する
+- 分析を管理する
+- Common Data Service を設定する
+- Power App を使用してアプリを作成する
+- Power Automate を作成および管理する
+- Power Virtual Agents チャットボットを実装する
+- Power Apps を他のアプリやサービスと統合する
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-customer-service
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-230t01
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-bizapps.customer-service-hub-cases-slas
+- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
+- uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
+- uid: learn-dynamics.create-surveys
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6G
+exams:
+- uid: exam.pl-200
+- uid: exam.mb-230
+resources:
+- title: 認証ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認証への道のり
+  description: 認定を受けるための手順と、準備に役立つリソースをご確認ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定の学習経路
+  description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+

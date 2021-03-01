@@ -1,0 +1,89 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
+  description: 'Microsoft Dynamics 365 Marketing Functional Consultantsは、リードを集めて変換し、ブランド認知度を高め、オムニチャネル メッセージングを標準化し、マーケティングの洞察を提供するソリューションを実装します。'
+uid: certification.d365-functional-consultant-marketing
+certificationRenewalUid: renewal.d365-functional-consultant-marketing
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  機能コンサルタント、組織の日常業務でMicrosoft Dynamics 365 Marketing を使用している専門家、またはコンサルティングスキルを磨こうとしている開発者の方は、この認定資格はキャリアを後押しし、下記のことを可能にする可能性があります。プロジェクトやプロモーションに効果的です。
+  
+  この認定資格を取得できる方は、Dynamics 365モデル駆動型アプリケーションとデータモデリングの原則を知っているだけでなく、Microsoft Power Platformを構成することもできます。キャンペーン、メール、カスタマージャーニーなどのマーケティングイニシアチブを実装します。組織の利害関係者と協力して要件を収集し、Dynamics365 Marketingソリューションを実装した経験があります。さらに、Dynamics 365 Marketing を構成し、Dynamics365組織のセキュリティを設定します。 Power AutomateやPower AppsなどのPower Platformコンポーネントを使用して、Dynamics365ソリューションを拡張することもできます。
+  
+  この認定資格を取得する前にさらに経験が必要な方には、いくつか提案がございます&#58;
+  - Dynamics 365モデル駆動型アプリの実装プロジェクトに取り組む。
+  - Dynamics 365 Marketingと連携する機能コンサルタントまたはソリューションアーキテクトをシャドウイング。
+  - Microsoft Learnで利用可能な学習パスの取得。
+  - インストラクター主導のトレーニングコースに登録。
+subTitle: Microsoft Dynamics 365 Marketing Functional Consultantsは、リードを集めて変換し、ブランド認知度を高め、オムニチャネル メッセージングを標準化し、マーケティングの洞察を提供するソリューションを実装します。
+levels:
+- intermediate
+skills:
+- マーケティングアプリケーションの構成
+- セグメントとリストを管理する
+- マーケティング フォームおよびページの作成と管理
+- リード、連絡先、アカウントの管理
+- マーケティング Eメールを作成および管理する
+- カスタマー ジャーニーを管理する
+- イベントとウェビナーを管理する
+- Dynamics 365カスタマーボイスの構成
+- Common Data Service を設定する
+- Power App を使用してアプリを作成する
+- Power Automate を作成および管理する
+- Power Virtual Agents チャットボットを実装する
+- Power Apps を他のアプリやサービスと統合する
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-marketing
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-220t00
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-dynamics.set-up-dynamics-365-marketing
+- uid: learn-dynamics.work-core-features-marketing
+- uid: learn-dynamics.manage-events-dynamics-marketing
+- uid: learn-dynamics.analyze-marketing-insights
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj1
+exams:
+- uid: exam.pl-200
+- uid: exam.mb-220
+resources:
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認証への道のり
+  description: 認定を受けるための手順と、準備に役立つリソースをご確認ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C55m
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定の学習経路
+  description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjW
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+

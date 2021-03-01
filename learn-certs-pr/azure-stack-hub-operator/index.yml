@@ -1,0 +1,57 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Stack Hub Operator Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Stack Hub Operator Associate'
+  description: 'Azure Stack Hub認証の候補者は、Azure Stack Hubを使用して独自のデータセンター内からエンドユーザーまたは顧客にクラウドサービスを提供するAzure管理者またはAzure Stack Hubオペレータです。'
+uid: certification.azure-stack-hub-operator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Azure Stack Hub認証の候補者は、Azure Stack Hubを使用して独自のデータセンター内からエンドユーザーまたは顧客にクラウドサービスを提供するAzure管理者またはAzure Stack Hubオペレータです。
+  
+  彼らの責任範囲は、Azure Stack Hubインフラストラクチャの計画、展開、パッケージ化、更新、およびメンテナンスです。また、ハイブリッドクラウドリソースを提供し、サービスを要求またサービス(IaaS)をインフラストラクチャとしての、とサービス（PaaS）をプラットフォームとしてを管理します。
+  
+  エンドツーエンドのインフラストラクチャの一部として、クラウドベースの管理とセキュリティまたはハイブリッド環境に特化した大規模なチームの一員としての役割を果たします。
+  
+  この認証の候補者は、Azure Stack Hub環境の管理と運用に重要な経験を持つ必要があります。仮想化、ネットワーキング、アイデンティティ管理の知識に加えて、Azureを強く理解する必要があります。Azure Stack HubがDevOpsプロセスとハイブリッド開発モデルをどのように可能にするかを理解する必要があります。
+subTitle: Azure Stack Hub認証の候補者は、Azure Stack Hubを使用して独自のデータセンター内からエンドユーザーまたは顧客にクラウドサービスを提供するAzure管理者またはAzure Stack Hubオペレータです。
+levels:
+- advanced
+skills:
+- サービスの提供
+- データセンター統合の実装
+- IDとアクセスの管理
+- インフラストラクチャの管理
+roles:
+- administrator
+type: role-based
+products:
+- azure
+- azure-stack
+- azure-stack-edge
+- azure-stack-hci
+- azure-stack-hub
+- azure-app-service
+- azure-event-hubs
+- azure-active-directory
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4LyWu
+exams:
+- uid: exam.az-600
+resources:
+- title: Azure 認定資格ポスター
+  description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx

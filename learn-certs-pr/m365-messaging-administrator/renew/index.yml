@@ -1,0 +1,27 @@
+### YamlMime:CertificationRenewal
+title: 'Microsoft 365 Certified: Messaging Administrator Associate の更新'
+metadata:
+  title: 'Microsoft 365 Certified: Messaging Administrator Associate の更新'
+  description: 'この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。'
+uid: renewal.m365-messaging-administrator
+certificationUid: certification.m365-messaging-administrator
+assessmentId: d87d7bd1-2890-481f-9ec4-9ba03d75719a
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。更新評価に合格して、Exchange and Microsoft 365 の最新のアップデートに関する知識を有していることを示します。厳選された学習モジュールで更新の準備をすることもできます。
+skills:
+- Exchange Online を使用して組織設定を計画および管理する
+- Exchange を使用してクライアント アクセスを計画および管理する
+- Microsoft 365 Messaging でロールベースの権限を管理する
+- コネクタを使用して Microsoft 365 の外部のメールボックスにメールを配信する
+- Exchange Online および Microsoft 365 Advanced Threat Protection を使用してメッセージの衛生状態を管理する
+- Microsoft 365 および Exchange Online のコンプライアンスを管理する
+- Exchange を使用してメール フローのトラブルシューティングを行う
+examsPassed:
+- ms-203
+studyGuideDescription: 'この一連の学習モジュールを使用して、Microsoft 365 認定資格: Messaging Administrator Associate の更新評価の準備に役立ててください。'
+resources:
+- title: 認定資格の更新について
+  summary: オンラインで認定資格を更新するためのプロセスおよび要件について理解する
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

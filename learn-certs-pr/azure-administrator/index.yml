@@ -1,0 +1,71 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Administrator Associate'
+  description: 'Azure 管理者は、組織の Microsoft Azure 環境を実装、管理、監視します。'
+uid: certification.azure-administrator
+certificationRenewalUid: renewal.azure-administrator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Azure Administrator Associate 認定資格の受験者は、組織の Microsoft Azure 環境の実装、管理、監視に関する専門知識が必要です。
+
+  このロールの責任には、クラウド環境での ID、ガバナンス、ストレージ、コンピューティング、および仮想ネットワークの実装、管理、および監視、さらに必要に応じてリソースのプロビジョニング、サイズ、監視、調整が含まれます。
+
+  Azure 管理者は、多くの場合、組織のクラウド インフラストラクチャの実装に専念するより大きなチームの一部として機能します。
+
+  この認定資格の受験者は、Azure のコア サービス、Azure ワークロード、セキュリティ、およびガバナンスについて十分に理解しているとともに、Azure の管理に関する少なくとも 6 か月の実務経験が必要です。さらに、このロールには、PowerShell、Azure CLI、Azure ポータル、Azure Resource Manager テンプレートの使用経験が必要です。
+subTitle: Azure 管理者は、組織の Microsoft Azure 環境を実装、管理、監視します。
+levels:
+- intermediate
+skills:
+- Azure アイデンティティおよびガバナンスの管理
+- ストレージの作成と管理
+- Azure 計算資源の展開と管理
+- 仮想ネットワークの構成と管理
+- Azure 資源の監視とバックアップ
+roles:
+- administrator
+type: role-based
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-virtual-network
+- azure-resource-manager
+courses:
+- uid: course.az-104t00
+- uid: course.az-010t00
+paths:
+- uid: learn.az104-admin-prerequisites
+- uid: learn.az-104-manage-identities-governance
+- uid: learn.az-104-manage-storage
+- uid: learn.az-104-manage-compute-resources
+- uid: learn.az-104-manage-virtual-networks
+- uid: learn.az-104-monitor-backup-resources
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF
+exams:
+- uid: exam.az-104
+resources:
+- title: Azure 認定資格ポスター
+  description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 認証への道のり
+  description: Azure Administrator Associate の認定を受けるための手順と、準備に役立つリソースをご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElC
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

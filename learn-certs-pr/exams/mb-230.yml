@@ -6,14 +6,13 @@ metadata:
 uid: exam.mb-230
 displayName: MB-230
 summary: |-
-  <div><div><strong>この試験の内容は、2020 年 10 月 2 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
-  </div>
-
-  Dynamics 365 Customer Service Functional Consultant は、サービス、品質、信頼性、効率性、顧客満足度にフォーカスしたオムニチャンネル(実店舗とネット店舗両方をカバー）ソリューションの実現に責任を持ちます。
+  <div><strong>この試験の内容は、2020 年 10 月 2 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  
+  Dynamics 365 Customer Service Functional Consultant は、サービス、品質、信頼性、効率性、顧客満足度にフォーカスしたオムニチャンネル(実店舗とネット店舗両方をカバー)ソリューションの実現に責任を持ちます。
   <br/>
-
+  
   Dynamics 365 Customer Service Functional Consultant は、サービス管理の視覚化や、ソリューション アーキテクトの協力のもと提供されたレポートを、実装および設計します。Functional Consultant は、カスタマー エンゲージメント管理者と協力して、ナレッジ マネジメント、顧客のフィードバック、接続サービスなどの Power Platform コンポーネントを実装およびアップグレードします。
-
+  
   Dynamics 365 Customer Service Functional Consultant は、業界用語、優先順位、基準、方法論、カスタマー サービスの運用、およびベスト プラクティスの理解を含む、カスタマー サービスに関する強力な応用知識を持っている必要があります。カスタマー サービスの専門知識を持つ Functional Consultant は、ケース、知識管理、キュー、資格、リソースのスケジューリング、サービス レベル契約 (SLA)、視覚化、接続サービス、Customer Service Insights、Power Virtual Agents、および Omnichannel for Customer Service などの詳細な理解などを含む、Dynamics 365 カスタマー サービスを通じてユーザーのニーズを満たすための強力な応用知識を持っている必要があります。機能コンサルタントの知識には、ソリューション アーキテクチャと品質管理だけでなく Dyamics 365 アプリケーション スイートと関連のある カスタマー サービス アプリケーションのロールへの優れた理解も含まれている必要があります。
 subTitle: 'この試験では、次の一覧に示す技術タスクを遂行する能力を評価します：ケースおよび Knowledge Management の管理。キュー、資格、およびサービスレベル契約の管理。スケジューリングの実装。Omnichannel for Customer Service の実装。分析の管理。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -36,7 +35,7 @@ products:
 - dynamics-365
 - dynamics-customer-service
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 courses:
 - uid: course.mb-230t01
 paths:

@@ -1,0 +1,71 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform Solution Architect (beta)'
+metadata:
+  title: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+  description: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+uid: exam.pl-600
+displayName: PL-600
+summary: |-
+  Microsoft Power Platformソリューションアーキテクトは、実装の成功を主導し、ソリューションが組織のより広範なビジネスおよび技術的ニーズにどのように対応するかに焦点を当てています。
+  
+  ソリューションアーキテクトは、Power Platform、Dynamics 365カスタマーエンゲージメントアプリ、関連するMicrosoft cloudソリューション、およびその他のサードパーティテクノロジに関する機能的および技術的な知識を持っています。ソリューションアーキテクトは、エンゲージメント全体に知識と経験を適用します。ソリューションアーキテクトは、顧客の投資の価値を高め、組織の健全性を促進するために、予防的かつ予防的な作業を実行します。この役割には、ビジネス上の問題を解決する機会を特定する能力が必要です。
+  
+  ソリューションアーキテクトは、Power Platformの機能および技術分野にわたる経験があります。ソリューションアーキテクトは、開発、構成、統合、インフラストラクチャ、セキュリティ、可用性、ストレージ、および変更管理全体にわたる設計上の決定を容易にすることができる必要があります。この役割は、機能要件と非機能要件を満たしながら、プロジェクトのビジネスニーズのバランスを取ります。
+  
+  <div><br/><font color='red'><strong>注&#58;この試験は2021年3月に利用可能になります。</strong></font></div>
+subTitle: 'この試験は2021年3月に受験可能になります。これは下記技術タスクを行う能力があるかどうかを測る試験です。 ソリューションの構想と要件分析の実行。ソリューションの設計。ソリューションの実装。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
+locales:
+- en
+levels:
+- advanced
+skills:
+- ソリューションの構想と要件分析を実行します(35-40%)
+- ソリューションを設計する(40-45%)
+- ソリューションを実装します(15-20%)
+roles:
+- developer
+- functional-consultant
+- solution-architect
+products:
+- dynamics-365
+- power-platform
+- ai-builder
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- dynamics-customer-engagement
+- common-data-service
+- azure-api-apps
+- azure-app-configuration
+- azure-app-service
+relatedCertifications:
+- related:
+    uid: certification.power-platform-solution-architect-expert
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 資格試験のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: ../request-accommodations.md
+- title: 試験のポリシーと FAQ
+  description: 試験ポリシーとよくある質問をご確認ください。
+  href: ../certification-exam-policies.md

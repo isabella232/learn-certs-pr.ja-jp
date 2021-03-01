@@ -1,0 +1,59 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals'
+  description: 'Microsoft Dynamics 365、人工知能(AI )、複合現実(MR )、 Power Platform、クラウドの概念、クラウドのセキュリティ、 Dynamics 365 のセキュリティ、 Common Data Service 、 Dynamics 365 のレポート、 Dynamics 365 の統合、クラウドの展開について理解していることを証明してください。'
+uid: certification.d365-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div><strong>この認定資格は 2021 年 6 月 30 日に廃止されます。その日以降、この認定資格を取得することはできなくなります。廃止日前に取得した認定資格は、今後も<a href="https://aka.ms/certdashboard">認定ダッシュボード</a>に表示されます。</strong><br/><br/></div>
+
+  Microsoft Dynamics 365 、人工知能、複合現実、 Power Platform 、クラウドの概念、クラウドのセキュリティ、 Dynamics 365 のセキュリティ、 Common Data Service 、 Dynamics 365 のレポート、 Dynamics 365 の統合、クラウドの展開について理解していることを証明してください。
+
+  <div><br/><strong>この認定資格は 2021 年 6 月 30 日に廃止されるため、Microsoft は「Common Data Service」の参照を「Microsoft Dataverse」に更新しません。</strong></div>
+subTitle: 'Microsoft Dynamics 365、人工知能(AI )、複合現実(MR )、 Power Platform、クラウドの概念、クラウドのセキュリティ、 Dynamics 365 のセキュリティ、 Common Data Service、 Dynamics 365 のレポート、 Dynamics 365 の統合、クラウドの展開について理解していることを証明してください。'
+levels:
+- beginner
+skills:
+- Dynamics 365 の Microsoft プラットフォームコンポーネントを特定します
+- Dynamics 365 における人工知能と複合現実について説明する
+- モデル主導型アプリについて説明する
+- Finance and Operations アプリについて説明する
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+type: fundamentals
+products:
+- dynamics-365
+courses:
+- uid: course.mb-901t00
+paths:
+- uid: learn-dynamics.wwl.dynamics-365-fundamentals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj0
+exams:
+- uid: exam.mb-901
+resources:
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認証への道のり
+  description: 認定を受けるための手順と、準備に役立つリソースをご確認ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRV
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定の学習経路
+  description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+

@@ -1,0 +1,74 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
+  description: Microsoft Dynamics 365 の財務および運用アプリのソリューション アーキテクトは、ビジネスで推奨されるプラクティスとソフトウェア機能を理解している信頼できるアドバイザーです。彼らはチーム メンバーが事前定義された実装目標を達成できる Dynamics ソリューションを実装できるようリードします。
+uid: certification.d365-finance-and-operations-apps-solution-architect-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Microsoft Dynamics 365 アプリと Microsoft Power Platform に精通しているソリューション アーキテクト、機能コンサルタントまたは技術コンサルタント、IT プロフェッショナル、あるいはインフォメーション ワーカーですか？Dynamics 365 のファイナンスおよびオペレーションアプリについてよく理解していますか？推奨されるビジネス慣行とソフトウェア機能について理解している信頼できるアドバイザーですか？そうである場合、このエキスパートの認定資格を取得し、お客様のキャリアを次のレベルに引き上げる可能性のある扉を開くことができます。
+  
+  この認定資格の受験生として、お客様は Dynamics 365 プロフェッショナルであり、利害関係者に助言を提供し、ビジネス要件を安全かつ拡張可能で信頼性の高いソリューションに変換します。Dynamics 365 ファイナンスおよびオペレーション アプリの重要なアーキテクチャ コンポーネントを使用する方法についての知識があるため、顧客向け顧客向けの包括的なソリューションを設計します。1 つ以上の業界の分野で広範な分野の知識を持っています。各領域の決定がソリューション全体にどのような影響を与えるかについて理解しています。さらに、プラットフォーム、ツール、および機能分野 (金融、サプライチェーン管理、製造など) に精通しています。
+  
+  Dynamics 365&#58; Finance and Operations Apps Solution Architect Expert 認定資格は、次の場合に適しています。
+  - Dynamics 365 ファイナンスおよびオペレーション アプリのコンサルタントまたはテクニカル コンサルタントとして、かなりの経験を持っています。 
+  - ソリューション アーキテクトを目指している、または最近そのキャリア パスを歩み始めました。 
+  - 組織全体のテクノロジ ソリューションの設計、実装、展開、導入を成功に導く責任感ががあります。
+  - 組織や実装チームのメンバーと相談し、ビジネス ニーズを明確に定義されたコスト効率の高いソリューションに洗練した経験がある。
+  
+  この認定資格を取得する前に、より多くの経験が必要な場合は、以下をご提案します。
+  - ソリューションアーキテクトの技術を得る、またはいくつかのプロジェクトで 一丸となって作業します。 
+  - ファイナンスおよびオペレーション アプリ ソリューションの設計と実装を任意で行います。 
+  - 他のソリューション アーキテクトと一緒にソリューション アーキテクチャのワークショップに参加します。
+subTitle: Microsoft Dynamics 365 の財務および運用アプリのソリューション アーキテクトは、ビジネスで推奨されるプラクティスとソフトウェア機能を理解している信頼できるアドバイザーです。彼らはチーム メンバーが事前定義された実装目標を達成できる Dynamics ソリューションを実装できるようリードします。
+levels:
+- advanced
+skills:
+- ソリューション要件を特定します
+- ソリューション コンポーネントを設計する
+- ソリューション テストと管理戦略を定義する
+roles:
+- functional-consultant
+- solution-architect
+type: role-based
+products:
+- dynamics-365
+courses:
+- uid: course.mb-700t00
+paths:
+- uid: learn-dynamics.become-solution-architect
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
+exams:
+- uid: exam.mb-700
+prerequisites:
+- uid: certification.d365-functional-consultant-financials
+  isOptional: false
+- uid: certification.d365-functional-consultant-manufacturing
+  isOptional: false
+- uid: certification.d365-functional-consultant-supply-chain-management
+  isOptional: false
+- uid: certification.d365-finance-and-operations-apps-developer-associate
+  isOptional: false
+resources:
+- title: 認証ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認証への道のり
+  description: 認定を受けるための手順と、準備に役立つリソースをご確認ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRK
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定の学習経路
+  description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gm
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+

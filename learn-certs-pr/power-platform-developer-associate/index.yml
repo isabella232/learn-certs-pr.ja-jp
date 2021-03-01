@@ -1,0 +1,73 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Developer Associate'
+metadata:
+  title: 'Microsoft Certified: Power Platform Developer Associate'
+  description: Microsoft Power Platform Developer Associate 認定資格の受験者は、Power Platform ソリューションの設計、開発、保護、トラブルシューティングを行います。
+uid: certification.power-platform-developer-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Microsoft Power Platformソリューションの設計、開発、安全の確保、拡張に情熱を持っている場合、この認証はあなたに適しているかもしれません。この認定を取得するには、アプリケーションの強化、カスタムユーザーエクスペリエンス（経験）、システム統合、データ変換、カスタムプロセスオートメーション、カスタムビジュアライゼーションなどのソリューションコンポーネントを作成できる必要があります。Microsoft Power Platformサービスの強力な応用知識と、Microsoft Power PlatformのDevOps実践（プラクティス）の基本的な理解が必要です。さらに、自身の背景として、JavaScript、JSON、TypeScript、C #、HTML、.NET、Azure、Microsoft 365、RESTful Webサービス、ASP.NET、PowerBIを使用した開発経験が含まれている必要があります。
+  
+  この認証の候補者は、通常、アプリメーカー、機能コンサルタント、ソリューションアーキテクト、IT管理者と協力します。あなたの責任はさまざまです&#58;
+  - テクニカルデザインとPower Appsの作成。
+  - Dataverse、Power Apps、 およびビジネスプロセスの自動化の構成。
+  - プラットフォームとユーザー経験(エクスペリエンス)の拡張。
+  - 統合の開発。
+  
+  詳細については、ブログ投稿をご覧ください: [新しい認証&#58;  Microsoft Power Platform Developer Associate](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/new-certification-microsoft-power-platform-developer-associate/ba-p/1469335).この認定を受けようとする前に、より多くの経験が必要な場合は&#58;
+  - 実地体験の経験を得るために、Microsoft Power Platform開発プロジェクトにボランティアで参加することができます。
+  - Microsoft Learnで学習パスを取得します。
+  - インストラクター主導のトレーニングコースに登録します。
+subTitle: Microsoft Power Platform Developer Associate 認定資格の受験者は、Power Platform ソリューションの設計、開発、保護、トラブルシューティングを行います。
+levels:
+- intermediate
+skills:
+- Technical Design を作成する
+- Common Data Service を設定する
+- Power Apps を作成および設定する
+- ビジネスプロセスの自動化を構成する
+- ユーザー エクスペリエンスを拡張する
+- プラットフォームを拡張する
+- 統合を開発する
+roles:
+- developer
+type: role-based
+products:
+- power-platform
+- power-apps
+- common-data-service
+courses:
+- uid: course.pl-400t00
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.integrate-power-platform
+- uid: learn-dynamics.use-power-apps-component-framework
+- uid: learn-bizapps.administer-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhzw
+exams:
+- uid: exam.pl-400
+resources:
+- title: 認証ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認証への道のり
+  description: 認定を受けるための手順と、準備に役立つリソースをご確認ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+

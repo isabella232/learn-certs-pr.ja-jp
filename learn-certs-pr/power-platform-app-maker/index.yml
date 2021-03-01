@@ -1,0 +1,107 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform App Maker Associate'
+metadata:
+  title: 'Microsoft Certified: Power Platform App Maker Associate'
+  description: アプリ メーカーは、ソリューション ドメインを熟知している自分とチームのために、タスクとプロセスを簡素化、自動化、変換するソリューションを構築します。データ モデリング、基本的な UX 設計、要件分析、およびプロセス分析の主要なテクニカルビジネス アナリスト タスクに精通しています。
+uid: certification.power-platform-app-maker
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  ソリューションドメインに深い専門知識を持つビジネスプロフェッショナルで、Microsoft Power Platformソリューションの構築に対する情熱を活かして、チームのタスクとプロセスを簡素化、自動化、一変したい場合、この認証はあなたにぴったりです。データモデリング、基本的なUX設計、要件分析、プロセス分析など、主要なテクニカルビジネスアナリストのタスクを達成するスキルが必要です。 
+  
+  自主的でソリューション重視で、Microsoft Power Platformのメーカーツールを使ってビジネス上の問題を解決する場合、アプリメーカーの役割のプロファイルに適合します。Visual Basic for Applications、Excel PivotTables、Teamsなどのツールを使用した経験を持つこともありえます。正式なITトレーニングを受けていないかもしれませんが、ビジネス上の問題を解決するためにテクノロジーを使用してIT管理者とMicrosoft Power Platform開発者と協力することには慣れています。貴方の責任担当は&#58;  
+  - アプリの設計と作成、ワークフローの自動化。 
+  - アプリまたは自動化されたワークフローのコンテキストでデータを分析し、可視化します。 
+  - アプリと自動ワークフローの実装と管理。
+
+  詳細については、投稿をお読みください&#58; [あなたはPower Platform App Makerですか？]今こそ認定を受けましょう(https://techcommunity.microsoft.com/t5/microsoft-learn-blog/are-you-a-power-platform-app-maker-now-s-the-time-to-get/ba-p/1512993)。
+  この認定を受けようとする前に、より多くの経験が必要な場合は&#58;
+  - データモデリング、基本的なUX設計、要件分析、プロセス分析の実際の経験を得るために、プロジェクトにボランティアで参加することができます。
+  - Microsoft Learnで学習パスを取得します。
+  - インストラクター主導のトレーニングコースに登録します。
+subTitle: アプリ メーカーは、ソリューション ドメインを熟知している自分とチームのために、タスクとプロセスを簡素化、自動化、変換するソリューションを構築します。データ モデリング、基本的な UX 設計、要件分析、およびプロセス分析の主要なテクニカルビジネス アナリスト タスクに精通しています。
+levels:
+- intermediate
+skills:
+- ソリューションを設計する
+- ソリューションを作成します
+- データの分析と視覚化
+- ソリューションの実装と管理
+roles:
+- business-analyst
+- business-owner
+- business-user
+- data-analyst
+- developer
+- devops-engineer
+- maker
+- technology-manager
+type: role-based
+products:
+- dynamics-365
+- office
+- office-access
+- office-excel
+- office-exchange-server
+- office-365
+- office-365-atp
+- office-add-ins
+- office-onedrive
+- office-onenote
+- office-outlook
+- office-planner
+- office-powerpoint
+- office-project
+- office-project-server
+- office-publisher
+- office-sp
+- office-sp-designer
+- office-teams
+- office-visio
+- office-word
+- power-platform
+- ai-builder
+- common-data-service
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+courses:
+- uid: course.pl-100t00
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAsW
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-bizapps.understand-advanced-topics
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.ui-controls-canvas-app-powerapps
+- uid: learn-bizapps.create-business-process-flow
+exams:
+- uid: exam.pl-100
+resources:
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認証への道のり
+  description: 認定を受けるための手順と、準備に役立つリソースをご確認ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjG
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定の学習経路
+  description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBF
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+

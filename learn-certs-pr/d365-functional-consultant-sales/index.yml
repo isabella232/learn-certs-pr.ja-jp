@@ -1,0 +1,82 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
+  description: 'Microsoft Dynamics 365 Sales Functional Consultants は、顧客とのつながりを予測および計画し、処理と決済を通じて取引を管理し、データ分析を使用して営業チームのパフォーマンスを高めるソリューションを実装します。'
+uid: certification.d365-functional-consultant-sales
+certificationRenewalUid: renewal.d365-functional-consultant-sales
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  機能コンサルタントやMicrosoft Dynamics 365 Salesで働く専門家、またはコンサルティングスキルを磨こうとしている開発者の方にとって、この認定資格はキャリアを後押しするのに役立ちます。これにより、プロジェクトのマーケティングをより効果的に行うことができ、Dynamics 365 Salesを使用して営業部隊に力を与えることができることを組織に示します。
+  
+  この認定資格に合格できる方は、Microsoft Power Platformの構成経験があり、Dynamics 365モデル駆動型アプリケーションとデータモデリングの原則を理解している必要があります。組織の利害関係者と協力して、要件を収集し、Dynamics 365 Salesスソリューションを実装します。リード、商談、見積もり、注文を管理し、製品カタログと価格表を構成します。さらに、組織の固有のビジネスプロセスに一致するようにDynamics 365 Salesを構成し、Dynamics 365 Salesデータをモデル化します。 Power AutomateやPower AppssなどのPower Platform コンポーネントを使用して、Dynamics365ソリューションを拡張することもできます。
+  
+  この認定資格を取得する前にさらに経験が必要な方には、いくつか提案がございます&#58;
+  - Dynamics 365モデル駆動型アプリの実装プロジェクトに取り組む。
+  - Dynamics 365 Salesと連携する機能コンサルタントまたはソリューションアーキテクトをシャドウイング。
+  - Microsoft Learnで利用可能な学習パスの取得。
+  - インストラクター主導のトレーニングコースに登録。
+subTitle: Microsoft Dynamics 365 Sales Functional Consultants は、顧客とのつながりを予測および計画し、処理と決済を通じて取引を管理し、データ分析を使用して営業チームのパフォーマンスを高めるソリューションを実装します。
+levels:
+- intermediate
+skills:
+- 構成を実行する
+- コア販売エンティティを管理する
+- 追加のツールおよびサービスを構成する
+- Common Data Service を設定する
+- Power App を使用してアプリを作成する
+- Power Automate を作成および管理する
+- Power Virtual Agents チャットボットを実装する
+- Power Apps を他のアプリやサービスと統合する
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-sales
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-210t01
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-dynamics.dynamics-365-for-sales
+- uid: learn-bizapps.applying-goal-management
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6I
+exams:
+- uid: exam.pl-200
+- uid: exam.mb-210
+resources:
+- title: 認証ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認証への道のり
+  description: 認定を受けるための手順と、準備に役立つリソースをご確認ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C54X
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定の学習経路
+  description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0T
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+
