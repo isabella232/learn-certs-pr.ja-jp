@@ -25,7 +25,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 試験リプレイ
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
-  href: deals.md
+  href: ../deals.md
 - title: 資格のサポート
   description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。
   href: ../help.md
