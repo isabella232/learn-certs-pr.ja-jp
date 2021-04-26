@@ -1,0 +1,69 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals'
+  description: 'Microsoft Azure及びMicrosoft 365がよくわかり、Microsoftセキュリティ、コンプライアンス及びIDソリューションがソリューション領域にまたがって、全体的でエンドツーエンドのソリューションを提供できることを証明してください。'
+uid: certification.security-compliance-and-identity-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  この認定はcloudベースおよび関連するMicrosoftサービス全体でのセキュリティ、コンプライアンス、及びアイデンティティ (SCI) の基礎に親しみたい方に向けて行っているものです。
+  
+  この幅広いターゲット層はビジネスの利害関係者、新規または既存のITプロフェッショナル、またはMicrosoftセキュリティ、コンプライアンス、及びアイデンティティ ソリューションに関心のある学生も含まれています。
+  
+  候補者は Microsoft Azure及びMicrosoft 365のことを理解し、Microsoftセキュリティ、コンプライアンス、及びアイデンティティ ソリューションはこれらのソリューション領域にまたがって、全体的でエンドツーエンドのソリューションを提供できることも証明する必要があります。
+subTitle: Microsoft Azure及びMicrosoft 365がよくわかり、Microsoftセキュリティ、コンプライアンス及びIDソリューションがソリューション領域にまたがって、全体的でエンドツーエンドのソリューションを提供できることを証明してください。
+levels:
+- beginner
+skills:
+- セキュリティ、コンプライアンス、およびIDの概念を説明する
+- MicrosoftIDの機能を説明して、管理ソリューションをアクセスする
+- Microsoftセキュリティソリューションの機能を説明する
+- Microsoftコンプライアンスソリューションの機能を説明する
+roles:
+- business-user
+- student
+type: fundamentals
+products:
+- azure
+- azure-active-directory
+- azure-bastion
+- azure-blueprints
+- azure-ddos-protection
+- azure-firewall
+- azure-policy
+- azure-security-center
+- azure-sentinel
+- azure-web-application-firewall
+- m365
+- mem-intune
+- m365-ems-cloud-app-security
+- m365-threat-protection
+- m365-security-score
+- m365-security-center
+- mdatp
+- mem
+- office-365-atp
+paths:
+- uid: learn.wwl.describe-concepts-of-security-compliance-identity
+- uid: learn.wwl.describe-capabilities-of-microsoft-identity-access-management-solutions
+- uid: learn.wwl.describe-capabilities-of-microsoft-security-solutions
+- uid: learn.wwl.describe-capabilities-of-microsoft-compliance-solutions
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp7
+exams:
+- uid: exam.sc-900
+resources:
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md

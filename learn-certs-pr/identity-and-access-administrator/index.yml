@@ -1,0 +1,55 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Identity and Access Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Identity and Access Administrator Associate'
+  description: Microsoftアイデンティティ及びアクセス管理者は組織のアイデンティティをデザインしたり、実装したり、管理します。その上に Azure Active Directory (Azure AD)を使用して管理システムにアクセスします。その方はエンタープライズアプリケーションへの安全な認証および承認アクセスの提供などのタスクを管理します。
+uid: certification.identity-and-access-administrator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Microsoftアイデンティティ及びアクセス管理者は組織のアイデンティティをデザインしたり、実装したり、管理します。その上に Azure Active Directory (Azure AD)を使用して管理システムにアクセスします。 その方はエンタープライズアプリケーションへの安全な認証および承認アクセスの提供などのタスクを管理します。 管理者は、ユーザーの皆様にシームレスなエクスペリエンスとセルフサービス管理機能を提供します。アダプティブアクセスとガバナンスは、この役割の中核となる要素です。 この役割は、アイデンティティおよびアクセス環境のトラブルシューティング、監視、およびレポート作成も担当します。
+  
+  アイデンティティ及びアクセス管理者は一人、もしくはより大きなチームである可能性もあります。この役割は戦略的アイデンティティプロジェクトを管理してアイデンティティソリューションを現代化したり、ハイブリッドアイデンティティソリューションを実装したり、アイデンティティガバナンスを実装するために組織の他役割と協力します。
+subTitle: Microsoftアイデンティティ及びアクセス管理者は組織のアイデンティティをデザインしたり、実装したり、管理します。その上に Azure Active Directory (Azure AD)を使用して管理システムにアクセスします。その方はエンタープライズアプリケーションへの安全な認証および承認アクセスの提供などのタスクを管理します。
+levels:
+- advanced
+skills:
+- アイデンティティ管理 ソリューションを実装すること
+- 認証とアクセス管理ソリューションを実装すること
+- アプリのアクセス管理を実装すること
+- アイデンティティガバナンス戦略を設計して、実装すること
+roles:
+- administrator
+- identity-access-admin
+- security-engineer
+type: role-based
+products:
+- azure
+- azure-active-directory
+- azure-log-analytics
+- azure-sentinel
+courses:
+- uid: course.sc-300t00
+paths:
+- uid: learn.wwl.implement-identity-management-solution
+- uid: learn.wwl.implement-authentication-access-management-solution
+- uid: learn.wwl.implement-access-management-for-apps
+- uid: learn.wwl.plan-implement-identity-governance-strategy
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr7Z
+exams:
+- uid: exam.sc-300
+resources:
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
