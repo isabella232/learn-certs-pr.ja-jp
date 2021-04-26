@@ -10,10 +10,11 @@ summary: |-
   
   この試験の受験者は情報科学 (IT) 環境の一般的な知識もしくは関連する実務経験を持っている必要があります。また、顧客エンゲージメントの原則とビジネス オペレーションの基本的な理解も必要です。
   
-  <div><br/><strong>注意&#58; この試験は 2021 年 2 月に利用可能になります。</strong></div>
-subTitle: 'この試験は 2021 年 2 月に利用可能になります。この試験では、次の項目について説明する能力を評価します。Dynamics 365 Marketing、Dynamics 365 Sales、Dynamics 365 Customer Service、Dynamics 365 Field Service、Project Operations、および共有機能'
+  <div><br/><font color='red'><strong>当社は質問とテストの品質についてのデータを集めているため、ベータテストはすぐに得点記録されなません。 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ベータテストの価値と重要性についてもっと詳しく知りたい方はこちらへ</a>.</strong></font></div>
+subTitle: 'この試験では、次の項目について説明する能力を評価します。Dynamics 365 Marketing、Dynamics 365 Sales、Dynamics 365 Customer Service、Dynamics 365 Field Service、Project Operations、および共有機能'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIev
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-910&examname=Exam%20MB-910:%20Microsoft%20Dynamics%20365%20Fundamentals%20Customer%20Engagement%20Apps%20(CRM)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-910
 locales:
 - en
 levels:
@@ -33,10 +34,21 @@ roles:
 products: 
 - dynamics-365
 - dynamics-customer-engagement
+courses:
+- uid: course.mb-910t00
+paths:
+- uid: learn.wwl.explore-microsoft-dynamics-365-marketing
+- uid: learn.wwl.explore-microsoft-dynamics-365-sales
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-customer-service
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-field-service
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-project-operations-crm
 relatedCertifications:
 - related:
     uid: certification.d365-fundamentals-customer-engagement-apps-crm
 resources:
+- title: 認証ラーニングパス
+  description: 必要なテストを受けて、認証を獲得するためのおすすめトレーニングリソース。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAs3I
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

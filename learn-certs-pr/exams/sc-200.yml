@@ -1,0 +1,68 @@
+### YamlMime:Examination
+title: 'Microsoft Security Operations Analyst (beta)'
+metadata:
+  title: 'Exam SC-200: Microsoft Security Operations Analyst (beta)'
+  description: 'Exam SC-200: Microsoft Security Operations Analyst (beta)'
+uid: exam.sc-200
+displayName: SC-200
+summary: |-
+  Microsoft Security Operations Analystは組織の利害関係者と協力して、組織の情報技術システムを保護します。 その目標は、環境内のアクティブな攻撃を迅速に修正することにより、組織のリスクを軽減すること、 脅威保護慣行の改善に関するアドバイスを提供すること、及び組織の方針の違反を適切な利害関係者に紹介することです。
+  
+  責任の点は環境内で色々なセキュリティ ソリューションを使って脅威管理、監視、および対応することです。この役割は主にMicrosoft Azure Sentinel、Azure Defender、Microsoft 365 Defender、及び第三者のセキュリティ製品を使って脅威を調査し、対応し、捜索します。Security Operations Analystはツールの運用出力を消費するので、これらのテクノロジーの構成と展開における重要な利害関係者でも呼ばれます。
+  
+  <div><br/><font color='red'><strong>当社は質問とテストの品質についてのデータを集めているため、ベータテストはすぐに得点記録されなません。 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ベータテストの価値と重要性についてもっと詳しく知りたい方はこちらへ</a>.</strong></font></div>
+subTitle: 'このテストは下記の技術的タスクをどのくらい実行可能なのかを確認します。Microsoft 365 Defenderを使って脅威を軽減すること。Azure Defenderを使って脅威を軽減すること。 Azure Sentinelを使って脅威を軽減すること。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp3
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=SC-200&examname=Exam%20SC-200:%20Microsoft%20Security%20Operations%20Analyst&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-200
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Microsoft 365 Defenderを使って脅威を軽減すること (25-30%)
+- Azure Defenderを使って脅威を軽減すること (25-30%)
+- Azure Sentinelを使って脅威を軽減すること (40-45%)
+roles:
+- security-engineer
+- security-operations-analyst
+products:
+- azure
+- azure-sentinel
+- m365-threat-protection
+courses:
+- uid: course.sc-200t00
+paths:
+- uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint
+- uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender
+- uid: learn.wwl.sc-200-mitigate-threats-using-azure-defender
+- uid: learn.wwl.sc-200-utilize-kql-for-azure-sentinel
+- uid: learn.wwl.sc-200-configure-your-azure-sentinel-environment
+- uid: learn.wwl.sc-200-connect-logs-to-azure-sentinel
+- uid: learn.wwl.sc-200-create-detections-perform-investigations-azure-sentinel
+- uid: learn.wwl.sc-200-perform-threat-hunting-azure-sentinel
+relatedCertifications:
+- related:
+    uid: certification.security-operations-analyst
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 資格試験のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: ../request-accommodations.md
+- title: 試験のポリシーと FAQ
+  description: 試験ポリシーとよくある質問をご確認ください。
+  href: ../certification-exam-policies.md

@@ -7,19 +7,28 @@ uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>試験DP-200とDP-201は <a href='/learn/certifications/exams/dp-203'>EXAM DP-203</a> と2021年2月23日を以って変更となります。2021年6月30日まではDP-200とDP-201の合格認定証を得ることができます。</strong></font><br/><br/></div>
+  <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'>EXAM DP-203</a>はDP-200 AND DP-201のテストを置き換えます。DP-200及びDP-201は2021年6月30日に消えます。</strong></font><br/><br/></div>
   
-  Azure Data Engineers は、Azure データ サービスのあらゆる技術の知識を使用してデータの管理、監視、セキュリティ、およびプライバシーを設計および実装し、ビジネス ニーズを満たします。
+  Azure Data Engineer Associateの認定のための候補者はさまざまな構造化および非構造化データシステムからのデータを、分析ソリューションの構築に適した構造に統合、変換、および統合する対象分野の専門知識を有する必要があります。
+  
+  この役割のための責任としては、さまざまなツールや手法を使用して、安全で準拠したデータ処理パイプラインを調査、構築、維持することで、利害関係者がデータを理解できるように支援しすることが含まれています。 この方はAzureデータサービスと言語を使って、分析用にクレンジングおよび拡張されたデータセットを保存および生成します。
+  
+  Azure Data Engineerは特定のビジネス要件と制約が与えられた場合に、データパイプラインとデータストアが高性能で、効率的で、整理され、信頼できることを保証するのにも役立ちます。この方は予期しない問題に迅速に対処し、データの損失を最小限に抑えます。Azure Data Engineerはデータパイプラインのニーズを満たすために、データプラットフォームを設計、実装、監視、および最適化もします。
+  
+  この認定のための候補者はQL、Python、Scalaなどのデータ処理言語に関する確かな知識が必要であり、並列処理とデータアーキテクチャのパターンを理解している必要があります。
+  
+  <div><br/><strong>下記の選択肢の一つを完了すると、この認定を得ます&#58;</strong><br/>
+  <ul>
+  <li>合格する <a href="/learn/certifications/exams/dp-200">DP-200</a> 及び <a href="/learn/certifications/exams/dp-201">DP-201</a> (2021年6月30日に消える) <strong>それとも</strong></li>
+  <li>合格する <a href="/learn/certifications/exams/dp-203">DP-203</a> (2021年2月23日にリリースされたベータ版)</li></ul></div>
 subTitle: Azureデータエンジニアによって、様々な構造化データシステムと非構造化データシステムのデータを、分析ソリューションの構築に適した構造に統合、変換、強化することができます。
 levels:
 - intermediate
 skills:
-- データ記憶域ソリューションの実装
-- データ処理法の管理と開発
-- データ ソリューションの監視および最適化
-- Azure データソリューションのデザイン
-- データ処理ソリューションのデザイン
-- データ セキュリティとコンプライアンスの設計
+- データストレージの設計して、実装すること
+- 情報処理を設計して、発展すること
+- データセキュリティを設計して、実装すること
+- データストレージ及び情報処理を監視して、最適化すること
 roles:
 - data-engineer
 type: role-based
@@ -30,23 +39,24 @@ products:
 - azure-event-hubs
 - azure-data-lake
 - azure-databricks
-courses:
-- uid: course.dp-200t01
-- uid: course.dp-201t01
 paths:
 - uid: learn.data-ai.azure-for-the-data-engineer
 - uid: learn.store-data-in-azure
-- uid: learn.work-with-relational-data-in-azure
-- uid: learn.work-with-nosql-data-in-azure-cosmos-db
+- uid: learn.wwl.data-integration-scale-azure-data-factory
+- uid: learn.wwl.realize-integrated-analytical-solutions-with-azure-synapse-analytics
+- uid: learn.wwl.work-with-data-warehouses-using-azure-synapse-analytics
+- uid: learn.wwl.perform-data-engineering-with-azure-synapse-apache-spark-pools
+- uid: learn.wwl.work-with-hybrid-transactional-analytical-processing-solutions
+- uid: learn.wwl.data-engineer-azure-databricks
 - uid: learn.data-ai.data-processing-with-azure-adls
 - uid: learn.data-ai.implement-data-streaming-with-asa
-- uid: learn.data-ai.implement-sql-data-warehouse
-- uid: learn.wwl.data-engineer-azure-databricks
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUG
 exams:
-- uid: exam.dp-200
-- uid: exam.dp-201
+- uid: exam.dp-203
 resources:
+- title: 認証への道のり
+  description: Azure Data Engineer Associate として認定を受けるための手順と、準備に役立つリソースをご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ
 - title: Azure 認定資格ポスター
   description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh

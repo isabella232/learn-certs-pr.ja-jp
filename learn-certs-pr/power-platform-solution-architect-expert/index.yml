@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Power Platform Solution Architect Expert'
 metadata: 
   title: 'Microsoft Certified: Power Platform Solution Architect Expert'
-  description: この認定資格は2021年3月中に利用可能となります。Power Platform Solution Architect Expertsは、利害関係者と協力して、組織の幅広いビジネスおよび技術的ニーズに影響を与えるソリューションに焦点を当てていきます。
+  description: Power Platform ソリューションアーキテクト専門家は、利害関係者と協力して、組織の幅広いビジネスおよび技術的ニーズに影響を与えるソリューションに焦点を当てていきます。受験者は、Power Platform、Dynamics 365カスタマーエンゲージメントアプリ、関連のあるMicrosoft cloudソリューション、およびサードパーティテクノロジに関する機能的および技術的な知識を持っている必要があります。
 uid: certification.power-platform-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
@@ -14,9 +14,7 @@ summary: |-
   - Power Platformプロジェクトでソリューションアーキテクトとして(またはシャドウとして)作業。
   - インストラクター主導のトレーニングコースに登録。
   - [Microsoft Learn](/learn/paths/become-solution-architect/).で利用可能な学習パスを調べる。
- 
-  <div><font color='red'><strong>注&#58;この認定は2021年3月に利用可能になります。</strong></font></div>
-subTitle: この認定資格は2021年3月中に利用可能となります。Power Platform ソリューションアーキテクト専門家は、利害関係者と協力して、組織の幅広いビジネスおよび技術的ニーズに影響を与えるソリューションに焦点を当てていきます。受験者は、Power Platform、Dynamics 365カスタマーエンゲージメントアプリ、関連のあるMicrosoft cloudソリューション、およびサードパーティテクノロジに関する機能的および技術的な知識を持っている必要があります。
+subTitle: Power Platform ソリューションアーキテクト専門家は、利害関係者と協力して、組織の幅広いビジネスおよび技術的ニーズに影響を与えるソリューションに焦点を当てていきます。受験者は、Power Platform、Dynamics 365カスタマーエンゲージメントアプリ、関連のあるMicrosoft cloudソリューション、およびサードパーティテクノロジに関する機能的および技術的な知識を持っている必要があります。
 levels:
 - advanced
 skills:

@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Information Protection Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Information Protection Administrator Associate'
+  description: 情報保護管理者は組織のコンプライアンスニーズを満たすコントロールを計画および実装します。この方は条件及びコンプライアンスコントロールを技術的な実装に変わることに責任を持っています。 彼らは、組織の統制所有者がコンプライアンスを維持し続けるのをサポートします。
+uid: certification.information-protection-administrator 
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  情報保護管理者は組織のコンプライアンスニーズを満たすコントロールを計画および実装します。この方は条件及びコンプライアンスコントロールを技術的な実装に変わることに責任を持っています。 彼らは、組織の統制所有者がコンプライアンスを維持し続けるのをサポートします。
+  
+  彼らは組織の規制要件に十分に対応するために必要なポリシーと制御をサポートするテクノロジを実装するために情報技術（IT）人員、ビジネスアプリケーションの所有者、人事、および法的な利害関係者と一緒に働きます。その上に、チーフ・コンプライアンス・オフィサー及び セキュリティ責任者のようなコンプライアンス及びセキュリティのリーダーシップと一緒に働いて、 関連するエンタープライズリスクの全範囲を評価し、それらのポリシーを開発するために協力します。
+  
+  この担当者は、適用可能な要件を定義し、それらのポリシーと制御に対してITプロセスと運用を試します。彼らは、コンテンツの分類、データ損失防止、ガバナンス、および保護のためのポリシーとルールを作成する責任があります。
+subTitle: 情報保護管理者は組織のコンプライアンスニーズを満たすコントロールを計画および実装します。この方は条件及びコンプライアンスコントロールを技術的な実装に変わることに責任を持っています。 彼らは、組織の統制所有者がコンプライアンスを維持し続けるのをサポートします。
+levels:
+- intermediate
+skills:
+- 情報保護を実装すること
+- データ損失防止を実装すること
+- 情報ガバナンスを実装すること
+roles:
+- administrator
+- ip-admin
+- risk-practitioner
+- security-engineer
+type: role-based
+products:
+- office-teams
+- office-sp
+- m365
+- m365-ems-cloud-app-security
+courses:
+- uid: course.sc-400t00
+paths:
+- uid: learn.wwl.implement-information-protection
+- uid: learn.wwl.implement-data-loss-prevention
+- uid: learn.wwl.implement-information-governance
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp6
+exams:
+- uid: exam.sc-400
+resources:
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
