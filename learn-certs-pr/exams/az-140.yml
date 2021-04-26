@@ -1,0 +1,79 @@
+### YamlMime:Examination
+title: 'Configuring and Operating Windows Virtual Desktop on Microsoft Azure (beta)'
+metadata:
+  title: 'Exam AZ-140: Configuring and Operating Windows Virtual Desktop on Microsoft Azure (beta)'
+  description: 'Exam AZ-140: Configuring and Operating Windows Virtual Desktop on Microsoft Azure (beta)'
+uid: exam.az-140
+displayName: AZ-140
+summary: |-
+  このテストに値する候補者となるのはAzureでのあらゆるデバイス向けの仮想デスクトップエクスペリエンスとリモートアプリの計画、配信、および管理に関する専門知識を有するAzure管理者です。
+  
+  このテストに値する候補者は仮想化、ネットワーキング、ID、ストレージ、バックアップ、復元力、およびディザスタリカバリなどのAzure技術での経験があるという方です。この候補者達は、Windows Virtual Desktopへの移行に関連するオンプレミスの仮想デスクトップインフラストラクチャテクノロジをよく理解している必要があります。この専門家達は色々なタスクを遂行するためにAzureのポルタルとAzure Resource Manager (ARM)テンプレートを使います。もっと効率的な自動化のためにPowerShellもAzure Command-Line Interface (CLI)も使う可能性があります。
+  
+  このテストのための候補者はAzureのエキスパートレベルの管理スキルが必要です。
+  
+  <div><br/><font color='red'><strong>当社は質問とテストの品質についてのデータを集めているため、ベータテストはすぐに得点記録されなません。 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ベータテストの価値と重要性についてもっと詳しく知りたい方はこちらへ</a>.</strong></font></div>
+subTitle: 'このテストでは、下記の技術的タスクを達成する能力を測定します。 Windows Virtual Desktop アーキテクチャを設計すること。 Windows Virtual Desktop インフラを実装すること。アクセス及びセキュリティを管理すること。ユーザ環境及びアプリを管理すること。 Windows Virtual Desktop インフラを監視および維持すること。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFST
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-140&examname=Exam%20AZ-140:%20Configuring%20and%20Operating%20Windows%20Virtual%20Desktop%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-140
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Windows Virtual Desktopアーキテクチャを設計すること (10-15%)
+- Windows Virtual Desktop インフラを実装すること (25-30%)
+- アクセル及びセキュリティを管理すること (10-15%)
+- ユーザ環境及びアプリを管理すること (20-25%)
+- Windows Virtual Desktop インフラを監視および維持すること (20-25%)
+roles:
+- administrator
+products:
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- azure-virtual-machines
+- azure-virtual-machines-windows
+- azure-netapp-files
+- azure-files
+- azure-bastion
+- azure-portal
+- windows-server
+- azure-clis
+- azure-resource-manager
+- azure-rbac
+- azure-policy
+- azure-security-center
+- m365-security-center
+- mem
+- office-onedrive
+- office-teams
+- azure-monitor
+- azure-advisor
+- windows-virtual-desktop
+relatedCertifications:
+- related:
+    uid: certification.windows-virtual-desktop-specialty
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認証ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 資格試験のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: ../request-accommodations.md
+- title: 試験のポリシーと FAQ
+  description: 試験ポリシーとよくある質問をご確認ください。
+  href: ../certification-exam-policies.md

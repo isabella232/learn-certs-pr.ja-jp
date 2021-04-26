@@ -1,0 +1,81 @@
+### YamlMime:Examination
+title: 'Microsoft Security, Compliance, and Identity Fundamentals (beta)'
+metadata:
+  title: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals (beta)'
+  description: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals (beta)'
+uid: exam.sc-900
+displayName: SC-900
+summary: |-
+  このテストはCloudベースおよび関連するMicrosoftサービス全体でのセキュリティ、コンプライアンス、及びアイデンティティの基礎 (SCI)に親しみたい方のためのものです。
+  
+  この幅広いターゲット層はビジネスの利害関係者、新規または既存のITプロフェッショナル、またはMicrosoftセキュリティ、コンプライアンス、及びアイデンティティ ソリューションに関心のある学生も含まれています。
+  
+  候補者は Microsoft Azure及びMicrosoft 365のことが分かる はずですし、Microsoftのセキュリティ、コンプライアンス、及びアイデンティティ ソリューションはこれらのソリューション領域にまたがって、全体的でエンドツーエンドのソリューションを提供できることも証明する必要があります。
+  
+  <div><br/><font color='red'><strong>当社は質問とテストの品質についてのデータを集めているため、ベータテストはすぐに得点記録されなません。 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ベータテストの価値と重要性についてもっと詳しく知りたい方はこちらへ</a>.</strong></font></div>
+subTitle: 'このテストは下記のことを説明できるかを確認します。 セキュリティ, コンプライアンス、及びアイデンティティの概念すること。Microsoft アイデンティティの機能及び管理ソリューション。 Microsoft セキュリティ ソリューションの能力。 Microsoft コンプライアンス ソリューションの能力。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
+locales:
+- en
+levels:
+- beginner
+skills:
+- セキュリティ、コンプライアンス、およびIDの概念を説明する (5-10%)
+- MicrosoftIDの機能を説明して、管理ソリューションをアクセスする (25-30%)
+- Microsoftセキュリティソリューションの機能を説明する (30-35%)
+- Microsoftコンプライアンスソリューションの機能を説明する (25-30%)
+roles:
+- business-user
+- student
+products:
+- azure
+- azure-active-directory
+- azure-bastion
+- azure-blueprints
+- azure-ddos-protection
+- azure-firewall
+- azure-policy
+- azure-security-center
+- azure-sentinel
+- azure-web-application-firewall
+- m365
+- mem-intune
+- m365-ems-cloud-app-security
+- m365-threat-protection
+- m365-security-score
+- m365-security-center
+- mdatp
+- mem
+- office-365-atp
+paths:
+- uid: learn.wwl.describe-concepts-of-security-compliance-identity
+- uid: learn.wwl.describe-capabilities-of-microsoft-identity-access-management-solutions
+- uid: learn.wwl.describe-capabilities-of-microsoft-security-solutions
+- uid: learn.wwl.describe-capabilities-of-microsoft-compliance-solutions
+relatedCertifications:
+- related:
+    uid: certification.security-compliance-and-identity-fundamentals
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 資格試験のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: ../request-accommodations.md
+- title: 試験のポリシーと FAQ
+  description: 試験ポリシーとよくある質問をご確認ください。
+  href: ../certification-exam-policies.md

@@ -1,0 +1,67 @@
+### YamlMime:Examination
+title: 'Microsoft Identity and Access Administrator （セキュリティテストのベータ）'
+metadata:
+  title: 'Exam SC-300: Microsoft Identity and Access Administrator （セキュリティテストのベータ）'
+  description: 'Exam SC-300: Microsoft Identity and Access Administrator （セキュリティテストのベータ）'
+uid: exam.sc-300
+displayName: SC-300
+summary: |-
+  Microsoftアイデンティティ及びアクセス管理者は組織のアイデンティティをデザインしたり、実装したり、管理します。その上に Azure Active Directory (Azure AD)を使用して管理システムにアクセスします。その方はエンタープライズアプリケーションへの安全な認証および承認アクセスの提供などのタスクを管理します。 管理者は、ユーザーの皆様にシームレスなエクスペリエンスとセルフサービス管理機能を提供します。アダプティブアクセスとガバナンスは、この役割の中核となる要素です。 この役割は、アイデンティティおよびアクセス環境のトラブルシューティング、監視、およびレポート作成も担当します。
+  
+  アイデンティティ及びアクセス管理者は一人、もしくはより大きなチームである可能性もあります。この役割は戦略的アイデンティティプロジェクトを管理してアイデンティティソリューションを現代化したり、ハイブリッドアイデンティティソリューションを実装したり、アイデンティティガバナンスを実装するために組織の他役割と協力します。
+  
+  <div><br/><font color='red'><strong>当社は質問とテストの品質についてのデータを集めているため、ベータテストはすぐに得点記録されなません。 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ベータテストの価値と重要性についてもっと詳しく知りたい方はこちらへ</a>.</strong></font></div>
+subTitle: 'このテストは下記の技術的タスク実行能力を測ります。アイデンティティ管理 ソリューションを実装すること。認証とアクセス管理ソリューションを実装すること。アプリのアクセス管理を実装すること。そして、アイデンティティガバナンス戦略を設計して、実装することです。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp5
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=SC-300&examname=Exam%20SC-300:%20Microsoft%20Identity%20and%20Access%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-300
+locales:
+- en
+levels:
+- advanced
+skills:
+- アイデンティティ管理 ソリューションを実装すること (25-30%)
+- 認証とアクセス管理ソリューションを実装すること (25-30%)
+- アプリのアクセス管理を実装すること (10-15%)
+- アイデンティティガバナンス戦略を設計して、実装すること (25-30%)
+roles:
+- administrator
+- identity-access-admin
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-log-analytics
+- azure-sentinel
+courses:
+- uid: course.sc-300t00
+paths:
+- uid: learn.wwl.implement-identity-management-solution
+- uid: learn.wwl.implement-authentication-access-management-solution
+- uid: learn.wwl.implement-access-management-for-apps
+- uid: learn.wwl.plan-implement-identity-governance-strategy
+relatedCertifications:
+- related:
+    uid: certification.identity-and-access-administrator
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 資格試験のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: ../request-accommodations.md
+- title: 試験のポリシーと FAQ
+  description: 試験ポリシーとよくある質問をご確認ください。
+  href: ../certification-exam-policies.md

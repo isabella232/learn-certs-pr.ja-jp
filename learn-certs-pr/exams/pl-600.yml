@@ -12,10 +12,11 @@ summary: |-
   
   ソリューションアーキテクトは、Power Platformの機能および技術分野にわたる経験があります。ソリューションアーキテクトは、開発、構成、統合、インフラストラクチャ、セキュリティ、可用性、ストレージ、および変更管理全体にわたる設計上の決定を容易にすることができる必要があります。この役割は、機能要件と非機能要件を満たしながら、プロジェクトのビジネスニーズのバランスを取ります。
   
-  <div><br/><font color='red'><strong>注&#58;この試験は2021年3月に利用可能になります。</strong></font></div>
-subTitle: 'この試験は2021年3月に受験可能になります。これは下記技術タスクを行う能力があるかどうかを測る試験です。 ソリューションの構想と要件分析の実行。ソリューションの設計。ソリューションの実装。'
+  <div><br/><font color='red'><strong>当社は質問とテストの品質についてのデータを集めているため、ベータテストはすぐに得点記録されなません。 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ベータテストの価値と重要性についてもっと詳しく知りたい方はこちらへ</a>.</strong></font></div>
+subTitle: 'これは下記技術タスクを行う能力があるかどうかを測る試験です。 ソリューションの構想と要件分析の実行。ソリューションの設計。ソリューションの実装。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=PL-600&examname=Exam%20PL-600:%20Microsoft%20Power%20Platform%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-600
 locales:
 - en
 levels:

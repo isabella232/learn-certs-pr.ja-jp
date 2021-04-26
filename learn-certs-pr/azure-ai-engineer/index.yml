@@ -7,48 +7,71 @@ uid: certification.azure-ai-engineer
 certificationRenewalUid: renewal.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>EXAM AI-100 は<a href='/learn/certifications/exams/ai-102'>EXAM AI-102と</a> 2021年2月23日を以って変更となります。2021年6月30日まではAI-100 の合格認定証を得ることができます。</strong></font><br/><br/></div>
+  <div><font color='red'><strong><a href='/learn/certifications/exams/ai-102'>AI-102のテスト</a> はAI-100テストを置き換えます。 AI-100は2021年6月30日に消えます。</strong></font><br/><br/></div>
   
-  Azure AI Engineer Associate 認定資格の受験者は、認識サービス、機械学習、知識マイニングを使用して、自然言語処理、音声、コンピュータ ビジョン、会話型 AI を含む Microsoft AI ソリューションを設計および実装する、専門知識が必要です。
+  Azure AI Engineer Associate認定の候補者はAzure Cognitive Services、 Azure Cognitive Search、 及びMicrosoft Bot Frameworkを使うAIソリューションの構築、管理、および展開に関する専門知識を有する必要があります。
   
-  このロールの責任には、AI ソリューションの要件の分析、適切なツールとテクノロジの推奨、スケーラビリティとパフォーマンスの要件を満たす AI ソリューションの設計と実装が含まれます。
+  その責任は要件の定義と設計から開発、展開、保守、パフォーマンスチューニング、および監視までのAIソリューション発展のあらゆる段階に参加することです。
   
-  受験生は、ソリューション アーキテクトからビジョンAzure AI Engineer翻訳し、データ科学者、データ エンジニア、IoT スペシャリスト、および AI 開発者と協力して、完全なエンドツーエンドのソリューションを構築します。
+  Azure AI Engineersはソリューションアーキテクトと一緒に自分の構想を実現し、 データサイエンティスト、データエンジニア、IoTスペシャリスト、及びAI開発者と一緒に完全なエンドツーエンドのAIソリューションも構築します。
   
-  この認定資格の受験対象者は、Microsoft Azure Cognitive Services、Azure Bot Service、Azure Cognitive Search、および Azure のデータ ストレージを使用する AI アプリとエージェントの設計と実装に関する知識と経験が必要です。さらに、受験者は、オープン ソース テクノロジを使用するソリューションを推奨し、Azure AI ポートフォリオを構成するコンポーネントと利用可能なデータ ストレージ オプションを理解し、特定の要件を満たすためにカスタム API を開発する必要がある時期を理解できる必要があります。
+  この認定のための候補者はC#、Python、それともJavaScriptを上手に使える必要があって、Azureでのコンピュータビジョン、自然言語処理、知識マイニング、及び会話AIソリューションを作るためにRESTに基づいているAPIとSDKを使える必要もあります。その上に、Azure AIのポートフォリオを構成する部分及び利用可能なデータストレージオプションもきちんと理解する必要があります。そして、候補者は倫理的なAIの原則を知り、適用できる必要もあります。
+  
+  <div><br/><strong>下記の選択肢の一つを完了すると、この認定を得ます&#58;</strong><br/>
+  <ul>
+  <li><a href="/learn/certifications/exams/ai-100">AI-100</a> (2021年6月30に消える) <strong>それとも</strong></li>
+  <li><a href="/learn/certifications/exams/ai-102">AI-102</a> (2021年2月23日にリリースされたベータ版)</li></ul></div>
 subTitle: Azure AIエンジニアは、 Azure Cognitive Services、Azure Cognitive Search、およびMicrosoft Botフレイムワークを活用するAIソリューションを構築、管理、および展開しております。
 levels:
 - intermediate
 skills:
-- ソリューション要件の分析
-- AIソリューションの設計
-- Aiソリューションの実装と監視
+- Azure Cognitive Services解決のプランを作って、管理する
+- コンピュータビジョンソリューションを遂行する
+- 自然言語処理解決を遂行する
+- ナレッジマイニング解決を遂行する
+- 会話解決を遂行する
+- 会話AIソリューションを実装する
 roles:
 - ai-engineer
 type: role-based
 products:
-- azure
-- azure-cognitive-services
 - azure-bot-service
-- azure-machine-learning-studio
-- azure-search
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-custom-vision
+- azure-face
+- azure-form-recognizer
+- azure-language-understanding
+- azure-qna-maker
+- azure-speech
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator
+- azure-translator-speech
+- azure-translator-text
+- azure-video-indexer
 courses:
-- uid: course.ai-100t01
+- uid: course.ai-102t00
 paths:
 - uid: learn.data-ai.evaluate-text-with-language-services
-- uid: learn.data-ai.translate-speech-with-speech-services
-- uid: learn.data-ai.create-bots-with-the-azure-bot-service
+- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
 - uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
+- uid: learn.wwl.process-natural-language-azure-cognitive-language-services
+- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
+- uid: learn.wwl.create-conversational-ai-solutions
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHf
 exams:
-- uid: exam.ai-100
+- uid: exam.ai-102
 resources:
+- title: 認証への道のり
+  description: Azure AI Engineer Associate として認定を受けるための手順と、準備に役立つリソースをご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWy1S2
 - title: Azure 認定資格ポスター
   description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 認証への道のり
-  description: Azure AI Engineer Associate として認定を受けるための手順と、準備に役立つリソースをご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
