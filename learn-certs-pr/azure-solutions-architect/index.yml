@@ -92,4 +92,7 @@ resources:
 - title: 認定資格ダッシュボード
   description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 認定バッジを共有する
+  description: あなたのネットワークで達成を祝います。あなたの Microsoft Certification バッジを申請して LinkedIn や履歴書などに追加してください
+  href: ../badges.md
 
