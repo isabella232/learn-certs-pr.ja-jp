@@ -1,7 +1,7 @@
 ---
 title: 'Request accommodations | Microsoft Docs'
-description: ‘特別な設備のリクエスト' 
-documentationcenter: NA 
+description: '特別な設備のリクエスト'
+documentationcenter: NA
 author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -26,7 +26,7 @@ ms.prod: non-product-specific
 
 ## Certiportを通じて配信される試験の場合：
 
-試験が母国語で利用できないため、特別な機器が必要な場合、または試験の受験時にその他の特別な設備をリクエストする場合は、[ここ](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations) に記載されているプロセスに従って、Certiportを通じて宿泊施設をリクエストできます。
+試験を母国語で利用できないため、特別な機器が必要な場合、または試験の受験時にその他の特別な機器をリクエストする場合は、[ここ](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations) に記載されているプロセスに従って、Certiportを通じて適切措置をリクエストすることが可能です。
 
 ## <a name="for-exams-delivered-through-psi"></a> PSIを通じて配信される試験の場合：
 
