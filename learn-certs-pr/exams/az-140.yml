@@ -12,7 +12,7 @@ summary: |-
   
   このテストのための候補者はAzureのエキスパートレベルの管理スキルが必要です。
   
-  <div><br/><font color='red'><strong>当社は質問とテストの品質についてのデータを集めているため、ベータテストはすぐに得点記録されなません。 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ベータテストの価値と重要性についてもっと詳しく知りたい方はこちらへ</a>.</strong></font></div>
+  <div><br/><font color='red'><strong>当社は質問とテストの品質についてのデータを集めているため、ベータテストはすぐに得点記録されなません。 <a href="/learn/certifications/beta-exams">ベータテストの価値と重要性についてもっと詳しく知りたい方はこちらへ</a>.</strong></font></div>
 subTitle: 'このテストでは、下記の技術的タスクを達成する能力を測定します。 Windows Virtual Desktop アーキテクチャを設計すること。 Windows Virtual Desktop インフラを実装すること。アクセス及びセキュリティを管理すること。ユーザ環境及びアプリを管理すること。 Windows Virtual Desktop インフラを監視および維持すること。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFST
@@ -58,10 +58,10 @@ relatedCertifications:
 resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認証ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md
