@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Commerce Functional Consultant (beta)
+metadata:
+  title: 'MB-340: Microsoft Dynamics 365 Commerce Functional Consultant (beta)'
+  description: 'MB-340: Microsoft Dynamics 365 Commerce Functional Consultant (beta)'
+uid: exam.mb-340
+displayName: MB-340
+summary: |-
+  この試験の受験者は、Dynamics 365 Commerceのアプリケーション機能を設定して使用、かつアプリケーション向けのサポートを提供します。
+  
+  彼らは、ユニファイドコマースの事業運営について深い理解を持っていることを前提とします。Dynamics 365 Commerceの構成、展開、および維持の経験がある場合があります。
+  
+  <div><font color='red'><strong>注：この試験は2021年6月または7月に利用可能となります。</strong></font><br/><br/></div>
+subTitle: 'この試験は、2021年6月または7月に利用可能となります。この試験では、次の技術タスクを実行する能力を測定します。Dynamics 365 Commerce司令部の構成、製品、価格、ディスカウント、ロイヤルティ、および所属の構成、 Dynamics 365 Commerceで販売時点（POS）の管理、 Dynamics 365Commerceコールセンターを構成および管理、 eコマースの管理。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKn
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Dynamics 365 Commerce司令部の構成(20-25%)
+- 製品、価格、ディスカウント、ロイヤルティ、および所属の構成(20-25%)
+- Dynamics 365 Commerceでの販売時点（POS）の管理(15-20%)
+- Dynamics 365 Commerceコールセンターの構成と管理(10-15%)
+- eコマースの管理(15-20%)
+roles:
+- functional-consultant
+products: 
+- dynamics-365
+- dynamics-commerce
+- dynamics-cust-svc-insights
+- dynamics-retail
+- dynamics-sales
+exams:
+- uid: exam.mb-300
+relatedCertifications:
+- related:
+    uid: certification.d365-functional-consultant-commerce
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 資格試験のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 宿泊施設をリクエスするト
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: ../request-accommodations.md
+- title: 試験のポリシーと FAQ
+  description: 試験ポリシーとよくある質問をご確認ください。
+  href: ../certification-exam-policies.md

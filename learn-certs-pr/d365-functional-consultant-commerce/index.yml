@@ -1,0 +1,58 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate'
+  description: 'Dynamics 365 Commerce機能コンサルタントは、Dynamics 365 Commerceのアプリケーション機能を設定して使用し、アプリケーションのサポートを提供します。'
+uid: certification.d365-functional-consultant-commerce
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Dynamics 365 Commerceを使用してチームと組織をサポートしている機能コンサルタント、開発者、インフォメーションワーカー、ITまたはビジネスの専門家にとって、この認定資格はキャリアを後押しする際に役立つものとなります。この認定資格の候補者として、Dynamics 365 Commerceアプリケーションを構成、展開、および維持します。
+  
+  候補者は、ユニファイドコマースの事業運営について十分に理解している必要があります。 彼らは、Dynamics 365 Commerce司令部を構成し、コマースコールセンターの構成と管理、コマースの販売時点（POS）の管理、eコマースの管理、製品、価格、ディスカウント、ロイヤルティ、および提携の構成を行います。
+  
+  この認定を取得する前にさらに経験が必要な方には、いくつかのご提案がございます&#58;
+  
+  - 一部のDynamics 365 Commerceプロジェクトで機能コンサルタントと協力。
+  - Microsoft Learnを使って自分のペースで学習。
+  - インストラクター主導のトレーニングコースに登録。
+subTitle: 'Dynamics 365 Commerce機能コンサルタントは、Dynamics 365 Commerceのアプリケーション機能を設定して使用し、アプリケーションのサポートを提供します。'
+levels:
+- intermediate
+skills:
+- Dynamics 365 Commerce司令部の構成(20-25%)
+- 製品、価格、ディスカウント、ロイヤルティ、および所属の構成(20-25%)
+- Dynamics 365 Commerceでの販売時点（POS）の管理(15-20%)
+- Dynamics 365 Commerceコールセンターの構成と管理(10-15%)
+- eコマースの管理 (15-20%)
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-commerce
+- dynamics-cust-svc-insights
+- dynamics-retail
+- dynamics-sales
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKp
+exams:
+- uid: exam.mb-300
+- uid: exam.mb-340
+resources:
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://aka.ms/TrainingCertDeck
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定バッジを共有する
+  description: あなたのネットワークで達成を祝います。あなたの Microsoft Certification バッジを申請して LinkedIn や履歴書などに追加してください
+  href: ../badges.md

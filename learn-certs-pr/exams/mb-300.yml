@@ -7,14 +7,14 @@ uid: exam.mb-300
 displayName: MB-300
 summary: |-
   <div>
-  <div><strong>この試験の内容は2020年10月16日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong><br/><br/></div>
+  <div><font color='red'><strong>この試験の内容は2020年10月16日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong></font><br/><br/></div>
   </div>
-
+  
   この試験の受験者は、ビジネス要件を分析し、それらの要件を、業界のベストプラクティスを実装する完全に実現されたビジネスプロセスとソリューションに変換します。候補者は、ビジネス要件を満たすようにアプリケーションを実装および構成する際の重要なリソースとして機能します。
   <br/>
-
-  候補者は、Finance and Operationsアプリの一般的な機能と機能、およびそれぞれを構成して使用する方法を理解しています。 また、Finance andOperationsアプリがパワープラットフォームなどの外部システムやツールとどのように統合されているかについても認識している必要があります。候補者は、ライフサイクルサービス（LCS）およびその他のマイクロソフトのツールとプラットフォームを使用して、アプリケーションのライフサイクルを積極的に管理します。
-
+  
+  候補者は、Finance and Operationsアプリの一般的な機能と機能、およびそれぞれを構成して使用する方法を理解しています。 また、Finance and Operationsアプリがパワープラットフォームなどの外部システムやツールとどのように統合されているかについても認識している必要があります。候補者は、ライフサイクルサービス（LCS）およびその他のマイクロソフトのツールとプラットフォームを使用して、アプリケーションのライフサイクルを積極的に管理します。
+  
   この試験の受験者は通常、財務、製造、サプライチェーン管理などの財務および運用アプリの1つ以上の機能セットを専門としています。
 subTitle: 'この試験では、次の技術的タスクを達成する能力を測定します。共通の機能と実装ツールの使用。 セキュリティ、プロセス、およびオプションの構成。 財務および運用データの管理。 ソリューションを検証してサポート。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -33,7 +33,7 @@ skills:
 - ソリューションの検証とサポート(15-20%)
 roles:
 - functional-consultant
-products:
+products: 
 - dynamics-365
 - dynamics-finance-operations
 - dynamics-finance
@@ -41,6 +41,7 @@ exams:
 - uid: exam.mb-310
 - uid: exam.mb-320
 - uid: exam.mb-330
+- uid: exam.mb-340
 courses:
 - uid: course.mb-300t00
 paths:
@@ -51,16 +52,16 @@ paths:
 - uid: learn-dynamics.configure-analytics-reporting-finance-operations
 relatedCertifications:
 - related:
-    uid: certification.d365-functional-consultant-financials
-- related:
     uid: certification.d365-functional-consultant-manufacturing
+- related:
+    uid: certification.d365-functional-consultant-commerce
 resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

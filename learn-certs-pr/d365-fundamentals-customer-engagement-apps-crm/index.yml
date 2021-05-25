@@ -1,15 +1,15 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 Fundamentals Customer Engagement Apps (CRM)'
+title: 'Microsoft Certified: Dynamics 365 Fundamentals (CRM)'
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Fundamentals Customer Engagement Apps (CRM)'
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals (CRM)'
   description: '事業運営、顧客関係管理 （CRM） に精通しており、IT に精通している (一般的または実務経験を通じて) 場合、この認定資格を利用してこれらのスキルを示します。Dynamics 365 の顧客エンゲージメント機能に対する広範な露出を検証して、キャリア パスを強化します。'
 uid: certification.d365-fundamentals-customer-engagement-apps-crm
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  事業運営、顧客関係管理 （CRM） に精通しており、IT に精通している (一般的または実務経験を通じて) 場合、この認定資格を利用してこれらのスキルを示します。Dynamics 365 の顧客エンゲージメント機能に対する広範な露出を検証して、キャリア パスを強化します。 
+  事業運営、顧客関係管理 （CRM） に精通しており、IT に精通している (一般的または実務経験を通じて) 場合、この認定資格を利用してこれらのスキルを示します。Dynamics 365 の顧客エンゲージメント機能に対する広範な露出を検証して、キャリア パスを強化します。
   
   異なる役割を持ち、キャリアのさまざまな段階で、この基礎認定の恩恵を受けることができます。以下の例をご覧ください。
-  - 操作するアプリケーションの一般的な理解を示したい IT プロフェッショナル 
+  - 操作するアプリケーションの一般的な理解を示したい IT プロフェッショナル
   - Dynamics 365 の知識があり、スキルや経験を検証したいビジネス関係者およびその他の人
   - ビジネス オペレーションおよび CRM に対する理解を示したい開発者
   - Dynamics 365の顧客エンゲージメント機能を使って次のレベルまで登りたい学生、最新卒業生、と転職をする人。
@@ -17,12 +17,12 @@ subTitle: '事業運営、顧客関係管理 （CRM） に精通しており、I
 levels:
 - beginner
 skills:
-- Dynamics 365 Marketing の説明 
+- Dynamics 365 Marketing の説明
 - Dynamics 365 Sales の説明
-- Dynamics 365 Customer Service の説明 
-- Dynamics 365 Field Service の説明 
-- Project Operations の説明 
-- 共有機能の説明 
+- Dynamics 365 Customer Service の説明
+- Dynamics 365 Field Service の説明
+- Project Operations の説明
+- 共有機能の説明
 roles:
 - business-owner
 - business-user
@@ -52,7 +52,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAmVj
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認証ラーニングパス
   description: 必要なテストを受けて、認証を獲得するためのおすすめトレーニングリソース。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAs3I
