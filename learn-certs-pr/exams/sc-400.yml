@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Information Protection Administrator （セキュリティテストのベータ）'
+title: 'Microsoft Information Protection Administrator'
 metadata:
-  title: 'Exam SC-400: Microsoft Information Protection Administrator （セキュリティテストのベータ）'
-  description: 'Exam SC-400: Microsoft Information Protection Administrator （セキュリティテストのベータ）'
+  title: 'Exam SC-400: Microsoft Information Protection Administrator'
+  description: 'Exam SC-400: Microsoft Information Protection Administrator'
 uid: exam.sc-400
 displayName: SC-400
 summary: |-
@@ -11,8 +11,6 @@ summary: |-
   彼らは組織の規制要件に十分に対応するために必要なポリシーと制御をサポートするテクノロジを実装するために情報技術（IT）人員、ビジネスアプリケーションの所有者、人事、および法的な利害関係者と一緒に働きます。その上に、チーフ・コンプライアンス・オフィサー及び セキュリティ責任者のようなコンプライアンス及びセキュリティのリーダーシップと一緒に働いて、 関連するエンタープライズリスクの全範囲を評価し、それらのポリシーを開発するために協力します。
   
   この担当者は、適用可能な要件を定義し、それらのポリシーと制御に対してITプロセスと運用を試します。彼らは、コンテンツの分類、データ損失防止、ガバナンス、および保護のためのポリシーとルールを作成する責任があります。
-  
-  <div><br/><font color='red'><strong>当社は質問とテストの品質についてのデータを集めているため、ベータテストはすぐに得点記録されなません。 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ベータテストの価値と重要性についてもっと詳しく知りたい方はこちらへ</a>.</strong></font></div>
 subTitle: 'このテストは技術的タスクの達成能力を測ります。情報保護を実装すること。データ損失防止を実装すること。情報ガバナンスを実装すること。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr80
@@ -47,10 +45,10 @@ relatedCertifications:
 resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定ポスター
   description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

@@ -1,16 +1,14 @@
 ### YamlMime:Examination
-title: Data Engineering on Microsoft Azure (beta)
+title: Data Engineering on Microsoft Azure
 metadata:
-  title: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
-  description: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
+  title: 'Exam DP-203: Data Engineering on Microsoft Azure'
+  description: 'Exam DP-203: Data Engineering on Microsoft Azure'
 uid: exam.dp-203
 displayName: DP-203
 summary: |-
   Azure データエンジニアリングは、様々な構造化データシステムと非構造化データシステムのデータを分析ソリューションの構築に適した構造に統合、変換、強化します。
   
-  試験DP-203の候補者として&#58;Data Engineering on Microsoft Azureには、SQL、Python、Scalaなどのデータ処理言語に関する確かな知識が必要であり、並列処理とデータアーキテクチャのパターンを理解している必要があります。
-  
-  <div><br/><font color='red'><strong>当社は質問とテストの品質についてのデータを集めているため、ベータテストはすぐに得点記録されなません。 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ベータテストの価値と重要性についてもっと詳しく知りたい方はこちらへ</a>.</strong></font></div>
+  試験DP-203の候補者として&#58; Data Engineering on Microsoft Azureには、SQL、Python、Scalaなどのデータ処理言語に関する確かな知識が必要であり、並列処理とデータアーキテクチャのパターンを理解している必要があります。
 subTitle: 'これは下記技術タスクを行う能力があるかどうかを測る試験です。データストレージの設計と実装。データ処理の設計と開発。データセキュリティの設計と実装。データストレージとデータ処理を監視および最適化。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT
@@ -33,6 +31,8 @@ products:
 - azure-event-hubs
 - azure-data-lake
 - azure-databricks
+courses:
+- uid: course.dp-203t00
 paths:
 - uid: learn.data-ai.azure-for-the-data-engineer
 - uid: learn.store-data-in-azure
@@ -53,10 +53,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

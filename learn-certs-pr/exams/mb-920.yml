@@ -1,20 +1,18 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)
+title: Microsoft Dynamics 365 Fundamentals (ERP)
 metadata:
-  title: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)'
-  description: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)'
+  title: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)'
+  description: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)'
 uid: exam.mb-920
 displayName: MB-920
 summary: |-
   この試験では、Microsoft Dynamics 365 ファイナンスおよびオペレーション アプリの機能について説明します。
   
   この試験の受験者は情報科学 (IT) 環境の一般的な知識もしくは関連する実務経験を持っている必要があります。また、財務原則と事業運営に関する基本的な理解を持っている必要があります。
-  
-  <div><br/><font color='red'><strong>当社は質問とテストの品質についてのデータを集めているため、ベータテストはすぐに得点記録されなません。 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ベータテストの価値と重要性についてもっと詳しく知りたい方はこちらへ</a>.</strong></font></div>
 subTitle: 'このテストは下記のことをどのくらい説明できるかを測ります: Dynamics 365 Supply Chain Management; Dynamics Finance; Dynamics 365 Commerce; Dynamics 365 Human Resources; プロジェクト運営; および共有機能。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JFBT
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-920&examname=Exam%20MB-920:%20Microsoft%20Dynamics%20365%20Fundamentals%20Finance%20and%20Operations%20Apps%20(ERP)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-920
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-920&examname=Exam%20MB-920:%20Microsoft%20Dynamics%20365%20Fundamentals%20(ERP)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-920
 locales:
 - en
 levels:
@@ -34,6 +32,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-finance-operations
+courses:
+- uid: course.mb-920t00
 paths:
 - uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
 - uid: learn.wwl.explore-microsoft-dynamics-365-finance
@@ -49,7 +49,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認証ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

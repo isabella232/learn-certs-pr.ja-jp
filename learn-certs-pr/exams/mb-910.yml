@@ -1,16 +1,14 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)
+title: Microsoft Dynamics 365 Fundamentals (CRM)
 metadata:
-  title: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)'
-  description: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)'
+  title: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
+  description: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
 uid: exam.mb-910
 displayName: MB-910
 summary: |-
-  この試験では、Microsoft Dynamics 365 の顧客エンゲージメント アプリの機能について説明します。
+  この試験は、Microsoft Dynamics 365カスタマーエンゲージメントアプリの特徴や機能も出題範囲となっています。
   
   この試験の受験者は情報科学 (IT) 環境の一般的な知識もしくは関連する実務経験を持っている必要があります。また、顧客エンゲージメントの原則とビジネス オペレーションの基本的な理解も必要です。
-  
-  <div><br/><font color='red'><strong>当社は質問とテストの品質についてのデータを集めているため、ベータテストはすぐに得点記録されなません。 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ベータテストの価値と重要性についてもっと詳しく知りたい方はこちらへ</a>.</strong></font></div>
 subTitle: 'この試験では、次の項目について説明する能力を評価します。Dynamics 365 Marketing、Dynamics 365 Sales、Dynamics 365 Customer Service、Dynamics 365 Field Service、Project Operations、および共有機能'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIev
@@ -51,7 +49,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAs3I
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認証ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

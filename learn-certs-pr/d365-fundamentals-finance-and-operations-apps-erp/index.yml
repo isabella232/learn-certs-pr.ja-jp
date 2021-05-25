@@ -1,7 +1,7 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
   description: 'Dynamics 365 のエンタープライズ リソース プランニング (ERP) 機能に幅広く触れ、ファイナンスおよびオペレーション アプリが Microsoft のエコシステム全体にどのように適合するかについて理解している場合は、この認定資格が適しています。'
 uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
@@ -15,7 +15,7 @@ summary: |-
   - Dynamics 365 の楽しい語り方を使用しているアプリと統合する方法を模索している技術専門家とビジネスの意思決定者
   - Dynamics 365 を使用して、プラットフォームの基本を理解していることを実証するビジネス関係者およびその他のユーザー
   - 事業運営、財務、ERP についてより深い理解を示したい開発者
-  - Dynamics 365のファイナンスおよびオペレーション アプリを活用して次のレベルに移行したい学生、新卒、およびキャリア チェンジをする方
+  - 受講者、最近の卒業生、およびDynamics 365の財務および運用アプリを最大限に活用し次のレベルに移行したい転職希望者
 subTitle: 'Dynamics 365 のエンタープライズ リソース プランニング (ERP) 機能に幅広く触れ、ファイナンスおよびオペレーション アプリが Microsoft のエコシステム全体にどのように適合するかについて理解している場合は、この認定資格が適しています。'
 levels:
 - beginner
@@ -35,6 +35,8 @@ type: fundamentals
 products: 
 - dynamics-365
 - dynamics-finance-operations
+courses:
+- uid: course.mb-920t00
 paths:
 - uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
 - uid: learn.wwl.explore-microsoft-dynamics-365-finance
@@ -53,7 +55,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAWQX
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認証ラーニングパス
   description: 必要なテストを受けて、認証を獲得するためのおすすめトレーニングリソース。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ
