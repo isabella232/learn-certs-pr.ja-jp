@@ -95,7 +95,6 @@ outlineSection: |-
   - ストレージレプリカの計画と実装
 
   #### Lab &#58; Implementing a Storage Spaces Direct cluster
-  - Windows Admin Centerを使用したStorage Spaces Directクラスターの実装
   - Windows Power Shellを使用したStorage Spaced Directクラスターの実装
   - Windows Admin CenterとWindows Power Shellを使用したStorage Spaces Directクラスターの管理
   - Storage Spaces Directクラスターの復元力の管理と監視

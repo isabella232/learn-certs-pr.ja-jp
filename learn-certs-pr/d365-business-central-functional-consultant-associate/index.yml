@@ -6,9 +6,17 @@ metadata:
 uid: certification.d365-business-central-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Dynamics 365 Business Central Functional Consultant は、中小企業向けのコア アプリケーション セットアップ プロセスの実装を担当します。
-
-  <div><br/><strong>注意&#58; この認定資格は、2020 年 10 月 6 日頃に利用可能になります。</strong></div>
+  中小企業向けのコアMicrosoft Dynamics 365 Business Centralセットアッププロセスを実装する機能コンサルタントの場合、この認定資格はあなたにぴったりです。インサイト、キュー、アクションタイル、レポート、グラフの調整など、Dynamics 365 Business Centralロールセンターの構成の経験が必要です。また、Microsoft Power Platformコンポーネントを使用してBusiness Centralを拡張できるはずです。
+  
+  Business Centralの知識を応用し、業界の用語、優先順位、標準、方法論、およびベストプラクティスを理解している必要があります。この知識があり、管理者、品質保証、DevOps、開発者、UXデザイナー、ソリューションアーキテクトなどの役割を担っている場合は、Dynamics 365 Business Central Functional Consultant Associate認定が最適です。
+  
+  この認定を取得する前にさらに経験が必要な場合は、いくつかのご提案があります&#58;
+  - 1つ以上のプロジェクトでBusiness Central Functional Consultant として仕事。
+  - Business Centralコンサルティングプロジェクトに貢献するか、Business Centralの実装の提供を支援。
+  - メンターを探す。
+  - [Dynamics 365コミュニティ](https://community.dynamics.com/)に参加。
+  - Microsoft Learnで利用可能な学習パスを取得し、より実践的な練習の完了。
+  - インストラクター主導のトレーニングコースに登録。
 subTitle: この認定資格は、2020 年 10 月 6 日頃に利用可能になります。Dynamics 365 Business Central Functional Consultant は、中小企業向けのコア アプリケーション セットアップ プロセスの実装を担当します。
 levels:
 - intermediate
@@ -50,7 +58,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

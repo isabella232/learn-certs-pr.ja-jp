@@ -6,18 +6,10 @@ metadata:
 uid: exam.az-204
 displayName: AZ-204
 summary: |-
-  <div>
-  <div><strong>この試験の内容は、2020 年 5 月 18 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  <div> <div> <font color='red'> <strong>この試験の内容は2021年3月26日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong> </font> <br/> <br/> </div>
   </div>
 
-  この試験の受験者は、Microsoft Azure でのクラウド アプリケーションとサービスの設計、構築、テスト、および保守に関する専門知識を持っている必要があります。
-
-  Azure 開発者の責任には、要件の定義と設計から開発、デプロイ、メンテナンスに至るまで、クラウド開発のすべてのフェーズに参加することが含まれます。パフォーマンスの調整と監視。
-  <br/>
-
-  Azure 開発者は、クラウド ソリューション アーキテクト、クラウド DBA、クラウド管理者、およびクライアントと提携して、ソリューションを実装します。
-
-  この試験の受験者には、1〜2 年の専門的な開発経験と Microsoft Azure の経験が必要です。さらに、このロールには、Azure でサポートされている言語でのプログラミング能力と、Azure SDK、Azure PowerShell、Azure CLI、データ ストレージ オプション、データ接続、API、アプリの認証と承認、コンピューティングとコンテナのデプロイ、デバッグ、パフォーマンスの調整、および監視に関する能力が必要です。
+  この認定資格の候補者は、1〜2年の専門能力開発の経験とMicrosoft Azureの経験が必要です。さらに、この役割の候補者は、Azureでサポートされている言語でプログラミングできる能力と、Azure SDK、Azure PowerShell、Azure CLI、データストレージオプション、データ接続、API、アプリの認証と承認、コンピューティングとコンテナーの展開、デバッグ、パフォーマンスチューニング、およびモニタリングに関して習熟している必要があります。 
 
   この認定試験に合格すると、ACEカレッジの単位を取得できる可能性がございます。詳細については、[認定試験のためのACEカレッジクレジット](/learn/certifications/ace-credit-for-certification-exams) をご参照ください。
 subTitle: '本試験では、以下の技術的タスクを遂行できる能力を査定します。Azure 計算ソリューションの開発、Azure ストレージの開発、Azure セキュリティの実装、Azure ソリューションの監視、トラブルシューティング、最適化、Azureサービスとサードパーティ サービスの接続と利用。'
@@ -36,12 +28,12 @@ providers:
 levels:
 - intermediate
 skills:
-- この試験の内容は、2020 年 5 月 18 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- この試験の内容は2021年3月26日に更新されました。変更点を確認するには、以下の試験スキルの概要をダウンロードしてください。
 - Azure 計算ソリューションの開発 (25-30%)
-- Azure ストレージを開発 (10-15%)
-- Azure Security の実装 (15-20%)
-- Azure ソリューションの監視、トラブルシューティング、最適化 (10-15%)
-- Azure サービスとサードパーティサービスの連携と活用 (25-30%)
+- Azure ストレージを開発 (15-20%)
+- Azure Security の実装 (20-25%)
+- Azure ソリューションの監視、トラブルシューティング、最適化 (15-20%)
+- Azure サービスとサードパーティサービスの連携と活用 (15-20%)
 roles:
 - developer
 products:
@@ -92,10 +84,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

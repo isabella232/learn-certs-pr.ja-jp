@@ -6,8 +6,7 @@ metadata:
 uid: exam.pl-900
 displayName: PL-900
 summary: |-
-  <div>
-  <div><strong>この試験の内容は、2020 年 7 月 13 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  <div> <div> <font color='red'> <strong>この試験の内容は2021年3月10日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong> </font> <br/> <br/> </div>
   </div>
 
   この試験の受験者は、Power Platform の機能を理解し、Power Automate で基本的なビジネス プロセスを自動化し、Power BI で基本的なデータ分析を実行し、シンプルな Power App を作成することでより効果的に行動し、Power Virtual Agents を使用して強力なチャット ボットを作成することで、生産性の向上を目指します。
@@ -34,7 +33,7 @@ providers:
 levels:
 - beginner
 skills:
-- この試験の内容は、2020 年 7 月 13日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- この試験の内容は2021年3月10日に更新されました。変更点を確認するには、以下の試験スキルの概要をダウンロードしてください。
 - Power Platform のビジネス価値について説明する (15-20%)
 - Power Platform のコア コンポーネントを特定する (15-20%)
 - Power BI の機能を実証する (15-20%)
@@ -60,7 +59,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gn
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定ポスター
   description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

@@ -1,0 +1,134 @@
+### YamlMime:Course
+title: 'Microsoft Certified:  Dynamics 365 Fundamentals (CRM)'
+metadata:
+  title: 'Course MB-910T00--A: Microsoft Certified:  Dynamics 365 Fundamentals (CRM)'
+  description: 'Course MB-910T00--A: Microsoft Certified:  Dynamics 365 Fundamentals (CRM)'
+uid: course.mb-910t00
+courseNumber: 'MB-910T00'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill:  Dynamics 365 Marketingの機能説明
+- skill: Dynamics 365 Salesの機能説明
+- skill: Dynamics 365 Customer Serviceの機能説明
+- skill: Dynamics 365 Field Serviceの機能説明
+- skill: Dynamics 365 Project Operations (CRM)の機能説明
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-owner
+products:
+- dynamics-365
+summary: |-
+  このコースでは、Dynamics 365のカスタマーエンゲージメント機能を幅広く紹介します。カスタマーエンゲージメントの概念と、Dynamics 365マーケティングアプリ、Dynamics 365セールス、Dynamics365などの各カスタマーエンゲージメントアプリ（ Dynamics 365 Marketing、Dynamics 365 Sales、 Dynamics 365 Customer Service、Dynamics 365 Field Service、Dynamics 365プロジェクトオペレーションの顧客関係管理（CRM）機能を含む）について理解して頂きます。このコースには、講義とハンズオンラボが含まれます。
+
+  #### オーディエンスプロフィール
+  さまざまな役割を持ち、キャリアのさまざまな段階にある人々は、この基礎コースの恩恵を受けることができます。これには、Dynamics 365のカスタマーエンゲージメント機能に触れたいITプロフェッショナル、ビジネス関係者など、学生、卒業したばかりの方、Dynamics 365を活用して次のレベルに移行したい転職者が含まれます。
+prerequisitesSection: 受講者は、顧客エンゲージメントの原則と事業運営について基本的な理解を持っている必要があります。cloudコンピューティングに関する理解も役には立ちますが、必須ではありません。
+outlineSection: |-
+  ### モジュール 1&#58; Dynamics 365 Marketingの基礎を学ぶ
+  このモジュールでは、Dynamics 365 Marketingに飛び込む前に、カスタマーエンゲージメントの基本概念とカスタマーエンゲージメントアプリに共通するものについて説明致します。まず、標準的なマーケティングビジネスプロセスと、マーケティングがそれらに対処する方法から始めます。次に、製品の機能を調べます。最後に、LinkedIn Campaign Manager、Dynamics 365 Customer Voice、Dynamics 365 Customer Insightsなどの追加のマーケティングアプリについて説明致します。
+  #### レッスン
+  - Dynamics 365カスタマーエンゲージメントアプリの紹介
+  - Dynamics 365 Marketing検査
+  - Dynamics 365のマーケティング機能についての説明
+  - 追加のマーケティングアプリの確認
+
+  #### ラボ&#58; カスタマーエンゲージメントアプリの操作
+  
+  #### ラボ&#58; 顧客と活動の管理
+  
+  #### ラボ&#58; データの検索とフィルタリング
+  
+  #### ラボ&#58; Dynamics 365 MarketingCapstoneラボ
+  - マーケティングメールの作成
+  - Dynamics 365 Marketingでセグメントの作成
+  - カスタマージャーニーの作成
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - カスタマーエンゲージメントアプリとそれらに共通するものについての説明
+  - 標準のマーケティングプロセスと、Dynamics 365 Marketingがそれらにどのように対処するかの説明
+  - Dynamics 365 Marketingの特徴と機能についての説明
+  - 追加のマーケティングアプリについての説明
+
+  
+  ### モジュール 2&#58; Dynamics 365 Salesの基礎を学ぶ
+  このモジュールでは、Dynamics 365 Salesの概要を説明致します。まず、標準的な販売ビジネスプロセスと、販売がそれらに対処する方法から始めます。次に、製品の機能を調べます。最後に、Sales InsightsやSales Navigatorなどの追加の販売アプリについて説明致します。
+  #### レッスン
+  - Dynamics 365 Salesの探求
+  - Dynamics 365 Salesを使用して販売ライフサイクルの管理
+  - 追加の販売アプリ確認
+  
+  #### ラボ&#58; Dynamics 365 Sales Capstoneラボ
+  - リードを作成して認定
+  - 販売機会の管理
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - 標準の販売プロセスと、Dynamics 365 Salesがそれらにどのように対処するか説明
+  - Dynamics 365の販売機能についての説明
+  - Sales InsightsやSales Navigatorなどの追加の販売アプリについての説明
+
+  
+ 
+  ### モジュール 3&#58; Dynamics 365 Customer Serviceの基礎を学ぶ
+  このモジュールでは、Dynamics 365 Customer Serviceの概要を説明致します。まず、標準カスタマーサービスビジネスプロセスと、 カスタマーサービスがそれらに対処する方法から始めます。次に、製品の機能を調べます。最後に、Customer Service用Omnichannel 、Dynamics 365 Customer Service Insights、カスタマーサービススケジューリング、継続的なカスタマーサービス など追加の カスタマーサービスアプリについて説明致します。
+  #### レッスン
+  - Dynamics 365 Customer Serviceの検査
+  - Dynamics Customer Service機能についての説明
+  - 追加の カスタマーサービスアプリの確認
+  
+  #### ラボ&#58; Dynamics 365 Capstoneラボ
+  - ナレッジ記事を作成して公開
+  - ライフサイクルを通じてサポートケースを管理
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - 標準の Customer Serviceプロセスと、Dynamics 365 Customer Serviceがそれらにどのように対処するかの説明
+  - Dynamics Customer Service機能についての説明
+  - Sales InsightsやSales Navigatorなどの追加の販売アプリについての説明
+
+  
+  ### モジュール 4&#58; Dynamics 365 Field Serviceの基礎を学ぶ
+  このモジュールでは、Dynamics 365 Field Serviceの概要を説明致します。まず、標準の Field Serviceビジネスプロセスと、 Field Serviceがそれらに対処する方法から始めます。次に、作業指示書の生成、スケジューリング、在庫管理、資産管理などの製品機能を調べます。
+  #### レッスン
+  - Dynamics Field Serviceの検査
+  - Dynamics 365 Field Serviceで作業指示書の作成
+  - Dynamics 365 Field Serviceのスケジューリング機能についての説明
+  - Dynamics 365 Field Serviceの在庫管理機能の検査
+  - Dynamics 365 Field Serviceの資産管理機能の確認
+  
+  #### ラボ&#58; Dynamics 365 Capstoneラボ
+  - ケースを作成し、作業指示書の拡大
+  - Dynamics 365 Field Serviceを使用してアイテムのスケジュール決定
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - 標準の Field Serviceビジネスプロセスと、Dynamics 365 Field Serviceがどのように対処するかの説明
+  - 作業指示書を作成する方法の説明
+  - Dynamics 365 Field Serviceのスケジューリング機能についての説明
+  - Dynamics 365 Field Serviceの在庫管理機能についての説明
+  - Dynamics 365 Field Serviceの資産管理機能についての説明
+
+  
+  ### モジュール 5&#58; Dynamics 365Project Operations （CRM）の基礎を学ぶ
+  このモジュールでは、Dynamics 365 Project Operations のカスタマーエンゲージメントの側面について紹介します。まず、標準のプロジェクトベースのビジネスプロセスと、Project Operationsがそれらに対処する方法から始めます。次に、販売、プロジェクト管理、リソース使用率などの製品機能を調べます。
+  #### レッスン
+  - Dynamics 365プロジェクトの運用の検査
+  - Dynamics 365 Project Operationsの販売機能についての説明
+  - Dynamics 365 Project Operationsを使用してプロジェクトの計画
+  - Dynamics 365 Project Operationsのリソース使用率機能の確認
+  
+  #### ラボ&#58; Dynamics 365 Project Operations Capstoneラボ
+  - プロジェクトベースのリードの作成
+  - プロジェクトベースの機会の管理
+  - プロジェクト見積もりとプロジェクト見積もりの作成
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Dynamics 365 Project Operationsが対応するプロジェクトベースの顧客エンゲージメントプロセスについての説明
+  - Dynamics 365 Project Operationsの販売機能についての説明
+  - Dynamics 365 Project Operationsのプロジェクト管理機能についての説明
+  - Dynamics 365 Project Operationsのリソース使用率機能についての説明
+  
+  #### 追加資料
+  Microsoft Learnでこのコースに関連するコンテンツをご確認ください。製品ごとに個別の学習パスがあることに注意してください。

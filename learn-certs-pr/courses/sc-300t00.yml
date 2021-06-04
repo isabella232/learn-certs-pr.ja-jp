@@ -1,0 +1,170 @@
+### YamlMime:Course
+title: Microsoft Identity and Access Administrator
+metadata:
+  title: 'Course SC-300T00-A: Microsoft Identity and Access Administrator'
+  description: 'Course SC-300T00-A: Microsoft Identity and Access Administrator'
+uid: course.sc-300t00
+courseNumber: 'SC-300T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: ID管理ソリューションの実装
+- skill: 認証およびアクセス管理ソリューションの実装
+- skill: アプリのアクセス管理の実装
+- skill: IDガバナンス戦略を計画かつ実装
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+- identity-access-admin
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-log-analytics
+- azure-sentinel
+exams:
+- uid: exam.sc-300
+summary: |-
+  このコースでは、IT IDとアクセス専門家やITセキュリティ専門家に、Microsoft Azure ADに基づくID管理ソリューションを実装するために必要な知識とスキルをご提供します。このコースには、Azure ADのIDコンテンツ、エンタープライズアプリケーションの登録、条件付きアクセス、IDガバナンス、およびその他のIDツールが含まれています。
+
+  #### オーディエンスプロフィール
+  このコースは、関連する認定試験を受けることを計画している、または日常業務でIDおよびアクセス管理タスクを実行しているIDおよびアクセス管理者を対象としています。このコースは、AzureベースのソリューションにIDソリューションとアクセス管理システムを提供することに特化したい管理者またはエンジニアにも組織を保護する上で不可欠な役割を果たす点において役立ちます。
+prerequisitesSection: |-
+  成功する学習者は、次の知識と理解があるものとします 。
+  - 多層防御、最小特権アクセス、責任の共有、ゼロトラストモデルなどのセキュリティのベストプラクティスと業界のセキュリティ要件。
+  - 認証、承認、Active DirectoryなどのIDの概念に精通。
+  - Azureワークロードのデプロイの経験。このコースでは、Azure管理の基本については説明していません。代わりに、コースの内容は、セキュリティ固有の情報を追加することにより、その知識に基づいて構築されています。
+  - WindowsおよびLinuxオペレーティングシステムとスクリプト言語の経験は役に立ちますが、必須ではありません。コースラボでは、Power ShellとCLIを使用できます。
+  
+  <div> <strong>前提条件のコース（または同等の知識と実践的な経験）&#58; </strong> </div>
+  
+  この無料のオンライントレーニングは、このコースで成功するために必要な経験をご提供致します。
+
+  - [SC-900パート1&#58; セキュリティ、コンプライアンス、およびIDの概念説明 - Learn| Microsoft Docs](/learn/paths/describe-concepts-of-security-compliance-identity/)
+  - [SC-900パート2&#58; MicrosoftIdentityおよびアクセス管理ソリューションの機能の説明- Learn| Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-identity-access/)
+  - [SC-900パート3&#58; マイクロソフトのセキュリティソリューションの機能の説明 - Learn| Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-security-solutions/)
+  - [SC-900パート4&#58; マイクロソフトコンプライアンスソリューションの機能の説明 - Learn| Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/)
+  - [AZ-104&#58; AzureでIDとガバナンスの管理 - Learn| Microsoft Docs](/learn/paths/az-104-manage-identities-governance/)
+outlineSection: |-
+  ### モジュール 1&#58;  ID管理ソリューションの実装
+  最初のAzureActive Directory（Azure AD）実装を作成および管理し、ソリューションの実行に使用するユーザー、グループ、および外部IDを構成する方法を学びます。
+
+  #### レッスン
+  - Azure ADの初期構成の実装
+  - IDを作成、構成、および管理
+  - 外部IDを実装および管理
+  - ハイブリッドIDの実装と管理
+
+  #### ラボ&#58; ユーザーの役割管理
+  
+  #### ラボ&#58; テナント全体のプロパティ設定
+  
+  #### ラボ&#58; ユーザーへのライセンスを割り当て
+  
+  #### ラボ&#58; 削除されたユーザーの復元または削除
+  
+  #### ラボ&#58;  Azure ADにグループの追加
+  
+  #### ラボ&#58; グループライセンスの割り当て変更
+  
+  #### ラボ&#58; ユーザーライセンスの割り当て変更
+  
+  #### ラボ&#58; 外部コラボレーション構成
+  
+  #### ラボ&#58; ディレクトリにゲストユーザーの追加
+  
+  #### ラボ&#58; 動的グループの探索
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - カスタム設定を使用して初期のAzure ADのデプロイ
+  - 内部IDと外部ID両方の管理
+  - ハイブリッドIDソリューションの実装
+
+  
+  ### モジュール 2&#58; 認証およびアクセス管理ソリューションの実装
+  Azure ADを使用してアクセス管理を実装および管理します。 MFA、条件付きアクセス、およびID保護を使用して、IDソリューションを管理します。
+
+  #### レッスン
+  - MFAでAzure ADユーザー保護
+  - ユーザー認証の管理
+  - 条件付きアクセスを計画、実装、および管理
+  - Azure ADID保護管理
+  
+  #### ラボ&#58;  Azure ADMFAを有効化
+  
+  #### ラボ&#58; セルフサービスパスワードリセット（SSPR）の構成と展開
+  
+  #### ラボ&#58; セキュリティのデフォルトの使用
+  
+  #### ラボ&#58; 条件付きアクセスポリシー、役割、および割り当ての実装
+  
+  #### ラボ&#58; 認証セッション制御の構成
+  
+  #### ラボ&#58;  Azure ADのスマートロックアウト値の管理
+  
+  #### ラボ&#58; サインインリスクポリシーを有効化
+  
+  #### ラボ&#58;  Azure ADMFA認証登録ポリシーの構成
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - MFAを含むユーザー認証を構成および管理
+  - 条件付きアクセスを使用してリソースへのアクセス制御
+  - Azure AD Identity Protectionを使用して組織を保護
+
+ 
+  ### モジュール 3&#58; アプリのアクセス管理の実装
+  Azure ADでアプリケーションを登録して、アプリケーションをIDおよびアクセスソリューションに追加する方法 をご確認ください。
+
+  #### レッスン
+  - SSOのためのエンタープライズの統合を計画および設計
+  - SSO用のエンタープライズアプリの統合を実装および監視
+  - アプリ登録の実装
+  
+  #### ラボ&#58; アプリのアクセス管理の実装
+  
+  #### ラボ&#58; 管理アプリの登録にカスタムロールの作成
+  
+  #### ラボ&#58; アプリケーションの登録
+  
+  #### ラボ&#58; テナント全体の管理者にアプリケーションへの同意
+  
+  #### ラボ&#58; アプリケーションにアプリの役割を追加し、トークンの受け取り
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - 新しいアプリケーションをAzure ADに登録
+  - エンタープライズアプリケーションのSSOを計画および実装
+  - エンタープライズアプリケーションをモニタリングおよび維持
+
+  ### モジュール 4&#58; アイデンティティガバナンス戦略を計画および実装
+  資格、アクセスレビュー、特権アクセス、およびAzure Active Directory（Azure AD）の監視を使用して、IDソリューションのIDガバナンスを設計および実装します。
+
+  #### レッスン
+  - 資格管理を計画および実装
+  - アクセスレビューを計画、実装、および管理
+  - 特権アクセスを計画および実装
+  - Azure ADのモニタリングおよび維持
+  
+  #### ラボ&#58;  Azure ADエンタイトルメントを使用してリソースカタログの作成および管理
+  
+  #### ラボ&#58; 利用規約の承認レポートの追加
+  
+  #### ラボ&#58;  Azure AD IDガバナンスを使用して外部ユーザーのライフサイクルの管理
+  
+  #### ラボ&#58; グループやアプリのアクセスレビューの作成
+  
+  #### ラボ&#58;  Azure ADロール用にPIMの構成
+  
+  #### ラボ&#58;  PIMでAzure ADの役割分担
+  
+  #### ラボ&#58;  PIMでAzureリソースの役割分担
+  
+  #### ラボ&#58;  Azure ADからAzure Sentinelにデータ接続
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Azure ADの作成からソリューションまでの管理と維持
+  - アクセスレビューを使用してAzure ADの維持
+  - 資格管理を使用してユーザーにアクセスを許可

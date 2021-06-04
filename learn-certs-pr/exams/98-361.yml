@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-361
 displayName: 98-361
 summary: |-
+  <div> <font color='red'> <strong>このMTA試験は、2021年6月30日までに購入する必要があります。現在この試験の勉強をしている場合は、2022年6月30日で終了となりますのでそれまでの1年以内に受験する必要があります。詳細については、<a href="/learn/certifications/mta-retirement-faqs"> FAQ</a> </a>をご覧ください。</strong> </font> </br> </br> </div>
+
   この試験の受験者は、ソフトウェア開発のコア スキルを証明しようとしている個人を対象としています。受験者には、関連するトレーニング コースを受講するか、MSDN と Microsoft Visual Studio で利用可能なチュートリアルとサンプルを利用して、ここで説明するテクノロジの概念を理解し、実地経験を積むことをお勧めします。受験者には、C# や Microsoft Visual Basic .NET における一定の経験が求められます。
 subTitle: この試験の受験者は、ソフトウェア開発のコア スキルを証明しようとしている個人を対象としています。受験者には、関連するトレーニング コースを受講するか、MSDN と Microsoft Visual Studio で利用可能なチュートリアルとサンプルを利用して、ここで説明するテクノロジの概念を理解し、実地経験を積むことをお勧めします。受験者には、C# や Microsoft Visual Basic .NET における一定の経験が求められます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -37,14 +39,11 @@ skills:
 - Webアプリケーションの理解 (15-20%)
 - デスクトップ アプリケーションの理解 (15-20%)
 - データベースの理解 (15-20%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:
 - dotnet
-courses:
-- uid: course.40361
-- uid: course.40035
-- uid: course.40034
 relatedCertifications:
 - related:
     uid: certification.mta-software-development-fundamentals

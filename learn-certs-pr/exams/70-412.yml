@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-412
 displayName: 70-412
 summary: |-
-  <div>
-  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
-  </div>
+  <div> <font color='red'> <strong>この試験は2021年1月31日に終了しました。現在利用可能なオプションについては、<a href='/learn/certifications/browse/?resource_type=examination'>をご参照ください。認定と試験のページ閲覧</a>.<br/><br/></strong></font></div>
 
   この試験は、エンタープライズ環境で Windows Server 2012 インフラストラクチャを管理するために必要なスキルと知識をテストする 3 部構成の試験の第 3 部です。この試験では、フォールト トレランス、証明書サービス、ID フェデレーションなど、Windows Server 2012 インフラストラクチャの展開、管理、保守に必要なタスクの詳細な構成について、受験者の能力を検証します。この試験と他の 2 つの試験との組み合わせにより、受験者が、Windows Server 2012 環境におけるサービスとインフラストラクチャの実装、管理、保守、プロビジョニングに必要なスキルと知識を有していることを確認します。
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: この試験は、エンタープライズ環境で Windows Server 2012 インフラストラクチャを管理するために必要なスキルと知識をテストする 3 部構成の試験の第 3 部です。この試験では、フォールト トレランス、証明書サービス、ID フェデレーションなど、Windows Server 2012 インフラストラクチャの展開、管理、保守に必要なタスクの詳細な構成について、受験者の能力を検証します。この試験と他の 2 つの試験との組み合わせにより、受験者が、Windows Server 2012 環境におけるサービスとインフラストラクチャの実装、管理、保守、プロビジョニングに必要なスキルと知識を有していることを確認します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixW
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=412&examname=Configuring%20Advanced%20Windows%20Server%202012%20Services&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-412
 locales:
 - en
 - zh-cn
@@ -33,6 +30,7 @@ skills:
 - ネットワーク サービスの構成
 - Active Directory Infrastructure を構成する
 - アクセスおよび情報保護ソリューションの構成
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

@@ -7,7 +7,7 @@ uid: exam.ai-100
 displayName: AI-100
 summary: |-
   <div>
-  <div><font color='red'><strong>この試験の最新版 <a href='/learn/certifications/exams/ai-102'>AI-102</a>は2021年2月23日に可能となります。2021年6月30日に終了となるまでこの試験を受けることができます。注&#58;試験は中部標準時の２３時59分に終了致します。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>この試験の新バージョン <a href='/learn/certifications/exams/ai-102'>AI-102</a>がご利用可能です。この試験は、2021年6月30日に終了するまで受験可能です。注：試験は、中部標準時の午後11時59分に終了します。</strong></font><br/><br/></div>
   <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 5 月 20 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
   </div>
   
@@ -40,6 +40,7 @@ products:
 - azure
 - azure-cognitive-services
 - azure-bot-service
+- azure-machine-learning
 - azure-machine-learning-studio
 - azure-search
 courses:
@@ -58,10 +59,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

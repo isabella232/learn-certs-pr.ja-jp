@@ -6,17 +6,15 @@ metadata:
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
-  <div><div><strong>この試験の内容は 2021 年 1 月 27 日に更新されます。変更内容を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong><br/><br/></div>
+  <div><div> <font color='red'> <strong>この試験の内容は2021年5月25日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong> </font> <br/> <br/> </div>
   </div>
 
-  この試験の受験者は、Azure IoT ソリューションのクラウド コンポーネントとエッジ コンポーネントを開発する主題に関する専門知識を持っている必要があります。
-
-  Azure IoT 開発者の責任には、クラウド サービスやその他のツールを使用したデバイスのライフサイクル (セットアップ、構成、メンテナンス) の管理が含まれます。デバイス トポロジ、接続、デバッグ、セキュリティなどの Azure IoT ソリューションの設計、および IoT 関連のデータ パイプラインを管理、監視、変換するソリューションを実装します。また、Azure IoT Edge コンポーネントをデプロイし、エッジでデバイス ネットワークを構成します。
-
-  Azure IoT 開発者は、データエンジニアやその他の関係者と協力して、ビジネス統合を成功させるための作業を行います。
-
-  この試験の受験者は、データ ストレージ オプション、データ分析、データ処理、サービスとしてのプラットフォーム オプションなど、IoT ソリューションを形成する Azure サービスの実装経験が必要です。このロールでは、IoT ソリューションのコード部分内で Azure IoT サービス構成設定を認識し、C#、ノード、C、Python など、Azure がサポートする少なくとも 1 つの言語で特定の IoT コーディング タスクを実行できる能力も求められます。
-subTitle: '本試験では、 IoT ソリューション インフラストラクチャーの実装、デバイスのプロビジョニングと管理、 Azure IoT Edge デバイスへのソリューションの実装、データの処理と管理、 IoT ソリューションの監視、トラブルシューティングおよび最適化、セキュリティーの実装などの能力を査定します。'
+  Azure IoT開発者は、構成を実装し、IoTソリューションのcloud 部分とエッジ部分を作成および維持するために必要なコーディングタスクを実行します。 IoT開発者は、cloud サービスを使用してデバイスを構成および保守するだけでなく、物理デバイスも設定します。IoT開発者は、ライフサイクル全体を通じてデバイスの構成を維持およびトラブルシューティングすることにおいても責任を持ちます。
+  
+  IoT開発者は、デバイストポロジ、接続、診断とモニタリング、セキュリティなど、IoTソリューションの設計仕様を実装します。IoT開発者は、モジュールを開発兼展開し、ソリューションのIoT Edge部分のデバイスネットワークを構成します。IoT開発者は、IoTに関連するモニタリングやデータ変換など、データパイプラインを管理するソリューションの設計を実装します。 IoT開発者は、Azure IoTアーキテクト、データエンジニア、その他の利害関係者と協力して、ビジネス統合を成功させます。
+  
+  IoT開発者は、データストレージオプション、データ分析、データ処理、AI、その他のサービスとしてのプラットフォームオプションなど、デバイスの種類とAzureサービスについて一般的に理解している必要があります。 IoT開発者は、少なくとも1つのAzure IoT SDKでサポートされている言語でプログラミングできる必要があります。
+subTitle: 'この試験では、IoTソリューションインフラストラクチャを設定する能力や、デバイスのプロビジョニングと管理、IoT Edgeの実装、データの処理と管理、IoTソリューションのモニタリング、トラブルシューティング、および最適化、セキュリティの実装の能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-220&examname=Exam%20AZ-220:%20Microsoft%20Azure%20IoT%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-220
@@ -28,13 +26,14 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は 2021 年 1 月 27 日に更新されます。変更内容を確認するには、以下の試験スキルの概要をダウンロードしてください。
-- IoT ソリューション インフラストラクチャの実装 (15-20%)
-- デバイスのプロビジョニングと管理を行います (20-25%)
-- Edge の実装 (15-20%)
+- この試験の内容は2021年5月25日に更新されます。以下の試験スキルの概要をダウンロードして、変更点をご確認ください。
+- IoTソリューションインフラストラクチャの設定(10-15%)
+- デバイスのプロビジョニングと管理（ (15-20%)
+- IoT Edgeの実装(15-20%)
+- ビジネス統合の実装 (5-10%)
 - データの処理と管理 (15-20%)
 - IoT ソリューションの監視、トラブルシューティングおよび最適化 (15-20%)
-- セキュリティの実装 (15-20%)
+- セキュリティの実装 (10-15%)
 roles:
 - developer
 products:
@@ -48,6 +47,7 @@ paths:
 - uid: learn.securely-connect-iot-devices-to-cloud
 - uid: learn.build-intelligent-edge-with-azure-iot-edge
 - uid: learn-develop-solutions-with-azure-iot-central
+- uid: learn.azure.develop-azure-digital-twins
 relatedCertifications:
 - related:
     uid: certification.azure-iot-developer-specialty
@@ -57,10 +57,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認証ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

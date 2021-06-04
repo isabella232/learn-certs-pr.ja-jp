@@ -7,7 +7,7 @@ uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div>
-  <div><font color='red'><strong>この試験の最新版<a href="/learn/certifications/exams/pl-600">PL-600</a>は2021年3月中に可能となります。2021年6月30日に終了となるまでこの試験を受けることができます。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>この試験の新バージョン  <a href="/learn/certifications/exams/pl-600">PL-600</a>は2021年３月に利用可能となりました。この試験は、2021年6月30日に終了するまで受験可能です。</strong></font><br/><br/></div><br/><br/></div>
   <div><strong>この試験の内容は、2020 年 7 月 30 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
   </div>
   
@@ -48,7 +48,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9W
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定ポスター
   description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

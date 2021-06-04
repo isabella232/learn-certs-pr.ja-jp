@@ -8,14 +8,20 @@ summary: |
   DevOps エンジニアは、エンドユーザーのニーズおよびビジネスの目的を満たす価値のある製品・サービスを継続的に供給するために、人とプロセスとテクノロジーを結合させます。
 subTitle: DevOps エンジニアは、エンドユーザーのニーズおよびビジネスの目的を満たす価値のある製品・サービスを継続的に供給するために、人とプロセスとテクノロジーを結合させます。
 certificationPaths: 
-- title: Azure DevOps Engineer
-  linkedInKeywords: Azure DevOps Engineer
-  uid: certification-path.devops 
+- title: DevOps Engineer
+  linkedInKeywords: DevOps Engineer
+  uid: certification-path.devops-engineer
   prerequisites: 
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
+  - uid: certification.azure-administrator
+    levels:
+    - intermediate
+  - uid: certification.azure-developer
+    levels:
+    - intermediate
   - uid: certification.devops-engineer
     levels:
     - advanced    
@@ -26,10 +32,10 @@ certifications:
 resources:
 - title: Microsoft トレーニングおよび認定資格のガイド
   description: 簡潔なトレーニングおよび認定資格ガイドですべての認定資格をご確認ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: トレーニングおよび認定資格のポスター
   description: このトレーニングおよび認定資格のポスターで、成功への道を選択してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 資格のサポート
   href: ../help.md
   description: Microsoft Certificate サポートフォーラムで助けてもらう。フォーラムモデレーターが 1 営業日（月曜日から金曜日）以内に返信します。

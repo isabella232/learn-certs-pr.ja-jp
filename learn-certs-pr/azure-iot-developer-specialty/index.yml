@@ -2,27 +2,25 @@
 title: 'Microsoft Certified: Azure IoT Developer Specialty'
 metadata:
   title: 'Microsoft Certified: Azure IoT Developer Specialty'
-  description: Azure IoT 開発者は、Azure IoT ソリューションのクラウド コンポーネントとエッジ コンポーネントを開発します。
+  description: Azure IoT開発者は、IoTソリューションのcloud 部分とエッジ部分を作成および維持するために必要な構成を実装し、コーディングタスクを実行します。
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  Azure IoT Developer Specialty 認定資格の受験者は、Azure IoT ソリューションのクラウドおよびエッジ コンポーネントの開発に関する専門知識を持っている必要があります。
-
-  このロールの責任には、クラウド サービスやその他のツールを使用したデバイスのライフサイクル (セットアップ、構成、メンテナンス) の管理が含まれます。デバイス トポロジ、接続、デバッグ、セキュリティなどの Azure IoT ソリューションの設計、および IoT 関連のデータ パイプラインを管理、監視、変換するソリューションを実装します。また、Azure IoT Edge コンポーネントをデプロイし、エッジでデバイス ネットワークを構成します。
-
-  Azure IoT 開発者は、データエンジニアやその他の関係者と協力して、ビジネス統合を成功させるための作業を行います。
-
-  この認定資格の受験者は、データ ストレージ オプション、データ分析、データ処理、サービスとしてのプラットフォーム オプションなど、IoT ソリューションを形成する Azure サービスの実装経験が必要です。このロールでは、IoT ソリューションのコード部分内で Azure IoT サービス構成設定を認識し、C#、ノード、C、Python など、Azure がサポートする少なくとも 1 つの言語で特定の IoT コーディング タスクを実行できる能力も求められます。
+  Azure IoT開発者は、構成を実装し、IoTソリューションの cloud部分とエッジ部分を作成および維持するために必要なコーディングタスクを実行します。 IoT開発者は、 cloudサービスを使用してデバイスを構成および維持するだけでなく、物理デバイスも設定します。IoT開発者は、ライフサイクル全体を通じてデバイスの構成を維持およびトラブルシューティングする責任があります。
+  
+  IoT開発者は、デバイストポロジ、接続、診断とモニタリング、セキュリティなど、IoTソリューションの設計仕様を実装します。loT開発者は、モジュールを開発および展開し、ソリューションのIoT Edge部分のデバイスネットワークを構成します。IoT開発者は、IoTに関連するモニタリングやデータ変換など、データパイプラインを管理するソリューションの設計を実装します。 IoT開発者は、Azure IoTアーキテクト、データエンジニア、その他の利害関係者と協力して、ビジネス統合を成功させます。
+  
+  IoT開発者は、データストレージオプション、データ分析、データ処理、AI、その他のサービスとしてのプラットフォームオプションなど、デバイスの種類とAzureサービスについて一般的に理解している必要があります。 IoT開発者は、少なくとも1つのAzure IoT SDKでサポートされている言語でプログラミングできる必要があります。
 subTitle: Azure IoT 開発者は、Azure IoT ソリューションのクラウド コンポーネントとエッジ コンポーネントを開発します。
 levels:
 - intermediate
 skills:
-- IoT ソリューション インフラストラクチャの実装
-- デバイスのプロビジョニングと管理を行います
-- Edge の実装
-- データのプロセスおよび管理
-- IoT ソリューションの監視、トラブルシューティングおよび最適化
-- セキュリティの実装
+- IoTソリューションインフラストラクチャの設定
+- デバイスのプロビジョニングと管理
+- IoT Edgeの実装
+- ビジネス統合の実装
+- データの処理と管理
+- IoTソリューションのモニタリング、トラブルシューティング、最適化
 roles:
 - developer
 type: specialty
@@ -37,6 +35,7 @@ paths:
 - uid: learn.securely-connect-iot-devices-to-cloud
 - uid: learn.build-intelligent-edge-with-azure-iot-edge
 - uid: learn-develop-solutions-with-azure-iot-central
+- uid: learn.azure.develop-azure-digital-twins
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1V
 exams:
 - uid: exam.az-220
@@ -49,10 +48,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

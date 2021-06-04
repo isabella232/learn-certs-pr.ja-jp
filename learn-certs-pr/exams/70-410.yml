@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-410
 displayName: 70-410
 summary: |-
-  <div>
-  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
-  </div>
+  <div> <font color='red'> <strong>この試験は2021年1月31日に終了しました。現在利用可能なオプションについては、<a href='/learn/certifications/browse/?resource_type=examination'>をご参照ください。認定と試験のページ閲覧</a>.<br/><br/></strong></font></div>
 
   この試験は、既存のエンタープライズ環境のコアとなる Windows Server 2012 インフラストラクチャの実装に必要なスキルと知識を問う、3 つの試験のパート 1 です。この試験での合格は、Active Directory サービスやネットワーク サービスなどの Windows Server 2012 コア サービスの実装と構成について受験者の能力を検証します。この試験と他の 2 つの試験との組み合わせにより、受験者が、Windows Server 2012 環境におけるサービスとインフラストラクチャの実装、管理、保守、プロビジョニングに必要なスキルと知識を有していることを確認します。
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: この試験は、既存のエンタープライズ環境のコアとなる Windows Server 2012 インフラストラクチャの実装に必要なスキルと知識を問う、3 つの試験のパート 1 です。この試験での合格は、Active Directory サービスやネットワーク サービスなどの Windows Server 2012 コア サービスの実装と構成について受験者の能力を検証します。この試験と他の 2 つの試験との組み合わせにより、受験者が、Windows Server 2012 環境におけるサービスとインフラストラクチャの実装、管理、保守、プロビジョニングに必要なスキルと知識を有していることを確認します。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJk
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=410&examname=Installing%20and%20Configuring%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-410
 locales:
 - en
 - zh-cn
@@ -33,6 +30,7 @@ skills:
 - コア ネットワーク サービスの展開および設定 (15-20%)
 - Active Directory のインストールと管理  (15–20%)
 - グループ ポリシーの作成および管理 (15-20%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

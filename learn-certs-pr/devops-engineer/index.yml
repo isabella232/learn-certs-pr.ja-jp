@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: DevOps Engineer Expert'
 metadata:
   title: 'Microsoft Certified: DevOps Engineer Expert'
-  description: 'Microsoft DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。'
+  description: 'DevOpsエンジニアは、コラボレーション、コード、インフラストラクチャ、ソース管理、セキュリティ、コンプライアンス、継続的インテグレーション、テスト、配信、モニタリング、フィードバックのための戦略を設計および実装します。'
 uid: certification.devops-engineer
 certificationRenewalUid: renewal.devops-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
@@ -12,7 +12,7 @@ summary: |-
   このロールの責任には、コラボレーション、コード、インフラストラクチャ、ソース管理、セキュリティ、コンプライアンス、継続的インテグレーション、テスト、配信、モニタリング、フィードバックの戦略の設計と実装が含まれます。
 
   この認定資格の受験者は、Azure の管理と開発の両方に精通している必要があり、これらの分野の少なくとも 1 つに精通している必要があります。
-subTitle: Microsoft DevOps プロフェッショナルは人とプロセスとテクノロジを、継続的に配信される価値ある製品やサービスと結びつけることで、エンドユーザーとビジネス目的に合致します。
+subTitle: DevOpsエンジニアは、コラボレーション、コード、インフラストラクチャ、ソース管理、セキュリティ、コンプライアンス、継続的インテグレーション、テスト、配信、モニタリング、フィードバックのための戦略を設計および実装します。
 levels:
 - advanced
 skills:
@@ -58,10 +58,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

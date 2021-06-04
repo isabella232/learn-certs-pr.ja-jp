@@ -14,9 +14,9 @@ levels:
 skills:
 - Windows の展開
 - デバイスとデータの管理
-- 接続性の構成
+- ストレージと接続の構成
 - Windows の維持
-- オペレーティングシステムの展開と更新
+- オペレーティングシステムの展開とアップグレード
 - ポリシーとプロファイルの管理
 - デバイスの管理と保護
 - アプリとデータの管理
@@ -43,10 +43,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

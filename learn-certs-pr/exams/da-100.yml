@@ -6,8 +6,7 @@ metadata:
 uid: exam.da-100
 displayName: DA-100
 summary: |-
-  <div><div><strong>この試験の内容は 2021 年 1 月 27 日に更新されます。変更内容を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong><br/><br/></div>
-  </div>
+  <div> <font color='red'> <strong>この試験の内容は2021年5月25日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong> </font> <br/> <br/> </div>
 
   データ アナリストによって、企業は Microsoft Power BI を使用して、データ資産の価値を最大限に高めることができます。対象分野の専門家として、データアナリストは、拡張性の高いデータモデルの設計と構築、データのクリーンアップと変換、および理解しやすいデータ可視化によって意味のあるビジネス価値を提供する高度な分析機能の実現を担当します。また、データアナリストは、特定されたビジネス要件に基づいて関連性の高いインサイトを提供するために、各業種の主要関係者と協力しています。
   <br/>
@@ -15,6 +14,7 @@ summary: |-
   データ アナリストは、オンプレミスとクラウドの両方のデータ リポジトリとデータ処理について基本的な知識を持っている必要があります。
 subTitle: '本試験では、データの準備、データのモデル化、データの視覚化、データの分析、成果物の導入と保守といった技術的タスクを実行できる能力を査定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+practiceTestUrl: https://www.mindhub.com/da-100-analyzing-data-with-microsoft-power-bi-microsoft-official-practice-test/p/MU-DA-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
 providers:
 - providerType: pearson-vue
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は 2021 年 1 月 27 日に更新されます。変更内容を確認するには、以下の試験スキルの概要をダウンロードしてください。
+- この試験の内容は2021年5月25日に更新されます。以下の試験スキルの概要をダウンロードして、変更点をご確認ください。
 - データの準備 (20-25%)
 - データのモデル化 (25-30%)
 - データを視覚化する (20-25%)
@@ -57,7 +57,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AzbJ
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認証ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

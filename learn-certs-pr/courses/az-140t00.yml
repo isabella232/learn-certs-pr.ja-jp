@@ -1,0 +1,159 @@
+### YamlMime:Course
+title: Configuring and operating Windows Virtual Desktop on Microsoft Azure
+metadata:
+  title: 'Course AZ-140T00-A: Configuring and operating Windows Virtual Desktop on Microsoft Azure'
+  description: 'Course AZ-140T00-A: Configuring and operating Windows Virtual Desktop on Microsoft Azure'
+uid: course.az-140t00
+courseNumber: 'AZ-140T00-A'
+hoursToComplete: 96
+skillsGained:
+- skill: Windows Virtual Desktop に適切なライセンスモデルを選択
+- skill: Windows Virtual Desktop のネットワークを実装
+- skill: Azure Bastionを使用してWindows Virtual Desktop セッションホストを管理
+- skill: FSLogixコンポーネントのストレージを構成
+- skill: セッションホストイメージを作成かつ管理
+- skill: Windows Virtual Desktop 用のAzureロールとロールベースのアクセス制御（RBAC）を実装
+- skill: ユーザーのWindows Virtual Desktop エクスペリエンス設定を構成
+- skill: セッションホストにアプリをインストールして構成
+- skill: 事業継続とディザスタリカバリを実装
+- skill: Windows Virtual Desktop のパフォーマンスをモニタリングかつ管理
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- azure-virtual-machines
+- azure-virtual-machines-windows
+- azure-netapp-files
+- azure-files
+- azure-bastion
+- azure-portal
+- windows-server
+- azure-clis
+- azure-resource-manager
+- azure-rbac
+- azure-policy
+- azure-security-center
+- m365-security-center
+- mem
+- office-onedrive
+- office-teams
+- azure-monitor
+- azure-advisor
+- windows-virtual-desktop
+exams:
+- uid: exam.az-140
+summary: |-
+  このコースでは、Azure管理者に、Azure上の任意のデバイスの仮想デスクトップエクスペリエンスとリモートアプリを計画、提供、および管理する方法を説明致します。受講者は、仮想デスクトップエクスペリエンスとアプリをWindows Virtual Desktop に展開し、マルチセッション仮想環境で実行するように最適化するデモンストレーションと実践的なラボエクスペリエンスを組み合わせて学習します。
+  
+  #### オーディエンスプロフィール
+  AZ-140&#58; Configuring and Operating Windows Virtual Desktop on Microsoft Azure の受講者はWindows Virtual Desktopでアプリケーションを配信し、マルチセッション仮想環境で実行するようにアプリケーションを最適化することに関心があるものとします。Windows Virtual Desktop管理者としてあなたは、Microsoft 365管理者とともに、Azure管理者およびアーキテクトと緊密に連携するものとします。
+  Windows Virtual Desktop管理者の責任には、Azure Windows Virtual Desktopインフラストラクチャの計画、展開、パッケージ化、更新、および維持が含まれます。また、セッションホストイメージの作成、FSLogixの実装と管理、Windows Virtual Desktopのパフォーマンスのモニタリング、およびWindows Virtual Desktopの管理タスクの自動化も行います。
+outlineSection: |-
+  ### モジュール 1&#58; Windows Virtual Desktopアーキテクチャの計画
+  このモジュールでは、既存の物理デスクトップ環境と仮想デスクトップ環境を評価し、Active Directory（AD）とAzure Active Directory Domain Services（Azure AD DS）の名前解決を計画および構成し、Windows Virtual Desktopクライアントの展開を計画する方法を学習して頂きます。
+  
+  #### レッスン
+  - Windows Virtual Desktopアーキテクチャ
+  - WVDアーキテクチャの設計
+  - ユーザーIDとプロファイルの設計
+
+  #### ラボ&#58; Azure Windows Virtual Desktop（Azure AD DS）の展開の準備
+
+  #### ラボ&#58; Azure Windows Virtual Desktop（AD DS）の展開の準備
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Windows Virtual Desktopコンポーネントの理解
+  - パーソナルデスクトップとプールされたデスクトップの理解
+  - WVD実装用のオペレーティングシステムの推奨
+  - ホストプールアーキテクチャの計画
+
+  
+  ### モジュール 2&#58; WVDインフラストラクチャの実装
+  このモジュールでは、インターネットとオンプレミスネットワークへの接続を管理する方法、Azureポータルを使用してホストプールを作成する方法、Azure リソース Managerテンプレートを使用してホストプールとホストを展開する方法、実行中のOSとアプリケーションの更新を適用する方法を学習して頂きます。 WVDホスト、およびマスターイメージを作成します。
+  #### レッスン
+  - WVDのネットワーキングを実装および管理
+  - WVDのストレージを実装および管理
+  - ホストプールとセッションホストを作成および構成
+  - セッションホストイメージの作成と管理
+
+  #### ラボ&#58; ホストプールとセッションホストの作成と構成（Azure AD DS）
+
+  #### ラボ&#58; Azureポータル（AD DS）を使用して、ホストプールとセッションホストの展開
+
+  #### ラボ&#58; WVD（Azure AD DS）のストレージを実装および管理
+
+  #### ラボ&#58; Azure リソースマネジャーテンプレートを使用してホストプールとホストをデプロイ
+
+  #### ラボ&#58; PowerShellを使用してホストプールとホストを展開および管理
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Azure仮想ネットワーク接続の実装
+  - インターネットおよびオンプレミスネットワークへの接続を管理
+  - Windows Virtual Desktopネットワーク接続の理解
+  - AzureBastionを使用してWVDセッションホストの設定
+  - FSLogixコンポーネントのストレージの設定
+  - ディスクとファイル共有の設定
+  - セッションホストイメージの変更
+  - Shared Image Gallery（SIG）を作成して使用
+
+  
+  ### モジュール 3&#58; アクセスとセキュリティの管理
+  このモジュールでは、Azureの役割とWVDのRBACを計画および実装する方法、接続の条件付きアクセスポリシーを実装する方法、MFAを計画および実装する方法、およびAzure セキュリティセンターを使用してセキュリティを管理する方法を学習して頂きます。
+  #### レッスン
+  - アクセス管理
+  - セキュリティ管理
+
+  #### ラボ&#58; WVD（AD DS）への接続の条件付きアクセスポリシーの設定
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - WVDセッションホストでのローカルの役割、グループ、および権限の割り当てを管理。
+  - ADグループポリシーとAzureADポリシーを使用してユーザー制限の設定
+  - 条件付きアクセスポリシーコンポーネントの理解
+  - Windows Virtual Desktop用のAzure Active Directory（Azure AD）ベースの条件付きアクセスの準備
+  - Windows Virtual Desktop用のAzure ADベースの条件付きアクセスの実装
+
+  ### モジュール 4&#58; ユーザー環境とアプリの管理
+  このモジュールでは、FSLogixの計画、FSLogixのインストール、Cloudキャッシュの設定、アプリケーションをリモートアプリとして展開する方法、およびマルチセッション環境向けにOneDrive for Businessを実装および管理する方法を学習して頂きます。
+  #### レッスン
+  - FSLogixを実装および管理
+  - ユーザーエクスペリエンスの設定
+  - セッションホストにアプリをインストールかつ設定
+
+  #### ラボ&#58; Windows Virtual Desktopプロファイル管理（Azure AD DS）
+
+  #### ラボ&#58; Windows Virtual Desktopプロファイル管理（AD DS）
+
+  #### ラボ&#58; Windows Virtual Desktopアプリケーションパッケージ（AD DS）
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - プロファイルコンテナの設定
+  - AAD DS環境でWVDのプロファイルコンテナーを格納するようにAzureファイルの設定
+  - Azure AD DS環境でWindows Virtual Desktop用FSLogixベースプロファイルの実装
+  - Windows Virtual Desktop用FSLogixベースプロファイルの実装
+  - MSIXアプリパッケージの準備と作成
+  - AD DS環境でWindows Virtual Desktop用MSIXアプリ接続コンテナーの実装
+
+  ### モジュール 5&#58; WVDインフラストラクチャをモニタリングおよび維持
+  このモジュールでは、WVDのディザスタリカバリ計画を計画および実装する方法、WVDの自動化を構成する方法、ホストプールに自動スケーリングを実装する方法、およびセッションホストの容量とパフォーマンスを最適化する方法を学習して頂きます。
+  #### レッスン
+  - 事業継続とディザスタリカバリを計画および実装
+  - WVD管理タスクを自動化
+  - パフォーマンスとヘルスをモニタリングおよび管理
+
+  #### ラボ&#58; ホストプールに自動スケーリングの実装（AD DS）
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - WVDのディザスタリカバリ計画の計画および実装
+  - WVD自動化の設定
+  - Azure Monitorを使用してWVDのモニタリング
+  - WVDモニタリング用にAzureワークブックのカスタマイズ
+  - Windows Virtual Desktopセッションホストの自動スケーリングの設定
+  - Windows Virtual Desktopセッションホストの自動スケーリングの確認

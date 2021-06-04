@@ -104,6 +104,7 @@ MCTは、対象となる Azure コース準備のニーズに応じて 1 つの�
 - MB-400T00 Microsoft Power Apps + Dynamics 365 Developer
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
 - MS-600T00 Building applications and solutions with Microsoft 365 core services
+- PL-400T00 Microsoft Power Platform Developer
 - WS-050T00 Migrating Application Workloads to Azure
 
 注意: このリストは変更されることがあります。新しいバージョンやコースがリリースされ、古いバージョンやコースが廃止されると、このリストにタイトルが追加または削除される場合があります。
