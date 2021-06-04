@@ -9,7 +9,7 @@ courseNumber: 'DP-203T00-A'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill:Azureのデータエンジニアリングワークロードのコンピューティングとストレージのオプションを調べる
+- skill: Azureのデータエンジニアリングワークロードのコンピューティングとストレージのオプションを調べる
 - skill: サービングレイヤーの設計と実装
 - skill: データエンジニアリングの考慮事項を理解する
 - skill: サーバーレスSQLプールを使用してインタラクティブクエリを実行する
