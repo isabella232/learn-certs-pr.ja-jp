@@ -7,7 +7,7 @@ uid: exam.mb-2-716
 displayName: MB2-716
 summary: |-
   <div>
-  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
+  <div> <font color='red'> <strong>この試験は2021年1月31日に終了しました。現在利用可能なオプションについては、<a href='/learn/certifications/browse/?resource_type=examination'>をご参照ください。認定と試験のページ閲覧</a>.<br/><br/></strong></font></div>
   <div><strong>この試験の内容は、2020 年 2 月 4 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong></div><br/>
   </div>
 
@@ -15,7 +15,6 @@ summary: |-
 subTitle: Microsoft Dynamics 365 Customization and Configuration の資格の取得を希望する人は、この試験を受ける必要があります。一般に、デベロッパ、実装コンサルタント、テクニカル サポート技術者、およびシステム管理者が対象となります。お客様のビジネス ニーズを評価し、アプリケーションの設定とカスタマイズを行ういます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o2AP
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=MB2-716&examname=Microsoft%20Dynamics%20365%20Customization%20and%20Configuration&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB2-716
 locales:
 - en
 - ja
@@ -26,6 +25,7 @@ skills:
 - Microsoft Dynamics 365エンティティ、エンティティ関係、およびフィールドの実装 (20-25%)
 - Microsoft Dynamics 365 のソリューション、フォーム、ビュー、視覚化の作成と管理 (25-30%)
 - ビジネス ルール、ワークフロー、ビジネス プロセス フローの実装 (20-25%)
+retirementDate: 01/31/2021
 roles:
 - business-analyst
 products:

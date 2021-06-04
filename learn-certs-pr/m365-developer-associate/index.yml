@@ -8,7 +8,7 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   Microsoft 365 Developers は、 Microsoft 365 プラットフォームを使用する組織の生産性とコラボレーションのニーズに合わせて最適化されたアプリケーションとソリューションを設計、構築、テストおよび保守を実行します。
 
-  Microsoft 365 Developers は、 Microsoft ID と Microsoft Graph に精通しています。彼らには、UI 要素（ Adaptive Card や UI Fabric を含む）、統合ポイント（ Microsoft チーム、 Office Add-in、 SharePoint Framework 、Actionable Messagesを含む）、およびワークロード プラットフォーム ターゲットの決定に関する一般的な知識があります。
+  Microsoft 365開発者達は、Microsoft identityとMicrosoft Graphに精通しています。彼らは、UI要素（Adaptive CardsとOffice UI Fabric (Fluent UI)を含む)、統合ポイント（Microsoft Teams、Office Add-ins、 SharePoint Framework、アクション可能なメッセージを含む）、およびワークロードプラットフォームターゲットの決定に関する一般的な知識を持っています。
 subTitle: Microsoft 365 Developers は、 Microsoft 365 プラットフォームを使用する組織の生産性とコラボレーションのニーズに合わせて最適化されたアプリケーションとソリューションを設計、構築、テストおよび保守を実行します。
 levels:
 - intermediate
@@ -29,6 +29,7 @@ paths:
 - uid: learn-m365.m365-extend-fundamental
 - uid: learn-m365.msgraph-associate
 - uid: learn-m365.identity-associate
+- uid: learn-m365.msteams-associate
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcG
 exams:
 - uid: exam.ms-600
@@ -38,10 +39,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

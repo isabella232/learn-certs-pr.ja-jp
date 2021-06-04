@@ -39,7 +39,7 @@ prerequisitesSection: |-
   - クラウドで非リレーショナルデータを操作する知識。
   - データ分析と視覚化の概念に関する知識。
   
-  このコースを受講する前に[MicrosoftAzure Data Fundamentals](/learn/certifications/azure-data-fundamentals)を完了すると、Azureでのデータの操作に関する前提条件と理解を深めることができます。
+  このコースを受講する前に[Microsoft Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals)を完了すると、Azureでのデータの操作に関する前提条件と理解を深めることができます。
 outlineSection: |-
   ### モジュール 1&#58; Microsoft Data Analytics 入門
   このモジュールでは、データスペースでのさまざまなロールについて説明し、データ アナリストの重要な役割や責任の概要について説明し、加えて Power BI ポートフォリオの全体像についても説明します。
@@ -114,7 +114,7 @@ outlineSection: |-
   - ヒストグラムとランキングを作成する
 
 
-  ### モジュール 5&#58; Power BI で DAX を使用してメジャーを作成する
+  ### モジュール 5&#58; Power BIでDAXを使用してモデル計算の作成
   このモジュールでは、DAX の世界と、モデルを拡張するための真の力を紹介します。集計およびメジャーの概念、計算列とテーブル、計算とデータ分析の問題を解決するための Time Intelligence 関数について学びます。
   #### レッスン
   - DAX の概要

@@ -11,7 +11,7 @@ summary: |-
 
   このロールの責任には、セキュリティ体制の維持、さまざまなセキュリティ ツールの使用による脆弱性の特定と修正、脅威保護の実装、セキュリティ インシデントのエスカレーションへの対応が含まれます。
 
-  Azure Security Engineer は、多くの場合、エンドツーエンド インフラストラクチャの一部として、クラウドベースの管理とセキュリティまたはハイブリッド環境に専念する大規模なチームの一部として機能します。
+  Azureセキュリティ開発者達は、cloudベースの管理とセキュリティを専門とする大規模なチームの一員として機能することが多く、エンドツーエンドのインフラストラクチャの一部としてハイブリッド環境を保護する場合もあります。
 
   この認定資格の受験者は、スクリプト作成と自動化に優れたスキルを持ち、ネットワーキング、仮想化、およびクラウドの N 層アーキテクチャを深く理解し、Azure のクラウド機能と製品とサービス、およびその他の Microsoft 製品とサービスに精通している必要があります。
 subTitle: Azureセキュリティエンジニアは、セキュリティコントロールおよび脅威に対する保護を実装しており、ID管理とアクセス管理、データ保護、アプリケーション保護、およびエンドツーエンドのインフラの一環としてクラウド上およびハブリッド環境内のネットワーク保護を管理します。
@@ -53,10 +53,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

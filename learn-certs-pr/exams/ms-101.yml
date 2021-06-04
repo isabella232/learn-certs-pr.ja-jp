@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-101
 displayName: MS-101
 summary: |-
-  <div><font color='red'><strong>この試験の内容は2021年2月24日に更新されます。下記、スキル測定に関する文書をダウンロードして、変更点をご確認ください。</strong></font><br/><br/></div>
+  <div> <font color='red'> <strong>この試験の内容は2021年5月25日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong> </font> <br/> <br/> </div>
   
   この試験の受験者は、Microsoft 365 サービスの評価、計画、移行、展開、および管理に参加している Microsoft 365 エンタープライズ管理者です。それらは、ID、セキュリティ、コンプライアンス、およびサポートテクノロジを含む、企業向けのMicrosoft 365テナント管理タスクを実行します。
   
@@ -21,9 +21,9 @@ locales:
 levels:
 - advanced
 skills:
-- この試験の内容は2021年2月24日に更新されます。下記、試験スキルアウトラインをダウンロードして、変更点をご確認ください。
-- 最新のデバイス サービスの実装 (30-35%)
-- Microsoft 365 のセキュリティおよび脅威の管理の実装 (30-35%)
+- この試験の内容は2021年5月25日に更新されます。以下の試験スキルの概要をダウンロードして、変更点をご確認ください。
+- 最新のデバイス サービスの実装 (40-45%)
+- Microsoft 365 のセキュリティおよび脅威の管理の実装 (20-25%)
 - Microsoft 365 のガバナンスおよびコンプライアンスの管理 (35-40%)
 roles:
 - administrator
@@ -52,10 +52,10 @@ relatedCertifications:
 resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認証ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

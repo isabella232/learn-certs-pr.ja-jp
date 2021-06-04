@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-742
 displayName: 70-742
 summary: |-
-  <div>
-  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
-  </div>
+  <div> <font color='red'> <strong>この試験は2021年1月31日に終了しました。現在利用可能なオプションについては、<a href='/learn/certifications/browse/?resource_type=examination'>をご参照ください。認定と試験のページ閲覧</a>.<br/><br/></strong></font></div>
 
   この試験の候補者は、Windows Server 2016 の機能を使用して ID を管理します。候補者は、Active Directory Domain Service (AD DS) のインストール、構成、管理、および Group Policy Object (GPO) の実装を行います。
 
@@ -18,7 +16,6 @@ summary: |-
 subTitle: この試験の候補者は、Windows Server 2016 の機能を使用して ID を管理します。候補者は、Active Directory Domain Service (AD DS) のインストール、構成、管理、および Group Policy Object (GPO) の実装を行います。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1l
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=742&examname=Identity%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-742
 locales:
 - en
 - es
@@ -36,6 +33,7 @@ skills:
 - グループ ポリシーの作成および管理 (25-30%)
 - Active Directory 証明書サービス (AD CS) の実装 (10-15%)
 - IDフェデレーションおよびアクセスソリューションの実装(15-20%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

@@ -6,15 +6,9 @@ metadata:
 uid: exam.az-104
 displayName: AZ-104
 summary: |-
-  <div>
-  <div><strong>- 本試験の内容は、2021年1月27日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点を確認してください。</strong><br/><br/></div>
-  </div>
+  <div> <font color='red'> <strong>この試験の内容は2021年5月25日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong> </font> <br/> <br/> </div>
 
   この試験の受験者には、組織の Microsoft Azure 環境の実装、管理、監視に関する専門知識が必要です。
-
-  Azure 管理者の責任には、クラウド環境での Id、ガバナンス、ストレージ、コンピューティング、および仮想ネットワークの実装、管理、および監視、さらに必要に応じてリソースのプロビジョニング、サイズ、監視、調整が含まれます。
-
-  Azure 管理者は、多くの場合、組織のクラウド インフラストラクチャの実装に専念するより大きなチームの一部として機能します。
 
   この試験の受験者は、Azure のコア サービス、Azure ワークロード、セキュリティ、およびガバナンスについて十分に理解しているとともに、Azure の管理に関する少なくとも 6 か月の実務経験が必要です。さらに、このロールには、PowerShell、Azure CLI、Azure portal、Azure Resource Manager テンプレートの使用経験が必要です。
 
@@ -35,11 +29,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 本試験の内容は、2021年1月27日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
+- この試験の内容は2021年5月25日に更新されます。以下の試験スキルの概要をダウンロードして、変更点をご確認ください。
 - Azure アイデンティティおよびガバナンスの管理 (15-20%)
-- ストレージの作成と管理 (10-15%)
-- Azure 計算資源の展開と管理 (25-30%)
-- 仮想ネットワークの構成と管理 (30-35%)
+- ストレージの作成と管理 (15-20%)
+- Azure 計算資源の展開と管理 (20-25%)
+- 仮想ネットワークの構成と管理 (25-30%)
 - Azure 資源の監視とバックアップ (10-15%)
 roles:
 - administrator
@@ -64,10 +58,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElC
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

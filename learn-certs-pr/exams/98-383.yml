@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-383
 displayName: 98-383
 summary: |-
+  <div> <font color='red'> <strong>このMTA試験は、2021年6月30日までに購入する必要があります。現在この試験の勉強をしている場合は、2022年6月30日で終了となりますのでそれまでの1年以内に受験する必要があります。詳細については、<a href="/learn/certifications/mta-retirement-faqs"> FAQ</a> </a>をご覧ください。</strong> </font> </br> </br> </div>
+
   この試験の受験者は、構文として正しいHTMLとCSS、HTML要素を使う構造データを理解して書き、CSSを使用するスタイルを作成して適用することが出来なければなりません。
 
   受験者は、最低でも、100時間のHTMLとCSSでの実地体験およびもしくは教習を受けていること、その機能と能力について詳しいこと、よくフォームされているHTMLとCSSを書き、デバッグし、メンテナンスするにはどうするか理解している必要があります。
@@ -35,6 +37,7 @@ skills:
 - HTMLを使用する構造ドキュメント(30-35%)
 - HTMLを使用してマルティメディアを表現(10-15%)
 - CSSを使ったスタイルWebページ (20-25%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:

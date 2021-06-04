@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-375
 displayName: 98-375
 summary: |-
+  <div> <font color='red'> <strong>このMTA試験は、2021年6月30日までに購入する必要があります。現在この試験の勉強をしている場合は、2022年6月30日で終了となりますのでそれまでの1年以内に受験する必要があります。詳細については、<a href="/learn/certifications/mta-retirement-faqs"> FAQ</a> </a>をご覧ください。</strong> </font> </br> </br> </div>
+
   この試験の受験者は、今日のタッチ対応デバイス (PC、タブレット、携帯電話) で動作する HTML5 クライアント アプリケーションの開発のコア スキルを証明しようとしている個人を対象としています。HTML はブラウザーでレンダリングして UI を生成する Web テクノロジと考えられがちですが、この試験は HTML5、CSS3、および JavaScript を使用してクライアント アプリケーションを開発する方法に焦点を当てています。この試験を受ける前に、受験者はこの準備ガイドで概説したトピック (CSS や JavaScript など) に関する強固な基礎知識が必要です。受験者には、関連するトレーニング コースを受講するか、MSDN と Microsoft Visual Studio で利用可能なチュートリアルとサンプルを利用して、関連テクノロジの概念を理解し、実地経験を積むことをお勧めします。
 subTitle: この試験の受験者は、今日のタッチ対応デバイス (PC、タブレット、携帯電話) で動作する HTML5 クライアント アプリケーションの開発のコア スキルを証明しようとしている個人を対象としています。HTML はブラウザーでレンダリングして UI を生成する Web テクノロジと考えられがちですが、この試験は HTML5、CSS3、および JavaScript を使用してクライアント アプリケーションを開発する方法に焦点を当てています。この試験を受ける前に、受験者はこの準備ガイドで概説したトピック (CSS や JavaScript など) に関する強固な基礎知識が必要です。受験者には、関連するトレーニング コースを受講するか、MSDN と Microsoft Visual Studio で利用可能なチュートリアルとサンプルを利用して、関連テクノロジの概念を理解し、実地経験を積むことをお勧めします。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -35,13 +37,11 @@ skills:
 - HTML5を使用してユーザーインターフェイス(UI)を構築する(25-30%)
 - カスケードスタイルシート(CSS)を使用してユーザーインターフェイスをフォーマットする(20-25%)
 - JavaScriptを使用したコーディング(30-35%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:
 - vs
-courses:
-- uid: course.40375
-- uid: course.40034
 relatedCertifications:
 - related:
     uid: certification.mta-html5-application-development-fundamentals

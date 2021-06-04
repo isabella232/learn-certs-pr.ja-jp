@@ -6,21 +6,15 @@ metadata:
 uid: exam.mb-500
 displayName: MB-500
 summary: |-
-  <div>
-  <div><strong>この試験の内容は、2020 年 5 月 22 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
-  </div>
-
-  この試験の受験者は、Microsoft Dynamics 365 の Finance and Operations アプリケーションで作業して、ビジネスの要件を満たすためのアプリケーションを実装および拡張する開発者です。受験生は、標準化されたアプリケーション コーディング パターン、拡張可能な機能、および外部統合を使用することで、完全に実現されたソリューションを提供します。
-
-  受験者は、 X++ の使用によるビジネス ロジックの開発、Finance and Operations のレポートとワークスペースの作成および変更、ユーザー インターフェイスのカスタマイズ、Power Platform アプリケーションと外部システムを支援するためのエンドポイントと API の提供、テストの実施、パフォーマンスの監視、データの分析、操作、技術設計と実施の詳細の提供、および権限ポリシーとセキュリティ要件の実行などを担当します。
-
-  受験者は、レガシー システムおよび外部システムからのデータおよびオブジェクトの移行、Finance and Operations アプリケーションと他のシステムとの統合、アプリケーション ライフサイクル管理プロセスの実行、ソリューションの機能設計の計画、および Lifecycle Services (LCS) を使用した Finance and Operations 環境の管理に参加します。
-
-  受験者は、Finance and Operations ソリューションに関連する基本的フレームワーク、データ構造、およびオブジェクトを使用する深い知識と経験を持っている必要があります。
-
-  受験者は、 Visual Studio 、 Azure DevOps、 LCS ツール、または SQL Server Management Studio などの製品を使用した経験を持っている必要があります。
-
-  受験者は、オブジェクト指向のプログラミング言語を使用したコードの開発、 Transact-SQL コードを使用したデータの分析と操作、および Windows PowerShell のコマンドとスクリプトの作成および実行の経験を持っている必要があります。
+  <div> <font color='red'> <strong>この試験の内容は2021年4月2日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong> </font> <br/> <br/> </div>
+  
+  この試験の候補者は、Microsoft Dynamics 365の財務と運営アプリを使用して、ビジネスの要件を満たすアプリケーションを実装および拡張する開発者です。候補者は、標準化されたアプリケーションコーディングパターン、拡張可能な機能、および外部統合を使用して、完全に実現されたソリューションを提供します。
+  
+  候補者は、X++を使用してビジネスロジックを開発し、財務および運用レポートとワークスペースを作成および変更し、ユーザーインターフェイスをカスタマイズし、Power Platformアプリと外部システムをサポートするエンドポイントとAPIを提供し、テストを実行し、パフォーマンスをモニタリングし、データを分析および操作し、技術設計を作成し、実装の詳細、および許可ポリシーとセキュリティ要件の実装を行います。
+  
+  候補者は、財務および運用ソリューションに関連する基盤となるフレームワーク、データ構造、およびオブジェクトを使用した深い知識と経験を持っている必要があります。
+  
+  受験者は、Visual Studio、Azure DevOps、 Lifecycle Services (LCS)ツール、SQL Server Management Studioなどの製品に関する経験が必要です。
 subTitle: 'この試験では、アーキテクチャとソリューション設計の計画、開発者ツールの適用、 AOT 要素の設計と開発、コードの開発とテスト、レポートの実装、データ ソリューションの統合と管理、セキュリティの実装とパフォーマンスの最適化といった技術的なタスクを実行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42pBB
@@ -30,7 +24,7 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は、2020 年 5 月 22 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- この試験の内容は2021年4月2日に更新されました。変更点を確認するには、以下の試験スキルの概要をダウンロードしてください。
 - Architecture and Solution Design を計画する (10-15%)
 - Developer Tools を適用する (10-15%)
 - AOT 要素の設計および開発 (20-25%)
@@ -62,7 +56,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cdas
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定ポスター
   description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

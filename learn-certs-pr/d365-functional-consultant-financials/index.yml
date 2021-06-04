@@ -7,7 +7,18 @@ uid: certification.d365-functional-consultant-financials
 certificationRenewalUid: renewal.d365-functional-consultant-financials
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Dynamics 365 Finance Functional Consultantsは、グローバルな財務と業務を統合します。タスクとワークフローを自動化します。顧客の注文、販売、請求、報告を合理化します。
+  ビジネス要件を分析し、業界のベストプラクティスに基づいて成功するビジネスプロセスとソリューションに変換する機能コンサルタントとしての経験がある場合は、この認定資格を使用してスキルを証明し、キャリアの向上に役立ててください。ビジネス要件を満たすには、Dynamics 365 Financeの実装と構成の経験が必要です。
+  
+  この認定は、売掛金、買掛金、総勘定元帳、固定資産、予算編成、原価計算と原価管理、または費用で働く財務部門の人々に適しています。あなたは、企業会計の原則と財務業務の基本的な理解を持っている必要があります。
+  
+  この認定を取得する前にさらに経験が必要な場合は、次のご提案があります。
+  - Dynamics 365 Financeを使用する機能コンサルタントと協力。
+  - 1つ以上のプロジェクトで機能コンサルタントとして仕事。
+  - 財務コンサルティングプロジェクトに取り組む。
+  - [community.dynamics.com](https://community.dynamics.com/)で専門家や仲間のコミュニティに参加。
+  - Microsoft Learnで利用可能な学習パスを取得。
+  - インストラクター主導のトレーニングコースに登録。
+  - より実践的な練習の完了。
 subTitle: 'Dynamics 365 Finance Functional Consultantsは、グローバルな財務と業務を統合します。タスクとワークフローを自動化します。顧客の注文、販売、請求、報告を合理化します。'
 levels:
 - intermediate
@@ -56,7 +67,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRF
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定の学習経路
   description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56Y

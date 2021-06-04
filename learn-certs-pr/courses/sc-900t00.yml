@@ -1,0 +1,102 @@
+### YamlMime:Course
+title: Microsoft Security, Compliance, and Identity Fundamentals
+metadata:
+  title: 'Course SC-900T00-A: Microsoft Security, Compliance, and Identity Fundamentals'
+  description: 'Course SC-900T00-A: Microsoft Security, Compliance, and Identity Fundamentals'
+uid: course.sc-900t00
+courseNumber: 'SC-900T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: セキュリティ、コンプライアンス、IDの基本的な概念を説明。
+- skill: Microsoft IDおよびアクセス管理ソリューションの概念と機能について説明。
+- skill: Microsoftのセキュリティソリューションの機能について説明。
+- skill: Microsoftのコンプライアンス管理機能について説明。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-user
+- student
+products:
+- m365
+exams:
+- uid: exam.sc-900
+summary: |-
+  このコースでは、セキュリティ、コンプライアンス、IDの概念、および関連するCloudベースのMicrosoftソリューションに関する基礎レベルの知識をご提供します。
+
+  #### オーディエンスプロフィール
+  このコースの受講者は、cloudベースおよび関連するMicrosoftサービス全体のセキュリティ、コンプライアンス、およびID（SCI）の基礎を理解しようとしています。このコースの内容は、SC-900試験の目的ドメインに沿っています。候補者は、Microsoft AzureとMicrosoft 365に精通し、Microsoftのセキュリティ、コンプライアンス、およびIDソリューションがこれらのソリューション領域にまたがって、全体的でエンドツーエンドのソリューションを提供する方法を理解している必要があります。
+prerequisitesSection: |-
+  このコースに参加する前に、受講者は以下を持っている必要があります&#58;
+  - ネットワーキングとcloudコンピューティングの概念に関する一般的な理解。
+  - 一般的なIT知識またはIT環境での一般的な経験。
+  - Microsoft AzureおよびMicrosoft 365の一般的な理解。
+outlineSection: |-
+  ### モジュール 1&#58; セキュリティ、コンプライアンス、およびIDの基本的な概念説明。
+  ゼロトラスト、責任の共有、プライバシーの原則など、セキュリティ、コンプライアンス、アイデンティティソリューションの基盤となるコアコンセプト、原則、方法論について学びます。
+
+  #### レッスン
+  - セキュリティの概念と方法論の説明。
+  - Microsoftのセキュリティとコンプライアンスの原則についての説明。
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  -セキュリティの概念と方法論の説明。
+  -サービストラストポータルの探索。
+  -Azureコンプライアンスドキュメントを見つけて確認する場所の把握。
+
+  ### モジュール 2&#58;  Microsoft IDおよびアクセス管理ソリューションの概念と機能を説明する
+  Azure ADサービスとIDプリンシパル、安全な認証、アクセス管理機能、およびID保護とガバナンスについて学習します。
+
+  #### レッスン
+  - アイデンティティの概念説明
+  - Azure ADの基本的なサービスとIDの種類説明
+  - Azure ADの認証機能についての説明
+  - Azure ADのアクセス管理機能についての説明
+  - Azure ADのID保護およびガバナンス機能についての説明
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - 基本的なアイデンティティの概念説明。
+  - Azure ADの基本的なサービスとIDの種類説明
+  - Azure ADの認証機能についての説明。
+  - Azure ADのアクセス管理機能についての説明。
+  - Azure ADのID保護およびガバナンス機能についての説明。
+
+  ### モジュール 3&#58; Microsoftのセキュリティソリューションの機能説明
+  Microsoftのセキュリティ機能について学びます。取り上げるトピックには、Azureのネットワークおよびプラットフォーム機能、Azureセキュリティ管理、およびSentinelが含まれます。 Microsoft 365 DefenderとMicrosoft 365のセキュリティ管理による脅威の保護について学習し、Intuneを使用したエンドポイントの保護について学習します。
+  #### レッスン
+  - Azureの基本的なセキュリティ機能についての説明
+  - Azureのセキュリティ管理機能についての説明
+  - Azure Sentinelのセキュリティ機能についての説明
+  - Microsoft 365の脅威保護機能についての説明
+  - Microsoft 365のセキュリティ管理機能についての説明
+  - Microsoft Intuneを使用したエンドポイントセキュリティについての説明
+  - モジュールの概要
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Azureの基本的なセキュリティ機能についての説明。
+  - Azureのセキュリティ管理機能についての説明。
+  - Azure Sentinelのセキュリティ機能についての説明。
+  - Microsoft 365の脅威保護機能についての説明。
+  - Microsoft 365のセキュリティ管理機能についての説明。
+  - Microsoft Intuneを使用したエンドポイントセキュリティについての説明。
+
+  ### モジュール 4&#58;  Microsoftコンプライアンスソリューションの機能を説明する
+  Microsoftのコンプライアンスソリューションについて学びます。取り上げるトピックには、コンプライアンスセンター、Microsoft 365の情報保護とガバナンス、インサイダーリスク、監査、および電子情報開示ソリューションが含まれます。また、Azureリソースガバナンス機能についても説明致します。
+  #### レッスン
+  - Microsoftのコンプライアンス管理機能についての説明
+  - Microsoft 365の情報保護およびガバナンス機能についての説明
+  - Microsoft 365の内部リスク機能についての説明
+  - Microsoft 365の電子情報開示機能についての説明
+  - Microsoft 365の監査機能についての説明
+  - Azureのリソースガバナンス機能についての説明
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Microsoftのコンプライアンス管理機能についての説明。
+  - Microsoft 365の情報保護およびガバナンス機能についての説明。
+  - Microsoft 365の内部リスク機能についての説明。
+  - Microsoft 365の電子情報開示機能についての説明。
+  - Microsoft 365の監査機能についての説明。
+  - Azureのリソースガバナンス機能についての説明。

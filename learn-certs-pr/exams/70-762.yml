@@ -6,15 +6,12 @@ metadata:
 uid: exam.70-762
 displayName: 70-762
 summary: |-
-  <div>
-  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
-  </div>
+  <div> <font color='red'> <strong>この試験は2021年1月31日に終了しました。現在利用可能なオプションについては、<a href='/learn/certifications/browse/?resource_type=examination'>をご参照ください。認定と試験のページ閲覧</a>.<br/><br/></strong></font></div>
 
   この試験は、組織全体のデータベースの構築と実装に携わり、高レベルのデータ可用性を実現するデータベースのプロフェッショナルを対象としています。業務としては、データベース ファイル、データ型、およびテーブルの作成、インデックスの計画、作成、および最適化、データの整合性の確保、ビュー、ストアド プロシージャ、および関数の実装、トランザクションやロックの管理などが含まれます。
 subTitle: この試験は、組織全体のデータベースの構築と実装に携わり、高レベルのデータ可用性を実現するデータベースのプロフェッショナルを対象としています。業務としては、データベース ファイル、データ型、およびテーブルの作成、インデックスの計画、作成、および最適化、データの整合性の確保、ビュー、ストアド プロシージャ、および関数の実装、トランザクションやロックの管理などが含まれます。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXU
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=762&examname=Developing%20SQL%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-762
 locales:
 - en
 levels:
@@ -24,6 +21,7 @@ skills:
 - プログラミング オブジェクトの実装 (20-25%)
 - データベースの同時実行の管理 (25-30%)
 - データベース オブジェクトと SQL インフラストラクチャの最適化 (20-25%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

@@ -7,7 +7,7 @@ uid: exam.az-304
 displayName: AZ-304
 summary: |-
   <div>
-  <div><strong>- 本試験の内容は、2021年1月27日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点を確認してください。</strong><br/><br/></div>
+  <div> <font color='red'> <strong>この試験の内容は2021年5月25日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong> </font> <br/> <br/> </div>
   </div>
 
   この試験の受験者は、コンピューティング、ネットワーク、ストレージ、セキュリティなどの側面を含む、Microsoft Azure で実行されるソリューションの設計と実装に関する専門知識を持っている必要があります。受験希望者の方は、Azureを管理するための中級レベルのスキルを持っている必要があります。受験希望者の方は、Azureの開発とDevOps のプロセスを理解する必要があります。
@@ -29,7 +29,7 @@ locales:
 levels:
 - advanced
 skills:
-- 本試験の内容は、2021年1月27日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
+- この試験の内容は2021年5月25日に更新されます。以下の試験スキルの概要をダウンロードして、変更点をご確認ください。
 - モニタリングを設計する (10-15%)
 - アイデンティティとセキュリティを設計する (25-30%)
 - データ ストレージの設計 (15-20%)
@@ -62,10 +62,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認証ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

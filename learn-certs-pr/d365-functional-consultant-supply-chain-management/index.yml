@@ -7,7 +7,16 @@ uid: certification.d365-functional-consultant-supply-chain-management
 certificationRenewalUid: renewal.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Dynamics 365 Supply Chain Management Functional Consultantsは、クライアントの原価計算、在庫管理、マスター プランニング、倉庫管理を合理化します。
+  Supply Chain Managementの業界標準を基本的に理解している機能コンサルタントまたはビジネスユーザーの場合、この認定資格が適している可能性があります。また、組織のニーズを満たすために、Dynamics 365Supply Chain Managementの構成と実装の経験も必要です。Supply Chain Managementの機能コンサルタントは、開発者、ソリューションアーキテクト、プロジェクトマネージャー、および財務、商業、製造の機能コンサルタントと協力する重要なリソースです。
+  
+  この認定を取得する前にさらに経験が必要な場合は、いくつかのご提案があります&#58;
+  
+  - Microsoft LearnでSupply Chain Managementモジュールを学習し、より実践的な実践の完了。
+  - MB-300またはMB-330トラックをカバーするインストラクター主導のトレーニングコースに登録。
+  - [community.dynamics.com](https://community.dynamics.com/)のコミュニティに参加するか、ユーザーグループに参加。
+  - Supply Chain Management機能コンサルタントをシャドウイングし、Dynamics 365 Supply Chain Management機能実装の支援。
+  - メンターを雇い、倉庫を見学し、物事がどのように行われるか学習。
+  - 専門家や顧客への質問を通して学習。
 subTitle: 'Dynamics 365 Supply Chain Management Functional Consultantsは、クライアントの原価計算、在庫管理、マスタープランニング、倉庫管理を合理化します。'
 levels:
 - intermediate
@@ -55,7 +64,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjF
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定の学習経路
   description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9S

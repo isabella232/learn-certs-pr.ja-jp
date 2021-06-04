@@ -6,6 +6,8 @@ metadata:
 uid: exam.md-100
 displayName: MD-100
 summary: |-
+  <div> <font color ='red'> <strong>この試験の内容は2021年3月8日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong> </font> <br/> <br/> </div>
+
   2019 年 3 月 31 日に期限が切れる前に [試験 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) に合格した場合、MD-101 を取得するだけで Modern Desktop 認定を取得できます。この試験の受験生は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視する管理者です。受験生は、ID、アクセス、ポリシー、アップデート、およびアプリを管理します。
 
   管理者として、受験者は通常、現代の組織のビジネスニーズを満たすデバイス戦略を設計および実装するために、Microsoft 365 Enterprise Administrator と協力します。
@@ -13,7 +15,7 @@ summary: |-
   受験者は、Microsoft 365 のワークロードに精通している必要があり、Windows 10 および Windows 以外のデバイスとテクノロジの展開、構成、および保守に精通しており、熟練している必要があります。
 
   この認定試験に合格すると、ACEカレッジの単位を取得できる可能性がございます。詳細については、[認定試験のためのACEカレッジクレジット](/learn/certifications/ace-credit-for-certification-exams) をご参照ください。
-subTitle: 'この試験では、次の一覧に示す技術タスクを遂行する能力を評価します: デバイスとデータの管理。接続を構成します。Windows を保守します。2019 年 3 月 31 日の有効期限が切れる前に試験 70-698 に合格した場合、MD-101 を取得するだけで Modern Desktop 認定を取得できます。'
+subTitle: 'この試験では、次の技術的タスクを実行する能力を測定します。Windowsの展開、デバイスとデータ管理、ストレージと接続の構成、 Windowsの維持。 2019年3月31日に有効期限が切れる前にExam 70-698に合格した場合は、MD-101を取得するだけでModern Desktop certificationを取得することができます。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVC
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MD-100&examname=Exam%20MD-100:%20Windows%2010&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-100
@@ -22,10 +24,11 @@ locales:
 levels:
 - intermediate
 skills:
+- この試験の内容は2021年3月8日に更新されました。変更点を確認するには、以下の試験スキルの概要をダウンロードしてください。
 - Windows の展開 (15-20%)
-- デバイスとデータの管理 (35-40%)
-- 接続性の構成 (15-20%)
-- Windows の維持 (25-30%)
+- デバイスとデータの管理 (25-30%)
+- ストレージと接続の構成(15-20%)
+- Windows の維持 (30-35%)
 roles:
 - administrator
 products:
@@ -46,10 +49,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

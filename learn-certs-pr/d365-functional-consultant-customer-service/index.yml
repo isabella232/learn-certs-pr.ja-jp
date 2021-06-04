@@ -7,7 +7,15 @@ uid: certification.d365-functional-consultant-customer-service
 certificationRenewalUid: renewal.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft Dynamics 365 Customer Service Functional Consultants は、迅速かつ機敏、そして AI を活用した CX ソリューションを構築し、顧客ニーズを予測する実用的な洞察をもたらします。
+  もしあなたがお客様向けのDynamics365ソリューションの構成と実装を担当する機能コンサルタントの場合は、この認定資格を使用して、スキルに光を当て、キャリアの向上に役立てることができます。 Dynamics 365 Customer Service機能コンサルタントは、サービス、品質、信頼性、効率、および顧客満足度に重点を置いたオムニチャネルソリューションを実装します。機能コンサルタントとして、プロジェクトマネージャー、開発者、ソリューションアーキテクトと協力する方法を知っています。 Dynamics 365を実装する機能コンサルタントとして、最低1〜3年の経験が必要となります。
+  
+  この認定を取得する前にさらに経験が必要な場合は、いくつかのご提案があります&#58;
+  - 1つ以上のプロジェクトでDynamics 365機能コンサルタントとして仕事。
+  - Dynamics365 Customer Serviceの実装への取り組み。
+  - [community.dynamics.com](https://community.dynamics.com/)でコミュニティに参加。
+  - [Microsoft Learn](/learn/browse/?expanded=dynamics-365&products=dynamics-customer-service&roles=functional-consultant&resource_type=learning%20path)で利用可能な学習パスの取得。
+  - より実践的な練習の完了。
+  - インストラクター主導のトレーニングコースに登録。
 subTitle: Microsoft Dynamics 365 Customer Service Functional Consultants は、迅速かつ機敏、そして AI を活用した CX ソリューションを構築し、顧客ニーズを予測する実用的な洞察をもたらします。
 levels:
 - intermediate
@@ -17,7 +25,7 @@ skills:
 - スケジューリングを実装する
 - カスタマー サービスにオムニチャネルを実装する
 - 分析を管理する
-- Common Data Service を設定する
+- Microsoft Dataverseの構成
 - Power App を使用してアプリを作成する
 - Power Automate を作成および管理する
 - Power Virtual Agents チャットボットを実装する
@@ -62,7 +70,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定の学習経路
   description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87

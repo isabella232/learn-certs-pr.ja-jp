@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-382
 displayName: 98-382
 summary: |-
+  <div> <font color='red'> <strong>このMTA試験は、2021年6月30日までに購入する必要があります。現在この試験の勉強をしている場合は、2022年6月30日で終了となりますのでそれまでの1年以内に受験する必要があります。詳細については、<a href="/learn/certifications/mta-retirement-faqs"> FAQ</a> </a>をご覧ください。</strong> </font> </br> </br> </div>
+
   この試験の受験者は構文として正しいJavaScriptコードを理解して書くことが出来る必要があり、JavaScriptがサポートするデータタイプを使用し、与えられた問題を論理的に解くことのできるJavaScriptコードを認識できる必要があります。
 
   受験者は、最低でも、100時間のJavaScriptプログラム言語での実地体験か教習を受けている必要があります。受験者は、JavaScriptの機能と実現可能性、そしてよくフォームされよくドキュメンテーションされたJavaScriptコードをどのように書き、デバッグし、メンテナンスするか理解していなければなりません。
@@ -35,6 +37,7 @@ skills:
 - 決定とループを実装して分析(20-25%)
 - ドキュメントオブジェクトモデルと相互作用 (15-20%)
 - HTMLフォームと相互作用(5-10%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:

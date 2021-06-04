@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-487
 displayName: 70-487
 summary: |+
-  <div>
-  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
-  </div>
+  <div> <font color='red'> <strong>この試験は2021年1月31日に終了しました。現在利用可能なオプションについては、<a href='/learn/certifications/browse/?resource_type=examination'>をご参照ください。認定と試験のページ閲覧</a>.<br/><br/></strong></font></div>
 
   この認定資格の受験者は、Visual Studio 2017 および Microsoft® .NET Core Framework を使用して Web ソリューションを設計および開発する専門的な開発者です。候補者は、最低 3 〜 5 年の ASP.NET MVC ベースのソリューションを開発した経験が必要です。さらに、候補者は次のことを実証出来ることが求められます&#58;
   - Windows Azure を含むさまざまな (ローカルおよびリモートの) データとサービスにアクセスする Web アプリケーションの設計と開発の経験
@@ -19,7 +17,6 @@ summary: |+
 subTitle: 'この認定資格の受験者は、Visual Studio 2017 および Microsoft® .NET Core Framework を使用して Web ソリューションを設計および開発する専門的な開発者です。候補者は、最低 3 〜 5 年の ASP.NET MVC ベースのソリューションを開発した経験が必要です。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMe
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=487&examname=Developing%20Microsoft%20Azure%20and%20Web%20Services&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-487
 locales:
 - en
 - zh-cn
@@ -35,6 +32,7 @@ skills:
 - Web API ベースのサービスの作成と使用 (20-25%)
 - Web サービスの設計と実装 (15-20%)
 - Web アプリケーションとサービスの展開 (15-20%)
+retirementDate: 01/31/2021
 roles:
 - developer
 products:

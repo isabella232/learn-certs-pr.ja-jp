@@ -6,15 +6,14 @@ metadata:
 uid: exam.mb-700
 displayName: MB-700
 summary: |-
-  <div><div><strong>- 本試験の内容は、2021年2月26日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点を確認してください。</strong><br/><br/></div>
+  <div>
+  <div> <font color='red'> <strong>この試験の内容は2021年3月17日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong> </font> <br/> <br/> </div>
   </div>
-
-  Microsoft Dynamics 365 の財務および運用アプリのソリューション アーキテクトは、ビジネスで推奨されるプラクティスとソフトウェア機能を理解している信頼できるアドバイザーです。彼らはチーム メンバーが事前定義された実装目標を達成できる Dynamics ソリューションを実装できるようリードします。
-
-  ソリューション アーキテクトは、エンドツーエンド ソリューションの整合性と配信の成功に責任があります。アーキテクトは、プリセールス中に設計プロセス全体で重要なガイダンスを提供し、プロジェクト ライフサイクルの残りの期間にわたって監視を続け、実装全体で発生する問題に対処し、実装目標の達成を確実にします。
-
-  ソリューション アーキテクトには、業界標準と製品機能に関する幅広く深い知識と経験が必要です。ソリューション アーキテクトは、Dynamics ソリューションの機能と技術の両方の分野で幅広い専門知識を持っている必要があります。彼らは、プラットフォーム、ツール、および財務、サプライ チェーン管理、製造などの機能領域について知っておく必要があります。さらに彼らは、 1 つ以上の顧客相手の業界で広範な分野の知識を持っています。
-subTitle: 'この試験では、ソリューション要件の特定、ソリューション コンポーネントの設計、およびソリューション テストと管理戦略の定義などの技術的なタスクを遂行する能力を測定します。'
+  
+  この試験の候補者は、利害関係者に助言し、ビジネス要件を安全でスケーラブルで信頼性の高いソリューションに変換することができるMicrosoft Dynamics 365の専門家です。
+  
+  受験者は、すべてのDynamics 365アプリとPower Platformの知識を持っている必要があります。彼らは、財務と運用アプリを深く理解している必要があります。さらに、彼らは1つ以上の業界で広範囲なドメイン知識を持っていることとします。この役割には、各領域での決定がソリューション全体にどのように影響するかを理解する必要があります。
+subTitle: 'この試験では、次の技術的タスクを達成する能力を測定します。アーキテクトソリューション、ソリューション戦略の定義、実装管理、テスト管理。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-700&examname=Exam%20MB-700:%20Microsoft%20Dynamics%20365%3A%20Finance%20and%20Operations%20Apps%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-700
@@ -23,10 +22,11 @@ locales:
 levels:
 - advanced
 skills:
-- 本試験の内容は、2021年2月26日に更新されます。以下の試験スキルの概要をダウンロードして、これからの変更点を確認してください。
-- ソリューション要件を特定します (30-35%)
-- ソリューション コンポーネントを設計する (40-45%)
-- ソリューション テストと管理戦略を定義する (25-30%)
+- この試験の内容は2021年3月17日に更新されました。変更点を確認するには、以下の試験スキルの概要をダウンロードしてください。
+- アーキテクトソリューション (25-30%)
+- ソリューション戦略の定義( (25-30%)
+- 実装の管理 (25-30%)
+- テストの管理 (10-15%)
 roles:
 - functional-consultant
 - solution-architect
@@ -36,6 +36,11 @@ courses:
 - uid: course.mb-700t00
 paths:
 - uid: learn-dynamics.become-solution-architect
+- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.implement-finance-operations
+- uid: learn-dynamics.use-success-design-unified-operations
+- uid: learn.wwl.config-d365-finance-operations-apps
 relatedCertifications:
 - related:
     uid: certification.d365-finance-and-operations-apps-solution-architect-expert
@@ -45,7 +50,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gm
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認証ポスター
   description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

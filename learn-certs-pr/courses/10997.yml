@@ -1,0 +1,221 @@
+### YamlMime:Course
+title: Office 365 Administration and Troubleshooting
+metadata:
+  title: 'Course 10997-D: Office 365 Administration and Troubleshooting'
+  description: 'Course 10997-D: Office 365 Administration and Troubleshooting'
+uid: course.10997
+courseNumber: '10997-D'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Office 365サービスについての説明。
+- skill: Microsoft 365管理センターとOffice 365サービス管理センターを使用してOffice 365の管理
+- skill: ディレクトリ同期とディレクトリオブジェクトを管理かつトラブルシューティング。
+- skill: Exchange Onlineの管理とトラブルシューティング。
+- skill: Teamsの管理とトラブルシューティング。
+- skill: SharePoint Onlineの管理とトラブルシューティング。
+- skill: エンタープライズ向けのMicrosoft 365アプリを計画かつ展開。
+- skill: Office 365のコンプライアンスとセキュリティを管理およびトラブルシューティング。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  これは、3日間のインストラクター主導のトレーニング（ILT）コースで、Office 365サービスの管理、構成、トラブルシューティング、および運用に参加する情報技術（IT）の専門家のニーズを対象としています。このコースでは、Office 365テナントと、Exchange Online、SharePoint Online、TeamsなどのOffice 365の主要サービスの管理とトラブルシューティングに必要なスキルに焦点を当てます。また、Office 365のセキュリティおよびコンプライアンス機能についてもご説明致します。
+
+  #### オーディエンスプロフィール
+  このコースは、Office 365の管理とトラブルシューティングの手法について学びたいIT専門家とシステム管理者を対象としています。これらの専門家は、それぞれの分野、理想的にはシステム管理、ネットワーク管理、メッセージングの分野で少なくとも3年の経験が必要です。
+prerequisitesSection: |-
+  このコースに参加する前に、受講者は以下の経験がある必要があります&#58;
+  - Windowsサーバー2012以降を含むWindowsサーバーオペレーティングシステムの管理における最低2年の経験。
+  - Active Directory Domain Services （AD DS）の使用経験が1年以上あること。
+  - DNSを含む名前解決の使用経験が1年以上あること。
+  - 公開鍵基盤（PKI）証明書を含む証明書の使用経験。
+  - Windows PowerShellの使用経験。
+  - Microsoft Exchange Server 2013以降、Microsoft Lync 2013 ServerまたはSkype for Business 2015 Server、およびMicrosoft SharePoint Server 2013以降の使用経験は有益となりますが、必須ではありません。
+outlineSection: |-
+  ### モジュール 1&#58; Office 365サービス
+  このモジュールでは、Office 365の機能について説明し、サービスの最近の改善点を特定します。また、ライセンスオプションを識別し、Office 365テナント構成のプロセスを説明し、適切なOffice 365クライアントオプションを一覧表示します。
+  #### レッスン
+  - Office 365サービスの概要
+  - Microsoft 365およびOffice 365ライセンスの概要
+  - Microsoft 365テナント構成
+  - Office 365クライアント
+
+  
+  #### ラボ&#58; Office 365サービスのセットアップと構成
+  - Microsoft 365ラボ環境のセットアップ
+  - Office 365サービスの構成
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Microsoft 365およびOffice 365サービスについての説明。
+  - Microsoft 365およびOffice 365のライセンスオプションについての説明。
+  - Microsoft 365テナントの構成についての説明。
+  - 利用可能なOffice 365クライアントについての説明。
+
+  
+  
+  ### モジュール 2&#58; Office 365の管理、ツール、および手法
+  このモジュールでは、管理ポータルとWindows Power Shellを使用してOffice 365を管理する方法について説明致します。また、Microsoft 365での管理アクセスの管理方法と管理のトラブルシューティング方法についても説明致します。
+  #### レッスン
+  - 管理ポータルを使用したOffice 365の管理
+  - Windows Power Shellを使用したOffice 365の管理
+  - Microsoft 365での管理アクセスの管理
+  - Office 365での管理のトラブルシューティング
+  
+  
+  #### ラボ&#58; Office 365の管理
+  - Microsoft 365管理センターの使用
+  - Windows Power Shellを使用したOffice 365の管理
+  - 役割ベースの管理の構成
+  - Office 365の管理上の問題のトラブルシューティング
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - 管理ポータルを使用してOffice 365の管理。
+  - Windows Power Shellを使用してOffice 365の管理。
+  - Microsoft 365で管理アクセスの管理。
+  - Office 365での管理のトラブルシューティング。
+
+  
+  ### モジュール 3&#58; ディレクトリ同期とディレクトリオブジェクトの管理とトラブルシューティング
+  このモジュールでは、ディレクトリの同期とフェデレーションについて説明致します。このモジュールでは、Office 365でMicrosoft Azure Active Directory Connect（Azure AD Connect）とユーザーオブジェクトおよびグループオブジェクトを管理する方法について説明致します。さらに、Office 365でオブジェクトとディレクトリ同期のトラブルシューティングを行う方法についても説明致します。
+  #### レッスン
+  - ディレクトリの同期とフェデレーションの概要
+  - Azure AD Connectの管理
+  - Microsoft 365でのユーザーオブジェクトとグループオブジェクトの管理
+  - Office 365でのオブジェクトとディレクトリ同期のトラブルシューティング
+  
+  
+  #### ラボ&#58; Microsoft 365でのディレクトリ同期、ユーザー、およびグループの管理
+  - Azure AD Connectの構成
+  - Microsoft 365管理センターとOffice 365サービス管理センターを使用してOffice 365の管理
+  - Windows Power Shellを使用してOffice 365の管理
+  - Microsoft 365でのパスワードポリシーの管理
+  - Microsoft 365のユーザーオブジェクトとの同期の問題のトラブルシューティング
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - ディレクトリの同期とフェデレーションについての説明。
+  - Azure AD Connectの管理。
+  - Office 365でユーザーオブジェクトとグループオブジェクトの管理。
+  - Office 365でのオブジェクトとディレクトリの同期のトラブルシューティング。
+
+  
+  ### モジュール 4&#58; Exchange Onlineの管理とトラブルシューティング
+  このモジュールでは、Exchange Onlineのサブスクリプションオプションと役割について説明致します。 Exchange OnlineでExchange Onlineの受信者とクライアントアクセスポリシーを管理する方法と、Exchange Onlineのトラブルシューティング方法について説明致します。
+  ####レッスン
+  - Exchange Online管理の概要
+  - Exchange Online受信者の管理
+  - Exchange Onlineでのクライアントアクセスポリシーの管理
+  - Exchange Onlineのトラブルシューティング
+  
+  
+  #### ラボ&#58; Exchange Onlineの管理とトラブルシューティング
+  - Exchange Online受信者の構成と管理
+  - 委任された管理の構成
+  - クライアントアクセスポリシーの構成
+  - Exchange Onlineのトラブルシューティング
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Exchange Onlineのサブスクリプションオプションと役割についての説明。
+  - Exchange Onlineの受信者の管理。
+  - Exchange Onlineでクライアントアクセスポリシーの管理。
+  - Exchange Onlineのトラブルシューティング。
+
+  
+  
+  ### モジュール 5&#58; Teamsの管理とトラブルシューティング
+  このモジュールでは、Teamsについて説明し、Teamsを管理、およびトラブルシューティングする方法について説明致します。
+  #### レッスン
+  - Teamsの概要
+  - Teamsの管理
+  - Teamsでのチームの作成と管理
+  - トラブルシューティングTeams
+  
+  
+  #### ラボ&#58; 管理Teams
+  - Teamsの組織設定の構成
+  - Teamsユーザー設定の構成
+  - チームの作成と管理
+  - Teamsクライアントの問題のトラブルシューティング
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Teamsについての説明。
+  - Teamsの管理。
+  - チームを作成および管理。
+  - Teamsの問題をトラブルシューティング。
+
+  
+  
+  ### モジュール 6&#58; Share Point Onlineの管理とトラブルシューティング
+  このモジュールでは、SharePoint Onlineの設定とサイトコレクション、およびShare Point Onlineへの外部ユーザーアクセスを構成する方法について説明致します。また、Microsoft OneDrive for Businessの同期を管理する方法と、Share Point Onlineのトラブルシューティング方法についても説明致します。
+  #### レッスン
+  - Share Point Online管理の概要
+  - Share Point Onlineサイトコレクションの管理
+  - Share Point Onlineでの外部ユーザーの管理
+  - OneDrive for Businessの構成
+  - Share Point OnlineとOneDrive for Businessのトラブルシューティング
+  
+  
+  #### ラボ&#58; Share Point Onlineの構成と管理
+  - Share Point Online設定の構成
+  - SharePointサイトコレクションの作成と構成
+  - 外部ユーザー共有の構成と検証
+  - OneDrive for Businessの構成
+  - Share Point OnlineとOneDrive for Businessのトラブルシューティング
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Share Point Onlineの管理。
+  - Share Point Onlineサイトコレクションの構成。
+  - Share Point Onlineへの外部ユーザーアクセスの構成。
+  - OneDrive for Businessの同期の管理。
+  - Share Point OnlineとOneDrive for Businessのトラブルシューティング。
+
+  
+
+  ### モジュール 7&#58; エンタープライズ向けMicrosoft 365アプリの計画と展開
+  このモジュールでは、エンタープライズ向けのMicrosoft 365アプリについて説明致します。また、エンタープライズ展開用のユーザー主導のMicrosoft 365 アプリを計画および管理する方法と、展開のトラブルシューティング方法についても説明致します。
+  #### レッスン
+  - エンタープライズ向けMicrosoft 365アプリの概要
+  - エンタープライズ展開用のMicrosoft 365アプリの管理
+  - Microsoft 365アプリの展開のトラブルシューティング
+  
+  
+  #### ラボ&#58; エンタープライズインストール用のMicrosoft 365アプリの管理
+  - エンタープライズインストール用のMicrosoft 365アプリの準備
+  - エンタープライズインストール用のユーザー主導のMicrosoft 365アプリの管理
+  - エンタープライズインストール用の一元化されたMicrosoft 365アプリの管理
+  - エンタープライズ展開用のMicrosoft 365アプリのトラブルシューティング
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - エンタープライズ向けのMicrosoft 365アプリについての説明。
+  - エンタープライズ展開用のユーザー主導のMicrosoft 365アプリを計画および管理。
+  - エンタープライズ展開用のMicrosoft 365アプリのトラブルシューティング。
+
+
+  ### モジュール 8&#58; Office 365のコンプライアンスとセキュリティの管理とトラブルシューティング
+  このモジュールでは、Office 365のコンプライアンス機能について説明致します。Azure インフォメーションプロテクションとOffice 365のコンプライアンス機能を管理する方法、Office 365で電子メールセキュリティを構成および管理する方法、Office 365のコンプライアンスと保護のトラブルシューティング方法について説明致します。
+  #### レッスン
+  - Office 365のコンプライアンス機能の概要
+  - Office 365での情報保護の管理
+  - Office 365のコンプライアンス機能の管理
+  - Office 365での電子メールセキュリティの構成と管理
+  - Office 365のコンプライアンスと保護のトラブルシューティング
+  
+  
+  #### ラボ&#58; コンプライアンスとセキュリティの構成とトラブルシューティング
+  - Office 365でのAzure インフォメーションプロテクションの構成と検証
+  - コンプライアンス機能の構成
+  - 電子メール保護の構成
+  - セキュリティとコンプライアンスのトラブルシューティング
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Office 365のコンプライアンス機能についての説明。
+  - Office 365でAzure インフォメーションプロテクションの管理。
+  - Office 365のコンプライアンス機能の管理。
+  - Office 365で電子メールセキュリティを構成および管理。
+  - Office 365のコンプライアンスと保護のトラブルシューティング 。
