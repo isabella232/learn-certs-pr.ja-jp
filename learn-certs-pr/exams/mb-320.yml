@@ -22,6 +22,7 @@ summary: |-
 subTitle: 'この試験では、次の技術タスクを実行する能力を測定します。Dynamics 365サプライチェーン管理、製造の構成。 製造プロセスの管理。生産のためのマスタープランの実装。他の製造機能の実装。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVs
+practiceTestUrl:  https://in.mindhub.com/mb-320-microsoft-dynamics-365-supply-chain-management-manufacturing-microsoft-official-practice-test/p/MU-MB-320?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-320&examname=Exam%20MB-320:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Manufacturing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-320
 locales:
 - en
@@ -57,7 +58,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBE
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定ポスター
   description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

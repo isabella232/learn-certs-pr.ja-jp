@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-745
 displayName: 70-745
 summary: |-
-  <div>
-  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
-  </div>
+  <div> <font color='red'> <strong>この試験は2021年1月31日に終了しました。現在利用可能なオプションについては、<a href='/learn/certifications/browse/?resource_type=examination'>をご参照ください。認定と試験のページ閲覧</a>.<br/><br/></strong></font></div>
 
   この試験の受験者は、Windows Server 2016 および Microsoft System Center 2016 Virtual Machine Manager (SCVMM)  を使用してソフトウェア定義データセンター (SDDC) を実装する IT 担当者です。
 
@@ -18,7 +16,6 @@ summary: |-
 subTitle: この試験の受験者は、Windows Server 2016 および Microsoft System Center 2016 Virtual Machine Manager (SCVMM)  を使用してソフトウェア定義データセンター (SDDC) を実装する IT 担当者です。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1k
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=745&examname=Implementing%20a%20Software-Defined%20Datacenter&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-745
 locales:
 - en
 levels:
@@ -30,6 +27,7 @@ skills:
 - Virtual Machine Manager (VMM) で Datacenter Compute Solutions を実装する
 - Software-Defined Datacenter の保護
 - Software-Defined Datacenter の監視およびメンテナンス
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

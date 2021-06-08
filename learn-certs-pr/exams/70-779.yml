@@ -6,15 +6,12 @@ metadata:
 uid: exam.70-779
 displayName: 70-779
 summary: |-
-  <div>
-  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
-  </div>
+  <div> <font color='red'> <strong>この試験は2021年1月31日に終了しました。現在利用可能なオプションについては、<a href='/learn/certifications/browse/?resource_type=examination'>をご参照ください。認定と試験のページ閲覧</a>.<br/><br/></strong></font></div>
 
   この試験の受験生は、Microsoft Excel を使用してデータを処理する方法について精通している必要があります。受験生は Microsoft Excel を使用してデータを消費、変換、モデリング、可視化できなければなりません。受験生は PowerPivot、PivotTables、PivotCharts を使用してデータを設定および操作できなければなりません。受験生にはExcelを使うBIプロフェッショナル、データアナリストや他の役割の人を想定しています。
 subTitle: この試験の受験生は、Microsoft Excel を使用してデータを処理する方法について精通している必要があります。受験生は Microsoft Excel を使用してデータを消費、変換、モデリング、可視化できなければなりません。受験生は PowerPivot、PivotTables、PivotCharts を使用してデータを設定および操作できなければなりません。受験生にはExcelを使うBIプロフェッショナル、データアナリストや他の役割の人を想定しています。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t555
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=779&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Excel&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-779
 locales:
 - en
 levels:
@@ -23,6 +20,7 @@ skills:
 - Microsoft Excel を使用してデータを消費および変換する (30-35%)
 - データのモデル化 (35-40%)
 - データの視覚化 (30-35%)
+retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:

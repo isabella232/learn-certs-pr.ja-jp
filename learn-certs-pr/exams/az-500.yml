@@ -6,16 +6,16 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div><div><strong>この試験の内容は 2021 年 1 月 27 日に更新されます。変更内容を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong><br/><br/></div>
+  <div>  <div><font color='red'><strong>この試験の内容は2021年6月2日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong></font><br/><br/></div>
   </div>
 
-  この試験の受験者には、セキュリティ制御と脅威保護の実装、ID とアクセスの管理、エンドツーエンド インフラストラクチャの一部としてのクラウド環境とハイブリッド環境でのデータ、アプリケーション、ネットワークの保護に関する専門知識が必要です。
+  この試験の候補者は、セキュリティ制御と脅威保護の実装、IDとアクセスの管理、およびデータ、アプリケーション、ネットワークの保護に関する専門知識を持っている必要があります。
 
   Azure Security Engineer の職務には、セキュリティ体制の維持、さまざまなセキュリティ ツールの使用による脆弱性の特定と修正、脅威保護の実装、セキュリティ インシデントのエスカレーションへの対応が含まれます。
 
-  Azure Security Engineer は、多くの場合、エンドツーエンド インフラストラクチャの一部として、クラウドベースの管理とセキュリティまたはハイブリッド環境に専念する大規模なチームの一部として機能します。
-
-  この試験の受験者は、スクリプトと自動化に精通している必要があり、ネットワーキングと仮想化について深く理解している必要があります。受験者は、クラウド機能、Azure 製品とサービス、およびその他の Microsoft 製品とサービスに精通している必要もあります。
+  Azure セキュリティ開発者は、Cloudベースの管理とセキュリティを専門とする大規模なチームの一員として機能することが多く、エンドツーエンドのインフラストラクチャの一部としてハイブリッド環境を保護する場合もあります。
+  
+  この試験の受験者は、スクリプトと自動化に精通し、ネットワークと仮想化について深く理解している必要があります。候補者は、cloud機能、Azure製品とサービス、およびその他のMicrosoft製品とサービスにも精通している必要があります。
 subTitle: 'この試験では、ID とアクセスの管理、プラットフォーム保護の実装、セキュリティ運用の管理、データとアプリケーションの安全確保という技術的タスクを遂行する能力を評価します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
@@ -32,7 +32,7 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は 2021 年 1 月 27 日に更新されます。変更内容を確認するには、以下の試験スキルの概要をダウンロードしてください。
+- この試験の内容は2021年6月2日に更新されます。以下の試験スキルの概要をダウンロードして、変更点をご確認ください。
 - IDとアクセスの管理 (30-35%)
 - プラットフォーム保護の実装をする (15-20%)
 - セキュリティ運用を管理する (25-30%)
@@ -64,10 +64,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認証ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

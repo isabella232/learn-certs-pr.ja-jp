@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-357
 displayName: 70-357
 summary: |-
-  <div>
-  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
-  </div>
+  <div> <font color='red'> <strong>この試験は2021年1月31日に終了しました。現在利用可能なオプションについては、<a href='/learn/certifications/browse/?resource_type=examination'>をご参照ください。認定と試験のページ閲覧</a>.<br/><br/></strong></font></div>
 
   この試験の受験者は、Windows ストアまたはビジネス向け Windows ストアのいずれかに展開するために Windows 10 アプリを設計および開発する経験豊富な開発者の方です。
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: この試験の受験者は、Windows ストアまたはビジネス向け Windows ストアのいずれかに展開するために Windows 10 アプリを設計および開発する経験豊富な開発者の方です。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjH
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=357&examname=Developing%20Mobile%20Apps&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-357
 locales:
 - en
 - es
@@ -37,6 +34,7 @@ skills:
 - ユーザー入力とユーザーのカスタム操作の管理 (10-15%)
 - 認証と ID の管理 (10-15%)
 - 通知、バックグラウンド タスク、再利用可能なコンポーネントの実装 (15-20%)
+retirementDate: 01/31/2021
 roles:
 - developer
 products:

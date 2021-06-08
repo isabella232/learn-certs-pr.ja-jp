@@ -1,0 +1,278 @@
+### YamlMime:Course
+title: Microsoft Security Operations Analyst
+metadata:
+  title: 'Course SC-200T00-A: Microsoft Security Operations Analyst'
+  description: 'Course SC-200T00-A: Microsoft Security Operations Analyst'
+uid: course.sc-200t00
+courseNumber: 'SC-200T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Endpoint用Microsoft Defenderが環境内のリスクを修正する方法の説明
+- skill: Endpoint 環境用のMicrosoft Defenderの作成
+- skill: Windows10デバイスで攻撃対象領域の削減ルールの構成
+- skill: Endpoint用Microsoft Defender を使用してデバイスでアクションの実行
+- skill: Endpoint用Microsoft DefenderのドメインとIPアドレスの調査
+- skill: Endpoint用Microsoft Defenderでユーザーアカウントの調査
+- skill: Endpoint用Microsoft Defender でアラート設定構成
+- skill: 脅威の状況がどのように進化しているかの説明
+- skill: Microsoft 365 Defenderで高度なハンティングの実行
+- skill: Microsoft 365 Defenderでインシデントの管理
+- skill: ID用Microsoft Defenderが環境内のリスクを修正する方法の説明。
+- skill: Microsoft Cloud App SecurityでDLPアラートを調査
+- skill: インサイダーリスク管理のケースで実行できるアクションの種類の説明。
+- skill: Azure Defenderで自動プロビジョニングの構成
+- skill: Azure Defenderでアラートの修正
+- skill: KQLステートメントの作成
+- skill: KQLを使用して、イベント時間、重大度、ドメイン、およびその他の関連データに基づいて検索をフィルタリング
+- skill: KQLを使用して非構造化文字列フィールドからデータを抽出
+- skill: Azure Sentinelワークスペースを管理
+- skill: KQLを使用してAzure Sentinelのウォッチリストにアクセス
+- skill: Azure Sentinelで脅威インジケーターを管理
+- skill: Azure Sentinelの一般的なイベント形式とSyslogコネクタの違いを説明
+- skill: Azure Windows Virtual MachinesをAzure Sentinelに接続
+- skill: Sysmonイベントを収集するようにLog Analyticsエージェントを構成
+- skill: 分析ルールウィザードを使用して、新しい分析ルールとクエリを作成
+- skill: インシデント対応を自動化するためのプレイブックを作成
+- skill: クエリを使用して脅威を詮索
+- skill: ライブストリームで時間の経過とともに脅威の観察
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- security-engineer
+- security-operations-analyst
+products:
+- azure
+- azure-sentinel
+- m365-threat-protection
+exams:
+- uid: exam.sc-200
+summary: |-
+  Microsoft Azure Sentinel、Azure Defender、およびMicrosoft 365 Defenderを使用して、脅威を調査、対応、およびハンティングする方法を学習して頂きます。このコースでは、これらのテクノロジーを使用してサイバー脅威を軽減する方法を学習して頂きます。具体的には、Azure Sentinelを構成して使用し、Kusto Query Language（KQL）を使用して検出、分析、およびレポートを実行します。このコースは、セキュリティ運用の職務に従事する人々を対象として設計されており、学習者が試験SC-200: Microsoft Security Operations Analystの準備をするのに役立ちます。
+
+  #### オーディエンスプロフィール
+  Microsoftセキュリティ運用アナリストは、組織の利害関係者と協力して、組織の情報技術システムを保護し ます。彼らの目標は、環境内のアクティブな攻撃を迅速に修正し、脅威保護の実践の改善についてアドバイスし、組織のポリシーの違反を適切な利害関係者に紹介することによって、組織のリスクを軽減することです。責任には、脅威の管理、モニタリング、および環境全体でさまざまなセキュリティソリューションを使用することによる対応が含まれます。この役割は主に、Microsoft Azure Sentinel、Azure Defender、Microsoft 365 Defender、およびサードパーティのセキュリティ製品を使用して、脅威を調査、対応、および追跡します。セキュリティ運用アナリストはこれらのツールの運用出力を消費するため、これらのテクノロジーの構成と展開における重要な利害関係者でもあります。
+prerequisitesSection: |-
+  - Microsoft 365の基本的な理解
+  - Microsoftセキュリティ、コンプライアンス、およびID製品の基本的な理解
+  - Windows 10の中級レベルの理解
+  - Azureサービス、特にAzure SQL Database とAzureストレージに精通
+  - Azure仮想マシンと仮想ネットワークに精通
+  - スクリプトの概念の基本的な理解。
+outlineSection: |-
+  ### モジュール 1&#58; Endpoint用Microsoft Defenderを使用して脅威を軽減
+  Endpoint 用Microsoft Defender プラットフォームを実装して、高度な脅威を検出、調査、および対応します。 Endpoint用Microsoft Defenderが組織の安全を維持するのにどのように役立つかをご覧ください。オンボーディングデバイスやセキュリティの構成など、Endpoint用Microsoft Defender環境を展開する方法を学ぶことができます。 Endpoint用Microsoft Defendersを使用してインシデントとアラートを調査する方法を学びます。高度なハンティングを実行し、脅威の専門家に相談してください。また、環境設定を管理することにより、Endpoint用Microsoft Defenderで自動化を構成する方法についても学習して頂きます。最後に、Endpoint用Microsoft Defenderの脅威と脆弱性の管理を使用して、環境の弱点について学習します。
+
+  #### レッスン
+  - Endpoint用Microsoft Defenderを使用して脅威から保護
+  - Endpoint用Microsoft Defenderを使用して環境の展開
+  - Endpoint用Microsoft Defenderを使用してWindows10のセキュリティを強化
+  - Endpoint用Microsoft Defenderを使用してアラートとインシデントを管理
+  - Endpoint用Microsoft Defenderを使用してデバイスの調査の実施
+  - Endpoint用Microsoft Defenderを使用してデバイスでアクションの実行
+  - Endpoint用Microsoft Defenderを使用して証拠とエンティティの調査の実施
+  - Endpoint用Microsoft Defenderを使用して自動化を構成および管理
+  - Endpoint用Microsoft Defenderを使用してアラートと検出の構成
+  - エンドポイントのMicrosoft Defenderを使用して脅威と脆弱性の管理
+
+  #### ラボ&#58; Endpoint用Microsoft Defenderを使用して脅威を軽減
+  - エンドポイントにMicrosoft Defenderをデプロイ
+  - エンドポイントにDefenderを使用して攻撃を軽減
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - エンドポイント用のMicrosoft Defenderの機能定義
+  - エンドポイント環境設定用にMicrosoft Defenderの構成
+  - Windows10デバイスで攻撃対象領域の削減ルールの構成
+  - Endpoint用Microsoft Defenderを使用してアラート調査
+  - Endpoint用Microsoft Defenderを使用して収集されたデバイスフォレンジック情報についての説明
+  - Endpoint用Microsoft Defenderを使用してフォレンジックデータ収集を実施
+  - Endpoint用Microsoft Defenderのユーザーアカウントを調査
+  - Endpoint用Microsoft Defenderで自動化設定の管理
+  - Endpoint用Microsoft Defenderでインジケーターを管理
+  - Endpoint用Microsoft Defenderの脅威と脆弱性の管理についての説明
+
+  
+  ### モジュール 2&#58; Microsoft 365 Defenderを使用して脅威を軽減
+  ドメイン全体の脅威データを分析し、Microsoft 365 Defenderに組み込まれたオーケストレーションと自動化を使用して脅威を迅速に修正します。サイバーセキュリティの脅威と、マイクロソフトの新しい脅威保護ツールが組織のユーザー、デバイス、およびデータをどのように保護するかについて説明致します。 IDベースの脅威の高度な検出と修復を使用して、Azure Active DirectoryのIDとアプリケーションを侵害から保護します。
+
+  #### レッスン
+  - Microsoft 365による脅威保護の概要
+  - Microsoft 365 Defenderを使用してインシデントの軽減
+  - Azure AD Identity ProtectionでIDを保護
+  - Microsoft Defender for Office 365でリスクの修正
+  - ID用Microsoft Defender を使用して環境を保護
+  - Microsoft Cloud App Securityを使用してCloudアプリとサービスの保証
+  - Microsoft 365を使用してデータ損失防止アラートに応答
+  - Microsoft 365の内部リスク管理
+  
+  #### ラボ&#58; Microsoft 365 Defenderを使用して脅威の軽減
+  - Microsoft 365 Defenderで攻撃の軽減
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - 脅威の状況がどのように進化しているかの説明。
+  - Microsoft 365 Defenderでインシデントの管理
+  - Microsoft 365 Defenderで高度なハンティングの実施
+  - Azure Active Directory Identity Protectionの調査および修復機能についての説明。
+  - Endpoint用Microsoft Defenderの機能を定義。
+  - Endpoint用Microsoft Defenderが環境内のリスクを修正する方法の説明。
+  - Cloudアプリセキュリティフレームワークの定義
+  - Cloud Discoveryが組織で何が起こっているかを確認するのにどのように役立つかの説明
+
+  
+  ### モジュール 3&#58; Azure Defenderを使用して脅威の軽減
+  Azure、ハイブリッドCloud、およびオンプレミスのワークロードの保護とセキュリティのために、Azure Security Centerと統合されたAzure Defenderを使用します。 Azure Defenderの目的、Azure DefenderとAzure Security Centerの関係、およびAzure Defenderを有効にする方法について説明致します。また、cloudワークロードごとにAzure Defenderによって提供される保護と検出についても学習して頂きます。ハイブリッド環境にAzure Defenderの機能を追加する方法を学びます。
+  #### レッスン
+  - Azure Defenderを使用してCloudワークロード保護の計画
+  - Azure DefenderのCloudワークロード保護についての説明
+  - AzureアセットをAzure Defenderに接続
+  - Azure以外のリソースをAzure Defenderに接続
+  - Azure Defenderを使用してセキュリティアラートの修正
+  
+  #### ラボ&#58; Azure Defenderを使用して脅威の軽減
+  - Azure Defenderのデプロイ
+  - Azure Defenderで攻撃の軽減
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Azure Defenderの機能についての説明
+  - Azure SecurityCenterの機能についての説明
+  - どのワークロードがAzure Defenderによって保護されているかの説明
+  - Azure Defenderの保護がどのように機能するかの説明
+  - Azure Defenderで自動プロビジョニングの構成
+  - Azure Defenderでの手動プロビジョニングについての説明
+  - Azure以外のマシンをAzure Defenderに接続
+  - Azure Defenderでアラートの説明
+  - Azure Defenderのアラートの修正
+  - Azure Defenderで応答の自動化
+
+  
+  
+  ### モジュール 4&#58; Kusto Query Language（KQL）を使用してAzure Sentinelのクエリの作成
+  Kusto Query Language（KQL）ステートメントを記述して、ログデータを問い合わせ、Azure Sentinelで検出、分析、およびレポートを実行します。このモジュールでは、最もよく使用される演算子に焦点を当てます。 KQLステートメントの例では、セキュリティ関連のテーブルクエリを紹介します。 KQLは、データの分析を実行して分析、ワークブックを作成し、Azure Sentinelでハンティングを実行するために使用されるクエリ言語です。基本的なKQLステートメント構造が、より複雑なステートメントを構築するための基盤をどのように提供するかを学びます。 KQLステートメントを使用してデータを要約および視覚化する方法を学び、Azure Sentinelで検出を構築するための基盤を提供します。 Kusto Query Language（KQL）を使用して、ログソースから取り込んだ文字列データを操作する方法を学びます。
+  #### レッスン
+  - Azure SentinelのKQLステートメントの作成
+  - KQLを使用してクエリ結果の分析
+  - KQLを使用してマルチテーブルステートメントの作成
+  - Kusto Query Languageを使用してAzure Sentinelのデータの操作
+  
+  #### ラボ&#58; Kusto Query Language（KQL）を使用してAzure Sentinelの問い合わせ作成
+  - 基本的なKQLステートメントの作成
+  - KQLを使用してクエリ結果の分析
+  - KQLを使用してマルチテーブルステートメントの作成
+  - KQLステートメントを使用して文字列データの操作
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - KQLステートメントの作成
+  - KQLを使用してセキュリティイベントのログファイルの検索
+  - KQLを使用して、イベント時間、重大度、ドメイン、およびその他の関連データに基づいて検索をフィルタリング
+  - KQLステートメントを使用してデータの要約
+  - KQLステートメントを使用して視覚化をレンダリング
+  - KQLを使用して非構造化文字列フィールドからデータ抽出
+  - KQLを使用して構造化文字列データからデータの抽出
+  - KQLを使用して関数の作成
+
+  ### モジュール 5&#58; Azure Sentinel環境の設定
+  Azure Sentinelワークスペースを適切に設定して、Azure Sentinelの使用を開始します。従来のセキュリティ情報およびイベント管理（SIEM）システムは、通常、セットアップと構成に長い時間がかかります。また、必ずしも cloudワークロードを念頭に置いて設計されているわけではありません。 Azure Sentinelを使用すると、cloudおよびオンプレミスデータから貴重なセキュリティインサイトをすばやく取得し始めることができます。このモジュールは、あなたが取り組み始めるのお手伝いをします。 Azure Sentinelワークスペースのアーキテクチャについて学習し、組織のセキュリティ運用要件を満たすようにシステムを構成できるようにします。セキュリティ運用アナリストは、ワークスペースに取り込まれるテーブル、フィールド、およびデータを理解する必要があります。 Azure Sentinelで最もよく使用されるデータテーブルをクエリする方法を学びます。
+  #### レッスン
+  - Azure Sentinelの概要
+  - Azure Sentinelワークスペースを作成および管理
+  - Azure Sentinelのクエリログ
+  - Azure Sentinelでウォッチリストを使用
+  - Azure Sentinelで脅威インテリジェンスを利用
+
+ 
+  #### ラボ&#58; Azure Sentinel環境を設定
+  - Azure Sentinelワークスペースの作成
+  - ウォッチリストの作成
+  - 脅威インジケーターの作成
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Azure Sentinelのさまざまなコンポーネントと機能の特定
+  - Azure Sentinelが優れたソリューションとなるユースケースの特定。
+  - Azure Sentinelワークスペースアーキテクチャについての説明
+  - Azure Sentinelワークスペースのインストール
+  - Azure Sentinelワークスペースの管理
+  - Azure Sentinelでウォッチリストの作成
+  - KQLを使用して、Azure Sentinelのウォッチリストにアクセス
+  - Azure Sentinelで脅威インジケーターの管理
+  - KQLを使用して、Azure Sentinelの脅威インジケーターにアクセス
+
+  
+  ### モジュール 6&#58; ログをAzure Sentinelに接続
+  オンプレミスと複数のcloudの両方で、すべてのユーザー、デバイス、アプリケーション、インフラストラクチャにまたがるCloudスケールでデータをAzure Sentinelに接続します。ログデータを接続するための主なアプローチは、Azure Sentinelが提供するデータコネクタを使用することです。このモジュールでは、使用可能なデータコネクタの概要を説明致します。 Microsoft 365 Defender用のAzure Sentinelコネクタによって提供される構成オプションとデータについて学習します。
+  #### レッスン
+  - データコネクタを使用してデータをAzure Sentinelに接続
+  - MicrosoftサービスをAzure Sentinelに接続
+  - Microsoft 365 DefenderをAzure Sentinelに接続 
+  - WindowsホストをAzure Sentinelに接続 
+  - 一般的なイベントフォーマットログをAzure Sentinelに接続 
+  - syslogデータソースをAzure Sentinelに接続 
+  - 脅威インジケーターをAzure Sentinelに接続 
+  #### ラボ&#58; ログをAzure Sentinelに接続 
+  - MicrosoftサービスをAzure Sentinelに接続 
+  - WindowsホストをAzure Sentinelに接続 
+  - LinuxホストをAzure Sentinelに接続 
+  - 脅威インテリジェンスをAzure Sentinelに接続 
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Azure Sentinelでのデータコネクタの使用についての説明
+  - Azure Sentinelの一般的なイベントフォーマットとSyslogコネクタの違いを説明
+  - Microsoftサービスコネクタの接続
+  - コネクタがAzure Sentinelでインシデントを自動作成する方法の説明
+  - Azure SentinelでMicrosoft 365 Defenderコネクタをアクティブ化
+  - AzureWindows仮想マシンをAzure Sentinelに接続 
+  - AzureWindows以外のホストをAzure Sentinelに接続 
+  - Sysmonイベントを収集するようにログ分析エージェントの構成
+  - Azure SentinelのCommonEventFormatコネクタの展開オプションについての説明
+  - Azure SentinelでTAXIIコネクタの構成
+  - Azure Sentinelで脅威インジケーターの表示
+
+  
+
+  ### モジュール 7&#58; Azure Sentinelを使用して、検出を作成し、調査を実施
+  Azure Sentinelに組み込まれているオーケストレーションと自動化により、以前に発見された脅威を検出し、脅威を迅速に修正します。セキュリティの脅威に対応するためにAzure Sentinelプレイブックを作成する方法を学習して頂きます。 Azure Sentinelのインシデント管理を調査し、Azure Sentinelのイベントとエンティティについて学習し、インシデントを解決する方法を発見します。また、Azure Sentinelでデータをクエリ、視覚化、およびモニタリングする方法についても学習して頂きます。
+  #### レッスン
+  - Azure Sentinel分析による脅威の検出
+  - Azure Sentinelプレイブックによる脅威への対応
+  - Azure Sentinelでのセキュリティインシデント管理
+  - Azure Sentinelでエンティティの動作分析の使用
+  - Azure Sentinelでデータをクエリ、視覚化、モニタリング
+  
+  #### ラボ&#58; Azure Sentinelを使用して、検出を作成し、調査の実行
+  - 分析ルールの作成
+  - ルールロジックを定義するためのモデル攻撃
+  - Azure Sentinelを使用して攻撃の軽減
+  - Azure Sentinelでワークブックの作成
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Azure Sentinel Analyticsの重要性の説明。
+  - テンプレートからルールの作成
+  - 変更を加えてルールの管理。
+  - Azure Sentinel SOARの機能についての説明。
+  - インシデント対応を自動化するためのプレイブックの作成
+  - インシデントの解決を調査および管理。
+  - Azure Sentinelでのユーザーとエンティティの動作分析についての説明
+  - Azure Sentinelでエンティティを探索
+  - Azure Sentinel Workbooksを使用してセキュリティデータを視覚化。
+  
+  
+  ### モジュール 8&#58; Azure Sentinelで脅威ハンティングの実行
+  このモジュールでは、Azure Sentinelクエリを使用して、脅威の動作を事前に特定する方法を学習して頂きます。また、ブックマークとライブストリームを使用して脅威を追求する方法も学びます。また、Azure Sentinelでノートブックを使用して高度なハンティングを行う方法についても学習して頂きます。
+  #### レッスン
+  - Azure Sentinelを使用した脅威のハンティング
+  - Azure Sentinelでノートブックを使用して脅威を追求
+  
+  #### ラボ&#58; Azure Sentinelでの脅威ハンティング
+  - Azure Sentinelでの脅威ハンティング
+  - ノートブックを使用した脅威ハンティング
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Azure Sentinelで使用する脅威ハンティングの概念の説明
+  - Azure Sentinelで使用する脅威ハンティング仮説の定義
+  - クエリを使用して脅威の追求。
+  - ライブストリームで時間の経過とともに脅威の観察。
+  - Azure Sentinelで高度な脅威ハンティングのためのAPIライブラリを探索
+  - Azure Sentinelでノートブックを作成して使用
+ 

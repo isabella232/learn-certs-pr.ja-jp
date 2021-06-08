@@ -8,12 +8,12 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 'Power Platformコンポーネントの説明: Power Apps、Power BI、Microsoft Automate'
-- skill: 'Power Platformコンポーネントの説明: Common Data Service、Connectors、AI Builder'
-- skill: M365、Dynamics365、MicrosoftAzure、およびサードパーティサービス全体のクロスクラウドシナリオについての説明
-- skill: PowerPlatformの利点と機能の特定
+- skill: Power Platformコンポーネントについての説明
+- skill: Microsoft Dataverse、コネクター、AIビルダーについての説明
+- skill: M365、Dynamics 365、Microsoft Azure、およびサードパーティサービス全体のクロスクラウドシナリオについての説明
+- skill: Power Platformの利点と機能の特定
 - skill: 基本的な機能とビジネスバリューを持ったPowerPlatformコンポーネントの特定
-- skill: PowerApps、PowerAutomate、PowerBI、かつPowerVirtualAgentsを使用してシンプルなソリューションの実装
+- skill: Power Apps、Power Automate、Power BI、かつPower Virtual Agentsを使用してシンプルなソリューションの実装
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -26,7 +26,7 @@ products:
 exams:
 - uid: exam.pl-900
 summary: |-
-  Power Platformのビジネス価値と製品機能を学びましょう。 シンプルなPower Appsを作成し、Common Data Serviceでデータを接続し、Power BIダッシュボードを構築し、Power Automateでプロセスを自動化し、Power Virtual Agentsでチャットボットを構築します。
+  Power Platformのビジネス価値と製品機能を学びます。シンプルなPower Appsを作成し、Dataverseでデータを接続し、Power BI Dashboardを構築し、Power Automateでプロセスを自動化し、Power Virtual Agentsでチャットボットを構築します
 
   #### 聴衆プロファイル
 
@@ -44,20 +44,22 @@ outlineSection: |-
   - Power Platformを使用してビジネスソリューションを作成することの価値を学ぶこと
   - Power Platformのコンポーネントと機能を学ぶこと
 
-  ### モジュール 2&#58; Common Data Serviceの概要
-  Common Data Serviceを使用すると、クラウド内の強力でスケーラブルなデータソリューションを詳しく調べることができます。 Common Data Serviceの特徴と、Power Platformと連携して独自の効率的なビジネスソリューションを作成する方法を学びます。
-  #### レッスン -共通データサービスの概要
+  ### モジュール 2&#58;  Microsoft Dataverseの概要
+  Dataverseを使用すると、Cloud内の強力でスケーラブルなデータソリューションを詳しく調べることができます。 Dataverseが機能する理由と、DataverseがPower Platformと連携して、独自の効率的なビジネスソリューションを作成する方法を学びます。
+  #### レッスン
+  - Microsoft Dataverseの概要
   - モジュールの概要
-
-  #### ラボ &#58; データモデリング
+  
+  #### ラボ&#58; データモデリング
   - ソリューションの作成
-  - エンティティと関係の作成
+  - 既存のテーブルを追加し、新しいテーブルの作成
+  - 関係の構築
   - データのインポート
-
-  このモジュールを完了すると、受講者は次のことができるようになります&#58;
-  - Common Data ServiceとCommon Data Modelの違いの説明
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - DataverseとCommon Data Modelの違いについての説明
   - ユースケースとビジネスルールおよびプロセスフローの制限についての説明
-  - 共通のデータサービスにある環境、エンティティ、フィールド、および関係の説明
+  - Dataverseにある環境、テーブル、列、および関係の説明
 
   ### モジュール 3&#58; Power Appsの使用を開始
   Power Appsの価値と機能、および他の組織がこのテクノロジーを活用してビジネス向けのシンプルなアプリケーションを構築する方法について学びます。
@@ -126,7 +128,7 @@ outlineSection: |-
   - PVAにサインアップして、新しいボットの作成
   - トピックの作成
   - テストトピック
-  - 挨拶の変更
+  - あいさつの変更
   - ボットの公開
 
   このモジュールを完了すると、受講者は次のことができるようになります&#58;

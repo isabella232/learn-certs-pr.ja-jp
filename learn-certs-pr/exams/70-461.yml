@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-461
 displayName: 70-461
 summary: |-
-  <div>
-  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
-  </div>
+  <div> <font color='red'> <strong>この試験は2021年1月31日に終了しました。現在利用可能なオプションについては、<a href='/learn/certifications/browse/?resource_type=examination'>をご参照ください。認定と試験のページ閲覧</a>.<br/><br/></strong></font></div>
 
   この試験は、2 年以上の経験を持つ SQL Server のデータベース管理者、システム エンジニア、および開発者で、クエリ記述のスキルと知識を検証するユーザーを対象としています。
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: この試験は、2 年以上の経験を持つ SQL Server のデータベース管理者、システム エンジニア、および開発者で、クエリ記述のスキルと知識を検証するユーザーを対象としています。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t54W
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=461&examname=Querying%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-461
 locales:
 - en
 - zh-cn
@@ -31,6 +28,7 @@ skills:
 - データの利用 (25-30%)
 - データの変更(20-25%)
 - トラブルシューティングと最適化 (25-30%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

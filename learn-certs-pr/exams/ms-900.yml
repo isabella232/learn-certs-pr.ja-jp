@@ -7,7 +7,7 @@ uid: exam.ms-900
 displayName: MS-900
 summary: |-
   <div>
-  <div><strong>この試験の内容は、2020 年 7 月 8 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  <div><font color='red'><strong>この試験の内容は2021年4月23日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong></font><br/><br/></div>
   </div>
 
   この試験は、クラウド サービス全般および SaaS (Software as a Service) クラウド モデルを採用する際の考慮事項と利点に関する基礎レベルの知識を実証することを目的としています。受験者は、Microsoft 365 クラウド サービス製品の実装によって得られる利用可能なオプションやメリットについての知識が必要です。
@@ -20,6 +20,7 @@ summary: |-
 subTitle: Microsoft 365 のコア サービス、Microsoft 365 におけるセキュリティ/コンプライアンス/プライバシー/信頼、Microsoft 365 の価格とサポートの Cloud コンセプトを理解していることを証明してください。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVw
+practiceTestUrl: https://www.mindhub.com/p/MU-MS-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
 - ja
@@ -38,7 +39,7 @@ providers:
 levels:
 - beginner
 skills:
-- この試験の内容は、2020 年 7 月 8 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- この試験の内容は2021年4月23日に更新されました。変更点を確認するには、以下の試験スキルの概要をダウンロードしてください。
 - クラウドの概念について説明する (10-15%)
 - Microsoft 365 の主要なサービスと概念について説明する (30-35%)
 - Microsoft 365 のセキュリティ、コンプライアンス、プライバシー、信頼について説明する (30-35%)
@@ -65,10 +66,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定ポスター
   description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 資格試験のサポート
   description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
   href: ../help.md

@@ -6,6 +6,9 @@ metadata:
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
+  <div> <div> <font color='red'> <strong>この試験の内容は2021年3月23日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong> </font> <br/> <br/> </div>
+  </div>
+
   この試験の受験者は、Power Platform ソリューションの設計、開発、保護、トラブルシューティングを行います。受験者は、アプリケーションの強化、カスタム ユーザー エクスペリエンス、システム統合、データ変換、カスタム プロセスの自動化、カスタムの可視化などを含むソリューションのコンポーネントを実装します。
 
   受験者は、機能、境界、および制約に関する深い理解を含む、Power Platform サービスの詳細な応用知識を持っている必要があります。受験者は、Power Platformの DevOps プラクティスについて基本的に理解している必要があります。
@@ -20,8 +23,9 @@ locales:
 levels:
 - intermediate
 skills:
+- この試験の内容は2021年3月23日に更新されました。変更点を確認するには、以下の試験スキルの概要をダウンロードしてください。
 - Technical Design を作成する (10-15%)
-- Common Data Service を設定する (15-20%)
+- Microsoft Dataverseの構成  (15-20%)
 - Power Apps を作成および設定する (15-20%)
 - ビジネスプロセスの自動化を構成する (5-10%)
 - ユーザー エクスペリエンスを拡張する (10-15%)
@@ -54,7 +58,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GBWZ
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認証ポスター
   description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

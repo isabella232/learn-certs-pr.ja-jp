@@ -28,7 +28,7 @@ skills:
 - カスタマー ジャーニーを管理する
 - イベントとウェビナーを管理する
 - Dynamics 365カスタマーボイスの構成
-- Common Data Service を設定する
+- Microsoft Dataverseの構成 
 - Power App を使用してアプリを作成する
 - Power Automate を作成および管理する
 - Power Virtual Agents チャットボットを実装する
@@ -73,7 +73,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C55m
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定の学習経路
   description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjW

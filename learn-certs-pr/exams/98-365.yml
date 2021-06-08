@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-365
 displayName: 98-365
 summary: |-
+  <div> <font color='red'> <strong>このMTA試験は、2021年6月30日までに購入する必要があります。現在この試験の勉強をしている場合は、2022年6月30日で終了となりますのでそれまでの1年以内に受験する必要があります。詳細については、<a href="/learn/certifications/mta-retirement-faqs"> FAQ</a> </a>をご覧ください。</strong> </font> </br> </br> </div>
+
   この試験の受験者は、Windows Serverの管理の概念とテクノロジに精通しています。候補者は、Windows Server、Windowsベースのネットワーク、Active Directory、アカウント管理、システム回復ツール、および概念に関する実践的な経験を積んでおく必要があります。
 
   <div style='font-weight&#58; bold;'><br/>2018 年 01 月 31 日現在の試験の更新があります。これらの変更点と、測定されるスキルにそれがどのように影響するかについての詳細は、Exam 98-365 の変更ドキュメントをダウンロードしてご確認ください。</div>
@@ -39,6 +41,7 @@ skills:
 - ストレージについて (10-15%)
 - サーバーのパフォーマンス管理について(10-15%)
 - サーバーのメンテナンスについて(15-20%)
+retirementDate: 06/30/2022
 roles:
 - administrator
 products:

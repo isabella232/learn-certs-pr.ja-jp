@@ -52,7 +52,16 @@ summary: |-
 
   このコースで学びたい方は、Azure開発、またはMicrosoft Azure Developer Associate認定試験に合格することに関心があるものとします。
 prerequisitesSection: |-
-  受講者は、1〜2年の専門能力開発の経験とMicrosoft Azureの経験が必要です。 Azure Supported Languageでプログラミングできる必要があります。
+  このコースで成功するために、受講者は次のものを持っている必要があります。
+  - Azure IaaSおよびPaaSソリューション、およびAzureポータルの実践的な経験。
+  - 中級レベルでAzureがサポートする言語での執筆経験。 （C#、JavaScript、Python、またはJava）
+  - SQLまたはNoSQLデータベース製品に接続して操作を実行するコードを作成する機能。 （SQL Server、Oracle、MongoDB、Cassandraなど）
+  - 中間レベルで認証、承認、およびその他のセキュリティ原則を処理するためのコードの作成経験。
+  - HTML、HTTPプロトコル、RESTAPIインターフェースの一般的な理解。
+  
+  Azureとcloudコンピューティングを初めて使用する場合は、次のリソースのいずれかをご検討ください。
+  - 無料オンライン&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
+  - インストラクター主導のコース&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
 outlineSection: |-
   ### モジュール 1&#58; Azure App Service Web Apps の作成
   受講者は、Azure App ServiceプラットフォームでWebアプリケーションを構築する方法を学習します。 プラットフォームがどのように機能するか、およびApp Serviceプラットフォームを作成、構成、スケーリング、保護、および展開する方法を学習します。

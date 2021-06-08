@@ -1,0 +1,162 @@
+### YamlMime:Course
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub
+metadata:
+  title: 'Course AZ-600T00-A: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  description: 'Course AZ-600T00-A: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+uid: course.az-600t00
+courseNumber: 'AZ-600T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure Stack Hubのデプロイ準備
+- skill: Azure Stack Hubのインフラストラクチャ証明書の管理
+- skill: Azure Stack Hubの登録を管理
+- skill: Azure Stack Hubのホームディレクトリの構成
+- skill: Azure Stack Hubのサービスプリンシパルのプロビジョニングし
+- skill: 事業継続災害復旧（BCDR）戦略推奨
+- skill: 特権エンドポイントを使用してAzure Stack Hubの管理
+- skill: Azure Stack Hubマーケットプレイスの管理
+- skill: アプリサービスとEvent Hubリソースプロバイダーの提供
+- skill: 使用量と請求を管理
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+- azure-stack
+- azure-stack-edge
+- azure-stack-hci
+- azure-stack-hub
+- azure-app-service
+- azure-event-hubs
+- azure-active-directory
+exams:
+- uid: exam.az-600
+summary: |-
+  このコースでは、Azure管理者とAzure Stack Hubオペレーターに、Azure Stack Hubインフラストラクチャを計画、展開、パッケージ化、更新、および維持する方法をご説明致します。レッスンには、Azure Stack Hubの展開、Azure Stack Hub Marketplaceの管理、アプリサービスとEvent Hubリソースプロバイダーの提供、Azure Stack Hub登録の管理、システムの状態の維持が含まれています。
+
+  #### オーディエンスプロフィール
+  AZ-600&#58; の受講者は、Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hubは、Azure Stack Hubを使用して独自のデータセンター内からエンドユーザーまたは顧客にCloudサービスを提供するAzure Stack Hubオペレーターになることに関心があります。
+  Azure Stack Hubオペレーターの責任には、Azure Stack Hubインフラストラクチャの計画、展開、パッケージ化、更新、および維持が含まれます。また、ハイブリッドcloudリソースと要求されたサービスを提供し、サービスとしてのインフラストラクチャ（IaaS）とサービスとしてのプラットフォーム（PaaS）を管理します。
+prerequisitesSection: |-
+  成功するAzureStack Hubの受講者は、オペレーティングシステム、仮想化、Cloudインフラストラクチャ、ストレージ構造、ネットワークの経験があります。
+  - VMsや仮想ネットワークなどのオンプレミス仮想化テクノロジーの理解
+  - TCP/IP、Domain Name System (DNS)、仮想プライベートネットワーク（VPNs）、ファイアウォール、暗号化テクノロジなどのネットワーク構成の理解
+  - ドメイン、フォレスト、ドメインコントローラーなどのアクティブディレクトリの概念の理解
+  
+  Azureとcloudコンピューティングを初めて使用する場合は、次のリソースのいずれかをご検討ください。
+  - 無料オンライン&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
+  - インストラクター主導のコース&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
+  - Azure管理者の前提条件(https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
+outlineSection: |-
+  ### モジュール 1&#58; Azure Stack Hubの概要
+  このモジュールでは、Azure Stack HubがAzureの拡張機能であり、オンプレミス環境でアプリを実行し、データセンターでAzureサービスを提供する方法を提供する方法を学習して頂きます。
+  #### レッスン
+  - Azure Stack Hub
+  - データセンターの統合
+  - Azure Stack Hub Power Shell
+  - モジュールレビューの質問
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - エッジソリューションと切断されたソリューションについての説明
+  - Azure Stack Hub統合システムアーキテクチャについての説明
+  - Azure Stack Hubのデプロイオプションについての説明
+  - Azure Stack Hub、Azure Stack HCI、およびグローバルAzureの違いを定義
+
+  
+  
+  ### モジュール 2&#58; サービスの提供
+  このモジュールでは、切断された環境でAzure Stack Hub Marketplaceにデータを入力する方法、アプリサービスリソースプロバイダーを展開する方法、Event Hubsリソース提供を展開する方法、クォータ、プラン、オファー、サブスクリプションを作成および管理する方法、使用量と課金を管理する方法を学習して頂きます。
+  #### レッスン
+  - Azure Stack Hub Marketplaceの管理
+  - アプリサービスリソースプロバイダーの提供
+  - EventHubsリソースプロバイダーの提供
+  - サービスの提供
+  - 使用量と請求書の管理
+  - モジュールレビューの質問
+  
+  #### ラボ&#58; Azure Stack Hubでオファーとプランを管理する
+  
+  #### ラボ&#58; Azure Gallery Packagerを使用してカスタムマーケットプレイスアイテムの追加
+  
+  #### ラボ&#58; Azure Stack Hubを使用してAzure Resource Manager（ARM）テンプレートの検証
+
+  #### ラボ&#58; オプションのラボ&#58; Azure Stack HubにSQLServerリソースプロバイダーを実装
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - カスタムAzure Stack Hub マーケットプレイスアイテムの作成
+  - アプリサービスリソースプロバイダーをデプロイおよび更新
+  - Event Hubsリソースプロバイダーの展開を計画
+  - ユーザーサブスクリプションを作成および管理
+  - マルチテナントおよびCSPシナリオでの使用量と請求書の管理
+
+  
+
+  ### モジュール 3&#58; データセンター統合の実装
+  このモジュールでは、Stack Hubデプロイメントを準備し、証明書を推奨および検証し、接続および切断された環境に登録する方法を学習して頂きます。
+  ####レッスン
+  - Azure Stack Hubのデプロイの準備
+  - Azure Stack Hubの登録管理
+  - モジュールレビューの質問
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - 使用量 APIを使用して、使用状況データの表示および取得
+  - 名前解決戦略を推奨
+  - IDプロバイダーの統合検証
+  - 証明書の検証
+  - 登録モードの推奨
+
+  ### モジュール 4&#58; Azure Stack HubのIDとアクセスの管理
+  このモジュールでは、Azure Stack Hubのホームディレクトリを構成する方法、ゲストテナントディレクトリをAzure Stack Hubに登録する方法、および適切なアクセス方法（サービスプリンシパル、ユーザー、グループ）を特定する方法を学習して頂きます。
+  #### レッスン
+  - マルチテナンシーの管理
+  - アクセスの管理
+  - モジュールレビューの質問
+
+  #### ラボ&#58; Azure Stack Hubでオファー管理の委任
+  #### ラボ&#58; Azure Stack Hubでサービスプリンシパルの管理
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - ゲストテナントディレクトリをAzure Stack Hubに登録
+  - ゲストテナントディレクトリの更新
+  - Azure Stack Hubでアクセスの構成
+  - カスタムロールの作成
+
+  
+  ### モジュール 5&#58; Azure Stack Hubインフラストラクチャの管理
+  このモジュールでは、REST APIを使用してシステムの状態を監視する方法、Syslogサーバーを使用してシステムの状態を監視する方法、Powershellを使用してオンデマンドで診断ログを収集する方法、インフラストラクチャバックアップ用のストレージターゲットを構成する方法、更新パッケージを手動でダウンロードおよびインポートする方法について学習します。
+  #### レッスン
+  - システムの状態を管理
+  - Azure Stack Hub上のAzure Monitor
+  - 事業継続とディザスタリカバリを計画および構成
+  - 容量の管理
+  - インフラストラクチャの更新
+  - 特権エンドポイントを使用してAzure Stack Hubの管理
+  - モジュールレビューの質問
+  
+  #### ラボ&#58; Power Shellを介してAzure Stack Hubに接続
+  
+  #### ラボ&#58; Azure Stack Hubの特権エンドポイントにアクセス
+
+  #### ラボ&#58; Azure Stack Hubでログコレクションの管理
+
+  #### ラボ&#58; Azure Stack Hubストレージアカウントを構成および管理
+
+  #### ラボ&#58; Azure Stack HubでパブリックIPアドレスの管理
+
+  #### ラボ&#58; Azure Stack Hubインフラストラクチャバックアップの構成
+
+  
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Event Hubsなどのリソースプロバイダーの追加
+  - フィールドの交換または修理の管理
+  - インフラストラクチャバックアップのストレージターゲットの構成
+  - Azure Stack Hubの更新
+  - サポートセッションのロックの解除
+  - 特権エンドポインに接続
+  - Test-Azure Stackを使用してシステム診断の実行
+

@@ -6,7 +6,7 @@ metadata:
 uid: certification.power-platform-app-maker
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  ソリューションドメインに深い専門知識を持つビジネスプロフェッショナルで、Microsoft Power Platformソリューションの構築に対する情熱を活かして、チームのタスクとプロセスを簡素化、自動化、一変したい場合、この認証はあなたにぴったりです。データモデリング、基本的なUX設計、要件分析、プロセス分析など、主要なテクニカルビジネスアナリストのタスクを達成するスキルが必要です。 
+  もしあなたがソリューションドメインに深い専門知識を持つビジネスプロフェッショナルであり、Microsoft Power Platformソリューションの構築への情熱を利用して、チームのタスクとプロセスを簡素化、自動化、および変換したい場合、この認定資格はあなたのために設計されたものといえます。データモデリング、基本的なUXデザイン、要件分析、プロセス分析など、主要なテクニカルビジネスアナリストのタスクを実行するスキルが必要となります。
   
   自主的でソリューション重視で、Microsoft Power Platformのメーカーツールを使ってビジネス上の問題を解決する場合、アプリメーカーの役割のプロファイルに適合します。Visual Basic for Applications、Excel PivotTables、Teamsなどのツールを使用した経験を持つこともありえます。正式なITトレーニングを受けていないかもしれませんが、ビジネス上の問題を解決するためにテクノロジーを使用してIT管理者とMicrosoft Power Platform開発者と協力することには慣れています。貴方の責任担当は&#58;  
   - アプリの設計と作成、ワークフローの自動化。 
@@ -91,7 +91,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjG
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定の学習経路
   description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBF

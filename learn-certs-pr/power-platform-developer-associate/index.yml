@@ -6,7 +6,7 @@ metadata:
 uid: certification.power-platform-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft Power Platformソリューションの設計、開発、安全の確保、拡張に情熱を持っている場合、この認証はあなたに適しているかもしれません。この認定を取得するには、アプリケーションの強化、カスタムユーザーエクスペリエンス（経験）、システム統合、データ変換、カスタムプロセスオートメーション、カスタムビジュアライゼーションなどのソリューションコンポーネントを作成できる必要があります。Microsoft Power Platformサービスの強力な応用知識と、Microsoft Power PlatformのDevOps実践（プラクティス）の基本的な理解が必要です。さらに、自身の背景として、JavaScript、JSON、TypeScript、C #、HTML、.NET、Azure、Microsoft 365、RESTful Webサービス、ASP.NET、PowerBIを使用した開発経験が含まれている必要があります。
+  Microsoft Power Platformソリューションの設計、開発、安全の確保、拡張に情熱を持っている場合、この認証はあなたに適しているかもしれません。この認定を取得するには、アプリケーションの強化、カスタムユーザーエクスペリエンス（経験）、システム統合、データ変換、カスタムプロセスオートメーション、カスタムビジュアライゼーションなどのソリューションコンポーネントを作成できる必要があります。Microsoft Power Platformサービスの強力な応用知識と、Microsoft Power PlatformのDevOps実践（プラクティス）の基本的な理解が必要です。さらに、自身の背景として、JavaScript、JSON、TypeScript、C #、HTML、.NET、Azure、Microsoft 365、RESTful Webサービス、ASP.NET、Power BIを使用した開発経験が含まれている必要があります。
   
   この認証の候補者は、通常、アプリメーカー、機能コンサルタント、ソリューションアーキテクト、IT管理者と協力します。あなたの責任はさまざまです&#58;
   - テクニカルデザインとPower Appsの作成。
@@ -23,7 +23,7 @@ levels:
 - intermediate
 skills:
 - Technical Design を作成する
-- Common Data Service を設定する
+- Microsoft Dataverseの構成
 - Power Apps を作成および設定する
 - ビジネスプロセスの自動化を構成する
 - ユーザー エクスペリエンスを拡張する
@@ -60,7 +60,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

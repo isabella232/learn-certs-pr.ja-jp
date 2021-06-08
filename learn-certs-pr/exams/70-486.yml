@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-486
 displayName: 70-486
 summary: |+
-  <div>
-  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
-  </div>
+  <div> <font color='red'> <strong>この試験は2021年1月31日に終了しました。現在利用可能なオプションについては、<a href='/learn/certifications/browse/?resource_type=examination'>をご参照ください。認定と試験のページ閲覧</a>.<br/><br/></strong></font></div>
 
   この試験の受験対象者は、Webソリューションを設計、開発するために、MicrosoftのVisual Studio 2017 と ASP.NET を使用するプロの開発者です。受験者は、少なくとも3年から5年のMicrosoft ASP.NET MVCベースのソリューションとMicrosoft AzureのWebアプリケーションの知識を開発した経験を持っている必要があります。
 
@@ -23,7 +21,6 @@ summary: |+
 subTitle: この試験の受験対象者は、Webソリューションを設計、開発するために、MicrosoftのVisual Studio 2017 と ASP.NET を使用するプロの開発者です。受験者は、少なくとも3年から5年のMicrosoft ASP.NET MVCベースのソリューションとMicrosoft AzureのWebアプリケーションの知識を開発した経験を持っている必要があります。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkK
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=486&examname=Developing%20ASP.NET%20MVC%20Web%20Applications&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-486
 locales:
 - en
 - zh-cn
@@ -41,6 +38,7 @@ skills:
 - ユーザー エクスペリエンスの開発 (15-20%)
 - Web アプリケーションのトラブルシューティングとデバッグ (20-25%)
 - セキュリティの設計と実装 (15-20%)
+retirementDate: 01/31/2021
 roles:
 - developer
 products:

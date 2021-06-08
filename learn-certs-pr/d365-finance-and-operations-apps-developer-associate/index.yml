@@ -6,7 +6,16 @@ metadata:
 uid: certification.d365-finance-and-operations-apps-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft Dynamics 365 において財務および業務アプリケーションを使用する開発者は、ビジネスの要件を満たすようにアプリケーションを実装および拡張します。受験生は、標準化されたアプリケーション コーディング パターン、拡張可能な機能、および外部統合を使用することで、完全に実現されたソリューションを提供します。
+  あなたが機能コンサルタント、ソリューションアーキテクト、テクニカルアーキテクトと協力する開発者であり、Dynamics 365の財務アプリと運用アプリを使用して要件を重要なシステム機能に変換する責任がある場合は、この認定資格を使用してキャリアを向上させることができます。標準化されたアプリケーションコーディングパターン、拡張可能な機能、および外部統合を使用して、完全に実現されたソリューションを提供した経験が必要です。
+  
+  ソフトウェア開発サイクルの方法論、データの整合性、およびデータセキュリティコンプライアンスに精通している必要があります。また、クラス最高の機能を提供するDynamics 365の財務および運用ソリューションに関連する基盤となるフレームワーク、データ構造、およびオブジェクトを使用した深い知識と経験が必要です。
+  
+  この認定を取得する前にさらに経験が必要な場合は、いくつかのご提案があります&#58;
+  - Dynamics365の1つ以上の財務および運用アプリで開発者として作業。
+  - プロジェクトの開発を支援するボランティア。
+  - [Dynamics 365コミュニティ](https://community.dynamics.com/)に参加。
+  - MicrosoftLearnで適切な学習パスの使用。
+  - Microsoft Dynamics 365&#58;などのインストラクター主導のトレーニングに登録 コアファイナンスとオペレーションやMicrosoft Dynamics 365&#58;ファイナンスおよびオペレーションアプリ開発者。
 subTitle: Microsoft Dynamics 365 において財務および業務アプリケーションを使用する開発者は、ビジネスの要件を満たすようにアプリケーションを実装および拡張します。
 levels:
 - intermediate
@@ -54,7 +63,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C5rP
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 認定の学習経路
   description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cdas

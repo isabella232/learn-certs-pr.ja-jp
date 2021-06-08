@@ -6,8 +6,7 @@ metadata:
 uid: certification.power-platform-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  コンサルティングや構成のスキルを磨こうとしている機能コンサルタント、データ アナリスト、または開発者、あるいはソリューション アーキテクトの認定資格取得への道を歩んでいるソリューション アーキテクトですか？Microsoft Power Platform を構成する知識と経験を持つ IT プロフェッショナルの場合があります。Microsoft Dynamics 365 のモデル駆動型アプリケーションとデータ モデリングの原則に精通している場合は、Microsoft Power Platform Functional Consultant Associate 認定資格がどのようにキャリアを強化し、 チームの主要メンバーにするのに役立つ方法について確認してください。
-  この認定資格は、Power Apps、Power BI、および Power Virtual Agents を使用するソリューションを構築および実装する資格があると考えられていることを世界に示しています。
+  あなたは、コンサルティングと構成のスキルを磨こうとしている機能コンサルタント、データアナリスト、開発者、またはソリューション設計者認定への道を歩むソリューション設計者ですか？または、Microsoft Power Platformの構成に関する知識と経験を持つITプロフェッショナルかもしれませんね。もし上のような方で、Power Platformコンポーネントを使用して、Teams、Dynamics 365、Excel、WordなどのMicrosoftアプリやサービスを拡張およびカスタマイズすることに慣れている場合は、Microsoft Power Platform Functional Consultant Associate認定がキャリアの向上やあなたをチームの主要メンバーとして確立するためにどのように役立つのかをご覧になってください。この認定によって、あなたがPower Apps、Power BI、およびPower Virtual  Agentを使用するソリューションを構築および実装する資格があることを世界に示すことができます。
   
   この認定資格の受験者として、組織の関係者や、ソリューション アーキテクト、開発者、テスターなどの主題の専門家と協力して、要件を収集し、Microsoft Power Platform ソリューションを実装します。モデル駆動型、キャンバス、ポータル アプリを作成します。また、Power Automate フローを作成し、Power Virtual Agents を使用してチャットボットを設計し、Power BI の可視化とダッシュボードを使用してデータを分析します。アプリケーションの機能強化、カスタム ユーザー エクスペリエンス、システム統合、データ変換、カスタム プロセスの自動化、カスタムの可視化を作成します。
   
@@ -21,7 +20,7 @@ subTitle: 機能コンサルタントとして、この認定資格を使用し�
 levels:
 - intermediate
 skills:
-- 共通データ サービスの構成
+- Microsoft Dataverseの構成
 - Power Apps を使用してアプリを作成する
 - Power Automate の作成と管理
 - Power Virtual Agents チャットボットを実装ずる
@@ -68,7 +67,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Gn93
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Exam Replay
   description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
   href: ../deals.md

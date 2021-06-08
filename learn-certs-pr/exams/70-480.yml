@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-480
 displayName: 70-480
 summary: |-
-  <div>
-  <div><strong>本試験は、2021 年 1 月 31 日午後 11 時 59 分 (中部標準時) に終了します。同日以降、本試験は受験できなくなります。詳細については、<a href='/learn/certifications/retired-certification-exams'>今後廃止される試験</a>をご確認ください。<br/><br/></strong></div>
-  </div>
+  <div> <font color='red'> <strong>この試験は2021年1月31日に終了しました。現在利用可能なオプションについては、<a href='/learn/certifications/browse/?resource_type=examination'>をご参照ください。認定と試験のページ閲覧</a>.<br/><br/></strong></font></div>
 
   この試験の受験者は、オブジェクトベースのイベント駆動型のプログラミング モデルで HTML を開発し、JavaScript を使用してさまざまなアプリケーション タイプ、ハードウェア、およびソフトウェア プラットフォームに必要なビジネス ロジックをプログラミングする少なくとも 1 年の経験を有する開発者です。
 
@@ -26,7 +24,6 @@ summary: |-
 subTitle: この試験の受験者は、オブジェクトベースのイベント駆動型のプログラミング モデルで HTML を開発し、JavaScript を使用してさまざまなアプリケーション タイプ、ハードウェア、およびソフトウェア プラットフォームに必要なビジネス ロジックをプログラミングする少なくとも 1 年の経験を有する開発者です。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnKv
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ja-jp&examcode=480&examname=Programming%20in%20HTML5%20with%20JavaScript%20and%20CSS3&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-480
 locales:
 - en
 - zh-cn
@@ -42,6 +39,7 @@ skills:
 - プログラムフローの実装 (25-30%)
 - データのアクセスと保護 (25-30%)
 - アプリケーションでの CSS3 の使用 (25-30%)
+retirementDate: 01/31/2021
 roles:
 - developer
 products:
