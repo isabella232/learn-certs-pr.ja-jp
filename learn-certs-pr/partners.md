@@ -1,6 +1,6 @@
 ---
-title: 'Microsoft Learning Partners and Providers | Microsoft Docs'
-description: 'Microsoft Learning Partners and Providers'
+title: '学習パートナーを見つける | Microsoft Docs'
+description: '学習パートナーを見つける'
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -10,13 +10,13 @@ ms.date: 06/04/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Microsoft ラーニング パートナー: 今日、明日のスキルを教えます
+# 学習パートナーを見つける
 
-![Microsoft ラーニング パートナー バナー](images/partners-banner.jpg "Microsoft Learning Partners banner")
+## Microsoft Learning Partnersについて
 
-Microsoft ラーニングパートナーは、スキルアップして次の職務に就きたい個人の方にも、チームのクラウドスキルを向上させたい管理職の方にも、ブレンディッドラーニング、対面学習、オンライン学習など、学習ニーズに合わせた幅広いトレーニングソリューションを提供しています。ビデオ、実践的なラボ、Microsoft 認定資格の準備を組み合わせた詳細なトレーニングソリューションで技術スキルを磨き、Microsoft の技術スキルを次のレベルに引き上げます。
+次の役割に向けてスキルアップを目指している個人であれ、チームのcloudスキルを向上させる必要があるマネージャーであれ、Microsoft Learning Partnersは、学習目標を達成するために、混合学習、対面式、オンラインなどの幅広いトレーニング ソリューションを提供します。世界中のMicrosoft Learning Partnersは、Microsoftが開発し、Microsoft Certified Trainersが提供するトレーニング コンテンツを教えるプログラム要件を満たしています。学習パートナーと協力することの価値について詳しく知りたい方は、[学習パートナーの価値](/learn/certifications/partners-value) をご覧ください。
 
-## 国別に Microsoft ラーニングパートナーを検索
+## <a name="find-microsoft-learning-partner-by-country-region"></a> 国や地域別にMicrosoft Learning Partnerを見つてください
 
 当社の世界的なパートナーネットワークは、Microsoft のテクノロジーについて、役割に応じてカスタマイズされた柔軟なトレーニングと認定資格を提供しています。すべてのインストラクタは、厳格なトレーニングを修了し、厳しい技術認定要件を満たしている Microsoft 認定資格トレーナー（MCT）です。
 
@@ -510,14 +510,3 @@ Microsoft ラーニングパートナーは、スキルアップして次の職�
 > [!div class="nextstepaction"]
 > [Microsoft のソリューションプロバイダを検索](https://www.microsoft.com/en-us/solution-providers/search?cacheId=6b7c41ec-9246-4196-9541-7a4427a37f97)
 
-## ITプロフェッショナルと開発者にとっての利点
-
-**新しい技術を学ぶ**。1つのコースだけで、計画からサポートまで、テクノロジの採用ライフサイクルをカバーする実践的なスキルを身につけられます。実践ラボ、シミュレーション、そして実際のスキルの応用を通してのみ教わることができるレベルの熟練を得ることができます。</br></br> **認定に備える**。[Microsoft 認定](https://www.microsoft.com/learning/certification-overview.aspx) 資格は、Microsoft のコア技術とスキルレベルに対応しています。Microsoft 公認コースは、Microsoft 認定資格を念頭に置いて構築され、認定された業界のインストラクターによって教えられます。</br></br>**新しいキャリアを始める**。Microsoft 公認コースを教える業界のインストラクターは、教室から職場に直接移行するITスキルを手に入れるのを手伝います。コースは有価のデジタルリソースへのアクセスを提供し、コースを修了してからでも長くご利用いただけます。</br></br> 過去1年間にITまたはビジネス関連のトレーニングを受けた専門家は、平均して約$3,400多く稼ぎました。(Global Knowledge, *IT Skills and Salary Survey*, 2011年3月)
-
-## IT管理者にとっての利点
-
-**効率と生産性を向上させます**。Microsoft ラーニングパートナーは、組織の技術投資を最大限に活用するのに役立ちます。従業員は、Microsoft 技術を習得するために、クラスルームトレーニングやMicrosoft Official Courses On-Demandを利用できます。</br></br> **展開の準備をする**。Microsoft ラーニングパートナーズを通じて提供される専門トレーニングは、エンタープライズが新しいMicrosoft テクノロジの展開を加速し、休止時間を短縮するのに役立ちます。調査によると、稼働停止時間の40％は、コアシステムのトレーニングが大幅に不足しているために起こる、オペレータのエラーによるものです。(Anderson, Cushing.「トレーニングによるネットワーク管理への影響：認定は運用生産性につながる。」IDC調査。2009年11月25日、Network WorldのLinda Musthalerによる報告に基づく） </br></br> **従業員の育成、募集、人材確保**。トレーニングと認定は、チームメンバーが特定のテクノロジ、ハードウェア、ソフトウェアでどれくらいうまく作業できるかを測定する効果的な方法です。</br></br> 技術幹部の回答者の60％は、大規模なITインフラストラクチャのプロジェクトを計画する上で最大の課題の1つは、必要なときに必要な能力を持つ専門家が利用できることであると述べています。(TEKsystems/CIO Custom Solutions Group, *IT Workforce Planning Trends*, 2011年6月)
-
-## Microsoft ラーニングパートナーになる
-
-コアサービスのひとつとして、またはビジネス慣行全体として、お客様にトレーニングを提供する場合でも、認定資格を取得することで、ビジネスの新しい機会を開くことができます。Microsoft パートナーネットワークのメリットは、お客様の能力を強化し、顧客にサービスを提供し、ビジネスの可能性を最大限に引き出すためのつながりを構築する間、時間とコストを節約するのに役立ちます。</br></br> [Microsoft ラーニングパートナーのプログラムに参加しましよう](https://mspartner.microsoft.com/en/us/Pages/Membership/learning-competency.aspx)

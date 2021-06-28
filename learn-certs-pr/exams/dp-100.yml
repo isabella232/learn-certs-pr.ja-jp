@@ -6,12 +6,14 @@ metadata:
 uid: exam.dp-100
 displayName: DP-100
 summary: |-
-  <div><font color='red'><strong>この試験の内容は2021年5月20日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>この試験の内容は2021年5月20日に更新されました。変更点については、以下のスキル測定ドキュメントをダウンロードしてください。</strong></font><br/><br/></div>
 
-  Azure データ科学者は、データサイエンスと機械学習に関する知識を活用して、 Azure に機械学習ワークロードを実装して実行します。特に、 Azure Machine Learning Service を使用します。これには、 Azure 上のデータサイエンスワークロードに適した作業環境の計画と作成、データ実験の実行と予測モデルのトレーニング、モデルの管理と最適化、機械学習モデルの生産への展開が含まれます。
-
-  この認定試験に合格すると、ACEカレッジの単位を取得できる可能性がございます。詳細については、[認定試験のためのACEカレッジクレジット](/learn/certifications/ace-credit-for-certification-exams) をご参照ください。
-subTitle: '本試験では、以下の技術的タスクを遂行できる能力を査定します。 Azure Machine Learning ワークスペースのセットアップ、テストの実施とモデルのトレーニング、モデルの最適化と管理、モデルの展開と利用。'
+  Azure Data Scientist Associate認定の候補者は、Azureで機械学習ワークロードを実装して実行するために、データサイエンスと機械学習を適用する対象分野の専門知識を持っている必要があります。
+  
+  この役割の責任には、Azure でのデータサイエンスワークロードに適した作業環境の計画と作成が含まれます。データ実験を実行し、予測モデルをトレーニングします。さらに、機械学習モデルを管理、最適化して、本番環境にデプロイします。
+  
+  この認定資格の受験者は、データ サイエンスと、Azure Machine LearningとAzure Databricksの使用に関する知識と経験を持っている必要があります。
+subTitle: 'この試験では、次の技術的タスクを達成する能力を測定します: 機械学習のためのAzureリソースの管理。実験を実行し、モデルをトレーニング。機械学習ソリューションをデプロイかつ運用。責任ある機械学習の実装。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
@@ -23,11 +25,11 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は2021年5月20日に更新されます。以下の試験スキルの概要をダウンロードして、変更点をご確認ください。
-- Azure Machine Learning ワークスペースの設定 (30-35%)
-- 実験を実行し、モデルを訓練します (25-30%)
-- モデルを最適化して管理します (20-25%)
-- 配信可能性を展開して維持します (20-25%)
+- この試験の内容は2021年5月20日に更新されました。以下の試験スキルの概要をダウンロードして、変更点をご確認ください。
+- 機械学習のための Azure リソースの管理 (25–30%)
+- 実験を実行し、モデルを訓練します (20–25%)
+- 機械学習ソリューションのデプロイと運用化 (35–40%)
+- 責任ある機械学習の実行 (5–10%)
 roles:
 - data-scientist
 products:
@@ -37,10 +39,12 @@ products:
 - azure-machine-learning-studio
 courses:
 - uid: course.dp-100t01
+- uid: course.dp-090t00
 paths:
 - uid: learn.wwl.create-machine-learn-models
 - uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
+- uid: learn.wwl.perform-data-science-azure-databricks
 relatedCertifications:
 - related:
     uid: certification.azure-data-scientist

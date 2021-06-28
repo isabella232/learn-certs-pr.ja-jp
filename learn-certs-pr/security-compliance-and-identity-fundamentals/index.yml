@@ -51,6 +51,8 @@ paths:
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp7
 exams:
 - uid: exam.sc-900
+courses:
+- uid: course.sc-900t00
 resources:
 - title: 認定ポスター
   description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。

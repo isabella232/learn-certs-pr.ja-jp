@@ -1,0 +1,72 @@
+### YamlMime:FAQ
+metadata:
+  title: Learning から Microsoft Learn への移行 | Microsoft Docs
+  description: Learning から Microsoft Learn への移行
+  documentationcenter: NA 
+  author: micsullivan
+  ms.topic: article
+  ms.tgt_pltfrm: NA
+  ms.workload: NA
+  ms.date: 06/18/2020
+  ms.author: msulliv
+  ms.prod: non-product-specific
+    
+title: Learning から Microsoft Learn への移行
+summary: |
+
+  ## 私たちの新しい学習プラットフォーム
+
+  ほとんどのテクノロジーと同様に、私たちは更新していっています。今回は学習プラットフォームへ。 Microsoft Learningウェブサイトと Microsoft Learnウェブサイトを統合しています。
+      
+  Microsoft Learnは、我々のテクノロジーを探索して学習するための旅を始める場所です。ここでは、自分に最適なスタイルで学習できるようにするトレーニングオプションの包括的なコレクションを見つけることができます。
+      
+  Microsoft Learn の自分のペースで学習できる無料のラーニング パスは、&#58;
+  
+                 
+  - 短いステップバイステップのチュートリアル。
+  - ブラウザベースのインタラクティブなコーディングやスクリプト環境。
+  - タスクベースの成果。
+  - インストラクター主導のトレーニングオプション。
+  
+  我々はMicrosoft 学習者のための単一の学習先を目指していますので、ぜひMicrosoft LearnでMicrosoft Certificationsを見つけてください。
+  
+  ## 移行に関するよくある質問
+
+sections:
+  - name: 移行に関するよくある質問
+    questions:
+      - question: |
+           コンテンツが Microsoft Learn に移行したのはいつですか?
+        answer: |
+           2019 年に、Microsoft Learning (https://microsoft.com/learning) のウェブページを Microsoft Learn (https://docs.microsoft.com/learn/) に移行しました。
+          
+      - question: |
+          Microsoft Learning に残るものは何ですか？
+        answer: |
+          以下のコンテンツは、 2021 年後半まで Microsoft Learning に残ります。
+          - 認定資格ダッシュボード ([https://aka.ms/certdashboard](https://aka.ms/certdashboard))
+          
+      - question: |
+          ブックマークはどうなっていますか？ブックマークは引き続き機能しますか？
+        answer: |
+          Microsoft Learning から Microsoft Learn に移動するページは、 Microsoft Learn の新しいページにリダイレクトされます。これらのリダイレクトは永続的ではないため、ページの移動時にブックマークを更新する必要があります。
+
+      - question: | 
+          取得済み認定資格情報と登録済み試験は引き続き表示できますか?
+        answer: |
+          はい、これまで通り、Certification Dashboard (https://aka.ms/certdashboard)で認定プロフィールに完全にアクセスすることができます。予定されている試験、バッジ、証明書、および成績証明書は引き続きご利用頂けます。さらに、認定ダッシュボードへのリンクが Microsoft Learn プロファイル ページに追加されました。
+          
+      - question: |
+          Microsoft Learnサイトに、「サインイン」というプロフィールが表示されます。これは、Microsoft Learning のプロフィール「サインイン」と同じですか? Microsoft Learn サイトにログインして、認定資格と試験情報を見ることはできますか?
+        answer: |
+          Microsoft Learning 認定ダッシュボードが Microsoft Learn に移行するまで、Certification Dashboard (https://aka.ms/certdashboard)は、Microsoft Learning で利用でき、Microsoft Learn サイトからアクセスできます。 [Microsoft Learnプロフィール](https://docs.microsoft.com/learn)は、後日まで個別に維持されます。今後数か月で、certification dashboardをMicrosoft Learnプロフィールに統合して、統合プロフィールを作成する予定です。
+          
+      - question: |
+          Microsoft Learningのプロフィールを既に持っている場合、Microsoft Learn のプロフィールに登録する必要がありますか?
+        answer: |
+          はい。Microsoft Learning (certification)プロフィールは、Microsoft Learnプロフィールとは異なります。サインインしないと機能しないMicrosoft Learnの特定の機能にアクセスするには、Microsoft Learnでプロフィールを作成する必要があります。プロフィールを作成する場合は、以前と同じメールアドレスを使用して登録することをお勧めします。Microsoft Learning (certification)プロフィールを作成します。今後数か月以内に Microsoft Learning 認定ダッシュボードが Microsoft Learn Tech Profileに統合される際、プロフィールのリンクおよびその他のプロフィール関連の変更についての詳細をお知らせ致します。
+
+      - question: |
+          問題や質問がある場合、どこにサポートを依頼したら良いですか?サポートはどこにありますか?
+        answer: |
+          サポートへのアクセス方法の詳細については、[認定サポート](/learn/certifications/help) をご確認ください。

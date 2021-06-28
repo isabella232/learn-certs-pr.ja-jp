@@ -18,7 +18,8 @@ skillsGained:
 - skill: デバイスツインと直接メソッドを使用してデバイス管理の実装。
 - skill: ソリューションの監視、ロギング、および診断テストの実装。
 - skill: セキュリティの懸念を認識して対処し、Azure Security Center forIoTの実装。
-- skill: AzureIoTCentralを使用してIoTソリューションを構築し、IoTのSaaSの機会を認識。
+- skill: アップストリーム サービスとダウンストリーム サービスを統合する Azure Digital Twins ソリューションの構築。
+- skill: Azure IoT Central を使用して IoT ソリューションを構築し、IoT の SaaS の機会を認識。
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -28,21 +29,19 @@ roles:
 - developer
 products:
 - azure
-- azure-iot
 exams:
 - uid: exam.az-220
 summary: |-
-  このコースでは、受講者にAzureIoTソリューションのクラウド部分とエッジ部分を正常に作成および維持するために必要なスキルと知識を提供します。このコースには、IoT Hub、デバイスプロビジョニングサービス、Azure Stream Analytics、TimeSeriesInsightsなどのコアAzureIoTサービスの全範囲が含まれています。このコースには、Azure PaaSサービスに焦点を当てるだけでなく、IoT Edge、デバイス管理、監視とトラブルシューティング、セキュリティの懸念、およびAzure IoTCentralに関するセクションが含まれています。
+  このコースでは、受講者にAzureIoTソリューションのクラウド部分とエッジ部分を正常に作成および維持するために必要なスキルと知識を提供します。このコースには、IoT Hub、デバイスプロビジョニングサービス、Azure Stream Analytics、TimeSeriesInsightsなどのコアAzureIoTサービスの全範囲が含まれています。Azure PaaSサービスに焦点を当てることに加えて、このコースには、IoT Edge、デバイス管理、モニタリングとトラブルシューティング、セキュリティの問題、Azure Digital Twins、および Azure IoT Central に関するセクションが含まれています。
 
   #### 聴衆プロファイル
 
-  AzureIoT開発者は、AzureIoTソリューションのクラウド部分とエッジ部分を実装して維持する責任があります。IoT開発者は、AzureIoTサービスやその他のMicrosoftツールを使用してデバイスを構成および保守するだけでなく、物理デバイスもセットアップし、ライフサイクル全体を通じてデバイスを保守する責任があります。IoT開発者は、デバイストポロジ、接続、デバッグ、セキュリティなど、IoTソリューションの設計を実装します。エッジデバイスのシナリオでは、IoT開発者はコンピューティング-コンテナーを展開し、デバイスネットワークを構成します。これには様々なエッジゲートウェイの実装が含まれる可能性があります。IoT開発者は、IoTに関連する監視やデータ変換など、データパイプラインを管理するソリューションの設計を実装します。IoT開発者は、データエンジニアやその他の利害関係者と協力して、ビジネス統合を成功させます。IoT開発者は、データストレージオプション、データ分析、データ処理、AzureIoTPaaSとSaaSのオプションなどのAzureサービスについて十分に理解している必要があります。IoT開発者は、C＃、Node.js、C、Python、Javaなど、少なくとも1つのAzureサポート言語での基本的なプログラミングスキルを持っている必要があります。
+  Azure IoT開発者は、IoTソリューションのcloudとエッジ部分を作成および維持するために必要な実装とコーディングを担当します。IoT開発者は、AzureIoTサービスやその他のMicrosoftツールを使用してデバイスを構成および保守するだけでなく、物理デバイスもセットアップし、ライフサイクル全体を通じてデバイスを保守する責任があります。IoT開発者は、デバイストポロジ、接続、デバッグ、セキュリティなど、IoTソリューションの設計を実装します。エッジデバイスのシナリオでは、IoT開発者はコンピューティング-コンテナーを展開し、デバイスネットワークを構成します。これには様々なエッジゲートウェイの実装が含まれる可能性があります。IoT開発者は、IoTに関連する監視やデータ変換など、データパイプラインを管理するソリューションの設計を実装します。IoT開発者は、データエンジニアやその他の利害関係者と協力して、ビジネス統合を成功させます。IoT開発者は、データストレージオプション、データ分析、データ処理、AzureIoTPaaSとSaaSのオプションなどのAzureサービスについて十分に理解している必要があります。IoT開発者は、C#、Node.js、C、Python、Javaなど、少なくとも1つのAzureサポート言語での基本的なプログラミングスキルを持っている必要があります。
 prerequisitesSection: |- 
+  このコースを最大限に活かすために、受講者は下記を所持している必要があります&#58;
   - Cloud Solution Awareness&#58; 受講者は、Azureポータルの使用経験と、PaaS、SaaS、およびIaaSの実装に関する基本的な知識を持っている必要があります。
   - Software Development Experience&#58; ソフトウェア開発の経験はこのコースの前提条件ですが、特定のソフトウェア言語は必要ありません。また、経験は専門家レベルである必要はありません。
   - Data Processing Experience&#58; データストレージとデータ処理の一般的な理解が推奨されますが、必須ではありません。
-
-  Azureとクラウドコンピューティングを初めて使用する場合は、次のリソースのいずれかを検討してください&#58;
   - 無料オンライン&#58; Azure Fundamentals (https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
   - インストラクター主導のコース&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01) 
 outlineSection: |+
@@ -237,7 +236,30 @@ outlineSection: |+
   - セキュリティエージェントとセキュリティモジュールツインの構成
   - IoTイベント向けAzureセキュリティセンターの集約
 
-  ### モジュール 11&#58; IoT CentralでIoTソリューションを構築
+  ### モジュール 11&#58; ADT
+
+  このモジュールで、受講者はAzure Digital Twinsソリューションの概念を検証し、ADTの実装に向けた最初の一歩を踏み出します。受講者は、Azure Digital TwinsサービスとADTソリューションの背後にある概念を調査することから始め、次にADTソリューションの構築とモニタリングに使用できる開発ツールの概要を説明します。次に、受講者は開発ツールを使用して、カスタムモデルを作成し、ADT環境グラフを作成してクエリを実行し、IoTデバイスのテレメトリを取り込み、ビジネスロジックとデータ処理を実装します。
+
+  #### レッスン
+
+  - Azure DigitalTwinsの概要
+
+  - ADTソリューション開発の概要
+
+  - ADTのモニタリングとトラブルシューティング
+
+  #### ラボ: Azure Digital Twins（ADT）ソリューションの開発
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  - Azure Digital Twins（ADT）ソリューションのコンポーネントについての説明
+  - ADTインスタンスを作成および構成する方法の説明
+  - ADTグラフを作成、クエリ、および管理する方法の説明
+  - IoTハブからADTデータを取り込み、ダウンストリームサービスのサポートを実装する方法の説明
+  - ADTをモニタリングおよびトラブルシューティングする方法の説明
+  
+
+  ### モジュール 12&#58; IoT CentralでIoTソリューションを構築
 
   このモジュールでは、受講者はAzure IoT CentralをIoTのSaaSソリューションとして構成および実装する方法を学習します。 受講者は、IoT Centralとその仕組みの高レベルの調査から始めます。 IoT Centralの確立についての基本的な理解があれば、受講者はデバイステンプレートの作成と管理に進み、次にIoT Centralアプリケーションでデバイスを管理します。
 
@@ -245,9 +267,8 @@ outlineSection: |+
   - IoT Centralの紹介
   - デバイステンプレートの作成と管理
   - Azure IoT Centralでデバイスの管理
-  #### ラボ &#58; Azure IoT Centralの使用を開始
 
-  #### ラボ &#58; Azure IoT Centralを使用したIoTソリューションの実装
+  #### ラボ: IoT Centralを使用してIoTソリューションを構築
 
   このモジュールを完了すると、受講者は次のことができるようになります&#58;
   - Azure IoT CentralとAzure IoT PaaSサービスの違いの説明

@@ -1,6 +1,6 @@
 ---
-title: Microsoft Official Courseware (MOC) ヘルプ | Microsoft Docs
-description: Microsoft Official Courseware (MOC) ヘルプ
+title: Microsoft Official Courseware (MOC) サポート | Microsoft Docs
+description: Microsoft Official Courseware (MOC) サポート
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,11 +9,15 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Microsoft Official Courseware (MOC) ヘルプ
+# Microsoft Official Courseware (MOC) サポート
 
-Microsoft Official Courseware (MOC) のサポートが必要ですか？以下の国一覧から現地のサポートセンターにお問い合わせください。これらのサポート オプションは MOC 専用です。Microsoft の認定資格または試験のサポートについては、[Certification Help](/learn/certifications/help) にアクセスしてください。
+## MOCのサポートについて
+
+Microsoft Official Courseware(MOC)は、コースで使用される教材です。MOCのサポートは、世界中の地域よって管理されています。
 
 ## MOC 地域の連絡先情報
+
+これらのサポート オプションは MOC 専用であることにご注意ください。 Microsoft Certifications または試験に関するヘルプについては、[Certification support](/learn/certifications/help) をご覧ください。
 
 | 国 | 電話 + 言語 | 電子メール | 追加情報 | 連絡先の詳細 |
 | ------- | ---------------- | --------- | ------------- | ---------------- |
@@ -118,7 +122,3 @@ Microsoft Official Courseware (MOC) のサポートが必要ですか？以下�
 | ベトナム | (65) 6622 1237 | [コースウェア マーケットプレイス クエリ](https://support.microsoft.com/en-my/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-my&SC=VN) |  | 9:00 ～ 18:00 (9:00 A.M. ～ 6:00 P.M.) 月曜日～金曜日 シンガポール時間 |
 | 英領バージン諸島 | 英語：+1 305 715-1492<br/>スペイン語: +1 305 715-1490<br/>ポルトガル語: +1 305 715-1491 | [ コースウェア マーケットプレイス クエリ](https://support.microsoft.com/en-gb/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-gb&SC=VG) | これらは米国の番号であることにご注意ください。ご利用の電話会社により長距離料金または国際料金が適用されることがあります。| 英語: 7am – 7pm (月曜日～金曜日) コロンビア時間<br/>スペイン語: 7am – 7pm (月曜日～金曜日) コロンビア時間<br/>ポルトガル語: 9am – 6pm (月曜日 ～ 金曜日) BRT ブラジル時間 |
 | 米領バージン諸島 | 英語：+1 305 715-1492<br/>スペイン語: +1 305 715-1490<br/>ポルトガル語: +1 305 715-1491 | [ コースウェア マーケットプレイス クエリ](https://support.microsoft.com/en-gb/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-gb&SC=VI) | これらは米国の番号であることにご注意ください。ご利用の電話会社により長距離料金または国際料金が適用されることがあります。| 英語: 7am – 7pm (月曜日～金曜日) コロンビア時間<br/>スペイン語: 7am – 7pm (月曜日～金曜日) コロンビア時間<br/>ポルトガル語: 9am – 6pm (月曜日 ～ 金曜日) BRT ブラジル時間 |
-
-## 認定資格のヘルプ
-
-Microsoft認定のサポートについては、 [ ここをクリック](/learn/certifications/help) を参照してください。
