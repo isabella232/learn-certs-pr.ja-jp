@@ -51,6 +51,8 @@ products:
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFTM
 exams:
 - uid: exam.az-140
+courses:
+- uid: course.az-140t00
 resources:
 - title: Azure 認定資格ポスター
   description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。

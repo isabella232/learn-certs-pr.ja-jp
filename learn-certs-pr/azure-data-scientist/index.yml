@@ -7,15 +7,19 @@ uid: certification.azure-data-scientist
 certificationRenewalUid: renewal.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Azure データ科学者は、データサイエンスと機械学習に関する知識を活用して、 Azure に機械学習ワークロードを実装して実行します。特に、 Azure Machine Learning Service を使用します。
+  Azure Data Scientist Associate認定の候補者は、Azureで機械学習ワークロードを実装して実行するために、データサイエンスと機械学習を適用する対象分野の専門知識を持っている必要があります。
+  
+  この役割の責任には、Azure でのデータサイエンスワークロードに適した作業環境の計画と作成が含まれます。データ実験を実行し、予測モデルをトレーニングします。さらに、機械学習モデルを管理、最適化して、本番環境にデプロイします。
+  
+  この認定資格の受験者は、データ サイエンスと、Azure Machine LearningとAzure Databricksの使用に関する知識と経験を持っている必要があります。
 subTitle: Azure データ科学者は、データサイエンスと機械学習に関する知識を活用して、 Azure に機械学習ワークロードを実装して実行します。特に、 Azure Machine Learning Service を使用します。
 levels:
 - intermediate
 skills:
-- Azure Machine Learning ワークスペースの設定
+- 機械学習のための Azure リソースの管理
 - 実験を実行し、モデルを訓練します
-- モデルを最適化して管理します
-- 配信可能性を展開して維持します
+- 機械学習ソリューションのデプロイと運用化
+- 責任ある機械学習の実行
 roles:
 - data-scientist
 type: role-based
@@ -26,10 +30,12 @@ products:
 - azure-machine-learning-studio
 courses:
 - uid: course.dp-100t01
+- uid: course.dp-090t00
 paths:
 - uid: learn.wwl.create-machine-learn-models
 - uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
+- uid: learn.wwl.perform-data-science-azure-databricks
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHg
 exams:
 - uid: exam.dp-100

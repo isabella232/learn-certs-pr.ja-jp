@@ -1,0 +1,113 @@
+### YamlMime:Course
+title: Implementing a Machine Learning Solution with Microsoft Azure Databricks
+metadata:
+  title: 'Course DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
+  description: 'Course DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
+uid: course.dp-090t00
+courseNumber: 'DP-090T00'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure Databricks ワークスペースとクラスターのプロビジョニング
+- skill: Azure Databricks を使用して機械学習モデルをトレーニングする
+- skill: 実験を追跡し、機械学習モデルを追跡するためにMLflow の使用
+- skill: Azure Databricks をAzure Machine Learningと統合
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-scientist
+products:
+- azure
+summary: |-
+  Azure Databricks は、データ分析と機械学習のためのcloudスケールのプラットフォームです。この 1 日コースでは、Azure Databricks を使用してデータを探索、準備、モデル化、Databricks の機械学習プロセスを Azure Machine Learningと統合する方法を学習します。
+
+  #### オーディエンスプロフィール
+
+  このコースは、Azure Databricks でデータ サイエンスと機械学習のスキルを適用する方法を学ぶ必要があるPythonの経験を持つデータサイエンティスト向けに設計されています。
+prerequisitesSection: |-
+  このコースに参加する前に、Python を使用してデータを操作した経験と、機械学習の概念に関するある程度の知識が必要です。このコースに参加する前に、Microsoft Learn で次のラーニングパスを完了してください。
+
+  - [機械学習モデルの作成](https://docs.microsoft.com/learn/paths/create-machine-learn-models/)
+outlineSection: |-
+  ### モジュール 1&#58; Azure Databricks の概要
+
+  このモジュールでは、Azure Databricks ワークスペースとクラスターをプロビジョニングし、それらを使用してデータを操作する方法を学習します。
+
+  #### レッスン
+
+  *    Azure Databricks の開始
+
+  *   Azure Databricks でのデータの操作
+
+  #### ラボ &#58; Azure Databricks の概要
+
+  #### ラボ &#58; Azure Databricks でのデータの操作
+
+  このモジュールを完了すると、次のことができるようになります。
+
+  *   Azure Databricks ワークスペースとクラスターをプロビジョニング
+
+  *   Azure Databricks を使用したデータ操作
+
+  ### モジュール 2&#58; 機械学習モデルのトレーニングと評価
+
+  このモジュールでは、Azure Databricks を使用してモデリング用のデータを準備し、機械学習モデルをトレーニングして検証する方法を学習します。
+
+  #### レッスン
+
+  *   機械学習用データの準備
+
+  *   機械学習モデルのトレーニング
+
+  #### ラボ &#58; 機械学習モデルのトレーニング
+
+  #### ラボ &#58; 機械学習用のデータの準備
+
+  このモジュールを完了すると、Azure Databricks を使用して次のことができるようになります。
+
+  *   モデリング用データの準備
+
+  *   機械学習モデルのトレーニングと検証
+
+  ### モジュール 3&#58; 実験とモデルの管理
+
+  このモジュールでは、MLflow を使用して Azure Databricks で実行されている実験を追跡する方法と、機械学習モデルを管理する方法を学習します。
+
+  #### レッスン
+
+  *   MLflow を使用して実験の追跡
+
+  *   モデルの管理
+
+  #### ラボ &#58; MLflow を使用して実験の追跡
+
+  #### ラボ &#58; モデルの管理
+
+  このモジュールを完了すると、次のことができるようになります。
+
+  *   MLflow を使用して実験の追跡する
+
+  *   モデルの管理
+
+  ### モジュール 4&#58; Azure Databricks とAzure Machine Learning の統合
+
+  このモジュールでは、Azure Databricks を Azure Machine Learning と統合する方法を学習します。
+
+  #### レッスン
+
+  *   Azure Machine Learning による実験の追跡
+
+  *   モデルのデプロイ
+
+  #### ラボ &#58; Azure Machine Learning でのモデルのデプロイ
+
+  #### ラボ &#58; Azure Machine Learning での実験の実行
+
+  このモジュールを完了すると、次のことができるようになります。
+
+  *   Azure Databricks コンピューティングで Azure Machine Learning の実験を実行
+
+  *   Azure DatabricksでトレーニングされたモデルをAzure Machine Learningにデプロイ

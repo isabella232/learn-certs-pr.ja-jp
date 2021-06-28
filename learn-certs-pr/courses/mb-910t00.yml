@@ -22,6 +22,8 @@ roles:
 - business-owner
 products:
 - dynamics-365
+exams:
+- uid: exam.mb-910
 summary: |-
   このコースでは、Dynamics 365のカスタマーエンゲージメント機能を幅広く紹介します。カスタマーエンゲージメントの概念と、Dynamics 365マーケティングアプリ、Dynamics 365セールス、Dynamics365などの各カスタマーエンゲージメントアプリ（ Dynamics 365 Marketing、Dynamics 365 Sales、 Dynamics 365 Customer Service、Dynamics 365 Field Service、Dynamics 365プロジェクトオペレーションの顧客関係管理（CRM）機能を含む）について理解して頂きます。このコースには、講義とハンズオンラボが含まれます。
 

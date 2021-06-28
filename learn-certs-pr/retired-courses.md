@@ -1,6 +1,6 @@
 ---
-title: Microsoft Retired Courses | Microsoft Docs
-description: Microsoft Retired Courses
+title: コースの廃止 | Microsoft Docs
+description: コースの廃止
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,19 +9,54 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# 終了したコースウェア
+# コースの廃止
 
-次のテーブルは、廃止されたか近々廃止予定のコース教材のリストです。終了日以降、コースは販売できません。
+## コースの廃止について
 
-MOC オンデマンドの廃止済みコースをお探しの場合は、次のリンクをクリックしてください。[https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+Microsoftは、業界の動向を継続的に監視し、テクノロジの変化に対応するために認定要件を改訂しています。最先端のテクノロジーを活用し、最も適切なトレーニングの機会を提供するために、定期的に新しいコースを導入し、古いコースを改訂または中止しています。
 
-## 終了したコースウェア: インストラクター指導のトレーニング
+コースが廃止されると、そのコースは利用できなくなります。コースを購入することはできなくなり、以前にコースを購入したユーザーはコースウェアにアクセスできなくなります。
+
+## 廃止されたコース: インストラクター主導のトレーニング
+
+* コースウェアは 2021 年 5 月 31 日で廃止されます。
+
+    | コース番号 | バージョン | タイトル | 言語 | 退職日 |
+    | --- | --- | --- | --- | --- |
+    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | 英語 | 5/31/2021 |
+    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | 英語 | 5/31/2021 |
+    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | 英語 | 5/31/2021 |
+
+* コースウェアは 2021 年 4 月 30 日で廃止されます。
+
+    | コース番号 | バージョン | タイトル | 言語 | 退職日 |
+    | --- | --- | --- | --- | --- | 
+    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | 英語 | 04/30/2021 |
 
 * 2021 年 3 月 31 日にコースウェアは廃止
 
     | コース番号 | バージョン | タイトル | 言語 | 退職日 |
     | --- | --- | --- | --- | --- |
     | 20778 | C | Analyzing Data with Power BI | 英語 | 2021 年 03 月 31 日 |
+    | 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | 日本語 | 3/31/2021 |
+    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | 日本語 | 3/31/2021 |
+    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | 日本語 | 3/31/2021 |
+    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | 日本語 | 3/31/2021 |
+    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (Japanese) | 日本語 | 3/31/2021 |
+    | 40241 | A | MTA Cloud Fundamentals 98-369 (Japanese) | 日本語 | 3/31/2021 |
+	| 40349 | B | Windows OS Fundamentals | 英語 | 03/31/2021 |
+    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | 英語 | 3/31/2021 |
+    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | 英語 | 3/31/2021 |
+    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | 英語 | 3/31/2021 |
+    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | 英語 | 3/31/2021 |
+    | 40366 | B | Networking Fundamentals | 英語 | 03/31/2021 |
+    | 40367 | B | Security Fundamentals | 英語 | 03/31/2021 |
+    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | 英語 | 03/31/2021 |
+    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | 英語 | 03/31/2021 |
+	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | 英語 | 3/31/2021 |
+    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | 英語 | 3/31/2021 |
+    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | 英語 | 3/31/2021 |
+    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | 英語 | 3/31/2021 | 
 
 * 2020 年 12 月 31 日のコースウェアの廃止
 
@@ -989,7 +1024,7 @@ MOC オンデマンドの廃止済みコースをお探しの場合は、次の�
 
 * 2016 年 6 月 24 日に終了したコースウェア
 
-  [廃止された eラーニングコースの完全なリストをダウンロードする](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
+  [廃止された eラーニングコースの完全なリストをダウンロードする。](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
 * 2016 年 6 月 15 日に終了したコースウェア
 
@@ -1025,7 +1060,7 @@ MOC オンデマンドの廃止済みコースをお探しの場合は、次の�
 
 * 2015 年 12 月 31 日に終了したコースウェア
 
-  [廃止された インストラクター主導のコースの完全なリストをダウンロードする](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
+  [廃止された インストラクター主導のコースの完全なリストをダウンロードする。](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
 * 2015 年 8 月 31 日に終了したコースウェア
 
@@ -1046,7 +1081,7 @@ MOC オンデマンドの廃止済みコースをお探しの場合は、次の�
 
 * 2015 年 6 月 30 日に終了したコースウェア
 
-  [廃止された インストラクター主導の eラーニングコースの完全なリストをダウンロードする](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
+  [廃止された インストラクター主導の eラーニングコースの完全なリストをダウンロードする。](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
 * 2015 年 1 月 31 日に終了したコースウェア
 
@@ -1139,8 +1174,8 @@ MOC オンデマンドの廃止済みコースをお探しの場合は、次の�
 
 * 2017 年 12 月 29 日に終了したコースウェア
 
-  * [廃止された SA eラーニングコースの完全なリストをダウンロードする](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
-  * [廃止された MSIA eラーニングコースの完全なリストをダウンロードする](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [廃止された SA eラーニングコースの完全なリストをダウンロードする。](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [廃止された MSIA eラーニングコースの完全なリストをダウンロードする。](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
 
 * 2017 年 8 月 15 日に終了したコースウェア
 
@@ -1150,62 +1185,60 @@ MOC オンデマンドの廃止済みコースをお探しの場合は、次の�
 
 * 2017 年 6 月 30 日に終了したコースウェア
 
-  * [廃止された SA eラーニングコースの完全なリストをダウンロードする](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
-  * [廃止された MSIA eラーニングコースの完全なリストをダウンロードする](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
+  * [廃止された SA eラーニングコースの完全なリストをダウンロードする。](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
+  * [廃止された MSIA eラーニングコースの完全なリストをダウンロードする。](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
 * 2015 年 6 月 30 日に終了したコースウェア
 
-  * [廃止された eラーニングコースの完全なリストをダウンロードする](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
+  * [廃止された eラーニングコースの完全なリストをダウンロードする。](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 
 * 2014 年 3 月 12 日に終了したコースウェア
 
-  * [廃止された eラーニングコースの完全なリストをダウンロードする](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
+  * [廃止された eラーニングコースの完全なリストをダウンロードする。](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
 
-## コースウェアと MOC On-Demand の終了についてよく寄せられる質問 (FAQ)
- 
-**質問: コースが廃止される理由**
-  
-Microsoft は、業界の動向を継続的に監視し、技術の変化に対応するために認定要件を改訂します。最も適切なトレーニングの機会を提供するために、定期的に新しいコースを導入し、古いコースを修正または中止しています。 
+## 廃止されたコース: MOC On-Demand
 
-**質問: どの基準を使用して、コースを終了させるべきかを判断しますか？**
+すべてのMicrosoft Official Course (MOC) On-Demand コースは、2020 年6月30日をもって廃止されました。廃止されたコースの完全なリストについては、[MOC On-Demand Coursesは廃止済み](/learn/certifications/retired-on-demand-online-courses)をご覧ください。
+
+
+## コースおよび MOC On-Demandの退職に関するよくある質問
+
+**どの基準を使用して、コースを終了させるべきかを判断しますか？**
  
 通常、コースは次のいずれかのシナリオで終了します:
 
 - コースは置き換えられました。1つまたは複数の以前のコースを置き換え、実質的に新しい方法でマテリアルをカバーする新しいコースがリリースされます。
-- コースでカバーされているテクノロジがMicrosoftによってサポートされなくなった場合、通常コースウェアが終了されます。
+- コースでカバーされているテクノロジーがMicrosoftによってサポートされなくなった場合、通常、コースは廃止されます。
 - コースの成功、あるいはコースを最新のものに維持するためのコストに関するビジネス上の決定は、終了につながる可能性があります。
-- 認定は終了されました。コースが提供されなくなった認定資格のために設計されている場合、コースウェアは終了される可能性があります。
+- 認定は廃止されました。コースが提供されなくなった認定資格のために設計された場合、コースは廃止される可能性があります。
 - コミュニティ作成プログラムを通じて Microsoft 以外の著者が提供するコースは、著者の要請により、何らかの理由で終了することがあります。
 - 品質上の問題はコースの終了につながる可能性があります。品質の問題がコースで特定されている場合、品質が向上するまで終了する可能性があります。
   
-**質問: コースが終了するかどうかはどのようにして確認しますか？**
+**コースが終了するかどうかはどのようにして確認しますか？**
   
 Microsoft は、終了しているコースと、今後 3-6 か月以内に終了予定のコースの四半期リストを発行しています。終了通知は、トレーニング パートナー、トレーナー、ベンダー、その他の関心のあるユーザーとのコミュニケーションを通じて共有されます。Microsoft のトレーニングカタログおよびコースウェア ライブラリ カタログのコースの説明は、終了日の発表とともに更新されます。
 
-**質問: 終了日以降にコースを購入するにはどうしたらいいですか？**
+**終了日以降にコースを購入するにはどうしたらいいですか？**
 
 終了日以降、コースは販売できません。終了年月日は、各コースのカタログ Web ページと、各オーディエンスのための定期的なコミュニケーション チャネルを通じて公開されます。終了日当日に、コースウェアが販売されなくなったことが記載されます。混乱を避けるために、コースは終了日当日からアーカイブされてカタログから削除されるまで、販売されていないものとして残ります。
 
-**質問: 終了前にコースのデジタル バージョンを購入して、終了日の後にそのコースをダウンロードしたり使用したりできますか？**
+**終了前にコースのデジタル バージョンを購入して、終了日の後にそのコースをダウンロードしたり使用したりできますか？**
 
 コースが廃止された後は、ダウンロードできなくなります。終了日前にコースウェアをダウンロードまたは受信した場合は、ライセンス条項に従って使用することができます。
 
-**質問: 終了前にラーニング プランで割り当てたか、「My Courses (マイ コース) 」セクションで追加した終了コースはどうなりますか?**
+**終了前にラーニング プランで割り当てたか、「My Courses (マイ コース) 」セクションで追加した終了コースはどうなりますか?**
 
-こうしたコースは終了後も 「My Courses (マイ コース)」 セクションに表示されますが、終了したコースの起動を試みるとエラー メッセージが表示されます。
+これらのコースは、廃止後も引き続き[マイコース]セクションに表示されますが、廃止されたコースを開始しようとすると、エラー メッセージが表示されます。
 
-**質問: コースを終了前に完了しなかった場合、コースを終了後に完了することはできますか？**
+**廃止前にコースを修了していなかった場合、退職後にコースを修了することはできますか?**
 
 いいえ。コースが終了した後、もうアクセスできなくなります。
   
-**質問: コース アクティビティ レポートは、終了時に進行中のコースをどのように反映しますか?**
+**コース アクティビティ レポートは、終了時に進行中のコースをどのように反映しますか?**
 
 コース アクティビティ レポートは、終了時のコースの進捗状況を反映しています。例えば、コースが終了したときにコースが60%完了した場合、コース アクティビティ レポートには 60% の完了の進捗状況が表示されます。コース終了後は、コースの修了率を変更することはできません。
 
-**質問: 終了したコースは、依然としてオンライン ラーニング サイトに表示されますか？**
+**終了したコースは、依然としてオンライン ラーニング サイトに表示されますか？**
 
 いいえ。終了したコースは、検索結果やコース カタログには表示されなくなります。
 
-**質問: コースが終了すると、関連する MOC オンデマンド (MOD) も終了しますか？**
-
-はい。MOD はコースウェアと連携しているため、コースが終了すると MOD は同じ日付に終了されます。
