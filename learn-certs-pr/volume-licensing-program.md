@@ -34,13 +34,13 @@ Microsoftのトレーニングおよび認定資格ソリューションは、�
 
   Microsoftイマジンアカデミーは、下記のものを提供しています。
 
-  * 教育者/スタッフの専門能力開発のための30枚の無料認定試験バウチャー（MOS、MTA、Fundamentals、およびMCE）VL契約ごと（学校間で共有）
-  * 生産性（MOS）コースおよびエントリーレベルIT（MTA）コースのコースコンテンツパッケージ– MOAC
-  * MOS2016およびMOS2019 / O365の試験学習ガイド
-  * MCT（Microsoft 認定トレーナー）プログラムの50％割引
-  * Microsoftオフィシャルコースウェア（MOC）コンテンツへのアクセス
-  * カスタマイズ可能なコース修了証明書
-  * Microsoft プレスブックの40％割引
+  * 教育者/スタッフの専門能力開発のための30枚の無料認定試験バウチャー（MOS、MTA、Fundamentals、およびMCE）VL契約ごと（学校間で共有）。
+  * 生産性（MOS）コースおよびエントリーレベルIT（MTA）コースのコースコンテンツパッケージ– MOAC。
+  * MOS2016およびMOS2019 / O365の試験学習ガイド。
+  * MCT（Microsoft 認定トレーナー）プログラムの50％割引。
+  * Microsoftオフィシャルコースウェア（MOC）コンテンツへのアクセス。
+  * カスタマイズ可能なコース修了証明書。
+  * Microsoft プレスブックの40％割引。
 
   Microsoftイマジンアカデミー（MSIA）へのアクセスは、EES（教育ソリューションへの登録）、学校、およびOVS-ES（オープンバリューサブスクリプション–教育登録サブスクリプション）のボリュームライセンスサブスクリプションを新規購入または更新すると、プログラムスキルのメリットとして追加費用なしで利用できます。
 
@@ -63,10 +63,10 @@ Microsoftのトレーニングおよび認定資格ソリューションは、�
 
   **その他のボリュームライセンス アカデミック認定資格リソース**
 
-  * [Microsoft Imagine Academy Program](https://www.microsoft.com/en-us/education/imagine-academy)
-  * [教育機関向けの Microsoft 認定資格データシート](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Microsoft Imagine Academy 認定資格ロードマップ](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [アカデミック ボリュームライセンス データシート用の Microsoft 認定資格試験パック](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [Microsoft Imagine Academy Program。](https://www.microsoft.com/en-us/education/imagine-academy)
+  * [教育機関向けの Microsoft 認定資格データシート。](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Microsoft Imagine Academy 認定資格ロードマップ。](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [アカデミック ボリュームライセンス データシート用の Microsoft 認定資格試験パック。](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * その他のボリュームライセンス アカデミック eラーニング認定資格リソース
 
@@ -76,18 +76,18 @@ Microsoftのトレーニングおよび認定資格ソリューションは、�
 
   Microsoftは、現在ボリュームライセンスにおける eラーニングの販売を行っておりません。次のリソースは、既存の契約で eラーニングコンテンツをまだ使用しているお客様向けのものです。これらは、ボリュームライセンスの eラーニング購入の展開、構成、および管理をサポートすることを目的としています。
 
-  * [オンライン使用のためのボリュームライセンス オンライン サービス管理ガイド](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
-  * [オンライン使用のためのボリュームライセンス エンドユーザー/学生向けガイド](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
-  * [Microsoft Imagine Academy Program](https://www.microsoft.com/en-us/education/imagine-academy)
-  * [教育機関向けの Microsoft 認定資格](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Microsoft Imagine Academy 認定資格ロードマップ](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [アカデミック ボリュームライセンス用の Microsoft 認定資格試験パック](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [オンライン使用のためのボリュームライセンス オンライン サービス管理ガイド。](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
+  * [オンライン使用のためのボリュームライセンス エンドユーザー/学生向けガイド。](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
+  * [Microsoft Imagine Academy Program。](https://www.microsoft.com/en-us/education/imagine-academy)
+  * [教育機関向けの Microsoft 認定資格。](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Microsoft Imagine Academy 認定資格ロードマップ。](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [アカデミック ボリュームライセンス用の Microsoft 認定資格試験パック。](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * お問い合わせ
 
   Microsoft のトレーニングおよび認定資格製品の使用を開始するには、ボリュームライセンス アカウント マネージャーにお問い合わせください。価格設定、ライセンス、および早期割引についての質問については、[MSLVLPurchase@microsoft.com](mailto:MSLVLPurchase@microsoft.com) に電子メールメッセージを送信してください。
 
-  [Microsoft トレーニングおよび認定資格ソリューションを追加するには、営業担当者にお問い合わせください](mailto:mslvlhlp@microsoft.com)
+  [Microsoft トレーニングおよび認定資格ソリューションを追加するには、営業担当者にお問い合わせください。](mailto:mslvlhlp@microsoft.com)
 
 ## よく寄せられる質問
 
@@ -143,14 +143,14 @@ Microsoft トレーニングおよび認定資格ソリューションは、Micr
 
 Microsoft トレーニングおよび認定資格ソリューションは、1階層の単一パッケージ価格を提供します。Microsoft トレーニングおよび認定資格ソリューションパッケージは、12 か月のサブスクリプションとして注文するか、基本契約に残っている月数に基づいて比例配分されます。ボリュームライセンス オンライン サービスの他のプログラムに必要となる個別の User Subscription License (USL) または Add-on Subscription License (ASL) は必要ありません。
 
-**注** Microsoft トレーニングおよび認定資格ソリューションを 12 か月のサブスクリプションとして注文した場合、追加の注文は最初の 12 か月のサブスクリプション注文と同時に失効します。[Visit the Online Services Guide](https://www.microsoft.com/learning/_silverlight/bac/bac.htm)。
+**注** Microsoft トレーニングおよび認定資格ソリューションを 12 か月のサブスクリプションとして注文した場合、追加の注文は最初の 12 か月のサブスクリプション注文と同時に失効します。
 
 **質問: いくつのコードを取得する必要がありますか？**
 
 組織が取得するコードが多いほど、受け取るボリューム ディスカウントは大きくなります。次のリソースのいずれかを使用して、組織のトレーニング ニーズを決定し、会社のビジネス目標に合わせた学習計画を作成することをお勧めします。
 
-- [Microsoft トレーニングおよび認定資格ソリューション ボリュームライセンス ヘルプにメールを送信する](mailto:mslvlhlp@microsoft.com)
-- [Microsoft トレーニングおよび認定資格ソリューションを利用するためにローカルの Microsoft Certified Partner [Microsoft 認定パートナー] を検索する](https://www.microsoft.com/learning/find-partner.aspx)
+- [Microsoft トレーニングおよび認定資格ソリューション ボリュームライセンス ヘルプにメールを送信する。](mailto:mslvlhlp@microsoft.com)
+- [Microsoft トレーニングおよび認定資格ソリューションを利用するためにローカルの Microsoft Certified Partner [Microsoft 認定パートナー] を検索する。](/learn/certifications/partners)
 
 **質問: 試験バウチャーをいくつ注文すればよいですか？**
 

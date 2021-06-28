@@ -22,40 +22,30 @@ Microsoft認定資格は、現代のデジタルビジネスの職務で成功�
 
 認定を更新する権利がある場合は、マイクロソフト認定ID(MCID) にリンクされた電子メールへ通知が来ます。認定の有効期限が切れる前に、最大4通のリマインダーメールが届きます。認定資格を更新すると、再度更新する時期まではリマインダーは届きません。
 
-市場に出回る認定資格の更新アセスメントを最初に開始する際に、次のロードマップ (変更される可能性があります) を確認してください。
+利用可能になる最初の一連の更新評価は、ここにリストされています。これらは、個々の学習者の資格が更新のために開かれた順序で計画されています。学習者は、認定資格の有効期限の 6 か月以内に更新の資格があります。リストの更新/変更については、このページを確認してください。
 
-| 2021年2月初旬に利用可能な更新アセスメント |
+| 2021 年 3 月に利用可能な更新評価 |
 | --- |
 | Microsoft Certified: Azure Administrator Associate |
 | Microsoft Certified: Azure Developer Associate |
 | Microsoft Certified: Azure Security Engineer Associate |
 | Microsoft Certified: DevOps Engineer Expert |
 | Microsoft Certified: Azure Solutions Architect Expert |
-| Microsoft Certified: Azure for SAP Workloads Specialty |
-| Microsoft Certified: Azure IoT Developer Specialty |
+| Microsoft Certified: Azure AI Engineer Associate |
+| Microsoft Certified: Azure Data Engineer Associate |
 | Microsoft Certified: Azure Data Scientist Associate |
 | Microsoft 365 Certified: Modern Desktop Administrator Associate |
 | Microsoft 365 Certified: Messaging Administrator Associate |
-| Microsoft 365 Certified: Security Administrator Associate |
-| Microsoft 365 Certified: Developer Associate |
-| Microsoft 365 Certified: Teams Administrator Associate |
+| Microsoft 365 Certified: Security Administrator Associate |								  
 | Microsoft 365 Certified: Enterprise Administrator Expert |
+| Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate |
+| Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate |
 
-| 2021年2月中旬から3月に利用可能な更新評価 |
-| --- |
-| Microsoft Certified: Azure AI Engineer Associate |
-| Microsoft Certified: Azure Data Engineer Associate |
-| Microsoft Certified: Azure Database Administrator Associate |
-| Microsoft Certified: Data Analyst Associate |
-| Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Finance and Operations Apps Developer Associate |
-| Microsoft Certified: Dynamics 365 Finance and Operations Apps Solution Architect Expert |
 
 ## 認定を更新するメリット
 
@@ -78,7 +68,7 @@ Microsoft認定資格は、現代のデジタルビジネスの職務で成功�
 
 ## 認証の有効期限ポリシーの変更
 
-2020年12月15日、[認証の有効期限ポリシーの変更を発表しました](https://aka.ms/CertRenewalBlog) 。2021年6月以降、取得した [ロールベース](/learn/certifications/browse/?type=role-based) または[専門認定](/learn/certifications/browse/?type=specialty) はいずれも、あなたがそれを取得した日から1年間有効となります。2021年6月より前に取得したロールベースの専門資格は、取得した日から2年間有効です。
+2020年12月15日に、[認証の有効期限ポリシーの変更を発表しました。](https://aka.ms/CertRenewalBlog)2021年6月30日水曜日@ 12時 GMT（2021年6月29日@ 5pm PT）から、任意の[役割ベース](/learn/certifications/browse/?type=role-based) または[特別認定](/learn/certifications/browse/?type=specialty) を取得すると、取得した日から1年間有効になります。2021年6月より前に取得したロールベースの専門資格は、取得した日から2年間有効です。
 
 ## よくある質問
 
@@ -92,7 +82,7 @@ Microsoft認定資格は、現代のデジタルビジネスの職務で成功�
 
     はい。認定プロファイルを接続すると、資格期間内にMicrosoft Learnで更新アセスメントを受けることができます。よりパーソナライズされた体験をすることもできます。
 
-    最適な体験をするためには、Microsoft Learnの認定プロファイルとドキュメントプロファイルの両方に同じアカウント資格情報を使用することをお勧めします。1つのドキュメントプロファイルと連動できる認証プロファイルは1つのみで、後で変更することはできません。したがって、複数の認定プロファイルがある場合は、ドキュメントプロファイルと連動する前に、[認定サポートチームに連絡](https://aka.ms/mcpforum) してマイクロソフト認定プロファイルをマージしてください。
+    更新プロセスの一環として、Microsoft Learnの認定プロフィールとDocsプロフィールの両方に同じ個人のMicrosoftアカウントクレデンシャルを使用する必要があります。 1つのドキュメントプロフィールに接続できる認証プロフィールは1つだけであることに注意してください。複数の認定プロフィールがある場合は、ドキュメントプロフィールに接続する前に、[認定サポートチームに連絡](https://aka.ms/mcpforum) してMicrosoft Certificationプロフィールを併合してください。
 
 3. **マイクロソフト認定資格プロファイルとMicrosoft Learnのドキュメントプロファイルの違いは何ですか？**
 
@@ -100,38 +90,42 @@ Microsoft認定資格は、現代のデジタルビジネスの職務で成功�
 
     Microsoft Learnのドキュメントプロファイルには、Microsoft Learn、ドキュメント、Q＆A、およびコードサンプル全体のアクティビティ履歴が含まれています。個人のMicrosoftアカウント、または職場や学校のアカウントを使用してアクセスします。
 
-4. **私の認定が失効してしまいました。次はどうなるのですか？**
+4. **LearnにMicrosoft Certification プロファイルと Docsプロフィールがあり、それぞれが異なる個人アカウントに関連付けられています。これら2つのプロフィールを繋げるにはどうすればよいですか？**
+
+    それぞれが異なる個人アカウントを使用するMicrosoft Certification プロフィールとDocs on Learnプロフィールを繋げる前に、両方に使用する単一の個人アカウントを選択する必要があります。これらのアカウントを接続するためのオプションを確認するには、ドキュメント“[Aligning accounts between Certification Profile and Learn Profile](/learn/certifications/aligning-accounts-between-certification-profile-and-learn-profile)”をご参照ください。
+
+5. **私の認定が失効してしまいました。次はどうなるのですか？**
 
     認定の有効期限が切れた場合は、必要な試験に合格して、再度認定を取得する必要があります。
 
-5. **ベータ試験に合格するか、認定の有効期限が切れる前に再受験することで、認定を更新できますか？**
+6. **ベータ試験に合格するか、認定の有効期限が切れる前に再受験することで、認定を更新できますか？**
 
     いいえ。認定を更新するには、認定の有効期限が切れる前に更新アセスメントに合格する必要があります。
 
-6. **すべてのMicrosoft認定資格には更新するオプションがありますか？**
+7. **すべてのMicrosoft認定資格には更新するオプションがありますか？**
 
     6か月以上利用可能なMicrosoftのロールベースの専門資格には、更新オプションがあります。
 
-7. **Microsoftファンダメンタルズ認定は更新する必要がありますか？**
+8. **Microsoftファンダメンタルズ認定は更新する必要がありますか？**
 
     いいえ。認定の更新プロセスは、有効期限がないため、ファンダメンタルズ認定には適用されません。
 
-8. **更新アセスメントは通常の試験更新の頻度と同じですか？**
+9. **更新アセスメントは通常の試験更新の頻度と同じですか？**
 
     はい、評価の更新は認定試験の更新の頻度と一致しています。
 
-9. **アセスメントはどの言語で利用できますか？**
+10. **アセスメントはどの言語で利用できますか？**
 
     Microsoft Learnの更新アセスメントは、対応する認定試験と同じ言語で利用できます。
 
-10. **アセスメントは何回再受験できますか？**
+11. **アセスメントは何回再受験できますか？**
 
     合格するために必要な回数だけアセスメントを再受験することができ、認定の有効期限が切れる前に合格する必要があります。1回目で合格しなかった場合は、すぐにアセスメントを受けなおすことができます。ただし、2回目の受験の後、追加の試験を行う前には少なくとも24時間待つ必要があります。
 
-11. **エキスパートレベルのロールベースの認定を更新し、それにアソシエイトレベルの前提条件の認定が含まれている場合、アソシエイトレベルの認定も自動的に更新されますか？**
+12. **エキスパートレベルのロールベースの認定を更新し、それにアソシエイトレベルの前提条件の認定が含まれている場合、アソシエイトレベルの認定も自動的に更新されますか？**
 
     いいえ。各認定は、関連するアセスメントに合格することにより、個別に更新する必要があります。
 
-12. **私のエキスパートレベルの認定では、前提条件としてアソシエイトレベルの認定を取得する必要があります。アソシエイトレベルの認定が期限切れになった場合、エキスパートレベルも自動的に期限切れになりますか？**
+13. **私のエキスパートレベルの認定では、前提条件としてアソシエイトレベルの認定を取得する必要があります。アソシエイトレベルの認定が期限切れになった場合、エキスパートレベルも自動的に期限切れになりますか？**
 
     いいえ、アソシエイトレベルの前提条件の認定が期限切れになっても、エキスパートレベルの認定は自動的には期限切れになりません。各認定は、関連するアセスメントに合格することにより、個別に更新する必要があります。

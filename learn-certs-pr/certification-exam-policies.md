@@ -18,6 +18,7 @@ Microsoft は、世界中のパートナーやお客様から、最高品質の�
 - [Exam security policy and exam retake policy](/learn/certifications/exam-security-policy-and-exam-retake-policy)
 - [試験の日程変更およびキャンセルポリシー](/learn/certifications/exam-reschedule-and-cancellation-policy)
 - [Microsoft 認定資格プログラム契約書](/learn/certifications/microsoft-certification-program-agreement)
+- [Microsoft certification non-disclosure agreement](/learn/certifications/microsoft-certification-renewal-non-disclosure-agreement)
 - [Microsoft 試験秘密保持契約書](/learn/certifications/microsoft-exam-non-disclosure-agreement)
 - [特別な設備のリクエスト](/learn/certifications/request-accomodations)
 - [試験項目チャレンジプロセス](/learn/certifications/exam-item-challenge-process)
