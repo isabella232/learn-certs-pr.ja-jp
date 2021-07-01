@@ -79,18 +79,19 @@ outlineSection: |-
   ### モジュール 3&#58; Azure 管理
   本モジュールでは、Azure 管理者がインフラストラクチャの管理に使用するツールについて学習します。これには、Azure Portal、Cloud Shell、Azure PowerShell、CLI 、および Resource Manager テンプレートが含まれます。本モジュールの内容は次のとおりです。
   #### レッスン
-  - Azure Resource Manager
-  - Azure Portal および Cloud Shell
-  - Azure PowerShell および CLI
-  - ARM テンプレート
+  * Azure Resource Manager
 
-  #### ラボ&#58; Azure Portal の使用による Azure リソースの管理
+  * Azure Administrator Tools
 
-  #### ラボ&#58; ARM テンプレートの使用による Azure リソースの管理
+  * ARMテンプレート
 
-  #### ラボ&#58; Azure PowerShell を使用して Azure リソースを管理する (オプション)
+  #### ラボ：ARMテンプレートを使用してAzureリソースを管理
 
-  #### ラボ&#58; Azure CLI を使用して Azure リソースを管理する (オプション)
+  #### ラボ：Azure PowerShellを使用してAzureリソースを管理（オプション）
+
+  #### ラボ：Azure CLIを使用してAzureリソースを管理（オプション）
+
+  #### ラボ：Azure Portalを使用してAzureリソースを管理
 
   学生はこのモジュールの完了後、次のことができるようになります&#58; 
   - リソースの整理に Azure Resource Manager を活用する。
@@ -103,7 +104,6 @@ outlineSection: |-
   本モジュールでは、仮想ネットワークとサブネット化、IP アドレッシング、ネットワーク セキュリティ グループ、Azure Firewall、Azure DNS などの基本的な仮想ネットワーキングの概念について学習します。
   #### レッスン
   - 仮想ネットワーク
-  - IP アドレッシング
   - ネットワーク セキュリティ グループ
   - Azure Firewall
   - Azure DNS
@@ -112,7 +112,6 @@ outlineSection: |-
 
   学生はこのモジュールの完了後、次のことができるようになります&#58; 
   - 仮想ネットワークとサブネットを実装する。
-  - パブリックおよびプライベート IP アドレッシングを構成する。
   - ネットワーク セキュリティ グループを構成する。
   - Azure Firewall を構成する。
   - プライベートおよびパブリック DNS ゾーンを構成する。
@@ -194,9 +193,11 @@ outlineSection: |-
 
   #### ラボ&#58; Web アプリの実装
 
-  #### ラボ&#58; Azure Container Instances の実装
+  #### ラボ：Azure Kubernetes Serviceを実装
 
-  #### ラボ&#58; Azure Kubernetes Service の実装
+  ####
+
+  #### ラボ：Azure Container Instancesを実装
 
   学生はこのモジュールの完了後、次のことができるようになります&#58; 
   - App Service プランを作成する

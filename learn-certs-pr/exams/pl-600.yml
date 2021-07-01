@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Solution Architect (beta)'
+title: 'Microsoft Power Platform Solution Architect'
 metadata:
-  title: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
-  description: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+  title: 'Exam PL-600: Microsoft Power Platform Solution Architect'
+  description: 'Exam PL-600: Microsoft Power Platform Solution Architect'
 uid: exam.pl-600
 displayName: PL-600
 summary: |-
@@ -11,8 +11,6 @@ summary: |-
   ソリューションアーキテクトは、Power Platform、Dynamics 365カスタマーエンゲージメントアプリ、関連するMicrosoft cloudソリューション、およびその他のサードパーティテクノロジに関する機能的および技術的な知識を持っています。ソリューションアーキテクトは、エンゲージメント全体に知識と経験を適用します。ソリューションアーキテクトは、顧客の投資の価値を高め、組織の健全性を促進するために、予防的かつ予防的な作業を実行します。この役割には、ビジネス上の問題を解決する機会を特定する能力が必要です。
   
   ソリューションアーキテクトは、Power Platformの機能および技術分野にわたる経験があります。ソリューションアーキテクトは、開発、構成、統合、インフラストラクチャ、セキュリティ、可用性、ストレージ、および変更管理全体にわたる設計上の決定を容易にすることができる必要があります。この役割は、機能要件と非機能要件を満たしながら、プロジェクトのビジネスニーズのバランスを取ります。
-  
-  <div><br/><font color='red'><strong>当社は質問とテストの品質についてのデータを集めているため、ベータテストはすぐに得点記録されなません。 <a href="/learn/certifications/beta-exams">ベータテストの価値と重要性についてもっと詳しく知りたい方はこちらへ</a>.</strong></font></div>
 subTitle: 'これは下記技術タスクを行う能力があるかどうかを測る試験です。 ソリューションの構想と要件分析の実行。ソリューションの設計。ソリューションの実装。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
@@ -54,6 +52,9 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-solution-architect-expert
 resources:
+- title: 認定の学習経路
+  description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEGLH
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://aka.ms/TrainingCertDeck
