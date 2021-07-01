@@ -2,28 +2,27 @@
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
   title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
-  description: 'Microsoft Azure for SAP Workloads のアーキテクトまたはエンジニアは、Azure での SAP ソリューションの長期的な運用に固有の SAP システム ランドスケープおよび業界標準に関する幅広い経験と知識を持っています。'
+  description: 'この試験の候補者は、Microsoft AzureでのSAPソリューションの初期移行または統合、および長期運用に固有のSAPシステムランドスケープと業界標準に関する豊富な経験と知識を持つ設計者またはエンジニアである必要があります。'
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  Azure for SAP Workloads Specialty 認定資格の受験者は、Microsoft Azure での SAP ソリューションの長期的な運用に固有の SAP システム ランドスケープと業界標準に関する幅広い経験と知識を持つアーキテクトまたはエンジニアである必要があります。
-
-  このロールの責任には、サービスに関する推奨事項の作成と、最適な復元力、パフォーマンス、スケール、プロビジョニング、サイズ、および監視のためにリソースを適切に調整することが含まれます。
-
-  Azure for SAP Workloads のアーキテクトまたはエンジニアは、クラウド管理者、クラウド DBA、およびクライアントとパートナーを組み、ソリューションを実装します。
-
-  この認定資格の受験対象者は、SAP アプリケーションに関する幅広い経験と知識が必要です。SAP HANA、S/4HANA、SAP NetWeaver、SAP BW/4HANA、SAP アプリケーションおよびデータベース用の OS サーバー、Azure ポータル、ARM テンプレート、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、高可用性設計、障害回復設計、データ保護概念、およびネットワーキング。
-
-  このロールでは、SAP HANA と Linux の認定に加えて、Azure Administrator Associate または Azure Solutions Architect Expert 認定を取得することを強くお勧めします。
-subTitle: Microsoft Azure for SAP Workloads のアーキテクトまたはエンジニアは、Azure での SAP ソリューションの長期的な運用に固有の SAP システム ランドスケープおよび業界標準に関する幅広い経験と知識を持っています。
+  この試験の候補者は、Microsoft AzureでのSAPソリューションの初期移行または統合、および長期運用に固有のSAPシステムランドスケープと業界標準に関する豊富な経験と知識を持つ設計者またはエンジニアである必要があります。
+  
+  SAP用Azureワークロードの設計者またはエンジニアの責任には、サービスに関する推奨事項の作成と、最適な復元力、パフォーマンス、スケール、プロビジョニング、サイズ、および監視のために必要に応じてリソースを調整することが含まれます。
+  
+  SAP用Azureワークロードの設計者またはエンジニアは、cloud管理者、cloudデータベース管理者、およびクライアントと提携してソリューションを実装します。
+  
+  この試験の候補者は、SAPアプリケーション（SAP HANA、S / 4HANA、SAP NetWeaver、SAP BW / 4HANA、SAPアプリケーションとデータベース用のOSサーバー、Azureポータル、Azure Marketplace、Azure Resource Managerテンプレート（ARMテンプレート））、仮想化、cloudインフラストラクチャ、ストレージ構造、高可用性設計、災害復旧設計、データ保護の概念、およびネットワーキングに関する豊富な経験と知識を持っている必要があります。
+  
+  この試験では、SAP認定に加えて、Azure Administrator AssociateまたはAzure Solutions Architect Expertの認定を取得することを強くお勧めしています。
+subTitle: この試験の候補者は、Microsoft AzureでのSAPソリューションの初期移行または統合、および長期運用に固有のSAPシステムランドスケープと業界標準に関する豊富な経験と知識を持つ設計者またはエンジニアである必要があります。
 levels:
 - advanced
 skills:
 - SAP Workloads を Azure に移行する
-- SAP Workloads をサポートする Azure ソリューションの設計
-- Azure for SAP Workloads の構築とデプロイ
-- SAP Workloads 向け Azure インフラストラクチャの検証
-- Azure SAP Architecture を運用する
+- SAPワークロードをサポートするインフラストラクチャを設計および実装
+- High AvailabilityとDisaster Recovery (HA/DR)の設計と実装
+- AzureでSAPワークロードの保持
 roles:
 - administrator
 - solution-architect

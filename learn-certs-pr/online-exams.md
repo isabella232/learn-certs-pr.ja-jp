@@ -26,7 +26,7 @@ Pearson VUE は、試験を提供するためにMicrosoftが提携している�
 1. お使いのコンピュータが最小システム要件を満たしているか、それを超えていることを確認します (詳細は後述)。
 2. 必要な [システムテスト](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) を、テストを行うのと同じコンピューターの同じ場所で行ってください。
 3. 以下のシステム要件、技術的なヒント、およびテスト環境の要件を確認してください。
-4. ID が Pearson VUE [ID Policy](https://home.pearsonvue.com/Policies/1S/English)に準拠していること、および Microsoft Certificationプロフィールの名前が政府発行の名前と試験に参加するために提示する IDの名前が完全に一致していることを確認します。 認定資格プロフィールの名前を確認する方法の詳細については、[認定資格プロフィールの管理](/learn/certifications/manage-certification-profile) をご確認ください。
+4. ID が Pearson VUE [ID Policy](https://home.pearsonvue.com/Clients/Microsoft/Online-proctored.aspx#b4ExamDay)に準拠していること、および Microsoft Certificationプロフィールの名前が政府発行の名前と試験に参加するために提示する IDの名前が完全に一致していることを確認します。 認定資格プロフィールの名前を確認する方法の詳細については、[認定資格プロフィールの管理](/learn/certifications/manage-certification-profile) をご確認ください。
 5. 試験中にPearson VUEがあなたに連絡する必要がある場合に備えて、国コードを含む携帯電話番号で Microsoft Certificationプロフィールを更新してください。試験中に接続が切断された場合、これがPearson VUEから連絡できる唯一の方法です。プロフィールの更新方法については、[認定資格プロフィールの管理](/learn/certifications/manage-certification-profile) をご覧ください。
 6. [Non-Disclosure Agreement (NDA)](/learn/certifications/microsoft-exam-non-disclosure-agreement) を読んでください。試験の開始時に、NDAとGeneral Terms of Use for Microsoft Certification Examsを読み、同意する必要があります。試験が始まってから5分しか読むことができません。試験の前に読んで、要件を完全に理解し、時間切れになることなく同意できることをご確認ください。指定された時間内に NDA に同意しない場合は、試験を受けることができません。
 7. 試験の特別依頼をリクエストしたい場合は、試験をスケジュールする**前に**、Pearson VUEに特別依頼のリクエストを提出してください。リクエストの提出方法の詳細については、[Pearson VUE の特別依頼をリクエスト](/learn/certifications/request-accommodations) にアクセスしてください。
@@ -181,17 +181,10 @@ Pearson VUE は、試験を提供するためにMicrosoftが提携している�
 
 ### 本人確認
 
-- 次のいずれかのような、最新の政府発行の ID を提示する必要があります。
-  - 運転免許証。
-  - 軍のID。
-  - パスポート。
-  - 身分証明書 (国/州/地方の身分証明書)。
-  - 外国人登録カード（グリーンカード、永住者、ビザ）。
-  - 政府発行の現地言語 ID (ローマ字ではありません) — 受験者が試験を行っている国から発行された場合にのみ許可されます。
-- 必要な顔写真と ID をキャプチャするには携帯電話が最適ですが、携帯電話がない場合はウェブカメラを使用できます。
-- 提示する政府発行の身分証明書の名前は、Microsoft CertificationとPearson VUEプロファイルの名前と**正確に**一致する必要があります。
+- 現在政府発行のIDを提示する必要があります。許容される例については、Pearson VUE [IDポリシー](https://home.pearsonvue.com/Clients/Microsoft/Online-proctored.aspx#b4ExamDay)をご参照ください。
+- 携帯電話は、必要なヘッドショットとIDをキャプチャするのに最適です。
+- 提示する政府発行のIDの名前は、Microsoft CertificationおよびPearsonVUEプロフィールの名前と**完全に**一致している必要があります。
 - 身分証明書の更新手続き中の場合、IDの更新フォームを含む法的な名前変更フォームは、オンライン監督試験では受け入れられないことにご注意ください。
-- 18 歳未満の未成年者は、身分証明書として有効な学生 ID を提示できます。候補者の保護者も有効な身分証明書を提示し、チェックイン プロセス中に口頭で同意する必要があります。
 
 ### 検査エリアのスキャン
 

@@ -7,19 +7,19 @@ uid: exam.az-120
 displayName: AZ-120
 summary: |-
   <div>
-  <div><font color='red'><strong>この試験の内容は2021年5月28日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点を確認してください。</strong> </font> <br/> <br/> </div>
+  <div><font color='red'><strong>この試験の内容は2021年5月28日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong> </font> <br/> <br/> </div>
   </div>
 
-  この試験の受験対象者は、Microsoft Azure での SAP ソリューションの長期的な運用に固有の SAP システム ランドスケープと業界標準に関する幅広い経験と知識を持つアーキテクトまたはエンジニアである必要があります。
-
-  Azure for SAP Workloads のアーキテクトまたはエンジニアの責任には、サービスに関する推奨事項の作成や、最適な復元力、パフォーマンス、スケール、プロビジョニング、サイズ、およびモニタリングのためにリソースを適切に調整することが含まれます。
-
-  Azure for SAP Workloads のアーキテクトまたはエンジニアは、クラウド管理者、クラウド DBA、およびクライアントとパートナーを組み、ソリューションを実装します。
-
-  この試験の受験対象者は、SAP アプリケーションに関する幅広い経験と知識が必要です。SAP HANA、S/4HANA、SAP NetWeaver、SAP BW/4HANA、SAP アプリケーションおよびデータベース用の OS サーバー、Azure ポータル、ARM テンプレート、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、高可用性設計、障害回復設計、データ保護概念、およびネットワーキング。
-
-  この試験では、SAP HANA と Linux の認定に加えて、Azure Administrator Associate または Azure Solutions Architect Expert 認定を取得することを強くお勧めします。
-subTitle: 'この試験では、SAP ワークロードの Azure への移行、SAP ワークロードをサポートする Azure ソリューションの設計、Azure SAP Workloads の構築および展開、SAP Workloads 用の Azure インフラストラクチャの検証、Azure SAP アーキテクチャの運用などの技術的なタスクを実行する能力を評価します。'
+  この試験の候補者は、Microsoft AzureでのSAPソリューションの初期移行または統合、および長期運用に固有のSAPシステムランドスケープと業界標準に関する豊富な経験と知識を持つ設計者またはエンジニアである必要があります。
+  
+  SAP用Azureワークロードの設計者またはエンジニアの責任には、サービスに関する推奨事項の作成と、最適な復元力、パフォーマンス、スケール、プロビジョニング、サイズ、および監視のために必要に応じてリソースを調整することが含まれます。
+  
+  SAP用Azureワークロードの設計者またはエンジニアは、cloud管理者、cloudデータベース管理者、およびクライアントと提携してソリューションを実装します。
+  
+  この試験の候補者は、SAPアプリケーション（SAP HANA、S / 4HANA、SAP NetWeaver、SAP BW / 4HANA、SAPアプリケーションとデータベース用のOSサーバー、Azureポータル、Azure Marketplace、Azure Resource Managerテンプレート（ARMテンプレート））、仮想化、cloudインフラストラクチャ、ストレージ構造、高可用性設計、災害復旧設計、データ保護の概念、およびネットワーキングに関する豊富な経験と知識を持っている必要があります。
+  
+  この試験では、SAP認定に加えて、Azure Administrator AssociateまたはAzure Solutions Architect Expertの認定を取得することを強くお勧めしています。
+subTitle: 'この試験では、次の技術タスクを実行する能力を測定します。SAPワークロードをAzureに移行、SAPワークロードをサポートするインフラストラクチャを設計および実装、High AvailabilityとDisasterの設計および実装、 AzureでSAPワークロードの保持。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
@@ -31,12 +31,11 @@ locales:
 levels:
 - advanced
 skills:
-- この試験の内容は2021年5月28日に更新されます。以下の試験スキルの概要をダウンロードして、変更点を確認してください。
-- SAP Workloads を Azure に移行する (10-15%)
-- SAP Workloads をサポートする Azure ソリューションの設計 (20-25%)
-- Azure for SAP Workloads の構築とデプロイ (35-40%)
-- SAP Workloads 向け Azure インフラストラクチャの検証 (10-15%)
-- Azure SAP Architecture を運用する (10-15%)
+- この試験の内容は2021年5月28日に更新されました。変更点を確認するには、以下の試験スキルの概要をダウンロードしてください。
+- SAP Workloads を Azure に移行する (25–30%)
+- SAPワークロードをサポートするインフラストラクチャを設計および実装 (25–30%)
+- High AvailabilityとDisaster Recovery (HA/DR)の設計と実装 (20–25%)
+- AzureでSAPワークロードの保持 (15–20%)
 roles:
 - solution-architect
 - devops-engineer
