@@ -29,8 +29,7 @@ Credly プラットフォームを使用すると、次のことができます�
 - どの雇用主が自分のスキルを持つ人を探しているかが分かります。
 - 自分が保有するマイクロソフトのスキルが必要な仕事で得られる給与を調べることができます。
 - 認定資格に関連する新しい求人情報を検索し、数回のクリックで簡単に応募できます。
-- 労働市場の洞察と雇用機会の模索。ビデオ: [Credly: Labor market insights](https://vimeo.com/379867308)で、市場での機会をすばやく発見することがいかに簡単かをご覧ください。
-詳細については、ブログ投稿をご参照ください。
+- 労働市場の洞察と雇用機会をご覧ください。こちらのビデオから[Labor Market Insights](https://support.credly.com/hc/en-us/articles/360041974091-Video-What-labor-market-insights-are-available-with-my-badge) 市場での機会を素早く見つけることがいかに簡単なのかをご確認いただけます。
 
 詳細はこちらのブログをご覧ください[Unlock Active Job Postings with Your Microsoft Certification](/learn/certifications/posts/unlock-active-job-postings-with-your-microsoft-certification)。
 
@@ -49,7 +48,7 @@ _ *このリンクをクリックすると、プライバシーに関する慣�
 
 ## Credlyからバッジを自動的に受け入れる方法
 
-CredlyのAcclaimプラットフォームで、発行されたバッジを自動的に受け入れるようにアカウント設定を調整します。 Acclaimビデオ“[How to manage your badge.](https://www.youtube.com/watch?v=rMeSQM0h1_Y)”でこのプロセスをご覧ください。バッジメール通知はAcclaimから届きますが、メール通知はMicrosoftから来ることをご了承ください。
+Credlyプラットフォームから、発行されたバッジを自動的に受け入れるようにアカウント設定を調整します。 Credlyのビデオ[How do I manage and share my digital badge?](https://support.credly.com/hc/en-us/articles/360021222231-How-do-I-manage-and-share-my-digital-badge-)でこのプロセスをご覧ください。ビデオにはCredlyからのバッジの電子メール通知が表示されていますが、メール通知はMicrosoftから送信されることにご注意ください。
 
 ## バッジを共有する方法
 
@@ -67,7 +66,7 @@ Microsoft Certificationバッジを取得した後、バッジと認定資格の
 次の例外を除き、Microsoft 認定資格プログラムのすべての有効な試験および認定資格に対してバッジを発行します。
 
 - 1つの試験に合格して認定が得られるものの場合、試験ではなく認定に対してバッジが発行されます。
-- 従来の試験や認定資格の一部ではバッジを利用できません。Acclaim プロファイルに従来の試験または認定資格のバッジが表示されない場合、その試験または認定資格のバッジは発行されていません。
+- バッジは、一部のレガシー試験および認定資格ではご利用頂けません。 Credlyプロフィールにレガシー試験または認定のバッジが表示されない場合、その試験または認定のバッジは発行されていないということになりますのでご了承ください。
 
 廃止された試験または認定資格のバッジを取得した場合でも、Credly のプラットフォームを介してバッジを申請できます。
 
@@ -79,7 +78,7 @@ Microsoft Certificationバッジを取得した後、バッジと認定資格の
 
 **資格情報はマイクロソフト バッジとしてどのように表示されますか。**
 
-Credly のプラットフォームは、Mozilla によって定義された Open Badges 標準を使用して、資格情報を、ユーザーに固有に関連付けられたメタデータに関連付けられたデジタル画像に変換します。この標準により、雇用主やあなたのスキルに興味を示す人が確認できるようデジタル バッジを簡単にオンライン共有できます。
+Credlyのプラットフォームは、IMS Globalによって定義されたOpenBadges標準を使用して、クレデンシャルを、一意に接続されたメタデータに関連付けられたデジタル画像に変換します。この標準により、あなたのスキルに関心のある雇用主や他の人が確認できる方法で、デジタルバッジをオンラインで簡単に共有することができます。
 
 **新しいバッジが、以前に取得したものとは違うように見えるのですが何が変わりましたか?**
 
@@ -93,7 +92,7 @@ Credly のプラットフォームは、Mozilla によって定義された Open
 
 [認定サポート](/learn/certifications/help)をご参照ください。
 
-Credlyプラットフォームまたはバッジの請求方法について質問がある場合は、[Credly のサポート](https://support.youracclaim.com/) にお問い合わせください。
+Credlyプラットフォームやバッジの申請方法について質問がある場合は、[Credlyヘルプセンター](https://support.credly.com/hc/en-us)のリソースをご参照頂くか、[ヘルプリクエストの送信](https://support.credly.com/hc/en-us/requests/new)をご利用ください。
 
 **Certiportを通してMicrosoftバッジを取得したのにもかかわらず受け取れない場合はどうしたら良いですか？**
 

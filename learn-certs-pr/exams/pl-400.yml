@@ -6,7 +6,7 @@ metadata:
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
-  <div> <div> <font color='red'> <strong>この試験の内容は2021年3月23日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong> </font> <br/> <br/> </div>
+  <div> <div> <font color='red'> <strong>この試験の内容は2021年6月23日に更新されます。何が変わるかを確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong> </font> <br/> <br/> </div>
   </div>
 
   この試験の受験者は、Power Platform ソリューションの設計、開発、保護、トラブルシューティングを行います。受験者は、アプリケーションの強化、カスタム ユーザー エクスペリエンス、システム統合、データ変換、カスタム プロセスの自動化、カスタムの可視化などを含むソリューションのコンポーネントを実装します。
@@ -17,13 +17,14 @@ summary: |-
 subTitle: 'この試験では、技術設計の作成、 Common Data Service の設定、 Power Apps の作成と設定、ビジネスプロセスの自動化の設定、ユーザー エクスペリエンスの拡張、プラットフォームの拡張、統合の開発などの技術的なタスクを実行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4BeRV
+practiceTestUrl: https://in.mindhub.com/pl-400-microsoft-power-platform-developer-microsoft-official-practice-test/p/MU-PL-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=PL-400&examname=Exam%20PL-400:%20Microsoft%20Power%20Platform%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-400
 locales:
 - en
 levels:
 - intermediate
 skills:
-- この試験の内容は2021年3月23日に更新されました。変更点を確認するには、以下の試験スキルの概要をダウンロードしてください。
+- この試験の内容は2021年6月23日に更新されます。変更内容を確認するには、以下の試験スキルの概要をダウンロードしてください。
 - Technical Design を作成する (10-15%)
 - Microsoft Dataverseの構成  (15-20%)
 - Power Apps を作成および設定する (15-20%)
