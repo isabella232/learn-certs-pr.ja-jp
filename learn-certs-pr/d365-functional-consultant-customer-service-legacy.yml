@@ -1,0 +1,86 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate (レガシー)'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate (レガシー)'
+  description: 'Microsoft Dynamics 365 Customer Service Functional Consultants は、迅速かつ機敏、そして AI を活用した CX ソリューションを構築し、顧客ニーズを予測する実用的な洞察をもたらします。'
+uid: certification.d365-functional-consultant-customer-service-legacy
+certificationRenewalUid: renewal.d365-functional-consultant-customer-service
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  このバージョンの資格は既に提供されていません。このバージョンの資格を既にお持ちの場合、最新バージョンの資格を自動的に得ることとなります。
+  
+  あなたの資格欄には、両方のバージョンの資格が記載されます。より新しいバージョンの資格の更新のみが必要となります。前のバージョンは、期限切れとなり次第あなたの成績証明書の履歴セクションに移動します。
+  
+  もしあなたがお客様向けのDynamics365ソリューションの構成と実装を担当する機能コンサルタントの場合は、この認定資格を使用して、スキルに光を当て、キャリアの向上に役立てることができます。 Dynamics 365 Customer Service機能コンサルタントは、サービス、品質、信頼性、効率、および顧客満足度に重点を置いたオムニチャネルソリューションを実装します。機能コンサルタントとして、プロジェクトマネージャー、開発者、ソリューションアーキテクトと協力する方法を知っています。 Dynamics 365を実装する機能コンサルタントとして、最低1〜3年の経験が必要となります。
+  
+  この認定を取得する前にさらに経験が必要な場合は、いくつかのご提案があります&#58;
+  - 1つ以上のプロジェクトでDynamics 365機能コンサルタントとして仕事。
+  - Dynamics365 Customer Serviceの実装への取り組み。
+  - [community.dynamics.com](https://community.dynamics.com/)でコミュニティに参加。
+  - [Microsoft Learn](/learn/browse/?expanded=dynamics-365&products=dynamics-customer-service&roles=functional-consultant&resource_type=learning%20path)で利用可能な学習パスの取得。
+  - より実践的な練習の完了。
+  - インストラクター主導のトレーニングコースに登録。
+subTitle: Microsoft Dynamics 365 Customer Service Functional Consultants は、迅速かつ機敏、そして AI を活用した CX ソリューションを構築し、顧客ニーズを予測する実用的な洞察をもたらします。
+hidden: true
+hideFishboneDiagram: true
+levels:
+- intermediate
+skills:
+- なし
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-customer-service
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-230t01
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-bizapps.customer-service-hub-cases-slas
+- uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
+- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
+- uid: learn-dynamics.work-customer-service-omnichannel
+- uid: learn-dynamics.work-customer-service-insights
+exams:
+- uid: exam.mb-200
+- uid: exam.mb-230
+resources:
+- title: 認証ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認証への道のり
+  description: 認定を受けるための手順と、準備に役立つリソースをご確認ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認定の学習経路
+  description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: help.md
+- title: 認定バッジを共有する
+  description: あなたのネットワークで達成を祝います。あなたの Microsoft Certification バッジを申請して LinkedIn や履歴書などに追加してください
+  href: badges.md
+
