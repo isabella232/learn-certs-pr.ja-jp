@@ -1,0 +1,82 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Developer Associate (レガシー)'
+metadata:
+  title: 'Microsoft Certified: Azure Developer Associate (レガシー)'
+  description: 'Azure 開発者は、クラウド アプリケーションとサービスを設計、構築、テスト、および保守します。'
+uid: certification.azure-developer-legacy
+certificationRenewalUid: renewal.azure-developer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  このバージョンの資格は既に提供されていません。このバージョンの資格を既にお持ちの場合、最新バージョンの資格を自動的に得ることとなります。
+  
+  あなたの資格欄には、両方のバージョンの資格が記載されます。より新しいバージョンの資格の更新のみが必要となります。前のバージョンは、期限切れとなり次第あなたの成績証明書の履歴セクションに移動します。
+  
+  Azure Developer Associate認定の候補者は、Microsoft Azureでのcloudアプリケーションとサービスの設計、構築、テスト、および維持に関する専門知識を持っている必要があります。
+  
+  この役割の責任には、下記のような要件、定義、設計からcloud開発のすべてのフェーズに参加することが含まれます。開発、展開、および維持、パフォーマンスの調整とモニタリング。
+  
+  Azure開発者は、cloudソリューションアーキテクト、cloud DBA、cloud管理者、およびクライアントと提携してソリューションを実装します。
+  
+  この認定資格の候補者は、1〜2年の専門能力開発の経験とMicrosoft Azureの経験が必要です。さらに、この役割の候補者は、Azureでサポートされている言語でプログラミングできる能力と、Azure SDK、Azure PowerShell、Azure CLI、データストレージオプション、データ接続、API、アプリの認証と承認、コンピューティングとコンテナーの展開、デバッグ、パフォーマンスチューニング、およびモニタリングに習熟している必要があります。 
+subTitle: Azure 開発者は、クラウド アプリケーションとサービスを設計、構築、テスト、および保守します。
+hidden: true
+hideFishboneDiagram: true
+levels:
+- intermediate
+skills:
+- なし
+roles:
+- developer
+type: role-based
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+courses:
+- uid: course.az-204t00
+- uid: course.az-020t00
+paths:
+- uid: learn.create-serverless-applications
+- uid: learn.connect-your-services-together
+- uid: learn.store-data-in-azure
+- uid: learn.deploy-a-website-with-azure-virtual-machines
+- uid: learn.manage-resources-in-azure
+- uid: learn.deploy-a-website-with-azure-app-service
+- uid: learn.secure-your-cloud-data
+exams:
+- uid: exam.az-203
+- uid: exam.az-200
+- uid: exam.az-201
+resources:
+- title: Azure 認定資格ポスター
+  description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 認証への道のり
+  description: Azure Developer Associate の認定を受けるための手順と、準備に役立つリソースをご覧ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 認定バッジを共有する
+  description: あなたのネットワークで達成を祝います。あなたの Microsoft Certification バッジを申請して LinkedIn や履歴書などに追加してください
+  href: badges.md
+

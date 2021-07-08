@@ -1,0 +1,83 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate (レガシー)'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate (レガシー)'
+  description: 'Microsoft Dynamics 365 Field Service Functional Consultantsは、Field Service アプリケーションを構成し、フィールド サービス ライフサイクルを管理するソリューションを実装し、Connected Field Service (IoT) ソリューションを展開します。'
+uid: certification.d365-functional-consultant-field-service-legacy
+certificationRenewalUid: renewal.d365-functional-consultant-field-service
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  このバージョンの資格は既に提供されていません。このバージョンの資格を既にお持ちの場合、最新バージョンの資格を自動的に得ることとなります。
+  
+  あなたの資格欄には、両方のバージョンの資格が記載されます。より新しいバージョンの資格の更新のみが必要となります。前のバージョンは、期限切れとなり次第あなたの成績証明書の履歴セクションに移動します。
+  
+  お客様向けのDynamics 365ソリューションの構成と実装を担当する機能コンサルタントの方は、この認定資格に最適です。この認定資格は、スキルを強調し、キャリアの向上に役立ちます。 Dynamics 365 Field Service機能コンサルタントは、フィールドサービスのライフサイクルを完了するリソースを管理するソリューションの実装を担当します。機能コンサルタントとして、プロジェクトマネージャー、開発者、ソリューションアーキテクトと協力する方法を知っています。 Dynamics 365を実装する機能コンサルタントとして最低1〜3年の経験が必要です。
+  
+  この認定を取得する前にさらに経験が必要な場合は、いくつかのご提案があります&#58;
+  - いくつかのプロジェクトでDynamics 365機能コンサルタントとして仕事。
+  - Dynamics 365 Field Serviceの実装への取り組み。
+  - [community.dynamics.com](https://community.dynamics.com/)でコミュニティに参加。
+  - [Microsoft Learn](/learn/browse/expanded=dynamics-365&roles=functional-consultant&resource_type=learning％20path&products=dynamics-field-service)で利用可能な学習パスの取得。
+  - より実践的な練習の完了。
+  - インストラクター主導のトレーニングコースに登録
+subTitle: Microsoft Dynamics 365 Field Service Functional Consultantsは、Field Service アプリケーションを構成し、フィールド サービス ライフサイクルを管理するソリューションを実装し、Connected Field Service (IoT)ソリューションを展開します。
+hidden: true
+hideFishboneDiagram: true
+levels:
+- intermediate
+skills:
+- なし
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-field-service
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-240t00
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-bizapps.implementing-dyn365-field-service
+- uid: learn-bizapps.universal-resource-scheduling
+exams:
+- uid: exam.mb-200
+- uid: exam.mb-240
+resources:
+- title: 認定ポスター
+  description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認証への道のり
+  description: 認定を受けるための手順と、準備に役立つリソースをご確認ください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認定の学習経路
+  description: 必要な試験の準備と認定資格の取得に役立つ推奨トレーニング リソース。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: deals.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: help.md
+- title: 認定バッジを共有する
+  description: あなたのネットワークで達成を祝います。あなたの Microsoft Certification バッジを申請して LinkedIn や履歴書などに追加してください
+  href: badges.md
+
