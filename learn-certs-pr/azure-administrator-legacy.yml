@@ -7,9 +7,7 @@ uid: certification.azure-administrator-legacy
 certificationRenewalUid: renewal.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  このバージョンの資格は既に提供されていません。このバージョンの資格を既にお持ちの場合、最新バージョンの資格を自動的に得ることとなります。
-  
-  あなたの資格欄には、両方のバージョンの資格が記載されます。より新しいバージョンの資格の更新のみが必要となります。前のバージョンは、期限切れとなり次第あなたの成績証明書の履歴セクションに移動します。
+  <div><font color="#D83B01"><strong>このバージョンの資格は既に提供されていません。このバージョンの資格を既にお持ちの場合、最新バージョンの資格を自動的に得ることとなります。<br/><br/>  あなたの資格欄には、両方のバージョンの資格が記載されます。より新しいバージョンの資格の更新のみが必要となります。前のバージョンは、期限切れとなり次第あなたの成績証明書の履歴セクションに移動します。<br/><br/></strong></font></div>
   
   Azure Administrator Associate 認定資格の受験者は、組織の Microsoft Azure 環境の実装、管理、監視に関する専門知識が必要です。
 

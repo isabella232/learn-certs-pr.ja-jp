@@ -7,9 +7,7 @@ uid: certification.azure-developer-legacy
 certificationRenewalUid: renewal.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  このバージョンの資格は既に提供されていません。このバージョンの資格を既にお持ちの場合、最新バージョンの資格を自動的に得ることとなります。
-  
-  あなたの資格欄には、両方のバージョンの資格が記載されます。より新しいバージョンの資格の更新のみが必要となります。前のバージョンは、期限切れとなり次第あなたの成績証明書の履歴セクションに移動します。
+  <div><font color="#D83B01"><strong>このバージョンの資格は既に提供されていません。このバージョンの資格を既にお持ちの場合、最新バージョンの資格を自動的に得ることとなります。<br/><br/>  あなたの資格欄には、両方のバージョンの資格が記載されます。より新しいバージョンの資格の更新のみが必要となります。前のバージョンは、期限切れとなり次第あなたの成績証明書の履歴セクションに移動します。<br/><br/></strong></font></div>
   
   Azure Developer Associate認定の候補者は、Microsoft Azureでのcloudアプリケーションとサービスの設計、構築、テスト、および維持に関する専門知識を持っている必要があります。
   
