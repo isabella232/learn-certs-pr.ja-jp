@@ -1,0 +1,44 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: MLOps'
+metadata:
+  title: 'Course 40559-G: Microsoft Cloud Workshop: MLOps'
+  description: 'Course 40559-G: Microsoft Cloud Workshop: MLOps'
+uid: course.40559
+courseNumber: '40559-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: ディープラーニングモデルを完全に運用できるエンドツーエンドのソリューションの設計および実装。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  このワークショップでは、Trey Researchがディープラーニングテクノロジーを活用して車両仕様書をスキャンし、新しい規制への準拠の問題を見つけ、Webアプリケーションを介して分類を管理する方法を学習します。モデルの作成、アプリケーションのパッケージ化、モデルの展開、アプリケーションの展開までのプロセス全体を、1つの統合された反復可能なパイプラインとして実行する必要があります。
+  このワークショップの最後に、モデルに依存するすべてのアプリケーションコンポーネントを含む、ディープラーニングモデルを完全に運用できるエンドツーエンドソリューションをより適切に設計および実装できるようになります。
+
+  #### オーディエンスプロフィール
+  このワークショップは、 cloudテクノロジーのインフラストラクチャとソリューション設計のアーキテクチャに関する専門知識を持ち、「概要」と「スキルの習得」の領域で説明されているAzureとAzureサービスについて詳しく知りたい Cloud ArchitectsとITプロフェッショナルを対象としています。このワークショップに参加する人は、他のMicrosoft以外のcloudテクノロジーの経験があり、コースの前提条件を満たし、Azureでクロストレーニングを行う必要があります。
+outlineSection: |-
+  ### モジュール 1&#58; ホワイトボードデザインセッション-MLOps
+  #### レッスン
+  - お客様のケーススタディの確認
+  - 概念実証ソリューションの設計
+  - ソリューションの提示
+
+
+  ### モジュール 2&#58; ハンズオンラボ-MLOps
+  #### レッスン
+  - コンプライアンス分類モデルの作成と評価
+  - モデルの登録
+  - AzureDevOpsで新しいプロジェクトのセットアップ
+  - ビルドパイプラインをセットアップして実行
+  - リリースパイプラインの設定
+  - ビルドとリリースのパイプラインのテスト
+  - 展開されたソリューションのテスト
+  - 展開されたモデルのパフォーマンスの調査

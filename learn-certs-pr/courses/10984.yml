@@ -1,0 +1,199 @@
+### YamlMime:Course
+title: Deploying and Managing Office 365 Hybrid Deployments
+metadata:
+  title: 'Course 10984-B: Deploying and Managing Office 365 Hybrid Deployments'
+  description: 'Course 10984-B: Deploying and Managing Office 365 Hybrid Deployments'
+uid: course.10984
+courseNumber: '10984-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Office 365管理ツールとライセンスオプションについての説明。
+- skill: Office 365デプロイメントでディレクトリ同期をデプロイおよび構成。
+- skill: Exchange ServerとExchange Onlineを使用してハイブリッド構成の計画。
+- skill: Exchange Serverハイブリッド構成のデプロイの実行。
+- skill: Skype for BusinessとTeamsの説明およびハイブリッドデプロイ。
+- skill: SharePointとOneDrive for Businessをハイブリッド環境にデプロイ。
+- skill: ハイブリッドOffice 365デプロイメントでさまざまな認証方法を説明およびデプロイ。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  これは、インフラストラクチャの一部がオンプレミスでホストされているハイブリッド環境でOffice 365サービスの管理、構成、および運用に参加するITプロフェッショナルのニーズを対象とした3日間のILTコースです。このコースには、Office 365のIDの管理、認証、およびサポートテクノロジーも含まれます。このコースでは、Office 365テナントの管理とトラブルシューティングに必要なスキル、およびExchange Online、SharePoint Online、Skype for BusinessおよびAzure Multi-Factor Authentication (MFA)、Azure Active Directory Identity Protection、Azure Active Directory Privileged Identity ManagementなどのOffice365の主要サービスにに焦点を当てます。これらのサービスはすべて、ハイブリッドの側面からもカバーされています。このコースでは、クラウドリソースとオンプレミスリソースの両方にOffice 365サービスを使用する方法に関する知識を提供します。
+
+  #### オーディエンスプロフィール
+  このコースの対象者には、コラボレーションインフラストラクチャの一部がオンプレミスに配置されてOffice 365サービスと統合されている、ハイブリッドシナリオでOffice　365を実装および保守する方法を学びたいITプロフェッショナルとシステム管理者が含まれます。これらの専門家は、それぞれの分野で少なくとも3年の経験が必要です。具体的には、Exchange Server、SharePoint Server、Skype for Business Server（Lyncサーバーなど）に関する予備知識が必要です。このコースに参加する学生は、Office 365サービス管理全般、およびDNSやAD DSなどのいくつかのオンプレミステクノロジについてかなり幅広い知識を持っていることも求められます。
+prerequisitesSection: |-
+  このトレーニングに参加する受講者は、専門的な経験に加えて、すでに下記の技術的知識を持っている必要があります。&#58;
+  - Windows Server 2012以降を含むWindows Serverオペレーティングシステムの管理経験が2年以上あること。
+  - Active Directory Domain Servicesの使用経験が1年以上あること。
+  - Domain Name System (DNS)を含む、名前解決の使用経験が1年以上あること。
+  - パブリックキーインフラストラクチャ（PKI）証明書を含む証明書の使用した勤務経験
+  - Windows PowerShellの使用経験。
+  - Exchange Server 2013以降、Lync 2013 ServerまたはSkype for Business Server2015、およびSharePoint Server2013以降の使用経験。
+  - Exchange Online、Skype for Business、SharePoint OnlineなどのOffice365の主要サービスの使用経験。
+
+  Office 365に関連する下記概念の理解&#58;
+  - Microsoft cloudサービス
+  - Office 365プラットフォーム
+outlineSection: |-
+  ### モジュール 1&#58; Office 365の管理とライセンスの概要
+  このモジュールでは、Office 365、その管理ツール、およびライセンスオプションについて説明します。
+  #### レッスン
+  - Office 365の概要
+  - Office 365の管理と役割の委任
+  - Office 365テナント構成
+  - ハイブリッドデプロイの概要
+
+
+  #### ラボ&#58; Office 365テナントのプロビジョニングと構成
+  - オンプレミスDNSの構成
+  - Office 365トライアルテナントの構成
+  - Microsoft 365管理インターフェイスの調査
+
+  このモジュールを完了すると、次のことができるようになります。&#58;
+  - Microsoft Office 365コンポーネントとサブスクリプションやライセンスオプションについての説明。
+  - Office 365管理ポータル、Windows PowerShell管理、および管理者の役割についての説明。
+  - Office 365テナント、カスタムドメイン、およびDNSレコードをプロビジョニングおよび構成。
+  - ハイブリッドOffice 365構成のオプションにについての説明。
+
+
+  ### モジュール 2&#58; ディレクトリ同期のデプロイと構成
+  このモジュールでは、Office 365デプロイでディレクトリ同期を記述および構成する方法について説明します。
+  #### レッスン
+  - ディレクトリの同期と認証の概要
+  - Azure AD Connectのデプロイと構成
+  - Office 365ハイブリッド環境でユーザーオブジェクトとグループオブジェクトの管理
+
+
+  #### ラボ&#58; Office 365ハイブリッド環境でのディレクトリ同期、ユーザー、およびグループの管理
+  - ディレクトリの準備とAzure AD Connectの構成
+  - GUIとWindows PowerShellを使用したOffice 365ユーザーとグループの管理
+  - Office 365パスワードポリシーとセルフサービスパスワードリセットの管理
+
+  このモジュールを完了すると、次のことができるようになります。
+  - ディレクトリの同期と認証についての説明。
+  - Azure AD Connectをデプロイして構成。
+  - Microsoft Office 365ハイブリッド環境でユーザーアカウントとグループアカウントの管理。
+
+  ### モジュール 3&#58; Exchange Serverハイブリッドデプロイ計画
+  このモジュールでは、Exchange ServerとExchange Onlineを使用してハイブリッド構成を計画する方法について説明します。
+  #### レッスン
+  - Exchange Onlineの概要
+  - Exchange Serverハイブリッド構成オプションとデプロイ機能
+  - ハイブリッドデプロイでのExchange Serverサービス
+
+
+  #### ラボ&#58; Exchange OnlineとExchange Server 2019の統合の計画と設計
+  - Exchangeハイブリッドデプロイの設計
+  - ソリューションについて話し合い、Exchange Onlineのセットアップを確認
+
+  このモジュールを完了すると、次のことができるようになります。
+  - Microsoft Office 365の一部としてMicrosoft Exchange Onlineについての説明。
+  - Microsoft Exchange Serverハイブリッド構成オプションとデプロイオプションについての説明。
+  - ハイブリッドデプロイにおけるExchange Serverの役割についての説明。
+
+
+  ### モジュール 4&#58; Exchange Serverハイブリッドデプロイ
+  このモジュールでは、Exchange Serverハイブリッド構成のデプロイを実行する方法について説明します。
+  #### レッスン
+  - Hybrid Configuration Wizardの使用
+  - Exchangeハイブリッドデプロイの管理と構成
+  - ハイブリッドデプロイ用の高度な機能の実装
+  - ハイブリッド環境でメッセージのコンプライアンスと衛生状態の構成
+
+
+  #### ラボ&#58; Exchange Serverハイブリッドデプロイの実装
+  - Hybrid Configuration Wizardの使用
+  - ExchangeオンプレミスとExchange Onlineの間でメールボックスの移動
+  - ハイブリッド環境でメッセージのコンプライアンスとセキュリティの構成
+
+  このモジュールを完了すると、次のことができるようになります。
+  - Hybrid Configuration Wizardを使用して、Exchangeハイブリッド環境の確立。
+  - Exchangeハイブリッドデプロイの構成。
+  - 高度な機能のハイブリッドデプロイの実装。
+  - Exchangeハイブリッドデプロイのコンプライアンス機能についての説明。
+
+  ### モジュール 5&#58; Skype for BusinessとOffice 365ハイブリッドデプロイのTeams
+  このモジュールでは、Skype for BusinessとTeamsをハイブリッドデプロイでデプロイする方法について説明します。
+  #### レッスン
+  - Microsoft Teamsの概要
+  - ハイブリッドSkype for Businessデプロイの計画と準備
+  - 電話システムでSkype for Businessハイブリッド構成の使用
+  - Skype for Businessハイブリッド環境の構成
+
+
+  #### ラボ&#58; Skype for Businessハイブリッド構成の実装
+  - エンタープライズボイスを使用したSkype for Businessのデプロイ（ラボ前）
+  - ユーザーをSkypefor Business Onlineに移動
+  - Office 365 Phone System and Audio Conferencingを有効化
+  - Skype for Businessハイブリッド構成を設計および実装
+
+  このモジュールを完了すると、次のことができるようになります。
+  - Office 365の一部としてTeamsの説明。
+  - Skype for Businessハイブリッドデプロイの準備。
+  - Skype for Businessハイブリッド環境の構成。
+  - Office 365 Phone Systemを使用したハイブリッドデプロイオプションについての説明。
+
+
+  ### モジュール 6&#58; SharePointとOneDrive for Businessのハイブリッドデプロイ
+  このモジュールでは、SharePointとOneDrive for Businessをハイブリッド環境にデプロイする方法について説明します。
+  #### レッスン
+  - SharePoint Onlineの概要
+  - SharePointハイブリッドデプロイの計画
+  - SharePointハイブリッド構成のデプロイ
+  - ハイブリッド構成でSharePointサービスの構成
+
+
+  #### ラボ&#58; SharePointとOneDrive for Businessをハイブリッド構成で実装
+  - ハイブリッド構成用にSharePoint Serverの設計および準備
+  - ハイブリッド構成でSharePointサービスのデプロイ
+  - ハイブリッド構成でSharePointサービスの機能を検証
+
+  このモジュールを完了すると、次のことができるようになります。
+  - SharePoint OnlineをOffice 365の一部として説明。
+  - SharePointハイブリッドデプロイの計画。
+  - SharePoint Serverをハイブリッド構成でデプロイ。
+  - ハイブリッド構成でSharePointサービスの構成。
+
+
+  ### モジュール 7&#58; ハイブリッドデプロイでの追加のOffice 365サービスのデプロイ
+  このモジュールでは、Azure MFA、Identity Protection、およびAzure Information Protectionをデプロイする方法について説明します。
+  #### レッスン
+  - ハイブリッドシナリオでMulti-Factor Authenticationの実装
+  - Azure Information Protectionの実装
+  - Identity Protectionと Azure AD Privileged Identity Managementの実装
+
+
+  #### ラボ&#58; ハイブリッドデプロイで追加のOffice 365サービスの構成
+  - Multi-Factor Authenticationの実装
+  - Azure Information Protectionの実装
+  - Azure AD Privileged Identity Managementの実装
+
+  このモジュールを完了すると、次のことができるようになります。
+  - Multi-Factor Authenticationの実装。
+  - Azure Information Protectionの実装。
+  - Identity Protectionと Azure AD Privileged Identity Managementの実装。
+
+  ### モジュール 8&#58; ハイブリッドデプロイメントでの認証オプション
+  このモジュールでは、ハイブリッドOffice 365デプロイメントでさまざまな認証方法をデプロイする方法について説明します。
+  #### レッスン
+  - Office 365ハイブリッド環境にSSO用のAD FSをデプロイ
+  - Office 365でSSOのパススルー認証をデプロイ
+  - Office 365で認証オプションを計画
+
+
+  #### ラボ&#58; ハイブリッドデプロイメントでの認証ソリューションの実装
+  - SSO用のAD FSをデプロイ
+  - SSOのパススルー認証をデプロイ
+
+  このモジュールを完了すると、次のことができるようになります。&#58;
+  - Office 365ハイブリッド環境でsingle sign-on (SSO)用のAD FSをデプロイ。
+  - SSOのパススルー認証をデプロイ。
+  - Office 365で認証オプションを計画。

@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Line-of-business application migration'
+metadata:
+  title: 'Course 40558-G: Microsoft Cloud Workshop: Line-of-business application migration'
+  description: 'Course 40558-G: Microsoft Cloud Workshop: Line-of-business application migration'
+uid: course.40558
+courseNumber: '40558-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azureへの移行に対する環境の準備状況を評価。
+- skill: そのような環境の発見と評価を設計および実装。
+- skill: Azure Migrate、Azure Database Migration Service、Azure Site Recoveryなどのサービスの使用
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このコースでは、異種のお客様環境向けにAzure移行を設計する方法について説明します。既存のインフラストラクチャは、VMWareと物理マシンの両方で実行されているWindowsサーバーとLinuxサーバーの両方で構成され、いくつかのレガシーサーバーが含まれています。ホワイトボードの設計セッション全体を通して、異種環境をAzureに移行するために利用できるさまざまなオプションとサービスを確認します。このワークショップの最後に、環境の検出と評価を設計および実装して、Azure Migrate、Azure Database Migration Service、Azure Site Recoveryなどのサービスを使用してAzureに移行する準備ができているかどうかを評価できるようになります。
+
+  #### オーディエンスプロフィール
+  このワークショップは、cloudテクノロジーのインフラストラクチャとソリューション設計のアーキテクチャに関する専門知識を持ち、「概要」と「スキルの習得」の領域で説明されているAzureとAzureサービスについて詳しく知りたいCloud ArchitectsとITプロフェッショナルを対象としています。このワークショップに参加する人は、他のMicrosoft以外のcloudテクノロジーの経験があり、コースの前提条件を満たし、Azureでクロストレーニングを行う必要があります。
+outlineSection: |-
+  ### モジュール 1&#58; ホワイトボード設計セッション-基幹業務アプリケーションの移行
+  #### レッスン
+  - お客様のケーススタディの確認
+  - 概念実証ソリューションの設計
+  - ソリューションの提示
+
+
+  ### モジュール 2&#58; ハンズオンラボ-基幹業務アプリケーションの移行
+  #### レッスン
+  - オンプレミス環境を発見して評価
+  - アプリケーションデータベースを移行
+  - Azure Site Recoveryを使用してアプリケーション層とWeb層の移行
