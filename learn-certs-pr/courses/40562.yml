@@ -1,0 +1,42 @@
+### YamlMime:Course
+title: Migrating SQL databases to Azure
+metadata:
+  title: 'Course 40562-G: Migrating SQL databases to Azure'
+  description: 'Course 40562-G: Migrating SQL databases to Azure'
+uid: course.40562
+courseNumber: '40562-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: ビジネスクリティカルなアプリケーションとデータベース向けcloud移行ソリューションの設計。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このワークショップでは、グループとして、Azure Functions、Logic Apps、Event Grid、Cosmos DB、およびAzure Storageの組み合わせを使用して、Azure内でサーバーレスアーキテクチャをセットアップおよび構成します。焦点は、方程式からサーバー管理を削除し、ソリューションを個別にスケーラブルな小さなコンポーネントに分解し、顧客が使用した分だけ支払うことができるようにすることです。
+
+  #### オーディエンスプロフィール
+  このワークショップは、cloudテクノロジーのインフラストラクチャとソリューション設計のアーキテクチャに関する専門知識を持ち、「概要」と「スキルの習得」の領域で説明されているAzureとAzureサービスについて詳しく知りたいCloud ArchitectsとITプロフェッショナルを対象としています。このワークショップに参加する人は、他のMicrosoft以外のcloudテクノロジーの経験があり、コースの前提条件を満たし、Azureでクロストレーニングを行う必要があります。
+outlineSection: |-
+  ### モジュール 1&#58; ホワイトボード設計セッション-SQLデータベースのAzureへの移行
+  #### レッスン
+  - お客様のケーススタディの確認
+  - 概念実証ソリューションの設計
+  - ソリューションの提示
+
+
+  ### モジュール 2&#58; ハンズオンラボ-SQLデータベースのAzureへの移行
+  #### レッスン
+  - データベース評価の実行
+  - データベースをSQL MIに移行
+  - 新しいSQL MIデータベースを使用するようにWebアプリケーションの更新
+  - App Serviceと仮想ネットワークの統合
+  - Advanced Data Securityでデータベースのセキュリティ体制の改善
+  - Dynamic Data Maskingの有効化
+  - 読み取り専用クエリにオンラインセカンダリの使用

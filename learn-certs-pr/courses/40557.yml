@@ -1,0 +1,41 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+metadata:
+  title: 'Course 40557-G: Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+  description: 'Course 40557-G: Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+uid: course.40557
+courseNumber: '40557-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Cosmos DBの長所を活用して、スケーラブルな機械学習、ビッグデータ、リアルタイム処理機能と組み合わせて、高スループットの取り込み、低遅延のサービング、グローバルスケールを必要とする高度な分析ソリューションをサポートするソリューションを実装。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このワークショップでは、ストリーミングデータのスケーラブルな取り込みと、事前にスコアリングされたデータと機械学習モデルの両方のグローバルに分散されたサービスの両方にCosmos DBを活用するデータパイプラインソリューションの設計について学習します。このソリューションは、Azure Databricks Deltaと連携してCosmos DB変更データフィードを活用し、オフラインのバッチアプローチでほぼリアルタイムかつ要求や応答アプローチに応じて不正のトランザクションをスコアリングするためのリスク削減ソリューションを作成するために使用できる最新のデータウェアハウスソリューションを実現します 。
+
+  #### オーディエンスプロフィール
+  このワークショップは、cloudテクノロジーのインフラストラクチャとソリューション設計のアーキテクチャに関する専門知識を持ち、「概要」と「スキルの習得」の領域で説明されているAzureとAzureサービスについて詳しく知りたいCloud ArchitectsとITプロフェッショナルを対象としています。このワークショップに参加する人は、他のMicrosoft以外のcloudテクノロジーの経験があり、コースの前提条件を満たし、Azureでクロストレーニングを行う必要があります。
+outlineSection: |-
+  ### モジュール 1&#58; ホワイトボードデザインセッション-Cosmos DBのリアルタイムの高度な分析
+  #### レッスン
+  - お客様のケーススタディの確認
+  - 概念実証ソリューションの設計
+  - ソリューションの提示
+
+
+  ### モジュール 2&#58; ハンズオンラボ
+  - Cosmos DBのリアルタイムの高度な分析
+  #### レッスン
+  - ストリーミングトランザクションデータの収集
+  - トランザクションデータを大規模に理解して準備
+  - 不正モデルの作成と評価
+  - グローバルなスケーリング
+  - レポート

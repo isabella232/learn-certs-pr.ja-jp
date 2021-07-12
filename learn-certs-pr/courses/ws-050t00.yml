@@ -1,0 +1,81 @@
+### YamlMime:Course
+title: Migrating Application Workloads to Azure
+metadata:
+  title: 'Course WS-050T00-A: Migrating Application Workloads to Azure'
+  description: 'Course WS-050T00-A: Migrating Application Workloads to Azure'
+uid: course.ws-050t00
+courseNumber: 'WS-050T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 移行の各フェーズに固有のツールとサービスの特定
+- skill: Azureに移行するためのオンプレミスワークロードを検出して評価
+- skill: アプリの依存関係のマッピングと評価のカスタマイズを使用して、環境のより詳細なプロファイリングを取得
+- skill: Azure Migrateを使用して、オンプレミスワークロードのAzureへのエンドツーエンドの移行の実行
+- skill: オンプレミスのデータセンターからAzureまたはセカンダリサイトにデータをレプリケート
+- skill: Database Migration Serviceを使用して、既存のデータソースからAzureデータプラットフォームにデータの移行
+- skill: Azure Security Center、Azure Backup、およびLog Analyticsを使用して、移行されたワークロードを保護および管理
+- skill: 高可用性、ディザスタリカバリを含む効果的な事業継続戦略の確保
+- skill: Azure Backup Serviceを使用して、Azure IaaS仮想マシンを任意の場所からバックアップおよび保護
+- skill: 完全なフェイルオーバーを実行する前に仮想マシンが適切にフェイルオーバーするようにリカバリプランを定義
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このワークショップでは、ITプロフェッショナルに、既存のオンプレミスのワークロードと資産をcloud 、特にMicrosoft Azureプラットフォームに移行する方法を説明します。受講者は、cloud 移行の準備として、既存のオンプレミス環境を評価および評価する方法を学びます。また、Azureベースのワークロードを監視および最適化して投資収益率（ROI）を最大化する方法、およびAzureサービスを使用して仮想マシン、アプリケーション、およびデータを保護および管理する方法についても学習します。
+
+  #### オーディエンスプロフィール
+  このワークショップは、オンプレミスリソースのAzureへの移行を計画、実装、管理したり、Azure仮想マシンを他のAzureの場所に複製したりする必要があるIT管理者とスタッフを対象としています。cloud 対応戦略が従来のデータセンターアプローチよりも優れている点を活用するために、ワークロード所有者からのビジネスリクエストを受け取ってワークロードをcloud に移行します。この役割には、組織のIT部門、ビジネスグループ、およびベンダー内のさまざまな個人とのコミュニケーションと調整が必要です。
+prerequisitesSection: |-
+  - IT管理者は、オペレーティングシステム、仮想化、cloudインフラストラクチャ、ストレージ構造、およびネットワーキングの経験からこの役割を開始します。さらに、IT管理者は、IaaS Azureインフラストラクチャの管理に関する経験または同等の知識を持っている必要があります。
+  - オンプレミス仮想化テクノロジーの理解（以下を含む） &#58; VMs、仮想ネットワーク、および仮想ハードディスク。
+  -  TCP/IP、Domain Name System (DNS)、virtual private networks (VPNs)、ファイアウォール、暗号化テクノロジなどのネットワーク構成の理解。
+  - ドメイン、フォレスト、ドメインコントローラー、レプリケーション、Kerberosプロトコル、およびLight weight Directory Access Protocol (LDAP)を含むActive Directoryの概念の理解。
+  - バックアップおよび復元操作を含む、復元力と災害復旧の理解。
+  - Azureポータル、Cloud Shell、Azure PowerShell、CLI、ARMテンプレートなどのAzureの使用に関する知識。
+  - Azure Active Directoryとcloudアイデンティティ管理の理解。
+  - サブスクリプション、ユーザー、グループ、請求の管理、およびAzureポリシーの理解。
+outlineSection: |-
+  ### モジュール 1&#58; 計画と評価およびAzure Migration
+  このモジュールでは、cloud移行につながる主要なビジネスドライバーと技術ドライバー、Azure移行のフェーズ、および各フェーズで使用されるツールとサービスについて学習します。適切なワークロードをAzureに移行する準備として、オンプレミス環境を検出して評価する方法を学習します。
+  #### レッスン
+  - Cloudの移行-ビジネスの動機、目標、および成果
+  - 発見と評価
+
+
+  #### ラボ&#58; 移行のためのオンプレミスリソースの発見と評価
+
+  ### モジュール 2&#58; データ移行の概要
+  このモジュールでは、テラバイトのデータをAzureに安全に送信する必要がある場合に使用できるソリューションについて学習します。オンラインとオフラインの両方の転送オプションを備えたAzure Data Boxファミリーの製品について学習します。次に、Azure Database Migration Service(DMS)を使用して、オンプレミスのSQL Server2008R2データベースをAzure SQL Database Managed Instance (MI)に移行する方法について学習します。
+  #### レッスン
+  - Azure Data Box
+  - データベースの移行
+
+
+  #### ラボ&#58; オンプレミスのSQL Server DatabaseをAzure SQL Managed Instanceに移行
+
+  ### モジュール 3&#58;  Azure Migrate Servicesを使用した移行の実装
+  このモジュールでは、計画された移行に先立って、オンプレミスインフラストラクチャとAzureコンポーネントを準備する方法を学習します。また、Azure Migrate Servicesを使用して移行を実行してエンドツーエンドで移行する方法についても学習します。
+  #### レッスン
+  - Azure Migrate Server Migrationの概要
+  - VMware-Agentless移行
+  - VMware-Agent-basedの移行
+  - 移行されたワークロードの保護
+  - Microsoft Migration Factoryを使用したデータセンターの移行
+
+
+  #### ラボ&#58; 仮想マシンをAzureに複製
+
+  ### モジュール 4&#58;  Azureでのバックアップとディザスタリカバリ
+  このモジュールでは、ビジネス継続性戦略の主要コンポーネントと、高可用性ソリューションに必要なものについて学習します。また、Azure Backupサービスを使用してAzure IaaS仮想マシンのバックアップを実装する方法についても学習します。さらに、Azure Site Recoveryを使用してAzure VMsを他のAzureの場所にレプリケートする方法を学習します。
+  #### レッスン
+  - Azure Backupの概要
+  - Azure IaaS Backupの実装
+  - AzureからAzure Site Recovery
+  - アプリケーションのディザスタリカバリ
