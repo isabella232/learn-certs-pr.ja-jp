@@ -1,0 +1,41 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Securing the IoT end to end'
+metadata:
+  title: 'Course 40564-G: Microsoft Cloud Workshop: Securing the IoT end to end'
+  description: 'Course 40564-G: Microsoft Cloud Workshop: Securing the IoT end to end'
+uid: course.40564
+courseNumber: '40564-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 包括的で安全な石油およびガス製造IoTソリューションの設計。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このワークショップでは、ベストプラクティスに従ってエンドツーエンドで保護される石油およびガス製造IoTソリューションを設計および実装するプロセスについて説明します。このワークショップの最後に、包括的で安全な石油およびガス製造IoTソリューションをより適切に設計できるようになります。
+
+  #### オーディエンスプロフィール
+  このワークショップは、cloudテクノロジーのインフラストラクチャとソリューション設計のアーキテクチャに関する専門知識を持ち、「概要」と「スキルの習得」の領域で説明されているAzureとAzureサービスについて詳しく知りたいCloud ArchitectsとITプロフェッショナルを対象としています。このワークショップに参加する人は、他のMicrosoft以外のcloudテクノロジーの経験があり、コースの前提条件を満たし、Azureでクロストレーニングを行う必要があります。
+outlineSection: |-
+  ### モジュール 1&#58; ホワイトボード設計セッション-IoTをエンドツーエンドで保護
+  #### レッスン
+  - お客様のケーススタディの確認
+  - 概念実証ソリューションの設計
+  - ソリューションの提示
+
+
+  ### モジュール 2&#58; ハンズオンラボ-IoTをエンドツーエンドで保護
+  #### レッスン
+  - IoT HubとDevice Provisioning Serviceの保護および構成
+  - IoTデバイスの登録とプロビジョニング
+  - IoT Edgeをインストールして構成
+  - Azure Security IoT Agentのインストール
+  - IoT攻撃をシミュレート
+  - セキュリティとアラートの構成

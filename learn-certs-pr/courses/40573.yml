@@ -1,0 +1,48 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Hybrid identity'
+metadata:
+  title: 'Course 40573-G: Microsoft Cloud Workshop: Hybrid identity'
+  description: 'Course 40573-G: Microsoft Cloud Workshop: Hybrid identity'
+uid: course.40573
+courseNumber: '40573-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: ネットワークトラフィックをフィルタリングおよび制御するために、複数のサブネットを使用してAzureで仮想ネットワークの設計。
+- skill: 仮想ネットワークを作成し、サブネットのプロビジョニング。
+- skill: 必要なルートを使用してルートテーブルの作成。
+- skill: 管理ジャンプボックスの作成。
+- skill: トラフィックフローを制御するようにファイアウォールの構成。
+- skill: サイト間の接続を構成。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  このワークショップでは、既存のオンプレミスIDソリューションをAzureと統合するハイブリッドアイデンティティソリューションをセットアップおよび構成する方法を学習します。ネットワーク仮想アプライアンスを展開して仮想ネットワークを保護し、ファイアウォールルールとルートテーブルを構成する方法を学習します。さらに、ジャンプボックスとサイト間VPN接続を使用して仮想ネットワークへのアクセスを設定します。
+
+  #### オーディエンスプロフィール
+  このワークショップは、cloudテクノロジーのインフラストラクチャとソリューション設計のアーキテクチャに関する専門知識を持ち、「概要」と「スキルの習得」の領域で説明されているAzureとAzureサービスについて詳しく知りたいCloud ArchitectsとITプロフェッショナルを対象としています。このワークショップに参加する人は、他のMicrosoft以外のcloudテクノロジーの経験があり、コースの前提条件を満たし、Azureでクロストレーニングを行う必要があります。
+prerequisitesSection: |-
+  ワークショップの内容は、インフラストラクチャとソリューションの設計に関する300レベルのアーキテクチャの専門知識を前提としています。このワークショップに参加する前に、この前提条件をクリアすることをお勧めします。
+  - Microsoft Azure Essentials course, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### モジュール 1&#58; ホワイトボードデザインセッション-ハイブリッドアイデンティティ
+  このワークショップでは、既存のオンプレミスIDソリューションをAzureと統合するハイブリッドIDソリューションをセットアップおよび構成する方法を学習します。ネットワーク仮想アプライアンスを展開して仮想ネットワークを保護し、ファイアウォールルールとルートテーブルを構成する方法を学習します。さらに、ジャンプボックスとサイト間VPN接続を使用して仮想ネットワークへのアクセスを設定します。
+  #### レッスン
+  - お客様のケーススタディの確認
+  - 概念実証ソリューションの設計
+  - ソリューションの提示
+
+
+  ### モジュール 2&#58; ハンズオンラボ-ハイブリッドアイデンティティ
+  このハンズオンラボでは、さまざまなハイブリッドIDシナリオをセットアップおよび構成します。シナリオには、contoso.localという名前のActive Directory単一ドメインフォレストが含まれます。このラボ環境では、（簡単にするために）DC1という名前の単一ドメインコントローラーとAPP1という名前の単一ドメインメンバーサーバーで構成されます。 Active DirectoryをAzure Active Directoryと統合し、ハイブリッド認証と承認を最適化し、組織のユーザーとパートナー組織のメンバーであるユーザーの両方にインターネットからオンプレミスリソースへの安全なアクセスを提供できるようにするAzure AD関連の機能を調査することを目的としています。 
+  #### レッスン
+  - Active Directory ForestとAzure Active Directoryテナントの統合
+  - ハイブリッドシナリオでの認証、承認、およびアクセス制御の管理。
+  - ハイブリッドシナリオでアプリケーションアクセスの構成。

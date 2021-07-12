@@ -1,0 +1,45 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Predictive Maintenance for remote field devices'
+metadata:
+  title: 'Course 40560-G: Microsoft Cloud Workshop: Predictive Maintenance for remote field devices'
+  description: 'Course 40560-G: Microsoft Cloud Workshop: Predictive Maintenance for remote field devices'
+uid: course.40560
+courseNumber: '40560-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: AzureでIoTベースの予知保全ソリューションの設計。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このワークショップでは、MicrosoftのPaaSおよびSaaSベースのIoT製品のカタログを評価して、Fabrikamのニーズを満たすためのツールの最適な組み合わせを決定する方法を学習します。IoTデバイスの管理とレポート作成を簡素化するソリューションを設計および実装し、多くのカスタム開発を必要とせずにIoT戦略を実現するためのより迅速なパスをFabrikamに提供することとなります。次に、トレーニング済みの予知保全機械学習モデルをデプロイし、モデルを使用してほぼリアルタイムで予測を行うストリーム処理パイプラインを設計する方法を学習します。このパイプラインの最後には、ポンプの故障が差し迫っているときにオイルポンプのメンテナンスチームに送信されるアラートがあります。
+
+  #### オーディエンスプロフィール
+  このワークショップは、cloudテクノロジーのインフラストラクチャとソリューション設計のアーキテクチャに関する専門知識を持ち、「概要」と「スキルの習得」の領域で説明されているAzureとAzureサービスについて詳しく知りたいCloud ArchitectsとITプロフェッショナルを対象としています。このワークショップに参加する人は、他のMicrosoft以外のcloudテクノロジーの経験があり、コースの前提条件を満たし、Azureでクロストレーニングを行う必要があります。
+prerequisitesSection: |-
+  ワークショップの内容は、インフラストラクチャとソリューションの設計に関する300レベルのアーキテクチャの専門知識を前提としています。このワークショップに参加する前に、この前提条件をクリアすることをお勧めします。
+  - Microsoft Azure Essentials course, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### モジュール 1&#58; ホワイトボード設計セッション-リモートフィールドデバイスの予知保全
+  #### レッスン
+  - お客様のケーススタディの確認
+  - 概念実証ソリューションの設計
+  - ソリューションの提示
+
+
+  ### モジュール 2&#58; ハンズオンラボ-リモートフィールドデバイスの予知保全
+  #### レッスン
+  - デバイスとメタデータを使用したIoT Centralの構成
+  - Rod Pump Simulatorの実行
+  - デバイスセットの作成
+  - 便利なダッシュボードの作成
+  - Event Hubを作成し、IoT Centralからデータを継続的にエクスポートします
+  - Azure DatabricksとAzure Machine Learningサービスを使用して、予測モデルをトレーニングおよびデプロイします
+  - ポンプの故障を予測する Azure Functionを作成します

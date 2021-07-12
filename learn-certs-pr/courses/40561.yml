@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Machine Learning'
+metadata:
+  title: 'Course 40561-G: Microsoft Cloud Workshop: Machine Learning'
+  description: 'Course 40561-G: Microsoft Cloud Workshop: Machine Learning'
+uid: course.40561
+courseNumber: '40561-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure Machine LearningとAzure Databricksの機能と実装ソリューション。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  このホワイトボード設計セッションでは、グループと協力して、Azure DatabricksとAzure Machine Learningサービスを組み合わせて、機械学習モデルと深層学習モデルを構築、トレーニング、デプロイするソリューションを設計および実装します。自動化された機械学習の使用方法、トレーニングから展開までのライフサイクル管理のモデル化、バッチおよびリアルタイムの推論シナリオ、テキスト分類および時系列データに対する予測でのNatural Language Processing (NLP)の深層学習モデルの構築方法を学習します。最後に、ディープラーニングのためにデータをPyTorchおよびKerasと比較する方法を学びます。
+
+  #### オーディエンスプロフィール
+  このワークショップは、cloudテクノロジーのインフラストラクチャとソリューション設計のアーキテクチャに関する専門知識を持ち、「概要」と「スキルの習得」の領域で説明されているAzureとAzureサービスについて詳しく知りたいCloud ArchitectsとITプロフェッショナルを対象としています。このワークショップに参加する人は、他のMicrosoft以外のcloudテクノロジーの経験があり、コースの前提条件を満たし、Azureでクロストレーニングを行う必要があります。
+outlineSection: |-
+  ### モジュール 1&#58; ホワイトボードデザインセッション-機械学習
+  #### レッスン
+  - お客様のケーススタディの確認
+  - 概念実証ソリューションの設計
+  - ソリューションの提示
+
+
+  ### モジュール 2&#58; ハンズオンラボ-機械学習
+  #### レッスン
+  - 自動機械学習を使用した予測モデルの作成
+  - モデルの説明性を使用して自動化されたML生成予測モデルの理解
+  - 時系列データの深層学習モデル（RNN）を作成し、モデルを登録
+  - ストリーミングテレメトリのスコアリングに予測モデルを使用
+  - 深層学習テキスト分類モデルの作成

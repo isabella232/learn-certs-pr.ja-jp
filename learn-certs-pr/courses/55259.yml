@@ -1,0 +1,221 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Customer Engagement for Developers
+metadata:
+  title: 'Course 55259-A: Microsoft Dynamics 365 Customer Engagement for Developers'
+  description: 'Course 55259-A: Microsoft Dynamics 365 Customer Engagement for Developers'
+uid: course.55259
+courseNumber: '55259-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 開発者が利用できるさまざまなAPIとやり取りするためのコードを実装するアプリを構築
+- skill: Dynamics 365のコードを作成する準備としてVisual Studioでプロジェクトを設定する方法の理解
+- skill: 開発者向けのリソースとツールをダウンロードして使用
+- skill: Dynamics 365との間でコマンドを実行したり、データを読み書きしたりするためのサーバー側およびクライアント側のコードを記述
+- skill: Dynamics 365のデータと操作を操作するカスタムWebおよびUCI appsの構築
+- skill: Microsoft Dynamics 365ナビゲーションをカスタマイズする
+- skill: 「プラグイン」コンポーネントでカスタムビジネスロジックを構築、導入、デバッグ
+- skill: Dynamics 365 Processesを拡張するカスタムワークフローアクティビティの作成
+- skill: Java ScriptライブラリとWebリソースを利用して、フォームとフィールドのイベント駆動型モデルの拡張
+- skill: Web APIとクライアント側コードを使用して、HTMLウェブを使用してカスタムフォームセクションとコントロールの作成
+- skill: App DesignerとSite Map Designerを使用して、カスタムモデル駆動型アプリの作成
+- skill: Microsoft Dynamics 365のコードを拡張および作成する際のベストプラクティスの方法論の理解
+- skill: ディバイス用Microsoft Dynamics 365 Customer Engagementに存在する機能とツールの理解
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- dynamics-365
+summary: |-
+  このコースは、経験豊富なITプロフェッショナルおよび開発者を対象としており、Microsoft Dynamics 365でコードの開発を開始するために必要なスキルを習得するための「ファストトラック」アプローチを提供します。受講者は、利用可能なさまざまなAPIを利用するためのクライアントおよびサーバー側のコードの記述方法を学習します。 Microsoft Dynamics 365 Customer Engagementフレームワークで、カスタムモデル駆動型アプリを作成し、プラグインおよびカスタムワークフローアクティビティコンポーネントでカスタムビジネスロジックを構築し、JavaScriptおよびHTMLWebリソースを使用してDynamics 365イベントモデルを拡張します。
+  このコースは、Microsoft Dynamics 365 Customer Engagement（バージョン9. *）のBusinessEditionとEnterpriseEditionの両方に適用されます。このコースで学習したテクニックは、Web、UCI、およびOutlookアプリに適用できます。
+  注意してください&#58; このコースが機能するには、Learn onDemandプラットフォームでホストされている関連ラボ環境が必要です。ラボへのアクセスを購入する場合、またはこのコースとDynamics 365コースを補完する方法の詳細については、www.ttsolutions.com.auまでお問い合わせください。
+
+  #### オーディエンスプロフィール
+  このコースは、技術系の受講者、管理者、開発者を対象としています。受講者は、Microsoft.NetおよびVisualStudioの既存の実用的な知識を持っている必要があります。必須ではありませんが、www.ttsolutions.com.auにある前提条件コース「Introduction to Microsoft Dynamics 365」に参加することをお勧めします。
+prerequisitesSection: |-
+  - 理想的には、Microsoft.NetおよびVisual Studioの実用的な知識
+  - すべての受講者が‘Introduction to Microsoft Dynamics 365’コースを正常に完了することをお勧めします
+outlineSection: |-
+  ### モジュール 1&#58; Dynamics 365 Developmentの概要
+  このモジュールでは、Microsoft Dynamics 365 Frameworkの開発と拡張の概念を紹介します。開発者と管理者が利用できるツールと資料、およびベストプラクティスの方法論と基礎について学習します。 
+  #### レッスン 
+  - Dynamics 365 Developmentの概要
+  - Dynamics 365 開発者向けオプション
+  - Dynamics 365の開発ツール
+  - Customer Engagement Toolkit（正式にはSDK）
+  - Dynamics 365 Development環境
+  - Dynamics 365 Developmentのための貴重なスキル
+  - 追加の読み物と資料
+
+
+  #### ラボ&#58; Dynamics 365 開発者オリエンテーション
+  - 開発者向け資料の確認
+  - 開発者センターとフォーラムの確認
+  - NuGetからパッケージのダウンロード
+  - 開発者向け資料の確認
+  - ラボファイルの確認
+  - サンプルデータのインストール
+
+  このモジュールを完了すると、受講者は次のことができるようになります。&#58; 
+  - Customer Engagement ToolkitとVisual Studioのセットアップ方法に精通
+  - Dynamics 365の開発と拡張に必要な主要なスキルの理解
+  - ヘルプの場所を知り、資料をさらに読む
+  - Microsoft Dynamics 365 CE Version 9で開発者が利用できる主な機能とツールについての説明
+
+
+
+  ### モジュール 2&#58; Dynamics 365 API
+  このモジュールでは、Microsoft Dynamics 365の開発者が利用できるさまざまな開発者資料、ウェブサービス、およびAPIを紹介します。このモジュールでは、Visual StudioのMicrosoft.Net C#を使用してWeb Service APIエンドポイントを使用するコードを作成する方法を学習します。 
+  #### レッスン 
+  - Dynamics 365 APIの概要
+  - 認証に関する考慮事項
+  - Web API
+  - Discovery Web Service 
+  - Organization Web Service
+  - コアアセンブリ
+  - アーリーバウンドクラスとレイトバウンドクラス
+  - コード生成ツール
+  - サービスコンテキスト
+  - CRUD操作
+  - Query Expression Classの使用
+  - LINQの使用
+  - FetchXMLの使用
+
+
+  #### ラボ&#58; サーバー側コードでのDynamics 365 Web APIの使用
+  - Visual Studioプロジェクトのセットアップ
+  - Web APIを使用して操作を実行するアプリの開発
+  - アプリのテスト
+
+
+  #### ラボ&#58; Dynamics 365のクエリレコード
+  - Visual Studioプロジェクトのセットアップ
+  - QueryExpression Classを使用したQuery Dynamics 365
+  - Dynamics 365レコードを外部アプリに表示
+
+
+  #### ラボ&#58; Dynamics 365でのCRUD操作
+  - VisualStudioプロジェクトのセットアップ
+  - アーリーバウンドクラスの作成
+  - LINQを使用したレコードの作成、読み取り、更新、削除
+  - アプリのテスト
+
+  このモジュールを完了すると、受講者は次のことができるようになります。&#58;
+  - Web API、Discovery とOrganization Servicesを利用するためのコードの記述方法の理解
+  - Dynamics 365フレームワークに対して開発を開始するようにVisual Studioのセットアップが可能
+  - レイトバウンドコードとアーリーバウンドコードの違いの理解
+  - 外部アプリからDynamics 365に対して認証する方法の把握
+  - サービスコンテキストの使用方法を理解し、LINQとFetchXMLを記述してCRUD操作の実行
+  - Microsoft Dynamics 365 CE Version 9の開発者が利用できるさまざまなAPIに精通
+
+
+  ### モジュール 3&#58; Dynamics 365用のプラグインの開発
+  このモジュールでは、Visual StudioでMicrosoft.Net C#を使用して、プラグインコンポーネントでカスタムビジネスロジックを開発する方法を学習します。また、プラグイン登録ツールを使用して、プラグインコンポーネントをMicrosoft Dynamics 365に展開する方法についても学習します。 
+  #### レッスン 
+  - プラグインの概要
+  - プラグインコードの記述
+  - プラグイン登録ツールの使用
+  - プラグインプロファイラーを使用したプラグインのデバッグ
+  - ソリューションを使用したプラグインの展開
+
+
+  #### ラボ&#58; プラグインを作成してデプロイ
+  - Dynamics 365のカスタマイズ
+  - Visual Studioプロジェクトのセットアップ
+  - プラグインの作成
+  - アセンブリに署名して構築
+  - プラグイン登録ツールを使用してプラグインのデプロイ
+  - プラグインのテスト
+  - プラグインプロファイラーツールを使用してプラグインコードのデバッグ
+
+  このモジュールを完了すると、受講者は次のことができるようになります。&#58;
+  - カスタムプラグインコンポーネントの作成を開始するためにVisual Studioプロジェクトをセットアップする方法の把握
+  - Visual Studioでプラグインコードを記述、展開、およびテストするプロセスに精通
+  - プラグイン登録ツールを使用して、Dynamics 365 Frameworkにプラグインをデプロイ
+  - プラグインプロファイラーツールを使用して、プラグインコードの問題をデバッグ
+  - ソリューションを使用してプラグインを本番環境にデプロイする方法の理解
+  - Microsoft Dynamics 365 CE Version 9でのカスタムビジネスロジックとプラグインの必要性の理解
+
+  ### モジュール 4&#58; カスタムワークフローアクティビティの開発
+  このモジュールでは、Visual StudioでMicrosoft.Net C#を使用してカスタムワークフローアクティビティを開発する方法を学習します。また、Microsoft Dynamics 365でカスタムワークフローアクティビティをワークフローステップとして使用する方法についても学習します。
+  ####レッスン
+  - カスタムワークフローアクティビティの概要
+  - カスタムワークフローアクティビティコードの記述
+  - カスタムワークフローアクティビティの展開
+
+
+  #### ラボ&#58; カスタムワークフローアクティビティの作成
+  - Visual Studioプロジェクトのセットアップ
+  - カスタムワークフローアクティビティの作成
+  - アセンブリに署名して構築
+  - カスタムワークフローアクティビティのデプロイ
+  - ワークフローの作成
+  - カスタムワークフローアクティビティのテスト
+
+  このモジュールを完了すると、受講者は次のことができるようになります。&#58;
+  - カスタムワークフローアクティビティの作成を開始するためにVisual Studioプロジェクトを設定する方法を把握
+  - プラグイン登録を使用してカスタムワークフローアクティビティを作成および展開するプロセスに精通
+  - Dynamics 365プロセスでカスタムワークフローアクティビティを使用する方法の理解
+  - Microsoft Dynamics 365 CE Version 9でのカスタムワークフローアクティビティの必要性の理解
+
+
+  ### モジュール 5&#58; クライアント側コードの開発
+  このモジュールでは、Microsoft Dynamics 365のイベント駆動型モデルで機能するクライアント側コードの開発の概念を紹介します。また、Web APIを使用してMicrosoft Dynamics 365のデータを操作するウェブリソースを使用してクライアント側コンポーネントを作成および展開する方法についても学習します。
+  #### レッスン
+  - クライアント側コーディングの概要
+  - Dynamics 365イベントドリブンモデル
+  - JavaScriptクライアント側コードの開発
+  - ウェブリソースの使用
+  - クライアント側のコーディングとWeb API
+
+
+  #### ラボ&#58;  JavaScriptイベントハンドラーの作成
+  - JavaScript関数の作成
+  - JavaScriptウェブリソースの作成
+  - イベントハンドラーの構成
+  - JavaScriptコードのテスト
+
+
+  #### ラボ&#58; クライアント側コンポーネントを作成してデプロイ
+  - Web APIのクライアント側コードの記述
+  - HTMLウェブリソースの作成
+  - Dynamics 365のカスタマイズ
+  - クライアント側コンポーネントのテスト
+
+  このモジュールを完了すると、受講者は次のことができるようになります。&#58;
+  - WebおよびUCI Apps用のDynamics 365イベントモデルのクライアント側コードを作成する方法の把握
+  - Webリソースの概念と、HTMLおよびJavaScriptコンポーネントの作成方法に精通
+  - クライアント側のコードを使用して、Web APIに対して認証およびコマンドを実行する方法の理解
+  - Microsoft Dynamics 365 CE Version 9のクライアント側コーディングの概念の理解
+
+
+
+  ### モジュール 6&#58;  United Client Interfaceの開発
+  このモジュールでは、Dynamics 365とPowerAppsの関係を調べ、Unified Client Interface（UCI）Appを拡張するときに開発者が知っておく必要があることを検討します。
+  #### レッスン
+  - Dynamics 365、UCI、およびPowerAppsの概要
+  - App Designerの紹介
+  - Site Map Designerの概要
+  - コードを使用したUCI Appsの拡張
+  - セキュリティ対応アプリ
+  - Dynamics 365ナビゲーションのカスタマイズ
+  - ドラフトおよび公開されたアプリ
+
+
+  #### ラボ&#58; Unified Client Interface (UCI) Appの拡張
+  - コードを使用してUnified Client Interface（UCI）アプリの拡張
+  - コードテスト
+
+  このモジュールを完了すると、受講者は次のことができるようになります。&#58;
+  - Site Map Designerを使用してDynamics 365ナビゲーションをカスタマイズする方法の把握
+  - クライアント側のコードを使用してUCI Appsを拡張する方法の把握
+  - AppDesignerを使用してセキュリティ対応のカスタムUCI Appを公開する方法の把握
+  - Dynamics 365 CEV ersion 9のAppDesignerツールを使用したUCI Appsの作成に精通
+
+  #### 追加資料
+  無し

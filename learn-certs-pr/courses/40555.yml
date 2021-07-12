@@ -1,0 +1,143 @@
+### YamlMime:Course
+title: 'Microsoft Security Workshop: Implementing PowerShell Security Best Practices'
+metadata:
+  title: 'Course 40555-A: Microsoft Security Workshop: Implementing PowerShell Security Best Practices'
+  description: 'Course 40555-A: Microsoft Security Workshop: Implementing PowerShell Security Best Practices'
+uid: course.40555
+courseNumber: '40555-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Windows PowerShellの概要の説明
+- skill: PowerShellのエディションとバージョンについての説明
+- skill: Windows PowerShellとPowerShell Coreのインストールして使用
+- skill: ローカルPowerShellスクリプトの実行の管理
+- skill: Windows PowerShellのリモート実行の管理
+- skill: PowerShell Coreのリモート実行の管理
+- skill: Constrained Language Modeの使用することのセキュリティへの影響の説明
+- skill: Windows PowerShell DSCのアーキテクチャとコンポーネントについての説明
+- skill: Windows PowerShellの監査とログの構成の推奨
+- skill: Windows PowerShellベースの攻撃の例の提供
+- skill: Windows PowerShellベースのセキュリティツールの使用
+- skill: Windows PowerShellベースのセキュリティ関連テクノロジの概要の説明
+- skill: Desired State Configuration（DSC）の使用してWindows PowerShellログの実装
+- skill: Windows PowerShellベースの悪用の特定して軽減
+- skill: Just Enough Administration（JEA）の実装
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+summary: |-
+  2006年に導入されたWindows PowerShellは、スクリプト言語、コマンドラインシェル、およびMicrosoft .NET Framework上に構築されたスクリプトプラットフォームです。スクリプトの指定にもかかわらず、Windows PowerShellは、オブジェクト指向の性質、拡張性、c#のような構文、.NETクラス、そのプロパティ、およびメソッドと直接対話する機能など、プログラミング言語に共通するさまざまな特性を備えています。
+
+  Windows PowerShellの主な目的は、ITプロフェッショナルとパワーユーザーがWindowsオペレーティングシステムとWindows上で実行されるアプリケーションの管理を制御および自動化できるようにすることでした。
+
+  Windows PowerShellが提供する利点を活用すると同時に、セキュリティ関連のリスクを最小限に抑えるには、Windows PowerShellの運用セキュリティの主要な側面を理解することが不可欠です。このコースのコンテキストで考慮することが重要なもう1つの側面は、セキュリティの悪用におけるWindows PowerShellの役割です。
+
+  この1日のインストラクター主導のセキュリティワークショップでは、PowerShellのディスカッションと実践的なハンズオントレーニングをご提供します。アーキテクチャ設計、エディションとバージョン、PowerShellとの対話の基本など、PowerShellの基礎について学習します。
+
+  次に、Windowsオペレーティングシステムへの既存のアクセスを活用して悪意のあるソフトウェアのインストールを容易にし、偵察タスクを実行し、ターゲットコンピューターでの永続性を確立し、横方向の動きを促進するために、ハッカーが採用する最も一般的なWindows PowerShellベースの手法について説明します。また、侵入テスト、フォレンジック、およびWindows PowerShellエクスプロイトのリバースエンジニアリングを容易にするWindows PowerShellベースのセキュリティツールのいくつかを確認します。コースを終了するために、Windows PowerShellベースの攻撃に対する包括的な多層防御の実装を目的とした、Blue Teamが推奨するテクノロジの概要を示します。
+
+  このワークショップは、セキュリティの実践に関してMicrosoftが提供する一連のワークショップの一部です。このワークショップを受講する前に、Security Workshopシリーズの他のコースを完了する必要はありませんが、シリーズの最初のコースであるMicrosoft Security Workshop&#58; Enterprise Security Fundamentalsから始めることを強くお勧めします。
+  - 40551A&#58; Microsoft Security Workshop&#58; Enterprise Security Fundamentals
+  - 40552A&#58; Microsoft Security Workshop&#58; Managing Identity
+  - 40553A&#58; Microsoft Security Workshop&#58; Planning for a Secure Enterprise - Improving Detection
+  - 40554A&#58; Microsoft Security Workshop&#58; Implementing Windows 10 Security Features
+  - 40555A&#58; Microsoft Security Workshop&#58; Implementing PowerShell Security Best Practices.
+
+  #### オーディエンスプロフィール
+  このコースは、Windows PowerShellのセキュリティ関連の機能とエクスプロイトをより深く理解し、主にWindows PowerShellのセキュリティ機能を実装する実践的な経験を通じて知識レベルを高める必要があるITプロフェッショナルを対象としています。
+prerequisitesSection: |-
+  このトレーニングを受ける受講者は、専門的な経験に加えて、既に下記の技術的知識を持っている必要があります。&#58;
+  - シンプルなWindows PowerShellコマンドにアクセスして使用するための優れた基盤
+  - 現在のサイバーセキュリティエコシステム
+  - Windows Client および Serverの管理、保守、およびトラブルシューティングの経験。
+  - Windows Firewallネットワーク設定、DNS、DHCP、WiFi、およびcloudサービスの概念を含む、Windowsネットワークテクノロジーの基本的な経験と理解。
+  - ドメインコントローラーの機能、サインオンサービス、グループポリシーの理解など、Active Directoryの基本的な経験と理解。
+  - Windows 10を使用した、システム管理に関する知識と関連する経験。
+
+  このトレーニングを受講する学習者は、セキュリティ管理者、システム管理者、またはネットワーク管理者としての実務経験を通じて同等の知識とスキルを習得することで、前提条件を満たします。受講者は、単純なWindows PowerShellコマンドにアクセスして使用するための優れた基盤を持っている必要があります。この知識は、INF210x、Windows PowerShell Basicsで取得することができます。
+outlineSection: |-
+  ### モジュール 1&#58; PowerShellの基礎
+  2006年に導入されたWindows PowerShellは、スクリプト言語、コマンドラインシェル、およびMicrosoft .NET Framework上に構築されたスクリプトプラットフォームです。スクリプトの指定にもかかわらず、Windows PowerShellは、オブジェクト指向の性質、拡張性、c#のような構文、.NETクラス、そのプロパティ、およびメソッドと直接対話する機能など、プログラミング言語に共通するさまざまな特性を備えています。 Windows PowerShellの主な目的は、ITプロフェッショナルとパワーユーザーがWindowsオペレーティングシステムとWindows上で実行されるアプリケーションの管理を制御および自動化できるようにすることでした。2016年に.NET Coreが導入されたことで、Blue TeamはPowerShellの範囲を他のオペレーティングシステムプラットフォームに拡張し、PowerShell Coreという名前のオープンソースのGitHubホストプロジェクトを実現しました。 PowerShell Coreは、Advanced Reduced Instruction Set Computing Machine (ARM)デバイスで実行されるWindows 10を含む32bitおよび64bitのWindowsオペレーティングシステムに加えて、さまざまな64-bit LinuxディストリビューションであるmacOS10.12で使用できます。
+
+  このモジュールでは、アーキテクチャ設計、エディションとバージョン、PowerShellとの対話の基本など、PowerShellの基本について学習します。
+  #### レッスン
+  - Windows PowerShellの概要
+  - PowerShellのエディションとバージョン
+  - PowerShellの実行
+
+  このモジュールを完了すると、次のことができるようになります。
+  - Windows PowerShellの概要の説明
+  - PowerShellのエディションとバージョンについての説明
+  - Windows PowerShellとPowerShell Coreをインストールして使用
+
+  ### モジュール 2&#58; PowerShell Operational Security
+  Windows PowerShellが提供する利点を活用すると同時に、セキュリティ関連のリスクを最小限に抑えるには、Windows PowerShellの運用セキュリティの主要な側面を理解することが不可欠です。このモジュールでは、Windows PowerShellの運用環境の一部である組み込みのWindows PowerShellの機能とテクノロジを活用して、オペレーティングシステムのセキュリティを強化する方法について学習します。このモジュールのコンテキストで考慮することが重要なもう1つの側面は、セキュリティの悪用におけるWindows PowerShellの役割です。経験的データによると、ほとんどの場合、Windows PowerShellはエクスプロイト後のツールとして使用されます。これは、Windows PowerShellセッションが起動された時点で、攻撃者がターゲットシステムまたはターゲットユーザーが操作するセキュリティコンテキストにすでにアクセスしていることを意味します。これは、このモジュールが焦点を当てるシナリオのタイプです。この場合、Windows PowerShellは、ローカルコンピューターとリモートコンピューターで任意のタスクを実行するための強力で非常に柔軟なエンジンとして機能します。これは、ちなみに、Windows PowerShellをシステム管理者の間で非常に人気のあるものにしたのと同じ理由です。
+
+  ターゲットシステムへの不正アクセスを取得するためにWindows PowerShellに依存する他のタイプの攻撃が明らかにあります。このタイプのシナリオでは、Windows PowerShellが悪用ツールとして機能します。このコースの最後のモジュールでは、これらのタイプの攻撃について説明します。
+  #### レッスン
+  - Local Script Executionの管理
+  - Windows PowerShellのリモート実行機能の管理
+  - PowerShell Coreのリモート実行機能の管理
+  - Language Mode
+
+  このモジュールを完了すると、次のことができるようになります。
+  - ローカルPowerShellスクリプトの実行の管理
+  - Windows PowerShellのリモート実行の管理
+  - PowerShell Coreのリモート実行の管理
+  - Constrained Language Modeを使用した場合のセキュリティへの影響の説明
+
+  ### モジュール 3&#58; PowerShellベースのセキュリティの実装
+  前のモジュールでは、Windows PowerShellに組み込まれているセキュリティ関連の機能と、その実施に役立つWindows PowerShell運用環境の一部であるテクノロジについて学習しました。このモジュールの目的は、Windows PowerShellを活用してオペレーティングシステムのセキュリティを強化する最も一般的で効果的な方法を紹介することです。これらの方法には、次のものが含まれます&#58; > PowerShell Desired State Configuration (DSC) > に依存することにより、意図しない構成変更から保護> Just Enough Administration（JEA）を使用して、リモート管理シナリオで最小特権の原則を実装> Windows PowerShellログを使用して悪用の試みを示す可能性のあるイベントを追跡および監査
+  #### レッスン
+  - Windows PowerShell DSC
+  - Just Enough Administration (JEA)
+  - Windows PowerShellの監査とログ
+
+  このモジュールを完了すると、次のことができるようになります。
+  - Windows PowerShell DSCのアーキテクチャとコンポーネントについての説明
+  - JEAの実装
+  - Windows PowerShellの監査とログの構成の推奨
+
+
+  ### モジュール 4&#58; Windows PowerShellベースのエクスプロイトとその軽減
+  組織は、侵害防止戦略のみに焦点を当てるだけでは、セキュリティの検出と対応のギャップを包括的に特定することはできません。侵害を保護するだけでなく、検出して対応する方法を理解することは、そもそも侵害の発生を防ぐための措置を講じることと同じくらい重要です。Red Teaming（実際の攻撃と侵入）を通じて最悪のシナリオを計画することにより、組織は、試みられたエクスプロイトを検出し、セキュリティ違反に関連する対応を大幅に改善するために必要な機能を開発することができます。
+
+  Red Teamingは、Microsoftのプラットフォームとサービスを開発および保護する上で最も重要な部分の1つになっています。Red Teamは洗練された敵の役割を引き受け、Microsoftがセキュリティを検証および改善し、防御を強化し、セキュリティプログラム全体の効果を高めることを可能にします。Red Teamsにより、Microsoftは違反の検出と対応をテストできるだけでなく、実際の攻撃の準備と影響を正確に測定することができます。
+
+  Blue Teamの目的は、Red Teamによって組織化された攻撃を検出して阻止するための創造的で信頼性の高い防御を探すことです。Blue Teamは、セキュリティインシデント対応全体からのセキュリティレスポンダーまたはメンバーの専用セットで構成されています。
+
+  エンジニアリングおよび運用組織。構成に関係なく、彼らは独立しており、Red Teamとは別に運営されています。Blue Teamは、確立されたセキュリティプロセスに従い、最新のツールとテクノロジーを使用して、攻撃と侵入を検出して対応します。
+
+  このモジュールでは、最初にRedTeamの観点からWindows PowerShellベースのセキュリティにアプローチします。 Windowsオペレーティングシステムへの既存のアクセスを活用して悪意のあるソフトウェアのインストールを容易にし、偵察タスクを実行し、ターゲットコンピューターでの永続性を確立し、横方向の動きを促進するために、ハッカーが採用する最も一般的なWindows PowerShellベースの手法について説明します。また、侵入テスト、フォレンジック、およびWindows PowerShellエクスプロイトのリバースエンジニアリングを容易にするWindows PowerShellベースのセキュリティツールのいくつかを確認します。モジュールとコースを締めくくるために、Windows PowerShellベースの攻撃に対する包括的な多層防御の実装を目的とした、BlueTeamが推奨するテクノロジの概要を示します。
+
+  Windows PowerShell機能を利用して、パッチが適用されていないシステムや古いシステムに存在するセキュリティ上の欠陥を標的とする攻撃を実行したり、単一のシステムが侵害された場合にそのような攻撃の範囲を横方向に拡大したりするエクスプロイトが文書化されています。このモジュールで紹介されているこのようなエクスプロイトの概要は、網羅的なものではないことに注意してください。私たちの意図は、そのようなエクスプロイトが従う一般的なパターンを説明し、包括的な多層防御戦略の重要性を強調することです。
+  #### レッスン
+  - Windows PowerShellベースの攻撃
+  - Windows PowerShellベースのセキュリティツール
+  - Windows PowerShellのセキュリティ関連テクノロジの概要
+
+  #### ラボ&#58; Windows PowerShellセキュリティの実装
+  - DSCを使用してWindows PowerShellログの実装
+  - Windows PowerShellベースのエクスプロイトの実行
+  - Just Enough Administrationの実装
+
+  このモジュールを完了すると、次のことができるようになります。
+  - Windows PowerShellベースの攻撃の例を提供します
+  - Windows PowerShellベースのセキュリティツールの使用
+  - Windows PowerShellベースのセキュリティ関連テクノロジの概要の提供
+  - Desired State Configuration（DSC）を使用してWindows PowerShellログの実装
+  - Windows PowerShellベースの悪用を特定して軽減
+  - Just Enough Administration（JEA）の実装
+
+  #### 追加資料
+  このワークショップは、セキュリティの実践に関してMicrosoftが提供する一連のワークショップの一部です。このワークショップを受講する前に、Security Workshopシリーズの他のコースを完了する必要はありませんが、シリーズの最初のコースであるMicrosoft Security Workshop&#58; Enterprise Security Fundamentalsから始めることを強くお勧めします。
+  - 40551A&#58; Microsoft Security Workshop&#58; Enterprise Security Fundamentals
+  - 40552A&#58; Microsoft Security Workshop&#58; Managing Identity
+  - 40553A&#58; Microsoft Security Workshop&#58; Planning for a Secure Enterprise - Improving Detection
+  - 40554A&#58; Microsoft Security Workshop&#58; Implementing Windows 10 Security Features
+  - 40555A&#58; Microsoft Security Workshop&#58; Implementing PowerShell Security Best Practices.
