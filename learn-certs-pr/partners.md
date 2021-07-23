@@ -167,7 +167,7 @@ ms.prod: non-product-specific
 
 | <a name="bosnia-and-herzegovina"></a>ボスニア・ヘルツェゴビナ |
 |-----------|
-| [LANACO](https://thellpa.com/members/lanaco-education-center/microsoft)</br>[Tech Data Corporation](https://academy.techdata.com/cz/vendor/microsoft/training/) |
+| [LANACO](https://thellpa.com/members/lanaco-education-center/microsoft)</br>[Logosoft](https://www.logosoft.ba/kursevi-certifikacija)</br>[Tech Data Corporation](https://academy.techdata.com/cz/vendor/microsoft/training/) |
 
 | <a name="botswana"></a>ボツワナ |
 |-----------|
@@ -195,7 +195,7 @@ ms.prod: non-product-specific
 
 | <a name="china"></a>中国 |
 |-----------|
-| [EastHome](https://www.easthome.com/s/wei_ruan)</br>[Fast Lane Cloud and Security Services Pte. Ltd.](https://www.itls.io/microsoft)</br>[Kornerstone (A Trainocate Company)](https://www.kornerstone.com/microsoft-azure/)</br>[Shanghai Nanyang](http://www.nytraining.com.cn/course/items/230.html)</br>[Shanghai Yungoal](https://yungoal.com/services-training.html)</br>[Wei Ye Xuan Ran](https://www.techacademy.cn/home/courses) |
+| [EastHome](https://www.easthome.com/s/wei_ruan)</br>[Fast Lane Cloud and Security Services Pte. Ltd.](https://www.itls.io/microsoft)</br>[Kornerstone (A Trainocate Company)](https://www.kornerstone.com/microsoft-azure/)</br>[Shanghai Nanyang](http://www.nytraining.com.cn/course/items/230.html)</br>[Shanghai Yungoal](https://yungoal.com/services-training.html)</br>[Wei Ye Xuan Ran](https://www.techacademy.cn/home/courses)</br>[Zhengzhou Cloud Era Education&Infor](http://www.ysdit.com/solution/jobin.html) |
 
 | <a name="colombia"></a>コロンビア |
 |-----------|
@@ -255,7 +255,7 @@ ms.prod: non-product-specific
 
 | <a name="greece"></a>ギリシャ |
 |-----------|
-| [Infolab](https://thellpa.com/members/infolab/microsoft)</br>[Tech Data Corporation](https://academy.techdata.com/it/vendor/microsoft/training/) |
+| [Fast Lane CEE](https://www.fastlane-cee.net/microsoft-training)</br>[Infolab](https://thellpa.com/members/infolab/microsoft)</br>[Tech Data Corporation](https://academy.techdata.com/it/vendor/microsoft/training/) |
 
 | <a name="guatemala"></a>グアテマラ |
 |-----------|
@@ -323,7 +323,7 @@ ms.prod: non-product-specific
 
 | <a name="luxembourg"></a>ルクセンブルク |
 |-----------|
-| [Devoteam](https://training.devoteam.lu/partners/MICROSOFT)</br>[Firebrand Training Limited](https://firebrand.training/en/courses/microsoft) |
+| [Devoteam](https://training.devoteam.lu/partners/MICROSOFT)</br>[Elgon S.A.](https://www.elgon.lu/fr/certifications)</br>[Firebrand Training Limited](https://firebrand.training/en/courses/microsoft) |
 
 | <a name="macau"></a>マカオ |
 |-----------|
@@ -367,7 +367,7 @@ ms.prod: non-product-specific
 
 | <a name="nigeria"></a>ナイジェリア |
 |-----------|
-| [Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses) |
+| [Ha-Shem Limited](https://offers.ha-shem.com/hashemlearningsite)</br>[Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses) |
 
 | <a name="norway"></a>ノルウェー |
 |-----------|
@@ -415,7 +415,7 @@ ms.prod: non-product-specific
 
 | <a name="russia"></a>ロシア |
 |-----------|
-| [Academy of Networking (LANIT)](https://academy.ru/catalog/microsoft/)   </br>[Centre of Computer Training Specialist](https://www.specialist.ru/vendor/microsoft)   </br>[Eureca](https://www.eureca.ru/edu/study/course/microsoft/)   </br>[Fast Lane Russia](https://www.flane.ru/microsoft)   </br>[Stars and S](https://stars-s.ru/microsoft.html) |
+| [Academy of Networking (LANIT)](https://academy.ru/catalog/microsoft/)   </br>[Centre of Computer Training Specialist](https://www.specialist.ru/vendor/microsoft)   </br>[Eureca](https://www.eureca.ru/edu/study/course/microsoft/)   </br>[Fast Lane Russia](https://www.flane.ru/microsoft)   </br>[Softline](https://edu.softline.ru/vendors/microsoft)</br>[Stars and S](https://stars-s.ru/microsoft.html) |
 
 | <a name="saudi-arabia"></a>サウジアラビア |
 |-----------|
@@ -459,7 +459,7 @@ ms.prod: non-product-specific
 
 | <a name="taiwan"></a>台湾 |
 |-----------|
-| [Great Master Information](https://www.pcschool.com.tw/cloud-computing)   </br>[Institute for Information Industry](https://www.iiiedu.org.tw/msit/)   </br>[Systex](https://www.uuu.com.tw/Course/Partner/Microsoft微軟/系列課程Courses)   </br>[Trainocate](https://www.trainocate.com.tw/microsoft.html) |
+| [Great Master Information](https://www.pcschool.com.tw/cloud-computing)   </br>[Institute for Information Industry](https://www.iiiedu.org.tw/msit/)   </br>[Systex](https://www.uuu.com.tw/Course/Partner/Microsoft微軟/系列課程Courses)   </br>[Trainocate](https://www.trainocate.com.tw/microsoft.html)</br>[Whole Area Technology Taiwan](https://docs.microsoft.com/zh-cn/learn/certifications/browse/?resource_type=certification) |
 
 | <a name="tanzania"></a>タンザニア |
 |-----------|
