@@ -36,7 +36,7 @@ Microsoft Certification 試験は、試験に合格して認定資格を取得�
 ## 試験項目チャレンジ プロセス:
 
 1. 試験項目チャレンジの受理または不受理の基準を審査します。
-2. [試験項目問い合わせフォーム](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u) に記入して送信します。
+2. [試験項目問い合わせフォーム](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9SQgdTBB3hHnpJO6XSRH7RURDkwT0FBRjQ5TVpFMjZXMTUzOElISVdTTS4u)に記入して送信します。
 3. マイクロソフト認定チームは、提出物の完全性を確認します。不備がある場合は、追加情報を提供するよう求められます。完了すると、Microsoft Certificationチームがレビューします。審査には約2週間かかります。
 4. 審査が完了すると、結果が通知されます。
 

@@ -1,0 +1,285 @@
+### YamlMime:Course
+title: Designing and Implementing Microsoft Azure Networking Solutions
+metadata:
+  title: 'Course AZ-700T00--A: Designing and Implementing Microsoft Azure Networking Solutions'
+  description: 'Course AZ-700T00--A: Designing and Implementing Microsoft Azure Networking Solutions'
+uid: course.az-700t00
+courseNumber: 'AZ-700T00'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- network-engineer
+products:
+- azure
+summary: |-
+  このコースでは、ネットワークエンジニアに、Azureネットワークソリューションを設計、実装、および保守する方法を教えます。このコースでは、コアAzureネットワークインフラストラクチャ、ハイブリッドネットワーク接続、負荷分散トラフィック、ネットワークルーティング、Azureサービスへのプライベートアクセス、ネットワークセキュリティ、および監視の設計、実装、および管理のプロセスについてご説明します。 Azureで安全で信頼性の高いネットワークインフラストラクチャを設計および実装する方法と、Azureでハイブリッド接続、ルーティング、Azureサービスへのプライベートアクセス、および監視を確立する方法についてご説明します。
+
+  #### オーディエンスプロフィール
+
+  このコースは、Azureネットワーキングソリューションを専門とするネットワークエンジニアを対象としています。 Azureネットワークエンジニアは、コアAzureネットワークインフラストラクチャ、ハイブリッドネットワーク接続、負荷分散トラフィック、ネットワークルーティング、Azureサービスへのプライベートアクセス、ネットワークセキュリティ、および監視を設計および実装します。 Azureネットワークエンジニアは、最適なパフォーマンス、復元力、拡張性、およびセキュリティのためのネットワークソリューションを管理します。
+prerequisitesSection: |-
+  成功したAzureネットワークエンジニアは、エンタープライズネットワーキング、オンプレミスまたはcloudインフラストラクチャ、およびネットワークセキュリティの経験からこの役割を開始します。
+
+  * VMs、仮想ネットワーク、仮想ハードディスクなどのオンプレミス仮想化テクノロジーの理解。&nbsp;
+
+  * TCP/IP、 Domain Name System (DNS)、仮想プライベートネットワーク（VPNs）、ファイアウォール、暗号化技術などのネットワーク構成の理解。
+
+  * ソフトウェア定義ネットワークの理解。
+
+  * VPNなどのハイブリッドネットワーク接続方法を理解。
+
+  * 高可用性と復元操作を含む回復力と災害復旧を理解。
+
+  **前提条件のコース（または同等の知識と実践的な経験）：**
+
+  この無料のオンライントレーニングは、このコースで成功するために必要な経験をご提供します。
+
+  * [Azure Fundamentals パート1&#58; Azureコアコンセプトの説明- Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+
+  * [Azure Fundamentals パート 2&#58; ：コアAzureサービスについての説明- Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
+
+  * [Azure Fundamentals パート3&#58; Azureのコアソリューションと管理ツールについての説明 - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
+
+  * [Azure Fundamentals パート4&#58; 一般的なセキュリティとネットワークセキュリティ機能についての説明- Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features/)
+
+  * [AZ-104&#58; Azure管理者向けの仮想ネットワークの構成と管理- Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-virtual-networks/)
+outlineSection: |-
+  ### モジュール1：Azure仮想ネットワーク
+
+  このモジュールでは、仮想ネットワーク、パブリックIPsとプライベートIPs、DNS、仮想ネットワークピアリング、ルーティング、Azure Virtual NATなどの基本的なAzureネットワークリソースを設計および実装方法を学習します。
+
+  #### レッスン
+
+  * Azure仮想ネットワーク
+
+  * パブリックIPサービス
+
+  * パブリックDNSとプライベートDNS
+
+  * クロスVNet接続
+
+  * 仮想ネットワークルーティング
+
+  *  Azure仮想ネットワークNAT
+
+
+  #### ラボ &#58; Azureで仮想ネットワークを設計および実装
+
+  ####
+
+  #### ラボ &#58; AzureでDNS設定を構成
+
+  ####
+
+  #### ラボ &#58; 仮想ネットワークをピアリングに接続
+
+  ####
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  * 仮想ネットワークを実装
+
+  * パブリックIPサービスの構成
+
+  * プライベートDNSゾーンとパブリックDNSゾーンの構成
+
+  * クロスVNET接続を設計および実装
+
+  * 仮想ネットワークルーティングを実装
+
+  * Azure仮想ネットワークNATを設計および実装
+
+
+  ### モジュール2：ハイブリッドネットワークの設計と実装
+
+  このモジュールでは、サイト間VPN接続、ポイントツーサイトVPN接続、Azure Virtual WAN、仮想WANハブなどのハイブリッドネットワークソリューションを設計および実装方法を学習します。
+
+  #### レッスン
+
+  * サイト間VPN接続
+
+  * ポイントツーサイトVP接続
+
+  * Azure仮想WAN
+
+
+  #### ラボ &#58; ローカルゲートウェイを作成して構成
+
+  ####
+  * 仮想ネットワークゲートウェイを作成して構成
+  * Azureポータルを使用して仮想WANの作成
+
+  サイト間VPN接続を設計および実装
+
+  * ポイントツーサイトVPN接続を設計および実装
+
+  * 認定を設計および実装
+
+  * Azure仮想WANリソースを設計および実装
+
+
+  ### モジュール3：AzureExpress Routeを設計および実装
+
+  このモジュールでは、Azure ExpressRoute、ExpressRoute Global Reach、ExpressRoute FastPath、およびExpressRoute Peeringオプションを設計および実装方法を学習します。
+
+  #### レッスン
+
+  * ExpressRoute
+
+  * ExpressRoute Direct
+
+  * ExpressRoute FastPath
+
+  * ExpressRoute Peering
+
+
+  #### ラボ &#58; ExpressRouteを作成して構成
+
+  ####
+
+  Expressrouteの設計と実装
+
+  * Expressroute Directを設計および実装
+
+  * Expressroute FastPathを設計および実装
+
+
+  ### モジュール4：Azureでの非HTTP(S)トラフィックの負荷分散
+
+  このモジュールでは、Azure Load balancerとTrafficManagerを使用して、Azureで非HTTP(S)トラフィックの負荷分散ソリューションを設計および実装方法を学習します。
+
+  #### レッスン
+
+  * コンテンツ配信と負荷分散
+
+  * Azure Load balancers
+
+  * Azure Traffic Manager
+
+  * Azureモニター
+
+  * ネットワークウォッチャー
+
+
+  #### ラボ &#58; Azureポータルを使用してVMsの負荷を分散するパブリックload balancersを作成および構成
+
+  ####
+
+  #### ラボ &#58; Azureポータルを使用してTraffic Managerプロフィールの作成
+
+  ####
+
+  #### ラボ &#58; Azure Monitorでメトリックアラートを作成、表示、および管理
+
+  ####
+
+  Azure Load Balancerを設計および実装
+
+  * Azure Traffic Managerを設計および実装
+
+  * Azureモニターを使用してネットワークを監視する
+
+  * ネットワークウォッチャーの使用
+
+
+  ### モジュール5：AzureでのHTTP(S)トラフィックの負荷分散
+
+  このモジュールでは、Azure Application gatewayとAzure Front Doorを使用してAzureでHTTP(S)トラフィックの負荷分散ソリューションを設計および実装方法を学習します。
+
+  #### レッスン
+
+  * Azure Application Gateway
+
+  * Azure Front Door
+
+
+  #### ラボ &#58; Azureポータルを使用して高可用性Webアプリケーションのフロントドアの作成
+
+  ####
+
+  #### ラボ &#58; Application Gatewayの作成と構成
+
+  ####
+
+  Azure ApplicationGatewayを設計および実装
+
+  * Azure Front Doorの実装
+
+
+  ### モジュール6：ネットワークセキュリティの設計と実装
+
+  このモジュールでは、Azure DDoS、Azure Firewalls、ネットワークセキュリティグループ、Webアプリケーションファイアウォールなどのネットワークセキュリティソリューションの設計と実装について学習します。
+
+  #### レッスン
+
+  * Azure DDoS Protection
+
+  * Azure Firewall
+
+  * ネットワークセキュリティグループ
+
+  * Azure Front DoorのWebアプリケーションファイアウォール
+
+
+  #### ラボ &#58; DDoS保護計画を使用して仮想ネットワークの作成
+
+  ####
+
+  #### ラボ &#58; Azure Firewallのデプロイと構成
+
+  ####
+
+  #### ラボ &#58; Azure Front DoorでWebアプリケーションファイアウォールポリシーの作成
+
+  ####
+
+  Azure DDoS保護計画を構成およびモニタリング
+
+  * Azure Firewallを実装および管理
+
+  * ネットワークセキュリティグループの実装
+
+  * Azure Front DoorにWebアプリケーションファイアウォール(WAF)を実装
+
+
+  ### モジュール7：Azure Servicesへのプライベートアクセスを設計および実装
+
+  このモジュールでは、Azure Private Linkを使用したAzure Servicesへのプライベートアクセスと仮想ネットワークサービスエンドポイントの設計と実装について学習します。
+
+  #### レッスン
+
+  * Azure Private Linkとプライベートエンドポイントを定義
+
+  * プライベートエンドポイントの設計と構成
+
+  * Private LinkをDNSおよびオンプレミスクライアントと統合
+
+  * サービスエンドポイントへのアクセスを作成、構成、および提供
+
+  * アプリサービスのVNET統合を構成
+
+
+  #### ラボ &#58; 仮想ネットワークサービスエンドポイントを使用して、PaaSリソースへのネットワークアクセスを制限
+
+  ####
+
+  #### ラボ &#58; Azureプライベートエンドポイントの作成
+
+  ####
+
+  Private Link Serviceとプライベートエンドポイントの違いを定義
+
+  * プライベートエンドポイントを設計および構成
+
+  * 仮想ネットワークサービスエンドポイントについての説明
+
+  * サービスエンドポイントへのアクセスを設計および構成
+
+  * Private LinkをDNSと統合
+
+  * アプリサービスをAzure仮想ネットワークと統合

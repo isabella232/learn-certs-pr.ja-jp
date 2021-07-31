@@ -7,8 +7,7 @@ uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div>
-  <div><font color='red'><strong>この試験の新バージョン  <a href="/learn/certifications/exams/pl-600">PL-600</a>は2021年３月に利用可能となりました。この試験は、2021年6月30日に終了するまで受験可能です。</strong></font><br/><br/></div><br/><br/></div>
-  <div><strong>この試験の内容は、2020 年 7 月 30 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  <div><font color='red'><strong>この試験は2021年6月30日に廃止されます。この試験の新しいバージョンのPL-600がご利用頂けます。詳細は下記をご確認ください。 <a href="/learn/certifications/exams/pl-600">PL-600</a> 試験詳細ページ</strong></font><br/><br/></div>
   </div>
   
   Microsoft Dynamics 365 + Power Platform のソリューション アーキテクトは、実施を成功に導き、ソリューションが組織の幅広いビジネス ニーズや技術ニーズにどのように対応するかに重点を置いています。
@@ -19,13 +18,11 @@ summary: |-
 subTitle: 'この試験では、ソリューションの展望と要件分析の実行、ソリューションの設計、ソリューションの実装などの技術的なタスクを実行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-600&examname=Exam%20MB-600:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-600
 locales:
 - en
 levels:
 - advanced
 skills:
-- この試験の内容は、2020 年 7 月 30 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
 - Solution Envisioning および Requirement Analysis を実行する (30-35%)
 - Solution を設計する (45-50%)
 - Solutionを実装する (20-25%)

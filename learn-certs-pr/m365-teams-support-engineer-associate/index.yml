@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: 'Microsoft 365 Certified: Teams Support Engineer Associate'
+metadata:
+  title: 'Microsoft 365 Certified: Teams Support Engineer Associate'
+  description: この試験は2021年7月8日頃にご利用可能となります。この試験の候補者は、Microsoft Teams環境のサポート、展開のトラブルシューティング、パフォーマンスの調整、テレメトリとログデータの収集と分析、およびTeams環境の管理を行うサポートエンジニアです。
+uid: certification.m365-teams-support-engineer-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  この試験の候補者は、Microsoft Teams環境のサポート、デプロイのトラブルシューティング、パフォーマンスの調整、テレメトリとログデータの収集と分析、およびTeams環境の管理を行うサポートエンジニアです。
+  
+  候補者は、Microsoft Teamsとのユニファイドコミュニケーションと実践的な経験を十分に公開している必要があります。さらに、候補者は、Azureの基礎、電話、PowerShell、データストレージテクノロジー、APIs、アプリのセキュリティ、認定と承認、セキュリティ、コンプライアンス情報、デバッグ、パフォーマンスの調整、監視に関するネットワークの知識を持っている必要があります。
+  
+  <div><br/><br/><font color='red'><strong>注：この試験の学習パスは2021年6月30日にご利用可能となり、試験は2021年7月8日にご利用可能となります。</strong></font></div>
+subTitle: この試験は2021年7月8日頃にご利用可能となります。この試験の候補者は、Microsoft Teams環境のサポート、展開のトラブルシューティング、パフォーマンスの調整、テレメトリとログデータの収集と分析、およびTeams環境の管理を行うサポートエンジニアです。
+levels:
+- intermediate
+skills:
+- Microsoft Teamsの音声の問題のトラブルシューティング
+- Microsoft Teamsの会議とライブイベントの問題のトラブルシューティング
+- フェデレーションの問題のトラブルシューティング
+- Microsoft Teamsへのサインインの問題のトラブルシューティング
+- チームとチャネルのトラブルシューティング
+- ファイルの問題のトラブルシューティング
+roles:
+- administrator
+type: role-based
+products:
+- office-teams
+- office-onedrive
+- office-365
+- ms-graph
+- azure-active-directory
+paths:
+- uid: learn.wwl.troubleshoot-microsoft-365-teams
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4O2rW
+exams:
+- uid: exam.ms-740
+resources:
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Share your certification badges
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md

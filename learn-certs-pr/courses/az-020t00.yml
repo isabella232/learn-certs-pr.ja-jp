@@ -16,9 +16,6 @@ roles:
 - developer
 products:
 - azure
-exams:
-- uid: exam.az-203
-- uid: exam.az-204
 summary: |-
   Microsoft Azure でエンドツーエンドのソリューションを準備する方法を AWS (Amazon Web Services) 開発者に教えるために設計された 3 日間のコース。このコースでは、Azure App Service Web App ソリューションと Azure Functions を構築し、BLOB または Cosmos DB ストレージをソリューションで使用し、ユーザー認証と承認を含む安全なクラウド ソリューションを実装し、API 管理を実装し、イベントとメッセージ ベースのソリューションを開発し、 Azure ソリューションを監視、トラブルシューティング、および最適化します。AWS とは異なる機能やタスクにさらに焦点を当てながら、開発者が Azure サービスを使用する方法と、Azure サービスを使用してホストされるアプリケーションを開発する場合の意味を学びます。
 

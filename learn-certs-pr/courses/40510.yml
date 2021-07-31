@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: SQL Server Hybrid Cloud'
+metadata:
+  title: 'Course 40510-G: Microsoft Cloud Workshop: SQL Server Hybrid Cloud'
+  description: 'Course 40510-G: Microsoft Cloud Workshop: SQL Server Hybrid Cloud'
+uid: course.40510
+courseNumber: '40510-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: このワークショップの最後に、オンプレミスのVMWare環境とAzureの間のハイブリッドディザスタリカバリソリューションをより適切に設計できるようになります。さらに、SQL Serverスケールアウトソリューションを設計し、データベースバックアップをローカル障害から保護し、オンプレミスSQL Serverからのコールドデータをアーカイブし、機密性の高いアプリケーションデータに対してエンドツーエンドの暗号化を実行します。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このワークショップでは、メディアパブリッシング会社と協力して、ハイブリッドcloudディザスタリカバリソリューションを設計します。負荷の大きなスパイクを処理し、セキュリティを強化してペイメントカード業界(PCI)データの暗号化を含めるソリューションを設計します。さらに、データベースのサイズを抑えるためのアーカイブ戦略を実装します。
+
+  #### オーディエンスプロフィール 
+  このワークショップは、Cloudテクノロジーのインフラストラクチャとソリューション設計のアーキテクチャに関する専門知識を持ち、「概要」と「習得したスキル」の領域で説明されているAzureとAzureサービスについて詳しく知りたいCloudアーキテクトとITプロフェッショナルを対象としています。このワークショップに参加する人は、他のMicrosoft以外のcloudテクノロジーの経験があり、コースの前提条件を満たし、Azureでクロストレーニングを行う必要があります。
+outlineSection: |-
+  ### モジュール 1&#58; ホワイトボードデザインセッション- SQL Server hybrid cloud
+  #### レッスン 
+  - お客様のケーススタディの確認
+  - 概念実証ソリューションの設計
+  - ソリューションの提示
+
+
+  ### モジュール 2&#58; ハンズオンラボ-SQL SQL Server hybrid cloud
+  #### レッスン 
+  - SQLバックアップソリューション
+  - SQL SQL Server Stretch Databaseを使用してデータアーカイブ戦略の実装
+  - データベースディザスタリカバリ用のSQL可用性グループの構築
+  - Web Tier DR用にAzure Site Recoveryの構成
+  - ディザスタリカバリサイトへのフェイルオーバー

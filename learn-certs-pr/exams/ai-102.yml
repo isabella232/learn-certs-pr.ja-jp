@@ -6,9 +6,17 @@ metadata:
 uid: exam.ai-102
 displayName: AI-102
 summary: |-
-  試験AI-102の候補者は、Azure Cognitive Services、Azure Cognitive Search、およびMicrosoft Bot フレイムワークを活用するAIソリューションの構築、管理、および展開に関する専門知識を持っている必要があります。
+  <div><font color='red'><strong>この試験の内容は2021年7月29日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong></font><br/><br/></div>
   
-  この試験の候補者は、C＃、Python、またはJavaScriptに習熟している必要があり、RESTベースのAPIとSDKを使用して、Azureでコンピュータービジョン、自然言語処理、知識マイニング、会話型AIソリューションを構築できる必要があります。また、Azure AIポートフォリオを構成するコンポーネントと利用可能なデータストレージオプションについても理解する必要があります。さらに、候補者は責任あるAIの原則を理解し、適用できる必要があります。
+  試験AI-102の候補&#58;Designing and Implementing a Microsoft Azure AI Solutionの設計と実装、Azure Cognitive Services、Azure Cognitive Search、およびMicrosoft Bot Frameworkを活用するAIソリューションを構築、管理、およびデプロイします。
+  
+  彼らの責任には、要件の定義と設計から開発、デプロイ、保守、パフォーマンスの調整、監視まで、AIソリューション開発のすべてのフェーズへの参加が含まれます。
+  
+  彼らはソリューションアーキテクトと協力してビジョンを翻訳し、データサイエンティスト、データエンジニア、IoTスペシャリスト、AI開発者と協力して完全なエンドツーエンドのAIソリューションを構築します。
+  
+  この試験の候補者は、C#、PythonまたはJavaScriptに習熟している必要があり、RESTベースのAPIsとSDKsを使用して、Azureでコンピュータービジョン、自然言語処理、知識マイニング、会話型AIソリューションを構築できる必要があります。
+  
+  また、Azure AIポートフォリオを構成するコンポーネントと利用可能なデータストレージオプションについても理解する必要があります。さらに、候補者は責任あるAIの原則を理解し、適用できる必要があります。
 subTitle: 'このテストは下記技術的タスクの実行能力を測ります。Azure Cognitive Services解決のプランを作って、管理すること。コンピュータビジョンソリューションを遂行すること。自然言語処理解決を遂行すること。ナレッジマイニング解決を遂行すること。会話AI解決を遂行すること。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYD
@@ -18,6 +26,7 @@ locales:
 levels:
 - intermediate
 skills:
+- この試験の内容は2021年7月29日に更新されます。以下の試験スキルの概要をダウンロードして、変更点を確認してください。
 - Azure Cognitive Servicesソリューションの計画と管理(15-20%)
 - コンピュータビジョンソリューションの実装(20-25%)
 - 自然言語処理ソリューションの実装(20-25%)

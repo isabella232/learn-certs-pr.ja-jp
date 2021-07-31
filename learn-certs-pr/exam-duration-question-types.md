@@ -20,11 +20,10 @@ ms.prod: non-product-specific
 
 |         | 試験時間*           | 着席時間*  |
 | ------------- |:-------------:| -----:|
-| Fundamentals試験      |  60分 | 80分 |
-| Associate and expert role-based exams ラボなし** | 130分 | 150分 |
-| Associate and expert role-based examsラボあり | 150分 | 170分 |
+| Fundamentals試験      |  45分 | 65分 |
+| Associate and expert role-based exams ラボなし** | 100分 | 120分 |
+|ラボが含まれる可能性のあるアソシエイトおよびエキスパートの役割ベースの試験** | 130分| 150分|
 | アカデミック チャネルを通じて提供されるMicrosoft Technology Associate (MTA) exams| 45分 | 50分 |
-|コマーシャルチャネルを通じて配信される MTA 試験 | 45分 | 80分 |
 | Microsoft Office Specialist (MOS) 試験 | 50分 | 60分 |
 
 *試験時間とは、試験を完了するために必要な時間のことです。着席時間とは、試験に割り当てる必要のある時間のことです。これには、指示を確認し、NDAを読んで同意し、試験問題を完了し、完了後にコメントを提供するために必要な時間が含まれます (選択した場合)。

@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-700
 displayName: MS-700
 summary: |-
-  <div><div><font color='red'><strong>この試験の内容は2021年5月25日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>この試験の内容は2021年7月26日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong></font><br/><br/></div>
   </div>
 
   Microsoft Teams 管理者 は、企業環境における効率的で効果的なコラボレーションとコミュニケーションに重点を置いた Microsoft Teamsの Office 365 ワークロードを構成、展開、および管理します。
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は2021年5月25日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。
+- 以下の試験ガイドは、2021年7月26日に実装される変更を示しています。
 - Microsoft Teams environment を計画、構成する (45-50%)
 - チャット、通話、会議を管理する (30-35%)
 - Teams および app policies を管理する (20-25%)

@@ -6,14 +6,14 @@ metadata:
 uid: exam.mb-210
 displayName: MB-210
 summary: |-
-  <div><strong>この試験の内容は、2020 年 10 月 2 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  <div><font color="red"><strong>この試験の内容は2021年7月23日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong></font><br/><br/></div>
   
   この試験の受験者は、セールス経験を持つ Dynamics 365 の機能コンサルタントです。受験生は、収益目標、ビジネス戦略、会社の目的に沿い効果的で効率的なセールスライフサイクルをサポートするソリューションに責任を持ちます。
   
   受験者は、リード、契約、アカウント、オポチュニティのコア機能の設定と拡張を担当し、会社の場所においてセールス過程のマップへのエンティティをサポートします。彼らは、Power Apps を使用してすべてのデバイスの統一されたエクスペリエンスを開発する機会、Power Automate をアプリケーション統合、ビジネス プロセス フロー、およびその他の自動化ツールで「キャッシュ ジャーニーへのリード」をサポートおよび加速するアプリケーションを構築する機会を特定します。
   
   受験者は強いビジネス知識と素晴らしい本人による経験を、1 つ以上のセールス ロールのセールス世界で持っていなければなりません。
-subTitle: 'この試験では、構成の実行、コア販売エンティティの管理、追加のツールやサービスの構成という技術的なタスクを遂行する能力を測定します。'
+subTitle: 'この試験では、構成の実行、コアセールステーブルの管理、追加のツールとサービスの構成を行う能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
 practiceTestUrl:  https://www.mindhub.com/mb-210-microsoft-dynamics-365-sales-microsoft-official-practice-test/p/MU-MB-210?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -23,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は、2020 年 10 月 2 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
+- この試験の内容は2021年7月23日に更新されます。以下の試験スキルの概要をダウンロードして、変更点をご確認ください。
 - 構成を実行する (25-30%)
 - コア販売エンティティを管理する (50-55%)
 - 追加のツールおよびサービスを構成する (15-20%)

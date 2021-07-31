@@ -7,8 +7,7 @@ uid: exam.mb-901
 displayName: MB-901
 summary: |-
   <div>
-  <div><strong>この試験は 2021 年 6 月 30 日に廃止されます。MB-910 と MB-920 の 2 つの代替試験が利用可能です。詳細については、 <a href="/learn/certifications/exams/mb-910">MB-910</a> および <a href="/learn/certifications/exams/mb-920">MB-920</a> 試験詳細ページを参照してください。注意&#58; 試験は中部標準時の午後 11 時 59 分に廃止されます。</strong><br/><br/></div>
-  <div><strong>この試験の内容は、2020 年 7 月 10 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
+  <div><font color="red"><strong>この試験は2021年6月30日に廃止されます。この試験の新しいバージョンのMB-910 とMB-920がご利用頂けます。詳細は下記をご確認ください。 <a href="/learn/certifications/exams/mb-910">MB-910</a> と<a href="/learn/certifications/exams/mb-920">MB-920</a> 試験詳細ページ</strong></font><br/><br/></div>
   </div>
 
   この試験では、 Dynamics 365 を採用することの位置付けと利点について説明します。
@@ -18,8 +17,6 @@ summary: |-
   この試験の受験生には、情報技術 (IT) 環境の一般的な知識または関連する実務経験が必要です。また、受験生は、ビジネス シナリオについての基本的理解、および IT プロジェクトにおけるビジネス、法律、およびセキュリティの要件に対応した経験があることも必要です。
 
   この認定試験に合格すると、ACEカレッジの単位を取得できる可能性がございます。詳細については、[認定試験のためのACEカレッジクレジット](/learn/certifications/ace-credit-for-certification-exams) をご参照ください。
-  
-  <div><br/><strong>この試験は 2021 年 6 月 30 日に廃止されるため、Microsoft は「Common Data Service」の参照を「Microsoft Dataverse」に更新しません。</strong></div>
 subTitle: 本試験は、以下を理解できる能力を査定します。 Microsoft Dynamics 365、人工知能(AI)、複合現実(MR)、 Power Platform 、クラウドの概念、クラウドのセキュリティ、 Dynamics 365におけるロールベース のセキュリティ、Common Data Service、 データ管理フレームワーク、 Dynamics 365 のレポート作成、 Dynamics 365 の統合、クラウドの展開。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
@@ -31,15 +28,9 @@ locales:
 - fr
 - ko
 - ja
-providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
-- この試験の内容は、2020 年 7 月 10 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
 - Dynamics 365 の Microsoft プラットフォームコンポーネントを特定します (30-35%)
 - Dynamics 365 における人工知能と複合現実について説明する (10-15%)
 - モデル主導型アプリについて説明する (25-30%)

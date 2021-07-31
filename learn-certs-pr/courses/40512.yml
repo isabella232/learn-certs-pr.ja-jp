@@ -1,0 +1,51 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: App Modernization'
+metadata:
+  title: 'Course 40512-G: Microsoft Cloud Workshop: App Modernization'
+  description: 'Course 40512-G: Microsoft Cloud Workshop: App Modernization'
+uid: course.40512
+courseNumber: '40512-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: このワークショップの最後に、サービスをオンプレミスからcloudに移行しようとしている組織向けの近代化計画をより適切な設計が可能に。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このワークショップでは、cloudサービスを活用し、すべてAzure Active Directoryを使用して保護されたウェブサービスとモバイルサービスを組み合わせて、レガシーオンプレミスアプリケーションとインフラストラクチャの最新化に関連する手順について理解を深めます。
+
+  #### オーディエンスプロフィール 
+  このワークショップは、cloudテクノロジーのインフラストラクチャとソリューション設計のアーキテクチャに関する専門知識を持ち、「概要」と「習得したスキル」の領域で説明されているAzureとAzureサービスについて詳しく知りたいCloudアーキテクトとITプロフェッショナルを対象としています。このワークショップに参加する人は、他のMicrosoft以外のcloudテクノロジーの経験があり、コースの前提条件を満たし、Azureでクロストレーニングを行う必要があります。
+prerequisitesSection: |-
+  ワークショップの内容は、インフラストラクチャとソリューションの設計に関する300レベルのアーキテクチャの専門知識を前提としています。このワークショップに参加する前に、この前提条件を受講することをお勧めします。
+  - Microsoft Azure Essentialsコース、http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### モジュール 1&#58; ホワイトボードデザインセッション-アプリのモダナイゼーション
+  #### レッスン 
+  - お客様のケーススタディの確認
+  - 概念実証ソリューションの設計
+  - ソリューションの提示
+
+  ### モジュール 2&#58; ハンズオンラボ-アプリの最新化
+  #### レッスン
+  - データベースをAzure SQL Databaseに移行
+  - アプリサービスのプロビジョニング
+  - アイデンティティとセキュリティ
+  - PDFsをブロブストレージにアップロード
+  - PDFsにアクセスするためのサーバーレスAPIの作成
+  - Azure Searchサービスの作成
+  - Key Vaultの構成
+  - Contoso Insurance Web APIを構成してデプロイ
+  - Contoso Insuranceウェブアプリを構成してデプロイ
+  - レガシーデスクトップ（Windows Forms)アプリケーションを構成して実行
+  - モバイルアプリケーションを構成して実行
+  - プッシュ通知を送信するFlowアプリの作成
+  - Power Appsでアプリの作成
+  - Azure API ManagementにAzure Functionの追加

@@ -1,0 +1,39 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Modern Cloud Apps'
+metadata:
+  title: 'Course 40508-G: Microsoft Cloud Workshop: Modern Cloud Apps'
+  description: 'Course 40508-G: Microsoft Cloud Workshop: Modern Cloud Apps'
+uid: course.40508
+courseNumber: '40508-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: このワークショップの最後に、Azure Web Appsと関連サービスをより適切にデプロイおよび構成できるようになります。さらに、Azure ADで認証するためのウェブアプリの構成、App Insightsでのアプリケーションの計測と負荷テスト、Azure FunctionsとLogic Appsを使用したバックエンドサービスの自動化について学習します。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このワークショップでは、グループとして、Azure App Services、Azure Active Directory、およびVisual Studio Team Servicesに基づくeコマースのエンドツーエンドソリューションを実装します。ソリューションがPCIに準拠していることを確認し、オンプレミスとパブリックアクセスの両方のシナリオで適切なセキュリティ対策を講じます。
+
+  #### オーディエンスプロフィール
+  このワークショップは、cloudテクノロジーのインフラストラクチャとソリューション設計のアーキテクチャに関する専門知識を持ち、「概要」と「習得したスキル」の領域で説明されているAzureとAzureサービスについて詳しく知りたいCloudアーキテクトとITプロフェッショナルを対象としています。このワークショップに参加する人は、他のMicrosoft以外のcloudテクノロジーの経験があり、コースの前提条件を満たし、Azureでクロストレーニングを行う必要があります。
+outlineSection: |-
+  ### モジュール 1&#58; ホワイトボードデザインセッション-最新のcloudアプリ
+  #### レッスン 
+  - お客様のケーススタディの確認
+  - 概念実証ソリューションの設計
+  - ソリューションの提示
+
+  ### モジュール 2&#58; ハンズオンラボ-最新のcloudアプリ
+  #### レッスン 
+  - 概念実証のデプロイ
+  - アイデンティティとセキュリティ
+  - 顧客サイトでAzure B2Cを有効化
+  - Application Insightsを使用したTelemetryの有効化
+  - Azure FunctionsとLogic Appsを使用したバックエンドプロセスの自動化

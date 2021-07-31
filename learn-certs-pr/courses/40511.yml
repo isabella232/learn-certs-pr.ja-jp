@@ -1,0 +1,46 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+metadata:
+  title: 'Course 40511-G: Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+  description: 'Course 40511-G: Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+uid: course.40511
+courseNumber: '40511-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: このワークショップの最後に、cloudインフラストラクチャを自動化し、エラーが発生しやすい手動プロセスを削減するためのテンプレートの作成。さらに、Azure Resource Manager (ARM) テンプレートを作成して、Azureリソースをプロビジョニングし、Visual Studio Team Services (VSTS) を使用して継続的デリバリーを構成し、Application Insightsをアプリケーションに構成し、Visual Studio Team ServicesプロジェクトとGitリポジトリの作成。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このホワイトボード設計セッションでは、Azure Resource ManagerテンプレートとAzure DevOpsを組み合わせてソリューションを設計し、複数のAzure PaaSサービスで継続的デリバリーを可能にする方法を学習します。
+
+  このワークショップの最後に、Cloudインフラストラクチャを自動化し、エラーが発生しやすい手動プロセスを削減するためのテンプレートをより適切に構築できるようになります。さらに、Azure Resource Manager (ARM)テンプレートを作成して、Azureリソースをプロビジョニングし、Azure DevOpsで継続的デリバリーを構成し、Application Insightsをアプリケーションに構成し、Azure DevOpsプロジェクトとGitリポジトリを作成します。
+
+  #### オーディエンスプロフィール
+  このワークショップは、cloudテクノロジーのインフラストラクチャとソリューション設計のアーキテクチャに関する専門知識を持ち、「概要」と「習得したスキル」の領域で説明されているAzureとAzureサービスについて詳しく知りたいCloudアーキテクトとITプロフェッショナルを対象としています。このワークショップに参加する人は、他のMicrosoft以外のcloudテクノロジーの経験があり、コースの前提条件を満たし、Azureでクロストレーニングを行う必要があります。
+prerequisitesSection: |-
+  ワークショップの内容は、インフラストラクチャとソリューションの設計に関する300レベルのアーキテクチャの専門知識を前提としています。このワークショップに参加する前に、この前提条件を受講することをお勧めします。
+  - Microsoft Azure Essentialsコース、http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### モジュール 1&#58; ホワイトボード設計セッション-Azure DevOpsでの継続的デリバリー
+  #### レッスン
+  - お客様のケーススタディの確認
+  - 概念実証ソリューションの設計
+  - ソリューションの提示
+
+
+  ### モジュール 2&#58; ハンズオンラボ-Azure DevOpsでの継続的デリバリー
+  #### レッスン
+  - ウェブアプリケーションであるSQLデータベースをプロビジョニングできるAzure Resource Manager (ARM)テンプレートの作成
+  - Azure DevOpsプロジェクトとGitリポジトリの作成
+  - Azure DevOpsビルドパイプラインの作成
+  - Azure DevOpsリリースパイプラインの作成
+  - ビルドとリリースのトリガー
+  - 機能ブランチを作成し、プルリクエストの送信

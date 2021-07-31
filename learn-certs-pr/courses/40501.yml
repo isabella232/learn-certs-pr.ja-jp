@@ -1,0 +1,43 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Cloud-native applications'
+metadata:
+  title: 'Course 40501-G: Microsoft Cloud Workshop: Cloud-native applications'
+  description: 'Course 40501-G: Microsoft Cloud Workshop: Cloud-native applications'
+uid: course.40501
+courseNumber: '40501-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: このワークショップの最後に、実績のあるDevOpsプラクティスを通じて、コンテナーベースのアプリケーションの信頼性を向上させ、リリースのリズムを向上化
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このワークショップでは、既存のPaaSアプリケーションをコンテナーベースのアプリケーションに変換する概念実証（POC）を構築します。このPOCは、Azure Kubernetes Service（AKS）、Linuxノード上のDockerコンテナー、およびMongoDBからCosmosDBへの移行を活用するマルチテナントウェブアプリホスティングソリューションをご提供します。
+
+  #### オーディエンスプロフィール
+  このワークショップは、cloudテクノロジーのインフラストラクチャとソリューション設計のアーキテクチャに関する専門知識を持ち、「概要」と「習得したスキル」の領域で説明されているAzureとAzureサービスについて詳しく知りたいCloud Architects とITプロフェッショナルを対象としています。また、このワークショップに参加する人は、他のMicrosoft以外のcloudテクノロジーの経験があり、コースの前提条件を満たし、Azureでクロストレーニングしたいと考えている人とします。
+prerequisitesSection: |-
+  ワークショップの内容は、インフラストラクチャとソリューションの設計に関する300レベルのアーキテクチャの専門知識を前提としています。このワークショップに参加する前に、この前提条件を受講することをお勧めします。
+  - Microsoft Azure Essentialsコース、http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### モジュール 1&#58; ホワイトボードデザインセッション-Cloudネイティブアプリケーション
+  #### レッスン 
+  - お客様のケーススタディの確認
+  - 召喚状&#58; 概念実証ソリューションの設計
+  - 召喚状&#58; ソリューションの提示
+
+
+  ### モジュール 2&#58; ハンズオンラボ-Cloudネイティブアプリケーション
+  #### レッスン 
+  - Dockerアプリケーションを作成して実行
+  - ソリューションをAzure Kubernetes Serviceにデプロイ
+  - アプリケーションをスケーリングし、HAのテスト
+  - 負荷分散とサービス検出のセットアップ（インフラストラクチャエディション）
+  - サービスの操作とアプリケーショントラフィックのルーティング（開発者エディション）
