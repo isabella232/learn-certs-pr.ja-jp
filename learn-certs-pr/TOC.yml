@@ -74,6 +74,8 @@
   - name: 方針と契約
     expanded: false
     items:
+    - name: 認定有効期限ポリシー
+      href: certification-expiration-policy.md
     - name: 試験項目チャレンジプロセス
       href: exam-item-challenge-process.md
     - name: 試験セキュリティポリシー

@@ -27,13 +27,6 @@ roles:
 - administrator
 products:
 - azure
-- azure-stack
-- azure-stack-edge
-- azure-stack-hci
-- azure-stack-hub
-- azure-app-service
-- azure-event-hubs
-- azure-active-directory
 exams:
 - uid: exam.az-600
 summary: |-
@@ -49,9 +42,9 @@ prerequisitesSection: |-
   - ドメイン、フォレスト、ドメインコントローラーなどのアクティブディレクトリの概念の理解
   
   Azureとcloudコンピューティングを初めて使用する場合は、次のリソースのいずれかをご検討ください。
-  - 無料オンライン&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
-  - インストラクター主導のコース&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
-  - Azure管理者の前提条件(https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
+  - 無料オンライン&#58; Azure Fundamentals([http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/](http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/))
+  - インストラクター主導のコース&#58; AZ-900&#58; Azure Fundamentals([https://docs.microsoft.com/learn/certifications/courses/az-900t01](https://docs.microsoft.com/learn/certifications/courses/az-900t01))
+  - Azure管理者の前提条件([https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### モジュール 1&#58; Azure Stack Hubの概要
   このモジュールでは、Azure Stack HubがAzureの拡張機能であり、オンプレミス環境でアプリを実行し、データセンターでAzureサービスを提供する方法を提供する方法を学習して頂きます。
@@ -157,6 +150,6 @@ outlineSection: |-
   - インフラストラクチャバックアップのストレージターゲットの構成
   - Azure Stack Hubの更新
   - サポートセッションのロックの解除
-  - 特権エンドポインに接続
+  - 特権エンドポイントに接続
   - Test-Azure Stackを使用してシステム診断の実行
 

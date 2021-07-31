@@ -3,7 +3,6 @@ title: Designing and Implementing a Data Science Solution on Azure
 metadata:
   title: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
   description: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
-  iltScheduling: true
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
@@ -17,7 +16,6 @@ roles:
 - data-scientist
 products:
 - azure
-- azure-data-science-vm
 exams:
 - uid: exam.dp-100
 summary: |-
@@ -34,10 +32,11 @@ prerequisitesSection: |-
   - ScikitLearn、PyTorch、TensorFlowなどの一般的なフレームワークを使用した機械学習モデルのトレーニングと検証。
   
   これらの前提条件のスキルを習得するには、コースに参加する前に、次の無料のオンライントレーニングを受講してください&#58;
-  - [Microsoftクラウドの概念を探る](/learn/paths/explore-microsoft-azure-cloud-concepts/)。
-  - [機械学習モデルの作成](/learn/paths/create-machine-learn-models/)。
+  - [Microsoftクラウドの概念を探る](https://docs.microsoft.com/learn/paths/explore-microsoft-azure-cloud-concepts/)。
+  - [機械学習モデルの作成](https://docs.microsoft.com/learn/paths/create-machine-learn-models/)。
+  - [Azureでコンテナーを管理する](https://docs.microsoft.com/learn/paths/administer-containers-in-azure/)
   
-  データサイエンスと機械学習にまったく慣れていない場合は、最初に[Microsoft Azure AIの基礎](/learn/certifications/azure-ai-fundamentals)を完了してください。
+  データサイエンスと機械学習にまったく慣れていない場合は、最初に[Microsoft Azure AIの基礎](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals)を完了してください。
 outlineSection: |-
   ### モジュール 1&#58; Azure でのデータ サイエンスの実行
   学生は、データ サイエンス プロセスとデータ サイエンティストの役割について学びます。  次に、これを適用して、Azure サービスがデータ サイエンス プロセスをサポートおよび拡張する方法を理解します。
@@ -47,7 +46,7 @@ outlineSection: |-
   - Azure Notebooks の紹介
 
 
-  ### モジュール 2&#58; Azure Machine Learning サービスを使用したデータ サイエンスの実行
+  ### モジュール 2&#58; 機械学習用のビジュアルツール
   学生は、Azure Machine Learning サービス (AML) を使用して、データ サイエンス プロセスをエンドツーエンドで自動化する方法を学習します。
   #### レッスン
   - AML サービスの紹介

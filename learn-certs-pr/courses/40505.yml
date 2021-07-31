@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Internet of Things'
+metadata:
+  title: 'Course 40505-G: Microsoft Cloud Workshop: Internet of Things'
+  description: 'Course 40505-G: Microsoft Cloud Workshop: Internet of Things'
+uid: course.40505
+courseNumber: '40505-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: このワークショップの最後に、IoT Hub Device Provisioning Serviceへのデバイス登録を実装し、Power BIを使用してホットデータを視覚化するIoTソリューションをより適切に構築できるようになります。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このワークショップでは、スマートメーターから送信され、Azureで分析される高速データをシミュレートするエンドツーエンドのIoTソリューションの実装についてご説明します。ラムダアーキテクチャを設計し、テレメトリデータのサブセットをフィルタリングしてホットパスでリアルタイムに視覚化し、すべてのデータをコールドパスの長期ストレージに保存します。
+
+  #### オーディエンスプロフィール
+  このワークショップは、cloudテクノロジーのインフラストラクチャとソリューション設計のアーキテクチャに関する専門知識を持ち、「概要」と「習得したスキル」の領域で説明されているAzureとAzureサービスについて詳しく知りたいCloudアーキテクトとITプロフェッショナルを対象としています。このワークショップに参加する人は、他のMicrosoft以外のCloudテクノロジーの経験があり、コースの前提条件を満たし、Azureでクロストレーニングを行う必要があります。
+outlineSection: |-
+  ### モジュール 1&#58; ホワイトボードデザインセッション-モノのインターネット
+  #### レッスン
+  - お客様のケーススタディの確認
+  - 概念実証ソリューションの設計
+  - ソリューションの提示
+
+  ### モジュール 2&#58; ハンズオンラボ-モノのインターネット
+  #### レッスン 
+  - 環境設定
+  - IoT Hub のプロビジョニング
+  - Smart Meter Simulatorの完成
+  - Stream Analyticsによるホットパスデータ処理
+  - HDInsight Sparkを使用したコールドパスデータ処理
+  - IoT Hub Operations Monitoringを使用したデバイスの停止の報告

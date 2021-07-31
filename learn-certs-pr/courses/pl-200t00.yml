@@ -8,7 +8,7 @@ courseNumber: 'PL-200T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 組織と協力して要件を収集し、PowerPlatformソリューションの実装
+- skill: 組織と協力して要件を収集し、Microsoft Power Platformソリューションの実装
 - skill: モデル駆動型、キャンバス、ポータルアプリの構築
 - skill: パワーオートメートフローの作成
 - skill: Power VirtualAgentsを使用してシンプルなチャットボットの設計
@@ -19,34 +19,39 @@ locales:
 levels:
 - intermediate
 roles:
-- developer
+- functional-consultant
 products:
 - power-platform
 exams:
 - uid: exam.pl-200
 summary: |-
-  Power Platformは、組織がビジネスプロセスを自動化し、独自の豊富なアプリエクスペリエンスを開発し、顧客とより良く、より速く接続できるようにします。このコースで受講者は、発見の実行、要件の把握、対象分野の専門家と利害関係者の関与、要件の翻訳、およびPowerPlatformソリューションとアプリの構成について学習します。彼らは、ハンズオンラボで学習を補完し、アプリケーションの機能強化、カスタムユーザーエクスペリエンス、システム統合、データ変換、カスタムプロセスの自動化、およびカスタムの視覚化を作成します。 Power Platformは、Power Apps、Power Automate、Power BI、およびPower VirtualAgentの4つの主要製品で構成されています。このコースでは、Microsoft Dataverse (よくある Common Data Service)、AI Builder、コネクタ、ポータルに焦点を当てて、これら 4 つのアプリケーションを詳細に取り上げ、詳細に説明します。
+  Microsoft Power Platformは、組織がビジネスプロセスを自動化し、独自の豊富なアプリエクスペリエンスを開発し、顧客とのつながりをより良く、より速くすることを可能にします。このコースでは、受講者は、検出の実行、要件の取得、対象分野の専門家と利害関係者の関与、要件の翻訳、およびMicrosoft Power Platformソリューションとアプリの構成について学習します。彼らは、ハンズオンラボで学習を補完し、アプリケーションの機能強化、カスタムユーザーエクスペリエンス、システム統合、データ変換、カスタムプロセスの自動化、およびカスタムの視覚化を作成します。 Microsoft Power Platformは、Power Apps、Power Automate、Power BI、およびPower Virtual Agentsの4つの主要製品で構成されています。このコースでは、Microsoft Dataverse、AI Builder、コネクタ、ポータルにさらに焦点を当てながら、これら4つのアプリケーションについて詳しくご説明します。
 
-  #### 聴衆プロファイル
-  Power Platform機能コンサルタントは、検出の実行、要件の取得、対象分野の専門家と利害関係者の関与、要件の翻訳、およびPowerPlatformソリューションとアプリの構成を担当します。機能コンサルタントは、アプリケーションの機能強化、カスタムユーザーエクスペリエンス、システム統合、データ変換、カスタムプロセスの自動化、カスタムの視覚化など、ソリューションのコンポーネントを実装します。
+  #### オーディエンスプロフィール
+
+  Microsoft Power Platform Functional -
 prerequisitesSection: |-
-  - ITプロフェッショナルまたは学生としての経験
-  - PowerPlatformとその主要コンポーネントに関する実用的な知識
-  - Microsoft Dataverse (または一般的なデータ モデリング) とセキュリティの概念に関する知識
+  - ITプロフェッショナルまたは受講者としての経験
+  - Microsoft Power Platformとその主要コンポーネントに関する実用的な知識 
+  - &nbsp;Microsoft&nbsp;Dataverse（または一般的なデータモデリング）&nbsp;およびセキュリティの概念に関する知識
+
 outlineSection: |-
-  ### モジュール 1&#58; Power Platformの概要
-  このモジュールでは、Power Platformと、その4つの主要コンポーネントである&#58; Power Apps、Power Automate、Power BI、およびPower VirtualAgentに関する背景情報を学習者に提供します。
+  ### モジュール1&#58; Microsoft Power Platformの概要
+  このモジュールは、Microsoft Power Platformとその4つの主要コンポーネント（Power Apps、Power Automate、Power BI、およびPower Virtual Agents）に関する背景を受講者にご提供します。
+
   #### レッスン
-  - Power Platformの概要
+  - Microsoft Power Platformの概要
 
   #### ラボ &#58; ラボ環境の検証
+  ####
 
-  このモジュールを完了すると、受講者は次のことができるようになります&#58;
-  - Power Platformの主要コンポーネントの特定
-  - 機能コンサルタントの役割を説明
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Microsoft Power Platformの主要コンポーネントを特定
+  - 機能コンサルタントの役割の説明
 
-  ### モジュール 2&#58; 機能コンサルタントの役割
-  このモジュールでは、組織の Power Platform ソリューションを正しく実装するために必要な機能コンサルタントの役割とスキルについて詳しく説明します。
+
+  ### モジュール2&#58; 機能コンサルタントの役割
+  このモジュールでは、受講者は、機能コンサルタントの役割と、組織にMicrosoft Power Platformソリューションを正常に実装するために必要なスキルについて詳しく学習します。
 
   - コンサルタントスキルの概要
   - ドキュメントを作成および検証する
@@ -83,7 +88,7 @@ outlineSection: |-
   このモジュールを完了すると、受講者は次のことができるようになります&#58;
   - テーブル、列、行、およびリレーションシップについての理解
   - Dataverse でのデータ モデルの構成
-  - Power Platform 管理センター内の環境で作業する
+  - Microsoft PowerPlatform管理センター内の環境での作業
 
   ### モジュール 4&#58; パワーアプリの作成
   このモジュールでは、3種類のパワーアプリのビジネス価値を学びます。 その後、各タイプのアプリケーションのユーザーエクスペリエンスに関する考慮事項を含め、それらを構成および設計する方法を学習します。

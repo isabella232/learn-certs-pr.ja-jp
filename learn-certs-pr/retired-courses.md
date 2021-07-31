@@ -19,13 +19,18 @@ Microsoftは、業界の動向を継続的に監視し、テクノロジの変�
 
 ## 廃止されたコース: インストラクター主導のトレーニング
 
+* コースウェアは2021年7月30日に廃止されます。
+
+    | コース番号 | バージョン | タイトル | 言語 | 廃止日 |
+    | --- | --- | --- | --- | --- |
+    | DP-200T01 | A | Implementing an Azure Data Solution | 英語 | 2021年7月30日|
+    | DP-201T01 | A | Designing an Azure Data Solution | 英語 |  2021年7月30日 |
+
 * 2021年6月30日にコースウェアの廃止
 
     | コース番号 | バージョン | タイトル | 言語 | 退職日 |
     | --- | --- | --- | --- | --- |
     | AI-100T01 | A | Designing and Implementing an Azure AI Solution | 英語 | 6/30/2021 |
-    | DP-200T01 | A | Implementing an Azure Data Solution | 英語 | 6/30/2021 |
-    | DP-201T01 | A | Designing an Azure Data Solution | 英語 | 6/30/2021 |
     | MB-600T00 | A | Microsoft Dynamics 365 + Power Platform Solution Architect | 英語 | 6/30/2021 |
     | MB-901T00 | A | Microsoft Dynamics 365 Fundamentals | 英語 | 6/30/2021 |
     | AI-100T01JA | A | Designing and Implementing an Azure AI Solution | 日本語 | 6/30/2021 |

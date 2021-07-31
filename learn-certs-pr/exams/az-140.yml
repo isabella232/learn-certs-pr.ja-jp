@@ -1,32 +1,33 @@
 ### YamlMime:Examination
-title: 'Configuring and Operating Windows Virtual Desktop on Microsoft Azure (beta)'
+title: 'Configuring and Operating Microsoft Azure Virtual Desktop'
 metadata:
-  title: 'Exam AZ-140: Configuring and Operating Windows Virtual Desktop on Microsoft Azure (beta)'
-  description: 'Exam AZ-140: Configuring and Operating Windows Virtual Desktop on Microsoft Azure (beta)'
+  title: 'Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop'
+  description: 'Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop'
 uid: exam.az-140
 displayName: AZ-140
 summary: |-
-  このテストに値する候補者となるのはAzureでのあらゆるデバイス向けの仮想デスクトップエクスペリエンスとリモートアプリの計画、配信、および管理に関する専門知識を有するAzure管理者です。
+  この試験の候補者は、Azure上の任意のデバイスの仮想デスクトップエクスペリエンスとリモートアプリの計画、提供、および管理に関する専門知識を持つ管理者です。
   
-  このテストに値する候補者は仮想化、ネットワーキング、ID、ストレージ、バックアップ、復元力、およびディザスタリカバリなどのAzure技術での経験があるという方です。この候補者達は、Windows Virtual Desktopへの移行に関連するオンプレミスの仮想デスクトップインフラストラクチャテクノロジをよく理解している必要があります。この専門家達は色々なタスクを遂行するためにAzureのポルタルとAzure Resource Manager (ARM)テンプレートを使います。もっと効率的な自動化のためにPowerShellもAzure Command-Line Interface (CLI)も使う可能性があります。
+  この役割の責任には、仮想デスクトップエクスペリエンスとアプリをAzureにデプロイすることが含まれます。この役割の専門家は、Azure Virtual Desktopでアプリケーションを提供し、マルチセッション仮想環境で実行するようにアプリケーションを最適化します。これらのエクスペリエンスを提供するために、Microsoft 365 Administratorsとともに、Azure管理者およびアーキテクトと緊密に連携します。
   
-  このテストのための候補者はAzureのエキスパートレベルの管理スキルが必要です。
+  この試験の候補者は、仮想化、ネットワーキング、アイデンティティ、ストレージ、バックアップ、復元力、障害復旧などのAzureテクノロジーの経験が必要です。彼らは、Azure Virtual Desktopへの移行に関連するため、オンプレミスの仮想デスクトップインフラストラクチャテクノロジを理解する必要があります。これらの専門家は、AzureポータルとAzure Resource Managerテンプレートを使用して多くのタスクを実行します。この役割では、PowerShellとAzure Command-Line Interface (CLI)を使用して、より効率的な自動化を行うことができます。
   
-  <div><br/><font color='red'><strong>当社は質問とテストの品質についてのデータを集めているため、ベータテストはすぐに得点記録されなません。 <a href="/learn/certifications/beta-exams">ベータテストの価値と重要性についてもっと詳しく知りたい方はこちらへ</a>.</strong></font></div>
-subTitle: 'このテストでは、下記の技術的タスクを達成する能力を測定します。 Windows Virtual Desktop アーキテクチャを設計すること。 Windows Virtual Desktop インフラを実装すること。アクセス及びセキュリティを管理すること。ユーザ環境及びアプリを管理すること。 Windows Virtual Desktop インフラを監視および維持すること。'
+  この試験の受験者は、専門家のAzure管理スキルを持っている必要があります。
+subTitle: 'この試験では、次の技術的なタスクを実行する能力を測定します。Azure Virtual Desktop Architectureの計画、 Azure Virtual Desktop Infrastructureの実装、アクセスとセキュリティの管理、ユーザー環境とアプリの管理、 Azure Virtual Desktop infrastructureのモニタリングおよび維持。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFST
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-140&examname=Exam%20AZ-140:%20Configuring%20and%20Operating%20Windows%20Virtual%20Desktop%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-140
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-140&examname=Exam%20AZ-140:%20Configuring%20and%20Operating%20Azure%20Virtual%20Desktop&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-140
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Windows Virtual Desktopアーキテクチャを設計すること (10-15%)
-- Windows Virtual Desktop インフラを実装すること (25-30%)
-- アクセル及びセキュリティを管理すること (10-15%)
-- ユーザ環境及びアプリを管理すること (20-25%)
-- Windows Virtual Desktop インフラを監視および維持すること (20-25%)
+- '注：測定された各スキルの下に表示される箇条書きは、そのスキルをどのように評価しているかを説明することを目的としています。このリストは決定的または網羅的ではありません。'
+- Azure Virtual Desktop Architectureの計画（10-15％）
+- Azure Virtual Desktop Infrastructureの実装（25-30％）
+- アクセスとセキュリティの管理（10-15％）
+- ユーザー環境とアプリの管理（20-25％）
+- Azure Virtual Desktop Infrastructureのモニタリングと維持（20-25％）
 roles:
 - administrator
 products:
@@ -56,7 +57,7 @@ courses:
 - uid: course.az-140t00
 relatedCertifications:
 - related:
-    uid: certification.windows-virtual-desktop-specialty
+    uid: certification.azure-virtual-desktop-specialty
 resources:
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。

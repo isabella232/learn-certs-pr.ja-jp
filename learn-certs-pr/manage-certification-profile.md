@@ -55,10 +55,10 @@ Microsoft Certification試験を受けるには、Microsoft Certificationプロ�
 
 ### 英語のリクエスト
 
-[こちらのフォーム](https://aka.ms/MSCertificationLegalNamechange) を使用して、プロフィール名の変更要求を送信します。Microsoft Certificationプロフィールに含まれる情報を確認するよう求められます。現在、このフォームは英語でのみご利用いただけます。名前の変更には 24 ～ 48 営業時間かかります。
+[Microsoft Certification プロフィール名前変更リクエストフォーム](https://aka.ms/MSCertificationLegalNamechange)を使用して変更リクエストを提出してください。Microsoft認定プロフィールに含まれている情報を確認するように求められます。現在、このフォームは英語でのみご利用いただけます。お名前の変更には24-48営業時間かかりますので予めご了承ください。
 
 ### 英語以外の言語
-英語以外の言語での認定プロフィールの管理については、[認定サポート](/learn/certifications/help) にアクセスしてください。
+モデレート認定サポートフォーラムからリクエストを送信してください。英語以外の言語での認定プロフィールの管理については、[認定サポート](/learn/certifications/help)にアクセスしてください。
 
 ## Microsoft Certificationプロフィール ID 番号 (MCID) を見つけるには
 

@@ -6,6 +6,8 @@ metadata:
 uid: exam.pl-100
 displayName: PL-100
 summary: |-
+  <div><font color="red"><strong>この試験の内容は2021年7月23日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong></font><br/><br/></div>
+  
   アプリ メーカーは、ソリューション ドメインを熟知している自分とチームのために、タスクとプロセスを簡素化、自動化、変換するソリューションを構築します。データ モデリング、基本的な UX 設計、要件分析、プロセス分析などの主要なテクニカルビジネス アナリスト タスクに精通しています。<br/><br/>
 
   App Maker は、ビジネス プロセスを作成して適用し、情報のデジタル コレクションを構築し、繰り返し可能なタスクの効率を向上させ、ビジネス プロセスを自動化します。
@@ -13,7 +15,7 @@ summary: |-
   App Maker は、Power Platform の Maker ツールを使用してビジネス上の問題を解決します。Visual Basic for Applications、Excel ピボット テーブル、チーム、およびその他のツールの経験がある場合があります。データ モデル、ユーザー インターフェイス、プロセスについての基本的な知識が必要です。App Maker は、利用可能なツールの機能と制限を認識しており、それらを適用する方法を理解しています。
 
   App Makerは自己駆動型で、ソリューションに焦点を当てています。彼らは正式な IT トレーニングは受けていないかもしれませんが、テクノロジを使用して個人的な成長の考え方でビジネスの問題を解決することに慣れています。彼らは運用上の必要性を理解し、望ましい結果のビジョンを持っています。彼らは段階的かつ反復的な戦略で問題に取り組みます。
-subTitle: 'この試験では、ソリューションの設計、ソリューションの作成、データの分析、ソリューションの実装および管理などの技術的タスクを遂行する能力を評価します。'
+subTitle: 'この試験では、ソリューションの設計、ソリューションの作成、データの分析、ソリューションの実装と管理などの技術的タスクを達成する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -27,10 +29,11 @@ locales:
 levels:
 - intermediate
 skills:
-- ソリューションの設計 (10-15％)
-- ソリューションの作成 (55-60％)
-- データの分析および視覚化 (5-10％)
-- ソリューションの実装および管理 (15-20％)
+- この試験の内容は2021年7月23日に更新されます。以下の試験スキルの概要をダウンロードして、変更点をご確認ください。
+- 設計ソリューション（10-15％）
+- ソリューションの作成（50-55％）
+- データの分析（5-10％）
+- ソリューションの実装と管理（15-20％）
 roles:
 - business-analyst
 - business-owner

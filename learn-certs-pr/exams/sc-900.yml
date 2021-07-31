@@ -6,6 +6,8 @@ metadata:
 uid: exam.sc-900
 displayName: SC-900
 summary: |-
+  <div><font color='red'><strong>この試験の内容は2021年7月26日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong></font><br/><br/></div>
+  
   このテストはCloudベースおよび関連するMicrosoftサービス全体でのセキュリティ、コンプライアンス、及びアイデンティティの基礎 (SCI)に親しみたい方のためのものです。
   
   この幅広いターゲット層はビジネスの利害関係者、新規または既存のITプロフェッショナル、またはMicrosoftセキュリティ、コンプライアンス、及びアイデンティティ ソリューションに関心のある学生も含まれています。
@@ -14,6 +16,7 @@ summary: |-
 subTitle: 'このテストは下記のことを説明できるかを確認します。 セキュリティ, コンプライアンス、及びアイデンティティの概念すること。Microsoft アイデンティティの機能及び管理ソリューション。 Microsoft セキュリティ ソリューションの能力。 Microsoft コンプライアンス ソリューションの能力。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81
+practiceTestUrl: https://in.mindhub.com/sc-900-microsoft-security-compliance-and-identity-fundamentals-microsoft-official-practice-test/p/MU-SC-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
   - providerType: pearson-vue
     examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
@@ -33,6 +36,7 @@ locales:
 levels:
 - beginner
 skills:
+- この試験の内容は2021年7月26日に更新されます。以下の試験スキルの概要をダウンロードして、変更点をご確認ください。
 - セキュリティ、コンプライアンス、およびIDの概念を説明する (5-10%)
 - MicrosoftIDの機能を説明して、管理ソリューションをアクセスする (25-30%)
 - Microsoftセキュリティソリューションの機能を説明する (30-35%)

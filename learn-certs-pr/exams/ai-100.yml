@@ -6,9 +6,7 @@ metadata:
 uid: exam.ai-100
 displayName: AI-100
 summary: |-
-  <div>
-  <div><font color='red'><strong>この試験の新バージョン <a href='/learn/certifications/exams/ai-102'>AI-102</a>がご利用可能です。この試験は、2021年6月30日に終了するまで受験可能です。注：試験は、中部標準時の午後11時59分に終了します。</strong></font><br/><br/></div>
-  <div style='font-weight&#58; bold;'>この試験の内容は、2020 年 5 月 20 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。<br/><br/></div>
+  <div><div><font color="red"><strong>この試験は2021年6月30日に廃止されました。代替試験AI-102が利用可能です。詳細については、下記をご確認ください。 <a href='/learn/certifications/exams/ai-102'>AI-102</a> 試験の詳細ページ</strong></font><br/><br/></div>
   </div>
   
   認定資格の受験者は、認識サービス、機械学習、知識マイニングを使用して、自然言語処理、音声、コンピュータ ビジョン、会話型 AI を含む Microsoft AI ソリューションを設計および実装する専門知識が必要です。
@@ -21,7 +19,6 @@ summary: |-
 subTitle: 'この試験では、ソリューションの要求の分析、ソリューションの設計、AIモデルのソリューションへの統合、ソリューションの展開および管理という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-100
 locales:
 - en
 - ja
@@ -30,10 +27,10 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は、2020 年 5 月 20 日に更新されました。以下の試験スキルの概要をダウンロードして、これまでの変更点を確認してください。
 - ソリューション要件の分析(25-30%)
 - AIソリューションの設計 (40-45%)
 - AIソリューションの実装と監視 (25-30%)
+retirementDate: 06/30/2021
 roles:
 - ai-engineer
 products:
@@ -52,7 +49,7 @@ paths:
 - uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
 relatedCertifications:
 - related:
-    uid: certification.azure-ai-engineer
+    uid: none
 resources:
 - title: 認証への道のり
   description: Azure AI Engineer Associate として認定を受けるための手順と、準備に役立つリソースをご覧ください。

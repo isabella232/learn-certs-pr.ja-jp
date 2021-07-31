@@ -1,0 +1,77 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Virtual Desktop Specialty'
+metadata:
+  title: 'Microsoft Certified: Azure Virtual Desktop Specialty'
+  description: Azure Virtual Desktop Specialty認定の候補者は、Azure上の任意のデバイスの仮想デスクトップエクスペリエンスとリモートアプリの計画、提供、および管理に関する専門知識を持つMicrosoft Azure管理者です。
+uid: certification.azure-virtual-desktop-specialty
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: |-
+  Azure Virtual Desktop Specialty認定の候補者は、Azure上の任意のデバイスの仮想デスクトップエクスペリエンスとリモートアプリの計画、提供、および管理に関する専門知識を持つMicrosoft Azure管理者です。
+  
+  この役割の責任には、仮想デスクトップエクスペリエンスとアプリをAzureにデプロイすることが含まれます。この役割の専門家は、Windows Virtual Desktopでアプリケーションを提供し、マルチセッション仮想環境で実行するようにアプリケーションを最適化します。これらのエクスペリエンスを提供するために、Microsoft 365管理者とともに、Azure管理者およびアーキテクトと緊密に連携します。
+  
+  この認定資格の候補者は、仮想化、ネットワーキング、アイデンティティ、ストレージ、バックアップ、復元力、ディザスタリカバリなどのAzureテクノロジーの経験が必要です。彼らは、Windows Virtual Desktopへの移行に関連するため、オンプレミスの仮想デスクトップインフラストラクチャテクノロジを理解する必要があります。これらの専門家は、AzureポータルとAzure Resource Manager（ARM）テンプレートを使用して、多くのタスクを実行します。より効率的な自動化のために、PowerShellとAzure Command-Line Interface (CLI)を使用する場合があります。
+  
+  この認定資格の候補者は、専門家のAzure管理スキルを持っている必要があります。
+subTitle: Azure Virtual Desktop Specialty認定の候補者は、Azure上の任意のデバイスの仮想デスクトップエクスペリエンスとリモートアプリの計画、提供、および管理に関する専門知識を持つMicrosoft Azure管理者です。
+levels:
+- intermediate
+skills:
+- Azure Virtual Desktop Architectureの計画（10-15％）
+- Azure Virtual Desktop Infrastructureの実装（25-30％）
+- アクセスとセキュリティの管理（10-15％）
+- ユーザー環境とアプリの管理（20-25％）
+- Azure Virtual Desktop Infrastructureのモニタリングと維持（20-25％）
+roles:
+- administrator
+type: specialty
+products:
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- azure-virtual-machines
+- azure-virtual-machines-windows
+- azure-netapp-files
+- azure-files
+- azure-bastion
+- azure-portal
+- windows-server
+- azure-clis
+- azure-resource-manager
+- azure-rbac
+- azure-policy
+- azure-security-center
+- m365-security-center
+- mem
+- office-onedrive
+- office-teams
+- azure-monitor
+- azure-advisor
+- windows-virtual-desktop
+courses:
+- uid: course.az-140t00
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFTM
+exams:
+- uid: exam.az-140
+resources:
+- title: Azure 認定資格ポスター
+  description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 認定バッジを共有する
+  description: あなたのネットワークで達成を祝います。あなたの Microsoft Certification バッジを申請して LinkedIn や履歴書などに追加してください
+  href: ../badges.md
