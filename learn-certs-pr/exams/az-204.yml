@@ -9,7 +9,7 @@ summary: |-
   <div> <div> <font color='red'> <strong>この試験の内容は2021年3月26日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong> </font> <br/> <br/> </div>
   </div>
 
-  この認定資格の候補者は、1〜2年の専門能力開発の経験とMicrosoft Azureの経験が必要です。さらに、この役割の候補者は、Azureでサポートされている言語でプログラミングできる能力と、Azure SDK、Azure PowerShell、Azure CLI、データストレージオプション、データ接続、API、アプリの認証と承認、コンピューティングとコンテナーの展開、デバッグ、パフォーマンスチューニング、およびモニタリングに関して習熟している必要があります。 
+  この認定資格の候補者は、1-2年の専門能力開発の経験とMicrosoft Azureの経験が必要です。さらに、この役割の候補者は、Azureでサポートされている言語でプログラミングできる能力と、Azure SDK、Azure PowerShell、Azure CLI、データストレージオプション、データ接続、API、アプリの認証と承認、コンピューティングとコンテナーの展開、デバッグ、パフォーマンスチューニング、およびモニタリングに関して習熟している必要があります。 
 
   この認定試験に合格すると、ACEカレッジの単位を取得できる可能性がございます。詳細については、[認定試験のためのACEカレッジクレジット](/learn/certifications/ace-credit-for-certification-exams) をご参照ください。
 subTitle: '本試験では、以下の技術的タスクを遂行できる能力を査定します。Azure 計算ソリューションの開発、Azure ストレージの開発、Azure セキュリティの実装、Azure ソリューションの監視、トラブルシューティング、最適化、Azureサービスとサードパーティ サービスの接続と利用。
@@ -68,7 +68,6 @@ products:
 - azure-virtual-machines
 courses:
 - uid: course.az-204t00
-- uid: course.az-020t00
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together

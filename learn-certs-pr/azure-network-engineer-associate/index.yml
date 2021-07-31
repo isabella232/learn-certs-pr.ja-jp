@@ -1,0 +1,75 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Network Engineer Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Network Engineer Associate'
+  description: 'この認定は2021年7月にご利用可能となります。Azure Network Engineer Associate認定の候補者は、ハイブリッドネットワーキング、接続、ルーティング、セキュリティ、Azureサービスへのプライベートアクセスなど、Azureネットワーキングソリューションの計画、実装、および保守に関する専門知識を持っている必要があります。'
+uid: certification.azure-network-engineer-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Azure Network Engineer Associate認定の候補者は、ハイブリッドネットワーキング、接続、ルーティング、セキュリティ、Azureサービスへのプライベートアクセスなど、Azureネットワーキングソリューションの計画、実装、および保守に関する専門知識を持っている必要があります。
+  
+  この役割の責任には、Azureネットワーキングソリューションの推奨、計画、および実装が含まれます。この役割の専門家は、パフォーマンス、復元力、拡張性、およびセキュリティのソリューションを管理します。 Azure ポータルや、PowerShell、Azure Command-Line Interface (CLI)、Azure Resource Managerテンプレート（ARMテンプレート）などの他の方法を使用して、ネットワークソリューションをデプロイします。
+  
+  Azure Network Engineerは、ソリューションアーキテクト、cloud管理者、セキュリティエンジニア、アプリケーション開発者、DevOpsエンジニアと協力して、Azureソリューションを提供します。
+  
+  この認定資格の候補者は、ネットワーキング、ハイブリッド接続、およびネットワークセキュリティに関する豊富な経験と知識に加えて、専門家のAzure管理スキルを持っている必要があります。
+  
+  <div><font color='red'><br/><strong>この認定は2021年7月中旬に利用可能になります。</strong></font></div>
+subTitle: この認定は2021年7月にご利用可能となります。Azure Network Engineer Associate認定の候補者は、ハイブリッドネットワーキング、接続、ルーティング、セキュリティ、Azureサービスへのプライベートアクセスなど、Azureネットワーキングソリューションの計画、実装、および保守に関する専門知識を持っている必要があります。
+levels:
+- intermediate
+skills:
+- Microsoft Teamsの音声の問題のトラブルシューティング 
+- Microsoft Teamsの会議とライブイベントの問題のトラブルシューティング 
+- フェデレーションの問題のトラブルシューティング 
+- Microsoft Teamsへのサインインの問題のトラブルシューティング 
+- チームとチャネルのトラブルシューティング 
+- ファイルの問題のトラブルシューティング 
+roles:
+- network-engineer
+type: role-based
+products:
+- azure-ddos-protection
+- azure-dns
+- azure-application-gateway
+- azure-app-service
+- azure-expressroute
+- azure-firewall
+- azure-firewall-manager
+- azure-front-door
+- azure-kubernetes-service
+- azure-load-balancer
+- azure-monitor
+- azure-network-watcher
+- azure-private-link
+- azure-traffic-manager
+- azure-virtual-network
+- azure-virtual-wan
+- azure-vpn-gateway
+- azure-web-application-firewall
+- azure-virtual-network
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4OV0k
+exams:
+- uid: exam.az-700
+resources:
+- title: Azure 認定資格ポスター
+  description: Azure の基本、ロールベース、専門認定を含む概要を確認してください。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認定ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 資格のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 認定バッジを共有する
+  description: あなたのネットワークで達成を祝います。あなたの Microsoft Certification バッジを申請して LinkedIn や履歴書などに追加してください
+  href: ../badges.md

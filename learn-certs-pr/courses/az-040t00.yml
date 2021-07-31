@@ -1,0 +1,460 @@
+### YamlMime:Course
+title: 'Automating Administration with PowerShell '
+metadata:
+  title: 'Course AZ-040T00--A: Automating Administration with PowerShell '
+  description: 'Course AZ-040T00--A: Automating Administration with PowerShell '
+uid: course.az-040t00
+courseNumber: 'AZ-040T00'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Windows PowerShellの機能を説明し、それを使用して基本的なコマンドを実行および検索。
+- skill: ローカルシステム管理用のcmdletsを特定して実行。
+- skill: Windows PowerShellパイプラインの操作。
+- skill: PSProviderとPSDriveを使用して、他の形式のストレージの操作。
+- skill: WMIとCIMを使用してシステム情報の照会。
+- skill: 変数、配列、およびハッシュテーブルの操作。
+- skill: Windows PowerShellで基本的なスクリプトを記述。
+- skill: Windows PowerShellを使用してリモートコンピューターの管理。
+- skill: PowerShellを使用してAzureリソースの管理。
+- skill: PowerShellを使用してMicrosoft 365サービスの管理。
+- skill: バックグラウンドジョブとスケジュールされたジョブの使用。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+summary: |-
+  このコースでは、Windows PowerShellを使用してWindowsサーバーの管理と管理を自動化するための基本的な知識とスキルを受講者にご提供します。このコースでは、特定のタスクを実行するために必要なコマンドを特定して構築するスキルを受講者にご提供します。さらに、受講者は、反復タスクの自動化やレポートの生成などの高度なタスクを実行するためのスクリプトを作成する方法を学びます。このコースでは、Windows Server、Windows Client、Microsoft Exchange Server、Microsoft SharePoint Server、Microsoft SQL Server、Microsoft SystemCenterなどの幅広いMicrosoft製品をサポートする前提条件のスキルをご提供します。その目標に沿って、このコースではこれらの製品のいずれにも焦点を当てませんが、これらすべての製品に共通のプラットフォームであるWindows Serverは、このコースで教えるテクニックの例として機能します。
+
+  #### オーディエンスプロフィール
+
+  このコースは、一般的なWindows ServerおよびWindowsクライアントの管理の経験があり、管理にWindows PowerShellを使用する方法について詳しく知りたいITプロフェッショナルを対象としています。 Windows PowerShellのバージョンやスクリプト言語の使用経験はありません。このコースは、Exchange Server、SharePoint Server、SQL Server、システムセンターなどのサーバー管理の経験が豊富なITプロフェッショナルにも適しています。
+outlineSection: |-
+  ### モジュール1&#58;Windows PowerShellの使用を開始する
+
+  このモジュールでは、Windows PowerShellを紹介し、製品の機能の概要をご説明します。このモジュールでは、Windows PowerShellを開いて構成する方法についてご説明します。また、コマンドを実行し、Windows PowerShellに組み込まれているヘルプシステムを使用する方法についてもご説明します。
+
+  #### レッスン
+
+  * Windows PowerShellの概要
+
+  * Windows PowerShellコマンド構文の理解
+
+  * Windows PowerShellでコマンドを検索してヘルプを得る
+
+
+  #### ラボ &#58; Windows PowerShellコンソールアプリケーションの構成
+
+  ####
+
+  #### ラボ &#58; Windows PowerShellISEアプリケーションの構成
+
+  ####
+
+  #### ラボ &#58; Windows PowerShellコマンドの検索と実行
+
+  ####
+
+  #### ラボ &#58; ヘルプファイルとバージョン情報ファイルの使用
+
+  ####
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  * 　Windows PowerShellを開いて構成。
+
+  * 　Windows PowerShellコマンドを検出、学習、および実行。
+
+  * 特定のタスクを実行するためのWindows PowerShellコマンドを検索。
+
+
+  ### モジュール2&#58;ローカルシステム管理用のWindows PowerShell
+
+  このモジュールでは、システム管理に一般的に使用されるさまざまなタイプのcmdletsをご紹介します。タスクを実行する必要があるたびにcmdletsを検索できますが、少なくともこれらのcmdletsの基本を理解している方が効率的です。このモジュールでは、Windows10でWindows PowerShellをインストールして使用を開始する方法についてもご説明します。
+
+  #### レッスン
+
+  *  Active Directoryドメインサービス管理cmdlets
+
+  * ネットワーク構成cmdlets
+
+  * サーバー管理cmdlets
+
+  *  Windows10のWindows PowerShell
+
+
+  #### ラボ &#58; ウェブサイトの作成
+
+  ####
+
+  #### ラボ &#58; Windows Serverでのネットワーク設定の構成
+
+  ####
+
+  #### ラボ &#58; Active Directoryオブジェクトの作成と管理
+
+  ####
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  *  AD DS管理用のcmdletsを特定して使用。
+
+  * ネットワーク構成用のcmdletsを特定して使用。
+
+  * サーバー管理タスクのcmdletsを特定して使用。
+
+  *  Windows10にWindows PowerShellをインストールして使用。
+
+  
+  ### モジュール3&#58;Windows PowerShellパイプラインの操作
+
+  このモジュールでは、Windows PowerShellのパイプライン機能を紹介します。パイプライン機能は、Windowsオペレーティングシステムのコマンドプロンプトなど、いくつかのコマンドラインシェルに含まれています。ただし、Windows PowerShellのパイプライン機能は、他のシェルと比較して、より複雑で、柔軟性があり、機能が豊富な機能を提供します。このモジュールは、Windows PowerShellをより効果的かつ効率的に使用するのに役立つスキルと知識をご提供します。
+
+  #### レッスン
+
+  *　パイプラインを理解
+
+  *　オブジェクトの選択、並べ替え、測定
+
+  *　パイプラインからオブジェクトをフィルタリング
+
+  *　パイプライン内のオブジェクトを列挙
+
+  * パイプラインデータを出力として送信および渡す
+
+
+  #### ラボ &#58; データの選択、並べ替え、表示
+
+  ####
+
+  #### ラボ &#58; オブジェクトのフィルタリング
+
+  ####
+
+  #### ラボ &#58; オブジェクトの列挙
+
+  ####
+
+  #### ラボ &#58; オブジェクトの変換
+
+  ####
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  * 　Windows PowerShellパイプラインの目的を説明。
+
+  *　パイプライン内のオブジェクトを選択、並べ替え、測定。
+
+  *　パイプラインからオブジェクトをフィルタリング。
+
+  *　パイプライン内のオブジェクトを列挙。
+
+  * パイプラインデータで構成される出力を送信。
+
+
+  ### モジュール4&#58;PSProviders と PSDrivesの使用
+
+  このモジュールでは、PSProviders とPSDrivesアダプターをご紹介します。PSProviderは、基本的にWindows PowerShellアダプターであり、何らかの形式のストレージをディスクドライブに似せます。 PSDriveは、ある形式のストレージへの実際の接続です。これらの2つのアダプターを使用して、ファイルシステムの管理に使用するのと同じコマンドと手法を使用して、さまざまな形式のストレージを操作できます。
+
+  #### レッスン
+
+  * PSProvidersの使用
+
+  * PSDriveの使用
+
+
+  #### ラボ &#58; 新しいActive Directoryグループの作成
+
+  ####
+
+  #### ラボ &#58; 将来のスクリプト用のレジストリキーの作成
+
+  ####
+
+  #### ラボ &#58; リモートコンピューターでファイルとフォルダーを作成
+
+  ####
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  * PSProvidersを使用。
+
+  * PSDrivesを使用。
+
+
+  ### モジュール5&#58;CIMとWMIを使用した管理情報のクエリ
+
+  このモジュールでは、Windows Management Instrumentation（WMI）とCommon Information Model（CIM）の2つの並列テクノロジをご紹介します。これらのテクノロジはどちらも、オペレーティングシステム、コンピュータハードウェア、およびインストールされているソフトウェアから利用できる堅牢な情報へのアクセスを含む、管理情報のリポジトリへのローカルおよびリモートアクセスをご提供します。
+
+  #### レッスン
+
+  *　 CIMとWMIを理解
+
+  * 　CIMとWMIを使用してデータをクエリ
+
+  * 　CIMとWMIを使用して変更を加える
+
+
+  #### ラボ &#58; WMIを使用した情報のクエリ
+
+  ####
+
+  #### ラボ &#58; CIMを使用した情報のクエリ
+
+  ####
+
+  #### ラボ &#58; メソッドの呼び出し
+
+  ####
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  *　 コモンインフォメーションモデルとWindows Management Instrumentation.を区別。
+
+  * 　CIMとWMIを使用して管理情報を照会。
+
+  * 　CIMとWMIを使用してメソッドの呼び出し。
+
+
+  ### モジュール6&#58;変数、配列、ハッシュテーブルの操作
+
+  このモジュールは、Windows PowerShellで変数、配列、およびハッシュテーブルの使用ために必要なスキルと知識をご提供します。
+
+  #### レッスン
+
+  *　変数の使用
+
+  *　変数の操作
+
+  *  配列とハッシュテーブルの操作
+
+
+  #### ラボ &#58; ハッシュテーブルの使用
+
+  ####
+
+  #### ラボ &#58; 配列の使用
+
+  ####
+
+  #### ラボ &#58; 変数タイプの操作
+
+  ####
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  * 変数に値を割り当て。
+
+  * 変数の操作方法を説明。
+
+  * 配列とハッシュテーブルの操作方法を説明。
+
+
+  ### モジュール7&#58;Windows PowerShellスクリプト
+
+  このモジュールでは、Windows PowerShellコマンドをスクリプトにパッケージ化する方法についてご説明します。スクリプトの使用と、単一のコマンドでは実行できない反復的なタスクやより複雑なタスクを実行できます。
+
+  #### レッスン
+
+  *  Windows PowerShellを使用したスクリプトの概要
+
+  *　スクリプト構成
+
+  *　ファイルからデータをインポート
+
+  *　ユーザー入力の受け入れ
+
+  *　トラブルシューティングとエラー処理
+
+  *  関数とモジュール
+
+  #### ラボ &#58; スクリプトに署名
+
+  ####
+
+  #### ラボ &#58; ForEachループを使用して配列の処理
+
+  ####
+
+  #### ラボ &#58; Ifステートメントを使用したアイテムの処理
+
+  ####
+
+  #### ラボ &#58; CSVファイルに基づいたユーザーの作成
+
+  ####
+
+  #### ラボ &#58; リモートコンピューターからのディスク情報のクエリ
+
+  ####
+
+  #### ラボ &#58; 代替クレデンシャルを使用するためにスクリプトを更新
+
+  ####
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  * 　Windows PowerShellスクリプトの実行。
+
+  * 　Windows PowerShellスクリプト構造の使用。
+
+  *　ファイルからデータをインポート。
+
+  *　ユーザー入力の取得。
+
+  *　スクリプトのトラブルシューティングを行い、エラーアクションを理解。
+
+  * 関数とモジュールの作成。
+
+
+  ### モジュール8&#58;Windows PowerShellを使用したリモートコンピューターの管理
+
+  このモジュールでは、1つ以上のリモートコンピューターに接続して、ユーザーに代わってコマンドを実行するように指示できるWindows PowerShellリモート処理テクノロジをご紹介します。
+
+  #### レッスン
+
+  * 基本的なWindows PowerShellリモート処理の使用
+
+  * 高度なWindows PowerShellリモート処理技術の使用
+
+  * PSSessionsの使用
+
+
+  #### ラボ &#58; 複数のコンピューターの管理
+
+  ####
+
+  #### ラボ &#58; 暗黙的なリモート処理の使用
+
+  ####
+
+  #### ラボ &#58; 1対多数のリモート処理の実行
+
+  ####
+
+  #### ラボ &#58; 1対1のリモーティングの実行
+
+  ####
+
+  #### ラボ &#58; ローカルコンピューターでリモート処理を有効化
+
+  ####
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  *　リモーティングアーキテクチャとセキュリティについての説明。
+
+  *　高度なリモーティング技術の使用。
+
+  * 永続的なリモートセッションを作成および管理。
+
+
+  ### モジュール9&#58;PowerShellを使用したAzureリソースの管理
+
+  このモジュールは、AzurePowerShellに関する情報をご提供します。また、Azure Cloud　Shellもご紹介します。 PowerShellを使用してAzure VMsを管理する方法についてご説明します。このモジュールでは、AzurePowerShellを使用してストレージとAzureサブスクリプションを管理する方法についてもご説明します。
+
+  #### レッスン
+
+  *  Azure PowerShell
+
+  *  Azure Cloud Shellを導入
+
+  *  PowerShellを使用してAzure VMsの管理
+
+  * ストレージとサブスクリプションの管理
+
+
+  #### ラボ &#58; AzurePowerShellモジュールのインストール
+
+  ####
+
+  #### ラボ &#58; Cloud Shellのインストール
+
+  ####
+
+  #### ラボ &#58; Azure PowerShellを使用したAzureリソースの管理
+
+  ####
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  * このモジュールを完了すると、受講者は次のことができるようになります。
+
+  *  Azure Cloud Shellの使用。
+
+  *  PowerShellを使用してAzure VMsを管理。
+
+  * ストレージとサブスクリプションを管理。
+
+
+  ### モジュール10&#58;PowerShellを使用したMicrosoft 365サービスの管理
+
+  このモジュールでは、PowerShellを使用してMicrosoft 365ユーザーアカウント、ライセンス、グループ、Exchange Online、SharePoint Online、およびMicrosoftTeamsを管理する方法についてご説明します。
+
+  #### レッスン
+
+  *  PowerShellを使用してMicrosoft 365ユーザーアカウント、ライセンス、およびグループを管理
+
+  *  PowerShellを使用してExchangeOnlineを管理
+
+  *  PowerShellを使用してSharePointOnlineを管理
+
+  *  PowerShellを使用してMicrosoftTeamsを管理
+
+
+  #### ラボ &#58; Windows PowerShellを使用したExchange Onlineリソースの管理
+
+  ####
+
+  #### ラボ &#58; Windows PowerShellを使用したSharePointOnlineの管理
+
+  ####
+
+  #### ラボ &#58; Windows PowerShellを使用したMicrosoft 365ユーザーおよびグループオブジェクトの管理
+
+  ####
+
+  #### ラボ &#58; Windows PowerShellを使用したMicrosoft 365への接続
+
+  ####
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  *  PowerShellを使用してMicrosoft 365ユーザーアカウント、ライセンス、およびグループを管理。
+
+  *  PowerShellを使用してExchangeOnlineを管理。
+
+  *  PowerShellを使用してSharePointOnlineを管理。
+
+  *  PowerShellを使用してMicrosoftTeamsを管理。
+
+
+  ### モジュール11&#58;バックグラウンドジョブとスケジュールされたジョブの使用
+
+  このモジュールでは、バックグラウンドジョブとスケジュールされたジョブの使用方法についてご説明します。また、スケジュールジョブを作成し、ジョブの結果を取得する方法についてもご説明します。
+
+  #### レッスン
+
+  * バックグラウンドジョブの使用
+
+  * スケジュールされたジョブの使用
+
+
+  #### ラボ &#58; ジョブの開始と管理
+
+  ####
+
+  #### ラボ &#58; スケジュールされたジョブの作成
+
+  ####
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  * バックグラウンドジョブを作成して使用。
+
+  * スケジュールジョブを作成して使用。

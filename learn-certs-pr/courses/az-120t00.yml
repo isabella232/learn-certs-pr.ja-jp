@@ -8,10 +8,11 @@ courseNumber: 'AZ-120T00-A'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Azure への移行および SAP HANA、S/4HANA、SAP NetWeaver
-- skill: Azure Portal、Cloud Shell、Azure PowerShell、CLI、および Resource Manager を活用する
-- skill: VNet Peering や VNet間接続などのサイト間接続機能を使用する
-- skill: Azure Active Directory ‘AAD) と Azure AD Connect を使用する
+- skill: SAP WorkloadsをAzureに移行
+- skill: SAP WorkloadsをサポートするAzureソリューションの設計
+- skill: SAP Workloads用のAzure構築とデプロイ
+- skill: SAP Workloads用のAzureインフラストラクチャの検証
+- skill: Azure SAP Architectureの運用化
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -19,7 +20,6 @@ levels:
 - advanced
 roles:
 - solution-architect
-- devops-engineer
 products:
 - azure
 exams:
@@ -30,25 +30,32 @@ summary: |-
   #### 聴衆プロファイル
   このコースは、Azure で SAP ソリューションを移行および管理する Azure 管理者向けです。Azure 管理者は、ストレージ、ネットワーク、およびコンピューティング クラウド機能にまたがるクラウドサービスを管理し、IT ライフサイクル全体にわたって各サービスを深く理解しています。新しいクラウド アプリケーションに対するエンドユーザーの要求を受け取り、最適なパフォーマンスとスケール、および必要に応じてプロビジョニング、サイズ設定、監視、調整を行うために使用するサービスを推奨します。このロールには、ベンダーとのコミュニケーションおよび調整が必要です。Azure Administrator は、Azure Portal を使用し、熟練を重ねるにつれて、PowerShell と Command Line Interface を使用するようになります。
 prerequisitesSection: |-
-  受講者は、Linuxオペレーティングシステム、仮想化、クラウドインフラストラクチャ、ストレージ構造、およびネットワーキングに関する以前の経験を持つSAPアプリケーションの実装、移行、および管理に関する確かな知識を身につけている必要があります。具体的には&#58;
+  このコースに参加する前に、受講者は次のことを行う必要があります。
 
-  前提条件の経験&#58;
+  * VM、VNet、Load Balancers、ストレージ（ブロブ、ファイル、ディスク）を含むAzureIaaSおよびPaaSソリューションの実務経験。
 
-  - VM、VNet、ロードバランサー、ストレージ（Blob、ファイル、ディスク）を含むAzureIaaSおよびPaaSソリューションの実務経験。
-  - VM、仮想ネットワーク、仮想ハードディスクなどのオンプレミスおよびクラウド仮想化テクノロジーの理解。
-  - TCP/IP、ドメインネームシステム（DNS）、仮想プライベートネットワーク（VPN）、ファイアウォール、暗号化技術などのネットワーク構成の理解。
-  - ActiveDirectoryの概念の理解
-  - Linux/Unix環境の経験。
-  - SAPアプリケーション、SAP HANA、S/4HANA、SAP NetWeaver、SAP BW、SAPアプリケーションおよびデータベース用のOSサーバーに関する確かな知識。
-  - SAP HANAの展開と構成についての理解。
-  - SAP HANA管理の実務経験
+  * オンプレミスおよびcloud仮想化テクノロジー（VMs、仮想ネットワーク、仮想ハードディスクなど）の理解。
+
+  * TCP/IP、Domain Name System (DNS)、仮想プライベートネットワーク（VPNs）、ファイアウォール、暗号化技術などのネットワーク構成の理解。
+
+  * Active Directoryの概念の理解
+
+  * Linux/Unix環境での経験。
+
+  * SAPアプリケーション、SAP HANA、S/4HANA、 SAP NetWeaver、 SAP BW、 OS&nbspに関する確かな知識SAPアプリケーションおよびデータベース用のサーバー。
+
+  * SAP HANAの展開と構成についての理解。
+  
+  * SAP HANA管理の実務経験。
+
   前提条件のコース（または同等の知識と実践的な経験）&#58;
-  - AZ-900Azureの基礎
-  - AZ-104Azure管理者
+  * AZ-900 Azure Fundamentals
+  * AZ-104 Azure Administrator
+  * AZ-303 Microsoft Azure Architect Technologies（推奨）
 outlineSection: |-
   ### モジュール 1&#58; SAPワークロード用Azureの概要
 
-  受講者は、MicrosoftとSAPのパートナーシップについて学び、 SAPワークロード用Azureの概要を探索し、一般的な用語と意味を学びます。
+  受講者は、MicrosoftとSAPのパートナーシップについて学び、SAP workloads用のAzureの概要を調べ、Microsoftコンポーネントを評価し、一般的な用語と意味を学びます。
   
   ### モジュール 2&#58; SAPワークロード用Azureの基礎
   
@@ -66,21 +73,21 @@ outlineSection: |-
 
   AzureVM上のAnyDBを使用したSAPNetWeaver、およびAzureVM上のSAPS4HANAに関するレッスンが含まれています。
 
-  ### モジュール 5&#58; Azure の SAP ソリューションの実装計画
+  ### モジュール 5&#58; AzureにSAPソリューションを実装するための計画
   
   Azure VMのコンピューティング、ネットワーク、およびストレージに関する考慮事項、Azure VMの高可用性と障害回復に関する考慮事項、Azure VMバックアップに関する考慮事項、Azure VM監視に関する考慮事項、Azure VMセキュリティに関する考慮事項、Azure VM認証とアクセス制御に関する考慮事項、およびAzure VMライセンスに関する価格設定、およびサポートに関する考慮事項がレッスンに含まれています。
 
-  ### モジュール 6&#58; SAP ワークロードの Azure への移行計画
+  ### モジュール 6&#58; SAP workloadsをAzureに移行するための計画
   
   SAP システムを Microsoft Azure および SAP に移行するための戦略に関するレッスンとワークロードの計画と展開のチェックリストが含まれています。
 
-  ### モジュール 7&#58; Azure VM ベースの SAP ソリューションの実装
+  ### モジュール 7&#58; Azure VMベースのSAPソリューションの実装
   
   Azure VMの展開方法、単一インスタンスの実装（2層および3層）、AzureVMでのAnyDBを使用したHASAP NetWeaverの実装、AzureVMでのHASAP HANAの実装、SAP用のAzure Enhanced Monitoring Extensionの構成、およびADとAzureADベースの認証の実装に関するレッスンが含まれています。
 
-  #### ラボ&#58; Online ラボ&#58;Linuxを実行するAzure VMにSAPアーキテクチャを実装
+  #### ラボ &#58; オンラインラボ：Windowsを実行しているAzure VMsにSAPアーキテクチャを実装
 
-  #### ラボ&#58; Online ラボ&#58; Windowsを実行するAzure VMにSAPアーキテクチャを実装
+  #### ラボ &#58; オンラインラボ：Linuxを実行しているAzure VMsにSAPアーキテクチャを実装
 
   ### モジュール 8&#58; Azure 上のSAP HANA （大規模なインスタンス) (HLI)
   

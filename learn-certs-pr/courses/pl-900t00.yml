@@ -8,11 +8,11 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Power Platformコンポーネントについての説明
+- skill: Microsoft Power Platformコンポーネントについての説明
 - skill: Microsoft Dataverse、コネクター、AIビルダーについての説明
 - skill: M365、Dynamics 365、Microsoft Azure、およびサードパーティサービス全体のクロスクラウドシナリオについての説明
-- skill: Power Platformの利点と機能の特定
-- skill: 基本的な機能とビジネスバリューを持ったPowerPlatformコンポーネントの特定
+- skill: Microsoft Power Platformの利点と機能の特定
+- skill: Microsoft Power Platformコンポーネントの基本的な機能とビジネス価値の特定
 - skill: Power Apps、Power Automate、Power BI、かつPower Virtual Agentsを使用してシンプルなソリューションの実装
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -20,13 +20,13 @@ locales:
 levels:
 - beginner
 roles:
-- developer
+- student
 products:
 - power-platform
 exams:
 - uid: exam.pl-900
 summary: |-
-  Power Platformのビジネス価値と製品機能を学びます。シンプルなPower Appsを作成し、Dataverseでデータを接続し、Power BI Dashboardを構築し、Power Automateでプロセスを自動化し、Power Virtual Agentsでチャットボットを構築します
+  Microsoft Power Platformのビジネス価値と製品機能について学びます。シンプルなPower Appsを作成し、Dataverseでデータを接続し、Power BIダッシュボードを構築し、Power Automateでプロセスを自動化し、Power Virtual Agentsでチャットボットを構築します。
 
   #### 聴衆プロファイル
 
@@ -34,18 +34,21 @@ summary: |-
 prerequisitesSection: |-
   このコースのための前提条件はありません。
 outlineSection: |-
-  ### モジュール 1&#58; Power Platformの紹介
-  Power Platformのコンポーネント、データを接続する方法、および組織がこのテクノロジーを活用してビジネスソリューションを作成する方法について学習します。
-  #### レッスン -パワープラットフォームの概要
+  ### モジュール1&#58;Microsoft Power Platformの概要
+  Microsoft Power Platformのコンポーネント、データを接続する方法、および組織がこのテクノロジを活用してビジネスソリューションを作成する方法についてご説明します。
+
+  #### レッスン
+  - Microsoft Power Platformの概要
   - モジュールの概要
 
-  このモジュールを完了すると、受講者は次のことができるようになります&#58;
-  - 各Power Platformコンポーネントアプリケーションを使用してビジネスソリューションを作成するタイミングの特定
-  - Power Platformを使用してビジネスソリューションを作成することの価値を学ぶこと
-  - Power Platformのコンポーネントと機能を学ぶこと
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - v各Microsoft Power Platformコンポーネントアプリケーションを使用してビジネスソリューションを作成するタイミングを特定
+  - Microsoft Power Platformを使用してビジネスソリューションを作成することの価値を学習
+  - Microsoft Power Platformのコンポーネントと機能を学習
 
-  ### モジュール 2&#58;  Microsoft Dataverseの概要
-  Dataverseを使用すると、Cloud内の強力でスケーラブルなデータソリューションを詳しく調べることができます。 Dataverseが機能する理由と、DataverseがPower Platformと連携して、独自の効率的なビジネスソリューションを作成する方法を学びます。
+
+  ### モジュール2&#58;Microsoft Dataverseの概要
+  Dataverseを使用すると、cloud内の強力でスケーラブルなデータソリューションを詳しく調べることができます。 Dataverseが機能する理由と、それがMicrosoft Power Platformと連携して、独自の効率的なビジネスソリューションを作成する方法を学びます。
   #### レッスン
   - Microsoft Dataverseの概要
   - モジュールの概要

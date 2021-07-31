@@ -7,8 +7,6 @@ uid: certification.azure-ai-engineer
 certificationRenewalUid: renewal.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong><a href='/learn/certifications/exams/ai-102'>AI-102のテスト</a> はAI-100テストを置き換えます。 AI-100は2021年6月30日に消えます。</strong></font><br/><br/></div>
-  
   Azure AI Engineer Associate認定の候補者はAzure Cognitive Services、 Azure Cognitive Search、 及びMicrosoft Bot Frameworkを使うAIソリューションの構築、管理、および展開に関する専門知識を有する必要があります。
   
   その責任は要件の定義と設計から開発、展開、保守、パフォーマンスチューニング、および監視までのAIソリューション発展のあらゆる段階に参加することです。
@@ -16,11 +14,6 @@ summary: |-
   Azure AI Engineersはソリューションアーキテクトと一緒に自分の構想を実現し、 データサイエンティスト、データエンジニア、IoTスペシャリスト、及びAI開発者と一緒に完全なエンドツーエンドのAIソリューションも構築します。
   
   この認定のための候補者はC#、Python、それともJavaScriptを上手に使える必要があって、Azureでのコンピュータビジョン、自然言語処理、知識マイニング、及び会話AIソリューションを作るためにRESTに基づいているAPIとSDKを使える必要もあります。その上に、Azure AIのポートフォリオを構成する部分及び利用可能なデータストレージオプションもきちんと理解する必要があります。そして、候補者は倫理的なAIの原則を知り、適用できる必要もあります。
-  
-  <div><br/><strong>下記の選択肢の一つを完了すると、この認定を得ます&#58;</strong><br/>
-  <ul>
-  <li><a href="/learn/certifications/exams/ai-100">AI-100</a> (2021年6月30に消える) <strong>それとも</strong></li>
-  <li><a href="/learn/certifications/exams/ai-102">AI-102</a> (2021年2月23日にリリースされたベータ版)</li></ul></div>
 subTitle: Azure AIエンジニアは、 Azure Cognitive Services、Azure Cognitive Search、およびMicrosoft Botフレイムワークを活用するAIソリューションを構築、管理、および展開しております。
 levels:
 - intermediate

@@ -7,7 +7,7 @@ uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'>EXAM DP-203</a>はDP-200 AND DP-201のテストを置き換えます。DP-200及びDP-201は2021年6月30日に消えます。</strong></font><br/><br/></div>
+  <div> <font color = 'red'> <strong> <a href='/learn/certifications/exams/dp-203'> EXAM DP-203 </a>は、EXAMSDP-200とDP-201を置き換えています。 DP-200とDP-201は2021年8月31日に廃止されます。</strong> </font> <br/> <br/> </div>
   
   Azure Data Engineer Associateの認定のための候補者はさまざまな構造化および非構造化データシステムからのデータを、分析ソリューションの構築に適した構造に統合、変換、および統合する対象分野の専門知識を有する必要があります。
   
@@ -19,7 +19,7 @@ summary: |-
   
   <div><br/><strong>下記の選択肢の一つを完了すると、この認定を得ます&#58;</strong><br/>
   <ul>
-  <li>合格する <a href="/learn/certifications/exams/dp-200">DP-200</a> 及び <a href="/learn/certifications/exams/dp-201">DP-201</a> (2021年6月30日に消える) <strong>それとも</strong></li>
+  <li> <a href="/learn/certifications/exams/dp-200"> DP-200 </a>と<ahref = "/learn/certifications/exams/dp-201"> DP-201 <に合格します。</a>（2021年8月31日に廃止）<strong>または</strong> </li>
   <li>合格する <a href="/learn/certifications/exams/dp-203">DP-203</a> (2021年2月23日にリリースされたベータ版)</li></ul></div>
 subTitle: Azureデータエンジニアによって、様々な構造化データシステムと非構造化データシステムのデータを、分析ソリューションの構築に適した構造に統合、変換、強化することができます。
 levels:

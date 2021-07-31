@@ -1,0 +1,42 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Big Data &amp; Visualization'
+metadata:
+  title: 'Course 40502-G: Microsoft Cloud Workshop: Big Data &amp; Visualization'
+  description: 'Course 40502-G: Microsoft Cloud Workshop: Big Data &amp; Visualization'
+uid: course.40502
+courseNumber: '40502-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: このワークショップの最後に、Azure Databricksで完全な機械学習モデルを構築して、次のフライトで遅延が発生するかどうかを予測できるようになります。さらに、トレーニング済みモデルをAzure Machine Learning Model Managementに保存し、Dockerコンテナーにデプロイしてスケーラブルなオンデマンド予測を行い、Azure Data Factory(ADF)を使用してデータの移動とMLスコアリングを運用し、Azure Databricksでデータの要約方法を学習します。およびSpark SQLを使用し、Power BIを使用してマップ上でバッチ予測を視覚化します。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  このワークショップでは、機械学習(ML) を使用してウェブアプリをデプロイし、フライト遅延データと気象条件を考慮して旅行遅延を予測します。一括データインポート操作を計画し、その後、テスト用のデータのクリーニングと操作、機械学習モデルのトレーニングなどの準備を行います。
+
+  #### オーディエンスプロフィール 
+  このワークショップは、Cloudテクノロジーのインフラストラクチャとソリューション設計のアーキテクチャに関する専門知識を持ち、「概要」と「習得したスキル」の領域で説明されているAzureとAzure servicesについて詳しく知りたいCloudアーキテクトとITプロフェッショナルを対象としています。このワークショップに参加する人は、他のMicrosoft 以外のcloudテクノロジーの経験があり、コースの前提条件を満たし、Azureでクロストレーニングを行う必要があります。
+outlineSection: |-
+  ### モジュール 1&#58; ホワイトボードデザインセッション-ビッグデータと視覚化
+  ####レッスン 
+  - お客様のケーススタディを確認 
+  - 概念実証ソリューションを設計 
+  - ソリューションを提示
+
+  ### モジュール 2&#58; ハンズオンラボ-ビッグデータと視覚化 
+  ####レッスン 
+  - 機械学習モデルの構築 
+  - Azure Data Factoryをセットアップ 
+  - Azure MLを使用して機械学習モデルをデプロイ 
+  - データ移動用のデータファクトリパイプラインを開発 
+  - Azure DatabricksとData Factoryを使用してMLスコアリングを運用可能に
+  - Azure Databricksを使用してデータの要約
+  - Power BI Desktopでの視覚化 
+  - インテリジェントなウェブアプリをデプロイ

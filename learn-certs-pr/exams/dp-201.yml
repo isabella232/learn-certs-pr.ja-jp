@@ -7,7 +7,7 @@ uid: exam.dp-201
 displayName: DP-201
 summary: |-
   <div>
-  <div><font color='red'><strong>この試験の新バージョン<a href='/learn/certifications/exams/dp-203'>DP-203</a>がご利用可能です。この試験は、2021年6月30日に終了するまで受験可能です。注：試験は、中部標準時の午後11時59分に終了します。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>この試験の新しいバージョンである<a href='/learn/certifications/exams/dp-203'>DP-203</a>がご利用可能です。この試験は、2021年8月31日に終了するまで受けることができます。注：試験は中部標準時の午後11時59分に終了します。</strong></font><br/><br/></div>
   <div><strong>この試験の内容は、2020 年 7 月 31 日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
   </div>
   
@@ -33,7 +33,7 @@ skills:
 - Azure データソリューションのデザイン (40-45%)
 - データ処理ソリューションのデザイン (25-30%)
 - データ セキュリティとコンプライアンスの設計 (25-30%)
-retirementDate: 06/30/2021
+retirementDate: 08/31/2021
 roles:
 - data-engineer
 products:

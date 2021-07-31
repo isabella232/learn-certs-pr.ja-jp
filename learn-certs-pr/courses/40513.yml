@@ -1,0 +1,42 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Building a Resilient IaaS Architecture'
+metadata:
+  title: 'Course 40513-G: Microsoft Cloud Workshop: Building a Resilient IaaS Architecture'
+  description: 'Course 40513-G: Microsoft Cloud Workshop: Building a Resilient IaaS Architecture'
+uid: course.40513
+courseNumber: '40513-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: このワークショップの最後に、可用性セット、管理対象ディスク、SQL ServerのAlways on可用性グループ、およびストレージをVMsにプロビジョニングする際の設計原則をより適切に設計および使用が可能に。さらに、ポイントインタイムリカバリを提供するためのAzure Backupの効果的な使用法についても学習。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このワークショップでは、復元力と一般的な高可用性を考慮して、既存のIaaSデプロイメントを再設計および更新する方法についてご説明します。ホワイトボードの設計セッションとハンズオンラボを通じて、復元力のあるアーキテクチャの構築に役立つさまざまな構成オプションとサービスの確認。
+
+  #### オーディエンスプロフィール 
+  このワークショップは、cloudテクノロジーのインフラストラクチャとソリューション設計のアーキテクチャに関する専門知識を持ち、「概要」と「習得したスキル」の領域で説明されているAzureとAzureサービスについて詳しく知りたいCloudアーキテクトとITプロフェッショナルを対象としています。このワークショップに参加する人は、他のMicrosoft以外のcloudテクノロジーの経験があり、コースの前提条件を満たし、Azureでクロストレーニングを行う必要があります。
+prerequisitesSection: |-
+  ワークショップの内容は、インフラストラクチャとソリューションの設計に関する300レベルのアーキテクチャの専門知識を前提としています。このワークショップに参加する前に、この前提条件を受講することをお勧めします。 
+  - Microsoft Azure Essentialsコース、http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### モジュール 1&#58; ホワイトボードセッション-復元力のあるIaaSアーキテクチャの構築
+  #### レッスン
+  - お客様のケーススタディの確認
+  - 召喚状&#58; 概念実証ソリューションの設計
+  - 召喚状&#58; ソリューションの提示
+
+  ### モジュール 2&#58; ハンズオンラボ-復元力のあるIaaSアーキテクチャの構築
+  #### レッスン
+  - リージョン間の接続の準備
+  - 復元力のためにDCsの構築
+  - 復元力のためにウェブ層とSQLの構築
+  - SQL サーバーマネージドバックアップの構成
+  - 復元力の検証

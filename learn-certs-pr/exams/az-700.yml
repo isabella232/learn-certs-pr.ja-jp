@@ -1,0 +1,74 @@
+### YamlMime:Examination
+title: Designing and Implementing Microsoft Azure Networking Solutions (beta)
+metadata:
+  title: 'Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta)'
+  description: 'Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta)'
+uid: exam.az-700
+displayName: AZ-700
+summary: |-
+  この試験の受験者は、ハイブリッドネットワーキング、接続、ルーティング、セキュリティ、Azureサービスへのプライベートアクセスなど、Azureネットワーキングソリューションの計画、実装、および保守に関する専門知識を持っている必要があります。
+  
+  この試験の受験者は、ネットワーク、ハイブリッド接続、およびネットワークセキュリティに関する豊富な経験と知識に加えて、専門家のAzure管理スキルも持っている必要があります。
+  
+
+  <div><font color='red'><br/><strong>この試験は2021年7月中旬に利用可能になります。</strong></font></div>
+subTitle: 'この試験は2021年7月にご利用可能となります。この試験では、次の技術タスクを設計、実装、管理、保護、およびモニタリングする能力を測定します。コアネットワークインフラストラクチャ、ルーティング、ネットワーク、およびAzureサービスへのプライベートアクセス。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4PaHw
+locales:
+- en
+levels:
+- intermediate
+skills:
+- ハイブリッドネットワーキングの設計、実装、および管理（10％から15％）
+- コアネットワークインフラストラクチャの設計と実装（20％から25％）
+- ルーティングの設計と実装（25％から30％）
+- ネットワークの保護とモニタリング（15％から20％）
+- Azure Servicesへのプライベートアクセスの設計と実装（10％から15％）
+roles:
+- network-engineer
+products:
+- azure-ddos-protection
+- azure-dns
+- azure-application-gateway
+- azure-app-service
+- azure-expressroute
+- azure-firewall
+- azure-firewall-manager
+- azure-front-door
+- azure-kubernetes-service
+- azure-load-balancer
+- azure-monitor
+- azure-network-watcher
+- azure-private-link
+- azure-traffic-manager
+- azure-virtual-network
+- azure-virtual-wan
+- azure-vpn-gateway
+- azure-web-application-firewall
+- azure-virtual-network
+relatedCertifications:
+- related:
+    uid: certification.azure-network-engineer-associate
+resources:
+- title: トレーニングおよび認定資格ガイド
+  description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
+  href: https://aka.ms/TrainingCertDeck
+- title: 認証ポスター
+  description: 基礎、ロールベースおよび専門認定の概要をご覧ください。
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: 成功の可能性を一気に高めるために2つの素晴らしいオファーを見てみましょう。
+  href: ../deals.md
+- title: 資格試験のサポート
+  description: Microsoft Certification サポートフォーラムで助けてもらう。フォーラムのモデレーターが、月曜日から金曜日までの間の 1 営業日以内に返信します。
+  href: ../help.md
+- title: 認定資格ダッシュボード
+  description: スケジュールされた予定、認定証、および成績証明書をご確認および管理してください。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: 試験の宿泊施設のリクエストの詳細をご覧ください。
+  href: ../request-accommodations.md
+- title: 試験のポリシーと FAQ
+  description: 試験ポリシーとよくある質問をご確認ください。
+  href: ../certification-exam-policies.md

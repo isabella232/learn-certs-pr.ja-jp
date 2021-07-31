@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant
+title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing
 metadata:
-  title: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
-  description: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
+  title: 'Course MB-320T00--A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
+  description: 'Course MB-320T00--A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
 uid: course.mb-320t00
 courseNumber: 'MB-320T00-A'
 hoursToComplete: 96
@@ -20,14 +20,13 @@ roles:
 - developer
 products:
 - dynamics
-- dynamics-finance-operations
 exams:
 - uid: exam.mb-320
 summary: |-
   このコースには 6 つのモジュールがあり、4 日間の学習経験のために設計されています。それは、対面および/またはコンピュータ上で教えることができます。講師がこのコースの議題を教えます。モジュール 1 では、Dynamics 365 Dynamics 365 Supply Chain Management, Manufacturing の構成ニーズについて説明します。モジュール 2 では、さまざまなタイプの製造プロセスの管理について詳述いしています。モジュール 3 では、生産のマスター プランの実装について扱います。モジュール 4 では、いくつかの製造機能の実装に取り組みます。モジュール 5 では、製品製造の外注に焦点を当てます。
 
   #### 聴衆プロファイル
-  Dynamics 365 for Finance and Operations Functional Consultant は、検出の実行、要件の把握、主題の専門家および関係者の雇用、要件の変換、ソリューションとアプリケーションの構成を担当します。機能コンサルタントは、革新的な機能、コードなしの拡張性、アプリケーション、およびサービスの統合を使用してソリューションを実行します。
+  Dynamics 365 Finance and Operations Functional Consultantは、発見の実行、要件の把握、対象分野の専門家と利害関係者の関与、要件の翻訳、およびソリューションとアプリケーションの構成を担当します。機能コンサルタントは、すぐに使用できる機能、コードレスの拡張性、アプリケーションとサービスの統合を使用してソリューションを実装します。
 prerequisitesSection: |-
   - サプライチェーン管理と製造用語の基礎知識
   - Dynamics 365 ファイナンスおよびオペレーション アプリの基本理解
