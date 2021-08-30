@@ -7,29 +7,20 @@ uid: certification.d365-functional-consultant-supply-chain-management
 certificationRenewalUid: renewal.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Supply Chain Managementの業界標準を基本的に理解している機能コンサルタントまたはビジネスユーザーの場合、この認定資格が適している可能性があります。また、組織のニーズを満たすために、Dynamics 365Supply Chain Managementの構成と実装の経験も必要です。Supply Chain Managementの機能コンサルタントは、開発者、ソリューションアーキテクト、プロジェクトマネージャー、および財務、商業、製造の機能コンサルタントと協力する重要なリソースです。
+  この試験の受験者は、ビジネス要件を分析し、それらの要件を、業界のベストプラクティスを実装する完全に実現されたビジネスプロセスとソリューションに変換します。候補者は、ビジネス要件を満たすようにアプリケーションを実装および構成する際の重要なリソースとして機能します。
   
-  この認定を取得する前にさらに経験が必要な場合は、いくつかのご提案があります&#58;
+  この試験の候補者は、企業の会計原則と財務業務、カスタマーサービス、フィールドサービス、製造、小売、およびサプライチェーン管理の概念について基本的な知識を持っています。これらは通常、財務、製造、サプライチェーン管理などの財務および運用アプリの1つ以上の機能セットを専門としています。
   
-  - Microsoft LearnでSupply Chain Managementモジュールを学習し、より実践的な実践の完了。
-  - MB-300またはMB-330トラックをカバーするインストラクター主導のトレーニングコースに登録。
-  - [community.dynamics.com](https://community.dynamics.com/)のコミュニティに参加するか、ユーザーグループに参加。
-  - Supply Chain Management機能コンサルタントをシャドウイングし、Dynamics 365 Supply Chain Management機能実装の支援。
-  - メンターを雇い、倉庫を見学し、物事がどのように行われるか学習。
-  - 専門家や顧客への質問を通して学習。
+  候補者は、調達、貿易、ロジスティクス、倉庫管理、輸送管理などのサプライチェーン管理慣行についてある程度の知識を持っている必要があります。
 subTitle: 'Dynamics 365 Supply Chain Management Functional Consultantsは、クライアントの原価計算、在庫管理、マスタープランニング、倉庫管理を合理化します。'
 levels:
 - intermediate
 skills:
-- 共通の機能と実装ツールを使用する
-- セキュリティ、プロセス、およびオプションを構成する
-- 財務および運用データの管理
-- ソリューションの検証とサポート
 - 製品情報管理を実装する
-- 在庫管理を実装する
+- 在庫管理の実装
 - サプライチェーンプロセスの実装と管理
 - 倉庫管理と輸送管理の実装
-- マスタープランの実装
+- 計画の最適化の実装
 roles:
 - functional-consultant
 type: role-based

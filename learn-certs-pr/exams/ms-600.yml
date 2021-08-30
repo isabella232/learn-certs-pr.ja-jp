@@ -6,15 +6,13 @@ metadata:
 uid: exam.ms-600
 displayName: MS-600
 summary: |-
-  <div>
-  <div><font color='red'><strong>この試験の内容は2021年7月26日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong></font><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>この試験の内容は2021年7月26日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong></font><br/><br/></div>
 
   この試験の受験者は、Microsoft 365 プラットフォームを使用する組織の生産性とコラボレーションのニーズに最適化したアプリケーションとソリューションを設計、構築、テスト、維持する Microsoft 365 開発者です。
 
-  この試験の受験者は、Microsoft identityと Microsoft Graphに精通している人たちです。彼らは、UI要素（Adaptive CardsとOffice UI Fabric (Fluent UI)を含む）、統合ポイント（Microsoft Teams、Office Add-ins、SharePoint Framework、アクション可能なメッセージを含む）、およびワークロードプラットフォームターゲットの決定に関する一般的な知識を持っています。
-
-  受験生は、ソフトウェア開発のすべての段階を通じて、 Microsoft Teams、 Office Add-ins、または SharePoint Framework でソリューションを開発した経験を持っている必要があります。REST API、 JSON、 OAuth2、 OData、 OpenID Connect、 Microsoft ID (Azure AD および Microsoft アカウントを含む)、 Azure AD B2C、および許可 / 同意の概念について基本的に理解している必要があります。
+  この試験の受験者は、Microsoft identityとMicrosoft Graphに精通しています。彼らは、UI要素（Adaptive CardsとFluent UI（Office UI Fabric）を含む）、統合ポイント（Microsoft Teamsアプリ、 Office Add-ins、SharePoint Framework、アクション可能なメッセージを含む）、およびワークロードプラットフォームターゲットの決定に関する一般的な知識を持っています。
+  
+  候補者は、ソフトウェア開発のすべてのフェーズを通じて、Microsoft Teams、Office、またはSharePointでソリューションを開発した経験が必要です。 彼らは、REST APIs、JSON、OAuth2、OData、Open ID Connect、Microsoft  identities（Azure ADおよびMicrosoftアカウントを含む）、Azure AD B2C、およびアクセス許可や同意の概念についての基本的な知識を持っている必要があります。
 subTitle: 'この試験では、 Microsoft ID の実装、 Microsoft Graph によるアプリケーションの構築、 SharePoint の拡張とカスタマイズ、Teams の拡張、 および Office の拡張など、技術的なタスクを実行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZn
@@ -29,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は2021年7月26日に更新されます。以下の試験スキルの概要をダウンロードして、変更点をご確認ください。
+- この試験の内容は2021年7月26日に更新されました。変更点を確認するには、以下の試験スキルの概要をダウンロードしてください。
 - Microsoft Identity を実装する(20-25%)
 - Microsoft Graphを使用してアプリの構築(15-20%)
 - SharePointの拡張とカスタマイズ(15-20%)

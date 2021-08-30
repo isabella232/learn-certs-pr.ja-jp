@@ -13,9 +13,7 @@ summary: |-
   Azure Network Engineerは、ソリューションアーキテクト、cloud管理者、セキュリティエンジニア、アプリケーション開発者、DevOpsエンジニアと協力して、Azureソリューションを提供します。
   
   この認定資格の候補者は、ネットワーキング、ハイブリッド接続、およびネットワークセキュリティに関する豊富な経験と知識に加えて、専門家のAzure管理スキルを持っている必要があります。
-  
-  <div><font color='red'><br/><strong>この認定は2021年7月中旬に利用可能になります。</strong></font></div>
-subTitle: この認定は2021年7月にご利用可能となります。Azure Network Engineer Associate認定の候補者は、ハイブリッドネットワーキング、接続、ルーティング、セキュリティ、Azureサービスへのプライベートアクセスなど、Azureネットワーキングソリューションの計画、実装、および保守に関する専門知識を持っている必要があります。
+subTitle: Azure Network Engineer Associate認定の候補者は、ハイブリッドネットワーキング、接続、ルーティング、セキュリティ、Azureサービスへのプライベートアクセスなど、Azureネットワーキングソリューションの計画、実装、および保守に関する専門知識を持っている必要があります。
 levels:
 - intermediate
 skills:
@@ -48,6 +46,10 @@ products:
 - azure-vpn-gateway
 - azure-web-application-firewall
 - azure-virtual-network
+paths:
+- uid: learn.wwl.designing-implementing-microsoft-azure-networking-solutions-az-700
+courses:
+- uid: course.az-700t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4OV0k
 exams:
 - uid: exam.az-700

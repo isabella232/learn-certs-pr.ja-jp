@@ -19,12 +19,12 @@ Microsoftは、業界の動向を継続的に監視し、テクノロジの変�
 
 ## 廃止されたコース: インストラクター主導のトレーニング
 
-* コースウェアは2021年7月30日に廃止されます。
+* 2021年8月31日のコースウェアの廃止
 
-    | コース番号 | バージョン | タイトル | 言語 | 廃止日 |
+    | コース番号| バージョン| タイトル| 言語| 廃止日|
     | --- | --- | --- | --- | --- |
-    | DP-200T01 | A | Implementing an Azure Data Solution | 英語 | 2021年7月30日|
-    | DP-201T01 | A | Designing an Azure Data Solution | 英語 |  2021年7月30日 |
+    | DP-200T01 | A | Implementing an Azure Data Solution |  英語| 2021年8月31日|
+    | DP-201T01 | A | Designing an Azure Data Solution | 英語| 2021年8月31日|
 
 * 2021年6月30日にコースウェアの廃止
 
@@ -1052,7 +1052,7 @@ Microsoftは、業界の動向を継続的に監視し、テクノロジの変�
 
 * 2016 年 4 月 18 日に終了したコースウェア
 
-    | コース番号| タイトル| 言語| 退職日|
+    | コース番号| バージョン| タイトル| 言語| 退職日|
     | --- | --- | --- | --- | --- |
     | 38 | Office 2013 and Office 365 Demonstration Sessions | 日本語 | 2016 年 4 月 18 日
     | 37 | Office 2013 and Office 365 Demonstration Sessions | スペイン語 | 2016 年 4 月 18 日

@@ -2,16 +2,14 @@
 title: 'Microsoft 365 Certified: Teams Support Engineer Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teams Support Engineer Associate'
-  description: この試験は2021年7月8日頃にご利用可能となります。この試験の候補者は、Microsoft Teams環境のサポート、展開のトラブルシューティング、パフォーマンスの調整、テレメトリとログデータの収集と分析、およびTeams環境の管理を行うサポートエンジニアです。
+  description: この試験の候補者は、Microsoft Teams環境のサポート、展開のトラブルシューティング、パフォーマンスの調整、テレメトリとログデータの収集と分析、およびTeams環境の管理を行うサポートエンジニアです。
 uid: certification.m365-teams-support-engineer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   この試験の候補者は、Microsoft Teams環境のサポート、デプロイのトラブルシューティング、パフォーマンスの調整、テレメトリとログデータの収集と分析、およびTeams環境の管理を行うサポートエンジニアです。
   
   候補者は、Microsoft Teamsとのユニファイドコミュニケーションと実践的な経験を十分に公開している必要があります。さらに、候補者は、Azureの基礎、電話、PowerShell、データストレージテクノロジー、APIs、アプリのセキュリティ、認定と承認、セキュリティ、コンプライアンス情報、デバッグ、パフォーマンスの調整、監視に関するネットワークの知識を持っている必要があります。
-  
-  <div><br/><br/><font color='red'><strong>注：この試験の学習パスは2021年6月30日にご利用可能となり、試験は2021年7月8日にご利用可能となります。</strong></font></div>
-subTitle: この試験は2021年7月8日頃にご利用可能となります。この試験の候補者は、Microsoft Teams環境のサポート、展開のトラブルシューティング、パフォーマンスの調整、テレメトリとログデータの収集と分析、およびTeams環境の管理を行うサポートエンジニアです。
+subTitle: この試験の候補者は、Microsoft Teams環境のサポート、展開のトラブルシューティング、パフォーマンスの調整、テレメトリとログデータの収集と分析、およびTeams環境の管理を行うサポートエンジニアです。
 levels:
 - intermediate
 skills:

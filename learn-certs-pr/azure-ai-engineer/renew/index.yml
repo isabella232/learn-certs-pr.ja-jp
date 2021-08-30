@@ -11,7 +11,6 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   この認定資格を取得しており、6 か月以内に有効期限が切れる場合は、更新する資格があります。更新評価に合格して、最新の Azure AI のアップデートに知識が追いついていることを示します。厳選された一連の学習モジュールによって更新の準備を行うこともできます。
 skills:
-- Azure Cognitive Language Services を使用してテキストを評価する
 - Azure Cognitive Speech Services を使用して音声を処理および翻訳する
 - Azure Cognitive Vision Services を使用して画像を処理および分類する
 - Azure Cognitive Language Services を使用して自然言語を処理する

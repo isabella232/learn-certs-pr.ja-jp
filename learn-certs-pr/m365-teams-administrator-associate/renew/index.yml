@@ -1,0 +1,29 @@
+### YamlMime:CertificationRenewal
+title: 'Microsoft 365 Certified: Teams Administrator Associate の更新'
+metadata:
+  title: 'Microsoft 365 Certified: Teams Administrator Associate の更新'
+  description: 'この認定資格をお持ちで、6か月以内に有効期限が切れる場合は、更新する資格がございます。'
+uid: renewal.m365-teams-administrator-associate
+certificationUid: certification.m365-teams-administrator-associate
+assessmentId: 86c62802-2f14-48b7-a59d-bdc184d9cca2 
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  この認定資格をお持ちで、6か月以内に有効期限が切れる場合は、更新する資格がございます。更新評価に合格して、最新のMicrosoft Teamsの更新を最新の状態に保っていることを示します。 厳選された学習モジュールのコレクションで更新する準備をすることもできます。
+skills:
+- Teams用Microsoft Advisorを使用してTeamsの展開
+- Microsoft Teamsの管理
+- セキュリティとコンプライアンスの管理
+- Microsoft Teamsデバイスの展開および管理
+- Teams管理センターに移動
+- 会議体験の管理
+- Microsoft通話プランの実装
+- 自動応答と通話キューを使用して、Microsoft Teamsの通話の管理
+- Teams管理センターに移動
+examsPassed:
+- ms-700
+studyGuideDescription: 'この学習モジュールのコレクションを使用して、Microsoft 365 Certified: Teams Administrator Associate renewal assessmentの準備にお役立てください。'
+resources:
+- title: 認定資格の更新について
+  summary: オンラインで認定資格を更新するためのプロセスおよび要件について理解する
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

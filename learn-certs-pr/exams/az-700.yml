@@ -10,10 +10,12 @@ summary: |-
   
   この試験の受験者は、ネットワーク、ハイブリッド接続、およびネットワークセキュリティに関する豊富な経験と知識に加えて、専門家のAzure管理スキルも持っている必要があります。
   
-
-  <div><font color='red'><br/><strong>この試験は2021年7月中旬に利用可能になります。</strong></font></div>
-subTitle: 'この試験は2021年7月にご利用可能となります。この試験では、次の技術タスクを設計、実装、管理、保護、およびモニタリングする能力を測定します。コアネットワークインフラストラクチャ、ルーティング、ネットワーク、およびAzureサービスへのプライベートアクセス。'
+  <div><br/><font color='red'><strong>質問と試験の質に関するデータを収集しているため、ベータ試験はすぐには採点されません。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">ベータ試験の価値と重要性の詳細はこちらからご覧ください。</a></strong></font></div>
+subTitle: 'この試験では、次の技術タスクを設計、実装、管理、保護、およびモニタリングする能力を測定します。コアネットワークインフラストラクチャ、ルーティング、ネットワーク、およびAzureサービスへのプライベートアクセス。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-700&examname=Exam%20AZ-700:%20Designing%20and%20Implementing%20Microsoft%20Azure%20Networking%20Solutions%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-700
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4PaHw
 locales:
 - en
@@ -47,6 +49,10 @@ products:
 - azure-vpn-gateway
 - azure-web-application-firewall
 - azure-virtual-network
+paths:
+- uid: learn.wwl.designing-implementing-microsoft-azure-networking-solutions-az-700
+courses:
+- uid: course.az-700t00
 relatedCertifications:
 - related:
     uid: certification.azure-network-engineer-associate
