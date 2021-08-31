@@ -13,7 +13,9 @@ summary: |-
   
   Azure AI Engineersはソリューションアーキテクトと一緒に自分の構想を実現し、 データサイエンティスト、データエンジニア、IoTスペシャリスト、及びAI開発者と一緒に完全なエンドツーエンドのAIソリューションも構築します。
   
-  この認定のための候補者はC#、Python、それともJavaScriptを上手に使える必要があって、Azureでのコンピュータビジョン、自然言語処理、知識マイニング、及び会話AIソリューションを作るためにRESTに基づいているAPIとSDKを使える必要もあります。その上に、Azure AIのポートフォリオを構成する部分及び利用可能なデータストレージオプションもきちんと理解する必要があります。そして、候補者は倫理的なAIの原則を知り、適用できる必要もあります。
+  この認定の候補者は、C#またはPythonに習熟している必要があり、RESTベースのAPIとSDKを使用して、Azureでコンピュータービジョン、自然言語処理、知識マイニング、会話型AIソリューションを構築できる必要があります。
+  
+  また、Azure AIポートフォリオを構成するコンポーネントと利用可能なデータストレージオプションについても理解する必要があります。さらに、候補者は責任あるAIの原則を理解し、適用できる必要があります。
 subTitle: Azure AIエンジニアは、 Azure Cognitive Services、Azure Cognitive Search、およびMicrosoft Botフレイムワークを活用するAIソリューションを構築、管理、および展開しております。
 levels:
 - intermediate
@@ -49,12 +51,15 @@ products:
 courses:
 - uid: course.ai-102t00
 paths:
-- uid: learn.data-ai.evaluate-text-with-language-services
+- uid: learn.wwl.prepare-for-ai-engineering 
+- uid: learn.wwl.provision-manage-azure-cognitive-services
+- uid: learn.wwl.process-translate-text-azure-cognitive-services
 - uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
-- uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
-- uid: learn.wwl.process-natural-language-azure-cognitive-language-services
-- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
+- uid: learn.wwl.create-language-understanding-solution
+- uid: learn.wwl.build-qna-solution
 - uid: learn.wwl.create-conversational-ai-solutions
+- uid: learn.wwl.create-computer-vision-solutions-azure-cognitive-services
+- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHf
 exams:
 - uid: exam.ai-102

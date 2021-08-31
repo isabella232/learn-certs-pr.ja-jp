@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: AI-led business process automation'
+metadata:
+  title: 'Course 40585-G: Microsoft Cloud Workshop: AI-led business process automation'
+  description: 'Course 40585-G: Microsoft Cloud Workshop: AI-led business process automation'
+uid: course.40585
+courseNumber: '40585-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure Cognitive Servicesを活用するビジネスプロセス自動化ソリューションの設計
+- skill: Azure Cognitive Servicesを活用するビジネスプロセス自動化ソリューションの実装
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このワークショップでは、さまざまなAzure Cognitive Servicesを使用してビジネスプロセスをエンドツーエンドで自動化する方法を学習します。 このワークショップの最後に、Azure Cognitive Servicesを活用するビジネスプロセス自動化ソリューションをより適切に設計および実装できるようになります。 
+
+  #### オーディエンスプロフィ−ル 
+  このワークショップは、cloudテクノロジーのインフラストラクチャとソリューション設計のアーキテクチャに関する専門知識を持ち、「概要」と「習得したスキル」の領域で説明されているAzureとAzure servicesについて詳しく知りたいCloud ArchitectsとITプロフェッショナルを対象としています。 このワークショップに参加する人は、他のMicrosoft以外のcloudテクノロジーの経験があり、コースの前提条件を満たし、Azureでクロストレーニングを行う必要があります。 
+outlineSection: |-
+  ### モジュール 1&#58; ホワイトボードデザインセッション-AI主導のビジネスプロセス自動化
+  #### レッスン
+  - お客様のケーススタディの確認
+  - 概念実証ソリューションの設計
+  - ソリューションの提示
+
+
+  ### モジュール 2&#58; ハンズオンラボ-AI主導のビジネスプロセス自動化
+  #### レッスン
+  - Forms Recognizerを使用してドキュメントからテキストと構造の抽出
+  - 訪問オーディオレコードからヘルス分析の抽出し
+  - Azure Cognitive Searchを使用したデータのインデックス作成と提供
+  - ヘルスケアデータに関するカスタムPowerBIレポートの作成

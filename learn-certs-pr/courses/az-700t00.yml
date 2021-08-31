@@ -6,6 +6,12 @@ metadata:
 uid: course.az-700t00
 courseNumber: 'AZ-700T00'
 hoursToComplete: 72
+skillsGained:
+- skill: ハイブリッドネットワーク接続の設計、実装、管理
+- skill: コアAzureネットワーキングインフラストラクチャの設計および実装
+- skill: Azureでルーティングと負荷分散の設計および実装
+- skill: ネットワークの保護および監視
+- skill: Azure Servicesへのプライベートアクセスの設計および実装
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -16,6 +22,8 @@ roles:
 - network-engineer
 products:
 - azure
+exams:
+- uid: exam.az-700
 summary: |-
   このコースでは、ネットワークエンジニアに、Azureネットワークソリューションを設計、実装、および保守する方法を教えます。このコースでは、コアAzureネットワークインフラストラクチャ、ハイブリッドネットワーク接続、負荷分散トラフィック、ネットワークルーティング、Azureサービスへのプライベートアクセス、ネットワークセキュリティ、および監視の設計、実装、および管理のプロセスについてご説明します。 Azureで安全で信頼性の高いネットワークインフラストラクチャを設計および実装する方法と、Azureでハイブリッド接続、ルーティング、Azureサービスへのプライベートアクセス、および監視を確立する方法についてご説明します。
 
@@ -49,36 +57,33 @@ prerequisitesSection: |-
 
   * [AZ-104&#58; Azure管理者向けの仮想ネットワークの構成と管理- Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-virtual-networks/)
 outlineSection: |-
-  ### モジュール1：Azure仮想ネットワーク
+  ### モジュール 1: Azure Virtual Networksの概要
 
   このモジュールでは、仮想ネットワーク、パブリックIPsとプライベートIPs、DNS、仮想ネットワークピアリング、ルーティング、Azure Virtual NATなどの基本的なAzureネットワークリソースを設計および実装方法を学習します。
 
   #### レッスン
+  *  Azure Virtual Networksの探索
 
-  * Azure仮想ネットワーク
+  *  パブリックIPサービスの構成
 
-  * パブリックIPサービス
+  *  仮想ネットワークのデザイン名の解決
 
-  * パブリックDNSとプライベートDNS
+  *  ピアリングとのクロスVNet接続の有効化
 
-  * クロスVNet接続
+  *  仮想ネットワークトラフィックルーティングの実装
 
-  * 仮想ネットワークルーティング
-
-  *  Azure仮想ネットワークNAT
+  * Azure Virtual NATを使用してインターネットアクセスの構成
 
 
-  #### ラボ &#58; Azureで仮想ネットワークを設計および実装
-
-  ####
-
-  #### ラボ &#58; AzureでDNS設定を構成
+  #### ラボ：演習：Azureで仮想ネットワークの設計および実装
 
   ####
 
-  #### ラボ &#58; 仮想ネットワークをピアリングに接続
+  #### ラボ：演習：AzureでDNS設定の構成
 
   ####
+
+  #### ラボ：演習：グローバル仮想ネットワークピアリングを使用して2つの Azure Virtual Networksの接続
 
   このモジュールを完了すると、受講者は次のことができるようになります。
 
@@ -95,191 +100,236 @@ outlineSection: |-
   * Azure仮想ネットワークNATを設計および実装
 
 
-  ### モジュール2：ハイブリッドネットワークの設計と実装
+  ### モジュール 2: ハイブリッドネットワークの設計と実装
 
   このモジュールでは、サイト間VPN接続、ポイントツーサイトVPN接続、Azure Virtual WAN、仮想WANハブなどのハイブリッドネットワークソリューションを設計および実装方法を学習します。
 
   #### レッスン
+  *  Azure VPN Gatewayの設計および実装
 
-  * サイト間VPN接続
+  *  ネットワークをサイト間VPN接続で接続
 
-  * ポイントツーサイトVP接続
+  *  ポイントツーサイトVPN接続を使用してデバイスをネットワークに接続
 
-  * Azure仮想WAN
+  *  Azure Virtual WANsを使用してリモートリソースの接続
+
+  *  仮想ハブにネットワーク仮想アプライアンス（NVA）の作成
 
 
-  #### ラボ &#58; ローカルゲートウェイを作成して構成
+  #### ラボ：演習：Azure Portalを使用して仮想WANの作成
 
   ####
-  * 仮想ネットワークゲートウェイを作成して構成
-  * Azureポータルを使用して仮想WANの作成
 
-  サイト間VPN接続を設計および実装
+  #### ラボ：演習：仮想ネットワークゲートウェイの作成と構成
 
-  * ポイントツーサイトVPN接続を設計および実装
+  ####
 
-  * 認定を設計および実装
+  このモジュールを完了すると、受講者は次のことができるようになります。
 
-  * Azure仮想WANリソースを設計および実装
+  *  サイト間VPN接続の設計および実装
+
+  *  ポイントツーサイトVPN接続の設計および実装
+
+  *  Azure Virtual WANリソースの設計および実装
 
 
-  ### モジュール3：AzureExpress Routeを設計および実装
+  ### モジュール 3：AzureExpress Routeを設計および実装
 
   このモジュールでは、Azure ExpressRoute、ExpressRoute Global Reach、ExpressRoute FastPath、およびExpressRoute Peeringオプションを設計および実装方法を学習します。
 
   #### レッスン
 
-  * ExpressRoute
+  * Azure ExpressRouteの探索
 
-  * ExpressRoute Direct
+  * ExpressRouteデプロイメントの設計
 
-  * ExpressRoute FastPath
+  * ExpressRoute展開のピアリングの構成
 
-  * ExpressRoute Peering
+  * ExpressRoute回線をVNetに接続
+
+  *地理的に分散したネットワークをExpressRouteグローバルリーチで接続します
+
+  * ExpressRoute FastPathを使用してネットワーク間のデータパスパフォーマンスを向上させる
+
+  * ExpressRoute接続の問題のトラブルシューティング
 
 
-  #### ラボ &#58; ExpressRouteを作成して構成
+  #### ラボ：演習：ExpressRouteゲートウェイの構成
 
   ####
 
-  Expressrouteの設計と実装
+  #### ラボ：演習：ExpressRoute回路をプロビジョニングする
 
-  * Expressroute Directを設計および実装
+  ####
 
-  * Expressroute FastPathを設計および実装
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  * Expressrouteの設計および実装
+
+  * Expressroute Directの設計および実装
+
+  * Expressroute FastPathの設計および実装
 
 
-  ### モジュール4：Azureでの非HTTP(S)トラフィックの負荷分散
+  ### モジュール 4：Azureでの非HTTP(S)トラフィックの負荷分散
 
-  このモジュールでは、Azure Load balancerとTrafficManagerを使用して、Azureで非HTTP(S)トラフィックの負荷分散ソリューションを設計および実装方法を学習します。
+  このモジュールでは、Azure Load BalancerとTraffic Managerを使用して、AzureでHTTP(S)トラフィックの負荷分散ソリューションの設計および実装方法を学習します。
 
   #### レッスン
 
-  * コンテンツ配信と負荷分散
+  *  負荷分散の探索
 
-  * Azure Load balancers
+  * Azure portalを使用してAzure load balancerの設計および実装
 
-  * Azure Traffic Manager
-
-  * Azureモニター
-
-  * ネットワークウォッチャー
+  * Azure Traffic Managerの探索
 
 
-  #### ラボ &#58; Azureポータルを使用してVMsの負荷を分散するパブリックload balancersを作成および構成
+  #### ラボ：演習：Azure portalを使用してTraffic Managerプロフィールの作成
 
   ####
 
-  #### ラボ &#58; Azureポータルを使用してTraffic Managerプロフィールの作成
+  #### ラボ：演習：Azure load balancerの作成と構成
 
   ####
 
-  #### ラボ &#58; Azure Monitorでメトリックアラートを作成、表示、および管理
+  このモジュールを完了すると、受講者は次のことができるようになります。
 
-  ####
+  * Azure load Balancerの設計と実装
 
-  Azure Load Balancerを設計および実装
-
-  * Azure Traffic Managerを設計および実装
-
-  * Azureモニターを使用してネットワークを監視する
-
-  * ネットワークウォッチャーの使用
+  * Azure Traffic Managerの設計および実装
 
 
-  ### モジュール5：AzureでのHTTP(S)トラフィックの負荷分散
+  ### モジュール 5: AzureでのLoad balancing HTTP(S)トラフィック
 
-  このモジュールでは、Azure Application gatewayとAzure Front Doorを使用してAzureでHTTP(S)トラフィックの負荷分散ソリューションを設計および実装方法を学習します。
+  このモジュールでは、Azure Application gatewayとAzure Front Doorを使用してAzureでHTTP（S）トラフィックの負荷分散ソリューションの設計および実装方法を学習します。
 
   #### レッスン
 
-  * Azure Application Gateway
+  * Azure application gatewayの設計
 
-  * Azure Front Door
+  * Azure application gatewayの構成
 
+  * Azure front doorを設計および構成
 
-  #### ラボ &#58; Azureポータルを使用して高可用性Webアプリケーションのフロントドアの作成
-
-  ####
-
-  #### ラボ &#58; Application Gatewayの作成と構成
+  #### ラボ：演習：Azure application gatewayのデプロイ
 
   ####
 
-  Azure ApplicationGatewayを設計および実装
+  #### ラボ：演習：高可用性ウェブアプリケーションのフロントドアの作成
 
-  * Azure Front Doorの実装
+  ####
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  * Azure Application Gatewayの設計および実装
+
+  * Azure front doorの実装
 
 
-  ### モジュール6：ネットワークセキュリティの設計と実装
+  ### モジュール 6：ネットワークセキュリティの設計と実装
 
   このモジュールでは、Azure DDoS、Azure Firewalls、ネットワークセキュリティグループ、Webアプリケーションファイアウォールなどのネットワークセキュリティソリューションの設計と実装について学習します。
 
   #### レッスン
 
-  * Azure DDoS Protection
+  * Azure portalで仮想ネットワークの保護
 
-  * Azure Firewall
+  * Azure portalを使用してAzure DDoS Protectionのデプロイ
 
-  * ネットワークセキュリティグループ
+  * Azure portalを使用してNetwork Security Groupsの展開
 
-  * Azure Front DoorのWebアプリケーションファイアウォール
+  * Azure Firewallの設計および実装
+
+  * Azure Firewall Managerの操作
+
+  * Azure Front DoorにWeb Application Firewall の実装
 
 
-  #### ラボ &#58; DDoS保護計画を使用して仮想ネットワークの作成
-
-  ####
-
-  #### ラボ &#58; Azure Firewallのデプロイと構成
-
-  ####
-
-  #### ラボ &#58; Azure Front DoorでWebアプリケーションファイアウォールポリシーの作成
+  #### ラボ：演習：Azure portalを使用してAzure Firewallをデプロイおよび構成
 
   ####
 
-  Azure DDoS保護計画を構成およびモニタリング
+  #### ラボ：演習：Azure Firewall Managerを使用して仮想ハブの保護
+
+  ####
+
+  #### ラボ：演習：Azure portalを使用して仮想ネットワークでDDoS保護の構成
+
+  ####
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  * Azure DDoS Protectionプランを構成およびモニタリング
 
   * Azure Firewallを実装および管理
 
-  * ネットワークセキュリティグループの実装
+  *ネットワークセキュリテイーグループの実装
 
-  * Azure Front DoorにWebアプリケーションファイアウォール(WAF)を実装
+  * Azure Front Doorにウェブアプリケーションファイアーウォール(WAF) の実装
 
 
-  ### モジュール7：Azure Servicesへのプライベートアクセスを設計および実装
+  ### モジュール 7：Azure Servicesへのプライベートアクセスの設計および実装
 
   このモジュールでは、Azure Private Linkを使用したAzure Servicesへのプライベートアクセスと仮想ネットワークサービスエンドポイントの設計と実装について学習します。
 
   #### レッスン
 
-  * Azure Private Linkとプライベートエンドポイントを定義
+  *Private Link Serviceとプライベートエンドポイントの定義
 
-  * プライベートエンドポイントの設計と構成
+  *仮想ネットワークサービスエンドポイントについての説明
 
-  * Private LinkをDNSおよびオンプレミスクライアントと統合
+  *Private LinkをDNSと統合
 
-  * サービスエンドポイントへのアクセスを作成、構成、および提供
-
-  * アプリサービスのVNET統合を構成
+  * App Serviceを Azure Virtual networksと統合
 
 
-  #### ラボ &#58; 仮想ネットワークサービスエンドポイントを使用して、PaaSリソースへのネットワークアクセスを制限
+  #### ラボ：演習：Azure PowerShellを使用してAzureプライベートエンドポイントの作成
 
   ####
 
-  #### ラボ &#58; Azureプライベートエンドポイントの作成
+  #### ラボ：演習：仮想ネットワークサービスエンドポイントを使用して、PaaSリソースへのネットワークアクセスの制限
 
   ####
 
-  Private Link Serviceとプライベートエンドポイントの違いを定義
+  このモジュールを完了すると、受講者は次のことができるようになります。
 
-  * プライベートエンドポイントを設計および構成
+  *Private Link Serviceとプライベートエンドポイントの違いの定義
 
-  * 仮想ネットワークサービスエンドポイントについての説明
+  *プライベートエンドポイントを設計および構成 設計および構成
+  *仮想ネットワークサービスエンドポイントについての説明
 
-  * サービスエンドポイントへのアクセスを設計および構成
+  *サービスエンドポイントへのアクセスを設計および構成
 
-  * Private LinkをDNSと統合
+  *Private LinkをDNSと統合
 
-  * アプリサービスをAzure仮想ネットワークと統合
+  * App Serviceを Azure Virtual networksと統合
+
+
+  ### モジュール 8：ネットワークモニタリングの設計と実装
+
+  このモジュールでは、Azure MonitorやNetwork watcherなどのネットワークモニタリングソリューションの設計と実装について学習します。
+
+  #### レッスン
+
+  * Azure Monitorを使用してネットワークをモニタリング
+
+  * Azure Network Watcherを使用してネットワークをモニタリング
+
+
+  #### ラボ：演習：Azure Monitorを使用してロードバランサーリソースをモニタリング
+
+  ####
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  * Azure Monitorを使用してネットワークヘルスアラートとログの構成
+
+  *Connection Monitorインスタンスを作成および構成
+
+  *Traffic Analyticsを構成して使用
+
+  * NSGフローログの構成
+
+  *診断ログを有効にして構成
+
+  * Azure Network Watcherの構成

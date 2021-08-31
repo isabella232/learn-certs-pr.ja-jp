@@ -22,7 +22,7 @@ ms.prod: non-product-specific
 | ------------- |:-------------:| -----:|
 | Fundamentals試験      |  45分 | 65分 |
 | Associate and expert role-based exams ラボなし** | 100分 | 120分 |
-|ラボが含まれる可能性のあるアソシエイトおよびエキスパートの役割ベースの試験** | 130分| 150分|
+|ラボが含まれる可能性のあるアソシエイトおよびエキスパートの役割ベースの試験** | 120分| 140分|
 | アカデミック チャネルを通じて提供されるMicrosoft Technology Associate (MTA) exams| 45分 | 50分 |
 | Microsoft Office Specialist (MOS) 試験 | 50分 | 60分 |
 

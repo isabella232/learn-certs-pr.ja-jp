@@ -6,15 +6,14 @@ metadata:
 uid: exam.ms-700
 displayName: MS-700
 summary: |-
-  <div><font color='red'><strong>この試験の内容は2021年7月26日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong></font><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>この試験の内容は2021年7月26日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong></font><br/><br/></div>
 
-  Microsoft Teams 管理者 は、企業環境における効率的で効果的なコラボレーションとコミュニケーションに重点を置いた Microsoft Teamsの Office 365 ワークロードを構成、展開、および管理します。
-
-  Teams管理者は、Teamsのチャット、アプリ、チャネル、会議、オーディオ会議、ライブイベント、通話を計画、展開、管理できる必要があります。Teams Administrator は、 Skype for Business からTeamsへのアップグレードも担当します。この試験の受講希望者の方は、PowerShellを使用してチームを管理することに習熟している必要があります。Teams Administratorは、SharePoint、OneDrive、Exchange、Azure AD、Office 365グループ（ただしそれに限らず）、アプリやサービスとの統合ポイントに関して基本的な知識を持っていなければなりません。Teams Administratorは、外部のアプリとサービスを統合する方法を理解していなければなりません。
-
-  Teams 管理者はテレフォニー エンジニアと協力して、高度な音声機能を Microsoft Teams に統合します。このロールは、直接ルーティングの設定、コールルーティングの設定、またはテレフォニーの統合について責任を負いません。Teams管理者は、セキュリティとコンプライアンス、メッセージング、ネットワーク、 ID 、デバイスなど、他のワークロード管理者の役割と連携することができます。
-subTitle: 'この試験では、 Microsoft Teams 環境の計画と構成、チャット、通話、会議の管理、Teams とアプリケーション ポリシーの管理など、技術的なタスクを遂行する能力を測定します。'
+  この試験の候補者は、Microsoft 365環境での効率的かつ効果的なコラボレーションとコミュニケーションを促進するためにMicrosoft Teamsを管理するMicrosoft Teams管理者です。
+  
+  この試験の受験者は、Teamsチャット、アプリ、チャネル、会議、音声/ビデオ会議、ライブイベント、通話、およびMicrosoft Teams認定デバイスを計画、展開、構成、および保護できる必要があります。 候補者は、Microsoft TeamsをSharePoint、OneDrive、Exchange、Microsoft 365 Groups、Power Platformなどの他のワークロード、および他のMicrosoftアプリ、サードパーティアプリ、カスタムアプリと統合した経験が必要です。
+  
+  Microsoft Teams管理者は、ネットワーキング、テレフォニー、ライセンス、セキュリティ、コンプライアンス、ユーザーの採用、アプリ開発、サポートなどの他の機能も連携します。
+subTitle: 'この試験では、次の技術タスクを実行する能力を測定します。MicrosoftTeams環境の計画および構成、チャット、チーム、チャネル、およびアプリの管理、 通話と会議の管理 Microsoft Teams環境のモニタリングおよびトラブルシューティング。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
 providers:
@@ -27,10 +26,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 以下の試験ガイドは、2021年7月26日に実装される変更を示しています。
-- Microsoft Teams environment を計画、構成する (45-50%)
-- チャット、通話、会議を管理する (30-35%)
-- Teams および app policies を管理する (20-25%)
+- この試験の内容は2021年7月26日に更新されました。変更点を確認するには、以下の試験スキルの概要をダウンロードしてください。
+- Microsoft Teams環境を計画および構成(35-40%)
+- チャット、チーム、チャネル、およびアプリを管理します(25-30%)
+- 通話と会議を管理する(15-20%)
+- Microsoft Teams環境の監視とトラブルシューティング(10-15%)
 roles:
 - administrator
 products:

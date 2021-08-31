@@ -2,20 +2,22 @@
 title: 'Microsoft 365 Certified: Teams Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teams Administrator Associate'
-  description: Microsoft Teams Administrators は、企業環境における効率的で効果的なコラボレーションとコミュニケーションに重点を置いた Microsoft Teams 向けに Office 365 ワークロードを構成、展開、および管理します。
+  description: この試験の候補者は、Microsoft 365環境での効率的かつ効果的なコラボレーションとコミュニケーションを促進するためにMicrosoft Teamsを管理するMicrosoft Teams管理者です。
 uid: certification.m365-teams-administrator-associate
+certificationRenewalUid: renewal.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft Teams Administrators は、企業環境における効率的で効果的なコラボレーションとコミュニケーションに重点を置いた Microsoft Teams 向けに Office 365 ワークロードを構成、展開、および管理します。
-
-  Microsoft Teams Administratorsは、チャット、アプリ、チャネル、会議、オーディオ会議、ライブイベント、通話を含む Teams を計画、展開、管理できる必要があります。
-subTitle: Microsoft Teams Administrators は、企業環境における効率的で効果的なコラボレーションとコミュニケーションに重点を置いた Microsoft Teams 向けに Office 365 ワークロードを構成、展開、および管理します。
+  この試験の候補者は、Microsoft 365環境での効率的かつ効果的なコラボレーションとコミュニケーションを促進するためにMicrosoft Teamsを管理するMicrosoft Teams管理者です。
+  
+  この試験の受験者は、Teamsチャット、アプリ、チャネル、会議、音声またはビデオ会議、ライブイベント、通話、およびMicrosoft Teams認定デバイスを計画、展開、構成、および保護できる必要があります。
+subTitle: この試験の候補者は、Microsoft 365環境での効率的かつ効果的なコラボレーションとコミュニケーションを促進するためにMicrosoft Teamsを管理するMicrosoft Teams管理者です。
 levels:
 - intermediate
 skills:
-- Microsoft Teams Environment を計画、構成する
-- チャット、通話、会議を管理する
-- Teams および App Policies を管理する
+- Microsoft Teams環境の計画および構成
+- チャット、チーム、チャネル、アプリの管理
+- 通話と会議の管理
+- Microsoft Teams環境のモニタリングとトラブルシューティング
 roles:
 - administrator
 type: role-based
