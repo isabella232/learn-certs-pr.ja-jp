@@ -6,13 +6,13 @@ metadata:
 uid: exam.mb-210
 displayName: MB-210
 summary: |-
-  <div><font color="red"><strong>この試験の内容は2021年7月23日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong></font><br/><br/></div>
+  <div><font color="red"><strong>この試験の内容は2021年7月23日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong></font><br/><br/></div>
   
-  この試験の受験者は、セールス経験を持つ Dynamics 365 の機能コンサルタントです。受験生は、収益目標、ビジネス戦略、会社の目的に沿い効果的で効率的なセールスライフサイクルをサポートするソリューションに責任を持ちます。
+  この試験の候補者は、販売の専門知識を持つMicrosoft Dynamics 365機能コンサルタントです。候補者は、販売ライフサイクルをサポートするソリューションを実装して、収益目標、ビジネス戦略、および会社の目標を達成するために効率的かつ効果的に実行できるようにする責任があります。
   
-  受験者は、リード、契約、アカウント、オポチュニティのコア機能の設定と拡張を担当し、会社の場所においてセールス過程のマップへのエンティティをサポートします。彼らは、Power Apps を使用してすべてのデバイスの統一されたエクスペリエンスを開発する機会、Power Automate をアプリケーション統合、ビジネス プロセス フロー、およびその他の自動化ツールで「キャッシュ ジャーニーへのリード」をサポートおよび加速するアプリケーションを構築する機会を特定します。
-  
-  受験者は強いビジネス知識と素晴らしい本人による経験を、1 つ以上のセールス ロールのセールス世界で持っていなければなりません。
+  候補者は、リード、連絡先、アカウント、商談のコア機能を構成および拡張し、組織で実施されている販売プロセスにマッピングするためのサポートエンティティを担当します。彼らは、Power Appsを使用してすべてのデバイスの統合エクスペリエンスを開発する機会、アプリケーション統合のためのPower Automate、ビジネスプロセスフロー、および「現金へのリード」ジャーニーをサポートおよび加速するアプリケーションを構築するその他の自動化ツールを特定します。
+
+  候補者は、豊富なビジネス知識を持ち、1つ以上の営業職で一人前の経験を持っている必要があります。
 subTitle: 'この試験では、構成の実行、コアセールステーブルの管理、追加のツールとサービスの構成を行う能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
@@ -20,10 +20,11 @@ practiceTestUrl:  https://www.mindhub.com/mb-210-microsoft-dynamics-365-sales-mi
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-210&examname=Exam%20MB-210:%20Microsoft%20Dynamics%20365%20for%20Sales&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-210
 locales:
 - en
+- ja
 levels:
 - intermediate
 skills:
-- この試験の内容は2021年7月23日に更新されます。以下の試験スキルの概要をダウンロードして、変更点をご確認ください。
+- この試験の内容は2021年7月23日に更新されました。変更点を確認するには、以下の試験スキルの概要をダウンロードしてください
 - 構成を実行する (25-30%)
 - コア販売エンティティを管理する (50-55%)
 - 追加のツールおよびサービスを構成する (15-20%)

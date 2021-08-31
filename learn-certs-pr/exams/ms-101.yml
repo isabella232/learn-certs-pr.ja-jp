@@ -6,11 +6,11 @@ metadata:
 uid: exam.ms-101
 displayName: MS-101
 summary: |-
-  <div><font color='red'><strong>この試験の内容は2021年7月29日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>この試験の内容は2021年7月29日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong> </font> <br/> <br/> </div>
   
   この試験の受験者は、Microsoft 365 サービスの評価、計画、移行、展開、および管理に参加している Microsoft 365 エンタープライズ管理者です。それらは、ID、セキュリティ、コンプライアンス、およびサポートテクノロジを含む、企業向けのMicrosoft 365テナント管理タスクを実行します。
   
-  受験者は Microsoft 365 ワークロードに関する実用的な知識を持っており、少なくとも 1 つの Microsoft 365 ワークロード (Exchange、SharePoint、Skype for Business、または Windows as a Service) の管理者である必要があります。受験者は、ネットワーキング、サーバー管理、および DNS、Active Directory、PowerShell などの IT の基礎についての実用的な知識も持っています。
+  候補者は、Microsoft 365 workloadsの実用的な知識を持っており、少なくともExchange、SharePoint、Teams、Windows 10の展開の管理者である必要があります。候補者は、ネットワーク、サーバー管理、およびDNS、Active Directory、PowerShellなどのITの基礎に関する実用的な知識も持っています。
 subTitle: 'この試験では、最新のデバイスサービスの実装、Microsoft 365のセキュリティと脅威管理の実装、Microsoft 365のガバナンスとコンプライアンスの管理という技術的なタスクを遂行する能力を測定します。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
@@ -21,7 +21,7 @@ locales:
 levels:
 - advanced
 skills:
-- この試験の内容は2021年7月29日に更新されます。以下の試験スキルの概要をダウンロードして、変更点を確認してください。
+- この試験の内容は2021年7月29日に更新されました。以下の試験スキルの概要をダウンロードして、 変更点をご確認ください。
 - 最新のデバイス サービスの実装 (40-45%)
 - Microsoft 365 のセキュリティおよび脅威の管理の実装 (20-25%)
 - Microsoft 365 のガバナンスおよびコンプライアンスの管理 (35-40%)

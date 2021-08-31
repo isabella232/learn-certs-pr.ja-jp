@@ -9,9 +9,9 @@ hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Microsoft 365 テナントの設計、構成、および管理
-- skill: Office 365 製品の機能
-- skill: Office 365 の構成
-- skill: Office 365 ProPlus 展開の管理
+- skill: Microsoft 365製品の機能
+- skill: Microsoft 365の構成
+- skill: エンタープライズ展開用のMicrosoft 365アプリの管理
 - skill: ID 同期の計画と実装
 - skill: アプリケーションと外部アクセスの実装
 learningPartnersLink: /learn/certifications/partners
@@ -23,285 +23,409 @@ roles:
 - administrator
 products:
 - m365
-- azure-active-directory
-- office-365
 exams:
 - uid: exam.ms-100
 summary: |-
-  このコースでは、Microsoft 365 エンタープライズ管理の 3 つの中心的な要素 (Microsoft 365 テナントとサービスの管理、Office 365 管理、および Microsoft 365 ID 管理) について説明します。
-  Microsoft 365 テナントおよびサービス管理では、Microsoft 365 テナントを設計するときに計画する必要があるすべての主要コンポーネントを調べます。この計画フェーズが完了したら、組織プロファイル、テナント サブスクリプション オプション、コンポーネント サービス、ユーザー アカウントとライセンス、セキュリティ グループなど、Microsoft 365 テナントを構成する方法を学習します。最後に、テナントのロールの構成やテナントのヘルスとサービスの管理など、テナントの管理方法を学びます。
-
-  Microsoft 365 テナントがしっかりと配置されたら、Office 365 管理の主要コンポーネントを調べます。これは、Exchange Online、SharePoint Online、Microsoft Teams、Microsoft Power Platform、追加の製品リソース、デバイス管理など、Office 365 製品の機能の概要から始まります。次に、Office クライアント接続の構成に重点を置いて、Office 365 の構成に移行します。最後に、ユーザー手動のクライアント インストールから集中型の展開まで、エンタープライズ向け Microsoft 365 Apps (以前の Office 365 ProPlus) の展開を管理する方法を検討します。このセクションは、Office テレメトリと Microsoft Analytics の構成方法を学習することで終了します。
-
-  このコースは、Azure Active Directory Connect に焦点を当てた、Microsoft 365 ID 同期の詳細な調査で終わります。Azure AD Connect を計画および実装する方法、同期済みの ID を管理する方法、および多要素認証とセルフサービス パスワード管理を使用して Microsoft 365 にパスワード管理を実装する方法を学習します。このセクションでは、アプリケーションと外部アクセスの実装について包括的に説明します。マルチ テナント アプリケーションの構成方法など、Azure Active Directory でアプリケーションを追加および管理する方法を学習します。次に、コネクタをインストールして登録する方法や、リモート アクセス用のオンプレミスアプリを公開する方法など、Azure AD アプリケーション プロキシを構成する方法を調べます。最後に、外部アクセスのためのソリューションを設計および管理する方法を検討します。これには、Azure AD B2B コラボレーションのライセンス ガイダンス、コラボレーション ユーザーの作成、B2B コラボレーションのトラブル シューティングが含まれます。
+  このコースでは、Microsoft 365エンタープライズ管理の3つの中心的な要素であるMicrosoft 365テナントとサービスの管理、Microsoft 365管理、およびMicrosoft 365 identity管理について説明します。 Microsoft 365テナントおよびサービス管理では、Microsoft 365テナントの設計ときに計画する必要のあるすべての主要コンポーネントを調べます。この計画フェーズが完了すると、組織プロフィール、テナントサブスクリプションオプション、コンポーネントサービス、ユーザーアカウントとライセンス、セキュリティグループなど、Microsoft 365テナントの構成方法を学習します。最後に、テナントの役割の構成やテナントのヘルスとサービスの管理など、テナントの管理方法を学習します。 Microsoft 365テナントがしっかりと配置されたら、Microsoft 365管理の主要コンポーネントを調べます。これは、Exchange Online、SharePoint Online、Microsoft Teams、Microsoft Power Platform、デバイス管理など、Microsoft 365製品の機能の概要から始まります。次に、Officeクライアント接続の構成に主に焦点を当てて、Microsoft 365の構成に移行します。最後に、エンタープライズ（以前のOffice 365 ProPlus）展開用のMicrosoft 365アプリのユーザー主導のクライアントインストールを管理する方法を検討します。このセクションの締めくくりとして、Office TelemetryとWorkplace Analyticsの構成方法を学習します。このコースは、Azure Active Directory Connectに焦点を当てた、Microsoft 365 identity同期の詳細な調査で終了します。 Azure AD Connectを計画および実装する方法、同期されたIDを管理する方法、および多要素認証とセルフサービスパスワード管理を使用してMicrosoft 365でパスワード管理の実装方法を学習します。このセクションでは、アプリケーションと外部アクセスの実装に関する包括的な説明で締めくくります。マルチテナントアプリケーションの構成方法など、Azure Active Directoryでアプリケーションを追加および管理する方法を学習します。次に、コネクタをインストールして登録する方法や、リモートアクセス用のオンプレミスアプリを公開する方法など、Azure AD Application Proxyの構成方法を確認します。最後に、外部アクセスのソリューションを設計および管理する方法を検討します。これには、Azure AD B2Bコラボレーションのライセンスガイダンス、コラボレーションユーザーの作成、およびB2Bコラボレーションのトラブルシューティングが含まれます。
 
   #### 視聴者プロフィール
   このコースは、 Microsoft 365 Enterprise Admin ロールを希望し、 Microsoft 365 ロールベースの管理者認定パスの 1 つを終了したユーザーを対象としています。
 prerequisitesSection: |-
+  このコースに参加する前に、受講者は以下の経験が必要です。
   - Messaging、Teamwork、Security and Compliance、またはCollaboration などのロールベース管理者コースを修了。
   - DNS に関する十分な理解、および Microsoft 365 サービスの基本的機能の経験。
   - 一般的な IT プラクティスに対する十分な理解。
 outlineSection: |-
-  ### モジュール 1&#58; Microsoft 365 Tenant の設計
-  このモジュールでは、Microsoft 365 エクスペリエンスの計画に焦点を当てます。これには、適切な Microsoft 365 サブスクリプションの計画、オンプレミス インフラストラクチャにおける Microsoft 365 の計画、組織の要件に最適な ID および認証ソリューションの計画、サービス セットアップの計画、ハイブリッド環境の計画、Microsoft 365 への移行の計画が含まれます。
+  ### モジュール 1：Microsoft 365テナントの設計
+
+  この学習パスは、Microsoft 365エクスペリエンスの計画に重点を置いています。これには、適切なMicrosoft 365サブスクリプションの計画、オンプレミスインフラストラクチャでのMicrosoft 365の計画、組織の要件に最適なアイデンティティおよび認証ソリューションの計画、サービスセットアップの計画、ハイブリッド環境の計画、およびMicrosoft 365への移行の計画が含まれます。 
+
   #### レッスン
-  - Microsoft 365 エクスペリエンスの計画
-  - オンプレミス インフラストラクチャでの Microsoft 365 の計画
-  - ID および認証ソリューションの計画
-  - サービス設定の計画
-  - ハイブリッド環境の計画
-  - Office 365 への移行の計画
+
+  * Microsoft 365でテナントを計画nbsp;
+
+  * Microsoft 365のオンプレミスインフラストラクチャの計画
+
+  * Microsoft 365のアイデンティティおよび認証ソリューションの計画
+
+  * Microsoft 365のサポートインフラストラクチャの計画
+
+  * Microsoft 365展開のハイブリッド要件の計画
+
+  * Microsoft 365への移行の計画
 
 
-  #### ラボ&#58; Microsoft 365 への移行
-  - Microsoft 365 への移行
+  #### ラボ： Microsoft 365への移行
 
-  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
-  - 組織の要件に最適な Microsoft 365 サブスクリプション サービスを決定する
-  - 組織のニーズを満たすために Microsoft 365 コンポーネント サービスを最適に使用する方法について理解する
-  - Microsoft 365 サブスクリプションを計画する
-  - 既存のデータを Microsoft 365 に正常に移行するために必要な手順を特定する
-  - Microsoft 365 用に組織を準備する
-  - ネットワークの帯域幅を見積もる
-  - Microsoft が提供するツールを使用して既存のネットワークをテストする
-  - Microsoft 365 に統合するためのベスト プラクティスについて説明する
-  - Microsoft 365 サービスを実装するためのさまざまな導入戦略を特定する
-  - 最新の認証の有無にかかわらず接続するときの認証動作について説明する
-  - Microsoft 365 展開での多要素認証について説明する
-  - ディレクトリ同期と Azure AD Connect Pass-through 認証の計画を作成する
-  - ADFS を実装する際の問題、利点、ベスト プラクティスについて説明する
-  - Azure AD シームレス シングル サインオンの計画
-  - Office 365 へのメールの移行を計画する
-  - ファイル ストレージとコラボレーションの要件を計画する
-  - Microsoft Teams 環境を計画する
-  - Azure AD Connect を使用してユーザーとグループの同期を計画する
-  - ハイブリッド Exchange、SharePoint、および Skype for Business 環境を計画する
-  - 導入計画チェックリストを使用して導入を計画する
-  - Active Directory を分析し、ID 修正ツールを使用して必要なクリーンアップを計画する。
-  - メール、カレンダー、連絡先情報の移動に使用する移行戦略を決定する
-  - 移行戦略を計画する際に考慮すべきパフォーマンスとネットワークの問題について説明する
+  ####
+  * Microsoft 365への移行
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  * 組織の要件に最適なMicrosoft 365サブスクリプションオファリングの決定
+
+  * 組織のニーズを満たすためにMicrosoft 365コンポーネントサービスを最適に使用する方法の理解
+
+  * Microsoft 365サブスクリプションの計画
+
+  * 最新の認証の有無にかかわらず接続するときの認証動作の説明
+
+  * Microsoft 365展開での多要素認証についての説明
+
+  * ディレクトリ同期とAzure AD Connect Passスルー認証の計画の作成
+
+  * ADFSの実装際の問題、利点、およびベストプラクティスの説明
+
+  * Azure AD Seamless Single Sign-Onの計画
+
+  * Microsoft 365への電子メールの移行の計画
+
+  * ファイルストレージとコラボレーションの要件の計画
+
+  * Microsoft Teams環境の計画
+
+  * Azure AD Connectを使用してユーザーとグループの同期の計画
+
+  * ハイブリッドExchange、SharePoint、およびSkype for Business環境の計画
+
+  * 展開計画チェックリストを使用して展開の計画
+
+  * Active Directoryを分析し、ID修正ツールを使用して必要なクリーンアップの計画
+
+  * メール、カレンダー、連絡先情報の移動に使用する移行戦略の決定
+
+  * 移行戦略の計画際に考慮すべきパフォーマンスとネットワークの問題の説明
 
 
-  ### モジュール 2&#58; Microsoft 365 Tenant の構成
-  モジュール 1 は Microsoft 365 テナントの計画に焦点を当てていますが、このモジュールはテナントの構成に移行します。これには、組織プロファイル、テナント サブスクリプション、サービスとアドイン、テナント構成など、Microsoft 365 エクスペリエンスの構成が含まれます。その後、Microsoft 365 のユーザー アカウントとライセンス、セキュリティ グループ、およびドメイン サービスを管理する方法を学びます。最後に、FastTrack およびパートナー サービスを活用する方法を検討します。
+  ### モジュール 2：Microsoft 365テナントの構成
+
+  以前の学習パスはMicrosoft 365テナントの計画に重点を置いていましたが、この学習パスはテナントの構成に移行します。これには、組織プロフィール、テナントサブスクリプション、サービスとアドイン、テナント構成など、Microsoft 365エクスペリエンスの構成が含まれます。次に、Microsoft 365ユーザーアカウントとライセンス、セキュリティグループ、およびドメインサービスの管理方法を学習します。また、クライアント接続の構成方法についても学習します。モジュールは、FastTrackとパートナーサービスを活用する方法を検討することで終了します。
+
   #### レッスン
-  - Microsoft 365 エクスペリエンスの構成
-  - Microsoft 365 でのユーザー アカウントとライセンスの管理
-  - Microsoft 365 でのセキュリティ グループの管理
-  - ドメイン サービスの実装
-  - FastTrack とパートナー サービスの活用
+
+  * Microsoft 365エクスペリエンスの構成
+
+  * Microsoft 365でユーザーアカウントとライセンスの管理
+
+  * Microsoft 365でグループの管理
+
+  * Microsoft 365にカスタムドメインの追加
+
+  * Microsoft 365へのクライアント接続の構成
+
+  * FastTrackとパートナーサービスを使用してMicrosoft 365のサポート
 
 
-  #### ラボ&#58; Microsoft 365 Tenant を構成する
-  - Microsoft 365 Tenant を初期化する
-  - ユーザーとグループを管理する
-  - カスタム ドメインを追加する
+  #### ラボ：Microsoft 365テナントの構成
 
-  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
-  - 会社の組織プロファイルを完成させる
-  - 会社のミニマム サブスクリプション要件を維持する
-  - サービスおよびアドインを管理する
-  - Microsoft 365 のユーザー ID について説明する
-  - Microsoft 365 管理センターと Windows PowerShell の両方からユーザー アカウントを作成する
-  - ユーザー アカウントとライセンスの管理
-  - 削除されたユーザー アカウントを復元する
-  - Microsoft 365 で使用可能なさまざまなタイプのグループについて説明する
-  - Microsoft 365 管理センターから Windows PowerShell を使用してグループを作成および管理する
-  - ドメイン サービスを実装する
-  - カスタム ドメインの DNS を計画する
-  - カスタム ドメインの DNS レコード要件を特定する
-  - Microsoft 365 にカスタム ドメインを追加する
-  - お客様が Microsoft 365 を展開する際に FastTrack for Microsoft 365 がどのように役立つかについて説明する
-  - パートナーに FastTrack プロセスの支援を依頼する
+  ####
+  * Microsoft 365テナントの初期化
+  *ユーザーとグループの管理
+  *カスタムドメインの追加
 
+  このモジュールを完了すると、受講者は次のことができるようになります。
 
-  ### モジュール 3&#58; Microsoft 365 Tenant の管理
-  前のモジュールでは、Microsoft 365 テナントを計画および構成する方法を学びました。このモジュールでは、導入後にテナントを管理する方法を学び、導入プロセスの次のステップに進みます。これには、Microsoft 365 管理者のロールの構成、テナントの正常性とサービスの管理、およびエンタープライズ向け Microsoft 365 Apps (以前の Office 365 ProPlus) のユーザー主導の集中型展開の管理が含まれます。
+  * 会社の組織プロフィールを完成
+
+  * 会社の最小サブスクリプション要件の維持
+
+  * サービスとアドインの管理
+
+  * Microsoft 365のユーザーアイデンティティの説明
+
+  * Microsoft 365管理センターとWindows PowerShellの両方からユーザーアカウントの作成
+
+  * ユーザーアカウントとライセンスの管理
+
+  * 削除されたユーザーアカウントの回復
+
+  * Microsoft 365で利用可能なさまざまな種類のグループについての説明
+
+  * Microsoft 365管理センターから、Windows PowerShellを使用してグループを作成および管理
+
+  * ドメインサービスの実装
+
+  * カスタムドメインのDNSの計画
+
+  * カスタムドメインのDNSレコード要件の特定
+
+  * カスタムドメインをMicrosoft 365に追加
+
+  * Microsoft 365用FastTrack がお客様のMicrosoft 365の展開にどのように役立つかの説明
+
+  * FastTrackプロセスを支援するパートナーのリクエスト
+
+  * 自動クライアント構成の仕組みの説明
+
+  * クライアント構成に必要なDNSレコードの説明
+
+  * Outlookクライアントの構成
+
+  * Azure Active Directory多要素認証の構成
+
+  * クライアント接続のトラブルシューティング
+
+  ### モジュール 3：Microsoft 365テナントの管理
+
+  以前の学習パスでは、Microsoft 365テナントを計画および構成する方法を学習しました。この学習パスでは、実装後にテナントの管理方法を学習することにより、展開プロセスの次のステップに進みます。これには、Microsoft 365管理者の役割の構成、テナントの状態とサービスの管理、エンタープライズ向けMicrosoft 365アプリ（以前のOffice 365 ProPlus）のユーザー主導の展開の管理、Office Telemetryの管理が含まれます。
+
   #### レッスン
-  - Microsoft 365 管理者ロールの構成
-  - テナントの健康とサービスの管理
-  - ユーザー主導のクライアント インストールの管理
-  - エンタープライズ展開向けの集中型 Microsoft 365 Apps の管理
+
+  * Microsoft 365で管理者の役割の構成
+
+  * Microsoft 365でテナントの状態とサービスの管理
+
+  * ユーザー主導のエンタープライズ用Microsoft 365アプリ展開の管理
+
+  * Office Telemetryの実装
+
+  * Workplace Analyticsの実装
 
 
-  #### ラボ&#58; Microsoft 365 Tenant を管理する
-  - 管理委任の管理
-  - Microsoft 365 の監視とトラブルシューティング
-  - エンタープライズ向け Microsoft 365 Apps をインストールする
+  #### ラボ：Microsoft 365テナントの管理
 
-  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
-  - Microsoft 365 の主な管理者の役割について説明する
-  - 主な管理者の役割の主な責任を特定する
-  - テナント ロールを構成する
-  - Microsoft 365 管理センターで組織の Microsoft 365 サービスの状態を監視する
-  - Microsoft 365 サービスのインシデントに対処するためのインシデント対応計画を作成する
-  - テクニカル サポート、プリセールス、請求、サブスクリプション サポートに対応するために、Microsoft に支援を要請する
-  - エンタープライズ向け Microsoft 365 Apps の click-to-run テクノロジの仕組みについて説明する
-  - エンタープライズ向け Microsoft 365 Apps ライセンスおよびアクティベーション プロセスについて説明する
-  - 組織に適用可能なアップデート ブランチを計画する
-  - ユーザーにアップデート ブランチを適用するために使用する方法を計画する
-  - エンタープライズ向け Microsoft 365 Apps のインストールの成功を妨げる典型的な障害を特定する
-  - ユーザーがエンタープライズ向け Microsoft 365 Apps をインストールできないようにする方法を特定する
-  - Office デプロイメント ツールを使用してエンタープライズ向け Microsoft 365 Apps をインストールして構成する
-  - Group Policy を使用してエンタープライズ向け Microsoft 365 Apps を展開する
-  - エンタープライズ向け Microsoft 365 Apps の更新を管理する方法について説明する
+  ####
+  *管理委任の管理
+  * Microsoft 365のモニタリングとトラブルシューティング
+  *エンタープライズ向けMicrosoft 365アプリをインストール
 
+  このモジュールを完了すると、受講者は次のことができるようになります。
 
-  ### モジュール 4&#58; Office 365 の概要
-  このモジュールでは、Exchange Online、SharePoint Online、Teams、Power Apps、Power Automate、Power BI、Power Virtual Agents などの Microsoft 365 サービスの主要な機能を調べます。このモジュールでは、追加の Microsoft 365 リソースも紹介し、Microsoft Intune、セキュリティ ベースライン、および条件付きアクセスを使用したデバイス管理の概要を提供します。
+  * Microsoft 365の主要な管理者の役割の説明
+
+  * 主要な管理者の役割の主な責任の特定
+
+  * テナントの役割の構成
+
+  * Microsoft 365管理センターで組織のMicrosoft 365サービスの状態をモニタリング
+
+  * Microsoft 365サービスのインシデントに対処するためのインシデント対応計画の作成
+
+  * 技術、プリセールス、請求、およびサブスクリプションのサポートに対応するために、Microsoftに支援を要求
+
+  * エンタープライズクイック実行テクノロジ用のMicrosoft 365アプリがどのように機能するかの説明
+
+  * エンタープライズライセンスおよびアクティベーションプロセス用のMicrosoft 365アプリについての説明
+
+  * どの更新ブランチが組織に適用できるかの計画
+
+  * ユーザーに更新ブランチを適用するために使用する方法の計画
+
+  * エンタープライズインストール用のMicrosoft 365アプリの成功を妨げる典型的な障害の特定
+
+  * ユーザーがエンタープライズ用Microsoft 365アプリ をインストールできないようにする方法の特定
+
+  * Office デプロイメントツールを使用してエンタープライズ向けのMicrosoft 365アプリをインストールおよび構成
+
+  * Office Telemetryのインストールの計画
+
+  * Office Telemetryをインストールして構成
+
+  * Workplace Analyticsでデータ保護とデータプライバシーについての説明
+
+  * Workplace Analyticsの構成
+
+  ### モジュール 4：Microsoft 365プラットフォームサービスの探索
+
+  この学習パスでは、Exchange Online、SharePoint Online、Microsoft Teams、およびPower Apps、Power Automate、Power BI、Power Virtual AgentsなどのMicrosoft Power Platformを含む主要なMicrosoft 365サービスの主要な機能を検証します。
+
   #### レッスン
-  - Exchange Online の概要
-  - SharePoint Online の概要
-  - Teams の概要
-  - Power Platform の概要
-  - Power アプリの概要
-  - Power Automate の概要
-  - Power BI の概要
-  - Power Virtual Agents の概要
-  - 追加リソースの概要
-  - デバイス管理の概要
+
+  * Microsoft 365 Enterprise AdministratorとしてExchange Onlineの探索
+
+  * Microsoft 365 Enterprise AdministratorとしてSharePoint Onlineの探索
+
+  * Microsoft 365 Enterprise AdministratorとしてMicrosoft Teamsの探索
+
+  * Microsoft 365 Enterprise AdministratorとしてMicrosoft Power Platformの探索
+
+  * Power Appsを使用してMicrosoft 365 Enterprise Administratorとしてアプリの作成
+
+  * Power Automateを使用してMicrosoft 365 Enterprise Administratorとしてフローの作成
+
+  * Power BIを使用してMicrosoft 365 Enterprise Administratorとしてレポートとダッシュボードの作成
+
+  * Power Virtual Agentsを使用してMicrosoft 365 Enterprise Administratorとしてチャットボットの作成
 
 
-  #### ラボ&#58; Office 365 機能のレビュー
-  - Exchange Online の主な機能を確認する
-  - SharePoint Online の主な機能を確認する
-  - SharePoint でチケット システムを作成する
-  - Microsoft Teams の主な機能を確認する
-  - Power Platform 管理センターを探索する
-  - SharePoint データ ソースから Power App を作成する
-  - Power App を最初から作成する
-  - Power Automate を使用してフローを作成する
-  - Power Automate を使用して DLP Policy を作成する
-  - Power BI レポートとダッシュボードを作成する
+  #### ラボ：Office 365の機能の確認
 
-  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
-  - Exchange Online で利用できる最も一般的な受信者の種類について説明する
-  - Exchange Online でマルウェア対策およびスパム対策ポリシーを管理する
-  - 会社やユーザーのメールに関連する組織の障害回復ニーズを計画する
-  - 組織のメール ライフサイクルの管理に役立つ保持タグとポリシーを決定する
-  - 移行と共存の戦略について説明し、それらの違いについて理解する
-  - 組織に適したメール移行戦略を選択する
-  - Office 365 の移行でドメインの DNS MX レ コードをいつ変更するかを決定する
-  - ハイブリッド Exchange 環境でメールボックスを Office 365 に移行するさまざまな方法について説明する
-  - 組織が SharePoint Online で使用する必要があるアクセス許可レベルを決定する
-  - 保存中のデータと SharePoint Online 内で転送中のデータの暗号化レベルについて説明する
-  - イントラネットのコンテンツを維持および回復するための SharePoint Online オプションについて説明する
-  - SharePoint Online でマルウェア対策保護を提供するさまざまなオプションについて説明する
-  - チームの基本的な機能とその目標をサポートするインフラストラクチャについて説明する
-  - Office 365 における Teams とその他のコラボレーション アプリとの比較について説明する
-  - Office 365 管理センターと PowerShell でユーザー ライセンスを管理して、チーム アクセスを提供する
-  - Microsoft Teams の Guess アクセスによって提供される機能について説明する
-  - Microsoft Teams で利用可能な電話会議機能について説明する
-  - 電話会議のユーザー設定を管理する
-  - Microsoft Teams に電話システムを実装する
-  - Power Platform 製品ファミリを構成するコンポーネントを特定する
-  - Power Platform Admin センターの基本機能について説明する
-  - ビジネスへの影響や主要なコンポーネントなど、Power App とは何かについて説明する
-  - Power App がデータ ソースに接続する方法について説明する
-  - 基本的な Power App を作成する
-  - Power App をテストおよび監視する
-  - Power App を実行する
-  - Power App のセキュリティ構造について説明する
-  - Power Automate を使用して基本的なワークフローを構築して実行する
-  - Power Automate を管理する
-  - 基本的な Power BI レポートとダッシュボードを作成して共有する
-  - Power BI を管理する
-  - Power Virtual Agents とは何か、および強力なボットを簡単に作成するためにチームに力を与える方法について説明する
-  - Power Virtual Agents の主な機能について説明する
-  - デバイス管理によって組織がリソースとデータを保護および保護する方法について説明する
-  - 組織が Microsoft Intune を使用して専有データを保護する方法について説明する
-  - デバイスを保護するためのセキュリティ ベースラインを管理する
-  - 条件付きアクセスを使用してデバイスとアプリを管理する
+  ####
+  * Exchange Onlineの確認
+  * SharePoint Onlineの確認
+  * SharePoint Onlineにチケットシステムの実装
+  * Microsoft Teamsの確認
+  *  Power Platform Admin Centerの探索
+  * SharePointデータソースからPower Appの作成
+  * Power Appを一から作成
+  * Power Automateを使用してフローを作成および共有
+  * Power Automateを使用してDLPポリシーの実装
+  * Power BIレポートとダッシュボードの作成
 
+  このモジュールを完了すると、受講者は次のことができるようになります。
 
-  ### モジュール 5&#58; Microsoft 365 Client の構成
-  このモジュールでは、モバイル クライアントやオフラインで動作するクライアントを含む Microsoft 365 クライアントを紹介します。このモジュールでは、自動クライアント構成、自動クライアント構成に必要な DNS レコード、Outlook クライアントの構成、MFA の構成、クライアント接続のトラブルシューティングなど、Microsoft 365 へのOffice クライアント接続の構成方法についても説明します。
+  * Exchange Onlineで利用できる最も一般的な受信者の種類の説明
+
+  * Exchange Onlineでマルウェア対策およびスパム対策ポリシーの管理
+
+  * 会社とユーザーの電子メールに関連する組織のディザスタリカバリのニーズの計画
+
+  * 組織のメールライフサイクルの管理に役立つ保持タグとポリシーの決定
+
+  * 移行と共存の戦略を説明し、それらの違いの理解
+
+  * 組織に適したメール移行戦略の選択
+
+  * Microsoft 365移行でドメインのDNS MXレコードをいつ変更するかの決定
+
+  * ハイブリッドExchange環境でメールボックスをMicrosoft 365に移行するさまざまな方法の説明
+
+  * 組織がSharePoint Onlineで使用する必要があるアクセス許可レベルの決定
+
+  * SharePoint Online内の保存データと転送中のデータの暗号化レベルの説明
+
+  * イントラネットのコンテンツを維持および回復するためのSharePoint Onlineオプションについての説明
+
+  * SharePoint Onlineでマルウェア対策保護を提供するさまざまなオプションについての説明
+
+  * 基本的なTeamsの機能とその目標をサポートするインフラストラクチャについての説明
+
+  * TeamsがMicrosoft 365の他のコラボレーションアプリとどのように比較されるかの説明
+
+  * Microsoft 365 Admin CenterとPowerShellでユーザーライセンスを管理して、Teamsにアクセスを提供
+
+  * Microsoft Teamsの推測アクセスによって提供される機能についての説明
+
+  * Microsoft Teamsで利用できる音声会議機能についての説明
+
+  * 音声会議のユーザー設定の管理
+
+  * Microsoft Teamsに電話システムの実装
+
+  * Microsoft Power Platform製品ファミリの構成コンポーネントの特定
+
+  * Microsoft  Power Platform Admin Centerの基本機能についての説明
+
+  *ビジネスへの影響や主要コンポーネントなど、Power Appsとは何かの説明
+
+  * Power Appsがデータソースに接続する方法の説明
+
+  * 基本的なPower Appの作成
+
+  * Power Appをテストおよびモニタリング
+
+  * Power Appを実行
+
+  * Power Appsのセキュリティ構造についての説明
+
+  * Power Automateを使用して基本的なワークフローを構築して実行
+
+  * Power Automateの管理
+
+  * 基本的なPower BIレポートとダッシュボードを作成して共有
+
+  * Power BIの管理
+
+  * Power Virtual Agentとは何か、そしてチームが強力なボットを簡単に作成できるようにする方法の説明
+
+  * Power Virtual Agentの主な機能についての説明
+ 
+  * Power Virtual Agentsを使用してチャットボットを作成する方法の説明
+
+  ### モジュール 5：アイデンティティ同期の計画と実装
+
+  この学習パスは、Azure Active Directory Connectに焦点を当てて、Microsoft 365 identity同期の詳細な調査を提供します。 Azure AD Connectを計画および実装する方法、同期されたアイデンティティの管理方法、および多要素認証とセルフサービスパスワード管理を使用してMicrosoft 365でパスワード管理の実装方法を学習します。
+
   #### レッスン
-  - Microsoft 365 クライアントの概要
-  - Microsoft 365 へのオフライン クライアント接続の構成
 
-  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
-  - Microsoft 365 でサポートされているクライアント パッケージを特定する
-  - Microsoft 365 でサポートされるモバイル クライアントを特定する
-  - 各モバイル クライアント プラットフォームで利用可能な Microsoft 365 機能を特定する
-  - Office Online、エンタープライズ向け Microsoft 365 Apps、Office 2016 Professional Plus を比較する
-  - Office Online アプリを操作する
-  - Outlook が自動検出を利用して Outlook クライアントを Exchange Online に最初に接続する方法について説明する
-  - Outlook が自動検出を使用して Office 365 のサービスを見つけるために必要な DNS レコードを特定する
-  - Outlook が Office 365 に接続できるようにする接続プロトコルについて説明する
-  - MFA がユーザー検証のレイヤーを追加することでセキュリティを向上させる方法について説明する
+  * アイデンティティの同期の探索
+
+  * Azure AD Connectの実装の計画
+
+  * Azure AD Connectの実装
+
+  * 同期されたアイデンティティの管理
+
+  * Microsoft 365でのパスワード管理についての探索
 
 
-  ### モジュール 6&#58; ユーザー主導のデータのキャプチャ
-  このモジュールでは、Office Telemetry と Workplace Analytics を使用してユーザー主導のデータをキャプチャする方法を調べます。
+  #### ラボ：アイデンティティの管理
+
+  ####
+  * アイデンティティ同期の準備
+  * アイデンティティ同期の実装
+  *パスワード管理の実装
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+
+  * Microsoft 365認証オプションについての説明
+
+  * ディレクトリ同期についての説明
+
+  * Azure AD Connectの概要の説明
+
+  * ディレクトリ同期を計画して、オンプレミスのActive DirectoryオブジェクトをAzure ADに同期
+
+  * Azure AD Connectの実装の計画
+
+  * マルチフォレストシナリオでのAzure AD Connectの計画
+
+  * Azure AD Connectの前提条件の構成
+
+  * Azure AD Connectをセットアップする
+
+  * Azure AD Connect Healthについての説明
+
+  * タスクを実行して、ユーザーが効率的に同期し、Azure AD Connectを正常にデプロイ
+
+  * ディレクトリ同期でグループの管理
+
+  * Azure AD Connect Sync Security Groupsを使用して、Azure AD Connectの制御を他のユーザーに委任
+
+  * さまざまなトラブルシューティングタスクとツールを使用してディレクトリ同期のトラブルシューティングの実行
+
+  * Microsoft 365で利用可能なパスワード管理機能についての説明
+
+  ### モジュール 6：Azure ADにアプリケーションと外部アクセスの実装
+
+  この学習パスは、アプリケーションと外部アクセスの実装に関する包括的な外観をご提供します。マルチテナントアプリケーションの構成方法など、Azure Active Directoryでアプリケーションを追加および管理する方法を学習します。次に、コネクタをインストールして登録する方法や、リモートアクセス用のオンプレミスアプリを公開する方法など、Azure AD Application Proxyの構成方法を確認します。最後に、外部アクセスのソリューションを設計および管理する方法を検討します。これには、Azure AD B2Bコラボレーションのライセンスガイダンス、コラボレーションユーザーの作成、およびB2Bコラボレーションのトラブルシューティングが含まれます。
+
   #### レッスン
-  - の構成 Office Telemetry
-  - Workplace Analytics の構成
 
-  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
-  - Office Telemetry Dashboard の 5 つのコンポーネントを特定する
-  - 一般的な展開の要件と、展開がオフのときに発生する可能性がある問題について説明する
-  - Office Telemetry Agent によって収集されるデータの種類について説明する
-  - Office Telemetry をインストールして構成する
-  - Workplace Analytics が組織にどのように役立つかについて説明する
-  - 組織による Workplace Analytics の使用方法について説明する
-  - Workplace Analytics を構成する
-  - Workplace Analytics にデバイスを登録する
-  - Workplace Analytics を使用して準備状況を評価する
+  * Azure ADにアプリケーションの実装
+
+  * Azure AD Application Proxy構成
+  
+  * 外部アクセスのソリューションの探索
 
 
-  ### モジュール 7&#58; ID 同期の計画と実装
-  このモジュールでは、Azure Active Directory Connect に焦点を当てた、Microsoft 365 ID 同期の詳細な調査を提供します。Azure AD Connect を計画および実装する方法、同期済みの ID を管理する方法、および多要素認証とセルフサービス パスワード管理を使用して Microsoft 365 にパスワード管理を実装する方法を学習します。
-  #### レッスン
-  - Identity Synchronization の概要
-  - Azure AD Connect の計画
-  - Azure AD Connect の実装
-  - 同期済みID の管理
-  - Microsoft 365 におけるパスワード管理
+  このモジュールを完了すると、受講者は次のことができるようになります。
 
+  * Azure ADテナント内にアプリケーションまたはサービスの登録
 
-  #### ラボ&#58; ID の管理
-  - ID 同期の準備
-  - Identity Synchronization の実装
-  - パスワード管理を実装する
+  * Azure AD同意フレームワーク内でアプリケーションの更新
 
-  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
-  - Microsoft 365 認証オプションについて説明する
-  - ディレクトリ同期について説明する
-  - Azure AD Connect の概要を提供する
-  - ディレクトリ同期を計画して、オンプレミスの Active Directory オブジェクトを Azure AD に同期する
-  - Azure AD Connect の実装を計画する
-  - 複数フォレストのシナリオで Azure AD Connect を計画する
-  - Azure AD Connect Prerequisites を構成する
-  - Azure AD Connect を設定する
-  - Azure AD Connect Healthを-します。
-  - ユーザーが効率的に同期し、Azure AD Connect を正常に展開できるようにするタスクを実行する
-  - ディレクトリ同期でグループを管理する
-  - Azure AD Connect Sync Security Groups を使用して、Azure AD Connect の制御を他のユーザーに委任する
-  - さまざまなトラブルシューティング タスクとツールを使用して、ディレクトリ同期のトラブルシューティングを行う
-  - Microsoft 365 で利用可能なパスワード管理機能について説明する
+  * シングルテナントアプリケーションの構成を変更して、マルチテナントアプリケーションに変更
 
+  * Azure ADテナントからアプリケーションの登録の削除
 
-  ### モジュール 8&#58; アプリケーションと外部アクセスの実装
-  このモジュールでは、アプリケーションと外部アクセスの実装について包括的な見解を提供します。マルチ テナント アプリケーションの構成方法など、Azure Active Directory でアプリケーションを追加および管理する方法を学習します。次に、コネクタをインストールして登録する方法や、リモート アクセス用のオンプレミスアプリを公開する方法など、Azure AD アプリケーション プロキシを構成する方法を調べます。最後に、外部アクセスのためのソリューションを設計および管理する方法を検討します。これには、Azure AD B2B コラボレーションのライセンス ガイダンス、コラボレーション ユーザーの作成、B2B コラボレーションのトラブル シューティングが含まれます。
-  #### レッスン
-  - Azure AD でのアプリケーションの実装
-  - Azure AD アプリ プロキシの構成
-  - External Access のためのソリューション
+  * Azure AD Application Proxyの利点とその仕組みの説明
 
-  本モジュールを終了すると、受講者は以下のことができるようになります&#58;
-  - Azure AD テナント内でアプリケーションまたはサービスを登録する
-  - Azure AD コンセント フレームワーク内でアプリケーションを更新する
-  - シングル テナント アプリケーションの構成を変更してマルチ テナント アプリケーションにする
-  - アプリケーションの登録を Azure AD テナントから削除する
-  - Azure AD アプリケーション プロキシの利点とその仕組みについて説明する
-  - Azure AD アプリケーション プロキシの前提条件を特定する
-  - コネクタをインストールして登録し、正しくインストールされていることを確認する
-  - オンプレミス アプリをリモート アクセス用に公開し、公開アプリをテストして機能することを確認する
-  - Azure AD B2B コラボレーションで外部アクセスを管理する。
-  - Microsoft 365 外部アクセスと Azure AD B2B コラボレーションの違いについて説明する
-  - 共同ユーザーの属性について説明する。
-  - Azure B2B コラボレーションを実証する
-  - Microsoft Teams を使用して外部アクセスとゲスト アクセスを管理する
-  - 顧客のロックボックス リクエストを管理する
+  * Azure AD Application Proxyの前提条件の特定
+
+  * コネクタを取り付けて登録し、正しく取り付けられていることを確認
+
+  * リモートアクセス用にオンプレミスアプリを公開し、公開されたアプリをテストして機能することを確認
+
+  * Azure AD B2Bコラボレーションを使用して外部アクセスの管理。
+
+  * Microsoft 365外部アクセスとAzure AD B2Bコラボレーションの違いの説明
+
+  * 共同ユーザーの属性の説明
+
+  * Azure B2Bコラボレーションのデモンストレーション
+
+  * Microsoft Teamsを使用して外部アクセスとゲストアクセスの管理
+
+  * 顧客のロックボックスリクエストの管理
 
