@@ -1,0 +1,99 @@
+### YamlMime:Course
+title: Writing Reports with Report Builder and SSRS Level 3
+metadata:
+  title: 'Course 55236-A: Writing Reports with Report Builder and SSRS Level 3'
+  description: 'Course 55236-A: Writing Reports with Report Builder and SSRS Level 3'
+uid: course.55236
+courseNumber: '55236-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: シェイプを使用して、強化されたカスタムレポートのビジュアライゼーションの作成。
+- skill: SSRSレポートでのVisual Basicプログラミングの使用の理解。
+- skill: SSRSレポートでVisual Basicコードを使用し、サポートが可能。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- sql-server
+summary: |-
+  このワンデイコースでは、受講者はMicrosoft® SQL Server® Report BuilderとSSRSを使用したレポート作成の学習を継続していきます。 このコースの焦点は、カスタムレポートの視覚化とSSRSレポートでのVisual Basicプログラミングの使用を強化することです。 レポートでのVisual Basicプログラミングのサポートは、今日のレポート環境では通常の要件です。このコースでは、グループディスカッション、ワークシート、プラクティス、デモンストレーション、およびラボアクティビティを使用して必要な情報を示します。 レポートビルダーは、サポートされているすべてのバージョンのMicrosoft SQL Serverでご利用いただけます。
+
+  #### オーディエンスプロフィール
+  このコースの主な対象者は、レポートビルダーとSSRSの経験者です。 このコースの二次対象者は、経験豊富なレポートデザイナー（SSRS）のレポート作成者です。 このコースはビジネスアナリスト、プログラマーアナリスト、データアナリスト、データベース管理者、またはITプロフェッショナル等を対象としています。 
+prerequisitesSection: |-
+  このコースに参加する前に、受講者は以下が必要があります&#58;
+  - Windowsに精通。
+  - フォルダの作成とナビゲート。
+  - プログラムを開く。
+  - windowsの操作。
+  - テキストのコピー、貼り付け、およびフォーマット。
+  - ファイルの保存。
+  - Course 55128&#58; Writing Reports with Report Builder and SSRS Level 2
+  - Microsoft® Office Access 2013&#58; Level 1、または基本的なデータベースの概念について同等の経験。
+outlineSection: |-
+  ### モジュール 1&#58; 強化されたビジュアライゼーションの作成
+  このモジュールでは、形状、四角形、画像、およびデータ領域を使用して強化された視覚化を作成するレポートフォーマット手法をご 介します。 カスタマイズおよび強化されたレポートの視覚化をサポートするには、このコースでは、レポートに表示されるアイテムの制御をサポートする特定のプロパティを確認する必要があります。   
+  #### レッスン
+  - レポートにおける形状の重要性
+  - 長方形を使用した強化された視覚化
+  - レポートアイテム表示の制御
+  - Tablixでタイルの作成
+
+
+  #### ラボ&#58; 強化されたビジュアライゼーションの作成
+  - 長方形を使用してレポートにタイルの作成
+  - テキストボックスを使用してTablixでタイルの作成
+  - テキストボックスタイル、Tablixタイル、およびTablixesを使用して強化された視覚化を作成
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - レポートで図形を使用するための主な機能、使用法、およびアプローチについての説明。
+  - 長方形ツールをより完全に理解。
+  - レポートアイテムの表示に影響を与えるレポートアイテムのプロパティの操作。
+  - テキストボックスではなくタイルを表示して、データ領域の変換。
+
+
+  ### モジュール 2&#58; Visual Basic
+  このモジュールでは、Microsoft Visual Basicプログラミング言語を紹介します。 このモジュールの目標は、プログラミング言語とその使用をプログラマー以外の人にとって意味のあるものにすることです。 このモジュールでは、コースハンドブック、グループディスカッション、ワークシート、およびレビューを使用して、Visual Basicプログラミングをご紹介するだけでなく、コードの機能も理解して頂きます。 
+  #### レッスン
+  - Visual Basicプログラミング言語
+  - Visual Basic言語コンポーネント
+  - 意思決定の構造と手順
+
+
+  #### ラボ&#58; Visual Basicの操作
+  - 式をVisual Basicプロシージャに変換
+  - レポートで値型の操作
+  - レポートで参照型の操作
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - Visual Basicの主な機能についての説明。
+  - Visual Basicの言語要素についての説明。
+  - Visual Basicステートメントとその目的の認識。
+  - 意思決定構造を使用してワークフローロジックの適用。
+  - ビジネスロジックをVisual Basicコードに変換。 
+  
+  ### モジュール 3&#58; SSRSレポートでのVisual Basicの使用
+  レポート作成者は、レポートビルダーアプリケーションで3つの異なる方法でVisual Basic言語を利用できます。 Visual Basicプログラミング言語が設計によって組み込まれたか、既存のレポートから継承されたかに関わらず、レポート作成者は、レポートの目標を達成するために機能をどのように適用できるかを知っておく必要があります。 Visual Basicは、レポートビルダーに必要な言語です。
+  #### レッスン
+  - SSRSレポートのVisual Basic
+  - レポートからVisual Basicコードを呼び出す
+  - レポートでの外部Visual Basicコードの使用
+
+
+  #### ラボ&#58; レポートでのVisual Basicの使用
+  - リテラル、フィールド、およびレポートアイテムで条件付きロジックの使用
+  - Visual Basicを使用してレポートの作成
+  - 外部コードを使用するようにレポートの更新
+  - レポートのVisual Basicエラーのトラブルシューティング
+
+  このモジュールを完了すると、受講者は次のことができるようになります。
+  - SSRSレポートソリューションでのVisual Basicの主な機能と使用法についての説明。
+  - レポートで使用できるVisual Basicコードの3つの実装を認識。
+  - Visual Basicの変数、定数、式、およびプロシージャの作成。
+  - レポート内のカスタムコードを使用して外部アセンブリをリンクして使用。
+  - レポートのVisual Basicエラーのトラブルシューティングの実行。 

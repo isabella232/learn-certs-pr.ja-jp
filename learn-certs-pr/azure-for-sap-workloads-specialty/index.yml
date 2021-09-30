@@ -2,20 +2,21 @@
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
   title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
-  description: 'この試験の候補者は、Microsoft AzureでのSAPソリューションの初期移行または統合、および長期運用に固有のSAPシステムランドスケープと業界標準に関する豊富な経験と知識を持つ設計者またはエンジニアである必要があります。'
+  description: 'SAP用Azureワークロードアーキテクトまたはエンジニアは、クラウド管理者、cloudデータベース管理者、およびクライアントと提携してソリューションを実装します。'
 uid: certification.azure-for-sap-workloads-specialty
+certificationRenewalUid: renewal.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  この試験の候補者は、Microsoft AzureでのSAPソリューションの初期移行または統合、および長期運用に固有のSAPシステムランドスケープと業界標準に関する豊富な経験と知識を持つ設計者またはエンジニアである必要があります。
+  この認定の候補者は、Microsoft AzureでのSAPソリューションの初期移行または統合、および長期運用に固有のSAPシステムランドスケープと業界標準に関する豊富な経験と知識を持つアーキテクトまたはエンジニアである必要があります。
   
   SAP用Azureワークロードの設計者またはエンジニアの責任には、サービスに関する推奨事項の作成と、最適な復元力、パフォーマンス、スケール、プロビジョニング、サイズ、および監視のために必要に応じてリソースを調整することが含まれます。
   
   SAP用Azureワークロードの設計者またはエンジニアは、cloud管理者、cloudデータベース管理者、およびクライアントと提携してソリューションを実装します。
   
-  この試験の候補者は、SAPアプリケーション（SAP HANA、S / 4HANA、SAP NetWeaver、SAP BW / 4HANA、SAPアプリケーションとデータベース用のOSサーバー、Azureポータル、Azure Marketplace、Azure Resource Managerテンプレート（ARMテンプレート））、仮想化、cloudインフラストラクチャ、ストレージ構造、高可用性設計、災害復旧設計、データ保護の概念、およびネットワーキングに関する豊富な経験と知識を持っている必要があります。
+  この認定の候補者は、SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, OSおよびデータベース用のOSサーバー、Azureポータル、Azure Marketplace、Azure Resource Manager templates（ARMテンプレート）、仮想化、クラウドインフラストラクチャ、ストレージ構造、高可用性設計、災害復旧設計、データ保護の概念、およびネットワーキングのようなSAPアプリケーションに関する豊富な経験と知識を持っている必要があります。）、  
   
-  この試験では、SAP認定に加えて、Azure Administrator AssociateまたはAzure Solutions Architect Expertの認定を取得することを強くお勧めしています。
-subTitle: この試験の候補者は、Microsoft AzureでのSAPソリューションの初期移行または統合、および長期運用に固有のSAPシステムランドスケープと業界標準に関する豊富な経験と知識を持つ設計者またはエンジニアである必要があります。
+  AZ-120試験では、SAP認定に加えて、n Azure Administrator AssociateまたはAzure Solutions Architect Expert認定を取得することを強くお勧めします。
+subTitle: SAP Workloadsのアーキテクトまたはエンジニア用Azureは、cloud管理者、cloudデータベース管理者、およびクライアントと提携してソリューションを実装します。
 levels:
 - advanced
 skills:

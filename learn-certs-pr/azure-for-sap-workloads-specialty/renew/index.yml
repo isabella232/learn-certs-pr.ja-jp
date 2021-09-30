@@ -1,0 +1,28 @@
+### YamlMime:CertificationRenewal
+title: 'Microsoft Certified: Azure for SAP Workloads Specialty の更新'
+metadata:
+  title: 'Microsoft Certified: Azure for SAP Workloads Specialty の更新'
+  description: 'この認定資格をお持ちで、6か月以内に有効期限が切れる場合は、更新する資格がございます。'
+uid: renewal.azure-for-sap-workloads-specialty
+certificationUid: certification.azure-for-sap-workloads-specialty
+assessmentId: 42630d0d-7b19-4782-8052-99fe7e540f08
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: |-
+  この認定資格をお持ちで、6か月以内に有効期限が切れる場合は、更新する資格があります。更新評価に合格することで、最新のSAP用のAzureの更新を最新の状態に保っていることを示します。厳選された学習モジュールのコレクションで更新する準備をすることもできます。
+skills:
+- SAPソリューションをAzure上に実装するための計画
+- Power PlatformとSAPでのAzureへの接続
+- Azure VMベースのSAPソリューションの導入
+- SAPワークロードをAzureへの移行
+- AzureでSAP HANAのコンピュート、ネットワーク、及びストレージ 
+- SAPのためAzureのワークロードでIAASサポートの利用
+- SAPワークロードのためのAzureの維持
+- Azure VM上のSAPワークロードに対するAzureモニタリングの実装
+examsPassed:
+- az-120
+studyGuideDescription: 'この学習モジュールのコレクションを使用して、Microsoft Certified：Azure for SAP Workloads Specialtyの更新評価の準備に役立ててください。'
+resources:
+- title: 認定資格の更新について
+  summary: オンラインで認定資格を更新するためのプロセスおよび要件について理解する
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

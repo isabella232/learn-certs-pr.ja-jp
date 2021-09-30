@@ -6,14 +6,16 @@ metadata:
 uid: exam.mb-310
 displayName: MB-310
 summary: |-
-  <div><font color=‘red’><strong>この試験の内容は2021年8月27日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong></font><br/><br/></div>
-
-  この試験の候補者は、ビジネス要件を分析し、それらの要件を業界のベストプラクティスを実装する完全に実現されたビジネスプロセスとソリューションに変換する機能コンサルタントである必要があります。候補者は、ビジネス要件を満たすようにアプリケーションを実装および構成する際の重要なリソースとして機能します。
+  <div>
+  <div> <font color='red'> <strong>この試験の内容は2021年8月27日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong> </font> <br/> <br/> </div>
+  <div> <font color='red'>注：合格点：700。試験の点数の詳細<strong> <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">こちらをご確認ください</a></strong>.</font><br/><br/></div>
+  </div>
+  
+  この試験の受験者は、ビジネス要件を分析し、それらの要件を、業界が推奨するプラクティスを実装する完全に実現されたビジネスプロセスとソリューションに変換します。彼らは、コアファイナンス、製造、小売、およびサプライチェーン管理業務に関連するため、会計原則の基本的な理解と財務業務のより深い理解を持っています。
   <br/>
 
-  この試験の候補者は、買掛金と売掛金、税金、原価計算の原則、固定資産、予算など、企業の会計原則と財務業務について基本的な知識を持っている必要があります。
-  <br/>
-subTitle: 'この試験では、次の技術的タスクを実行する能力を測定します。財務管理の設定と構成。 買掛金と経費を実装かつ管理。売掛金、クレジット、回収、かつ収益認識の実装。 予算と固定資産の管理。'
+  この試験の候補者は通常、コアファイナンス、総勘定元帳、税務、原価計算、固定資産、予算編成、収益認識、統合、クレジットとコレクション、現金と銀行の管理、費用管理、およびプロジェクト管理と会計を含むDynamics 365 Financeのいずれかを得意としているひつようがあります。。彼らは、財務と製造、小売、およびサプライチェーン管理の関係を理解し​ていなければいけません。
+subTitle: 'この試験では、下記、技術的タスクを達成する能力を測定します。財務管理の設定と構成、買掛金と経費を実装および管理、売掛金、クレジット、回収、および収益認識の実装、予算の管理、固定資産の管理。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHU
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-310&examname=Exam%20MB-310:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Financials&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-310
@@ -22,11 +24,12 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は2021年8月27日に更新されます。以下の試験スキルの概要をダウンロードして、変更点をご確認ください。
-- 財務管理の設定かつ構成(50-55%)
-- 買掛金と経費の実装と管理(10-15%)
-- 売掛金、クレジット、回収、かつ収益認識の実装(20-25%)
-- 予算と固定資産の管理(10-15%)
+- 本試験の内容は2021年8月27日に更新されます。 何が変わるのかは、下記の試験技術概要をダウンロードしてご確認ください。
+- 財務管理の設定と構成 (40-45%)
+- 売掛金、クレジット、回収、および収益認識の導入 (15-20%)
+- 買掛金や経費の導入及び管理 (10-15%)
+- 予算の管理 (10-15%)
+- 固定資産の管理 (10-15%)
 roles:
 - functional-consultant
 products:

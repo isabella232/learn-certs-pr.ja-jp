@@ -23,6 +23,9 @@ skillsGained:
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - intermediate
 roles:
@@ -43,7 +46,7 @@ prerequisitesSection: |-
   - Software Development Experience&#58; ソフトウェア開発の経験はこのコースの前提条件ですが、特定のソフトウェア言語は必要ありません。また、経験は専門家レベルである必要はありません。
   - Data Processing Experience&#58; データストレージとデータ処理の一般的な理解が推奨されますが、必須ではありません。
   - 無料オンライン&#58; Azure Fundamentals (https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
-  - インストラクター主導のコース&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01) 
+  - インストラクター主導のコース&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01) 
 outlineSection: |+
   ### モジュール 1&#58; IoTとAzure IoTサービスの概要
   このモジュールでは、受講者は、さまざまなIoT実装のビジネス上の考慮事項を調べ、Azure IoTリファレンスアーキテクチャがIoTソリューションをどのようにサポートしているかを確認することから始めます。 このモジュールでは、IoTソリューションで一般的に使用されるAzureサービスの概要と、Azureポータルの概要についても説明します。

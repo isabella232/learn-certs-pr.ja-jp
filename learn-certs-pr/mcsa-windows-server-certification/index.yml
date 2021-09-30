@@ -13,7 +13,24 @@ subTitle: ITコストを削減し、更なるビジネス価値を提供する�
 levels:
 - intermediate
 skills:
-- なし
+- サーバーのインストールおよび設定 
+- サーバー ロールおよび機能の構成 
+- Hyper-V の構成 
+- コア ネットワーク サービスの展開および設定 
+- Active Directory のインストールと管理  
+- グループ ポリシーの作成および管理 
+- サーバーの展開、管理、保守
+- ファイルと印刷サービスを構成する
+- ネットワーク サービスおよびアクセスの構成
+- Network Policy Server Infrastructure の構成
+- Active Directory の構成および管理
+- グループ ポリシーの構成および管理
+- 高可用性の構成および管理
+- ファイルと記憶域ソリューションの構成
+- ビジネス継続性および障害回復の実装
+- ネットワーク サービスの構成
+- Active Directory Infrastructure を構成する
+- アクセスおよび情報保護ソリューションの構成
 roles:
 - administrator
 type: mcsa
@@ -23,6 +40,7 @@ courses:
 - uid: course.20410
 - uid: course.20411
 - uid: course.20412
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIomH
 exams:
 - uid: exam.70-410
 - uid: exam.70-411

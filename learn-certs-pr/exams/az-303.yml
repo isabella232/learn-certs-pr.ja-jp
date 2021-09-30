@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-303
 displayName: AZ-303
 summary: |-
-  <div><font color='red'><strong>この試験の内容は2021年7月26日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>この試験の内容は2021年9月24日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認してください。</strong></font><br/><br/></div>
 
   この試験の受験者は、コンピューティング、ネットワーク、ストレージ、セキュリティなどの側面を含む、Microsoft Azure で実行されるソリューションの設計と実装に関する専門知識を持っている必要があります。受験希望者の方は、Azureを管理するための中級レベルのスキルを持っている必要があります。受験希望者の方は、Azureの開発とDevOps のプロセスを理解する必要があります。
 
@@ -22,12 +22,20 @@ scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=A
 locales:
 - en
 - ja
-- zh-cn
 - ko
+- fr
+- es
+- pt-br
+- ru
+- ar-sa
+- zh-cn
+- it
+- de
+- zh-tw
 levels:
 - advanced
 skills:
-- この試験の内容は2021年7月26日に更新されました。変更点を確認するには、以下の試験スキルの概要をダウンロードしてください。
+- 本試験の内容は2021年9月24日に更新されます。 何が変わるのかは、下記の試験技術概要をダウンロードしてご確認ください。
 - Azure インフラストラクチャの実装と監視 (50-55%)
 - 管理とセキュリティソリューションを実装します (25-30%)
 - アプリのソリューションを実装 (10-15%)

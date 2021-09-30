@@ -6,15 +6,13 @@ metadata:
 uid: exam.md-100
 displayName: MD-100
 summary: |-
-  <div><strong>この試験の内容は2021年8月5日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong><br/><br/></div>
-
-  2019 年 3 月 31 日に期限が切れる前に [試験 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) に合格した場合、MD-101 を取得するだけで Modern Desktop 認定を取得できます。この試験の受験生は、企業環境でデバイスおよびクライアントアプリケーションを展開、構成、保護、管理、および監視する管理者です。受験生は、ID、アクセス、ポリシー、アップデート、およびアプリを管理します。
-
-  管理者として、受験者は通常、現代の組織のビジネスニーズを満たすデバイス戦略を設計および実装するために、Microsoft 365 Enterprise Administrator と協力します。
-
-  受験者は、Microsoft 365 のワークロードに精通している必要があり、Windows 10 および Windows 以外のデバイスとテクノロジの展開、構成、および保守に精通しており、熟練している必要があります。
-
-  この認定試験に合格すると、ACEカレッジの単位を取得できる可能性がございます。詳細については、[認定試験のためのACEカレッジクレジット](/learn/certifications/ace-credit-for-certification-exams) をご参照ください。
+  <div><font color='red'><strong>この試験の内容は2021年8月5日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong></font><br/><br/></div>
+  
+  この試験の候補者は、エンタープライズ環境でデバイスとクライアントアプリケーションを展開、構成、保護、管理、および監視する管理者です。候補者は、ID、アクセス、ポリシー、更新、およびアプリを管理します。
+  
+  管理者として、候補者は通常、M365 Enterprise Administratorと協力して、現代の組織のビジネスニーズを満たすデバイス戦略を設計および実装します。
+  
+  候補者は、M365 workloadsに精通している必要があり、Windows 10およびWindows以外のデバイスとテクノロジの展開、構成、および保守に精通し、経験を積んでいる必要があります。
 subTitle: 'この試験では、次の技術的タスクを実行する能力を測定します。Windowsの展開、デバイスとデータ管理、ストレージと接続の構成、 Windowsの維持。 2019年3月31日に有効期限が切れる前にExam 70-698に合格した場合は、MD-101を取得するだけでModern Desktop certificationを取得することができます。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVC
@@ -24,11 +22,11 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は2021年8月5日に更新されます。以下の試験スキルの概要をダウンロードして、変更点をご確認ください。
-- Windows の展開 (15-20%)
+- 本試験の内容は2021年8月5日に更新されます。 何が変わるのかは、下記の試験技術概要をダウンロードしてご確認ください。
+-  Windowsを開ける (15-20%)
 - デバイスとデータの管理 (25-30%)
-- ストレージと接続の構成(15-20%)
-- Windows の維持 (30-35%)
+- ストレージと接続性の設定 (15-20%)
+- Windowsのメンテナンス (30-35%)
 roles:
 - administrator
 products:

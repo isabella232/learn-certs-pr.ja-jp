@@ -12,7 +12,6 @@ summary: |-
   この認定資格をお持ちで、6 か月以内に有効期限が切れる場合は、更新する資格があります。更新評価に合格して、Azure Machine Learning の最新のアップデートに関する知識を有していることを示します。厳選された学習モジュールで更新の準備をすることもできます。
 skills:
 - Azure Machine Learning SDK の概要
-- Azure Machine Learning を使用して機械学習モデルをトレーニングする
 - Azure Machine Learning でデータを使用して操作する
 - Azure Machine Learning でコンピューティングを操作する
 - パイプラインを使用して機械学習を調整する

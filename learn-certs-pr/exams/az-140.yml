@@ -6,6 +6,8 @@ metadata:
 uid: exam.az-140
 displayName: AZ-140
 summary: |-
+  <div><font color='red'><strong>この試験の内容は2021年9月24日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認してください。</strong></font><br/><br/></div>
+
   この試験の候補者は、Azure上の任意のデバイスの仮想デスクトップエクスペリエンスとリモートアプリの計画、提供、および管理に関する専門知識を持つ管理者です。
   
   この役割の責任には、仮想デスクトップエクスペリエンスとアプリをAzureにデプロイすることが含まれます。この役割の専門家は、Azure Virtual Desktopでアプリケーションを提供し、マルチセッション仮想環境で実行するようにアプリケーションを最適化します。これらのエクスペリエンスを提供するために、Microsoft 365 Administratorsとともに、Azure管理者およびアーキテクトと緊密に連携します。
@@ -19,10 +21,21 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFS
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=AZ-140&examname=Exam%20AZ-140:%20Configuring%20and%20Operating%20Azure%20Virtual%20Desktop&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-140
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- fr
+- de
+- es
+- pt-br
+- ru
+- ar-sa
+- zh-tw
+- it
 levels:
 - intermediate
 skills:
-- '注：測定された各スキルの下に表示される箇条書きは、そのスキルをどのように評価しているかを説明することを目的としています。このリストは決定的または網羅的ではありません。'
+- 本試験の内容は2021年9月24日に更新されます。 何が変わるのかは、下記の試験技術概要をダウンロードしてご確認ください。
 - Azure Virtual Desktop Architectureの計画（10-15％）
 - Azure Virtual Desktop Infrastructureの実装（25-30％）
 - アクセスとセキュリティの管理（10-15％）

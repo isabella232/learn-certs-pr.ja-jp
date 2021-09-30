@@ -13,12 +13,18 @@ subTitle: '技術分野に進出したい場合は、MTA認定資格がスター
 levels:
 - beginner
 skills:
-- なし
+- コアプログラミングの理解 
+- オブジェクト指向プログラミングの理解
+- 一般的なソフトウェア開発の理解 
+- Webアプリケーションの理解 
+- デスクトップ アプリケーションの理解 
+- データベースの理解 
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdXK
 exams:
 - uid: exam.98-361
 resources:

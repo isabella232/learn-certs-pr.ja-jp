@@ -2,15 +2,15 @@
 title: 'Microsoft 365 Certified: Teams Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teams Administrator Associate'
-  description: この試験の候補者は、Microsoft 365環境での効率的かつ効果的なコラボレーションとコミュニケーションを促進するためにMicrosoft Teamsを管理するMicrosoft Teams管理者です。
+  description: Microsoft Teams管理者は、Microsoft Teamsを管理して、Microsoft 365環境での効率的かつ効果的なコラボレーションとコミュニケーションを促進します。
 uid: certification.m365-teams-administrator-associate
 certificationRenewalUid: renewal.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  この試験の候補者は、Microsoft 365環境での効率的かつ効果的なコラボレーションとコミュニケーションを促進するためにMicrosoft Teamsを管理するMicrosoft Teams管理者です。
+  この認定の候補者は、Microsoft 365環境での効率的かつ効果的なコラボレーションとコミュニケーションを促進するためにMicrosoft Teamsを管理Microsoft Teams管理者です。
   
-  この試験の受験者は、Teamsチャット、アプリ、チャネル、会議、音声またはビデオ会議、ライブイベント、通話、およびMicrosoft Teams認定デバイスを計画、展開、構成、および保護できる必要があります。
-subTitle: この試験の候補者は、Microsoft 365環境での効率的かつ効果的なコラボレーションとコミュニケーションを促進するためにMicrosoft Teamsを管理するMicrosoft Teams管理者です。
+  この認定の候補者は、Teamsチャット、アプリ、チャネル、会議、音声/ビデオ会議、ライブイベント、通話、およびMicrosoft Teams認定デバイスを計画、展開、構成、および保護できる必要があります。
+subTitle: Microsoft Teams管理者は、Microsoft Teamsを管理して、Microsoft 365環境での効率的かつ効果的なコラボレーションとコミュニケーションを促進します。
 levels:
 - intermediate
 skills:
@@ -27,8 +27,10 @@ products:
 courses:
 - uid: course.ms-700t00
 paths:
-- uid: learn-m365.m365-manage-team-collaboration
-- uid: learn-m365.m365-teams-upgrade
+- uid: learn.wwl.get-started-managing-microsoft-teams
+- uid: learn.wwl.prepare-environment-for-microsoft-teams-deployment
+- uid: learn.wwl.manage-chat-teams-channels-apps-microsoft-teams
+- uid: learn.wwl.manage-meetings-calling-microsoft-teams
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnv
 exams:
 - uid: exam.ms-700

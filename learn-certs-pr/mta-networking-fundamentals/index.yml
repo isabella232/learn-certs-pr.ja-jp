@@ -13,12 +13,15 @@ subTitle: '技術分野に進出したい場合は、MTA認定資格がスター
 levels:
 - beginner
 skills:
-- なし
+- ネットワークインフラストラクチャの理解
+- ネットワークハードウェアの理解
+- プロトコルとサービスの理解
 roles:
 - administrator
 type: mta
 products:
 - windows-server
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLo
 exams:
 - uid: exam.98-366
 resources:

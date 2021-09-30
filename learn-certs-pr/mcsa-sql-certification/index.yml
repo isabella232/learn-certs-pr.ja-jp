@@ -13,7 +13,21 @@ subTitle: この認定は、業務上必須の環境の次の需要の波を開�
 levels:
 - advanced
 skills:
-- なし
+- データベース オブジェクトの作成 
+- データの利用 
+- データの変更
+- トラブルシューティングと最適化 
+- インストールと設定 
+- インスタンスおよびデータベースの維持 
+- 最適化およびトラブルシューティング 
+- データの管理 
+- セキュリティの実装 
+- 高可用性の実装 
+- データ ウェアハウスの設計と実装 
+- データの抽出と変換 
+- データの読み込み 
+- SSIS ソリューションの構成と展開 
+- データ品質ソリューションを構築する
 roles:
 - database-administrator
 type: mcsa
@@ -23,6 +37,7 @@ courses:
 - uid: course.20461
 - uid: course.20462
 - uid: course.20463
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdYU
 exams:
 - uid: exam.70-461
 - uid: exam.70-462

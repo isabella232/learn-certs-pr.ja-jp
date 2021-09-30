@@ -13,12 +13,17 @@ subTitle: '技術分野に進出したい場合は、MTA認定資格がスター
 levels:
 - beginner
 skills:
-- なし
+- HTML 基礎の理解
+- CSS基礎を理解する 
+- HTMLを使用する構造ドキュメント
+- HTMLを使用してマルティメディアを表現
+- CSSを使ったスタイルWebページ 
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIolW
 exams:
 - uid: exam.98-383
 resources:

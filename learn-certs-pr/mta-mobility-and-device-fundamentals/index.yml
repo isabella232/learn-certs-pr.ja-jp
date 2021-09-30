@@ -13,12 +13,17 @@ subTitle: '技術分野に進出したい場合は、MTA認定資格がスター
 levels:
 - beginner
 skills:
-- なし
+- デバイスの設定を理解する
+- データアクセスと管理を理解する
+- デバイスのセキュリティを理解する
+- クラウドサービスを理解する
+- 企業のモビリティを理解する
 roles:
 - administrator
 type: mta
 products:
 - windows
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLp
 exams:
 - uid: exam.98-368
 resources:
