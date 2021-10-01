@@ -3,7 +3,7 @@ title: Microsoft Dynamics 365 for Talent
 metadata:
   title: 'Exam MB6-898: Microsoft Dynamics 365 for Talent'
   description: 'Exam MB6-898: Microsoft Dynamics 365 for Talent'
-uid: exam.mb-6-898
+uid: exam.mb6-898
 displayName: MB6-898
 summary: |-
   <div> <font color='red'> <strong>この試験は2021年1月31日に終了しました。現在利用可能なオプションについては、<a href='/learn/certifications/browse/?resource_type=examination'>をご参照ください。認定と試験のページ閲覧</a>.<br/><br/></strong></font></div>
@@ -12,7 +12,7 @@ summary: |-
 
   受験者は通常、ヒューマンキャピタルマネジメント、運用 HR プロセス、および Microsoft Dynamics 365 for Talent を展開、維持、使用する経験について十分な理解が求められます。
 
-  <div style='font-weight&#58; bold;'><br/>試験 MB6-898 は 2018 年 4 月リリースの Dynamics 365 for Talent に適用されます。製品に関する最新の情報については次をご確認ください&#58; <a href="https://aka.ms/talentdocs">https://aka.ms/talentdocs</a>.</div>
+  <div><strong><br/>試験 MB6-898 は 2018 年 4 月リリースの Dynamics 365 for Talent に適用されます。製品に関する最新の情報については次をご確認ください&#58; <a href="https://aka.ms/talentdocs">https://aka.ms/talentdocs</a>.</strong></div>
 subTitle: この試験の受験対象者は、Microsoft Dynamics 365 for Talent のアプリケーション機能をセットアップして使用し、アプリケーションをサポートするMicrosoft Dynamics 365のパートナーです。この試験は、ビジネスソリューションのバックグラウンドを持ち、Microsoft Dynamics 365 for Talent アプリケーションの機能に関する理解を実証したいと考える営業担当者にも適しています。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kd

@@ -13,12 +13,17 @@ subTitle: '技術分野に進出したい場合は、MTA認定資格がスター
 levels:
 - beginner
 skills:
-- なし
+- JavaScript演算子、メソッド、キーワードを使ったプログラミング 
+- 変数、データタイプ、関数でプログラム 
+- 決定とループを実装して分析
+- ドキュメントオブジェクトモデルと相互作用 
+- HTMLフォームと相互作用
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLz
 exams:
 - uid: exam.98-382
 resources:

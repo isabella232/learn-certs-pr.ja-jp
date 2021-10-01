@@ -19,6 +19,21 @@ Microsoftは、業界の動向を継続的に監視し、テクノロジの変�
 
 ## 廃止されたコース: インストラクター主導のトレーニング
 
+* 教材2021年10月29日に廃止
+
+    | コース番号 | バージョン | タイトル | 言語 | 廃止日程 |
+    | --- | --- | --- | --- | --- |
+    | 10997 | D | Office 365 Administration and Troubleshooting | 英語 | 10/29/2021 |
+
+* 教材2021年9月30日に廃止
+
+    | コース番号 | バージョン | タイトル | 言語 | 廃止日程 |
+    | --- | --- | --- | --- | --- |
+    | 40510 | G | Microsoft Cloud Workshop: SQL Server Hybrid Cloud | 英語 | 9/30/2021 |
+    | 40516 | G | Microsoft Cloud Workshop: Intelligent Analytics | 英語 | 9/30/2021 |
+    | 40561 | G | Microsoft Cloud Workshop: Machine Learning | 英語 | 9/30/2021 |
+    | MS-050T00 | A | SharePoint Hybrid Deployment and Migration | 英語 | 9/30/2021 |
+
 * 2021年8月31日のコースウェアの廃止
 
     | コース番号| バージョン| タイトル| 言語| 廃止日|

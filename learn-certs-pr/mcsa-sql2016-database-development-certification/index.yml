@@ -13,7 +13,13 @@ subTitle: この認定は、オンプレミスおよびクラウドベースの�
 levels:
 - advanced
 skills:
-- なし
+- Transact-SQL によるデータの管理 
+- 高度な Transact-SQL コンポーネントによるデータのクエリ
+- Transact-SQL を使用したデータベースのプログラミング
+- データベース オブジェクトの設計と実装 
+- プログラミング オブジェクトの実装 
+- データベースの同時実行の管理 
+- データベース オブジェクトと SQL インフラストラクチャの最適化 
 roles:
 - developer
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20761
 - uid: course.20762
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIomL
 exams:
 - uid: exam.70-761
 - uid: exam.70-762

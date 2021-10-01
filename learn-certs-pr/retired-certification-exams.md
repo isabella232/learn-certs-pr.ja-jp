@@ -20,11 +20,6 @@ ms.prod: non-product-specific
 
 今後12か月以内に廃止される予定の試験は、日付別にここに掲載されています。（この情報は変更される場合があります。）
 
-| 2021年8月31日廃止 |
-| --- |
-| [DP-200](/learn/certifications/exams/dp-200): Implementing an Azure Data Solution |
-| [DP-201](/learn/certifications/exams/dp-201): Designing an Azure Data Solution |
-
 | 2022年6月20日廃止 |
 | --- |
 | [98-349](/learn/certifications/exams/98-349): Windows Operating System Fundamentals |
@@ -51,6 +46,8 @@ ms.prod: non-product-specific
 | [AZ-203](/learn/certifications/exams/AZ-203) | Developing Solutions for Microsoft Azure | 2020年8月31日
 | [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Architect Technologies | 2020年9月30日
 | [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Architect Design | 2020年9月30日
+| [DP-200](/learn/certifications/exams/dp-200) | Implementing an Azure Data Solution | 31 agosto 2021
+| [DP-201](/learn/certifications/exams/dp-201) | Designing an Azure Data Solution | 31 agosto 2021
 | [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 2020 年 12 月 31 日
 | [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 2020 年 12 月 31 日
 | [MB-600](/learn/certifications/exams/mb-600) | Microsoft Dynamics 365 + Power Platform Solution Architect |  2021 年6月30日

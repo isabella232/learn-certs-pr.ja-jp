@@ -6,7 +6,7 @@ metadata:
 uid: exam.ai-102
 displayName: AI-102
 summary: |-
-  <div><font color='red'><strong>この試験の内容は2021年7月29日に更新されました。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong> </font> <br/> <br/> </div>
+  <div><font color='red'><strong>この試験の内容は2021年9月24日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認してください。</strong></font><br/><br/></div>
   
   試験AI-102の候補&#58;Designing and Implementing a Microsoft Azure AI Solutionの設計と実装、Azure Cognitive Services、Azure Cognitive Search、およびMicrosoft Bot Frameworkを活用するAIソリューションを構築、管理、およびデプロイします。
   
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は2021年7月29日に更新されました。以下の試験スキルの概要をダウンロードして、 変更点をご確認ください。
+- 本試験の内容は2021年9月24日に更新されます。 何が変わるのかは、下記の試験技術概要をダウンロードしてご確認ください。
 - Azure Cognitive Servicesソリューションの計画と管理(15-20%)
 - コンピュータビジョンソリューションの実装(20-25%)
 - 自然言語処理ソリューションの実装(20-25%)
@@ -67,6 +67,7 @@ paths:
 - uid: learn.wwl.build-qna-solution
 - uid: learn.wwl.create-conversational-ai-solutions
 - uid: learn.wwl.create-computer-vision-solutions-azure-cognitive-services
+- uid: learn.wwl.extract-text-from-images-documents
 - uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
 relatedCertifications:
 - related:

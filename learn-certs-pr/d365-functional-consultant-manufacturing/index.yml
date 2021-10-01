@@ -21,10 +21,10 @@ subTitle: 'Dynamics 365 Supply Chain Management, Manufacturing Functional Consul
 levels:
 - intermediate
 skills:
-- 共通の機能と実装ツールを使用する
-- セキュリティ、プロセス、およびオプションを構成する
-- 財務および運用データの管理
-- ソリューションの検証とサポート
+- 財務・業務アプリの説明と、Microsoft Power Platformテクノロジーを利用したアプリの拡張 
+- 管理機能とワークフローの設定  
+- 財務・業務データの管理  
+- ソリューションの検証とサポート  
 - Dynamics 365サプライチェーン管理、製造の構成
 - 製造プロセスの管理
 - 生産のためのマスタープランの実装

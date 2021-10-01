@@ -13,12 +13,18 @@ subTitle: '技術分野に進出したい場合は、MTA認定資格がスター
 levels:
 - beginner
 skills:
-- なし
+- サーバーのインストールについて
+- サーバーの役割について
+- Active Directory について 
+- ストレージについて 
+- サーバーのパフォーマンス管理について
+- サーバーのメンテナンスについて
 roles:
 - administrator
 type: mta
 products:
 - windows
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIw9X
 exams:
 - uid: exam.98-365
 resources:
