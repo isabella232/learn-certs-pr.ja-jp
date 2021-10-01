@@ -6,15 +6,17 @@ metadata:
 uid: exam.mb-300
 displayName: MB-300
 summary: |-
-  <div><font color=‘red’><strong>この試験の内容は2021年8月9日に更新されます。以下のスキル測定ドキュメントをダウンロードして、変更点をご確認ください。</strong></font><br/><br/></div>
+  <div>
+  <div> <font color = 'red'> <strong>この試験の内容は2021年8月9日に更新されました。変更点を確認するには、以下のスキル測定ドキュメントをダウンロードしてください。</strong> </font> <br/> <br/> </div>
+  </div>
   
-  この試験の受験者は、ビジネス要件を分析し、それらの要件を、業界のベストプラクティスを実装する完全に実現されたビジネスプロセスとソリューションに変換します。候補者は、ビジネス要件を満たすようにアプリケーションを実装および構成する際の重要なリソースとして機能します。
+  コンサルタント（機能的および技術的）は、ビジネス要件を収集および分析し、それらの要件を、業界が推奨するプラクティスを実装する完全に実現されたビジネスプロセスおよびソリューションに変換します。これらは、ビジネス要件を満たすようにアプリを実装および構成する際の重要なリソースとして機能します。
   <br/>
-  
-  候補者は、Finance and Operationsアプリの一般的な機能と機能、およびそれぞれを構成して使用する方法を理解しています。 また、Finance and Operationsアプリがパワープラットフォームなどの外部システムやツールとどのように統合されているかについても認識している必要があります。候補者は、ライフサイクルサービス（LCS）およびその他のマイクロソフトのツールとプラットフォームを使用して、アプリケーションのライフサイクルを積極的に管理します。
-  
-  この試験の受験者は通常、財務、製造、サプライチェーン管理などの財務および運用アプリの1つ以上の機能セットを専門としています。
-subTitle: 'この試験では、次の技術的タスクを達成する能力を測定します。共通の機能と実装ツールの使用。 セキュリティ、プロセス、およびオプションの構成。 財務および運用データの管理。 ソリューションを検証してサポート。'
+
+  コンサルタントは、Dynamics 365 Finance and Operationsアプリのコアコンポーネントと機能を実装できる必要があります。また、Dynamics 365 Finance and OperationsアプリがPower Platformなどの外部システムやツールとどのように統合されているかについても認識している必要があります。コンサルタントは、 Lifecycle Services (LCS)、 Azure DevOps、およびその他のMicrosoftツールとプラットフォームを使用して、アプリケーションライフサイクル管理 (ALM)プロセスを促進します。
+
+  コンサルタントは、製品のリリースノートを読んだり、製品のロードマップを確認したり、会議に参加したりすることで継続的な教育を追求したり、Microsoft Learn、Microsoft Docs、インストラクター主導のトレーニング、ブログ、ユーザーコミュニティを使用して学習を続けたりします。また、知識が確実に認識されるように、役割ベースの認定と評価を追求する必要があります。
+subTitle: 'この試験では、下記、技術的なタスクを実行する能力を測定します。財務および運用アプリについての説明、Microsoft Power Platformテクノロジーの使用によるアプリの拡張、管理機能とワークフローの構成、 Finance and Operationデータの管理、ソリューションの検証とサポート。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ja-jp&examcode=MB-300&examname=Exam%20MB-300:%20Microsoft%20Dynamics%20365:%20Core Finance%20and%20Operations&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-300
@@ -24,11 +26,11 @@ locales:
 levels:
 - intermediate
 skills:
-- この試験の内容は2021年8月9日に更新されます。以下の試験スキルの概要をダウンロードして、変更点をご確認ください。
-- 共通の機能と実装ツールの使用(15-20%)
-- セキュリティ、プロセス、およびオプションの構成(30-35%)
-- 財務および運用データの管理(25-30%)
-- ソリューションの検証とサポート(15-20%)
+- 本試験の内容は2021年8月9日に更新されます。 何が変わるのかは、下記の試験技術概要をダウンロードしてご確認ください。
+- 財務・業務アプリの説明と、Microsoft Power Platformテクノロジーを利用したアプリの拡張 (20–25%)
+- 管理機能とワークフローの設定 (30–35%)
+- 財務・業務データの管理 (25-30%)
+- ソリューションの検証とサポート (20-25%)
 roles:
 - functional-consultant
 products: 

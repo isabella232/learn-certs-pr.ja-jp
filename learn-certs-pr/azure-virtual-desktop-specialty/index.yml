@@ -8,9 +8,9 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.s
 summary: |-
   Azure Virtual Desktop Specialty認定の候補者は、Azure上の任意のデバイスの仮想デスクトップエクスペリエンスとリモートアプリの計画、提供、および管理に関する専門知識を持つMicrosoft Azure管理者です。
   
-  この役割の責任には、仮想デスクトップエクスペリエンスとアプリをAzureにデプロイすることが含まれます。この役割の専門家は、Windows Virtual Desktopでアプリケーションを提供し、マルチセッション仮想環境で実行するようにアプリケーションを最適化します。これらのエクスペリエンスを提供するために、Microsoft 365管理者とともに、Azure管理者およびアーキテクトと緊密に連携します。
+  この役割の責任には、仮想デスクトップエクスペリエンスとアプリをAzureにデプロイすることが含まれます。この役割の専門家は、Azure Virtual Desktopでアプリケーションを提供し、マルチセッション仮想環境で実行するようにアプリケーションを最適化します。これらのエクスペリエンスを提供するために、Microsoft 365管理者とともに、Azure管理者およびアーキテクトと緊密に連携します。
   
-  この認定資格の候補者は、仮想化、ネットワーキング、アイデンティティ、ストレージ、バックアップ、復元力、ディザスタリカバリなどのAzureテクノロジーの経験が必要です。彼らは、Windows Virtual Desktopへの移行に関連するため、オンプレミスの仮想デスクトップインフラストラクチャテクノロジを理解する必要があります。これらの専門家は、AzureポータルとAzure Resource Manager（ARM）テンプレートを使用して、多くのタスクを実行します。より効率的な自動化のために、PowerShellとAzure Command-Line Interface (CLI)を使用する場合があります。
+  この認定資格の候補者は、仮想化、ネットワーキング、ID、ストレージ、バックアップ、復元力、ディザスタリカバリなどのAzureテクノロジーの経験が必要です。彼らは、Azure Virtual Desktopへの移行に関連するため、オンプレミスの仮想デスクトップインフラストラクチャテクノロジを理解する必要があります。これらの専門家は、AzureポータルとAzure Resource Manager（ARM）テンプレートを使用して、多くのタスクを実行します。より効率的な自動化のために、PowerShellと Azure Command-Line Interface (CLI)を使用する場合があります。
   
   この認定資格の候補者は、専門家のAzure管理スキルを持っている必要があります。
 subTitle: Azure Virtual Desktop Specialty認定の候補者は、Azure上の任意のデバイスの仮想デスクトップエクスペリエンスとリモートアプリの計画、提供、および管理に関する専門知識を持つMicrosoft Azure管理者です。
@@ -47,7 +47,7 @@ products:
 - office-teams
 - azure-monitor
 - azure-advisor
-- windows-virtual-desktop
+- azure-virtual-desktop
 paths:
 - uid: learn-m365.windows-virtual-desktop
 courses:

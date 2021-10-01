@@ -13,7 +13,22 @@ subTitle: ITコストを削減し、更なるビジネス価値を提供する�
 levels:
 - intermediate
 skills:
-- なし
+- ホストおよびコンピューティング環境に Windows サーバーをインストールする 
+- 記憶域ソリューションの実装 
+- Hyper-V の実装 
+- Windows コンテナの実装 
+- 高可用性の実装 
+- サーバー環境の保守と監視
+- ドメイン ネーム システム (DNS) の実装 
+- DHCP と IPAM を実装する
+- ネットワーク接続およびリモート アクセス ソリューションの実装
+- コアおよび分散ネットワーク ソリューションの実装 
+- 高度なネットワーク インフラストラクチャの実装
+- Active Directory ドメイン サービス (AD DS) のインストールと構成 
+- AD DS の管理と保守 
+- グループ ポリシーの作成および管理 
+- Active Directory 証明書サービス (AD CS) の実装 
+- IDフェデレーションおよびアクセスソリューションの実装
 roles:
 - administrator
 type: mcsa
@@ -23,6 +38,7 @@ courses:
 - uid: course.20740
 - uid: course.20741
 - uid: course.20742
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlMC
 exams:
 - uid: exam.70-740
 - uid: exam.70-741

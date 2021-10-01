@@ -13,7 +13,17 @@ subTitle: この認定は、幅広いWindowsデバイスで魅力的なユーザ
 levels:
 - intermediate
 skills:
-- なし
+- プログラム フローの管理 
+- 型の作成と使用 
+- アプリケーションのデバッグとセキュリティの実装 
+- データ アクセスの実装
+- アダプティブ UI の XAML ページ レイアウトの作成 
+- ページ ナビゲーションとライフサイクル イベントの実装 
+- データ アクセスとデータ バインディングの実装 
+- アダプティブ コーディング用の機能検出の実装 
+- ユーザー入力とユーザーのカスタム操作の管理 
+- 認証と ID の管理 
+- 通知、バックグラウンド タスク、再利用可能なコンポーネントの実装 
 roles:
 - administrator
 type: mcsa
@@ -21,6 +31,7 @@ products:
 - vs
 courses:
 - uid: course.20483
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlMD
 exams:
 - uid: exam.70-483
 - uid: exam.70-357

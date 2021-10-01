@@ -14,9 +14,10 @@ skills:
 - Windows Autopilot を使用して Windows の展開を自動化する
 - Microsoft Endpoint Manager を使用してデバイス管理を簡素化する
 - Windows 10 を使用して多くのことを成し遂げ、安全を維持する
-- Microsoft 365 を搭載した最新のデスクトップに移行する
+- cloudでWindowsのアップデートを管理
+- Microsoft Endpoint Managerによるデバイス管理の理解
 - System Center Configuration Manager を使用して共同管理によって Windows 10 を管理する
-- Microsoft Endpoint Manager を使用してデバイス管理を簡素化する
+- Microsoft Endpoint Managerを使用した条件付きアクセスポリシーの理解
 - Windows 10 にデプロイ、アップグレード、および移行する
 - Microsoft Intune を使用してアプリケーションを管理する
 examsPassed:

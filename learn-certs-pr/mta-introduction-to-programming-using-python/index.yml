@@ -13,12 +13,18 @@ subTitle: '技術分野に進出したい場合は、MTA認定資格がスター
 levels:
 - beginner
 skills:
-- なし
+- データ型と演算子を使用して操作を実行する
+- 決定とループを用いた制御フロー 
+- 出力と入力操作の実行 
+- ドキュメントと構造コード 
+- トラブルシューティングとエラー ハンドリングの実行 
+- モジュールとツールを使用して操作を実行する 
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLr
 exams:
 - uid: exam.98-381
 resources:

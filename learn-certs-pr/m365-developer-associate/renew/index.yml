@@ -1,0 +1,25 @@
+### YamlMime:CertificationRenewal
+title: 'Microsoft 365 Certified: Developer Associateのリニューアル'
+metadata:
+  title: 'Microsoft 365 Certified: Developer Associateのリニューアル'
+  description: 'この認定資格をお持ちで、6か月以内に有効期限が切れる場合は、更新する資格がございます。'
+uid: renewal.m365-developer-associate
+certificationUid: certification.m365-developer-associate
+assessmentId: 9036b9d3-e5e5-4d23-b08f-f8c1694a48da
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  この認定資格をお持ちで、6か月以内に有効期限が切れる場合は、更新する資格があります。更新評価に合格して、最新のMicrosoft 365アップデートを最新の状態に保っていることを示します。厳選された学習モジュールのコレクションで更新する準備をす可能です。
+skills:
+- Microsoft Teamsでタスクモジュールを使って入力を収集
+- Microsoft Teams用タブを使って埋め込み型のウェブ体験を作成
+- Microsoft Teams – チームワークのためのMicrosoft Graphエンドポイントの使用
+- Microsoft Teams – 認証とSingle Sign-on
+- Microsoft Teams用のインタラクティブな会話型ボットを作成
+examsPassed:
+- ms-600
+studyGuideDescription: 'こちらの学習モジュールMicrosoft 365 Certified: Developer Associate renewal assessmentのコレクションを使用して準備にお役立ててください。'
+resources:
+- title: 認定資格の更新について
+  summary: オンラインで認定資格を更新するためのプロセスおよび要件について理解する
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

@@ -13,12 +13,17 @@ subTitle: '技術分野に進出したい場合は、MTA認定資格がスター
 levels:
 - beginner
 skills:
-- なし
+- コアデータベースの概念を理解する
+- データベース オブジェクトの作成 
+- データを操作する
+- データストレージを理解する
+- データベースを管理する
 roles:
 - developer
 type: mta
 products:
 - sql-server
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIbrW
 exams:
 - uid: exam.98-364
 resources:

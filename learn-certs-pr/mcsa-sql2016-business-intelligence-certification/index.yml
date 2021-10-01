@@ -13,7 +13,13 @@ subTitle: この認定は、抽出、変換、およびロード(ETL)スキル�
 levels:
 - intermediate
 skills:
-- なし
+- データウェアハウスの設計、実装、および保守
+- データの抽出、変換、読み込み
+- データ品質ソリューションを構築する
+- 多次元のビジネス インテリジェンス (BI) セマンティック モデルの設計 
+- 表形式の BI セマンティック モデルの設計 
+- 多次元式 (MDX) と Data Analysis Expressions (DAX) を使用したクエリの開発 
+- SQL Server Analysis Services (SSAS) の構成と維持
 roles:
 - data-analyst
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20767
 - uid: course.20768
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdYZ
 exams:
 - uid: exam.70-767
 - uid: exam.70-768

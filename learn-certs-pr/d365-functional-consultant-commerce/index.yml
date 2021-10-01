@@ -19,6 +19,10 @@ subTitle: 'Dynamics 365 Commerce機能コンサルタントは、Dynamics 365 Co
 levels:
 - intermediate
 skills:
+- 財務・業務アプリの説明と、Microsoft Power Platformテクノロジーを利用したアプリの拡張 
+- 管理機能とワークフローの設定  
+- 財務・業務データの管理  
+- ソリューションの検証とサポート  
 - Dynamics 365 Commerce司令部の構成(20-25%)
 - 製品、価格、ディスカウント、ロイヤルティ、および所属の構成(20-25%)
 - Dynamics 365 Commerceでの販売時点（POS）の管理(15-20%)
@@ -54,6 +58,9 @@ resources:
 - title: 認定ポスター
   description: Dynamics 365 と Power Platform の基本、ロールベース、専門認定を含む概要を確認してください。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 認証への手順
+  description: 認定を取得するための手順と、準備に役立つリソースをｔこちらで確認してください。 
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWJJ8C
 - title: トレーニングおよび認定資格ガイド
   description: 簡潔なトレーニングおよび認定ガイドですべての認定を確認してください。
   href: https://aka.ms/TrainingCertDeck

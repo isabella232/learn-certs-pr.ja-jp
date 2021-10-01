@@ -13,7 +13,13 @@ subTitle: この認定は、データベースのインストール、メンテ�
 levels:
 - intermediate
 skills:
-- なし
+- データ アクセスと監査の構成 
+- データベースのバックアップと復元の管理 
+- SQL Server インスタンスの管理と監視 (35-40%)
+- High Availability and Disaster Recovery の管理 
+- Azure での SQL の実装 
+- データベースとインスタンスの管理
+- ストレージ管理
 roles:
 - database-administrator
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20764
 - uid: course.20765
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlME
 exams:
 - uid: exam.70-764
 - uid: exam.70-765
